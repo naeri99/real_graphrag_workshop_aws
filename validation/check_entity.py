@@ -117,10 +117,13 @@ def print_entities(entities, show_description=False, show_summary=False):
                 if isinstance(desc, str):
                     try:
                         desc_list = json.loads(desc)
-                        desc = desc_list[0] if desc_list else desc
+                        if isinstance(desc_list, list):
+                            desc = '\n              '.join(desc_list)
+                        else:
+                            desc = str(desc_list)
                     except:
                         pass
-                print(f"     Description: {str(desc)[:100]}...")
+                print(f"     Description: {desc}")
         
         if show_summary and summary:
             print(f"     Summary: {summary[:100]}...")
