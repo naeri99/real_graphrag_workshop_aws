@@ -6,7 +6,7 @@ from strands import Agent
 from strands.models import BedrockModel
 
 # 기본 설정
-DEFAULT_MODEL_ID = "anthropic.claude-sonnet-4-20250514-v1:0"
+DEFAULT_MODEL_ID = "global.anthropic.claude-opus-4-5-20251101-v1:0"
 DEFAULT_REGION = "us-west-2"
 DEFAULT_TEMPERATURE = 0.3
 
