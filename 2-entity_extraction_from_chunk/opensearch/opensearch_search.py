@@ -140,3 +140,66 @@ def resolve_entities(entities: List[Dict], opensearch_client=None, index_name: s
         resolved.append(updated)
     
     return resolved, metrics
+
+
+def resolve_relationships(relationships: List[Dict], opensearch_client=None, index_name: str = "entities") -> Tuple[List[Dict], Dict]:
+    """
+    관계 리스트의 엔티티 이름들을 OpenSearch를 통해 정확한 이름으로 변환합니다.
+    
+    Args:
+        relationships: 관계 리스트
+        opensearch_client: OpenSearch 클라이언트
+        index_name: 검색할 인덱스 이름
+        
+    Returns:
+        tuple: (해결된 관계 리스트, 메트릭)
+    """
+    if opensearch_client is None:
+        opensearch_client = get_opensearch_client()
+    
+    if not relationships:
+        return [], {'source_matched': 0, 'target_matched': 0, 'source_new': 0, 'target_new': 0}
+    
+    resolved = []
+    metrics = {'source_matched': 0, 'target_matched': 0, 'source_new': 0, 'target_new': 0}
+    
+    for rel in relationships:
+        updated = rel.copy()
+        
+        # source_entity 처리
+        source_name = rel.get('source_entity', '').strip()
+        source_type = rel.get('source_type', '').strip()
+        
+        if source_name and source_type:
+            resolved_source, found, _ = search_entity_in_opensearch(
+                source_name, source_type, opensearch_client, index_name
+            )
+            updated['source_entity'] = resolved_source
+            updated['_source_original'] = source_name
+            updated['_source_matched'] = found
+            
+            if found:
+                metrics['source_matched'] += 1
+            else:
+                metrics['source_new'] += 1
+        
+        # target_entity 처리
+        target_name = rel.get('target_entity', '').strip()
+        target_type = rel.get('target_type', '').strip()
+        
+        if target_name and target_type:
+            resolved_target, found, _ = search_entity_in_opensearch(
+                target_name, target_type, opensearch_client, index_name
+            )
+            updated['target_entity'] = resolved_target
+            updated['_target_original'] = target_name
+            updated['_target_matched'] = found
+            
+            if found:
+                metrics['target_matched'] += 1
+            else:
+                metrics['target_new'] += 1
+        
+        resolved.append(updated)
+    
+    return resolved, metrics

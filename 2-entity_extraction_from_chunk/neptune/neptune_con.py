@@ -1,6 +1,6 @@
 """
 Neptune Connection Module
-- AWS Secrets Manager에서 Neptune 엔드포인트 정보 로드
+- 환경변수 또는 기본값으로 Neptune 엔드포인트 정보 로드
 - IAM 인증을 사용한 Neptune 연결
 """
 import os
@@ -8,7 +8,6 @@ import json
 import boto3
 from botocore.auth import SigV4Auth
 from botocore.awsrequest import AWSRequest
-from botocore.exceptions import ClientError
 import requests
 
 
@@ -17,34 +16,11 @@ AWS_REGION = os.environ.get('AWS_DEFAULT_REGION', 'us-west-2')
 
 # 전역 변수
 _neptune_session = None
-_secrets_cache = None
 
-
-def get_secret(secret_name: str = "opensearch-credentials", region_name: str = None) -> dict:
-    """AWS Secrets Manager에서 시크릿을 가져옵니다."""
-    global _secrets_cache
-    
-    if _secrets_cache is not None:
-        return _secrets_cache
-    
-    region = region_name or AWS_REGION
-    session = boto3.session.Session()
-    client = session.client(service_name='secretsmanager', region_name=region)
-    
-    try:
-        get_secret_value_response = client.get_secret_value(SecretId=secret_name)
-        secret = get_secret_value_response['SecretString']
-        _secrets_cache = json.loads(secret)
-        return _secrets_cache
-    except ClientError as e:
-        raise Exception(f"Failed to retrieve secret '{secret_name}': {e}")
-
-
-# Secrets Manager에서 Neptune 설정 로드
-_secrets = get_secret()
-NEPTUNE_ENDPOINT = _secrets.get('neptune_endpoint', '')
-NEPTUNE_PORT = _secrets.get('neptune_port', '8182')
-NEPTUNE_READ_ENDPOINT = _secrets.get('neptune_read_endpoint', '')
+# Neptune 설정 - 환경변수 또는 기본값
+NEPTUNE_ENDPOINT = os.environ.get('NEPTUNE_ENDPOINT', 'workshop-neptune-cluster.cluster-ct8qomue6au1.us-west-2.neptune.amazonaws.com')
+NEPTUNE_PORT = os.environ.get('NEPTUNE_PORT', '8182')
+NEPTUNE_READ_ENDPOINT = os.environ.get('NEPTUNE_READ_ENDPOINT', 'workshop-neptune-cluster.cluster-ro-ct8qomue6au1.us-west-2.neptune.amazonaws.com')
 
 
 def get_neptune_session():
