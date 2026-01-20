@@ -17,7 +17,6 @@ from utils.helper import (
     get_context_from_review_file,
     get_all_review_files,
     print_pipeline_header,
-    print_chunk_stats,
     print_final_stats
 )
 from utils.parse_utils import parse_extraction_output
@@ -36,9 +35,9 @@ from neptune.cyper_queries import (
 # Step 1: Extract entities
 # ============================================================
 
-def extract_entities_from_chunk(chunk: str, movie_context: str = "") -> Tuple[List[Dict], List[Dict]]:
+def extract_entities_from_chunk(chunk: str) -> Tuple[List[Dict], List[Dict]]:
     """Step 1: Extract entities and relationships from chunk"""
-    result = extract_entities({"user_query": chunk}, movie_context)
+    result = extract_entities({"user_query": chunk})
     entities, relationships = parse_extraction_output(result)
     return entities, relationships
 
@@ -51,12 +50,12 @@ def resolve_entity_names(
     entities: List[Dict], 
     opensearch_client,
     index_name: str = "entities"
-) -> Tuple[List[Dict], Dict[str, str]]:
-    """Step 2: Resolve entity names via OpenSearch and return cache"""
-    resolved_entities, name_cache = resolve_entities_with_cache(
+) -> Tuple[List[Dict], Dict[str, str], Dict]:
+    """Step 2: Resolve entity names via OpenSearch and return cache + metrics"""
+    resolved_entities, name_cache, metrics = resolve_entities_with_cache(
         entities, opensearch_client, index_name
     )
-    return resolved_entities, name_cache
+    return resolved_entities, name_cache, metrics
 
 
 # ============================================================
@@ -85,12 +84,12 @@ def resolve_relationship_names(
     name_cache: Dict[str, str],
     opensearch_client,
     index_name: str = "entities"
-) -> List[Dict]:
-    """Step 4: Resolve relationship entity names using cache"""
-    resolved_relationships = resolve_relationships_with_cache(
+) -> Tuple[List[Dict], Dict]:
+    """Step 4: Resolve relationship entity names using cache + metrics"""
+    resolved_relationships, metrics = resolve_relationships_with_cache(
         relationships, name_cache, opensearch_client, index_name
     )
-    return resolved_relationships
+    return resolved_relationships, metrics
 
 
 # ============================================================
@@ -113,7 +112,6 @@ def process_chunk(
     movie_id: str,
     reviewer: str,
     opensearch_client,
-    movie_context: str = "",
     index_name: str = "entities"
 ) -> Dict:
     """
@@ -124,13 +122,23 @@ def process_chunk(
     4. Resolve relationship names using cache
     5. Save relationships to Neptune
     """
-    stats = {'entities_found': 0, 'entities_saved': 0, 'relationships_found': 0, 'relationships_saved': 0}
+    stats = {
+        'entities_found': 0, 
+        'entities_saved': 0, 
+        'relationships_found': 0, 
+        'relationships_saved': 0,
+        'matched_existing': 0,
+        'new_entities': 0,
+        'synonym_exact': 0,
+        'synonym_partial': 0,
+        'name_exact': 0
+    }
     
     chunk_hash = generate_chunk_hash(chunk)
     chunk_id = generate_chunk_id(reviewer, chunk_hash)
     
     # Step 1: Extract entities
-    entities, relationships = extract_entities_from_chunk(chunk, movie_context)
+    entities, relationships = extract_entities_from_chunk(chunk)
     stats['entities_found'] = len(entities)
     stats['relationships_found'] = len(relationships)
     
@@ -138,7 +146,12 @@ def process_chunk(
         return stats
     
     # Step 2: Resolve entity names
-    resolved_entities, name_cache = resolve_entity_names(entities, opensearch_client, index_name)
+    resolved_entities, name_cache, entity_metrics = resolve_entity_names(entities, opensearch_client, index_name)
+    stats['matched_existing'] = entity_metrics['matched_existing']
+    stats['new_entities'] = entity_metrics['new_entities']
+    stats['synonym_exact'] = entity_metrics['synonym_exact']
+    stats['synonym_partial'] = entity_metrics['synonym_partial']
+    stats['name_exact'] = entity_metrics['name_exact']
     
     # Step 3: Save entities
     save_entities_to_neptune(resolved_entities, movie_id, reviewer, chunk_id, chunk)
@@ -148,7 +161,7 @@ def process_chunk(
         return stats
     
     # Step 4: Resolve relationship names
-    resolved_relationships = resolve_relationship_names(relationships, name_cache, opensearch_client, index_name)
+    resolved_relationships, rel_metrics = resolve_relationship_names(relationships, name_cache, opensearch_client, index_name)
     
     # Step 5: Save relationships
     save_relationships_to_neptune(resolved_relationships)
@@ -172,17 +185,16 @@ def process_single_review_file(
     
     흐름:
     1. 파일명에서 영화/리뷰어 파싱 (Alienoid1_Agony.json -> movie, reviewer)
-    2. OpenSearch에서 영화 검색하여 정확한 이름 확인
-    3. context, transcript 추출
-    4. transcript를 청크로 분할
-    5. 각 청크에서 엔티티/관계 추출 및 저장
+    2. CSV에서 영화/리뷰어 정보 확인
+    3. transcript를 청크로 분할
+    4. 각 청크에서 엔티티/관계 추출 및 저장
     """
     import os
     filename = os.path.basename(review_filepath)
     print(f"\n   Processing: {filename}")
     
-    # Step 1-2: context, transcript, movie_id, reviewer 추출
-    context, transcript, movie_id, reviewer = get_context_from_review_file(review_filepath)
+    # Step 1-2: transcript, movie_id, reviewer 추출
+    _, transcript, movie_id, reviewer = get_context_from_review_file(review_filepath)
     print(f"   Movie: {movie_id}, Reviewer: {reviewer}")
     
     # Step 3: transcript를 청크로 분할
@@ -193,10 +205,15 @@ def process_single_review_file(
         'total_chunks': len(chunks),
         'processed_chunks': 0,
         'total_entities': 0,
-        'total_relationships': 0
+        'total_relationships': 0,
+        'matched_existing': 0,
+        'new_entities': 0,
+        'synonym_exact': 0,
+        'synonym_partial': 0,
+        'name_exact': 0
     }
     
-    # Step 4-5: 각 청크 처리
+    # Step 4: 각 청크 처리
     for i, chunk in enumerate(chunks, 1):
         print(f"   Chunk {i}/{len(chunks)}...")
         
@@ -204,15 +221,21 @@ def process_single_review_file(
             chunk=chunk,
             movie_id=movie_id,
             reviewer=reviewer,
-            opensearch_client=opensearch_client,
-            movie_context=context
+            opensearch_client=opensearch_client
         )
         
         file_stats['processed_chunks'] += 1
         file_stats['total_entities'] += chunk_stats['entities_saved']
         file_stats['total_relationships'] += chunk_stats['relationships_saved']
+        file_stats['matched_existing'] += chunk_stats['matched_existing']
+        file_stats['new_entities'] += chunk_stats['new_entities']
+        file_stats['synonym_exact'] += chunk_stats['synonym_exact']
+        file_stats['synonym_partial'] += chunk_stats['synonym_partial']
+        file_stats['name_exact'] += chunk_stats['name_exact']
     
     print(f"   Done: {file_stats['total_entities']} entities, {file_stats['total_relationships']} relationships")
+    print(f"   Mapping: {file_stats['matched_existing']} matched, {file_stats['new_entities']} new")
+    print(f"   Match types: synonym_exact={file_stats['synonym_exact']}, synonym_partial={file_stats['synonym_partial']}, name_exact={file_stats['name_exact']}")
     return file_stats
 
 
@@ -253,7 +276,8 @@ def run_extraction_pipeline(
     # Get review files
     if reviews_dir:
         from pathlib import Path
-        review_files = list(Path(reviews_dir).glob("*.json"))
+        reviews_path = Path(reviews_dir)
+        review_files = list(reviews_path.rglob("*.json"))
     else:
         review_files = get_all_review_files()
     
@@ -265,7 +289,12 @@ def run_extraction_pipeline(
         'total_chunks': 0,
         'processed_chunks': 0,
         'total_entities': 0,
-        'total_relationships': 0
+        'total_relationships': 0,
+        'matched_existing': 0,
+        'new_entities': 0,
+        'synonym_exact': 0,
+        'synonym_partial': 0,
+        'name_exact': 0
     }
     
     # Process each review file
@@ -285,17 +314,34 @@ def run_extraction_pipeline(
             total_stats['processed_chunks'] += file_stats['processed_chunks']
             total_stats['total_entities'] += file_stats['total_entities']
             total_stats['total_relationships'] += file_stats['total_relationships']
+            total_stats['matched_existing'] += file_stats['matched_existing']
+            total_stats['new_entities'] += file_stats['new_entities']
+            total_stats['synonym_exact'] += file_stats['synonym_exact']
+            total_stats['synonym_partial'] += file_stats['synonym_partial']
+            total_stats['name_exact'] += file_stats['name_exact']
             
         except Exception as e:
             print(f"   Error: {e}")
     
-    print_final_stats(total_stats)
+    # Final stats
+    print_pipeline_header("Pipeline Complete!")
+    print(f"Files processed: {total_stats['files_processed']}")
+    print(f"Chunks: {total_stats['processed_chunks']}/{total_stats['total_chunks']}")
+    print(f"Entities: {total_stats['total_entities']}")
+    print(f"Relationships: {total_stats['total_relationships']}")
+    print(f"\n=== Entity Mapping Metrics ===")
+    print(f"Matched existing: {total_stats['matched_existing']}")
+    print(f"New entities: {total_stats['new_entities']}")
+    print(f"  - Synonym exact: {total_stats['synonym_exact']}")
+    print(f"  - Synonym partial: {total_stats['synonym_partial']}")
+    print(f"  - Name exact: {total_stats['name_exact']}")
+    
     return total_stats
 
 
 if __name__ == "__main__":
     run_extraction_pipeline(
-        reviews_dir=None,  # Use default path
+        reviews_dir=None,
         chunk_size=1500,
         chunk_overlap=100,
         clean_database=True

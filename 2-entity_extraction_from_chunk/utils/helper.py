@@ -15,7 +15,15 @@ from langchain_text_splitters import RecursiveCharacterTextSplitter
 # ============================================================
 # 데이터 경로 설정
 # ============================================================
+# 2-entity_extraction_from_chunk/utils/helper.py -> real_graphrag_workshop_aws/data
 DATA_DIR = Path(__file__).parent.parent.parent / "data"
+
+# 절대 경로 폴백
+if not DATA_DIR.exists():
+    DATA_DIR = Path("/home/ec2-user/real_graphrag_workshop_aws/data")
+if not DATA_DIR.exists():
+    DATA_DIR = Path("/home/ec2-user/workshop/data")
+
 MOVIES_CSV = DATA_DIR / "movies" / "movie_list.csv"
 REVIEWERS_CSV = DATA_DIR / "reviwers" / "reviewers.csv"
 CAST_CSV = DATA_DIR / "actors_chractor" / "choi_donghoon_movies_cast.csv"
