@@ -28,10 +28,44 @@ def generate_neptune_id(name, entity_type):
     return neptune_id
 
 
+def check_entity_exists(entity_name, entity_type):
+    """
+    Check if an entity already exists in Neptune.
+    Returns True if exists, False otherwise.
+    """
+    find_query = f"""
+    MATCH (n:{entity_type} {{name: $entity_name}})
+    RETURN count(n) AS count
+    """
+    result = execute_cypher(find_query, entity_name=entity_name)
+    if result and 'results' in result and result['results']:
+        return result['results'][0].get('count', 0) > 0
+    return False
+
+
+def check_relationship_exists(entity1, entity2):
+    """
+    Check if a relationship already exists between two entities in Neptune.
+    Returns True if exists, False otherwise.
+    """
+    find_query = """
+    MATCH (a)-[r:RELATIONSHIP]-(b)
+    WHERE (a.name = $entity1 AND b.name = $entity2) OR (a.name = $entity2 AND b.name = $entity1)
+    RETURN count(r) AS count
+    """
+    result = execute_cypher(find_query, entity1=entity1, entity2=entity2)
+    if result and 'results' in result and result['results']:
+        return result['results'][0].get('count', 0) > 0
+    return False
+
+
 def import_nodes_with_dynamic_label(entities, movie_id, reviewer_id, chunk_id, text):
     """
     Import nodes with dynamic labels by grouping entities by type.
     If entity exists, append new descriptions to existing ones.
+    
+    Returns:
+        dict: {'results': [...], 'stats': {'existing': int, 'new': int, 'total': int}}
     """
     # Generate neptune_ids for base entities
     reviewer_neptune_id = generate_neptune_id(reviewer_id, "REVIEWER")
@@ -67,6 +101,7 @@ def import_nodes_with_dynamic_label(entities, movie_id, reviewer_id, chunk_id, t
         entity_map[key].append(entity_desc)
     
     results = []
+    stats = {'existing': 0, 'new': 0, 'total': 0}
     
     # Create or update entities with accumulated descriptions and neptune_id
     for (entity_type, entity_name), new_descriptions in entity_map.items():
@@ -80,8 +115,11 @@ def import_nodes_with_dynamic_label(entities, movie_id, reviewer_id, chunk_id, t
         # Merge existing descriptions with new ones
         existing_desc = []
         existing_neptune_id = None
+        is_existing = False
         
         if existing and 'results' in existing and existing['results']:
+            is_existing = True
+            stats['existing'] += 1
             for row in existing['results']:
                 existing_neptune_id = row.get('neptune_id')
                 if row.get('description'):
@@ -94,6 +132,10 @@ def import_nodes_with_dynamic_label(entities, movie_id, reviewer_id, chunk_id, t
                             existing_desc = [desc]
                     elif isinstance(desc, list):
                         existing_desc = desc
+        else:
+            stats['new'] += 1
+        
+        stats['total'] += 1
         
         # Combine and deduplicate
         all_descriptions = existing_desc + new_descriptions
@@ -117,15 +159,18 @@ def import_nodes_with_dynamic_label(entities, movie_id, reviewer_id, chunk_id, t
         result = execute_cypher(query, chunk_id=chunk_id, 
                                entity_name=entity_name, descriptions=descriptions_str, 
                                neptune_id=neptune_id)
-        results.append(result)
+        results.append({'result': result, 'entity_name': entity_name, 'is_existing': is_existing})
     
     print("finish upload")
-    return results
+    return {'results': results, 'stats': stats}
 
 
 def import_relationships_with_dynamic_label(relationships):
     """
     Import relationships ensuring only one relationship exists between any two entities.
+    
+    Returns:
+        dict: {'results': [...], 'stats': {'existing': int, 'new': int, 'total': int}}
     """
     # Group relationships first to avoid processing same pair multiple times
     relationship_pairs = {}
@@ -153,6 +198,9 @@ def import_relationships_with_dynamic_label(relationships):
         relationship_pairs[key]['descriptions'].append(description)
         relationship_pairs[key]['strength'] = max(relationship_pairs[key]['strength'], strength)
     
+    stats = {'existing': 0, 'new': 0, 'total': 0}
+    results = []
+    
     # Process each unique pair once
     for (entity1, entity2, type1, type2), data in relationship_pairs.items():
         new_descriptions = data['descriptions']
@@ -167,7 +215,11 @@ def import_relationships_with_dynamic_label(relationships):
         existing = execute_cypher(find_query, entity1=entity1, entity2=entity2)
         
         all_descriptions = new_descriptions
+        is_existing = False
+        
         if existing and 'results' in existing and existing['results']:
+            is_existing = True
+            stats['existing'] += 1
             for row in existing['results']:
                 if row.get('description'):
                     desc = row['description']
@@ -180,6 +232,10 @@ def import_relationships_with_dynamic_label(relationships):
                                 all_descriptions.append(existing_desc)
                         except:
                             all_descriptions.append(desc)
+        else:
+            stats['new'] += 1
+        
+        stats['total'] += 1
         
         unique_descriptions = list(dict.fromkeys(all_descriptions))
         
@@ -199,10 +255,11 @@ def import_relationships_with_dynamic_label(relationships):
         MATCH (t:{type2} {{name: $entity2}})
         CREATE (s)-[r:RELATIONSHIP {{description: $descriptions, strength: $strength}}]->(t)
         """
-        execute_cypher(create_query, entity1=entity1, entity2=entity2, 
+        result = execute_cypher(create_query, entity1=entity1, entity2=entity2, 
                       descriptions=descriptions_str, strength=strength)
+        results.append({'result': result, 'source': entity1, 'target': entity2, 'is_existing': is_existing})
     
-    return []
+    return {'results': results, 'stats': stats}
 
 
 def save_entity_summary(entity_name, summary, entity_type=None):

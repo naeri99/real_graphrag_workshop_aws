@@ -78,8 +78,12 @@ def run_entity_extraction_pipeline(
         'entities_matched': 0,
         'entities_new': 0,
         'entities_saved': 0,
+        'entities_existing_in_neptune': 0,
+        'entities_new_in_neptune': 0,
         'relationships_extracted': 0,
         'relationships_saved': 0,
+        'relationships_existing_in_neptune': 0,
+        'relationships_new_in_neptune': 0,
         'chunks_processed': 0
     }
     
@@ -149,9 +153,17 @@ def run_entity_extraction_pipeline(
                         clean_ent = {k: v for k, v in ent.items() if not k.startswith('_')}
                         clean_entities.append(clean_ent)
                     
-                    import_nodes_with_dynamic_label(clean_entities, movie_id, reviewer, chunk_id, chunk)
-                    total['entities_saved'] += len(clean_entities)
-                    print(f"   💾 Saved {len(clean_entities)} entities to Neptune")
+                    save_result = import_nodes_with_dynamic_label(clean_entities, movie_id, reviewer, chunk_id, chunk)
+                    entity_stats = save_result.get('stats', {})
+                    total['entities_saved'] += entity_stats.get('total', len(clean_entities))
+                    total['entities_existing_in_neptune'] += entity_stats.get('existing', 0)
+                    total['entities_new_in_neptune'] += entity_stats.get('new', 0)
+                    
+                    # 기존/신규 entity 통계 출력
+                    existing_count = entity_stats.get('existing', 0)
+                    new_count = entity_stats.get('new', 0)
+                    total_count = entity_stats.get('total', 0)
+                    print(f"   💾 Saved {total_count} entities to Neptune (기존: {existing_count}, 신규: {new_count})")
                 
                 # Step 4 & 5: 관계 처리 및 저장
                 if relationships:
@@ -176,9 +188,17 @@ def run_entity_extraction_pipeline(
                             clean_rel = {k: v for k, v in rel.items() if not k.startswith('_')}
                             clean_rels.append(clean_rel)
                         
-                        import_relationships_with_dynamic_label(clean_rels)
-                        total['relationships_saved'] += len(clean_rels)
-                        print(f"   💾 Saved {len(clean_rels)} relationships to Neptune")
+                        rel_save_result = import_relationships_with_dynamic_label(clean_rels)
+                        rel_stats = rel_save_result.get('stats', {})
+                        total['relationships_saved'] += rel_stats.get('total', len(clean_rels))
+                        total['relationships_existing_in_neptune'] += rel_stats.get('existing', 0)
+                        total['relationships_new_in_neptune'] += rel_stats.get('new', 0)
+                        
+                        # 기존/신규 relationship 통계 출력
+                        rel_existing = rel_stats.get('existing', 0)
+                        rel_new = rel_stats.get('new', 0)
+                        rel_total = rel_stats.get('total', 0)
+                        print(f"   💾 Saved {rel_total} relationships to Neptune (기존: {rel_existing}, 신규: {rel_new})")
                 
                 total['chunks_processed'] += 1
                 
@@ -196,8 +216,12 @@ def run_entity_extraction_pipeline(
     print(f"  - Matched in OpenSearch: {total['entities_matched']}")
     print(f"  - New (not found): {total['entities_new']}")
     print(f"  - Saved to Neptune: {total['entities_saved']}")
+    print(f"    └─ 기존 entity 업데이트: {total['entities_existing_in_neptune']}")
+    print(f"    └─ 신규 entity 생성: {total['entities_new_in_neptune']}")
     print(f"Relationships extracted: {total['relationships_extracted']}")
     print(f"  - Saved to Neptune: {total['relationships_saved']}")
+    print(f"    └─ 기존 relationship 업데이트: {total['relationships_existing_in_neptune']}")
+    print(f"    └─ 신규 relationship 생성: {total['relationships_new_in_neptune']}")
     
     if save_to_neptune:
         final_stats = get_database_stats()
