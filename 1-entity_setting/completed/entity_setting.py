@@ -10,7 +10,6 @@ Entity Setting - 엔티티 동의어 추출 및 OpenSearch 저장 파이프라�
 from opensearch.opensearch_index_setting import delete_index, define_entity_index
 from opensearch.opensearch_con import get_opensearch_client
 from opensearch.opensearh_search import find_entity_opensearch
-from utils.read_files import load_json_from_list
 from utils.parse_utils import parse_mixed_synonym_output
 from utils.generate_entity import extract_synonym
 from utils.synonym import (
@@ -18,7 +17,9 @@ from utils.synonym import (
     merge_synonyms_with_set,
     update_entity_synonyms
 )
+from utils.movie_context import get_context_from_review_file, get_all_review_files
 from langchain_text_splitters import RecursiveCharacterTextSplitter
+import os
 
 
 # ============================================================
@@ -34,58 +35,19 @@ except:
 define_entity_index(opensearch_conn, "entities")
 
 
+
 # ============================================================
-# 컨텍스트 생성
+# 청킹 함수
 # ============================================================
-def make_inception_cast_context() -> str:
-    """인셉션 캐스트 컨텍스트 생성"""
-    cast = [
-        ("Leonardo DiCaprio", "Dom Cobb"),
-        ("Joseph Gordon-Levitt", "Arthur"),
-        ("Ellen Page", "Ariadne"),
-        ("Tom Hardy", "Eames"),
-        ("Ken Watanabe", "Saito"),
-        ("Dileep Rao", "Yusuf"),
-        ("Cillian Murphy", "Robert Michael Fischer"),
-        ("Tom Berenger", "Peter Browning"),
-        ("Marion Cotillard", "Mal Cobb"),
-        ("Pete Postlethwaite", "Maurice Fischer"),
-        ("Michael Caine", "Professor Miles"),
-        ("Lukas Haas", "Nash")
-    ]
-    
-    context_parts = ["영화 인셉션의 주요 등장인물과 배우 정보:", ""]
-    context_parts.extend([f"- {char}: {actor}이 연기한 캐릭터" for actor, char in cast])
-    context_parts.extend(["", "영화: 인셉션", "리뷰어: reviwerman", "감독: Christopher Nolan"])
-    context_parts.append(f"총 {len(cast)}명의 배우가 {len(cast)}개의 캐릭터를 연기했습니다.")
-    
-    return "\n".join(context_parts)
+def chunk_text(text: str, chunk_size: int = 1500, chunk_overlap: int = 100) -> list:
+    """텍스트를 청크로 분할"""
+    text_splitter = RecursiveCharacterTextSplitter(chunk_size=chunk_size, chunk_overlap=chunk_overlap)
+    return text_splitter.split_text(text)
 
 
 # ============================================================
 # 파이프라인 함수들
 # ============================================================
-def load_and_chunk_data(file_path: str, chunk_size: int = 1500, chunk_overlap: int = 100) -> list:
-    """데이터 로드 및 청킹"""
-    result = load_json_from_list(file_path)
-    text_splitter = RecursiveCharacterTextSplitter(chunk_size=chunk_size, chunk_overlap=chunk_overlap)
-    
-    chunks = []
-    for item in result:
-        chunks.extend(text_splitter.split_text(item["data"]))
-    return chunks
-
-
-def init_pipeline(file_path: str) -> tuple:
-    """Step 1: 파이프라인 초기화 - 데이터 로드 및 청킹"""
-    print("\n📂 Step 1: 데이터 로드 및 청킹")
-    chunks = load_and_chunk_data(file_path)
-    print(f"   총 {len(chunks)}개 청크 생성")
-    
-    stats = {'total_entities': 0, 'updated': 0, 'not_found': 0, 'failed': 0}
-    return chunks, stats
-
-
 def find_synonyms_from_chunk(chunk: str, context: str) -> list:
     """Step 2: 청크에서 동의어 찾기 (추출 + 공백 제거)"""
     result = extract_synonym({"movie_context": context, "movie_chunk": chunk})
@@ -120,61 +82,108 @@ def print_final_stats(stats: dict):
 
 
 # ============================================================
-# 메인 파이프라인
+# 리뷰 디렉토리 기반 파이프라인
 # ============================================================
-def run_synonym_pipeline():
+def process_single_review_file(opensearch_client, review_filepath: str, stats: dict):
     """
-    동의어 추출 파이프라인 실행
+    단일 리뷰 파일 처리
     
     흐름:
-    1. 데이터 로드 및 청킹
-    2. 청크에서 동의어 찾기
-    3. OpenSearch에서 엔티티 검색
-    4. 엔티티에 동의어 추가
+    1. 리뷰 파일에서 context, transcript 추출
+    2. transcript를 청크로 분할
+    3. 각 청크에서 동의어 추출
+    4. OpenSearch에서 엔티티 검색 후 동의어 추가
     """
-    print("🚀 동의어 추출 파이프라인 시작")
-    print("=" * 60)
+    filename = os.path.basename(review_filepath)
+    print(f"\n📄 파일 처리: {filename}")
     
-    opensearch_client = get_opensearch_client()
-    context = make_inception_cast_context()
+    # Step 1: context, transcript 추출
+    context, transcript = get_context_from_review_file(review_filepath)
+    print(f"   📝 Context 생성 완료")
     
-    # Step 1: 초기화
-    chunks, stats = init_pipeline("./data/inception/list.txt")
+    # Step 2: transcript를 청크로 분할
+    chunks = chunk_text(transcript)
+    print(f"   📦 {len(chunks)}개 청크 생성")
     
+    # Step 3-4: 각 청크 처리
     for i, chunk in enumerate(chunks, 1):
-        print(f"\n{'='*60}")
-        print(f"📝 Chunk {i}/{len(chunks)} 처리 중")
-        
-        # Step 2: 청크에서 동의어 찾기
+        # 청크에서 동의어 찾기
         entities = find_synonyms_from_chunk(chunk, context)
         if not entities:
-            print("   ⚠️ 추출된 엔티티 없음")
             continue
-        print(f"   🔍 {len(entities)}개 엔티티 동의어 추출 완료")
         
         for entity_data in entities:
             entity_name = entity_data['entity_name']
             new_synonyms = entity_data['synonyms']
             stats['total_entities'] += 1
             
-            # Step 3: OpenSearch에서 엔티티 검색
+            # OpenSearch에서 엔티티 검색
             existing_entity = find_entity_from_opensearch(opensearch_client, entity_name)
             if not existing_entity:
                 stats['not_found'] += 1
-                print(f"   🔍 {entity_name}: 엔티티 없음")
                 continue
             
-            # Step 4: 엔티티에 동의어 추가
+            # 엔티티에 동의어 추가
             result = add_synonyms_to_entity(opensearch_client, existing_entity, new_synonyms)
             if result['success']:
                 stats['updated'] += 1
-                print(f"   ✅ {entity_name}: 동의어 업데이트 완료")
+                print(f"   ✅ {entity_name}: 동의어 업데이트")
             else:
                 stats['failed'] += 1
-                print(f"   ❌ {entity_name}: 업데이트 실패")
+
+
+def run_directory_pipeline(reviews_dir: str = None):
+    """
+    리뷰 디렉토리 기반 동의어 추출 파이프라인
+    
+    Args:
+        reviews_dir: 리뷰 파일들이 있는 디렉토리 경로
+                    기본값: /home/ec2-user/real_graphrag_workshop_aws/data/reviews/DonghoonChoi
+    
+    흐름:
+    1. 디렉토리에서 모든 리뷰 파일 목록 가져오기
+    2. 각 파일에서 context, transcript 추출
+    3. transcript를 청크로 분할
+    4. 청크에서 동의어 추출
+    5. OpenSearch에서 엔티티 검색
+    6. 엔티티에 동의어 추가
+    """
+    print("🚀 리뷰 디렉토리 기반 동의어 추출 파이프라인 시작")
+    print("=" * 60)
+    
+    opensearch_client = get_opensearch_client()
+    
+    # Step 1: 리뷰 파일 목록 가져오기
+    if reviews_dir:
+        from pathlib import Path
+        review_files = list(Path(reviews_dir).glob("*.json"))
+    else:
+        review_files = get_all_review_files()
+    
+    print(f"📂 총 {len(review_files)}개 리뷰 파일 발견")
+    
+    stats = {'total_entities': 0, 'updated': 0, 'not_found': 0, 'failed': 0, 'files_processed': 0}
+    
+    # Step 2-6: 각 파일 처리
+    for file_idx, review_file in enumerate(review_files, 1):
+        print(f"\n{'='*60}")
+        print(f"📁 [{file_idx}/{len(review_files)}] 파일 처리 중")
+        
+        try:
+            process_single_review_file(opensearch_client, str(review_file), stats)
+            stats['files_processed'] += 1
+        except Exception as e:
+            print(f"   ❌ 파일 처리 실패: {e}")
     
     # 결과 출력
-    print_final_stats(stats)
+    print("\n" + "=" * 60)
+    print("🎯 디렉토리 파이프라인 완료!")
+    print(f"   처리된 파일: {stats['files_processed']}개")
+    print(f"   전체 엔티티: {stats['total_entities']}개")
+    print(f"   업데이트 성공: {stats['updated']}개")
+    print(f"   엔티티 없음: {stats['not_found']}개")
+    print(f"   업데이트 실패: {stats['failed']}개")
+    
     return stats
 
 
@@ -182,4 +191,5 @@ def run_synonym_pipeline():
 # 실행
 # ============================================================
 if __name__ == "__main__":
-    run_synonym_pipeline()
+    # 디렉토리 기반 파이프라인 실행
+    run_directory_pipeline()
