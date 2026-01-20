@@ -163,7 +163,7 @@ def run_entity_extraction_pipeline(
                     existing_count = entity_stats.get('existing', 0)
                     new_count = entity_stats.get('new', 0)
                     total_count = entity_stats.get('total', 0)
-                    print(f"   💾 Saved {total_count} entities to Neptune (기존: {existing_count}, 신규: {new_count})")
+                    print(f"   💾 Saved {total_count} entities to Neptune (DB에 기존 존재: {existing_count}, 신규 생성: {new_count})")
                 
                 # Step 4 & 5: 관계 처리 및 저장
                 if relationships:
@@ -198,7 +198,7 @@ def run_entity_extraction_pipeline(
                         rel_existing = rel_stats.get('existing', 0)
                         rel_new = rel_stats.get('new', 0)
                         rel_total = rel_stats.get('total', 0)
-                        print(f"   💾 Saved {rel_total} relationships to Neptune (기존: {rel_existing}, 신규: {rel_new})")
+                        print(f"   💾 Saved {rel_total} relationships to Neptune (DB에 기존 존재: {rel_existing}, 신규 생성: {rel_new})")
                 
                 total['chunks_processed'] += 1
                 
@@ -216,12 +216,12 @@ def run_entity_extraction_pipeline(
     print(f"  - Matched in OpenSearch: {total['entities_matched']}")
     print(f"  - New (not found): {total['entities_new']}")
     print(f"  - Saved to Neptune: {total['entities_saved']}")
-    print(f"    └─ 기존 entity 업데이트: {total['entities_existing_in_neptune']}")
-    print(f"    └─ 신규 entity 생성: {total['entities_new_in_neptune']}")
+    print(f"    └─ DB에 기존 존재 (업데이트): {total['entities_existing_in_neptune']}")
+    print(f"    └─ 신규 생성: {total['entities_new_in_neptune']}")
     print(f"Relationships extracted: {total['relationships_extracted']}")
     print(f"  - Saved to Neptune: {total['relationships_saved']}")
-    print(f"    └─ 기존 relationship 업데이트: {total['relationships_existing_in_neptune']}")
-    print(f"    └─ 신규 relationship 생성: {total['relationships_new_in_neptune']}")
+    print(f"    └─ DB에 기존 존재 (업데이트): {total['relationships_existing_in_neptune']}")
+    print(f"    └─ 신규 생성: {total['relationships_new_in_neptune']}")
     
     if save_to_neptune:
         final_stats = get_database_stats()
