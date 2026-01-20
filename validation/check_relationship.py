@@ -190,7 +190,7 @@ def run_check_relationship():
     
     # 전체 관계 목록
     relationships = get_all_relationships()
-    print_relationships(relationships, show_summary=True)
+    print_relationships(relationships, show_description=True, show_summary=True)
     
     return relationships
 

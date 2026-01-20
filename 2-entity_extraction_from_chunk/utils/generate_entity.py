@@ -25,7 +25,7 @@ def extract_entities(payload):
         AgentResult with extracted entities
     """
     bedrock_model = BedrockModel(
-        model_id="us.anthropic.claude-sonnet-4-20250514-v1:0",
+        model_id="global.anthropic.claude-opus-4-5-20251101-v1:0",
         region_name="us-west-2",
         temperature=0.3,
     )

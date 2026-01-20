@@ -8,8 +8,7 @@ import json
 import re
 import uuid
 from datetime import datetime
-from strands import Agent
-from strands.models import BedrockModel
+from utils.generate_entity import get_bedrock_agent
 from utils.parse_utils import parse_summary_output
 from neptune.cyper_queries import (
     get_all_entities_for_summary,
@@ -70,12 +69,7 @@ def run_entity_summarization():
     print("=" * 60)
     
     # Bedrock Agent 초기화
-    bedrock_model = BedrockModel(
-        model_id="apac.anthropic.claude-sonnet-4-20250514-v1:0",
-        region_name="ap-northeast-2",
-        temperature=0.1,
-    )
-    agent = Agent(model=bedrock_model)
+    agent = get_bedrock_agent()
     
     # Neptune에서 요약이 필요한 엔티티 조회
     results = get_all_entities_for_summary()

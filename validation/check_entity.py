@@ -163,7 +163,7 @@ def run_check_entity():
     
     # 전체 엔티티 목록
     entities = get_all_entities()
-    print_entities(entities, show_summary=True)
+    print_entities(entities, show_description=True, show_summary=True)
     
     return entities
 
