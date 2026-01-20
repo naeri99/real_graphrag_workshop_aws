@@ -121,7 +121,15 @@ fi
 print_info "필수 패키지 추가 중..."
 uv add ipykernel jupyter jupyterlab boto3
 
-# 4. 의존성 동기화
+# 4. 추가 패키지 설치
+print_info "추가 패키지 설치 중..."
+uv pip install opensearch-py
+uv pip install boto3
+uv pip install langchain-text-splitters
+uv pip install strands-agents
+print_success "추가 패키지가 설치되었습니다."
+
+# 5. 의존성 동기화
 print_info "의존성 동기화 중..."
 uv sync
 print_success "의존성이 설치되었습니다."
