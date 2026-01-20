@@ -247,7 +247,7 @@ def run_entity_check_pipeline(reviews_dir: str = None):
 if __name__ == "__main__":
     # 전체 파이프라인 실행 (Neptune 저장 포함)
     run_entity_extraction_pipeline(
-        reviews_dir=None,  # 기본 경로 사용
+        reviews_dir="../data/reviews/DonghoonChoi",  # 기본 경로 사용
         chunk_size=1500,
         chunk_overlap=100,
         clean_database=True,
