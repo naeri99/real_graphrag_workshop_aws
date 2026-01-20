@@ -29,8 +29,8 @@ def extract_synonym(payload: dict) -> str:
         str: LLM 응답 (동의어 목록)
     """
     bedrock_model = BedrockModel(
-        model_id="apac.anthropic.claude-sonnet-4-20250514-v1:0",
-        region_name="ap-northeast-2",
+        model_id="global.anthropic.claude-opus-4-5-20251101-v1:0",
+        region_name="us-west-2",
         temperature=0.3,
     )
 

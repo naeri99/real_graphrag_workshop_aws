@@ -5,7 +5,7 @@ from botocore.exceptions import ClientError
 from opensearchpy import OpenSearch, RequestsHttpConnection
 
 
-def get_secret(secret_name: str, region_name: str = "ap-northeast-2") -> dict:
+def get_secret(secret_name: str, region_name: str = "us-west-2") -> dict:
     """AWS Secrets Manager에서 시크릿을 가져옵니다."""
     session = boto3.session.Session()
     client = session.client(service_name='secretsmanager', region_name=region_name)
