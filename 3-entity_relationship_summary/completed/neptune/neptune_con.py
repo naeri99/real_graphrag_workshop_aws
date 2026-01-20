@@ -1,6 +1,6 @@
 """
 Neptune Connection Module
-- 환경변수 또는 기본값으로 Neptune 엔드포인트 정보 로드
+- AWS Secrets Manager에서 Neptune 엔드포인트 정보 로드
 - IAM 인증을 사용한 Neptune 연결
 """
 import os
@@ -8,6 +8,7 @@ import json
 import boto3
 from botocore.auth import SigV4Auth
 from botocore.awsrequest import AWSRequest
+from botocore.exceptions import ClientError
 import requests
 
 
@@ -16,11 +17,41 @@ AWS_REGION = os.environ.get('AWS_DEFAULT_REGION', 'us-west-2')
 
 # 전역 변수
 _neptune_session = None
+_secrets_cache = None
 
-# Neptune 설정 - 환경변수 또는 기본값
-NEPTUNE_ENDPOINT = os.environ.get('NEPTUNE_ENDPOINT', 'workshop-neptune-cluster.cluster-ct8qomue6au1.us-west-2.neptune.amazonaws.com')
-NEPTUNE_PORT = os.environ.get('NEPTUNE_PORT', '8182')
-NEPTUNE_READ_ENDPOINT = os.environ.get('NEPTUNE_READ_ENDPOINT', 'workshop-neptune-cluster.cluster-ro-ct8qomue6au1.us-west-2.neptune.amazonaws.com')
+
+def get_secret(secret_name: str, region_name: str = "us-west-2") -> dict:
+    """AWS Secrets Manager에서 시크릿을 가져옵니다."""
+    global _secrets_cache
+    if _secrets_cache is not None:
+        return _secrets_cache
+    
+    session = boto3.session.Session()
+    client = session.client(service_name='secretsmanager', region_name=region_name)
+    try:
+        get_secret_value_response = client.get_secret_value(SecretId=secret_name)
+        secret = get_secret_value_response['SecretString']
+        _secrets_cache = json.loads(secret)
+        return _secrets_cache
+    except ClientError as e:
+        raise Exception(f"Failed to retrieve secret '{secret_name}': {e}")
+
+
+def get_neptune_config() -> dict:
+    """Secrets Manager에서 Neptune 설정을 가져옵니다."""
+    secrets = get_secret("opensearch-credentials", AWS_REGION)
+    return {
+        'endpoint': secrets.get('neptune_endpoint', ''),
+        'port': secrets.get('neptune_port', '8182'),
+        'read_endpoint': secrets.get('neptune_read_endpoint', '')
+    }
+
+
+# Neptune 설정 - Secrets Manager에서 로드
+_neptune_config = get_neptune_config()
+NEPTUNE_ENDPOINT = _neptune_config['endpoint']
+NEPTUNE_PORT = _neptune_config['port']
+NEPTUNE_READ_ENDPOINT = _neptune_config['read_endpoint']
 
 
 def get_neptune_session():
