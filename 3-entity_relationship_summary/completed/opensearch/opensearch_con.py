@@ -1,11 +1,29 @@
 import os
+import json
+import boto3
+from botocore.exceptions import ClientError
 from opensearchpy import OpenSearch, RequestsHttpConnection
 
 
-# OpenSearch Configuration - Environment variables or defaults
-OPENSEARCH_URL = os.environ.get('OPENSEARCH_HOST', 'search-bank-opensearch-domain-7dbca7pwladjxtfeho3zsahdou.us-west-2.es.amazonaws.com')
-OPENSEARCH_USER = os.environ.get('OPENSEARCH_USER', 'Bankadmin')
-OPENSEARCH_PASSWORD = os.environ.get('OPENSEARCH_PASSWORD', 'Bankadmin123!')
+def get_secret(secret_name: str, region_name: str = "us-west-2") -> dict:
+    """AWS Secrets Manager에서 시크릿을 가져옵니다."""
+    session = boto3.session.Session()
+    client = session.client(service_name='secretsmanager', region_name=region_name)
+    
+    try:
+        get_secret_value_response = client.get_secret_value(SecretId=secret_name)
+        secret = get_secret_value_response['SecretString']
+        return json.loads(secret)
+    except ClientError as e:
+        raise Exception(f"Failed to retrieve secret '{secret_name}': {e}")
+
+
+# Load OpenSearch configuration from Secrets Manager
+_secrets = get_secret("opensearch-credentials")
+
+OPENSEARCH_URL = _secrets.get('opensearch_host', '')
+OPENSEARCH_USER = _secrets.get('username', '')
+OPENSEARCH_PASSWORD = _secrets.get('password', '')
 OPENSEARCH_PORT = int(os.environ.get('OPENSEARCH_PORT', '443'))
 USE_SSL = os.environ.get('OPENSEARCH_USE_SSL', 'true').lower() == 'true'
 
