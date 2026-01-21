@@ -20,9 +20,9 @@ def search_specific_queries():
     opensearch_client = get_opensearch_client()
     
     queries = [
-        "무륵과 이안은 어떤 관계야?",
-        "최창혁와 김선생는 어떤 관계야?",
-        "염정아가 연기한 캐릭터는 누구야?"
+        "썬더와 가든 그리고 이안은 어떤 관계야?",
+        "대길과 고광렬은 어떤 관계야?",
+        "김윤석이는 연기한 캐릭터는?"
     ]
     
     for i, query in enumerate(queries, 1):
