@@ -3356,3 +3356,97 @@ finish upload
    💾 Saved 18 relationships to Neptune (DB에 기존 존재: 9, 신규 생성: 9)
 
    --- Chunk 12/14 ---
+("entity"|도둑들|MOVIE|도둑들은 다이아몬드를 둘러싼 도둑들의 이야기를 다룬 한국 액션 영화이다)##
+("entity"|마카오박|MOVIE_CHARACTER|마카오박은 도둑들에서 다이아몬드를 노리는 도둑 캐릭터로, 뽀빠이와 애증의 관계를 가지고 있다)##
+("entity"|뽀빠이|MOVIE_CHARACTER|뽀빠이는 도둑들에서 다이아몬드를 차지하려는 도둑 캐릭터로, 총을 맞고도 다이아를 차지하며 웃는 표정을 보여준다)##
+("entity"|예니콜|MOVIE_CHARACTER|예니콜은 도둑들에서 이기적이고 가증스럽지만 미워할 수 없는 캐릭터로, 경찰복이 잘 어울리며 감성적인 면도 보여준다)##
+("entity"|줄리|MOVIE_CHARACTER|줄리는 도둑들에서 마카오박을 추적하는 캐릭터이다)##
+("entity"|앤드류|MOVIE_CHARACTER|앤드류는 도둑들에 등장하는 캐릭터로 뽀빠이를 추적한다)##
+("entity"|잔파|MOVIE_CHARACTER|잔파는 도둑들에 등장하는 캐릭터이다)##
+("entity"|이정재|ACTOR|이정재는 도둑들에서 연기한 배우로, 현장에서 만든 대사에 대해 뜬금없다고 느꼈다고 한다)##
+("entity"|오달수|ACTOR|오달수는 도둑들에서 연기한 배우로, 촬영 중 많이 뛰어서 얼굴이 사색이 됐다고 한다)##
+("entity"|전지현|ACTOR|전지현은 도둑들에서 예니콜 역을 맡은 배우로, 어려운 액션을 대역 없이 직접 수행했으며 유니폼이 잘 어울리는 배우로 평가받는다)##
+("entity"|내 여자친구를 소개합니다|MOVIE|내 여자친구를 소개합니다는 전지현이 출연한 영화로, 유니폼이 잘 어울렸다고 언급된다)##
+("relationship"|마카오박|MOVIE_CHARACTER|도둑들|MOVIE|마카오박은 도둑들의 주요 등장인물이다|10)##
+("relationship"|뽀빠이|MOVIE_CHARACTER|도둑들|MOVIE|뽀빠이는 도둑들의 주요 등장인물이다|10)##
+("relationship"|예니콜|MOVIE_CHARACTER|도둑들|MOVIE|예니콜은 도둑들의 주요 등장인물이다|10)##
+("relationship"|줄리|MOVIE_CHARACTER|도둑들|MOVIE|줄리는 도둑들의 등장인물이다|10)##
+("relationship"|앤드류|MOVIE_CHARACTER|도둑들|MOVIE|앤드류는 도둑들의 등장인물이다|10)##
+("relationship"|잔파|MOVIE_CHARACTER|도둑들|MOVIE|잔파는 도둑들의 등장인물이다|8)##
+("relationship"|마카오박|MOVIE_CHARACTER|뽀빠이|MOVIE_CHARACTER|마카오박과 뽀빠이는 애증의 관계로, 다이아몬드를 두고 대립하면서도 서로를 배려한다|9)##
+("relationship"|줄리|MOVIE_CHARACTER|마카오박|MOVIE_CHARACTER|줄리는 마카오박을 추적한다|7)##
+("relationship"|앤드류|MOVIE_CHARACTER|뽀빠이|MOVIE_CHARACTER|앤드류는 뽀빠이를 추적한다|7)##
+("relationship"|이정재|ACTOR|도둑들|MOVIE|이정재는 도둑들에 출연한 배우이다|10)##
+("relationship"|오달수|ACTOR|도둑들|MOVIE|오달수는 도둑들에 출연한 배우이다|10)##
+("relationship"|전지현|ACTOR|예니콜|MOVIE_CHARACTER|전지현은 도둑들에서 예니콜 역을 연기했다|10)##
+("relationship"|전지현|ACTOR|도둑들|MOVIE|전지현은 도둑들에 출연한 배우이다|10)##
+("relationship"|전지현|ACTOR|내 여자친구를 소개합니다|MOVIE|전지현은 내 여자친구를 소개합니다에 출연했다|8)<END>   📝 Extracted: 11 entities, 14 relationships
+
+   📊 Entity Resolution:
+      ✅ '도둑들' (MOVIE) [name_exact]
+      ✅ '마카오박' (MOVIE_CHARACTER) [name_exact]
+      ✅ '뽀빠이' (MOVIE_CHARACTER) [name_exact]
+      ✅ '예니콜' (MOVIE_CHARACTER) [name_exact]
+      ✅ '줄리' → '쥴리' (MOVIE_CHARACTER) [synonym_exact]
+      ✅ '앤드류' (MOVIE_CHARACTER) [name_exact]
+      ✅ '잔파' → '잠파노' (MOVIE_CHARACTER) [synonym_exact]
+      ✅ '이정재' (ACTOR) [name_exact]
+      ✅ '오달수' (ACTOR) [name_exact]
+      ✅ '전지현' (ACTOR) [name_exact]
+      🆕 '내 여자친구를 소개합니다' (MOVIE) [NEW]
+finish upload
+   💾 Saved 11 entities to Neptune (DB에 기존 존재: 10, 신규 생성: 1)
+
+   🔗 Relationship Resolution:
+      마카오박 → 도둑들
+      뽀빠이 → 도둑들
+      예니콜 → 도둑들
+      쥴리 → 도둑들
+      앤드류 → 도둑들
+      ... and 9 more
+   💾 Saved 14 relationships to Neptune (DB에 기존 존재: 11, 신규 생성: 3)
+
+   --- Chunk 13/14 ---
+("entity"|예니콜|MOVIE_CHARACTER|예니콜은 이기적이고 가증스럽게 원하는 것을 다 이루면서도 잠깐 진심이 묻어나는 감성적인 면을 보여주는 캐릭터로, 해피 엔딩은 자신의 것이라며 본래의 캐릭터로 돌아가는 인물이다)##
+("entity"|전지현|ACTOR|전지현은 예니콜 역을 맡은 배우로, 다년간 엘라스틴 모델이었던 자세가 나오는 연기를 보여주었다)##
+("entity"|줄리|MOVIE_CHARACTER|줄리는 마카오 박을 추적하던 인물이다)##
+("entity"|마카오 박|MOVIE_CHARACTER|마카오 박은 펩시를 도와주고, 분장을 하고 도둑질을 하러 가는 인물로, 금계를 숨긴 캐릭터이다)##
+("entity"|펩시|MOVIE_CHARACTER|펩시는 마카오 박의 도움을 받고, 금계를 발견해야 하는 인물이다)##
+("entity"|아비|MOVIE_CHARACTER|아비는 홍콩의 무서운 작물로, 홍콩 경찰에게 잡힌 인물이다)##
+("entity"|도둑들|MOVIE|도둑들은 천만 관객을 달성한 영화로, 훌륭한 배우들이 서로를 북돋아주며 각자 빛나는 대단한 영화이다)##
+("entity"|센터장|REVIEWER|센터장은 도둑들을 가장 좋아하는 영화로 꼽으며 영화의 이모저모를 알아보고 리뷰하는 유튜버/리뷰어이다)##
+("entity"|최동훈|MOVIE_STAFF|최동훈은 도둑들의 감독으로, 시나리오를 쓸 때 마카오 박이 금계를 어디다 숨겼는지 설정하는데 두 달이 걸렸고, 배우들의 눈빛이 얼마나 중요한지를 알게 되었다고 한다)##
+("relationship"|예니콜|MOVIE_CHARACTER|도둑들|MOVIE|예니콜은 도둑들에 등장하는 캐릭터이다|10)##
+("relationship"|전지현|ACTOR|예니콜|MOVIE_CHARACTER|전지현은 예니콜 역을 연기했다|10)##
+("relationship"|줄리|MOVIE_CHARACTER|도둑들|MOVIE|줄리는 도둑들에 등장하는 캐릭터이다|10)##
+("relationship"|줄리|MOVIE_CHARACTER|마카오 박|MOVIE_CHARACTER|줄리는 마카오 박을 추적하는 관계이다|8)##
+("relationship"|마카오 박|MOVIE_CHARACTER|도둑들|MOVIE|마카오 박은 도둑들에 등장하는 캐릭터이다|10)##
+("relationship"|마카오 박|MOVIE_CHARACTER|펩시|MOVIE_CHARACTER|마카오 박은 펩시를 도와주는 관계이다|8)##
+("relationship"|펩시|MOVIE_CHARACTER|도둑들|MOVIE|펩시는 도둑들에 등장하는 캐릭터이다|10)##
+("relationship"|아비|MOVIE_CHARACTER|도둑들|MOVIE|아비는 도둑들에 등장하는 캐릭터이다|10)##
+("relationship"|최동훈|MOVIE_STAFF|도둑들|MOVIE|최동훈은 도둑들을 감독했다|10)##
+("relationship"|센터장|REVIEWER|도둑들|MOVIE|센터장은 도둑들을 리뷰하며 가장 좋아하는 영화로 꼽았다|8)<END>   📝 Extracted: 9 entities, 10 relationships
+
+   📊 Entity Resolution:
+      🆕 '예니콜' (MOVIE_CHARACTER) [NEW]
+      🆕 '전지현' (ACTOR) [NEW]
+      🆕 '줄리' (MOVIE_CHARACTER) [NEW]
+      🆕 '마카오 박' (MOVIE_CHARACTER) [NEW]
+      🆕 '펩시' (MOVIE_CHARACTER) [NEW]
+      🆕 '아비' (MOVIE_CHARACTER) [NEW]
+      ✅ '도둑들' (MOVIE) [synonym_exact]
+      🆕 '센터장' (REVIEWER) [NEW]
+      🆕 '최동훈' (MOVIE_STAFF) [NEW]
+finish upload
+   💾 Saved 9 entities to Neptune (DB에 기존 존재: 5, 신규 생성: 4)
+
+   🔗 Relationship Resolution:
+      예니콜 → 도둑들
+      전지현 → 예니콜
+      줄리 → 도둑들
+      줄리 → 마카오 박
+      마카오 박 → 도둑들
+      ... and 5 more
+   💾 Saved 10 relationships to Neptune (DB에 기존 존재: 4, 신규 생성: 6)
+
+   --- Chunk 14/14 ---
