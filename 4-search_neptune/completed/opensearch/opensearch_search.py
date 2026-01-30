@@ -38,7 +38,7 @@ def search_entity_in_opensearch(
         search_body = {
             "query": {
                 "match": {
-                    "entity.synonym": entity_name
+                    "entity.synonym.text": entity_name
                 }
             },
             "size": 10,
