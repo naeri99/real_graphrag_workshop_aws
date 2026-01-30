@@ -19,7 +19,8 @@ def get_secret(secret_name: str, region_name: str = "us-west-2") -> dict:
 
 
 # Load OpenSearch configuration from Secrets Manager
-_secrets = get_secret("opensearch-credentials")
+AWS_REGION = os.environ.get('AWS_REAL_REGION', 'us-west-2')
+_secrets = get_secret("opensearch-credentials",region_name = AWS_REGION )
 
 OPENSEARCH_URL = _secrets.get('opensearch_host', '')
 OPENSEARCH_USER = _secrets.get('username', '')

@@ -13,7 +13,7 @@ import requests
 
 
 # AWS 리전 설정
-AWS_REGION = os.environ.get('AWS_DEFAULT_REGION', 'us-west-2')
+AWS_REGION = os.environ.get('AWS_REAL_REGION', 'us-west-2')
 
 # 전역 변수
 _neptune_session = None

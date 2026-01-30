@@ -11,9 +11,9 @@ from botocore.awsrequest import AWSRequest
 from botocore.exceptions import ClientError
 import requests
 
-
 # AWS 리전 설정
-AWS_REGION = os.environ.get('AWS_DEFAULT_REGION', 'us-west-2')
+AWS_REGION = os.environ.get('AWS_REAL_REGION', 'us-west-2')
+
 
 # 전역 변수
 _neptune_session = None
@@ -39,7 +39,7 @@ def get_secret(secret_name: str, region_name: str = "us-west-2") -> dict:
 
 def get_neptune_config() -> dict:
     """Secrets Manager에서 Neptune 설정을 가져옵니다."""
-    secrets = get_secret("opensearch-credentials", AWS_REGION)
+    secrets = get_secret("opensearch-credentials", region_name = AWS_REGION)
     return {
         'endpoint': secrets.get('neptune_endpoint', ''),
         'port': secrets.get('neptune_port', '8182'),

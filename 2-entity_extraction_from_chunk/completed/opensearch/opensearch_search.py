@@ -5,6 +5,8 @@ from typing import Dict, List, Tuple
 from opensearch.opensearch_con import get_opensearch_client
 
 
+
+
 def search_entity_in_opensearch(
     entity_name: str, 
     entity_type: str, 
@@ -28,42 +30,7 @@ def search_entity_in_opensearch(
         return entity_name, False, 'not_found'
     
     try:
-        # 1. 해당 타입의 모든 엔티티에서 동의어 검색
-        search_body = {
-            "query": {
-                "term": {
-                    "entity.entity_type": entity_type
-                }
-            },
-            "size": 100,
-            "_source": ["entity.name", "entity.synonym", "entity.entity_type"]
-        }
-        
-        response = opensearch_client.search(index=index_name, body=search_body)
-        hits = response.get('hits', {}).get('hits', [])
-        
-        for hit in hits:
-            entity = hit['_source'].get('entity', {})
-            entity_real_name = entity.get('name', '').strip()
-            synonyms = entity.get('synonym', '')
-            
-            if not synonyms:
-                continue
-            
-            if isinstance(synonyms, str):
-                synonym_list = [s.strip() for s in synonyms.split(',') if s.strip()]
-            else:
-                synonym_list = synonyms if isinstance(synonyms, list) else []
-            
-            # 정확한 매칭
-            if entity_name in synonym_list:
-                return entity_real_name, True, 'synonym_exact'
-            
-            # 부분 매칭
-            if any(entity_name in syn for syn in synonym_list):
-                return entity_real_name, True, 'synonym_partial'
-        
-        # 2. 정확한 이름 매칭 시도
+        # 1. 정확한 이름 매칭 시도
         exact_search_body = {
             "query": {
                 "bool": {
@@ -81,6 +48,7 @@ def search_entity_in_opensearch(
                 }
             },
             "size": 1,
+            "min_score": 3.0,
             "_source": ["entity.name"]
         }
         
@@ -90,6 +58,30 @@ def search_entity_in_opensearch(
         if hits:
             exact_name = hits[0]['_source'].get('entity', {}).get('name', entity_name).strip()
             return exact_name, True, 'name_exact'
+
+
+        # 2. 해당 타입의 모든 엔티티에서 동의어 검색
+        exact_synonym_search = {
+            "query": {
+                "bool": {
+                    "must": [
+                        {"term": {"entity.entity_type": entity_type}},
+                        {"match": {"entity.synonym.text": entity_name}}
+                    ]
+                }
+            },
+            "size": 1,
+            "_source": {
+                "excludes": ["entity.summary", "entity.summary_vec"]
+            }
+        }
+
+        response = opensearch_client.search(index=index_name, body=exact_synonym_search)
+        hits = response.get('hits', {}).get('hits', [])
+
+        if hits:
+            entity_real_name = hits[0]['_source']['entity']['name'].strip()
+            return entity_real_name, True, 'synonym_exact'
         
         return entity_name, False, 'not_found'
         

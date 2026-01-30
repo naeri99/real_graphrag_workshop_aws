@@ -1,3 +1,5 @@
+
+
 def find_entity_opensearch(opensearch_client, entity_name, index_name):
     """
     OpenSearch에서 엔티티 이름으로 검색하여 기존 동의어를 찾습니다.

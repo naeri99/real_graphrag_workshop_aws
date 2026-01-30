@@ -167,7 +167,7 @@ def hybrid_search_entities(query_text, index_name="movie_graph", k=10, entity_ty
         return text_search_entities(query_text, index_name, k, entity_type)
 
 
-def text_search_entities(query_text, index_name="movie_graph", k=10, entity_type=None):
+def text_search_entities(query_text, index_name="entities", k=10, entity_type=None):
     """
     텍스트 기반 엔티티 검색 (기본 분석기 사용)
     
@@ -249,7 +249,122 @@ def text_search_entities(query_text, index_name="movie_graph", k=10, entity_type
         return []
 
 
-def search_by_neptune_id(neptune_id, index_name="movie_graph"):
+def get_synonyms(index_name="entities"):
+    """
+    인덱스의 동의어 설정을 확인합니다.
+    
+    Args:
+        index_name: OpenSearch 인덱스 이름
+    
+    Returns:
+        동의어 설정 정보 (dict)
+    """
+    client = get_opensearch_client()
+    
+    try:
+        # 인덱스 설정 가져오기
+        settings = client.indices.get_settings(index=index_name)
+        
+        # 분석기 설정에서 동의어 필터 찾기
+        index_settings = settings.get(index_name, {}).get('settings', {}).get('index', {})
+        analysis = index_settings.get('analysis', {})
+        
+        synonym_info = {
+            'index_name': index_name,
+            'filters': {},
+            'analyzers': {}
+        }
+        
+        # 필터에서 동의어 찾기
+        filters = analysis.get('filter', {})
+        for filter_name, filter_config in filters.items():
+            if filter_config.get('type') == 'synonym' or filter_config.get('type') == 'synonym_graph':
+                synonym_info['filters'][filter_name] = filter_config
+        
+        # 분석기 정보
+        analyzers = analysis.get('analyzer', {})
+        for analyzer_name, analyzer_config in analyzers.items():
+            synonym_info['analyzers'][analyzer_name] = analyzer_config
+        
+        return synonym_info
+        
+    except Exception as e:
+        print(f"동의어 설정 조회 오류: {str(e)}")
+        return None
+
+
+def analyze_text_with_synonyms(text, index_name="entities", analyzer="nori_analyzer"):
+    """
+    텍스트를 분석하여 동의어 확장 결과를 확인합니다.
+    
+    Args:
+        text: 분석할 텍스트
+        index_name: OpenSearch 인덱스 이름
+        analyzer: 사용할 분석기 이름
+    
+    Returns:
+        분석 결과 (토큰 리스트)
+    """
+    client = get_opensearch_client()
+    
+    try:
+        response = client.indices.analyze(
+            index=index_name,
+            body={
+                "analyzer": analyzer,
+                "text": text
+            }
+        )
+        
+        tokens = []
+        for token in response.get('tokens', []):
+            tokens.append({
+                'token': token.get('token'),
+                'type': token.get('type'),
+                'position': token.get('position')
+            })
+        
+        return tokens
+        
+    except Exception as e:
+        print(f"텍스트 분석 오류: {str(e)}")
+        return []
+
+
+def test_synonym_expansion(text, index_name="entities"):
+    """
+    동의어 확장이 제대로 작동하는지 테스트합니다.
+    
+    Args:
+        text: 테스트할 텍스트
+        index_name: OpenSearch 인덱스 이름
+    
+    Returns:
+        분석 결과 비교
+    """
+    client = get_opensearch_client()
+    
+    results = {}
+    
+    # 인덱스에서 사용 가능한 분석기 목록 가져오기
+    try:
+        settings = client.indices.get_settings(index=index_name)
+        analyzers = settings.get(index_name, {}).get('settings', {}).get('index', {}).get('analysis', {}).get('analyzer', {})
+        
+        for analyzer_name in analyzers.keys():
+            try:
+                tokens = analyze_text_with_synonyms(text, index_name, analyzer_name)
+                results[analyzer_name] = [t['token'] for t in tokens]
+            except:
+                pass
+                
+    except Exception as e:
+        print(f"분석기 목록 조회 오류: {str(e)}")
+    
+    return results
+
+
+def search_by_neptune_id(neptune_id, index_name="entities"):
     """
     Neptune ID로 엔티티 검색 (정확한 매치)
     
@@ -281,7 +396,7 @@ def search_by_neptune_id(neptune_id, index_name="movie_graph"):
         return None
 
 
-def simple_movie_search(search_text, index_name="graph_rag", k=10):
+def simple_movie_search(search_text, index_name="entities", k=10):
     client = get_opensearch_client()
     try:
         text_query = {
