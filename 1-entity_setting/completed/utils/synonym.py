@@ -72,12 +72,10 @@ def update_entity_synonyms(opensearch_client, entity_id: str, merged_synonyms: l
         bool: 업데이트 성공 여부
     """
     try:
-        synonym_string = ','.join(merged_synonyms)
-        
         update_body = {
             "doc": {
                 "entity": {
-                    "synonym": synonym_string
+                    "synonym": merged_synonyms  # 배열로 저장
                 }
             }
         }

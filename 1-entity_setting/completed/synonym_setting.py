@@ -55,8 +55,11 @@ def add_synonyms_to_entity(opensearch_client, existing_entity: dict, new_synonym
     existing_synonyms = existing_entity['entity'].get('synonym', [])
     merged_synonyms = merge_synonyms_with_set(existing_synonyms, new_synonyms)
     
-    success = update_entity_synonyms(opensearch_client, existing_entity['id'], merged_synonyms, index_name)
-    return {'success': success, 'merged_synonyms': merged_synonyms}
+    # set을 list로 변환하여 저장
+    merged_synonyms_list = list(merged_synonyms) if isinstance(merged_synonyms, set) else merged_synonyms
+    
+    success = update_entity_synonyms(opensearch_client, existing_entity['id'], merged_synonyms_list, index_name)
+    return {'success': success, 'merged_synonyms': merged_synonyms_list}
 
 
 def print_final_stats(stats: dict):

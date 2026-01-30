@@ -48,7 +48,7 @@ def search_entity_in_opensearch(
                 }
             },
             "size": 1,
-            "min_score": 3.0,
+            "min_score": 3.4,
             "_source": ["entity.name"]
         }
         
@@ -66,7 +66,7 @@ def search_entity_in_opensearch(
                 "bool": {
                     "must": [
                         {"term": {"entity.entity_type": entity_type}},
-                        {"match": {"entity.synonym.text": entity_name}}
+                        {"term": {"entity.synonym": entity_name}}
                     ]
                 }
             },
