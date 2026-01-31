@@ -165,6 +165,11 @@ def parse_extraction_output(output_str, record_delimiter=None, tuple_delimiter=N
     if "<END>" in output_str:
         output_str = output_str.replace("<END>", "")
     output_str = output_str.strip()
+    
+    # 첫 번째 ("entity"| 또는 ("relationship"| 패턴 앞의 텍스트 제거
+    first_record_match = re.search(r'\("(?:entity|relationship)"\|', output_str)
+    if first_record_match:
+        output_str = output_str[first_record_match.start():]
 
     # Determine the record delimiter if not provided.
     if record_delimiter is None:
@@ -215,6 +220,9 @@ def parse_extraction_output(output_str, record_delimiter=None, tuple_delimiter=N
                 "entity_description": tokens[3]
             }
             entities.append(record)
+        elif rec_type == "entity":
+            # 디버깅: 왜 파싱 안 되는지 출력
+            print(f"   ⚠️ Entity 파싱 실패 (tokens={len(tokens)}): {tokens[:2] if tokens else 'empty'}")
         elif rec_type == "relationship" and len(tokens) == 7:
             # New format: ("relationship"|<source_entity>|<source_type>|<target_entity>|<target_type>|<description>|<strength>)
             try:

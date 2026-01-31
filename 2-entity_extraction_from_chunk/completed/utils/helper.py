@@ -36,7 +36,7 @@ REVIEWS_DIR = DATA_DIR / "reviews" / "DonghoonChoi"
 # ============================================================
 def generate_chunk_hash(chunk_text: str) -> str:
     """Generate unique hash for chunk content"""
-    return hashlib.md5(chunk_text.encode('utf-8')).hexdigest()[:8]
+    return hashlib.md5(chunk_text.encode('utf-8')).hexdigest()[:14]
 
 
 def generate_chunk_id(reviewer: str, chunk_hash: str) -> str:

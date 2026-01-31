@@ -3,8 +3,82 @@ OpenSearch 엔티티 검색 유틸리티
 """
 from typing import Dict, List, Tuple
 from opensearch.opensearch_con import get_opensearch_client
+from utils.bedrock_embedding import BedrockEmbedding
 
 
+# 전역 임베딩 클라이언트
+_embedder = None
+
+
+def delete_chunk_index_opensearch(index_name: str = "chunks"):
+    """
+    chunks 인덱스의 모든 문서 삭제 (인덱스는 유지)
+    """
+    try:
+        client = get_opensearch_client()
+        
+        # delete_by_query로 모든 문서 삭제
+        response = client.delete_by_query(
+            index=index_name,
+            body={"query": {"match_all": {}}},
+            refresh=True
+        )
+        
+        deleted = response.get('deleted', 0)
+        print(f"🗑️ OpenSearch chunks 삭제: {deleted}개")
+        return response
+        
+    except Exception as e:
+        print(f"❌ Chunks 삭제 오류: {e}")
+        return None
+
+def get_embedder():
+    """Bedrock 임베딩 클라이언트 싱글톤"""
+    global _embedder
+    if _embedder is None:
+        _embedder = BedrockEmbedding()
+    return _embedder
+
+
+def save_chunk_to_opensearch(chunk_hash: str, chunk_id: str, text: str, index_name: str = "chunks"):
+    """
+    청크를 OpenSearch에 저장 (텍스트 + 벡터)
+    
+    Args:
+        chunk_id: 청크 ID (neptune_id로 사용)
+        text: 청크 텍스트
+        index_name: 인덱스 이름
+    """
+    try:
+        client = get_opensearch_client()
+        embedder = get_embedder()
+        
+        # 텍스트를 벡터로 변환
+        context_vec = embedder.embed_text(text)
+        
+        # 문서 생성
+        doc = {
+            "chunk": {
+                "context": text,
+                "context_vec": context_vec,
+                "neptune_id": chunk_id
+            }
+        }
+        
+        # OpenSearch에 저장 (chunk_id를 문서 ID로 사용)
+        response = client.index(
+            index=index_name,
+            id=chunk_hash,
+            body=doc,
+            refresh=False
+        )
+        
+        print(f"   📦 Chunk saved to OpenSearch: {chunk_hash}")
+        return response
+        
+    except Exception as e:
+        print(f"   ❌ Chunk 저장 오류: {e}")
+        return None
 
 
 def search_entity_in_opensearch(

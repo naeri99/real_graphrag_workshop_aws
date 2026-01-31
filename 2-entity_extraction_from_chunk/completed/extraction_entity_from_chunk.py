@@ -17,7 +17,7 @@ from utils.helper import (
     generate_chunk_id
 )
 from opensearch.opensearch_con import get_opensearch_client
-from opensearch.opensearch_search import resolve_entities, resolve_relationships
+from opensearch.opensearch_search import resolve_entities, resolve_relationships, delete_chunk_index_opensearch
 from neptune.cyper_queries import (
     import_nodes_with_dynamic_label,
     import_relationships_with_dynamic_label,
@@ -59,6 +59,7 @@ def run_entity_extraction_pipeline(
         if clean_database:
             delete_all_nodes_and_relationships()
             print("🗑️ Database cleaned")
+            delete_chunk_index_opensearch()
     
     # 리뷰 파일 가져오기
     if reviews_dir:
@@ -153,7 +154,7 @@ def run_entity_extraction_pipeline(
                         clean_ent = {k: v for k, v in ent.items() if not k.startswith('_')}
                         clean_entities.append(clean_ent)
                     
-                    save_result = import_nodes_with_dynamic_label(clean_entities, movie_id, reviewer, chunk_id, chunk)
+                    save_result = import_nodes_with_dynamic_label(clean_entities, movie_id, reviewer, chunk_id, chunk, chunk_hash)
                     entity_stats = save_result.get('stats', {})
                     total['entities_saved'] += entity_stats.get('total', len(clean_entities))
                     total['entities_existing_in_neptune'] += entity_stats.get('existing', 0)

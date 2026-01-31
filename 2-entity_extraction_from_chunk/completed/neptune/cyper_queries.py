@@ -2,6 +2,7 @@
 Neptune Cypher 쿼리 유틸리티
 """
 from neptune.neptune_con import execute_cypher
+from opensearch.opensearch_search import save_chunk_to_opensearch
 import uuid
 import re
 import json
@@ -59,7 +60,7 @@ def check_relationship_exists(entity1, entity2):
     return False
 
 
-def import_nodes_with_dynamic_label(entities, movie_id, reviewer_id, chunk_id, text):
+def import_nodes_with_dynamic_label(entities, movie_id, reviewer_id, chunk_id, text, chunk_hash):
     """
     Import nodes with dynamic labels by grouping entities by type.
     If entity exists, append new descriptions to existing ones.
@@ -72,6 +73,9 @@ def import_nodes_with_dynamic_label(entities, movie_id, reviewer_id, chunk_id, t
     movie_neptune_id = generate_neptune_id(movie_id, "MOVIE")
     chunk_neptune_id = generate_neptune_id(chunk_id, "__Chunk__")
     
+    #### def save_chunk 
+    save_chunk_to_opensearch(chunk_hash, chunk_id, text)
+
     base_query = """
     MERGE (r:REVIEWER {id: $reviewer_id})
     ON CREATE SET r.neptune_id = $reviewer_neptune_id

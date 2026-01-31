@@ -10,7 +10,7 @@ data 폴더의 CSV 파일들에서 엔티티 정보를 읽어 OpenSearch에 저�
 """
 import csv
 from pathlib import Path
-from opensearch.opensearch_index_setting import delete_index, define_entity_index
+from opensearch.opensearch_index_setting import delete_index, define_entity_index, define_chunk_index
 from opensearch.opensearch_con import get_opensearch_client
 from utils.bedrock_embedding import BedrockEmbedding
 
@@ -277,11 +277,14 @@ def run_entity_indexing(index_name: str = "entities"):
     print("\n📦 Step 1: 인덱스 초기화")
     try:
         delete_index(opensearch_client, index_name)
+        delete_index(opensearch_client,  "chunks")
+
         print(f"   기존 인덱스 '{index_name}' 삭제 완료")
     except:
         print(f"   인덱스 '{index_name}' 없음 (새로 생성)")
     
     define_entity_index(opensearch_client, index_name)
+    define_chunk_index(opensearch_client, "chunks")
     print(f"   인덱스 '{index_name}' 생성 완료")
     
     # Step 2: 데이터 로드
