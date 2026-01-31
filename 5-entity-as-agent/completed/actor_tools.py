@@ -6,9 +6,13 @@ ACTOR 엔티티용 Strands Tools
 from strands import tool
 from tavily import TavilyClient
 from neptune.neptune_con import execute_cypher
-
+import os
 # Tavily 클라이언트
-tavily = TavilyClient(api_key="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")
+
+
+value = os.environ.get('TVLY')
+
+tavily = TavilyClient(api_key=value)
 
 
 @tool
