@@ -20,8 +20,9 @@ def get_all_actors() -> list:
 
 
 DEFAULT_ACTOR_PROMPT = """이 배우({name})에 대한 질문 처리 규칙:
-- 출연작, 배역, 영화 관계 → search_neptune 도구 사용
-- 최신 근황, 수상, 실시간 정보 → search_web 도구 사용"""
+- 출연작, 배역, 영화 관계 질문 → search_neptune 도구만 사용
+- "최신", "근황", "수상", "뉴스", "현재", "요즘" 키워드가 있을 때만 → search_web 도구 사용
+- 키워드가 없으면 절대 웹 검색하지 말고 Neptune 데이터만 사용"""
 
 
 def add_prompt_to_actor(actor_name: str, prompt: str = None):

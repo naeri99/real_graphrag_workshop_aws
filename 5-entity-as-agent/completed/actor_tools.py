@@ -12,54 +12,30 @@ tavily = TavilyClient(api_key="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")
 
 
 @tool
-def search_neptune(actor_name: str, query_type: str = "filmography") -> str:
+def search_neptune(actor_name: str) -> str:
     """
     Neptune 그래프DB에서 배우 정보를 조회합니다.
-    출연작, 배역, 영화 관계 등 저장된 정보를 검색할 때 사용하세요.
+    배우의 기본 정보를 검색할 때 사용하세요.
     
     Args:
         actor_name: 배우 이름
-        query_type: 조회 유형 (filmography, characters, relationships)
     """
-    if query_type == "filmography":
-        cypher = """
-        MATCH (a:ACTOR {name: $name})-[:ACTED_AS]->(c:MOVIE_CHARACTER)-[:APPEARS_IN]->(m:MOVIE)
-        RETURN m.name AS movie, c.name AS character, m.description AS movie_desc
-        LIMIT 10
-        """
-    elif query_type == "characters":
-        cypher = """
-        MATCH (a:ACTOR {name: $name})-[:ACTED_AS]->(c:MOVIE_CHARACTER)
-        RETURN c.name AS character, c.description AS description
-        LIMIT 10
-        """
-    else:
-        cypher = """
-        MATCH (a:ACTOR {name: $name})-[r]-(related)
-        WHERE NOT related:__Chunk__
-        RETURN type(r) AS relationship, related.name AS target, labels(related) AS target_type
-        LIMIT 15
-        """
-    
+    print(f"    🔍 [Neptune 검색] {actor_name}")
+    cypher = """
+    MATCH (a:ACTOR {name: $name})
+    RETURN a.name AS name, a.description AS description
+    """
     result = execute_cypher(cypher, name=actor_name)
-    results = result.get('results', []) if result else []
+    info = result.get('results', []) if result else []
     
-    if not results:
-        return f"'{actor_name}' 배우의 {query_type} 정보를 찾을 수 없습니다."
+    if not info:
+        return f"'{actor_name}' 배우 정보를 찾을 수 없습니다."
     
-    output = f"[Neptune DB] {actor_name} - {query_type}:\n"
-    for r in results:
-        if query_type == "filmography":
-            output += f"  - 영화: {r.get('movie')}, 배역: {r.get('character')}\n"
-        elif query_type == "characters":
-            desc = r.get('description', '')[:100] if r.get('description') else ''
-            output += f"  - {r.get('character')}: {desc}\n"
-        else:
-            target_type = r.get('target_type', [])
-            target_type = target_type[0] if isinstance(target_type, list) and target_type else target_type
-            output += f"  - [{r.get('relationship')}] → {r.get('target')} ({target_type})\n"
-    
-    return output
+    desc = info[0].get('description', '')
+    if desc:
+        return f"[Neptune DB] {actor_name}:\n  {desc}"
+    else:
+        return f"[Neptune DB] {actor_name}: 설명 정보 없음"
 
 
 @tool
@@ -72,6 +48,7 @@ def search_web(actor_name: str, search_type: str = "recent") -> str:
         actor_name: 배우 이름
         search_type: 검색 유형 (recent, awards, news)
     """
+    print(f"    🌐 [웹 검색] {actor_name} ({search_type})")
     search_queries = {
         "recent": f"배우 {actor_name} 최신 근황 2024 2025",
         "awards": f"배우 {actor_name} 수상 이력 영화제",

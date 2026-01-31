@@ -94,27 +94,33 @@ def get_entities_with_2hop_by_chunk_id(chunk_id: str) -> dict:
     return {'entities': list(entities.values()), 'relationships': relationships, 'agentic_candidates': agentic_candidates}
 
 
-def process_agentic_entity(entity_name: str, entity_prompt: str) -> dict:
-    """prompt가 있는 엔티티를 Strands Agent로 처리"""
+def process_agentic_entity(entity_name: str, entity_prompt: str, user_query: str) -> dict:
+    """prompt가 있는 ACTOR 엔티티를 Strands Agent로 처리"""
     prompt_filled = entity_prompt.replace('{name}', entity_name)
+    print(f"    🤖 [Agentic] {entity_name}")
     try:
         agent = Agent(
-            system_prompt=f"당신은 배우 정보 전문가입니다.\n{prompt_filled}\n배우의 최신 정보만 간단히 검색하세요. 한국어로 답변해주세요.",
+            system_prompt=f"당신은 배우 정보 전문가입니다.\n{prompt_filled}\n한국어로 답변해주세요.\n주의: 배우 '{entity_name}'에 대해서만 검색하세요. 다른 이름으로 검색하지 마세요.",
             tools=[search_neptune, search_web]
         )
-        response = agent(f"배우 '{entity_name}'의 최신 근황, 출연작, 수상 이력을 알려줘")
+        response = agent(f"배우 '{entity_name}'에 대해 답변해주세요. 유저 질문: {user_query}")
         result = response.message if hasattr(response, 'message') else str(response)
         return {'entity': entity_name, 'result': result, 'success': True}
     except Exception as e:
         return {'entity': entity_name, 'result': f"오류: {e}", 'success': False}
 
 
-async def process_agentic_entities_parallel(agentic_candidates: dict) -> list:
+async def process_agentic_entities_parallel(agentic_candidates: dict, user_query: str) -> list:
     """여러 Agentic 엔티티를 병렬로 처리"""
     if not agentic_candidates:
         return []
+    
+    print(f"    📋 Agentic 대상 목록:")
+    for name in agentic_candidates.keys():
+        print(f"       - {name}")
+    
     loop = asyncio.get_event_loop()
-    tasks = [loop.run_in_executor(_executor, process_agentic_entity, name, prompt) for name, prompt in agentic_candidates.items()]
+    tasks = [loop.run_in_executor(_executor, process_agentic_entity, name, prompt, user_query) for name, prompt in agentic_candidates.items()]
     print(f"    ⚡ {len(tasks)}개 Agentic 엔티티 병렬 처리 시작...")
     results = await asyncio.gather(*tasks)
     successful = [r for r in results if r.get('success')]
@@ -179,7 +185,7 @@ async def search_and_answer_async(query: str, k: int = 5):
     print(f"   Agentic 후보: {len(all_agentic)}개 (prompt 있는 엔티티)")
     
     print("\n🤖 3단계: Agentic 엔티티 병렬 처리...")
-    agentic_results = await process_agentic_entities_parallel(all_agentic)
+    agentic_results = await process_agentic_entities_parallel(all_agentic, query)
     
     print("\n📝 4단계: 답변 생성...")
     context = build_context(query, chunks, entities_list, all_relationships, agentic_results)
