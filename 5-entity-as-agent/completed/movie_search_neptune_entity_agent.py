@@ -2,8 +2,8 @@
 Movie Search Neptune + Agentic Entity
 - 사용자 쿼리에서 엔티티 추출
 - OpenSearch로 엔티티 이름 해결
-- ACTOR이고 prompt 있으면 → Strands Agent 사용
-- 아니면 → 기존 Cypher 쿼리 실행
+- Cypher 쿼리 실행
+- 결과에서 엔티티 타입 확인 → prompt 있으면 Agent, 없으면 데이터 리턴
 """
 import asyncio
 from concurrent.futures import ThreadPoolExecutor
@@ -19,17 +19,30 @@ from strands import Agent
 _executor = ThreadPoolExecutor(max_workers=5)
 
 
-def get_entity_info(entity_name: str) -> dict:
-    """엔티티의 타입과 prompt 조회"""
+def get_entities_with_prompt(entity_names: list) -> dict:
+    """여러 엔티티의 타입과 prompt 조회"""
+    if not entity_names:
+        return {}
+    
+    # IN 절로 한번에 조회
     query = """
-    MATCH (e {name: $name})
-    RETURN e.name AS name, labels(e) AS entity_type, e.prompt AS prompt, e.description AS description
-    LIMIT 1
+    MATCH (e)
+    WHERE e.name IN $names
+    RETURN e.name AS name, labels(e) AS entity_type, e.prompt AS prompt
     """
-    result = execute_cypher(query, name=entity_name)
+    result = execute_cypher(query, names=entity_names)
+    
+    entities_info = {}
     if result and result.get('results'):
-        return result['results'][0]
-    return None
+        for row in result['results']:
+            name = row.get('name')
+            entity_type = row.get('entity_type', [])
+            entity_type = entity_type[0] if isinstance(entity_type, list) and entity_type else entity_type
+            entities_info[name] = {
+                'type': entity_type,
+                'prompt': row.get('prompt')
+            }
+    return entities_info
 
 
 def process_agentic_entity(entity_name: str, entity_prompt: str, user_query: str) -> dict:
@@ -69,8 +82,19 @@ async def process_agentic_entities_parallel(agentic_list: list, user_query: str)
     return list(results)
 
 
+def extract_entity_names_from_cypher_result(cypher_result: dict) -> list:
+    """Cypher 결과에서 엔티티 이름들 추출"""
+    entity_names = set()
+    if cypher_result and cypher_result.get('results'):
+        for row in cypher_result['results']:
+            for key, value in row.items():
+                if isinstance(value, str) and len(value) > 1:
+                    entity_names.add(value)
+    return list(entity_names)
+
+
 async def search_with_entity_agent_async(query: str):
-    """엔티티 추출 → ACTOR면 Agent, 아니면 Cypher"""
+    """엔티티 추출 → Cypher → 결과에서 prompt 확인 → Agent or 데이터"""
     search = SmartGraphSearchLLM()
     opensearch_client = get_opensearch_client()
     
@@ -103,65 +127,69 @@ async def search_with_entity_agent_async(query: str):
         print(f"❌ 이름 해결 오류: {e}")
         resolved_mapping = {entity: entity for entity in entities}
     
-    # 3단계: 엔티티 타입 확인 및 분류
-    print(f"\n📊 3단계: 엔티티 타입 확인...")
-    agentic_list = []  # ACTOR + prompt 있는 것
-    normal_entities = []  # 나머지
-    
+    # 3단계: Cypher 쿼리 실행
+    print(f"\n🚀 3단계: Cypher 쿼리 실행...")
+    updated_query = query
     for original, resolved in resolved_mapping.items():
-        info = get_entity_info(resolved)
-        if info:
-            entity_type = info.get('entity_type', [])
-            entity_type = entity_type[0] if isinstance(entity_type, list) and entity_type else entity_type
-            prompt = info.get('prompt')
-            
-            print(f"   {resolved}: {entity_type}" + (" (Agentic)" if prompt else ""))
-            
-            if entity_type == 'ACTOR' and prompt:
-                agentic_list.append({'name': resolved, 'prompt': prompt})
-            else:
-                normal_entities.append(resolved)
-        else:
-            print(f"   {resolved}: 정보 없음")
-            normal_entities.append(resolved)
+        if original != resolved:
+            updated_query = updated_query.replace(original, resolved)
     
-    # 4단계: Agentic 엔티티 처리 (병렬)
+    cypher_result = None
+    try:
+        cypher_result = search.smart_search(updated_query)
+        if cypher_result['success']:
+            print(f"✅ Cypher 결과: {cypher_result['results_count']}개")
+            print(f"   요약: {cypher_result.get('summary', '')[:100]}...")
+        else:
+            print(f"❌ Cypher 오류: {cypher_result.get('error')}")
+    except Exception as e:
+        print(f"❌ Cypher 실행 오류: {e}")
+    
+    # 4단계: Cypher 결과에서 엔티티 이름 추출 + prompt 확인
+    print(f"\n📊 4단계: 결과 엔티티의 prompt 확인...")
+    all_entity_names = list(resolved_mapping.values())
+    
+    # Cypher 결과에서도 엔티티 이름 추출
+    if cypher_result and cypher_result.get('success'):
+        result_entities = extract_entity_names_from_cypher_result(cypher_result)
+        all_entity_names.extend(result_entities)
+    
+    all_entity_names = list(set(all_entity_names))
+    entities_info = get_entities_with_prompt(all_entity_names)
+    
+    # prompt 있는 것과 없는 것 분류
+    agentic_list = []
+    normal_data = []
+    
+    for name, info in entities_info.items():
+        if info.get('prompt'):
+            print(f"   {name}: {info['type']} (Agentic ✓)")
+            agentic_list.append({'name': name, 'prompt': info['prompt']})
+        else:
+            print(f"   {name}: {info['type']}")
+            normal_data.append(name)
+    
+    # 5단계: Agentic 엔티티 처리 (병렬)
     agentic_results = []
     if agentic_list:
-        print(f"\n🤖 4단계: Agentic 엔티티 처리...")
+        print(f"\n🤖 5단계: Agentic 엔티티 처리...")
         agentic_results = await process_agentic_entities_parallel(agentic_list, query)
-    
-    # 5단계: 나머지 엔티티는 Cypher 쿼리로 처리
-    cypher_result = None
-    if normal_entities:
-        print(f"\n🚀 5단계: Cypher 쿼리 실행...")
-        updated_query = query
-        for original, resolved in resolved_mapping.items():
-            if original != resolved:
-                updated_query = updated_query.replace(original, resolved)
-        
-        try:
-            cypher_result = search.smart_search(updated_query)
-            if cypher_result['success']:
-                print(f"✅ Cypher 결과: {cypher_result['results_count']}개")
-            else:
-                print(f"❌ Cypher 오류: {cypher_result.get('error')}")
-        except Exception as e:
-            print(f"❌ Cypher 실행 오류: {e}")
     
     # 6단계: 최종 답변 생성
     print(f"\n📝 6단계: 최종 답변 생성...")
     
     context = f"## 사용자 질문\n{query}\n\n"
     
+    # Cypher 결과 (일반 데이터)
+    if cypher_result and cypher_result.get('success'):
+        context += f"## 그래프 검색 결과\n{cypher_result.get('summary', '')}\n\n"
+    
+    # Agentic 결과 (배우 최신 정보)
     if agentic_results:
         context += "## 배우 정보 (Agentic)\n"
         for ar in agentic_results:
             if ar.get('success'):
                 context += f"### {ar['entity']}\n{ar['result']}\n\n"
-    
-    if cypher_result and cypher_result.get('success'):
-        context += f"## 그래프 검색 결과\n{cypher_result.get('summary', '')}\n"
     
     final_agent = Agent(
         system_prompt="당신은 영화 정보 전문가입니다. 주어진 컨텍스트를 바탕으로 사용자의 질문에 정확하고 상세하게 답변해주세요. 한국어로 답변해주세요."
@@ -175,9 +203,9 @@ async def search_with_entity_agent_async(query: str):
     
     return {
         'query': query,
-        'entities': list(resolved_mapping.values()),
-        'agentic_results': agentic_results,
+        'entities': all_entity_names,
         'cypher_result': cypher_result,
+        'agentic_results': agentic_results,
         'answer': response.message
     }
 
