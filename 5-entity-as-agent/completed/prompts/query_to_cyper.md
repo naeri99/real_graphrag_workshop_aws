@@ -54,6 +54,31 @@ WHERE r.summary IS NOT NULL
 RETURN a.name, r.summary, b.name LIMIT 20
 ```
 
+### Character-Actor Queries (IMPORTANT)
+```cypher
+// Find character with their actor - USE THIS when user asks about actors or "배우"
+MATCH (a:MOVIE_CHARACTER)-[r:RELATIONSHIP]-(b:MOVIE_CHARACTER)
+WHERE LOWER(a.name) CONTAINS LOWER('character_name')
+OPTIONAL MATCH (actor:ACTOR)-[:RELATIONSHIP]->(a)
+RETURN a.name AS character, a.description, actor.name AS actor_name, actor.description AS actor_description
+LIMIT 20
+
+// Find actor information for characters
+MATCH (actor:ACTOR)-[:RELATIONSHIP]->(char:MOVIE_CHARACTER)
+WHERE LOWER(char.name) CONTAINS LOWER('character_name')
+RETURN actor.name, actor.description, char.name AS character_name
+LIMIT 20
+```
+
+## IMPORTANT: Actor Information Rule
+**When the user asks about "배우" (actor), "연기" (acting), "출연" (starring), "최신 정보" (latest info), or any actor-related information:**
+1. ALWAYS include OPTIONAL MATCH to find connected ACTOR nodes
+2. Return actor.name in the results
+3. Use the Character-Actor query pattern above
+
+Example: If user asks "안옥윤과 하와이 피스톨의 관계와 배우 정보"
+→ Must include: `OPTIONAL MATCH (actor:ACTOR)-[:RELATIONSHIP]->(character)` to get actor names
+
 ## Input
 User Question: {USER_QUESTION}
 
@@ -80,6 +105,22 @@ RETURN a.name, r.description, r.summary, b.name LIMIT 20
 **Query**: 
 ```cypher
 MATCH (a:ACTOR) RETURN a.name, a.description LIMIT 20
+```
+
+**Question**: "안옥윤과 하와이 피스톨의 관계와 배우 정보를 알려줘"
+**Query**: 
+```cypher
+MATCH (a:MOVIE_CHARACTER)-[r:RELATIONSHIP]-(b:MOVIE_CHARACTER)
+WHERE (LOWER(a.name) CONTAINS LOWER('안옥윤') AND LOWER(b.name) CONTAINS LOWER('하와이 피스톨'))
+   OR (LOWER(a.name) CONTAINS LOWER('하와이 피스톨') AND LOWER(b.name) CONTAINS LOWER('안옥윤'))
+OPTIONAL MATCH (actor1:ACTOR)-[:RELATIONSHIP]->(a)
+OPTIONAL MATCH (actor2:ACTOR)-[:RELATIONSHIP]->(b)
+RETURN a.name AS character1, a.description AS character1_description, a.summary AS character1_summary,
+       b.name AS character2, b.description AS character2_description, b.summary AS character2_summary,
+       r.description AS relationship_description, r.summary AS relationship_summary,
+       actor1.name AS actor1_name, actor1.description AS actor1_description,
+       actor2.name AS actor2_name, actor2.description AS actor2_description
+LIMIT 20
 ```
 
 ---

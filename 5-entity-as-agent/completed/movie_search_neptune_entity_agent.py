@@ -88,9 +88,34 @@ def extract_entity_names_from_cypher_result(cypher_result: dict) -> list:
     if cypher_result and cypher_result.get('results'):
         for row in cypher_result['results']:
             for key, value in row.items():
+                # actor_name, character 등 이름 관련 필드만 추출
                 if isinstance(value, str) and len(value) > 1:
-                    entity_names.add(value)
+                    # description, summary 등 긴 텍스트는 제외
+                    if 'description' not in key and 'summary' not in key and 'action' not in key:
+                        entity_names.add(value)
     return list(entity_names)
+
+
+def get_actors_for_characters(character_names: list) -> list:
+    """캐릭터와 연결된 ACTOR 이름들 조회"""
+    if not character_names:
+        return []
+    
+    # 방향 무관하게 조회 (ACTOR-MOVIE_CHARACTER 관계)
+    query = """
+    MATCH (actor:ACTOR)-[:RELATIONSHIP]-(char:MOVIE_CHARACTER)
+    WHERE char.name IN $names
+    RETURN DISTINCT actor.name AS actor_name
+    """
+    result = execute_cypher(query, names=character_names)
+    
+    actors = []
+    if result and result.get('results'):
+        for row in result['results']:
+            actor_name = row.get('actor_name')
+            if actor_name:
+                actors.append(actor_name)
+    return actors
 
 
 async def search_with_entity_agent_async(query: str):
@@ -155,6 +180,15 @@ async def search_with_entity_agent_async(query: str):
         all_entity_names.extend(result_entities)
     
     all_entity_names = list(set(all_entity_names))
+    
+    # 캐릭터와 연결된 ACTOR도 조회 (배우 최신 정보 요청 대응)
+    print(f"\n🎭 4-1단계: 캐릭터 연결 ACTOR 조회...")
+    actors = get_actors_for_characters(all_entity_names)
+    if actors:
+        print(f"   발견된 ACTOR: {actors}")
+        all_entity_names.extend(actors)
+        all_entity_names = list(set(all_entity_names))
+    
     entities_info = get_entities_with_prompt(all_entity_names)
     
     # prompt 있는 것과 없는 것 분류
