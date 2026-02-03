@@ -22,7 +22,9 @@ def search_specific_queries():
     queries = [
         "썬더와 가든 그리고 이안은 어떤 관계야?",
         "대길과 고광렬은 어떤 관계야?",
-        "김윤석이는 연기한 캐릭터는?"
+        "김윤석이는 연기한 캐릭터는?",
+        "전우치와 무륵의 관계는 어떤관계가 있는지 가변길이를 활용해서 찾아줘"
+
     ]
     
     for i, query in enumerate(queries, 1):
