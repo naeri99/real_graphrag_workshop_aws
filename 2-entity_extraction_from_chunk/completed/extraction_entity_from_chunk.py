@@ -132,7 +132,7 @@ def run_entity_extraction_pipeline(
                 total['entities_new'] += entity_metrics['new']
                 
                 # 엔티티 매칭 결과 출력
-                print(f"\n   📊 Entity Resolution:")
+                print(f"\n   📊 Entity Resolution: Search Entity in Neptune via OpenSearch Synonym")
                 for ent in resolved_entities:
                     original = ent.get('_original_name', ent['entity_name'])
                     resolved_name = ent['entity_name']
