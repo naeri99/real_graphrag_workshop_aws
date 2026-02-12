@@ -104,7 +104,9 @@ def run_entity_extraction_pipeline(
             
             for j, chunk in enumerate(chunks, 1):
                 print(f"\n   --- Chunk {j}/{len(chunks)} ---")
-                
+                print(f"f{chunk[:800]}... 생략 ...")
+                print(f"\n   --- Chunk Transformation ---")
+
                 # 청크 ID 생성
                 chunk_hash = generate_chunk_hash(chunk)
                 chunk_id = generate_chunk_id(reviewer, chunk_hash)
