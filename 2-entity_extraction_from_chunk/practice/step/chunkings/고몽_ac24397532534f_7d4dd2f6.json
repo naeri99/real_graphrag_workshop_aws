@@ -1,0 +1,384 @@
+{
+  "chunk_hash": "ac24397532534f",
+  "chunk_id": "고몽_ac24397532534f_7d4dd2f6",
+  "user_query": "으 아 [음악] 안녕하세요 영화리뷰 채널 키노트 입니다 이번 리뷰에서는 최동훈 감독의 야심찬 쌕 판타지 시리즈 시작인 외계인 일부가 10 한 이유를 살펴 보려 합니다 2022년 현재 인간의 몸에 가두어진 외계인 죄수의 8억을 막기 위해 집에선 추인 못 가드와 성 인간의 일에 관여하지 않는다는 원칙 하에서 이들은 지구의 여러 시간대에 최 수를 가둬두고 전통차 비행선 으로 변신할 수 있는 썬더 를 통해 시간여행을 하며 최 수들이 감시합니다 그러던 어느날 고려시대 말로 이동의 탈옥한 죄수 를 건강 카드와 선도는 2차 않게 인간의 아기를 현재로 데려와 키우기 시작하죠 한편 고려말 조사 모르는 항상 컴에 받기 위해 심 검을 찾으러 가수다 가 요괴를 맞고 마찬가지로 신검을 체면이 1과 속이는 쟁탈전 해버립니다 2 신선 흑설 과 처음 도 마찬가지로 요기에 존재를 감지하고 신검이 쫓는 가운데 일본의 수작 자장 조사도 신검 생태 전에 가닥 에세 퍼와 판타지 의 만남을 보여주며 화백의 일부는 언제 최 구성부터 닫자 전우치 도둑들 암 4대 이르기까지 흥행 불편이 교 최동훈 감독의 7년만의 신작 잉카 유준열 김우빈 김태희 소시 석 엄청 안 좋으신 위성 이하늬 등 스타 배우들이 총 칩 없고 387 길이라는 한국역사 후작도 더 충남 자랑하죠 승리 옥처럼 한국형 sf 를 표방한 것이나 올 여름 벽돌 r 이른바 한 흉 앞이 도중 첫번째 있게 내가 더 컸습니다 그러나 안타깝게도 회계 일본은 실망스럽습니다 널어 이유를 꼽을 수 있는데요 과거와 현지로 밤에 영화의 촛점은 산만하고 감독의 장점이 하이스트 장르의 특징이 발현 되려는 찰나에 리듬감이 축적된 키는 느낌도 듭니다 배우들의 열연에 도 불구하고 1 풀이 최근 캐릭터들의 매력도 크게 느껴지지 않습니다 그중에서도 결정적인 1 꽤 있죠 외계인은 감독의 전작 이자 9평 히어로 또는 며 판타지 영화의 전우치 의 확장판 일할 수 있는데 바로 이 치 점에서 s 에 법한 탓이라는 상의한 장르적 특성을 이쪽 고려하시고 펀드도 이기 때문입니다 우선 외계인 일부는 여러 측면에서 전후 취하 유사 속에 보여줍니다 소사 모르게 첫 등장은 보이고 4 지문으로 등장했던 전후 체 등장 시노 마주하며 과거에서 현재 비기 동안 저도 추 처럼 외계 일부 드 시 간 표 해주시오 도시에서 흑설 과 청원이 꿈이 들에도 맞는 것은 신선 3인방을 연상시키고 고향 으로 펜션 1 저항 과 우왕은 예진이 영계 초래 길일 뿐 팝니다 아직 완성되지 않은 도사가 등장이 여러 시련 끝에 스승에 알려주지 않는 빛 일이 득도 한다는 전개도 전우치 의 성장 서사적 일치 하구요 사람의 모습을 한 채 숨어 지내며 필히 노리단 요게 허 삶처럼 외계인이 사람의 모습이 취한 체 신규 검을 쫓는 것 역시 꿈 동종 입니다 이는 바꿔 말해 외계인 1 버 가 제목에서부터 강조하고 있는 외계인의 존재는 전후 c 를 더 큰 세계관으로 확장시키기 위한 핵심 도구 라는 의미이고 합니다 전우치가 일반 양쪽으로 과거에서 현지 be 동안 태그 쳤으니 영화에 더 많은 도 4와 도 복잡한 시간여행 길을 보여",
+  "movie_id": "외계+인",
+  "reviewer": "고몽",
+  "chunk_index": 1,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "키노트",
+      "entity_type": "REVIEWER",
+      "entity_description": "키노트는 영화리뷰 채널로 외계+인 영화를 리뷰하고 있다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "외계+인",
+      "entity_type": "MOVIE",
+      "entity_description": "외계+인은 최동훈 감독의 SF 판타지 시리즈로, 2022년 현재와 고려시대 말을 배경으로 외계인 죄수와 가드, 도사들의 신검 쟁탈전을 다룬 영화이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "최동훈",
+      "entity_type": "MOVIE_STAFF",
+      "entity_description": "최동훈은 외계+인의 감독으로, 전우치, 도둑들, 암살 등 흥행작을 만든 감독이며 7년만의 신작으로 외계+인을 연출했다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "류준열",
+      "entity_type": "ACTOR",
+      "entity_description": "류준열은 외계+인에 출연한 스타 배우이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "김우빈",
+      "entity_type": "ACTOR",
+      "entity_description": "김우빈은 외계+인에 출연한 스타 배우이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "김태리",
+      "entity_type": "ACTOR",
+      "entity_description": "김태리는 외계+인에 출연한 스타 배우이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "소지섭",
+      "entity_type": "ACTOR",
+      "entity_description": "소지섭은 외계+인에 출연한 스타 배우이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "이하늬",
+      "entity_type": "ACTOR",
+      "entity_description": "이하늬는 외계+인에 출연한 스타 배우이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "가드",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "가드는 외계인 죄수를 감시하는 존재로, 썬더를 통해 시간여행을 하며 죄수들을 감시한다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "썬더",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "썬더는 전통차에서 비행선으로 변신할 수 있는 존재로, 시간여행을 가능하게 한다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "도사 무륵",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "도사 무륵은 고려말 신검을 찾으러 가다가 요괴를 만나 신검 쟁탈전에 휘말리는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "흑설",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "흑설은 신선으로 요괴의 존재를 감지하고 신검을 쫓는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "청이",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "청이는 흑설과 함께 등장하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "전우치",
+      "entity_type": "MOVIE",
+      "entity_description": "전우치는 최동훈 감독의 전작으로, 판타지 영화이며 외계+인과 여러 측면에서 유사성을 보인다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "도둑들",
+      "entity_type": "MOVIE",
+      "entity_description": "도둑들은 최동훈 감독의 흥행작 중 하나이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "암살",
+      "entity_type": "MOVIE",
+      "entity_description": "암살은 최동훈 감독의 흥행작 중 하나이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "키노트",
+      "source_type": "REVIEWER",
+      "target_entity": "외계+인",
+      "target_type": "MOVIE",
+      "relationship_description": "키노트는 외계+인 영화를 리뷰하며 실망스럽다는 평가를 내렸다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "최동훈",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "외계+인",
+      "target_type": "MOVIE",
+      "relationship_description": "최동훈은 외계+인을 감독했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "최동훈",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "전우치",
+      "target_type": "MOVIE",
+      "relationship_description": "최동훈은 전우치를 감독했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "최동훈",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "도둑들",
+      "target_type": "MOVIE",
+      "relationship_description": "최동훈은 도둑들을 감독했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "최동훈",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "암살",
+      "target_type": "MOVIE",
+      "relationship_description": "최동훈은 암살을 감독했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "류준열",
+      "source_type": "ACTOR",
+      "target_entity": "외계+인",
+      "target_type": "MOVIE",
+      "relationship_description": "류준열은 외계+인에 출연했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "김우빈",
+      "source_type": "ACTOR",
+      "target_entity": "외계+인",
+      "target_type": "MOVIE",
+      "relationship_description": "김우빈은 외계+인에 출연했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "김태리",
+      "source_type": "ACTOR",
+      "target_entity": "외계+인",
+      "target_type": "MOVIE",
+      "relationship_description": "김태리는 외계+인에 출연했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "소지섭",
+      "source_type": "ACTOR",
+      "target_entity": "외계+인",
+      "target_type": "MOVIE",
+      "relationship_description": "소지섭은 외계+인에 출연했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "이하늬",
+      "source_type": "ACTOR",
+      "target_entity": "외계+인",
+      "target_type": "MOVIE",
+      "relationship_description": "이하늬는 외계+인에 출연했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "가드",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "외계+인",
+      "target_type": "MOVIE",
+      "relationship_description": "가드는 외계+인의 등장인물이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "썬더",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "외계+인",
+      "target_type": "MOVIE",
+      "relationship_description": "썬더는 외계+인에서 시간여행을 가능하게 하는 존재이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "가드",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "썬더",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "가드는 썬더를 통해 시간여행을 한다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "도사 무륵",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "외계+인",
+      "target_type": "MOVIE",
+      "relationship_description": "도사 무륵은 외계+인의 등장인물이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "흑설",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "외계+인",
+      "target_type": "MOVIE",
+      "relationship_description": "흑설은 외계+인의 등장인물이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "청이",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "외계+인",
+      "target_type": "MOVIE",
+      "relationship_description": "청이는 외계+인의 등장인물이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "흑설",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "청이",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "흑설과 청이는 함께 등장하는 신선 캐릭터이다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "외계+인",
+      "source_type": "MOVIE",
+      "target_entity": "전우치",
+      "target_type": "MOVIE",
+      "relationship_description": "외계+인은 전우치의 확장판으로 볼 수 있으며 여러 측면에서 유사성을 보인다",
+      "relationship_strength": 9
+    }
+  ],
+  "entity_resolution": {
+    "키노트": {
+      "description": "키노트 -> 키노트",
+      "resolved_name": "키노트",
+      "entity_type": "REVIEWER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "외계+인": {
+      "description": "외계+인 -> 외계+인",
+      "resolved_name": "외계+인",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "최동훈": {
+      "description": "최동훈 -> 최동훈",
+      "resolved_name": "최동훈",
+      "entity_type": "MOVIE_STAFF",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "류준열": {
+      "description": "류준열 -> 류준열",
+      "resolved_name": "류준열",
+      "entity_type": "ACTOR",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "김우빈": {
+      "description": "김우빈 -> 김우빈",
+      "resolved_name": "김우빈",
+      "entity_type": "ACTOR",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "김태리": {
+      "description": "김태리 -> 김태리",
+      "resolved_name": "김태리",
+      "entity_type": "ACTOR",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "소지섭": {
+      "description": "소지섭 -> 소지섭",
+      "resolved_name": "소지섭",
+      "entity_type": "ACTOR",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "이하늬": {
+      "description": "이하늬 -> 이하늬",
+      "resolved_name": "이하늬",
+      "entity_type": "ACTOR",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "가드": {
+      "description": "가드 -> 가드",
+      "resolved_name": "가드",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "썬더": {
+      "description": "썬더 -> 썬더",
+      "resolved_name": "썬더",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "도사 무륵": {
+      "description": "도사 무륵 -> 도사 무륵",
+      "resolved_name": "도사 무륵",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "흑설": {
+      "description": "흑설 -> 흑설",
+      "resolved_name": "흑설",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "청이": {
+      "description": "청이 -> 청이",
+      "resolved_name": "청이",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "전우치": {
+      "description": "전우치 -> 전우치",
+      "resolved_name": "전우치",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "도둑들": {
+      "description": "도둑들 -> 도둑들",
+      "resolved_name": "도둑들",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "암살": {
+      "description": "암살 -> 암살",
+      "resolved_name": "암살",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "name_exact"
+    }
+  }
+}
