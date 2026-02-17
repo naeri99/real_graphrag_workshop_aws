@@ -1,0 +1,265 @@
+{
+  "chunk_hash": "a9f58317cf3f79",
+  "chunk_id": "고몽_a9f58317cf3f79_74941483",
+  "user_query": "건데. 누구 맘대로? 눈은 거짓말 못 해. 광철은 유령 빛에 들어갔고 미나가 빼우려고 작업장을 찾아가다 동식의 눈에 뛴 거였습니다. 나도 모르게 끌려다녔어. 광철은 동생이 당한 것에 화가 나 살인을 저질러 버렸고요. 나 더러운 연이야. 좋은 여자 만나. 목숨 살린 여자보다 더 좋은 여자라고 어디서 만나? 내가 아직 근사한 인간은 못 됐는데 도박꾼이 도박근면 근사한 거 아니야? 너도 이제부터 남은 인생 다르게 살면 되지. 나랑 같이 왜 팔았어요? 예. 남한테 팔지 말라 그랬는데 이제 보니까 눈이 예쁘네. 동식은 행방을 찾아보지 못하면 개밥이 될 수 있다며 협박을 하고는 자리를 뜹니다. 우리 사장님 좀 보시자는데요. 계산 다 끝났는데 뭘 또 보지? 김구는들을 생각이 없어 보입니다. 결국 힘으로 데려가려 하는데요. [음악] 아, 광렬은 대길과 미하를 위해 몸을 던져 희생했습니다. 어떡해 이거? 아, 아, 도와주세요. 소리하는 거예요. 아, 선생님 나는 오랜만에 오빠를 만났는데요. 그때 얘기한 기술자는 인간들 그냥 놔두는게 더 위험해. 연락처 보낼게. 나오면 이제 남들처럼 살자. 애들은 스승이 광열에 유품을 얼음 만지며 그를 그리워하고 있었습니다. 복수하지 말라고. 나 선생님 복수하는 거 아니야. 조아과 벤치이 둘은 광철의 깜방 동료로 사기꾼과 전문 털리범이라 보시면 되겠습니다. 광철 씨한테 내가 빵에서 신설 좀 졌지. 예산은 대충 50억 예상하고 있고요. 두 분 대충 10억씩은 챙겨 드릴게요. 말고 스질 때문에 이러는 스타일이라고 들었는데 어떻게 해 드릴까? 히카리타인데 이걸로 한번 만져 주세요. 처음에는 속마담 먼저 손보기 시작하는데요. 뭐씨 나 손제 먹을까? 홍마담의 짐에서 돈을 털었고 그녀는 사정이 있다며 기다려 달라 부탁합니다. 사장님. 아이고 사모님 주세요. 미나는 속마담에게 돈 많은 부자의 분위기를 품내기 시작합니다. 누구야? 돈많은 영광 첩 같은데 카토는 된장이야. 처음에는 돈을 딸 수 있도록 일부러 퍼줍니다. 작업을 할 때 제일 많이 쓰는 꼼수 같은데요. 이젠 대놓고 미나의 패배가 뭔지 확인할 정도인데요. 천 2천 3천 5천 받고 5천 더 1억 더 3억으로 우인 10억 가까이 되는 큰 판입니다. 과연 누가 승리하게 될까요? 굿름은 가져가. 뭔데? 직접 까보세요. [음악] 첫 프로젝트 성공에 다 같이 기쁨을 만 원합니다. 니 자, 다음 시 넘어갑시다. 다음 작업 상대는 서질장과 작은마담인데요. 둘은 대길과 꼬장을 배신한 뒤 결혼하고 재벌들과 연을 만들어서 털어 먹으려는 계획을 세우고 있습니다. 인터풀에서 나왔습니다. 이분 아시죠? 냄새 맡은 거 같아. 박가라는게 얼만데? 이때 속마담이 서실장에게 전화를 겁니다. 서실장 오랜만이야. 물었어. 벤치는 집에 볼래 들어가 화투패를 바꿔치게 해둡니다. 신분히 청단 가져가시고 홍단 가져가시고 쓰리고 뭔거 지금부터 반격이 시작입니다. 아마 이때까지 서식장이 이길 수 있을 거라 확신했겠죠. 고돌이 다 나왔어. 역구에 떴다쓰면 따답을 맞죠. 옆구. 난 모르겠습니다. 두 분이 알아. 아이 나이.",
+  "movie_id": "타짜",
+  "reviewer": "고몽",
+  "chunk_index": 7,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "광철",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "광철은 동생이 당한 것에 화가 나 살인을 저지른 인물로, 대길과 미하를 위해 희생한 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "미나",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "미나는 광철을 빼내려고 작업장을 찾아갔으며, 나중에 속마담에게 돈 많은 부자 행세를 하며 도박 작업에 참여하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "동식",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "동식은 미나를 발견하고 행방을 찾지 못하면 위험하다며 협박하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "대길",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "대길은 광철의 희생으로 구해진 인물이며, 서실장과 꼬장에게 배신당한 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "미하",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "미하는 광철의 희생으로 구해진 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "조아",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "조아는 광철의 감옥 동료로 사기꾼이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "벤치",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "벤치는 광철의 감옥 동료로 전문 털이범이며, 화투패를 바꿔치기하는 역할을 한다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "속마담",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "속마담은 홍마담으로도 불리며, 돈을 털리고 사정이 있다며 기다려 달라 부탁하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "서실장",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "서실장은 대길과 꼬장을 배신한 뒤 결혼하고 재벌들과 연을 만들어 털어먹으려는 계획을 세우는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "작은마담",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "작은마담은 서실장과 결혼한 인물로 함께 재벌들을 털어먹으려는 계획을 세운다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "꼬장",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "꼬장은 서실장에게 배신당한 인물이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "광철",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "미나",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "미나가 광철을 유령 빛에서 빼내려고 작업장을 찾아갔다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "광철",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "대길",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "광철은 대길을 위해 몸을 던져 희생했다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "광철",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "미하",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "광철은 미하를 위해 몸을 던져 희생했다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "동식",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "미나",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "동식은 미나를 발견하고 협박했다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "조아",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "광철",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "조아는 광철의 감옥 동료이다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "벤치",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "광철",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "벤치는 광철의 감옥 동료이다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "조아",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "벤치",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "조아와 벤치는 함께 사기 작업을 진행하는 동료이다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "서실장",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "대길",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "서실장은 대길을 배신했다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "서실장",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "꼬장",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "서실장은 꼬장을 배신했다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "서실장",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "작은마담",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "서실장과 작은마담은 결혼하여 함께 범죄 계획을 세운다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "속마담",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "서실장",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "속마담이 서실장에게 전화를 건다",
+      "relationship_strength": 6
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "미나",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "속마담",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "미나는 속마담에게 돈 많은 부자 행세를 하며 도박 작업을 진행한다",
+      "relationship_strength": 8
+    }
+  ],
+  "entity_resolution": {
+    "광철": {
+      "description": "광철 -> 허광철",
+      "resolved_name": "허광철",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "미나": {
+      "description": "미나 -> 허미나",
+      "resolved_name": "허미나",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "동식": {
+      "description": "동식 -> 장동식",
+      "resolved_name": "장동식",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "대길": {
+      "description": "대길 -> 함대길",
+      "resolved_name": "함대길",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "미하": {
+      "description": "미하 -> 허미나",
+      "resolved_name": "허미나",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "조아": {
+      "description": "조아 -> 조화백",
+      "resolved_name": "조화백",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "벤치": {
+      "description": "벤치 -> 뺀치",
+      "resolved_name": "뺀치",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "속마담": {
+      "description": "속마담 -> 속마담",
+      "resolved_name": "속마담",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "서실장": {
+      "description": "서실장 -> 서실장",
+      "resolved_name": "서실장",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "작은마담": {
+      "description": "작은마담 -> 화란",
+      "resolved_name": "화란",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "꼬장": {
+      "description": "꼬장 -> 고광렬",
+      "resolved_name": "고광렬",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    }
+  }
+}

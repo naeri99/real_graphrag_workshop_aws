@@ -1,0 +1,36 @@
+{
+  "chunk_hash": "6fd92263c56770",
+  "chunk_id": "엉준_6fd92263c56770_5e369d28",
+  "user_query": "여러분의 매를 평안 하시게 맞추며 듀나 였읍니다 으 으 으 으 soul to so 오 오 오 오 오 오 예상치와 how 아 세법 회계 셰 아몰 해낸 빨 row 치운 제안 달아 아",
+  "movie_id": "외계+인",
+  "reviewer": "엉준",
+  "chunk_index": 16,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "듀나",
+      "entity_type": "REVIEWER",
+      "entity_description": "듀나는 영화 리뷰를 진행하는 리뷰어이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "듀나",
+      "source_type": "REVIEWER",
+      "target_entity": "듀나",
+      "target_type": "REVIEWER",
+      "relationship_description": "듀나는 리뷰를 마무리하며 자신을 소개했다",
+      "relationship_strength": 5
+    }
+  ],
+  "entity_resolution": {
+    "듀나": {
+      "description": "듀나 -> 듀나",
+      "resolved_name": "듀나",
+      "entity_type": "REVIEWER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

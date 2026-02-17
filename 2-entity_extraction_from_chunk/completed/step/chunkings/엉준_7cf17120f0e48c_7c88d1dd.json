@@ -1,0 +1,150 @@
+{
+  "chunk_hash": "7cf17120f0e48c",
+  "chunk_id": "엉준_7cf17120f0e48c_7c88d1dd",
+  "user_query": "안치려고 합니다. 아까요. 아 단속 나온 줄 알았네. 뒤지 마라. 돈 따야지 어디 갑니까? 너무 무해 봅시다. 나 많이 갖고 와. 정마담은 드디어 옷사리를 끝내고 출소했습니다. 나오자마자 도박에 꽂힌 돈 많은 부자를 작업하는데요. 죄송해요. 같은데. 아 닦는다고 지워줘. 됐어.이 이 사람은 호구의 자산은 100억 정도로 추정된다 하니 이번 작업이 잘 성공한다면 압상한 재산도 회복이 가능하겠죠? 어 전 잘 몰라요. 오백이 그렇게 아까우세요? 본인 문제가 아니라 그런 분이셨군요. 림이 마음 훔치기에 성공합니다. 먹고 살기 힘들다. 정마담은 혼자 있을 때면 자신의 곁을 떠난 고니에 대한 그리움이 여전히 자리잡고 있었습니다. 벌리시면 나 책임 지는데 스크 주소 내 송이 이래가 나 좀 패로 꼬셔 보자 돈 받고 5,000도 었어 나 요거 다 합치면 한 1억쯤 되는데 다 밀어 넣죠 여덟 끝 얘는 7땡이 어디서 나온 거야 돈 가져올테니까 한 판 더 해 너지 나한테 안 돼 새끼가 너 자귀 건방지에 배선배님도 골라고 곤니는 짝기에게 아까 일곱 끝고에 대한 거짓말의 타이밍은 어떻게 하는지 물어봤습니다. 입니다. 불라질 때 절대 상대방을 보지 마라. 아랑은 어떻게 되신 겁니까? 아귀의 이야기가 나오니는 취한다며 늦습니다. 기 누나 엄마한테 갖다 들리면 되는 거지. 고니는 드디어 누나의 돈을 집으로 보낼 수 있게 됐습니다. 어떻게 보면 갈 수 있음에도 안 가는 건 부끄러워서 그런 거 아닐까 싶네요. 갔다 올게요. 고강열입니다. 고니 부탁으로 왔는데 사일로 바빠 가지고 손해드리라고 하네요. 가족들은 고니의 근황을 더 많이 궁금해했습니다. 이게 돈이야.이 니이 새끼 추세네. 아직도 화투치고 다녀요. 부모의 촉은 무시할 수 없나 봅니다. 공열은 끝까지 회사이란다는 말로 거짓말을 늘어놓았습니다. 우리 권위 좀 잘 부탁해요. 본니가 아직도 하투에 빠져 있다는 걸 사짜라는 걸 말할 수 없으니까요. 짬뽕값이다 생각하고 그냥 넣어 두세요. 아씨. 정마당은 고니가 생각나 너구리를 통해 그가 어디에 지내고 있는지 차안낼 수 있었습니다. 알았어. 끊어 끊어. 귀신이야 귀신. 살이 좀 쪘네. 부태할게 좀 있어서. 벌써 부담되는데. 그녀의 부탁은 전수 군산 쪽에 공사를 시작했는데 기술자가 필요해 찾아온 거였습니다. 고니하고 광렬 씨가 와주면 딱 좋을 것 같은데 지갑이 뚱뚱해서 무슨 인생님이 연락해. 어린게 말 받아 치는 것 봐. 엄마담은 고니가 애인이 있는 모습에 화가 났는지로 탈을 훔쳐오라고 합니다. 아 돈을 안에다 뒀어. 얘기 좀 합시다. 본인은 과초과의 결의 하루 전날무석이를 찾아가 자신의 내 편으로 회유합니다. 안녕하세요. 내일 과학철련이의 천장에 카메라가 있을끼야. 요런 거 켜놔도 될까요? 오 자기들 커피에 약도 탈기고 내가 그렇게 의심 아 시작해 지혔구나. 아우 안녕하세요. 본니가 연승으로 달리기 시작합니다. 빈정상하면은 죽던가. 아 전 죽습니다. 신가 보죠. 봤습니다. 그 4구 파터인데 이거 돈 다시 빼시겠어요? 아니면 고블러 가 벌 때 죄송합니다 또 파터네 이게 오빠",
+  "movie_id": "타짜",
+  "reviewer": "엉준",
+  "chunk_index": 4,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "고니",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "고니는 화투(도박)에 빠져 있는 인물로, 누나의 돈을 집으로 보내고 가족들과 떨어져 지내고 있다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "정마담",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "정마담은 출소 후 도박판에서 활동하며 부자를 작업하는 인물로, 고니에 대한 그리움을 갖고 있다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "광렬",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "광렬(고강열)은 고니의 부탁으로 고니 가족에게 돈을 전달하며 고니가 회사에 다닌다고 거짓말을 하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "짝귀",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "짝귀는 고니에게 도박 기술(거짓말 타이밍)을 가르쳐주는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "아귀",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "아귀는 고니와 관련된 인물로, 그에 대한 이야기가 나오면 고니가 취한 척한다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "무석",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "무석이는 고니가 과초과 결의 하루 전날 찾아가 자신의 편으로 회유하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "너구리",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "너구리는 정마담이 고니의 소재를 알아내기 위해 연락한 인물이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "정마담",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "고니",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "정마담은 고니에 대한 그리움을 갖고 있으며 그의 소재를 찾으려 한다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "광렬",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "고니",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "광렬은 고니의 부탁으로 가족에게 돈을 전달하고 고니의 상황을 숨겨주는 동료이다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "짝귀",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "고니",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "짝귀는 고니에게 도박 기술을 가르쳐주는 선배이다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "고니",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "무석",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "고니는 무석을 자신의 편으로 회유하려 한다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "정마담",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "너구리",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "정마담은 너구리를 통해 고니의 소재를 알아낸다",
+      "relationship_strength": 6
+    }
+  ],
+  "entity_resolution": {
+    "고니": {
+      "description": "고니 -> 고니",
+      "resolved_name": "고니",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "정마담": {
+      "description": "정마담 -> 정마담",
+      "resolved_name": "정마담",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "광렬": {
+      "description": "광렬 -> 고광렬",
+      "resolved_name": "고광렬",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "짝귀": {
+      "description": "짝귀 -> 짝귀",
+      "resolved_name": "짝귀",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "아귀": {
+      "description": "아귀 -> 아귀",
+      "resolved_name": "아귀",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "무석": {
+      "description": "무석 -> 무석",
+      "resolved_name": "무석",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "너구리": {
+      "description": "너구리 -> 너구리",
+      "resolved_name": "너구리",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "chunk_hash": "9b2db88d9a9761",
+  "chunk_id": "B Man_9b2db88d9a9761_d6851ac5",
+  "user_query": "추구 내냐 될 것은 좀 받고 어쩐 더 ok 인 브로스 말로 다 합치면 1억 쯤 되는데 감 일은 끝이 없죠 췌 어 이거 가끔 엄 준비한 1부 8 끝 때는 꼭 칠 때 이던 누구 사장 돌아 장군의 똑똑이 전화 제 7 댄 그럼 어디서 나온 거에요 돈 가져올 테니 카운터에 느 지내야 다 한데 wo 20킬로 갖자 b 어 지금 7 것이 불안하다 이새끼가 지금 이 타이밍에 나한테 구라를 치고 있다 이걸 어떻게 하십니까 우라질 때 절대 상대 방법을 보지마 대충 얘기 들어서 알고는 있는데 아기랑 은 어떻게 되십니까 4 축하합니다 기술을 쓰다 관리해서 비가 짤 2 5 기술 했으니까 에 이게 짤린 나 매가 아야 리 누구도 요청 말곤 이에 미래가 저럴까 요 그리고 과 철원과 약속해 괜 아리움 이다 아따 안녕하세요 털이 식사하셨어요 때 아예 저의 일이 풀리지 하니까 이게 접했을 때 챙겨 먹기 힘들어요 자막 지금 뭐 다 아시겟지만 여 아 잘되면 조사하고 파투 나도 먹는 겁니다 그리고 소개 겪고 사람 손 꼭잡고 예 얘기 하겠습니다 자 해봅시다 [음악] 판돈이 싶 어 까지 커진 상황에서 기술이 들어가고 고니와 광녀 른 과 촬영 과의 대결에서 무 살 수 있을까요 아 그리고 권인 편경 창이 복수를 있을까요 오랜만인 언덕을 지금 흩어 하는 거야 에 상상력이 말하면 그 인생의 골프카 영알 탑재 있습니다 이 바닥엔 영원한 친구도 원수도 었어 눈은 첫번 부터 정말 줄이야 구독자 분들 구독 버튼 옆에 종 모양을 요렇게 해주세요 포부 달 pm10 활 이야기 최신 업로드 영상 달 핀 미츠 추천 영상 9도 금발 비밀 g 에게 큰 힘이 된답니다 깜 캄",
+  "movie_id": "타짜",
+  "reviewer": "B Man",
+  "chunk_index": 6,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "타짜",
+      "entity_type": "MOVIE",
+      "entity_description": "타짜는 도박을 소재로 한 한국 영화로, 고니와 곽철용 등의 캐릭터가 등장하는 작품이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "고니",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "고니는 타짜의 주인공으로 도박판에서 대결을 펼치는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "곽철용",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "곽철용은 타짜에서 고니와 대결하는 인물로, 도박판의 상대역이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "평경장",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "평경장은 타짜에서 복수를 계획하는 인물이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "고니",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "타짜",
+      "target_type": "MOVIE",
+      "relationship_description": "고니는 타짜의 주인공이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "곽철용",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "타짜",
+      "target_type": "MOVIE",
+      "relationship_description": "곽철용은 타짜에 등장하는 캐릭터이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "평경장",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "타짜",
+      "target_type": "MOVIE",
+      "relationship_description": "평경장은 타짜에 등장하는 캐릭터이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "고니",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "곽철용",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "고니와 곽철용은 도박 대결에서 맞서는 관계이다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "평경장",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "고니",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "평경장은 고니에게 복수를 계획하는 관계이다",
+      "relationship_strength": 7
+    }
+  ],
+  "entity_resolution": {
+    "타짜": {
+      "description": "타짜 -> 타짜",
+      "resolved_name": "타짜",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "고니": {
+      "description": "고니 -> 고니",
+      "resolved_name": "고니",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "곽철용": {
+      "description": "곽철용 -> 곽철용",
+      "resolved_name": "곽철용",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "평경장": {
+      "description": "평경장 -> 평경장",
+      "resolved_name": "평경장",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    }
+  }
+}

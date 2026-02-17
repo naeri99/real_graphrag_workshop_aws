@@ -1,0 +1,352 @@
+{
+  "chunk_hash": "90ee06775ffdae",
+  "chunk_id": "튜나_90ee06775ffdae_db4b3797",
+  "user_query": "남자친구를 찾아온 예니 콜과 엄마 역할의 씹던 검 머 처음뵙겠습니다 굉장히 트렌디하죠 아 전지연 정말 아시잖아 그 작품들 그들의 정체가 누구인지 알 없는 미술 관장은 그저 잘 보이기 위해 개인소장품을 씹던에게 보여주고 그 사이 정체불명의 두 남자 뽀빠이와 판호가 세팅한 장비를 어느새 작업복으로 갈아입은이 애니콜이 착용합니다이 가 완전 뜨기 전이여 가지고 불량을 늘렸다 막 그런 얘기가데 이게 진짜 오늘 작품 선정이 재밌는게 지금 도둑들은 거의 한 커트도 움직임이 없는 장면이 없어요 그죠 그리고 엄청 카도 씹던 검이 능청스런 연기를 펼치며 빠져나간 뒤 머니 산물 안에 [음악] 끝내자 예니 콜은 3분 안에 목표물을 성공적으로 [음악] 취하죠 장물아비에게 물건을 넘긴 후 그들은 뽀빠이의 전 파트너인 마카 오박의 제안을 듣게 됩니다 왜들 그려 다음 작품이 엄청 큰 건데 뽀빠이가 얘기 안 했어 마카오박이 다내린 거 다들 잘 다녀오세요 나 지난번에 개꾸 하나 껐는데 외국 나오면 죽는다네 점장이가 장이 말대로면 내가 결혼 세 번 했겠냐 같이 가자 내가 꿈 찰테니까 진짜 좋아 그럼 꿈 가요 한편 그들이 홍콩으로 넘어가기 전 마카오박이 초대하지 않은 또 다른 전 파트너 가석방으로 출소한 펩시가 가세하는 안 가니 아세요 출소한 여자 중에 제일 예뻤을 거 어떻게하니 차 끌고 왔으니까 알지 뽀빠이는 펩시를 격하게 환영하고 고생했어 마침내 그들은 홍콩으로 향합니다 그리고 작전을 함께할 현지 팀원들과 만나죠 잡는 거지 여기 모인 여러분들은 모두가 다 훌륭한 전문가들입니다 그들이 훔치려는 수천만 불의 값어치를 지닌 다이아몬드 태양의 눈물을 훔쳐 웨이홍이라는 갱단 두목에게 팔 계획이죠 유력한 증인의 등장 그리고 그의 확실한 정 다시보고 예수정죠 님 동생 하지만 그들 사이에서 누군가는 정체를 숨기고 있고 군을 작전의 시작 일본인 부부로 위장한 씹던 검과 체는 다이아몬드의 주인인 티파니를 VIP 실에 잡아두는 역할을 하고 또 다른 VIP 위장한 앤드류가 식사를 배달하는 동안 무기를 반입해 경비실을 장악할 계획 그 사이 티파니의 방으로 들어갈 수 있는 카드키를 예니콜이 미인계로 획득하려 해보지만 내 어 아 이거 너무 웃겼어가 민 계는 어쩐지 잠파 누가 써야 될 상황 어쨌든 총지배인의 취향덕에 손쉽게 카드키를 복제하는데 성공하고 자 레디 액션 니코리 보안이 취약한 호텔 외벽을 타고 먼저 방에 진입합니다 저거 다 직접했다고 요시 되게 좋았어요 최동훈 감독님의 영화들이 보면 우리나라 액션 영화들 오락물 한계점이 느껴졌던 점들이 해소되는 거를 만드셨던 거 어색하지 않고 이거 1번줄 좀 당기는 거 같은데 좀 풀러 봐 오케이 [박수] 1번줄 그렇게 들어온 금고털이 전문 펩시와 줄리가 10분 이내에 두 개의 금고를 털어야 합니다 한편 마카오박은 호텔의 블랙리스트로 지켜 외부에서 지시만 내려야 되는 상 흘 도과 씹던은 서로에게 사랑을 느끼게 되고 우리 어을 때 홍콩영화에서 너무 많이 봤던 반가 임라 배우님 임배우 그런데 체의 목표는 다이아몬드가 아닌 티파니의 현금이 씹던 역시 그의",
+  "movie_id": "도둑들",
+  "reviewer": "튜나",
+  "chunk_index": 1,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "도둑들",
+      "entity_type": "MOVIE",
+      "entity_description": "도둑들은 다이아몬드 '태양의 눈물'을 훔치려는 도둑들의 이야기를 다룬 한국 범죄 액션 영화이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "예니콜",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "예니콜은 도둑들의 일원으로 3분 안에 목표물을 성공적으로 훔치는 역할을 하며, 미인계로 카드키를 획득하려 시도하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "씹던",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "씹던은 도둑들의 일원으로 일본인 부부로 위장하여 티파니를 VIP실에 잡아두는 역할을 하며, 능청스런 연기를 펼치는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "검",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "검은 씹던과 함께 일본인 부부로 위장하여 작전에 참여하는 도둑들의 일원이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "뽀빠이",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "뽀빠이는 도둑들의 일원으로 마카오박의 전 파트너이며, 펩시를 격하게 환영하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "판호",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "판호는 뽀빠이와 함께 장비를 세팅하는 도둑들의 일원이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "마카오박",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "마카오박은 도둑들에게 큰 작품을 제안하고 작전을 지휘하는 인물로, 호텔 블랙리스트로 인해 외부에서 지시만 내리는 상황이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "펩시",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "펩시는 가석방으로 출소한 금고털이 전문가로 도둑들에 합류하여 10분 이내에 금고를 터는 역할을 한다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "줄리",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "줄리는 펩시와 함께 금고를 터는 역할을 하는 도둑들의 일원이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "앤드류",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "앤드류는 VIP로 위장하여 식사 배달을 하며 무기를 반입해 경비실을 장악하는 역할을 한다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "체",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "체는 도둑들의 일원으로 다이아몬드가 아닌 티파니의 현금을 목표로 하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "티파니",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "티파니는 다이아몬드 '태양의 눈물'의 주인이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "웨이홍",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "웨이홍은 갱단 두목으로 도둑들이 다이아몬드를 팔 계획인 대상이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "전지현",
+      "entity_type": "ACTOR",
+      "entity_description": "전지현은 도둑들에 출연한 배우이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "예수정",
+      "entity_type": "ACTOR",
+      "entity_description": "예수정은 도둑들에 출연한 배우이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "임달화",
+      "entity_type": "ACTOR",
+      "entity_description": "임달화는 홍콩 배우로 도둑들에 출연했다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "최동훈",
+      "entity_type": "MOVIE_STAFF",
+      "entity_description": "최동훈은 도둑들의 감독으로, 한국 액션 영화의 한계점을 해소하는 작품을 만들었다는 평가를 받는다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "예니콜",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "도둑들",
+      "target_type": "MOVIE",
+      "relationship_description": "예니콜은 도둑들의 주요 등장인물이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "씹던",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "도둑들",
+      "target_type": "MOVIE",
+      "relationship_description": "씹던은 도둑들의 주요 등장인물이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "검",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "도둑들",
+      "target_type": "MOVIE",
+      "relationship_description": "검은 도둑들의 등장인물이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "뽀빠이",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "도둑들",
+      "target_type": "MOVIE",
+      "relationship_description": "뽀빠이는 도둑들의 등장인물이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "마카오박",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "도둑들",
+      "target_type": "MOVIE",
+      "relationship_description": "마카오박은 도둑들의 주요 등장인물이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "펩시",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "도둑들",
+      "target_type": "MOVIE",
+      "relationship_description": "펩시는 도둑들의 등장인물이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "씹던",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "검",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "씹던과 검은 일본인 부부로 위장하여 함께 작전을 수행한다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "뽀빠이",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "마카오박",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "뽀빠이는 마카오박의 전 파트너이다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "뽀빠이",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "펩시",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "뽀빠이는 펩시를 격하게 환영하며 함께 작전에 참여한다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "펩시",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "줄리",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "펩시와 줄리는 함께 금고를 터는 역할을 한다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "최동훈",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "도둑들",
+      "target_type": "MOVIE",
+      "relationship_description": "최동훈은 도둑들의 감독이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "전지현",
+      "source_type": "ACTOR",
+      "target_entity": "예니콜",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "전지현은 예니콜 역을 연기했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "체",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "티파니",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "체는 티파니의 현금을 목표로 한다",
+      "relationship_strength": 7
+    }
+  ],
+  "entity_resolution": {
+    "도둑들": {
+      "description": "도둑들 -> 도둑들",
+      "resolved_name": "도둑들",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "예니콜": {
+      "description": "예니콜 -> 예니콜",
+      "resolved_name": "예니콜",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "씹던": {
+      "description": "씹던 -> 씹던껌",
+      "resolved_name": "씹던껌",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "검": {
+      "description": "검 -> 검",
+      "resolved_name": "검",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "뽀빠이": {
+      "description": "뽀빠이 -> 뽀빠이",
+      "resolved_name": "뽀빠이",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "판호": {
+      "description": "판호 -> 판호",
+      "resolved_name": "판호",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "마카오박": {
+      "description": "마카오박 -> 마카오박",
+      "resolved_name": "마카오박",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "펩시": {
+      "description": "펩시 -> 팹시",
+      "resolved_name": "팹시",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "줄리": {
+      "description": "줄리 -> 쥴리",
+      "resolved_name": "쥴리",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "앤드류": {
+      "description": "앤드류 -> 앤드류",
+      "resolved_name": "앤드류",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "체": {
+      "description": "체 -> 첸",
+      "resolved_name": "첸",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "티파니": {
+      "description": "티파니 -> 티파니",
+      "resolved_name": "티파니",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "웨이홍": {
+      "description": "웨이홍 -> 웨이홍",
+      "resolved_name": "웨이홍",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "전지현": {
+      "description": "전지현 -> 전지현",
+      "resolved_name": "전지현",
+      "entity_type": "ACTOR",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "예수정": {
+      "description": "예수정 -> 예수정",
+      "resolved_name": "예수정",
+      "entity_type": "ACTOR",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "임달화": {
+      "description": "임달화 -> 임달화",
+      "resolved_name": "임달화",
+      "entity_type": "ACTOR",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "최동훈": {
+      "description": "최동훈 -> 최동훈",
+      "resolved_name": "최동훈",
+      "entity_type": "MOVIE_STAFF",
+      "matched": true,
+      "match_type": "name_exact"
+    }
+  }
+}

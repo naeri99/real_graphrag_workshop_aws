@@ -1,0 +1,26 @@
+{
+  "chunk_hash": "9b0b0057ab6499",
+  "chunk_id": "고몽_9b0b0057ab6499_686bb810",
+  "user_query": "의견을 댓글로 남겨 주세요. 구독과 좋아요는 사랑입니다. 알림 설정까지 하시면 다음 영상을 더 쉽게 보실 수 있습니다. 시청해 주셔서 감사합니다. 지금까지 센터장이었습니다. 다음에 또 봐요. [음악]",
+  "movie_id": "도둑들",
+  "reviewer": "고몽",
+  "chunk_index": 14,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "센터장",
+      "entity_type": "REVIEWER",
+      "entity_description": "센터장은 영화 리뷰 영상을 제작하는 유튜버로, 시청자들에게 구독과 좋아요를 요청하며 영상을 마무리한다"
+    }
+  ],
+  "relationships": [],
+  "entity_resolution": {
+    "센터장": {
+      "description": "센터장 -> 센터장",
+      "resolved_name": "센터장",
+      "entity_type": "REVIEWER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}
