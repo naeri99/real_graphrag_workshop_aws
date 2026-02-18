@@ -119,7 +119,7 @@ fi
 
 # 3. 필수 패키지 추가
 print_info "필수 패키지 추가 중..."
-uv add ipykernel jupyter jupyterlab boto3 opensearch-py langchain-text-splitters strands-agents
+uv add ipykernel jupyter jupyterlab boto3 opensearch-py langchain-text-splitters strands-agents tavily-python
 
 
 # 5. 의존성 동기화
