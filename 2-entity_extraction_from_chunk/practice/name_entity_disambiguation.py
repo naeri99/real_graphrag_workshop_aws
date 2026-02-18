@@ -34,3 +34,15 @@ def read_chunks_from_dir(chunk_dir: str = "./step/chunkings") -> list:
             chunks.append(chunk_data)
     
     return chunks
+
+def save_chunk_with_entities(chunk_data: dict) -> str:
+    """
+    엔티티/관계가 추가된 chunk 데이터를 원본 파일에 덮어씁니다.
+    """
+    filepath = chunk_data.get('_filepath')
+    save_data = {k: v for k, v in chunk_data.items() if k != '_filepath'}
+    
+    with open(filepath, 'w', encoding='utf-8') as f:
+        json.dump(save_data, f, ensure_ascii=False, indent=2)
+    
+    return filepath
