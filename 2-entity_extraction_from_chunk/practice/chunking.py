@@ -9,7 +9,6 @@ Flow:
 """
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from utils.parse_utils import parse_extraction_output
-from utils.generate_entity import extract_entities
 from utils.helper import (
     get_context_from_review_file, 
     get_all_review_files,
