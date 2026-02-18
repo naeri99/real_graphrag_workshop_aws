@@ -1,0 +1,69 @@
+{
+  "chunk_hash": "29ae07d66c40ec",
+  "chunk_id": "튜나_29ae07d66c40ec_d9a1b1c4",
+  "user_query": "생각해요 만약 최동훈 감독이 홍콩 영화에 대한 이해만 슈퍼히어로 영화를 이해하고 있었다면 우리는 전혀 다른 결과물을 보고 있었을 거라 생각합니다 그런 면에서 호프는 좀 걱정이 덜하긴 해요 최소한 스릴러 미스터리는 나웅진 감독의 분야니까 코로나라는 악재 덕분에 흥행가도를 달리던 한국 영화는 주춤하게 되었고 그 사이 관객들의 니즈를 충족시킨 오티의 강세로 한국 영화하는 이전과는 크게 다른 상황을 직면하게 되었습니다 작년에 천만 한 영화가 두 편이나 나왔으니 문제없지 않냐는 의견도 있겠지만 소수의 영화의 관객이 몰리고 대부분의 영화가 실패하는 상황은 굉장히 안 좋다고 봅니다 천만 영화 두 편보다 500만 이리 영화가 몇 편 있는 편이 훨씬 낫다고 생각해요 더 문과 외계인은 이런 세계적 특성이 반영되지 않은 영화입니다 코로나가 끝나면 관객이 극장으로 돌아올 거란 기대로 만들어진 영화들이 그 결과가 현재의 관객수 아고 봅니다 개인적으로 이런 상황이 반영된 영화가 개봉할 2025년에는 꽤나 다른 물건들이 나오리라 기대합니다 배급사들이 영화를 계속 찍는다면 말이죠 한국의 4대 이제는 플러스 m 아지 합쳐서 5대 배급사는 대부분 모기업이 있는 큰 회사들이고 이들은 대부분 드라마도 겸험을 합니다 그리고 오티 한국 드라마들은 성황리에 공개되고 있죠 외계인의 실패가 영화 시장의 투자를 줄이고 상승가도를 달리고 있는 드라마에 주력하는 기폭제가 되지는 않기를 바랍니다 물론 외계인의 실패에는 여러 요인이 복잡하게 얽혀 있습니다만 근본적인 부분에서 하자가 있는 물건이 영화 시장에 향방을 결정하게 되는 건 굉장히 안타까운 일이거든요 영원할 것 같았던 디즈니 마블도 시장을 잘못 읽으니 연전 연패를 거듭하고 있습니다 잘하던 이들이 못하게도 되니 못하던 이들이 잘하게 될 수도 있겠죠 최근 한국 영화의 위기는 변화의 기회이기도 합니다 외계인의 실패는 뼈 아픈 실책이 이걸 타산 지석 삼아 최동훈 감독님 개인적으로나 C 이의 기업적 더 좋은 로 돌아오길 기대해봅니다 오늘은 여기서 인사 올리겠습니다 여러분의 메일이 평안하시길 마치며 [음악] 나였습니다 and I don't wantan talk about it [박수] just",
+  "movie_id": "외계+인",
+  "reviewer": "튜나",
+  "chunk_index": 12,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "최동훈",
+      "entity_type": "MOVIE_STAFF",
+      "entity_description": "최동훈은 한국 영화 감독으로, 홍콩 영화에 대한 이해를 바탕으로 작품을 만들어왔으며, 외계인 시리즈의 감독이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "나웅진",
+      "entity_type": "MOVIE_STAFF",
+      "entity_description": "나웅진은 스릴러와 미스터리 장르를 전문으로 하는 한국 영화 감독이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "외계인",
+      "entity_type": "MOVIE",
+      "entity_description": "외계인은 최동훈 감독의 영화로, 코로나 이후 변화된 관객 니즈를 반영하지 못해 흥행에 실패한 작품이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "더 문",
+      "entity_type": "MOVIE",
+      "entity_description": "더 문은 코로나 이후 변화된 시장 특성이 반영되지 않은 한국 영화이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "호프",
+      "entity_type": "MOVIE",
+      "entity_description": "호프는 나웅진 감독이 연출하는 스릴러/미스터리 장르의 영화이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "최동훈",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "외계인",
+      "target_type": "MOVIE",
+      "relationship_description": "최동훈 감독이 외계인을 연출했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "나웅진",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "호프",
+      "target_type": "MOVIE",
+      "relationship_description": "나웅진 감독이 호프를 연출한다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "외계인",
+      "source_type": "MOVIE",
+      "target_entity": "더 문",
+      "target_type": "MOVIE",
+      "relationship_description": "두 영화 모두 코로나 이후 변화된 시장 특성을 반영하지 못한 영화로 함께 언급된다",
+      "relationship_strength": 7
+    }
+  ]
+}

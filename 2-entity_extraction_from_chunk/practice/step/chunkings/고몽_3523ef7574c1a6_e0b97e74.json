@@ -1,0 +1,246 @@
+{
+  "chunk_hash": "3523ef7574c1a6",
+  "chunk_id": "고몽_3523ef7574c1a6_e0b97e74",
+  "user_query": "부산에서 가장 오래된 건물 중 하나인 부산 대파트입니다. 5달수 배우가 어렸을 때 엘리베이터 타로 놀러갔던 기억이 있다고 하네요. 별거 아닌 도로 같지만 넓지도 좁지도 않은 3차선 일방 도로 길이면서 이런 분위기의 도로를 찾느라고 전국을 다 뒤졌다고 합니다. 결국 영화의 도시 부산에서 찾았습니다.이 도로를 다 통치하고 찍었는데 부산은 영화 촬영에 굉장히 협조적이라고 합니다. 오케이. 세웠어. 난 나갈게. 아이 바보. 현장에서 우연히 생각하게 된 아이디어를 반영해서 만든 설정입니다. 내려갈게. 이런 상황에도 커피 한 잔의 여유를 즐기는 마카오. 아직 관객이 마카오의 속내를 모르기를 바라고 한 연출입니다. 금방이면 끝납니다. 아, 애가 이렇게 오잖아요. 엘리베이터가 10년이에요. 애가 우는게 엘리베이터랑 무슨 상관? 이것의 모든 대사는 전부 배우들의 애드리브입니다. 무엇이? 직구경해? 그런데 숨길 인간이 아니야? 이 벤츠는 실제 이정제 배우의 차이입니다.이 세트가 홍콩에서의 마카오 숙소로 사용했던 세트를 제조립해서 만든 공간입니다. 저는 두시간 더 출발해요. 고마워.이 배우는 또 연기를 하고 있네요. 마카오에서 그 여전 왜 살려줬어요? 그러면서도 마카오 박에 대한 오해를 밝혀주는 중요한 역할을 합니다. 집에 갔을 땐 깜깜했고 내가 필요 없더라고. 란테는 촬영 전에 실제로 이런 그림자가 지도록 테스트를 엄청 해보고 조명을 세팅했습니다. 김혜수 배우는 다이아의 시선을 고정해야 했는데 그러지 못했던게 아직도 아쉽다고 하네요. 와이어 담당은 남자야. 그 잘 몰래 사랑했던 남자. 내가 없으면 좀 도둑밖에 안 되는 새끼. 다연 언제 팔아요? 곧 어디 있어요 지금? 야 이건 나 같아도 눈치 가겠다. 네가 잘랐어. 마카오바요. 아 무슨 소리십니까? 야 이게 확실히 말해. 빨리 다야나 찾으세요. 주접 떨지 말고이 씨아. 갑자기 겁나 무서워진 뽀빠이. 아니 그렇다고 다이아를 그냥 놔두고 간다고? 이게 어디서 궁둥이다 떠나냐? 네가 봤냐? 내가 궁둥에 글같는지 안 글는지. 처음으로 펩시에게 감정을 드러내는 예니콜. 나이아는 찾았고 못 찾겠던데. 어 펩시.이 새 배우의 대사는 모두 감독이 받아쳐준 것입니다. 각자 다른 곳에서 타이밍을 잘 맞춰 원테이크로 찍은 후 합성했습니다. 안녕하세요. 마커바. 감독은이 대사를 꼭 점프를 뛰면서 해 달라는 주문을 했습니다. 넌 새끼야. 지금 지옥에 있는 거야. 어차피 천국에는 아는 사람도 없고. 마카오파. 왜? 이 선글라스는 촬영이 끝나고 김윤석 배우가 소장했습니다. 타짜에서의 선글라스와 함께 모으고 있다고 하네요.이 중국인 같은 배우분들은 모두 한국인입니다. 접선했다. 카페에 여자도 보여놔. 가자. 이곳은 서울의 성신여대 입구에서 촬영을 했다고 하네요. 닥쳐 주세요. 난 졸라 집중이니까. 빛이 눈에 묻어 있으면서 분위기와 대사가 너무 잘 살아서 감독이 이신을 찍을 때 짜릿할 정도로 좋았다고 하네요. 잠깐만요. 쟤들 전부 다 귀관총 가지고 있는데요. 이분은 타짜와 전우치에 등장하는 장준영 배우입니다. 정말 코풀어주는 애야.",
+  "movie_id": "도둑들",
+  "reviewer": "고몽",
+  "chunk_index": 10,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "부산 대파트",
+      "entity_type": "MOVIE",
+      "entity_description": "부산에서 가장 오래된 건물 중 하나로 영화 촬영 장소로 사용되었다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "5달수",
+      "entity_type": "ACTOR",
+      "entity_description": "어렸을 때 부산 대파트 엘리베이터 타러 놀러갔던 기억이 있는 배우"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "마카오",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "커피 한 잔의 여유를 즐기며 속내를 숨기는 캐릭터로, 마카오 박에 대한 오해를 밝혀주는 중요한 역할을 한다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "이정재",
+      "entity_type": "ACTOR",
+      "entity_description": "실제로 자신의 벤츠를 영화 촬영에 사용한 배우"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "다이아",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "영화에서 찾아야 하는 대상이 되는 캐릭터"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "김혜수",
+      "entity_type": "ACTOR",
+      "entity_description": "다이아의 시선을 고정해야 했는데 그러지 못했던 것이 아쉽다고 한 배우"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "예니콜",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "처음으로 펩시에게 감정을 드러내는 캐릭터"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "펩시",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "예니콜이 감정을 드러내는 대상이 되는 캐릭터"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "뽀빠이",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "갑자기 겁나 무서워진 캐릭터로, 다이아를 놔두고 가는 것에 대해 언급하는 인물"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "마카오 박",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "오해를 받는 캐릭터로 마카오가 그에 대한 오해를 밝혀준다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "김윤석",
+      "entity_type": "ACTOR",
+      "entity_description": "촬영이 끝나고 선글라스를 소장한 배우로, 타짜에서의 선글라스와 함께 모으고 있다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "타짜",
+      "entity_type": "MOVIE",
+      "entity_description": "김윤석 배우가 선글라스를 소장하게 된 또 다른 영화 작품"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "전우치",
+      "entity_type": "MOVIE",
+      "entity_description": "장준영 배우가 등장하는 영화 작품"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "장준영",
+      "entity_type": "ACTOR",
+      "entity_description": "타짜와 전우치에 등장하는 배우"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "도둑들",
+      "entity_type": "MOVIE",
+      "entity_description": "부산에서 촬영된 영화로, 마카오, 다이아, 예니콜, 펩시, 뽀빠이 등의 캐릭터가 등장하며 홍콩 세트를 재조립하여 촬영한 작품"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "5달수",
+      "source_type": "ACTOR",
+      "target_entity": "부산 대파트",
+      "target_type": "MOVIE",
+      "relationship_description": "5달수 배우가 어렸을 때 부산 대파트에서 놀았던 기억이 있다",
+      "relationship_strength": 4
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "이정재",
+      "source_type": "ACTOR",
+      "target_entity": "도둑들",
+      "target_type": "MOVIE",
+      "relationship_description": "이정재 배우가 자신의 벤츠를 영화 촬영에 사용했다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "마카오",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "도둑들",
+      "target_type": "MOVIE",
+      "relationship_description": "마카오는 도둑들의 등장인물이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "마카오",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "마카오 박",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "마카오가 마카오 박에 대한 오해를 밝혀주는 역할을 한다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "김혜수",
+      "source_type": "ACTOR",
+      "target_entity": "다이아",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "김혜수 배우가 다이아 역을 연기했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "다이아",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "도둑들",
+      "target_type": "MOVIE",
+      "relationship_description": "다이아는 도둑들의 등장인물이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "예니콜",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "펩시",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "예니콜이 처음으로 펩시에게 감정을 드러낸다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "예니콜",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "도둑들",
+      "target_type": "MOVIE",
+      "relationship_description": "예니콜은 도둑들의 등장인물이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "펩시",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "도둑들",
+      "target_type": "MOVIE",
+      "relationship_description": "펩시는 도둑들의 등장인물이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "뽀빠이",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "도둑들",
+      "target_type": "MOVIE",
+      "relationship_description": "뽀빠이는 도둑들의 등장인물이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "뽀빠이",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "다이아",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "뽀빠이가 다이아를 놔두고 가는 것에 대해 언급한다",
+      "relationship_strength": 6
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "김윤석",
+      "source_type": "ACTOR",
+      "target_entity": "도둑들",
+      "target_type": "MOVIE",
+      "relationship_description": "김윤석 배우가 도둑들에서 선글라스를 착용하고 촬영 후 소장했다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "김윤석",
+      "source_type": "ACTOR",
+      "target_entity": "타짜",
+      "target_type": "MOVIE",
+      "relationship_description": "김윤석 배우가 타짜에서도 선글라스를 착용했으며 함께 모으고 있다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "장준영",
+      "source_type": "ACTOR",
+      "target_entity": "타짜",
+      "target_type": "MOVIE",
+      "relationship_description": "장준영 배우가 타짜에 등장했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "장준영",
+      "source_type": "ACTOR",
+      "target_entity": "전우치",
+      "target_type": "MOVIE",
+      "relationship_description": "장준영 배우가 전우치에 등장했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "장준영",
+      "source_type": "ACTOR",
+      "target_entity": "도둑들",
+      "target_type": "MOVIE",
+      "relationship_description": "장준영 배우가 도둑들에 등장했다",
+      "relationship_strength": 8
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "chunk_hash": "f6c78061fa3306",
+  "chunk_id": "고몽_f6c78061fa3306_76ff289c",
+  "user_query": "내가 기술 써서 딴데이다.이 돼지 새끼야. 5분 전화해서 안 받으면 연장 챙겨서 올라들어와. 노름으로 꼬인 일은 노름으로 풀자고 한 판 붙기로. 저 돈을 상금으로 걸고이긴 놈 몽땅 같기. 당연히 모가지도 걸어야지. 게임은 오링날 때까지. 그러니까 참가비로 10억씩. 어때요? 재밌겠지? 시간하고 장소 정하시죠. 다 이어도 상관없으니까 몸성이 많더라고. 감사합니다. 오랜만에 손금 좀 봐 줄까? 오래 설겠네. 두 방만 꺼내면. 이로서 가짜 10억씩 들고 아기 저택에 모입니다. 노르기 좋은 날씨네. 종목은 중간족보와 광땡을 제외한 끝 서당입니다. 시작들 하기 전에 뭐 필요한 거 있으면 말씀들 하시고 벗고칩시다. 불화로 치면 무슨 수로 타자를 이기냐며 이유를 이야기합니다. 섬에 같은데 안 숨길 거 아닙니까? 파트는 이걸로만 치는 걸로 열판마다 기계와 바로 어떻게 믿어? 너 몇 살이니? 그러니까 아줌마라 그러지 마트에서 사온 영수중을 보여주며 까서 봐 보라고 합니다. 됐어. 그냥 이걸로 쳐. 다음 한 손으로 치죠. 사네 뭐 할 말 없고 맥주나 주세요. 자 이제부터 깨끗하고 성실하게 감동적인 실화로 쳐봅시다. 완전은 사절인께 선수 빼고 다 나가. 자 개강 일곱 여덟 500고 500°다고 1천000 메이드 2천다고 3,000 밥이 1억 코리아 갑옷 3땡 둘만 남은 거예요? 천 가겠습니다. 천 받고 1천 바고 5천 1억 4억으로 죽었다 치고 얼마지면 급해를 보여 줄 건까? 4억 더 담으시면 됩니다. 무거워. 우사장이 갑자기 힌트를 던져 줍니다. 안경을 유심 있게 바라보라는 건 무슨 의미일까요? 보고자 하면 다 보이는 거야. 이역터 메이드 5 따라가겠습니다. 3등 4등 왜 장난질 했을까 봐. 아닙니다. 아닙니다가 아니지. 아기는 하투 앞뒤가 똑같다는 말을 하면서 우사장에게 재미난 물건을 가져왔다. 농담을 던지고는 먼저가 기다리라고 합니다. 500 죽겠시다. 10만 드슈 고열이 따라다녔다면서요? 근데요. 광렬이가 나한테 팔 잘릴 때 똥질했다는 얘기 안 해주던가. 계속 죽는 대일의 행동에 아기는 일부러 긁는데요. 뭐라고요? 눈가리는 호랭인데 어찌 쥐새끼를 쫓아다녔을까? 아가리 닥치고 돈이나 보세요. 대길은 미나에게 신호를 줍니다. 불 좀 배팅 안 해요? 주녀 빤스 속에 왜 손이 덜락거리냐? 빤스에 손을 없다 그래. 소목 날아가요. 밑장 빼는 소리가 너무 시끄러웠어. 손까 봐요. 내가 왜네 말을 들어야 되냐? 손바닥이 뭐예요? 뭐가 돼? 백근들지만 손 먹어지 날아가 본게 아기는 판을 맞춰 갑니다. 자신에게는 굿땡 장사장에게는 팔땡을 주지 않았냐고 이야기하는데요. 내가 빙다리 핫빠지로 보냐이 새끼야이 아저씨가 술을 많이 자셨나 채팅들 흐셔야지네 패가 장땡이라는 거에 내 돈 모드하고 내 모가지를 반산에 화투 한장 있다에 내 돈 전부하고 목 쓴 겁니다. 두 사람은 대길과 미나에게 무엇을 걸 건지 질문합니다. 싫다면 싫으면 시집과이 새끼 너 어디 가서 농담 같은 거 하지 마라. 까봐. 잠깐. 전에도 이러다 발자리셨다면서요? 지리선 적도한테. 너 곤이라는 놈하고 무슨",
+  "movie_id": "타짜",
+  "reviewer": "고몽",
+  "chunk_index": 9,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "아기",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "아기는 도박판을 주도하는 인물로, 상대방의 패를 조작하며 게임을 진행한다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "대길",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "대길은 도박 게임에 참여하는 인물로, 미나에게 신호를 주며 협력한다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "미나",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "미나는 대길과 함께 도박판에 참여하며 신호를 주고받는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "우사장",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "우사장은 도박판에 참여하며 안경에 대한 힌트를 던지는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "장사장",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "장사장은 도박 게임에 참여하는 인물로, 아기로부터 팔땡 패를 받았다고 언급된다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "광렬",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "광렬은 과거에 팔이 잘릴 때 관련된 사건이 있었던 인물로 언급된다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "곤",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "곤은 대화 중 언급되는 인물이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "대길",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "미나",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "대길은 미나에게 신호를 주며 도박판에서 협력한다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "아기",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "장사장",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "아기는 장사장에게 팔땡 패를 주며 판을 조작한다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "아기",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "대길",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "아기와 대길은 도박판에서 대립하며 긴장 관계에 있다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "아기",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "우사장",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "아기와 우사장은 같은 도박판에 참여하며 대화를 나눈다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "대길",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "광렬",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "대길은 광렬이 팔 잘릴 때 관련된 과거가 있다고 언급된다",
+      "relationship_strength": 6
+    }
+  ]
+}

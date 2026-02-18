@@ -1,0 +1,144 @@
+{
+  "chunk_hash": "7e69b853f2a3c4",
+  "chunk_id": "튜나_7e69b853f2a3c4_c1084ced",
+  "user_query": "불어주고 장착 아나와 1명 먼저 보는거 10분 뒤에 나 뭐 전 명나라가 지나 각 당신이 찍고자 장 밖에 서 인 줄 알고 있고 남자가 당시 우리 사업의 도면 될 것 같은데 그렇지 않은가 독립군 뭐 이런 애다 라고 얘기는 골치 앞서 우리 지면 안돼 염석전기 굴 쳐다보지 말고 곧바로 집을 까요 으 5 라파 시조 5 [음악] 경성부 측에서 연락이 왔는데 저 건물이 하수도가 청계천으로 통한 답니다 전부 전으로 가지 아 자 갑시다 저차 하와의 피스톨 과 영감은 매복해 있던 염 석진과 일본군의 총격으로 치명상을 입고 으 으 었 으 [음악] 하와의 피스톨을 마지막까지 저항하다 결국 죽음을 맞이하게 됩니다 [음악] 그렇게 시간이 흘러 해방 후 1949년 염 석재는 반민족행위자 특별조사 위원회에 재판을 받게 되는데 동지 술술 풀어 따라가서는 들 그 친구 대체 같이 뽑았습니다 여럿이 라는 오르신 야 내가 어떤 씨 진짜 우로 그들을 버렸는지 나는 독립 운동 외에는 1일 없기 때문입니다 이미 증인들은 다 죽고 증거불충분으로 풀려나 오게 됩니다 아 아 아 아 아 그렇죠 조건문 세상이 자나 좀 걷고 싶은데 oie [음악] 축구 길거리에서 우연히 발견한 미츠코 를 쫓아 가게 되고 쫓아 들어간 집에서 나 측은 남자를 보게 됩니다 명 욱 으 으 으 왜 통지를 바란다 음 으 [음악] 대방 될지 몰랐으니까 앓는 그렇게 나와 [음악] 으 16년째 김웅 무 적절히 굉장히 아님 2개 확인합니다 지금 생각합니다 그렇게 그들은 16 년 전 임무를 수행합니다 [음악] 이 영화는 2015 년에 개봉한 최동훈 감독의 영화 암살 입니다 우리의 아픈 역사 일제 강점기 그 중에서도 친일 일정을 다룬 다는 것에 다소 부담이 느껴지는 소재의 영화임에도 어벤져스 급 배우들의 출연과 천 270만 관계 역대 국내 상영작 10 1위에 등극 흥행에 성공하며 많은 이들에게 다시 한번 우리의 역사를 가슴 깊이 새기며 교훈을 준 영화 암살이 얻습니다 오늘의 대한민국 꽈 우리가 누리고 있는 자유와 평화가 결코 그냥 온 것이 아님을 잊지 말아야 하며 나라를 위해 목숨 바쳐 싸운 순국선열 들에게 감사와 존경을 표합니다 이상 영성을 마치며 다음에도 재미있는 영화 리뷰 가지고 오겠습니다",
+  "movie_id": "암살",
+  "reviewer": "튜나",
+  "chunk_index": 5,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "암살",
+      "entity_type": "MOVIE",
+      "entity_description": "암살은 2015년에 개봉한 최동훈 감독의 영화로, 일제 강점기와 친일 문제를 다룬 작품이다. 천만 관객을 넘기며 역대 국내 상영작 10위권에 등극한 흥행작이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "최동훈",
+      "entity_type": "MOVIE_STAFF",
+      "entity_description": "최동훈은 영화 암살의 감독이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "염석진",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "염석진은 독립군을 배신하고 일본군과 함께 매복하여 동지들을 총격한 인물로, 해방 후 1949년 반민족행위자 특별조사위원회에서 재판을 받았으나 증거불충분으로 풀려났다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "하와이 피스톨",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "하와이 피스톨은 염석진과 일본군의 매복 총격으로 치명상을 입고 마지막까지 저항하다 죽음을 맞이한 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "영감",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "영감은 염석진과 일본군의 매복 총격으로 치명상을 입은 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "미츠코",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "미츠코는 해방 후 길거리에서 발견되어 추적당하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "안옥윤",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "안옥윤은 16년 전 임무를 수행하는 인물로, 미츠코를 쫓아가 집에서 남자를 발견한다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "최동훈",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "암살",
+      "target_type": "MOVIE",
+      "relationship_description": "최동훈은 영화 암살의 감독이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "염석진",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "암살",
+      "target_type": "MOVIE",
+      "relationship_description": "염석진은 영화 암살의 주요 등장인물로 친일파 역할이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "하와이 피스톨",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "암살",
+      "target_type": "MOVIE",
+      "relationship_description": "하와이 피스톨은 영화 암살의 등장인물이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "영감",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "암살",
+      "target_type": "MOVIE",
+      "relationship_description": "영감은 영화 암살의 등장인물이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "미츠코",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "암살",
+      "target_type": "MOVIE",
+      "relationship_description": "미츠코는 영화 암살의 등장인물이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "안옥윤",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "암살",
+      "target_type": "MOVIE",
+      "relationship_description": "안옥윤은 영화 암살의 등장인물이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "염석진",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "하와이 피스톨",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "염석진은 일본군과 함께 매복하여 하와이 피스톨을 총격했다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "염석진",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "영감",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "염석진은 일본군과 함께 매복하여 영감을 총격했다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "안옥윤",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "미츠코",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "안옥윤은 미츠코를 쫓아가 추적했다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "안옥윤",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "염석진",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "안옥윤은 16년 전 임무를 수행하며 염석진에 대한 복수를 실행한다",
+      "relationship_strength": 9
+    }
+  ]
+}

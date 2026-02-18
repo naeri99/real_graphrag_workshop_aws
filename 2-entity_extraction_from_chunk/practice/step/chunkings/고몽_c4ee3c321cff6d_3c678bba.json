@@ -1,0 +1,264 @@
+{
+  "chunk_hash": "c4ee3c321cff6d",
+  "chunk_id": "고몽_c4ee3c321cff6d_3c678bba",
+  "user_query": "합니다. 무언가를 계속 씹는 느낌도 있고 소리도 안 나서 좋았다고 하네요. 중국인들 사이에서 가장 중국인 같은 모습을 보여주는 오달수 배우. 배역 이름은 또 가장 고급지의 앤드류입니다. 영국 왕자의 이름을 따서 지었다고 하네요. 헤어은 올드보이의 오대수 스타일을 오마주했습니다. 그러고 보니 오달수 배우는 조선명탐정에서도 오대수를 패러디한 적이 있었네요. 줄리역은 영화 DI에서 강렬한 연기를 선보였던 이신재 배우가 맡았고 조니 역은 홍콩의 유명한 배우이자 영화 감독인 중국상 배우가 맡았습니다. [음악] 한국 도둑들과 홍콩의 도둑들이 만나는 날 이날 예골은 기죽기 싫다는 컨셉으로 화장을 바하게 했습니다.이 왕대가리의 새끼가 이렇게 태어나가 얼마나 어려운데 처음엔 체이 엔주류를 발로 차서 말리는 콘티였고 촬영도 그렇게 했는데 현장에서 총알를 빼는 연기로 바꿨습니다. 그 덕에 훨씬 더 부드러운 카리스마가 돋보이는 컷이 됐습니다. 아 뜨거 뜨거 뜨거 뜨거 뜨거 뜨동이었냐? 전지원 배우는 담배 연기를 너무 싫어하고 담배도 못 피는데 이런 연기를 하느라 너무 힘들었다고 합니다. 자세히 보면 담배를 들고 있는 손이 좀 어색하긴 합니다. 김윤석 배우는이 선글라스가 타짜의 아기가 생각나지 않을까 걱정을 많이 했다고 합니다. 제가 보기엔 전혀 그런 생각이 들지 않았는데 영화마다 본인의 캐릭터를 바꿔 버리는 배우들 정말 대단합니다. 배우들은 항상 전작의 캐릭터와 싸워야 한다고 하네요. 여기 모인 여러분들은 모두가 다 훌륭한 전문가들입니다. 우리 카터인가? 다이아몬드 전작인 타자에서도 그렇고 범죄의 재구성에서도 그렇고 감독은 화면을 분할해서 표현하는 시퀀스를 굉장히 좋아합니다. 마카로 다이어팔로 여자 티파니 티파니 역은 모든 배우들이 존경에 맞이않는 연극계의 대모 예수정 선생님이 맡았습니다. 오랜만 내가 주책 없이 여기까지 왔어. 많이 변했네. 역시나 과한 화장의 여도둑들. 김혜숙 배우와 김해수 배우는이 대사를 하기 위해이 자리에서 실제로 엄청난 시간을 기다렸다고 하네요. 너무 오래 기다리다 보니 대사를 오랜만이 내로 해서 엔지가 나기도 했다고 합니다. 감독은 마카오과 체네 대화를 서로 주민으로 촬영을 하면서 마치 주위에 아무도 없이 둘의 대화로이 시퀀스를 끝내는 느낌을 연출했습니다. 사모님 여은 체시라 배우의 동생 최국키 배우가 맡았습니다. 감독은이 대사가 너무 좋아서 한국어로 하고 싶었는데 상황이 상황인지라 영어로 할 수밖에 없었다고 합니다. 이날은 숨도 못 쉴 정도로 엄청나게 더운 날이었다고 합니다. 홍콩 팀의 로케이션을 부탁할 때 반드시 평범한 홍콩의 풍경이어야 하고 바로 밑에 베란다가 있고 사람이 뛰어내릴 수 있어야 하며 비어 있는 곳을 찾아 달라고 요청을 해서 두 달 만에이 건물을 찾았다고 합니다.이 건물은 현재 허물어지고 없다고 하네요. Who are유? 김혜수 배우는 사실 영어를 기가 막히게 잘하는데 감독의 요청으로 힘들게 콩글리시로 발음을 했습니다. [음악] 한국 도둑들의 방을 도청하는 줄리. 이신재의 배우도 담배를 못 펴서 담배를 들고 있는",
+  "movie_id": "도둑들",
+  "reviewer": "고몽",
+  "chunk_index": 4,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "오달수",
+      "entity_type": "ACTOR",
+      "entity_description": "오달수는 중국인들 사이에서 가장 중국인 같은 모습을 보여주는 배우로, 앤드류 역을 맡았으며 올드보이의 오대수 스타일을 오마주한 헤어스타일을 했다. 조선명탐정에서도 오대수를 패러디한 적이 있다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "앤드류",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "앤드류는 오달수가 연기한 캐릭터로, 영국 왕자의 이름을 따서 지어진 고급진 이름이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "이신재",
+      "entity_type": "ACTOR",
+      "entity_description": "이신재는 영화 DI에서 강렬한 연기를 선보였던 배우로, 줄리 역을 맡았다. 담배를 못 피는 배우이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "줄리",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "줄리는 한국 도둑들의 방을 도청하는 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "중국상",
+      "entity_type": "ACTOR",
+      "entity_description": "중국상은 홍콩의 유명한 배우이자 영화 감독으로, 조니 역을 맡았다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "조니",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "조니는 중국상 배우가 연기한 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "예골",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "예골은 한국 도둑들과 홍콩 도둑들이 만나는 날 기죽기 싫다는 컨셉으로 화장을 바하게 한 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "전지현",
+      "entity_type": "ACTOR",
+      "entity_description": "전지현은 담배 연기를 너무 싫어하고 담배도 못 피는데 담배 피우는 연기를 하느라 힘들었던 배우이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "김윤석",
+      "entity_type": "ACTOR",
+      "entity_description": "김윤석은 선글라스가 타짜의 아귀 캐릭터가 생각나지 않을까 걱정했던 배우로, 영화마다 본인의 캐릭터를 바꿔버리는 대단한 배우이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "예수정",
+      "entity_type": "ACTOR",
+      "entity_description": "예수정은 모든 배우들이 존경하는 연극계의 대모로, 티파니 역을 맡았다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "티파니",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "티파니는 예수정 선생님이 연기한 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "김혜수",
+      "entity_type": "ACTOR",
+      "entity_description": "김혜수는 사실 영어를 기가 막히게 잘하는데 감독의 요청으로 콩글리시로 발음을 했던 배우이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "김해숙",
+      "entity_type": "ACTOR",
+      "entity_description": "김해숙은 김혜수 배우와 함께 오랜 시간 대기하며 대사를 기다렸던 배우이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "최국희",
+      "entity_type": "ACTOR",
+      "entity_description": "최국희는 전지현 배우의 동생으로, 사모님 역을 맡았다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "도둑들",
+      "entity_type": "MOVIE",
+      "entity_description": "도둑들은 한국 도둑들과 홍콩 도둑들이 만나는 내용의 영화로, 화면 분할 시퀀스가 특징적이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "타짜",
+      "entity_type": "MOVIE",
+      "entity_description": "타짜는 김윤석 배우가 아귀 캐릭터로 출연했던 전작 영화이며, 화면 분할 시퀀스가 사용되었다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "범죄의 재구성",
+      "entity_type": "MOVIE",
+      "entity_description": "범죄의 재구성은 감독이 화면 분할 시퀀스를 사용했던 영화이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "올드보이",
+      "entity_type": "MOVIE",
+      "entity_description": "올드보이는 오대수 캐릭터가 등장하는 영화로, 도둑들에서 오마주되었다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "오달수",
+      "source_type": "ACTOR",
+      "target_entity": "앤드류",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "오달수는 앤드류 역을 연기했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "오달수",
+      "source_type": "ACTOR",
+      "target_entity": "도둑들",
+      "target_type": "MOVIE",
+      "relationship_description": "오달수는 도둑들에 출연했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "이신재",
+      "source_type": "ACTOR",
+      "target_entity": "줄리",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "이신재는 줄리 역을 연기했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "중국상",
+      "source_type": "ACTOR",
+      "target_entity": "조니",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "중국상은 조니 역을 연기했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "전지현",
+      "source_type": "ACTOR",
+      "target_entity": "도둑들",
+      "target_type": "MOVIE",
+      "relationship_description": "전지현은 도둑들에 출연했다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "김윤석",
+      "source_type": "ACTOR",
+      "target_entity": "도둑들",
+      "target_type": "MOVIE",
+      "relationship_description": "김윤석은 도둑들에 출연했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "김윤석",
+      "source_type": "ACTOR",
+      "target_entity": "타짜",
+      "target_type": "MOVIE",
+      "relationship_description": "김윤석은 타짜에서 아귀 캐릭터로 출연했다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "예수정",
+      "source_type": "ACTOR",
+      "target_entity": "티파니",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "예수정은 티파니 역을 연기했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "김혜수",
+      "source_type": "ACTOR",
+      "target_entity": "도둑들",
+      "target_type": "MOVIE",
+      "relationship_description": "김혜수는 도둑들에 출연했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "김해숙",
+      "source_type": "ACTOR",
+      "target_entity": "도둑들",
+      "target_type": "MOVIE",
+      "relationship_description": "김해숙은 도둑들에 출연했다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "최국희",
+      "source_type": "ACTOR",
+      "target_entity": "도둑들",
+      "target_type": "MOVIE",
+      "relationship_description": "최국희는 도둑들에서 사모님 역을 맡았다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "예골",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "도둑들",
+      "target_type": "MOVIE",
+      "relationship_description": "예골은 도둑들의 등장인물이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "줄리",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "도둑들",
+      "target_type": "MOVIE",
+      "relationship_description": "줄리는 도둑들의 등장인물이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "앤드류",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "도둑들",
+      "target_type": "MOVIE",
+      "relationship_description": "앤드류는 도둑들의 등장인물이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "티파니",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "도둑들",
+      "target_type": "MOVIE",
+      "relationship_description": "티파니는 도둑들의 등장인물이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "도둑들",
+      "source_type": "MOVIE",
+      "target_entity": "올드보이",
+      "target_type": "MOVIE",
+      "relationship_description": "도둑들에서 올드보이의 오대수 스타일을 오마주했다",
+      "relationship_strength": 6
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "chunk_hash": "4105520c7301fc",
+  "chunk_id": "달빛뮤즈_4105520c7301fc_22479832",
+  "user_query": "묻어 이었다는 데 정신이 좀 갑자기 코 미니 외침 저녀석이 멍청하게 해도 대까지 잘 모셔 가 될 겁니다 철인 만료 또 팬시 외치며 이들 가끔 여 안되는데요 니가 주고 그것을 저희 얼린 제한 낼 하남 괌의 때 바른 떼고 어 사장님 감사 있습니다 그냐 2 다음 치료중인 화장 그런데 수학 새끼 [박수] 그때 월 일이냐 다 버린 저를 가져오라 하셨습니다 모국어가 박수 우리 스팅 eok el de toot [음악] 아 불쌍한 제자 세스 수금을 당하고 각성의 버린 바다 뷰 절수기 좋고 수리 니 잘 가고 있는건가 말은 좀 8만 었으니까 자꾸 갈 때나 놓고 가질 않아요 5 2 스승 몰래 나간 거죠 초리 두려고 5 수백 안에는 죽을까 다시 오신 건가요 그럼 제가 지켜 드리면 되죠 4 축구도 뭐 하나씩 받아 라는 것을 못 봐서 공헌에 아쉬워요 여러 부수지 자 준비 2일 바로 바다의 왜 들어 가지만 적어 끝에는 뭐가 있나요 바 거의 또 3배 님도 바다가 처음 이구나 바다를 보면 나는 누구인가 또 너는 어떻게 살아갈 것이 천 다시 태어나면 천민으로 태어나 요 어 춤추고 노래하고 받아 이 많 님 웻지 보통 급한 불을 들어가시면 됩니다 4 안에 어찌 저희가 도 삽니다 다음은 도사 능력 자랑 하려는데 분위기 께는 초림 좀 떨어져 c4 잖아요 들어온 놈이 법 펌 대게 생 거야 8 로쟈 주면 되죠 하니까 선회하고 시조 목적지가 1번부터 하고 그 진짜 한 판 피트가 뭐 성격이 떠 확인하기 음악 음악 5 설리가 어떻게 침수 이렇게 걸어 보니까 이상하지 속해 써 아 제가 심심해서 때리고 다른거 돌려 줄 알아요 부족 없으면 허당 해요 뭐 하다뇨 스스로 들어주시오 잘 발 어 그렇게 다시 길을 갑니다 혼자 있는 청 권 대사는 차를 마시다가 처가 수상의 꼭 하다 기습 땅은 천군 대사 to 클래 반쪽 피리가 화합을 집어 삼켜 버리고 너는 얻어 물로 너 귀를 중에도 그때 [음악] 토 그 탄거 스 그렇게 청 권 대사는 나머지 반쪽 피리를 찾는 화담 하지만 무슨 진표 라도 책의 주십니까 또 만나려면 그런게 필요적 저 4 효과가 물 묻어요 도 라 지 q2 꽃들이 즉 을 야금 되며 저희 와인이 슬퍼 줄 10억 아쉽고 좀 멋진 따라 biz 청동 것만 찾으면 되는데 아무것도 모르고 돌아봤다 니까 가 되고 으 이러자 거미 스승을 해 하고 피를 훔치러 500년 가도 나야 정신을 잘 알겠지만 늠 0 으 you 입니다 [음악] 촉 짜 의 봉인 드리기 초랭이 부터 봉이 스승이 죽음에 슬퍼하는 그때 검은 거르기 아 그냥 갔었어 얘 마 아 500년을 기타를 되었고 교훈 더덕의 비를 보면 무슨 일이 일어납니까 요 10 구천에 떨어지고 표현되는 께선 다시 재무 쏠 때 찾게 됩니다 잠깐 얻어 탈까 오랫동안 기다린 오거나 그 발에 띠 스 이지 알았습니다 그리고 세월이 흘러 뭐하지만 하면 왜 바람을 피냐 면 부근 갈 간의 화해를 1절 손을 피하지 전생에 죄가 많아 고정을 이가 죽었구나 거기에도 을 따서 다진것 하지 말 뒤에 할 이야 너 항아리가 대처 있다 안돼도 화담 선수이자 텐데 아 피클 어떻게 줘 봐요 그리고",
+  "movie_id": "전우치",
+  "reviewer": "달빛뮤즈",
+  "chunk_index": 4,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "청권대사",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "청권대사는 차를 마시다가 기습을 당하고 반쪽 피리를 찾아 나서는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "초림",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "초림은 스승의 죽음에 슬퍼하며, 스승을 모시고 따르는 제자 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "화담",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "화담은 청권대사와 관련된 인물로, 피리와 연관이 있는 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "거미",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "거미는 스승을 해하고 피리를 훔치러 온 인물로, 500년을 기다린 캐릭터이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "초림",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "청권대사",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "초림은 청권대사의 제자로 스승을 모시고 따른다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "거미",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "청권대사",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "거미는 청권대사를 공격하고 피리를 훔치려 한다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "청권대사",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "화담",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "청권대사는 화담과 반쪽 피리를 찾는 것과 관련이 있다",
+      "relationship_strength": 7
+    }
+  ]
+}

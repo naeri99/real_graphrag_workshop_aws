@@ -1,0 +1,99 @@
+{
+  "chunk_hash": "221c47db62d2cd",
+  "chunk_id": "고몽_221c47db62d2cd_c5040f34",
+  "user_query": "건지 질문합니다. 싫다면 싫으면 시집과이 새끼 너 어디 가서 농담 같은 거 하지 마라. 까봐. 잠깐. 전에도 이러다 발자리셨다면서요? 지리선 적도한테. 너 곤이라는 놈하고 무슨 관계? 우리 삼촌 아세요? 까봐. [음악] 한끝이 장땡 이길 때도 있는 겁니다. 이로서 아기는 아웃데였습니다. 어떻게 되는지 알지? 까봐 뻥식이도 사망. 잘 놀았습니다. 최종 게임의 승자는 대일과 미나가 쟁치하게 됐습니다. 이제 돈만 챙기고 저택을 떠나면 되는데요. 네. 목숨은 더러워서 못 갔겠다. 돈을 챙겨 나왔는데 광철이 독차지하려고 합니다. 오빠 광철은 대길과 미나가 판돈을 차지해 버리면 또 다시 그 돈으로 인해 원한을 사거나 또 다른 승부 사건 악행에 휘말릴 걸 생각해 돈을 제다 길거리에 뿌려버려 미련을 잃게 만들었습니다. 미나야, 내 동생. 새 출발하기에 충분한 정도의 적당한 액수만을 따로 숨겨 놓다가 우리에게 남겨주고 죽었다는 걸 알 수 있었습니다. 예전에 집을 떠나 서울을 올라가는 길에 문득 그런 생각이 들었다. 다시 집에 돌아갈 수 있을까? 신의 손이라고 들어봤어? เฮ",
+  "movie_id": "타짜",
+  "reviewer": "고몽",
+  "chunk_index": 10,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "대일",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "대일은 최종 게임의 승자 중 한 명으로, 미나와 함께 판돈을 차지하게 된 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "미나",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "미나는 최종 게임의 승자 중 한 명이며, 광철의 동생이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "광철",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "광철은 미나의 오빠로, 대길과 미나가 판돈을 독차지하려 했으나 돈으로 인한 악행을 막기 위해 돈을 길거리에 뿌리고, 새 출발을 위한 적당한 액수만 남겨두고 죽은 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "아기",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "아기는 게임에서 아웃된 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "뻥식",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "뻥식은 게임 중 사망한 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "곤",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "곤은 극중 언급되는 인물로, 다른 캐릭터의 삼촌이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "대길",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "대길은 미나와 함께 판돈을 차지한 인물이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "광철",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "미나",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "광철은 미나의 오빠이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "대일",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "미나",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "대일과 미나는 최종 게임의 공동 승자이다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "대길",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "미나",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "대길과 미나가 함께 판돈을 차지했다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "광철",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "대길",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "광철은 대길과 미나가 돈으로 인해 악행에 휘말릴 것을 우려하여 돈을 뿌렸다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "곤",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "아기",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "곤은 극중 인물의 삼촌으로 언급된다",
+      "relationship_strength": 5
+    }
+  ]
+}

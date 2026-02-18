@@ -1,0 +1,93 @@
+{
+  "chunk_hash": "18af6de63e3f2a",
+  "chunk_id": "튜나_18af6de63e3f2a_fabc3811",
+  "user_query": "찍었습니다 아 사랑하는 사이들이 나와서 아 사랑하잖아요 모든 등장들이 맞아 이런 걸로 그냥 멜로를 해소하고 있습니다 어떠세요 최양은 차량 그러니까 일단 촬영 스피드가 엄청 빠르시고음 어떤 정확하다고 할까요 그러니까 뭐 이렇게 어떤 소품을 딱 비춰야 되면은 그걸 확 비춰주고 다시 인물한테 뭐 바로 확 가고 유려하게 쫙 흘러가게 잘 담아내시는게 특징 중에 하나인 거 같아음 한편으로는 최영상 감독님이 또 연기를 하셨거든요 대학교 다니실 때 아 정말요 예 그래서 배우들의 그 신뢰가 되게 높으세요 보면은 예 편했다 되게 좋았다 음 그런 기들을 히 배우분들이 많이 하셨던 기억이나는 거같습니다 저는 원래는 거의 이런 거를 이동차 이게 깔아 놓고 신 커트로 거의 다 찍어요음 그런 이유 중에 하나가 이제 배우도 했었기 때문에 배 배우 연기하는데 커트를 나누고 싶지가 않아요 그 배우 감정 잡는게 시간이 너무 많이 걸리는데 이걸 계속 잘라서 찍고 잘라서 찍으면 나중에 한 두시간 세 시간 지나면 이게 감정이 아까 감정이 안 나오거든요 배우가 연 하는 걸 온전히 다 담고 싶고 그런 식으로 예 빠른 식으로 빨리빨리 찍는 편입니다 빠 배우분들 입장에선 굉장히 좋을 수 있겠네요 그러면 제작자들도 좋아하죠 그렇죠 요즘처럼 촬영 조건이 어려워진음 시간과 회차와 이렇게 압박이 심해진 상황에서는 이렇게 빨리 세팅하고 여러 대의 카메라를 통출고 이지가 많고 이런 감독님들이 선호도를 이렇게 가질 수밖에 없죠 그러네요 모든 장면들을 공들이 찍으 겠지만 몰래 특별히 궁들 했던 신이 있다면 어떤게 있을까요 약간 간단한 신이기도 한데 저한테는 되게 중요했던 신이거나 계단 신이 [음악] 있어요네 대사도 없고 표정도 없어서 그걸 어떻게 하면 잘 찍을 수 있을까 해가지고 약간씩 다르게 찍었어요 똑같은 계단인데 해수 씨가 내려올 때는 사랑했던 사람인데 약간 대화를 하고 흔들리거나 어 근데 그 가만히 있는 얼굴에서 표현할 수가 없어서 그냥 제가 카메라 약간 흔들었어요 [음악] 어 멜로 하셔야 겠는데 멜로 한번 찍으셔야겠다 빠이가 내려올 때는 확실한 그 배신할 그렇게 표현이 돼야 돼서 그냥 중이 약간 아 좋았어요 그냥 되게데 그런게 매력이 있잖아요 아 대사가 있고 이렇게 될 거 같으면 촬영 감독이 아무리 잘 찍더라도 대사에 매몰 돼서 앵글이 표가 안나요 대사가 없는 시인들은 촬영간 감독의 저의 기회예요 그런 기회를 놓치지 않았다라고 하는 것은 위대한 촬영 감독이 [음악] 그니까요 도둑들은 7년 지난 지금도 스타일리시한 영상로 인정받는 작품인데요 홍콩의 이국적인 로케이션 한목 한 거 같습니다 홍콩에서 차량 어떻게 준비하셨어요 홍콩 처음에 갔을 때는 딱 봐도 멋있는 장소들이 너무 많았는데 도둑 놈들이 그쪽은 안 갈 거 같더라고요 너무 화려해서네 최대한 어둡고 막 사람들 많이 안 가는 장소로 가자 그래서음 이게 찍었죠 아 차량 협조는 잘 되나요 홍콩은 홍콩은 도로가 너무 좁아서 발전 차나 그런 걸 아예 못 대게 해요 그래서 옛날에 왕가 영화 같은 거 보면 한 장소에 똑같은 글 계속 나올 때가",
+  "movie_id": "도둑들",
+  "reviewer": "튜나",
+  "chunk_index": 4,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "최양",
+      "entity_type": "MOVIE_STAFF",
+      "entity_description": "최양은 촬영 감독으로, 빠른 촬영 스피드와 정확한 앵글 구성이 특징이며, 대학교 시절 연기 경험이 있어 배우들의 신뢰가 높다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "최영상",
+      "entity_type": "MOVIE_STAFF",
+      "entity_description": "최영상 감독님은 대학교 시절 연기를 했던 경험이 있어 배우들과의 신뢰가 높은 감독이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "도둑들",
+      "entity_type": "MOVIE",
+      "entity_description": "도둑들은 7년이 지난 지금도 스타일리시한 영상미로 인정받는 작품으로, 홍콩의 이국적인 로케이션에서 촬영되었다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "해수",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "해수는 도둑들에서 계단 신에 등장하는 인물로, 사랑했던 사람과 대화 후 흔들리는 감정을 표현하는 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "빠이",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "빠이는 도둑들에서 계단 신에 등장하는 인물로, 배신하는 캐릭터로 표현된다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "왕가위",
+      "entity_type": "MOVIE_STAFF",
+      "entity_description": "왕가위는 홍콩 영화를 만든 감독으로 언급되었다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "최양",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "도둑들",
+      "target_type": "MOVIE",
+      "relationship_description": "최양은 도둑들의 촬영을 담당했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "해수",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "도둑들",
+      "target_type": "MOVIE",
+      "relationship_description": "해수는 도둑들의 계단 신에 등장하는 캐릭터이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "빠이",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "도둑들",
+      "target_type": "MOVIE",
+      "relationship_description": "빠이는 도둑들의 계단 신에 등장하는 캐릭터이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "해수",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "빠이",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "해수와 빠이는 같은 계단 신에서 다른 감정을 표현하는 대비되는 캐릭터들이다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "최양",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "최영상",
+      "target_type": "MOVIE_STAFF",
+      "relationship_description": "최양과 최영상은 동일 인물로 추정되며, 촬영 감독으로서 연기 경험을 바탕으로 배우들과 좋은 관계를 유지한다",
+      "relationship_strength": 9
+    }
+  ]
+}

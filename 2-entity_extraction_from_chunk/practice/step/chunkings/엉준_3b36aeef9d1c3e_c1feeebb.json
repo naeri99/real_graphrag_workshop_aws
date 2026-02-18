@@ -1,0 +1,135 @@
+{
+  "chunk_hash": "3b36aeef9d1c3e",
+  "chunk_id": "엉준_3b36aeef9d1c3e_c1feeebb",
+  "user_query": "저 그런 캐릭터 아니에요. 본인은 원망하지 않을 테니 화투를 가르쳐 달라 합니다. 들어오라. 이렇게 막 섞어 가지고 제가 오늘 만약에 선생님을 잡는다. 미스트 한 장, 위에서 한장. 8땡이고요. 아홉 밖에 안 되는 거예요. 뭐란 말이지? 장땡이네. 그 손 손해 와. 역시 타자 앞에서는 뭘 하든 무용 지물이네요. 고니는 스승 밑에서 실력을 키우기 시작했는데요. 물론 그 여정이 순탄하진 않았습니다. 1. 대한민국에서 랭킹 몇 이쯤 돼요? 당연히 내가 1등이지. 인마. 대한민국에서 딱 세 명이야. 경상도의 짝기, 전라도의 아기. 전국적으로 나. 내가 누구냐? 화투를 아티의 경지로 끌어올려서 모라일체의 경지 혼이 담긴 구라 왜 이런 집에 사십니까? 땅만 사면 그 땅만 가격이 떨어진다며 안 산다고 하네요. 다 보인다야. 항상 붙이고 다니라. [음악] 상견장은 이럴 때일수록 자만하지 말고 더 연습하라고 합니다. 연습이 나라. 고니는 수련의 시간을 가졌고 이제 편견장과 함께 원전 경기를 나서기로 합니다. 갑옷 끝났네. 어이이 형성 출신이란다. 동태는 두급박의 수다.이 세상에 안전한 도박판은 없어. 반절이나 떼주면은 우린 뭐 먹고 삽니까? 물 흐르듯이. 고니는 자신의 실력을 스승에게 검증받아 보는데요. 저것들은 천만 원 한 판에 끝내시려고요? 떨리면 되지든가 안 쫄리는데요. 천만 원 장땡이니? 그러네요. 한경장은 누나돈 찾으면 화투 끊을 수 있냐 물어보는데요. 다섯 배는 더 벌어야죠. 부산으로 가자. 도박의 꽃이 누군줄 아니? 누가 찾으셨는데요? 기다리라고 그래. 도박의 꽃은 설계라 하는데요. 결국 미모를 통해 눈키를 사로잡는게 중요하다는 걸 의미하는 거 같습니다. 오랜만이에요. 평경장은 두면인 듯도 한데요. 날 왜 불렀니? 보고 싶어서요. 많이 늘었다며 평경장은 일 얘기를 하자 않은데요. 오장군이라고 별 두 개로 태역했는데 캐시도 넉넉하고 누구예요? 보디가드 난 바람이나 잡고 정마담은 고니의 실력을 궁금해합니다. 그냥 젠틀해 보이는데 눈썰이 좀 볼까? 아트는 모칠 것 같은데 잘하네. 다짜니까. 마담이라 그런지 플러팅하는 기술이 남다릅니다. 꽃 좋다. 약주 한잔 안 하세요? 오늘 마시고 들어오라 정말담에게 관심 있어 하는 고니의 마음을 눈치챈 모양입니다. [음악] 술이나 한 잔 뭐 갑시다. 난리 싫은데. 정적이 내려 안 씁니다. 그렇게 막 하는게 아니야. 장군의 집에서 그들은 서로 신호를 죽어봤습니다. 나 패안 보고 걸어요. 3천 넌 내가 잡네. 받아 3천 더. 정마당과 평경장은 빠져줍니다. 너 다 한번 받아줄 수 있어? 그러죠 뭐. 어때? 무조건 죽으라고 했습니다. 받읍시다. 7대. 어 잠시 2층이정 죽는다. 등장밑이 더 뜨거운 법이랍니다. 군이야. 새덩을리 줘라. 요런 걸 멀리해야 돼. 다섯 배로 따왔으면 집에 가야지. 권니는 가지 마. 집에 가기 실리. 권니는 애인과 스승 사이를 두고 갈등했습니다. 가요. 손꼬락 하나 잘라. 왜요? 손이 근지러워서 살 수 있겠니? 집에 가야지. 본인은 고민하는 표정을 짓더니 평경장이 중 칼을 챙겨 화장실로",
+  "movie_id": "타짜",
+  "reviewer": "엉준",
+  "chunk_index": 2,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "타짜",
+      "entity_type": "MOVIE",
+      "entity_description": "타짜는 도박과 화투를 소재로 한 한국 영화로, 고니가 스승 밑에서 도박 실력을 키워나가는 이야기를 다룬다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "고니",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "고니는 화투를 배우며 도박꾼으로 성장하는 주인공으로, 스승 평경장 밑에서 수련하며 실력을 키운다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "평경장",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "평경장은 고니의 스승으로, 대한민국 화투 랭킹 1위를 자처하며 화투를 예술의 경지로 끌어올렸다고 주장하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "정마담",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "정마담은 도박판의 마담으로, 고니의 실력을 시험하고 그에게 관심을 보이는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "오장군",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "오장군은 별 두 개로 예편한 인물로, 캐시가 넉넉한 도박 상대이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "짝귀",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "짝귀는 경상도의 유명한 타짜로 언급되는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "아귀",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "아귀는 전라도의 유명한 타짜로 언급되는 인물이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "고니",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "타짜",
+      "target_type": "MOVIE",
+      "relationship_description": "고니는 타짜의 주인공이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "평경장",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "타짜",
+      "target_type": "MOVIE",
+      "relationship_description": "평경장은 타짜에 등장하는 주요 인물이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "고니",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "평경장",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "고니는 평경장에게 화투를 배우는 제자이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "정마담",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "타짜",
+      "target_type": "MOVIE",
+      "relationship_description": "정마담은 타짜에 등장하는 인물이다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "고니",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "정마담",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "고니는 정마담에게 관심을 가지며 애인과 스승 사이에서 갈등한다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "평경장",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "정마담",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "평경장과 정마담은 함께 도박판에서 협력하는 관계이다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "오장군",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "타짜",
+      "target_type": "MOVIE",
+      "relationship_description": "오장군은 타짜에서 도박 상대로 등장하는 인물이다",
+      "relationship_strength": 6
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "짝귀",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "평경장",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "짝귀는 평경장이 언급한 경상도의 유명 타짜이다",
+      "relationship_strength": 5
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "아귀",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "평경장",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "아귀는 평경장이 언급한 전라도의 유명 타짜이다",
+      "relationship_strength": 5
+    }
+  ]
+}

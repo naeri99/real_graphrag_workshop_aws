@@ -1,0 +1,1359 @@
+{
+  "chunk_hash": "bf80f07657fb32",
+  "chunk_id": "B Man_bf80f07657fb32_49fc5bd2",
+  "user_query": "뽀빠이 역할을 연기했다. 전지현이(가) 도둑들에서 예니콜 역할을 연기했다. 임달화이(가) 도둑들에서 첸 역할을 연기했다. 김해숙이(가) 도둑들에서 씹던껌 역할을 연기했다. 오달수이(가) 도둑들에서 앤드류 역할을 연기했다. 김수현이(가) 도둑들에서 잠파노 역할을 연기했다. 증국상이(가) 도둑들에서 조니 역할을 연기했다. 이신제이(가) 도둑들에서 쥴리 역할을 연기했다. 주진모이(가) 도둑들에서 반장 역할을 연기했다. 기국서이(가) 도둑들에서 웨이홍 역할을 연기했다. 신하균이(가) 도둑들에서 이하철 역할을 연기했다. 전지현이(가) 암살에서 안옥윤 역할을 연기했다. 전지현이(가) 암살에서 미츠코 역할을 연기했다. 이정재이(가) 암살에서 염석진 역할을 연기했다. 조진웅이(가) 암살에서 추상옥 역할을 연기했다. 최덕문이(가) 암살에서 황덕삼 역할을 연기했다. 진경이(가) 암살에서 안성심 역할을 연기했다. 심철종이(가) 암살에서 카와구치 마무로 역할을 연기했다. 박병은이(가) 암살에서 카와구치 슌스케 역할을 연기했다. 하정우이(가) 암살에서 하와이 피스톨 역할을 연기했다. 오달수이(가) 암살에서 영감 역할을 연기했다. 이경영이(가) 암살에서 강인국 역할을 연기했다. 김홍파이(가) 암살에서 김구 역할을 연기했다. 조승우이(가) 암살에서 김원봉 역할을 연기했다. 김우빈이(가) 외계+인에서 가드 역할을 연기했다. 김태리이(가) 외계+인에서 이안 역할을 연기했다. 소지섭이(가) 외계+인에서 문도석 역할을 연기했다. 염정아이(가) 외계+인에서 흑설 역할을 연기했다. 조우진이(가) 외계+인에서 청운 역할을 연기했다. 이하늬이(가) 외계+인에서 민개인 역할을 연기했다. 신정근이(가) 외계+인에서 우왕 역할을 연기했다. 이시훈이(가) 외계+인에서 좌왕 역할을 연기했다. 김의성이(가) 외계+인에서 자장 역할을 연기했다. 류준열이(가) 외계+인에서 무륵 역할을 연기했다. 김우빈이(가) 외계+인에서 썬더 역할을 연기했다. 김태리이(가) 외계+인에서 이안 역할을 연기했다. 염정아이(가) 외계+인에서 흑설 역할을 연기했다. 조우진이(가) 외계+인에서 청운 역할을 연기했다. 이하늬이(가) 외계+인에서 민개인 역할을 연기했다. 진선규이(가) 외계+인에서 능파 역할을 연기했다. 김의성이(가) 외계+인에서 자장 역할을 연기했다.",
+  "movie_id": "외계+인",
+  "reviewer": "B Man",
+  "chunk_index": 5,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "도둑들",
+      "entity_type": "MOVIE",
+      "entity_description": "도둑들은 한국 영화로 다양한 도둑 캐릭터들이 등장하는 범죄 영화이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "암살",
+      "entity_type": "MOVIE",
+      "entity_description": "암살은 한국 영화로 일제강점기를 배경으로 한 액션 영화이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "외계+인",
+      "entity_type": "MOVIE",
+      "entity_description": "외계+인은 한국 영화로 외계인과 관련된 SF 판타지 영화이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "전지현",
+      "entity_type": "ACTOR",
+      "entity_description": "전지현은 도둑들에서 예니콜 역, 암살에서 안옥윤과 미츠코 역을 연기한 배우이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "임달화",
+      "entity_type": "ACTOR",
+      "entity_description": "임달화는 도둑들에서 첸 역을 연기한 배우이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "김해숙",
+      "entity_type": "ACTOR",
+      "entity_description": "김해숙은 도둑들에서 씹던껌 역을 연기한 배우이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "오달수",
+      "entity_type": "ACTOR",
+      "entity_description": "오달수는 도둑들에서 앤드류 역, 암살에서 영감 역을 연기한 배우이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "김수현",
+      "entity_type": "ACTOR",
+      "entity_description": "김수현은 도둑들에서 잠파노 역을 연기한 배우이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "증국상",
+      "entity_type": "ACTOR",
+      "entity_description": "증국상은 도둑들에서 조니 역을 연기한 배우이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "이신제",
+      "entity_type": "ACTOR",
+      "entity_description": "이신제는 도둑들에서 쥴리 역을 연기한 배우이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "주진모",
+      "entity_type": "ACTOR",
+      "entity_description": "주진모는 도둑들에서 반장 역을 연기한 배우이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "기국서",
+      "entity_type": "ACTOR",
+      "entity_description": "기국서는 도둑들에서 웨이홍 역을 연기한 배우이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "신하균",
+      "entity_type": "ACTOR",
+      "entity_description": "신하균은 도둑들에서 이하철 역을 연기한 배우이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "이정재",
+      "entity_type": "ACTOR",
+      "entity_description": "이정재는 암살에서 염석진 역을 연기한 배우이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "조진웅",
+      "entity_type": "ACTOR",
+      "entity_description": "조진웅은 암살에서 추상옥 역을 연기한 배우이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "최덕문",
+      "entity_type": "ACTOR",
+      "entity_description": "최덕문은 암살에서 황덕삼 역을 연기한 배우이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "진경",
+      "entity_type": "ACTOR",
+      "entity_description": "진경은 암살에서 안성심 역을 연기한 배우이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "심철종",
+      "entity_type": "ACTOR",
+      "entity_description": "심철종은 암살에서 카와구치 마무로 역을 연기한 배우이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "박병은",
+      "entity_type": "ACTOR",
+      "entity_description": "박병은은 암살에서 카와구치 슌스케 역을 연기한 배우이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "하정우",
+      "entity_type": "ACTOR",
+      "entity_description": "하정우는 암살에서 하와이 피스톨 역을 연기한 배우이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "이경영",
+      "entity_type": "ACTOR",
+      "entity_description": "이경영은 암살에서 강인국 역을 연기한 배우이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "김홍파",
+      "entity_type": "ACTOR",
+      "entity_description": "김홍파는 암살에서 김구 역을 연기한 배우이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "조승우",
+      "entity_type": "ACTOR",
+      "entity_description": "조승우는 암살에서 김원봉 역을 연기한 배우이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "김우빈",
+      "entity_type": "ACTOR",
+      "entity_description": "김우빈은 외계+인에서 가드와 썬더 역을 연기한 배우이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "김태리",
+      "entity_type": "ACTOR",
+      "entity_description": "김태리는 외계+인에서 이안 역을 연기한 배우이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "소지섭",
+      "entity_type": "ACTOR",
+      "entity_description": "소지섭은 외계+인에서 문도석 역을 연기한 배우이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "염정아",
+      "entity_type": "ACTOR",
+      "entity_description": "염정아는 외계+인에서 흑설 역을 연기한 배우이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "조우진",
+      "entity_type": "ACTOR",
+      "entity_description": "조우진은 외계+인에서 청운 역을 연기한 배우이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "이하늬",
+      "entity_type": "ACTOR",
+      "entity_description": "이하늬는 외계+인에서 민개인 역을 연기한 배우이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "신정근",
+      "entity_type": "ACTOR",
+      "entity_description": "신정근은 외계+인에서 우왕 역을 연기한 배우이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "이시훈",
+      "entity_type": "ACTOR",
+      "entity_description": "이시훈은 외계+인에서 좌왕 역을 연기한 배우이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "김의성",
+      "entity_type": "ACTOR",
+      "entity_description": "김의성은 외계+인에서 자장 역을 연기한 배우이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "류준열",
+      "entity_type": "ACTOR",
+      "entity_description": "류준열은 외계+인에서 무륵 역을 연기한 배우이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "진선규",
+      "entity_type": "ACTOR",
+      "entity_description": "진선규는 외계+인에서 능파 역을 연기한 배우이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "뽀빠이",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "뽀빠이는 영화에 등장하는 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "예니콜",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "예니콜은 도둑들에 등장하는 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "첸",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "첸은 도둑들에 등장하는 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "씹던껌",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "씹던껌은 도둑들에 등장하는 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "앤드류",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "앤드류는 도둑들에 등장하는 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "잠파노",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "잠파노는 도둑들에 등장하는 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "조니",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "조니는 도둑들에 등장하는 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "쥴리",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "쥴리는 도둑들에 등장하는 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "반장",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "반장은 도둑들에 등장하는 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "웨이홍",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "웨이홍은 도둑들에 등장하는 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "이하철",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "이하철은 도둑들에 등장하는 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "안옥윤",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "안옥윤은 암살에 등장하는 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "미츠코",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "미츠코는 암살에 등장하는 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "염석진",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "염석진은 암살에 등장하는 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "추상옥",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "추상옥은 암살에 등장하는 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "황덕삼",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "황덕삼은 암살에 등장하는 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "안성심",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "안성심은 암살에 등장하는 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "카와구치 마무로",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "카와구치 마무로는 암살에 등장하는 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "카와구치 슌스케",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "카와구치 슌스케는 암살에 등장하는 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "하와이 피스톨",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "하와이 피스톨은 암살에 등장하는 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "영감",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "영감은 암살에 등장하는 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "강인국",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "강인국은 암살에 등장하는 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "김구",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "김구는 암살에 등장하는 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "김원봉",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "김원봉은 암살에 등장하는 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "가드",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "가드는 외계+인에 등장하는 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "이안",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "이안은 외계+인에 등장하는 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "문도석",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "문도석은 외계+인에 등장하는 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "흑설",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "흑설은 외계+인에 등장하는 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "청운",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "청운은 외계+인에 등장하는 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "민개인",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "민개인은 외계+인에 등장하는 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "우왕",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "우왕은 외계+인에 등장하는 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "좌왕",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "좌왕은 외계+인에 등장하는 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "자장",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "자장은 외계+인에 등장하는 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "무륵",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "무륵은 외계+인에 등장하는 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "썬더",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "썬더는 외계+인에 등장하는 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "능파",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "능파는 외계+인에 등장하는 캐릭터이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "전지현",
+      "source_type": "ACTOR",
+      "target_entity": "예니콜",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "전지현은 예니콜 역을 연기했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "전지현",
+      "source_type": "ACTOR",
+      "target_entity": "안옥윤",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "전지현은 안옥윤 역을 연기했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "전지현",
+      "source_type": "ACTOR",
+      "target_entity": "미츠코",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "전지현은 미츠코 역을 연기했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "전지현",
+      "source_type": "ACTOR",
+      "target_entity": "도둑들",
+      "target_type": "MOVIE",
+      "relationship_description": "전지현은 도둑들에 출연했다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "전지현",
+      "source_type": "ACTOR",
+      "target_entity": "암살",
+      "target_type": "MOVIE",
+      "relationship_description": "전지현은 암살에 출연했다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "임달화",
+      "source_type": "ACTOR",
+      "target_entity": "첸",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "임달화는 첸 역을 연기했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "임달화",
+      "source_type": "ACTOR",
+      "target_entity": "도둑들",
+      "target_type": "MOVIE",
+      "relationship_description": "임달화는 도둑들에 출연했다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "김해숙",
+      "source_type": "ACTOR",
+      "target_entity": "씹던껌",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "김해숙은 씹던껌 역을 연기했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "김해숙",
+      "source_type": "ACTOR",
+      "target_entity": "도둑들",
+      "target_type": "MOVIE",
+      "relationship_description": "김해숙은 도둑들에 출연했다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "오달수",
+      "source_type": "ACTOR",
+      "target_entity": "앤드류",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "오달수는 앤드류 역을 연기했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "오달수",
+      "source_type": "ACTOR",
+      "target_entity": "영감",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "오달수는 영감 역을 연기했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "오달수",
+      "source_type": "ACTOR",
+      "target_entity": "도둑들",
+      "target_type": "MOVIE",
+      "relationship_description": "오달수는 도둑들에 출연했다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "오달수",
+      "source_type": "ACTOR",
+      "target_entity": "암살",
+      "target_type": "MOVIE",
+      "relationship_description": "오달수는 암살에 출연했다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "김수현",
+      "source_type": "ACTOR",
+      "target_entity": "잠파노",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "김수현은 잠파노 역을 연기했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "김수현",
+      "source_type": "ACTOR",
+      "target_entity": "도둑들",
+      "target_type": "MOVIE",
+      "relationship_description": "김수현은 도둑들에 출연했다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "증국상",
+      "source_type": "ACTOR",
+      "target_entity": "조니",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "증국상은 조니 역을 연기했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "증국상",
+      "source_type": "ACTOR",
+      "target_entity": "도둑들",
+      "target_type": "MOVIE",
+      "relationship_description": "증국상은 도둑들에 출연했다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "이신제",
+      "source_type": "ACTOR",
+      "target_entity": "쥴리",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "이신제는 쥴리 역을 연기했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "이신제",
+      "source_type": "ACTOR",
+      "target_entity": "도둑들",
+      "target_type": "MOVIE",
+      "relationship_description": "이신제는 도둑들에 출연했다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "주진모",
+      "source_type": "ACTOR",
+      "target_entity": "반장",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "주진모는 반장 역을 연기했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "주진모",
+      "source_type": "ACTOR",
+      "target_entity": "도둑들",
+      "target_type": "MOVIE",
+      "relationship_description": "주진모는 도둑들에 출연했다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "기국서",
+      "source_type": "ACTOR",
+      "target_entity": "웨이홍",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "기국서는 웨이홍 역을 연기했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "기국서",
+      "source_type": "ACTOR",
+      "target_entity": "도둑들",
+      "target_type": "MOVIE",
+      "relationship_description": "기국서는 도둑들에 출연했다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "신하균",
+      "source_type": "ACTOR",
+      "target_entity": "이하철",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "신하균은 이하철 역을 연기했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "신하균",
+      "source_type": "ACTOR",
+      "target_entity": "도둑들",
+      "target_type": "MOVIE",
+      "relationship_description": "신하균은 도둑들에 출연했다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "이정재",
+      "source_type": "ACTOR",
+      "target_entity": "염석진",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "이정재는 염석진 역을 연기했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "이정재",
+      "source_type": "ACTOR",
+      "target_entity": "암살",
+      "target_type": "MOVIE",
+      "relationship_description": "이정재는 암살에 출연했다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "조진웅",
+      "source_type": "ACTOR",
+      "target_entity": "추상옥",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "조진웅은 추상옥 역을 연기했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "조진웅",
+      "source_type": "ACTOR",
+      "target_entity": "암살",
+      "target_type": "MOVIE",
+      "relationship_description": "조진웅은 암살에 출연했다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "최덕문",
+      "source_type": "ACTOR",
+      "target_entity": "황덕삼",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "최덕문은 황덕삼 역을 연기했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "최덕문",
+      "source_type": "ACTOR",
+      "target_entity": "암살",
+      "target_type": "MOVIE",
+      "relationship_description": "최덕문은 암살에 출연했다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "진경",
+      "source_type": "ACTOR",
+      "target_entity": "안성심",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "진경은 안성심 역을 연기했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "진경",
+      "source_type": "ACTOR",
+      "target_entity": "암살",
+      "target_type": "MOVIE",
+      "relationship_description": "진경은 암살에 출연했다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "심철종",
+      "source_type": "ACTOR",
+      "target_entity": "카와구치 마무로",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "심철종은 카와구치 마무로 역을 연기했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "심철종",
+      "source_type": "ACTOR",
+      "target_entity": "암살",
+      "target_type": "MOVIE",
+      "relationship_description": "심철종은 암살에 출연했다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "박병은",
+      "source_type": "ACTOR",
+      "target_entity": "카와구치 슌스케",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "박병은은 카와구치 슌스케 역을 연기했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "박병은",
+      "source_type": "ACTOR",
+      "target_entity": "암살",
+      "target_type": "MOVIE",
+      "relationship_description": "박병은은 암살에 출연했다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "하정우",
+      "source_type": "ACTOR",
+      "target_entity": "하와이 피스톨",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "하정우는 하와이 피스톨 역을 연기했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "하정우",
+      "source_type": "ACTOR",
+      "target_entity": "암살",
+      "target_type": "MOVIE",
+      "relationship_description": "하정우는 암살에 출연했다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "이경영",
+      "source_type": "ACTOR",
+      "target_entity": "강인국",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "이경영은 강인국 역을 연기했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "이경영",
+      "source_type": "ACTOR",
+      "target_entity": "암살",
+      "target_type": "MOVIE",
+      "relationship_description": "이경영은 암살에 출연했다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "김홍파",
+      "source_type": "ACTOR",
+      "target_entity": "김구",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "김홍파는 김구 역을 연기했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "김홍파",
+      "source_type": "ACTOR",
+      "target_entity": "암살",
+      "target_type": "MOVIE",
+      "relationship_description": "김홍파는 암살에 출연했다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "조승우",
+      "source_type": "ACTOR",
+      "target_entity": "김원봉",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "조승우는 김원봉 역을 연기했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "조승우",
+      "source_type": "ACTOR",
+      "target_entity": "암살",
+      "target_type": "MOVIE",
+      "relationship_description": "조승우는 암살에 출연했다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "김우빈",
+      "source_type": "ACTOR",
+      "target_entity": "가드",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "김우빈은 가드 역을 연기했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "김우빈",
+      "source_type": "ACTOR",
+      "target_entity": "썬더",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "김우빈은 썬더 역을 연기했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "김우빈",
+      "source_type": "ACTOR",
+      "target_entity": "외계+인",
+      "target_type": "MOVIE",
+      "relationship_description": "김우빈은 외계+인에 출연했다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "김태리",
+      "source_type": "ACTOR",
+      "target_entity": "이안",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "김태리는 이안 역을 연기했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "김태리",
+      "source_type": "ACTOR",
+      "target_entity": "외계+인",
+      "target_type": "MOVIE",
+      "relationship_description": "김태리는 외계+인에 출연했다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "소지섭",
+      "source_type": "ACTOR",
+      "target_entity": "문도석",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "소지섭은 문도석 역을 연기했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "소지섭",
+      "source_type": "ACTOR",
+      "target_entity": "외계+인",
+      "target_type": "MOVIE",
+      "relationship_description": "소지섭은 외계+인에 출연했다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "염정아",
+      "source_type": "ACTOR",
+      "target_entity": "흑설",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "염정아는 흑설 역을 연기했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "염정아",
+      "source_type": "ACTOR",
+      "target_entity": "외계+인",
+      "target_type": "MOVIE",
+      "relationship_description": "염정아는 외계+인에 출연했다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "조우진",
+      "source_type": "ACTOR",
+      "target_entity": "청운",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "조우진은 청운 역을 연기했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "조우진",
+      "source_type": "ACTOR",
+      "target_entity": "외계+인",
+      "target_type": "MOVIE",
+      "relationship_description": "조우진은 외계+인에 출연했다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "이하늬",
+      "source_type": "ACTOR",
+      "target_entity": "민개인",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "이하늬는 민개인 역을 연기했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "이하늬",
+      "source_type": "ACTOR",
+      "target_entity": "외계+인",
+      "target_type": "MOVIE",
+      "relationship_description": "이하늬는 외계+인에 출연했다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "신정근",
+      "source_type": "ACTOR",
+      "target_entity": "우왕",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "신정근은 우왕 역을 연기했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "신정근",
+      "source_type": "ACTOR",
+      "target_entity": "외계+인",
+      "target_type": "MOVIE",
+      "relationship_description": "신정근은 외계+인에 출연했다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "이시훈",
+      "source_type": "ACTOR",
+      "target_entity": "좌왕",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "이시훈은 좌왕 역을 연기했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "이시훈",
+      "source_type": "ACTOR",
+      "target_entity": "외계+인",
+      "target_type": "MOVIE",
+      "relationship_description": "이시훈은 외계+인에 출연했다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "김의성",
+      "source_type": "ACTOR",
+      "target_entity": "자장",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "김의성은 자장 역을 연기했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "김의성",
+      "source_type": "ACTOR",
+      "target_entity": "외계+인",
+      "target_type": "MOVIE",
+      "relationship_description": "김의성은 외계+인에 출연했다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "류준열",
+      "source_type": "ACTOR",
+      "target_entity": "무륵",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "류준열은 무륵 역을 연기했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "류준열",
+      "source_type": "ACTOR",
+      "target_entity": "외계+인",
+      "target_type": "MOVIE",
+      "relationship_description": "류준열은 외계+인에 출연했다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "진선규",
+      "source_type": "ACTOR",
+      "target_entity": "능파",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "진선규는 능파 역을 연기했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "진선규",
+      "source_type": "ACTOR",
+      "target_entity": "외계+인",
+      "target_type": "MOVIE",
+      "relationship_description": "진선규는 외계+인에 출연했다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "예니콜",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "도둑들",
+      "target_type": "MOVIE",
+      "relationship_description": "예니콜은 도둑들에 등장하는 캐릭터이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "첸",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "도둑들",
+      "target_type": "MOVIE",
+      "relationship_description": "첸은 도둑들에 등장하는 캐릭터이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "씹던껌",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "도둑들",
+      "target_type": "MOVIE",
+      "relationship_description": "씹던껌은 도둑들에 등장하는 캐릭터이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "앤드류",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "도둑들",
+      "target_type": "MOVIE",
+      "relationship_description": "앤드류는 도둑들에 등장하는 캐릭터이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "잠파노",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "도둑들",
+      "target_type": "MOVIE",
+      "relationship_description": "잠파노는 도둑들에 등장하는 캐릭터이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "조니",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "도둑들",
+      "target_type": "MOVIE",
+      "relationship_description": "조니는 도둑들에 등장하는 캐릭터이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "쥴리",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "도둑들",
+      "target_type": "MOVIE",
+      "relationship_description": "쥴리는 도둑들에 등장하는 캐릭터이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "반장",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "도둑들",
+      "target_type": "MOVIE",
+      "relationship_description": "반장은 도둑들에 등장하는 캐릭터이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "웨이홍",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "도둑들",
+      "target_type": "MOVIE",
+      "relationship_description": "웨이홍은 도둑들에 등장하는 캐릭터이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "이하철",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "도둑들",
+      "target_type": "MOVIE",
+      "relationship_description": "이하철은 도둑들에 등장하는 캐릭터이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "안옥윤",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "암살",
+      "target_type": "MOVIE",
+      "relationship_description": "안옥윤은 암살에 등장하는 캐릭터이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "미츠코",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "암살",
+      "target_type": "MOVIE",
+      "relationship_description": "미츠코는 암살에 등장하는 캐릭터이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "염석진",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "암살",
+      "target_type": "MOVIE",
+      "relationship_description": "염석진은 암살에 등장하는 캐릭터이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "추상옥",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "암살",
+      "target_type": "MOVIE",
+      "relationship_description": "추상옥은 암살에 등장하는 캐릭터이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "황덕삼",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "암살",
+      "target_type": "MOVIE",
+      "relationship_description": "황덕삼은 암살에 등장하는 캐릭터이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "안성심",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "암살",
+      "target_type": "MOVIE",
+      "relationship_description": "안성심은 암살에 등장하는 캐릭터이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "카와구치 마무로",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "암살",
+      "target_type": "MOVIE",
+      "relationship_description": "카와구치 마무로는 암살에 등장하는 캐릭터이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "카와구치 슌스케",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "암살",
+      "target_type": "MOVIE",
+      "relationship_description": "카와구치 슌스케는 암살에 등장하는 캐릭터이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "하와이 피스톨",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "암살",
+      "target_type": "MOVIE",
+      "relationship_description": "하와이 피스톨은 암살에 등장하는 캐릭터이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "영감",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "암살",
+      "target_type": "MOVIE",
+      "relationship_description": "영감은 암살에 등장하는 캐릭터이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "강인국",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "암살",
+      "target_type": "MOVIE",
+      "relationship_description": "강인국은 암살에 등장하는 캐릭터이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "김구",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "암살",
+      "target_type": "MOVIE",
+      "relationship_description": "김구는 암살에 등장하는 캐릭터이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "김원봉",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "암살",
+      "target_type": "MOVIE",
+      "relationship_description": "김원봉은 암살에 등장하는 캐릭터이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "가드",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "외계+인",
+      "target_type": "MOVIE",
+      "relationship_description": "가드는 외계+인에 등장하는 캐릭터이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "이안",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "외계+인",
+      "target_type": "MOVIE",
+      "relationship_description": "이안은 외계+인에 등장하는 캐릭터이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "문도석",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "외계+인",
+      "target_type": "MOVIE",
+      "relationship_description": "문도석은 외계+인에 등장하는 캐릭터이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "흑설",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "외계+인",
+      "target_type": "MOVIE",
+      "relationship_description": "흑설은 외계+인에 등장하는 캐릭터이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "청운",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "외계+인",
+      "target_type": "MOVIE",
+      "relationship_description": "청운은 외계+인에 등장하는 캐릭터이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "민개인",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "외계+인",
+      "target_type": "MOVIE",
+      "relationship_description": "민개인은 외계+인에 등장하는 캐릭터이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "우왕",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "외계+인",
+      "target_type": "MOVIE",
+      "relationship_description": "우왕은 외계+인에 등장하는 캐릭터이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "좌왕",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "외계+인",
+      "target_type": "MOVIE",
+      "relationship_description": "좌왕은 외계+인에 등장하는 캐릭터이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "자장",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "외계+인",
+      "target_type": "MOVIE",
+      "relationship_description": "자장은 외계+인에 등장하는 캐릭터이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "무륵",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "외계+인",
+      "target_type": "MOVIE",
+      "relationship_description": "무륵은 외계+인에 등장하는 캐릭터이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "썬더",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "외계+인",
+      "target_type": "MOVIE",
+      "relationship_description": "썬더는 외계+인에 등장하는 캐릭터이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "능파",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "외계+인",
+      "target_type": "MOVIE",
+      "relationship_description": "능파는 외계+인에 등장하는 캐릭터이다",
+      "relationship_strength": 10
+    }
+  ]
+}

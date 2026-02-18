@@ -1,0 +1,171 @@
+{
+  "chunk_hash": "d375a8b2d12a00",
+  "chunk_id": "고몽_d375a8b2d12a00_6f6bd53b",
+  "user_query": "꼽부쳐야 되는 상황이 온다. 그거 어떻게 됩니까? 먹어야지. 아이 뭐야? 저놈무자 리 대길은 자신을 배신한 짜리를 부르는데 세상이 좁다는 걸 세상 느껴볼 수 있는 광경입니다. 밥은 먹었어? 너 나한테 왜 그랬냐? 올래가씨 네가 탐여서 장동식한테 나 팔아먹었잖아. 너는 네가 사기쳐서 아장된 집구석이 몇 개인데 너는 취직시켜주고 승진시켜 줬으면 고마운 줄 알아야지 그 마음을 몰랐다며 서운한 감정에 배신했다고 싫하는데요. 더실장한테 슈팅 먹었다고 소리야. 알고 보니 우사장 수술이 아니라 꼬장을 수술하기 위한 판이었다는 걸 자리를 통해 알 수 있게 됐습니다. 지연이 그년이 기승자였지. 미안한다. 미나라는 여자 너 대신에 팔려갔다. 강동식이 대기를 쫓지 않고 있었던 이유. 그건 민하가 자신을 위해 희생한 것이었습니다. 잘하셔 갈게요. 대길은 미나가 있는 사업장으로 돈을 두고 찾아갑니다. 이게 누구야? 국제반점. 네가 여기 대가리냐? 너나 어디 있어? 허나? 빨름이구만. 백일은 조금의 두려움 따따위 없어 보였고 그 기세에 유령은 밀려나게 됩니다. 미나 어디 있어? 허민아 나한테 팔아. 규칙이 복잡해 잘 들어. 종목은 섰다 한 판.이긴 놈이 손모가지 찍기가 규칙이라고 합니다. 이기면 그가 바로 태어라. 손목부덤 찍고 내가이 동네 오지 말랬지. 내 목숨네 건데. 내가 어딜 가겠냐?네 눈만 볼게. [음악] 군대 지금 뭐하잔 상황이래? 누구선치권 이긴놈 마이지?이 정도는 선병신 안 됐을 것 같냐? 길은 확실하게 오른손의 상태를 찍어 눌러주고 참다 못해 미나는 자유새를 풀고 그에게 다가갑니다. 잘놀았다. 이자는 계산해 주고 가. 유령은 아까는 장사장과의 계산이고 자신과의 계산이 안 끝났다며 돈을 더 요구합니다. 여기 있다. 돈 이것까지 합치면 5억은 넘어. 애들 보내. 싫은데. 여긴 하우스장이 한 입 갖고 두 말을 하네. 따구도 못 가져 가는 반택이 어디 무서워서 또 오겠나? 비밀번호 1004 이로써 대일은 미나를 구출해 올 수 있었습니다. 미나는 이틀 내내 잠만 자고 있는데요. 그동안 제대로 된 숙면을 취하지 못했던 모양입니다. 노름꾼 팔자의 재물이 없지 못 꺼내니까 한 거지. 대한민국의 화투신 세 명이 있었어. 이북의 변경장 경상도의 짝기 전라도의 아기. 아기는 절대 만나지 마라. 노름 속에 또 다른 노름을 하는 놈이야. 결국엔 지리산 작들하고 평경장 제자한테 발이 잘렸지. 광렬은 대길에게 조언을 해줍니다. 도박을 끊지 못하면 결국엔 불행해진다는 거요. 지리산작 어떻게 됐는데요? 신의손이 됐지. 제일 좋은 패가 들어왔을 때 누가 봐도 굳이 칠 수 없는 판에서 뒤도 안 돌아보고 일어나서 그대로 도박을 끊었어. 자유의 몸이 된 대길과 미나는 저녁 식사를 하는데요. 집 잘하네. 많이 먹어. 광철령 잘 있지? 감옥 갔어. 구질구질한 얘긴데 해 줘. 천천히 해. 뭐 이제 계속 같이 있을 건데. 누구 맘대로? 눈은 거짓말 못 해. 광철은 유령 빛에 들어갔고 미나가 빼우려고 작업장을 찾아가다 동식의 눈에 뛴 거였습니다. 나도 모르게 끌려다녔어. 광철은 동생이 당한",
+  "movie_id": "타짜",
+  "reviewer": "고몽",
+  "chunk_index": 6,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "대길",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "대길은 자신을 배신한 짜리를 찾아가고, 도박을 통해 미나를 구출하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "미나",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "미나는 대길 대신 팔려간 여자로, 대길에 의해 구출된다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "짜리",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "짜리는 대길을 장동식에게 배신하고 팔아넘긴 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "장동식",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "장동식은 대길을 쫓던 인물로, 짜리로부터 대길에 대한 정보를 받았다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "유령",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "유령은 사업장의 하우스장으로, 대길과 도박 대결을 벌이는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "광철",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "광철은 미나의 지인으로, 유령 빚에 들어가 감옥에 간 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "광렬",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "광렬은 대길에게 도박에 대한 조언을 해주는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "우사장",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "우사장은 수술 관련 판에 연루된 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "지연",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "지연은 기승자로 언급되는 여성 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "아귀",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "아귀는 전라도의 화투신으로, 노름 속에 또 다른 노름을 하는 위험한 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "변경장",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "변경장은 이북의 화투신으로 언급되는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "짝귀",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "짝귀는 경상도의 화투신으로 언급되는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "지리산작",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "지리산작은 도박을 끊고 신의손이 된 인물이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "대길",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "짜리",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "짜리는 대길을 장동식에게 배신하고 팔아넘겼다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "짜리",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "장동식",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "짜리는 장동식에게 대길을 팔아넘겼다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "대길",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "미나",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "대길은 미나를 구출하기 위해 도박을 벌였고 함께 지내게 된다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "대길",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "유령",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "대길은 유령과 섰다 도박 대결을 벌여 이겼다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "광철",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "미나",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "미나는 광철의 빚을 빼주려다 동식에게 발각되었다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "광철",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "유령",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "광철은 유령에게 빚을 지고 감옥에 갔다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "광렬",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "대길",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "광렬은 대길에게 도박을 끊으라는 조언을 해주었다",
+      "relationship_strength": 6
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "지리산작",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "아귀",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "지리산작은 아귀의 제자에게 발이 잘렸다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "변경장",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "지리산작",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "변경장의 제자에게 지리산작이 발이 잘렸다",
+      "relationship_strength": 7
+    }
+  ]
+}

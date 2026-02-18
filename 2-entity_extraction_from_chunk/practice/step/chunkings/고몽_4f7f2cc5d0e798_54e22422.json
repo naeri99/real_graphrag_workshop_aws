@@ -1,0 +1,96 @@
+{
+  "chunk_hash": "4f7f2cc5d0e798",
+  "chunk_id": "고몽_4f7f2cc5d0e798_54e22422",
+  "user_query": "손님에게 갖다 주면서 돈 버는 일을 하는데요. 넉살 좋은 대기 하기엔 천직기를 할 수 있을 것 같습니다. 남자는 집진이지? 두 병에 2만 원인데 내 병하시면 5만 원 드릴게. 누가 특별하니까. [음악] 우사장이라 불리는 그녀는 순식간에 대길의 마음을 훔쳐버렸습니다. 호장이 보일이 입수한지 얼마나 됐지? 다음 주 5개월 됩니다. 고향에서 폐좀 만쳤다는 대길에게 대표는 기회를 주려고 합니다. 됐다. 어때? 미안해. 또지가 먹었네. 초반에는 일부러 돈을 잃어주며 긴장감을 떨어뜨리는데요. 에헤 내장 들었죠? 백일은 짜리에 장기술이 걸려 커버해 줍니다. 자칫 큰일한 상황을 잘 피해 갔는데요. 100만 원 박으세요. 아이고 좀 잘 좀 해 봐요. 되게 죄송합니다. 나도 오해 한번 합시다. 아유 일곱 아홉급 8대 하는 고스톱이지. 헛다가 안 되니 고스톱으로 덤게 대길에게 일콤합니다. 봉지 좀 쓰시겠어요? 전국에 실력 있는 도박사들은 대길에게 패배를 맞이했습니다. 자연술의 대길은 하우스에서 입질를 다질 수 있게 됐고요. 일곱 끝 여덟 끝 자연술의 대표님에게도 인정받을 수 있게 됩니다. 잘려드리게 만다. 고향에 계신 부모님에게도 선물을 보내 드립니다. 내년에 타워 팰리스에 가겠다는 대일의 목표도 성취할 수 있었습니다. 핸드폰 가져가셔야지. 우사장님 맨날 내 돈만 쳤나 봐. 뚝 하투 좀 가르쳐 줘. 우사장은 대길에게 화투를 가르쳐 달라 했는데 사실 자신의 노하우를 남에게 알려주는게 쉬운 선택은 아니죠. 아 가르쳐줄게. 자 이름 우사장의 본명은 우지연으로 프로 애인 여부를 확인하며 친해지는 시간을 갖기 시작합니다. 엄마는 카보라는 거죠. 최선이 얼마나 됐는데. 100은 땐요. 누구 얘기야? 우사장 우리가 먹어야지. 이번에는 우사장을 상대로 작업을 하려 하는데요. 추억도 대고. 백일은 회사의 우사장과의 관계를 비밀로 하고 있습니다. 뭐 예쁜팬 애들이야. 대기 다 좋아하잖아. 밥대로 갑시다. 저보단 촬영이 더 안전하자. 아니 아니야. 서술장머리 맞아. 덱길은이 판에서 빠지고 싶었습니다. 찰린 다음번에 하자. 알겠습니다. 대기은 그녀가 작업당하고 있다는 사실을 알려주고 싶었지만 회사를 위해서는 그럴 수 없었습니다. 잠면 따다가 이러주라고. 굿대. 이기고 지고를 반복하며 우사장을 작업하기 위해 공들이기 시작합니다. 끈하게 사악 이뤄줘. 이번 일꼬이면 우리 파선이다. 자기야, 내일부터 여기 오지 마. 내가 너무 땄지. 서실장 작은 마담 속마담 다 한패라고 우도적으로 져주는 거라며 그얘기 오지 말라고 했습니다. 하지만 그녀는 대길의 조언을 무시하고 도박판에 왔는데요. 나도 오해 한번 할게요. 도박의 중독은 함정인 걸 알면서도 들어가는 걸까요? 어머 13679 땡땡 어머 어머 진짜 땡인가 봐 언니 결국 사업장은 우사장에 의해 파산하게 됩니다. 이게 어떻게 된 일일까요? 요즘 우사장 소식 없지 없지. 너 같으면 있겠냐? 알고 보니 우사장은 그를 사랑하는게 아니라 돈을 사랑했던 거였습니다. 나도 너 어디 원정 들데 없을까? 남의 집 가서 돈 들고 오기가 쉽네. 그렇지나도",
+  "movie_id": "타짜",
+  "reviewer": "고몽",
+  "chunk_index": 3,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "대길",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "대길은 도박 실력이 뛰어난 인물로, 하우스에서 일하며 전국의 도박사들을 상대로 승리를 거두고 타워 팰리스에 가겠다는 목표를 가진 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "우사장",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "우사장은 본명이 우지연으로, 대길의 마음을 훔친 여성이며 결국 돈을 목적으로 접근한 것으로 밝혀지는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "대표",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "대표는 대길에게 기회를 주는 하우스의 책임자이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "백일은",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "백일은은 장기술로 대길을 커버해주며, 우사장과의 관계를 비밀로 하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "서실장",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "서실장은 작은 마담, 속마담과 한패로 우사장을 상대로 작업을 하는 인물이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "대길",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "우사장",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "대길은 우사장에게 마음을 빼앗기고 화투를 가르쳐주며 그녀를 보호하려 했다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "대길",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "대표",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "대표는 대길에게 기회를 주고 대길은 대표에게 인정받게 된다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "백일은",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "대길",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "백일은은 대길의 위기 상황을 장기술로 커버해준다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "백일은",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "우사장",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "백일은은 우사장과의 관계를 비밀로 하고 있다",
+      "relationship_strength": 6
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "서실장",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "우사장",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "서실장은 작은 마담, 속마담과 함께 우사장을 상대로 사기 작업을 벌인다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "대길",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "서실장",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "대길은 서실장 일당이 우사장을 작업하고 있다는 것을 알고 우사장에게 경고한다",
+      "relationship_strength": 7
+    }
+  ]
+}

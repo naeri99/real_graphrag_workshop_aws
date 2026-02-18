@@ -1,0 +1,102 @@
+{
+  "chunk_hash": "fec1c880fb1d7c",
+  "chunk_id": "엉준_fec1c880fb1d7c_f27c2f0c",
+  "user_query": "영화의 첫 시작은 2년 전 남원에서부터 시작됩니다. 본인은 대학보다 가난을 벗어나게 해줄 돈이 우선인 열방축 청년입니다. 냥 신승생소해 가지고 구경에는 부여에서 대학이라도 가야지. 대학가라는 형들의 말에 본인은 대학 졸업에서 돈 버는 시대는 갔다며 끝까지 자리를 지키는데요. 나 돈 많아. 그러면 안 뜬가? 껴도 돼요? 본이더 샀다갈 줄 아냐? 본인은 게임에 난입하기로 합니다. 일단 100만 원만 줘봐. 씨한지 5분도 안 돼서 상신해 버립니다. 뭔 이름이 독수리잖아요. [박수] 때려쳐 때려쳐.이 새끼야. 돈을 잃으니 기운이 빠진 곤이였습니다. 누나 오는 거 마중이나 나가든가. 오늘 누나 와 곤니야. 아가씨 너는 어디 가지 말고 집 좀 봐라. 집안에 돈이 있으니 산소 다녀올 동안 도니에게 집을 보라고 합니다. 도박 유혹에 곤인을 벗어날 수 없었습니다. 야군이 너 다 꼬았냐?이 안 오른다 끝발이 나 집에 좀 갔다 올게 결국 곤니는 누나의 전재산을 건들고 맙니다. 권이야 이따가 발땡이 떨어지면 판 좀 키워줘라. 무조건 판만 키워.네 본전은 내가 돌려줄게. 서로 말을 맞추는데요. 정말 팔땡이 손에 들어왔습니다. 200부터 시작합시다. 400에 400 600° 합천 야, 너 단판을 끝낼 거야? 싹다. 어차피 난 판만 키워주면 된다 이거지? 어? 7땡인데 잠깐 잠깐 나 8 나왔어요. 승리의 확실한 순간를 그래 재수가 없냐? 그때 이 본인이는 빨래질 당한 거였습니다. 아 나한테 잘못한 거 있지? 그는 장소만 빌려줬다며 발합니다. 내 돈 어딨어? 인천 그래 성도. 본니는 박무석이를 찾아서 반년 동안 전국을 뒤졌습니다. 변경장의 눈에 그가 들어옵니다. 쇠사슬. 너 나한테 빛이 얼마니? 평균상 덕분에 곤니는 기습을 피할 수 있었습니다. 갓나 새끼 그냥 보내라. 갈 때까지 간놈. 저 양반 때문에 운 좋은 줄 알아. 다신 오지 마. 사람 뭐야? 아저씨 두목이야? 대한민국 이거야. 타자. 갈 때까지 간 놈이라고. 제가 그놈인데요. 군인은 평견에게 제자가 되고 싶다 고백합니다. 천빠다. 넌 화토 배우지 말라. 길에서 객사를 팔자다. 야, 상경장은 손금을 보고는 고니를 거절합니다. 고니는 누나동 갚을 때까진 두 다리 뻗고 못 찬다며 도와달라 한 번 더 부탁하는데요. 파트는 슬픈 드라마야. 저치한테 한번 죽도록 맞아보고 와서. 왜 그래야만 하나요? 뭔 이유가 있어서 돈 잃고 매맞아서이 새끼야. 곤니는 선빵을 휘둘렀지만 결국 패배의 쓴맛을 맞이합니다. 아이씨, 너 사람 죽일 수 있? 너도 썩어지게 때려 줘야지. 또 더전하지만 죽도록 맞을 뿐이었습니다. 냥 요즘 뭐 하고 있니? 며칠도 맞으면 집에 가겠죠. 시작합시다. 도전 끝에 곤인는 승리를 쟁취할 수 있었습니다. 어떻게 보면 승리를 쟁취하기 위해선 단과 방법을 가리지 않아야 한다는 걸 알려준 걸지도 모릅니다. 머리를 써야지. 원망 안 해요. 저 그런 캐릭터 아니에요. 본인은 원망하지 않을 테니 화투를 가르쳐 달라 합니다. 들어오라. 이렇게 막 섞어 가지고 제가 오늘 만약에 선생님을 잡는다. 미스트 한 장, 위에서",
+  "movie_id": "타짜",
+  "reviewer": "엉준",
+  "chunk_index": 1,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "타짜",
+      "entity_type": "MOVIE",
+      "entity_description": "타짜는 도박과 화투를 소재로 한 한국 영화로, 주인공 고니가 도박의 세계에 빠져들어 성장하는 이야기를 다룬다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "고니",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "고니는 대학보다 돈을 우선시하는 청년으로, 도박에 빠져 누나의 전재산을 잃고 평경장에게 화투를 배우게 되는 주인공이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "평경장",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "평경장은 화투의 고수로, 고니를 처음에는 거절했지만 결국 제자로 받아들여 화투를 가르치는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "박무석",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "박무석은 고니를 속여 돈을 빼앗은 인물로, 고니가 반년 동안 전국을 뒤져 찾아다닌 대상이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "도니",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "도니는 고니의 여동생으로, 집을 보라는 지시를 받은 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "누나",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "고니의 누나로, 고니가 도박으로 전재산을 잃게 만든 피해자이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "고니",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "타짜",
+      "target_type": "MOVIE",
+      "relationship_description": "고니는 타짜의 주인공으로 도박의 세계에서 성장하는 인물이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "평경장",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "타짜",
+      "target_type": "MOVIE",
+      "relationship_description": "평경장은 타짜에서 고니에게 화투를 가르치는 스승 역할의 인물이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "고니",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "평경장",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "고니는 평경장에게 제자가 되어 화투를 배운다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "고니",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "박무석",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "고니는 박무석에게 사기를 당해 돈을 잃고 그를 찾아 전국을 뒤진다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "고니",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "누나",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "고니는 누나의 전재산을 도박으로 잃어버린다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "박무석",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "타짜",
+      "target_type": "MOVIE",
+      "relationship_description": "박무석은 타짜에서 고니를 속여 돈을 빼앗는 인물이다",
+      "relationship_strength": 8
+    }
+  ]
+}
