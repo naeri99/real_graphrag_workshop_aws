@@ -14,18 +14,11 @@ from opensearch.opensearch_search import (
 )
 
 
-def search_specific_queries():
+def search_specific_queries(queries):
     """특정 쿼리들에 대해 엔티티 추출 → OpenSearch 해결 → Cypher 쿼리 실행"""
     search = SmartGraphSearchLLM()
     opensearch_client = get_opensearch_client()
     
-    queries = [
-        "썬더와 가든 그리고 이안은 어떤 관계야?",
-        "대길과 고광렬은 어떤 관계야?",
-        "김윤석이는 연기한 캐릭터는?",
-        "전우치와 무륵의 관계는 어떤관계가 있는지 가변길이를 활용해서 찾아줘"
-
-    ]
     
     for i, query in enumerate(queries, 1):
         print(f"\n{'='*80}")
@@ -100,4 +93,11 @@ def search_specific_queries():
 
 
 if __name__ == "__main__":
-    search_specific_queries()
+    queries = [
+        "썬더와 가든 그리고 이안은 어떤 관계야?",
+        "대길과 고광렬은 어떤 관계야?",
+        "김윤석이는 연기한 캐릭터는?",
+        "전우치와 무륵의 관계는 어떤관계가 있는지 가변길이를 활용해서 찾아줘"
+
+    ]
+    search_specific_queries(queries)
