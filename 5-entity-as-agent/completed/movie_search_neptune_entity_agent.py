@@ -153,7 +153,7 @@ async def search_with_entity_agent_async(query: str):
         resolved_mapping = {entity: entity for entity in entities}
     
     # 3단계: Cypher 쿼리 실행
-    print(f"\n🚀 3단계: Cypher 쿼리 실행...")
+    print(f"\n🚀 3단계: Cypher 쿼리 생성 및 실행...")
     updated_query = query
     for original, resolved in resolved_mapping.items():
         if original != resolved:
@@ -181,15 +181,27 @@ async def search_with_entity_agent_async(query: str):
     
     all_entity_names = list(set(all_entity_names))
     
-    # 캐릭터와 연결된 ACTOR도 조회 (배우 최신 정보 요청 대응)
-    print(f"\n🎭 4-1단계: 캐릭터 연결 ACTOR 조회...")
-    actors = get_actors_for_characters(all_entity_names)
-    if actors:
-        print(f"   발견된 ACTOR: {actors}")
-        all_entity_names.extend(actors)
-        all_entity_names = list(set(all_entity_names))
-    
+    # 엔티티들의 prompt 확인
     entities_info = get_entities_with_prompt(all_entity_names)
+    
+    # ACTOR인데 prompt가 없으면 ACTOR 기본 prompt 조회
+    actors_without_prompt = [
+        name for name, info in entities_info.items()
+        if info.get('type') == 'ACTOR' and not info.get('prompt')
+    ]
+    if actors_without_prompt:
+        actor_prompt_query = """
+        MATCH (a:ACTOR)
+        WHERE a.name IN $names
+        RETURN a.name AS name, a.prompt AS prompt
+        """
+        actor_result = execute_cypher(actor_prompt_query, names=actors_without_prompt)
+        if actor_result and actor_result.get('results'):
+            for row in actor_result['results']:
+                name = row.get('name')
+                prompt = row.get('prompt')
+                if name and prompt and name in entities_info:
+                    entities_info[name]['prompt'] = prompt
     
     # prompt 있는 것과 없는 것 분류
     agentic_list = []
