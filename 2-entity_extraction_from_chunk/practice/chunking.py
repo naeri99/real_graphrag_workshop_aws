@@ -9,6 +9,7 @@ Flow:
 """
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from utils.parse_utils import parse_extraction_output
+from utils.generate_entity import extract_entities
 from utils.helper import (
     get_context_from_review_file, 
     get_all_review_files,
@@ -28,8 +29,12 @@ import json
 import os
 from pathlib import Path
 
+# 스크립트 파일 기준 디렉토리
+SCRIPT_DIR = Path(__file__).parent.resolve()
+DEFAULT_OUTPUT_DIR = SCRIPT_DIR / "step" / "chunkings"
 
-def save_chunk_to_json(chunk_data: dict, output_dir: str = "./step/chunkings") -> str:
+
+def save_chunk_to_json(chunk_data: dict, output_dir: str = None) -> str:
     """
     Chunk 데이터를 JSON 파일로 저장합니다.
     
@@ -40,8 +45,11 @@ def save_chunk_to_json(chunk_data: dict, output_dir: str = "./step/chunkings") -
     Returns:
         저장된 파일 경로
     """
-    # 디렉토리 생성
-    os.makedirs(output_dir, exist_ok=True)
+    # 디렉토리 생성 (기본값: 스크립트 기준)
+    if output_dir is None:
+        output_dir = DEFAULT_OUTPUT_DIR
+    output_dir = Path(output_dir)
+    output_dir.mkdir(parents=True, exist_ok=True)
     
     # 파일명: chunk_id 사용
     filename = f"{chunk_data['chunk_id']}.json"
@@ -55,7 +63,7 @@ def save_chunk_to_json(chunk_data: dict, output_dir: str = "./step/chunkings") -
     return filepath
 
 
-def save_all_chunks_to_json(chunks_list: list, output_dir: str = "./step/chunkings") -> str:
+def save_all_chunks_to_json(chunks_list: list, output_dir: str = None) -> str:
     """
     모든 chunk 데이터를 하나의 JSON 파일로 저장합니다.
     
@@ -66,9 +74,12 @@ def save_all_chunks_to_json(chunks_list: list, output_dir: str = "./step/chunkin
     Returns:
         저장된 파일 경로
     """
-    os.makedirs(output_dir, exist_ok=True)
+    if output_dir is None:
+        output_dir = DEFAULT_OUTPUT_DIR
+    output_dir = Path(output_dir)
+    output_dir.mkdir(parents=True, exist_ok=True)
     
-    filepath = os.path.join(output_dir, "all_chunks.json")
+    filepath = output_dir / "all_chunks.json"
     
     with open(filepath, 'w', encoding='utf-8') as f:
         json.dump(chunks_list, f, ensure_ascii=False, indent=2)
@@ -76,10 +87,12 @@ def save_all_chunks_to_json(chunks_list: list, output_dir: str = "./step/chunkin
     print(f"   💾 Saved all chunks: {filepath}")
     return filepath
 
-def clear_output_directory(output_dir: str = "./step/chunkings"):
+def clear_output_directory(output_dir: str = None):
     """
     출력 디렉토리의 모든 파일을 삭제합니다.
     """
+    if output_dir is None:
+        output_dir = DEFAULT_OUTPUT_DIR
     dir_path = Path(output_dir)
     if dir_path.exists():
         for file in dir_path.glob("*.json"):
@@ -94,5 +107,3 @@ def get_chunk(reviews_dir):
     else:
         review_files = get_all_review_files()
     return review_files
-
-
