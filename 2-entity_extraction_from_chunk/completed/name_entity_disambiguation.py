@@ -30,7 +30,8 @@ def read_chunks_from_dir(chunk_dir: str = "./step/chunkings") -> list:
         
         with open(json_file, 'r', encoding='utf-8') as f:
             chunk_data = json.load(f)
-            chunk_data['_filepath'] = str(json_file)
+            chunk_data['_filepath'] = str(json_file.resolve())  # 절대 경로로 저장
+            print(f"   📖 Read from: {chunk_data['_filepath']}")
             chunks.append(chunk_data)
     
     return chunks
@@ -43,6 +44,7 @@ def save_chunk_with_entities(chunk_data: dict) -> str:
     filepath = chunk_data.get('_filepath')
     save_data = {k: v for k, v in chunk_data.items() if k != '_filepath'}
     
+    print(f"   💾 Saving to: {filepath}")
     with open(filepath, 'w', encoding='utf-8') as f:
         json.dump(save_data, f, ensure_ascii=False, indent=2)
     
