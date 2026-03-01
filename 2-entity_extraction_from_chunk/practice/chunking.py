@@ -22,7 +22,7 @@ DEFAULT_OUTPUT_DIR = SCRIPT_DIR / "step" / "chunkings"
 # movie_cast 디렉토리 (기본값)
 DEFAULT_CAST_DIR = os.path.normpath(os.path.join(
     os.path.dirname(os.path.abspath(__file__)),
-    os.pardir, os.pardir, "data", "raw_csv", "movie_cast"
+    os.pardir, os.pardir, "data", "raw_csv", "workshop"
 ))
 
 
