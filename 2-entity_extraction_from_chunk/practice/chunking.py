@@ -133,3 +133,66 @@ def get_chunk(cast_dir):
     return review_items
 
 
+def run_chunking(
+    cast_dir: str = None,
+    chunk_size: int = 1500,
+    chunk_overlap: int = 100,
+    output_dir: str = None
+):
+    # 출력 디렉토리 설정 (기본값: 스크립트 기준)
+    if output_dir is None:
+        output_dir = DEFAULT_OUTPUT_DIR
+    output_dir = Path(output_dir)
+    
+    # cast 디렉토리 설정
+    if cast_dir is None:
+        cast_dir = DEFAULT_CAST_DIR
+    
+    # 출력 디렉토리 초기화
+    clear_output_directory(output_dir)
+    
+    # movie_cast에서 review 정보 로드
+    review_items = get_chunk(cast_dir)
+    
+    # 텍스트 스플리터
+    text_splitter = RecursiveCharacterTextSplitter(chunk_size=chunk_size, chunk_overlap=chunk_overlap)
+    
+    for i, (review_path, transcript, movie_id, reviewer) in enumerate(review_items, 1):
+        review_filename = os.path.basename(review_path)
+        print(f"\n{'='*60}")
+        print(f"📄 [{i}/{len(review_items)}] {review_filename}")
+        print('='*60)
+        print(f"   🎬 Movie: {movie_id}, Reviewer: {reviewer}")
+        
+        # 청킹
+        chunks = text_splitter.split_text(transcript)
+        print(f"   📝 Chunks: {len(chunks)}")
+        
+        for j, chunk in enumerate(chunks, 1):
+            print(f"\n   --- Chunk {j}/{len(chunks)} ---")
+            print(f"   {chunk[:800]}... 생략 ...")
+            chunk_hash = generate_chunk_hash(chunk)
+            chunk_id = generate_chunk_id(reviewer, chunk_hash)
+
+            # Step 1: chunk 데이터 구성 및 저장
+            save_chunk = {
+                "chunk_hash": chunk_hash,
+                "chunk_id": chunk_id,
+                "user_query": chunk,
+                "movie_id": movie_id,
+                "reviewer": reviewer,
+                "chunk_index": j,
+            }
+            
+            # JSON 파일로 저장
+            save_chunk_to_json(save_chunk, output_dir)
+
+
+if __name__ == "__main__":
+    # 전체 파이프라인 실행
+    run_chunking(
+        cast_dir=DEFAULT_CAST_DIR,
+        chunk_size=1500,
+        chunk_overlap=100
+    )
+    print(f"📁 Output directory: {DEFAULT_OUTPUT_DIR}")
