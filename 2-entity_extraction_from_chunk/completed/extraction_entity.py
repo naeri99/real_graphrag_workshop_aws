@@ -86,7 +86,7 @@ def run_entity_extraction_pipeline(
     for j, chunk in enumerate(chunks, 1):
         print(f"\n   --- Chunk {j}/{len(chunks)} ---")
         print(f"   📄 ID: {chunk.get('chunk_id', 'unknown')}")
-        print(f"   📝 Content: {chunk.get('user_query', '')[:200]}...")
+        print(f"   📝 Chunk: {chunk.get('user_query', '')[:400]}...")
         
         # Step 1: LLM으로 엔티티/관계 추출
         print(f"\n   --- Chunk Reformation ---")
