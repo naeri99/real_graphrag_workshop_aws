@@ -86,9 +86,9 @@ def build_context_for_agent(query: str, chunks: list, entities: list, relationsh
     
     # 청크 컨텍스트
     context += "## 관련 텍스트\n"
-    for i, chunk in enumerate(chunks[:3], 1):
-        ctx = chunk.get('context', '')[:500]
-        context += f"{i}. {ctx}...\n\n"
+    for i, chunk in enumerate(chunks, 1):
+        ctx = chunk.get('context', '')[:1000]
+        context += f"{i}. {ctx}\n\n"
     
     # 엔티티 정보
     context += "## 관련 엔티티\n"
@@ -104,7 +104,7 @@ def build_context_for_agent(query: str, chunks: list, entities: list, relationsh
     # 관계 정보
     if relationships:
         context += "\n## 엔티티 관계\n"
-        for rel in relationships[:20]:
+        for rel in relationships[:40]:
             target_type = rel.get('target_type', [])
             target_type = target_type[0] if isinstance(target_type, list) and target_type else target_type
             rel_desc = rel.get('rel_description', '')
@@ -174,6 +174,8 @@ def search_and_answer(query: str, k: int = 5):
             system_prompt="""당신은 영화 정보 전문가입니다. 
     주어진 컨텍스트를 바탕으로 사용자의 질문에 정확하고 상세하게 답변해주세요.
     컨텍스트에 없는 정보는 추측하지 마세요.
+    추천 질문의 경우, 컨텍스트에서 찾을 수 있는 모든 관련 영화를 빠짐없이 소개해주세요.
+    각 영화별로 제목, 장르, 간단한 줄거리, 출연 배우 등을 정리해주세요.
     한국어로 답변해주세요."""
     )
     
@@ -211,3 +213,4 @@ if __name__ == "__main__":
     
     query = sys.argv[1]
     search_and_answer(query)
+
