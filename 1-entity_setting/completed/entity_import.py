@@ -36,8 +36,15 @@ def process_one(fpath, index_name, opensearch_client, embedder, stats, counter, 
         name = entity["name"]
         summary = entity["summary"]
 
-        summary_vec = embedder.embed_text(summary)
+        # summary_vec이 이미 있으면 그대로 사용, 없으면 임베딩 생성
+        summary_vec = entity.get("summary_vec")
+        if not summary_vec:
+            summary_vec = embedder.embed_text(summary)
         entity["summary_vec"] = summary_vec
+
+        # neptune_id: 없으면 null로 설정, 있으면 그대로
+        if "neptune_id" not in entity:
+            entity["neptune_id"] = None
 
         doc_id = os.path.splitext(os.path.basename(fpath))[0]
         opensearch_client.index(index=index_name, id=doc_id, body={"entity": entity})
