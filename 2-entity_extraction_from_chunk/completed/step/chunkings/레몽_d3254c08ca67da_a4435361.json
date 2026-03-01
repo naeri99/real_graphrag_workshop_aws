@@ -1,0 +1,80 @@
+{
+  "chunk_hash": "d3254c08ca67da",
+  "chunk_id": "레몽_d3254c08ca67da_a4435361",
+  "user_query": "# 정제된 Transcript\n\n여자는 남자의 방을 보고 놀랄 수밖에 없었습니다. 그런데 그 책 맞아 여섯 살 네 살 때 책 뭔. 그때부터 했는지 뭐 그냥 이름만 쓰는 것보다 더 쩔어 책 사던 날 기억도 나고 이곳에 생각지 못한 낭만과 게임성이 컬러 북가 있었기 때문이죠. 떨다가 왜 그러니까 당 많이 그때. 야 양건 없냐. 남자와 여자가 같이 양 걸 보면 무슨 일이냐는 자신이 까 몰라줘도 아무튼 최대한 자연스럽게 넘어가려고 앨범 해보지만 그녀의 진짜 질문이 시작했습니다. 아 예 지 궁금해서 그러는데 남자들은 자연건강. [음악] 남자는 순수함으로 무장한 호기심에 가득 찬 눈을 외면할 수 없었습니다. 언제 파 일큐. 고로의 우쭈쭈 메시아. [음악] 아 절대 따라서 좀 나죠 아세요. 정의 주먹이 당신의 뚝배기를 누리고 있습니다. 라이트 우. 좀 해주면 더 이렇게 뚝배기가 마려운 그녀의 장난에도. 아 따 소녀를 되게 좋아한다. 기분이 울적할 때 유품 피고 저는 한 번 반복해서 듣는 거야. 그런 기분이 좀. 아직 그녀의 모습은 사랑스럽습니다. 그녀는 이찌 모텔 우연의 첫사랑입니다.\n\n때는 고원 일 you're. 매월 키가 10cm씩 자라는 성장통을 주체할 수 없던 의원은 오늘도 쌈박질 하고 있습니다. 그렇게 엉덩이 찜질로 마무리 하고 있던 어느 때와 똑같은 어. 처음 그녀를 만나게 되었습니다. 그녀의 이름은 일승. 전주에서 강릉 학교로 전학 온 승이 등장은 전교생 남학생들의 관심의 쓰였습니다. 사진만 이런 관심 속 승의 대답은 항상 같았습니다. 주야 우리 저의 들어보죠 마크. 그렇게 성이 남친이 되고자 하는 택해의 무차별 고백이 점점 심해져 가고 있었을 때쯤. 아 좀 뭐냐. 아 그 내가 의원에게 먼저 말을 걸게 되는데. 같은 전학생 길이 빠구리 나처럼 말로 오 빵. 우리 합성 먹다를 뜻하는 일본어 밖으로에서 발생된 성관계를 뜻하는 언어. 혼란스러워 한다게 도대체 무엇이 그 카. 그렇게 승리 지에 따라 움직이기로 한 후에야 8개가 삼나 아냐 쭝아. 승희의 모든 행동은 우연을 긴장하게 하지만 우연은 만반의 준비를 끝냈습니다. 또 뭐 샀냐. 투 거. 아 그거 아 당대 야 또. 근데 언제 바울이 처음이냐. 아 오 총 3회 동영상. 놈 즉 맑아 무슨 달라진 포. 그렇게 뭐가 날라리냐 며 주섬하다 듯하다 싸늘하다. 그게 뭔데. 그게 뭐 인생이 치는지. [음악] 다리야가 무한 약속해. 수업을 빼먹고 놀러 가는 행위를 전국민이 때라고 부르는데 도대체 왜 [음악] 전라도 만 빠구리라고 부르는지 아직도 비슷합니다. 그래서 저도 이게 사실인지 너무 궁금해서 친구에게 귀찮아서 물었습니다. 빵 울나라. 그렇게 쓴 이만우 연의 ltd 에피소드가 생겨나는 반면 택해이 개수작 또 들어가고 있었습니다. 문 수료.",
+  "movie_id": "너의 결혼식",
+  "reviewer": "레몽",
+  "chunk_index": 1,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "우연",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "우연은 성장통을 겪는 남학생으로, 승희를 처음 만나게 되는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "승희",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "승희는 전주에서 강릉 학교로 전학 온 여학생으로, 전교생 남학생들의 관심을 받는 우연의 첫사랑이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "택해",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "택해는 승희의 남자친구가 되고자 무차별 고백을 하는 남학생이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "승희",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "우연",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "승희는 우연의 첫사랑으로, 우연에게 먼저 말을 걸었다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "택해",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "승희",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "택해는 승희의 남자친구가 되고자 무차별 고백을 한다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "우연",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "승희",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "우연은 승희의 행동에 긴장하며 그녀에게 관심을 가진다",
+      "relationship_strength": 8
+    }
+  ],
+  "entity_resolution": {
+    "우연": {
+      "description": "우연 -> 우연",
+      "resolved_name": "우연",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "승희": {
+      "description": "승희 -> 승희",
+      "resolved_name": "승희",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "택해": {
+      "description": "택해 -> 이택기",
+      "resolved_name": "이택기",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    }
+  }
+}

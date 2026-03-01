@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "캐서린 오하라",
+    "synonym": [
+      "Catherine",
+      "Catherine O'Hara",
+      "Catherine OHara",
+      "오하라",
+      "캐더린 오하라",
+      "캐서린",
+      "캐서린 오하라",
+      "캐서린 오해라",
+      "캐서린오하라",
+      "캐슬린 오하라",
+      "케서린 오하라"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "캐서린 오하라은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

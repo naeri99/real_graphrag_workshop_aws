@@ -1,0 +1,23 @@
+{
+  "entity": {
+    "name": "팀 도노휴",
+    "synonym": [
+      "Tim",
+      "Tim Burton",
+      "Tim Donohue",
+      "도너휴",
+      "도노휴",
+      "버튼",
+      "팀",
+      "팀 도너휴",
+      "팀 도노휴",
+      "팀 버튼 감독",
+      "팀도노휴",
+      "팀버튼"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "팀 도노휴은 영화 '콘스탄트 가드너'의 등장인물로, 도널드 섬터이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

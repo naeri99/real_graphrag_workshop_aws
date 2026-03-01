@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "히스 레저",
+    "synonym": [
+      "Heath Andrew Ledger",
+      "Heath Ledger",
+      "레저",
+      "히스",
+      "히스 래저",
+      "히스 레저",
+      "히스 레져",
+      "히스레저",
+      "히스레져",
+      "히쓰 레저"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "히스 레저은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

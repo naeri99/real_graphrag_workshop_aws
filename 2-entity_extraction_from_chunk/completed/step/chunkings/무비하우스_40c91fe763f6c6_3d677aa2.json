@@ -1,0 +1,49 @@
+{
+  "chunk_hash": "40c91fe763f6c6",
+  "chunk_id": "무비하우스_40c91fe763f6c6_3d677aa2",
+  "user_query": "What happened when you woke up? To wake up from that after after years after decades to become old souls thrown back into youth like that. I knew something was wrong with her. She just wouldn't admit it. Eventually, she told me the truth. She was possessed by an idea. This one very simple idea that changed everything. that our world wasn't real. That she needed to wake up to come back to reality. That in order to get back home, we had to kill ourselves. [Music]",
+  "movie_id": "인셉션",
+  "reviewer": "무비하우스",
+  "chunk_index": 1,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "SHE/HER",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "꿈에서 깨어난 후 현실 세계가 진짜가 아니라는 생각에 사로잡힌 인물로, 집으로 돌아가기 위해 자살해야 한다고 믿게 된 캐릭터"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "I/NARRATOR",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "그녀와 함께 수십 년간 꿈속에서 지내다 깨어난 인물로, 그녀에게 무언가 잘못되었음을 알아챈 화자"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "I/NARRATOR",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "SHE/HER",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "화자는 그녀와 함께 꿈속에서 수십 년을 보냈으며, 그녀의 변화를 지켜본 관계이다",
+      "relationship_strength": 9
+    }
+  ],
+  "entity_resolution": {
+    "SHE/HER": {
+      "description": "SHE/HER -> SHE/HER",
+      "resolved_name": "SHE/HER",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "I/NARRATOR": {
+      "description": "I/NARRATOR -> I/NARRATOR",
+      "resolved_name": "I/NARRATOR",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

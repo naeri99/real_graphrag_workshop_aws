@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "오필리아 로비본드",
+    "synonym": [
+      "Ophelia Lovibond",
+      "로비본드",
+      "오펠리아 러비본드",
+      "오펠리아 로비본드",
+      "오펠리아로비본드",
+      "오필리아",
+      "오필리아 러비본드",
+      "오필리아 로비본드",
+      "오필리아로비본드"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "오필리아 로비본드은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

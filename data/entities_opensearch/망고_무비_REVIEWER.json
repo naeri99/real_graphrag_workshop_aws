@@ -1,0 +1,13 @@
+{
+  "entity": {
+    "name": "망고_무비",
+    "synonym": [
+      "망고_무비",
+      "망고 무비"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "망고_무비은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

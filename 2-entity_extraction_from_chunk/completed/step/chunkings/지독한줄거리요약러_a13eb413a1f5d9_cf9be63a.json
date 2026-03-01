@@ -1,0 +1,142 @@
+{
+  "chunk_hash": "a13eb413a1f5d9",
+  "chunk_id": "지독한줄거리요약러_a13eb413a1f5d9_cf9be63a",
+  "user_query": "[Music] uh better security come on oh [Applause] vanko was a soviet physicist his son ivan who is also a physicist was convicted of selling soviet era weapons great plutonium to pakistan and served 15 years in kopeisk prison no further records exist what an absolute pleasure welcome but if i might make a suggestion you know you don't just go and try and kill the guy i think you need my resources someone behind you a benefactor i'd like to be that guy pretty cool hey huh i don't know what to do you gotta be kidding me [Music] i'm only gonna say this once get out [Music] you want it put your hand down you gonna take a shot put it down [Music] sir i'm gonna have to ask you to exit the donut i am iron man you think you're the only superhero in the world who the hell are you nick fury director of shield i told you i don't want to join your super secret boy band no no no see i i remember you do everything yourself we've secured the perimeter but i don't think we should hold it for too much longer huh hit him oh god you're gonna steal my kidney and sell it awful for five seconds that's lithium dioxide it's gonna take the edge off i've been looking for a suitable replacement for palladium i've tried every combination every permutation of every known element you haven't tried them all i'm howard stark is achievable through technology better living tony you're too young to understand this right now so i thought i would put it on film for you i built this for you this is the key to the",
+  "movie_id": "아이언맨2",
+  "reviewer": "지독한줄거리요약러",
+  "chunk_index": 2,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "IRON MAN",
+      "entity_type": "MOVIE",
+      "entity_description": "아이언맨은 마블 슈퍼히어로 영화 시리즈로, 토니 스타크가 주인공인 작품이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "TONY STARK",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "토니 스타크는 아이언맨의 주인공으로, 팔라듐 대체물질을 찾고 있으며 \"나는 아이언맨이다\"라고 선언하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "NICK FURY",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "닉 퓨리는 쉴드(SHIELD)의 국장으로, 토니 스타크에게 접근하여 슈퍼히어로 팀에 합류할 것을 제안하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "IVAN VANKO",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "이반 반코는 소련 물리학자의 아들로, 본인도 물리학자이며 소련 시대 무기를 파키스탄에 판매한 혐의로 코페이스크 감옥에서 15년을 복역한 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "HOWARD STARK",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "하워드 스타크는 토니 스타크의 아버지로, 아들을 위해 무언가를 만들었으며 영상 메시지를 남긴 인물이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "TONY STARK",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "IRON MAN",
+      "target_type": "MOVIE",
+      "relationship_description": "토니 스타크는 아이언맨 영화의 주인공이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "NICK FURY",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "IRON MAN",
+      "target_type": "MOVIE",
+      "relationship_description": "닉 퓨리는 아이언맨 영화에 등장하는 쉴드 국장이다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "IVAN VANKO",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "IRON MAN",
+      "target_type": "MOVIE",
+      "relationship_description": "이반 반코는 아이언맨 영화의 악당 캐릭터이다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "HOWARD STARK",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "IRON MAN",
+      "target_type": "MOVIE",
+      "relationship_description": "하워드 스타크는 아이언맨 영화에 등장하는 토니의 아버지이다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "NICK FURY",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "TONY STARK",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "닉 퓨리는 토니 스타크에게 슈퍼히어로 팀 합류를 제안한다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "HOWARD STARK",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "TONY STARK",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "하워드 스타크는 토니 스타크의 아버지로, 아들을 위해 무언가를 만들어 남겼다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "IVAN VANKO",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "TONY STARK",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "이반 반코는 토니 스타크를 죽이려고 시도하는 적대적 관계이다",
+      "relationship_strength": 9
+    }
+  ],
+  "entity_resolution": {
+    "IRON MAN": {
+      "description": "IRON MAN -> IRON MAN",
+      "resolved_name": "IRON MAN",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "TONY STARK": {
+      "description": "TONY STARK -> TONY STARK",
+      "resolved_name": "TONY STARK",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "NICK FURY": {
+      "description": "NICK FURY -> NICK FURY",
+      "resolved_name": "NICK FURY",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "IVAN VANKO": {
+      "description": "IVAN VANKO -> IVAN VANKO",
+      "resolved_name": "IVAN VANKO",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "HOWARD STARK": {
+      "description": "HOWARD STARK -> HOWARD STARK",
+      "resolved_name": "HOWARD STARK",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

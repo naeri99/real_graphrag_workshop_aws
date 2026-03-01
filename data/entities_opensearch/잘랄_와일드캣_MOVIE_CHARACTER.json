@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "잘랄",
+    "synonym": [
+      "Jalaal",
+      "Jalal",
+      "Jallal",
+      "자랄",
+      "잘랄",
+      "잘랄 캐릭터",
+      "잘랄르",
+      "잘랄리",
+      "잘랄이"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "잘랄은 영화 '와일드캣'의 등장인물로, 이브라힘 렌노이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

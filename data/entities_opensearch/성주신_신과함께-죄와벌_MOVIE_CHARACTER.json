@@ -1,0 +1,29 @@
+{
+  "entity": {
+    "name": "성주신",
+    "synonym": [
+      "House God",
+      "Seong-ju",
+      "Seongju",
+      "Seongjusin",
+      "가신",
+      "가택신",
+      "성 주신",
+      "성주",
+      "성주 신",
+      "성주신",
+      "집 성주신",
+      "집 지키는 신",
+      "집안신",
+      "집의 신",
+      "집지킴이",
+      "집지킴이 성주",
+      "집지킴이 성주신",
+      "집지킴이 신"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "성주신은 영화 '신과함께-죄와벌'의 등장인물로, 마동석이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

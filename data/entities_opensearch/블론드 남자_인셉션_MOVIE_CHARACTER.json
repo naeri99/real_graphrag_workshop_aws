@@ -1,0 +1,24 @@
+{
+  "entity": {
+    "name": "블론드 남자",
+    "synonym": [
+      "Atomic Blonde",
+      "Blonde Guy",
+      "Blonde Man",
+      "금발 남자",
+      "금발남",
+      "금발남자",
+      "금발머리 남자",
+      "블론드 남자",
+      "블론드 맨",
+      "블론드남자",
+      "블론드맨",
+      "아토믹 블론드",
+      "아토믹블론드"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "블론드 남자은 영화 '인셉션'의 등장인물로, 애슐리 스프링이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

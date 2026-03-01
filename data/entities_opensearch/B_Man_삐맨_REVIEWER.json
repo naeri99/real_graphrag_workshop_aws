@@ -1,0 +1,13 @@
+{
+  "entity": {
+    "name": "B_Man_삐맨",
+    "synonym": [
+      "B_Man_삐맨",
+      "B Man 삐맨"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "B_Man_삐맨은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

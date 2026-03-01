@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "버나드 오미",
+    "synonym": [
+      "Bernard Omi",
+      "Bernard Otieno",
+      "버나드",
+      "버나드 오미",
+      "버나드 오미이",
+      "버나드오미",
+      "버너드 오미",
+      "오미"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "버나드 오미은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "entity": {
+    "name": "채드",
+    "synonym": [
+      "Chad",
+      "채드",
+      "챗",
+      "챠드",
+      "체드",
+      "쳇"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "채드은 영화 '제리 맥과이어'의 등장인물로, 토드 루이소이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

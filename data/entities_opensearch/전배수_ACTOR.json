@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "전배수",
+    "synonym": [
+      "BaeSu Jeon",
+      "Jeon Bae Su",
+      "Jeon Bae-soo",
+      "Jeon Bae-su",
+      "Jeon Baesu",
+      "배수",
+      "전 배수",
+      "전배수",
+      "전배수 배우",
+      "전배수 씨"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "전배수은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

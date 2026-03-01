@@ -1,0 +1,13 @@
+{
+  "entity": {
+    "name": "Popcorn_Coke_Review",
+    "synonym": [
+      "Popcorn_Coke_Review",
+      "Popcorn Coke Review"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "Popcorn_Coke_Review은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

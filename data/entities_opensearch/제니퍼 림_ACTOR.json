@@ -1,0 +1,18 @@
+{
+  "entity": {
+    "name": "제니퍼 림",
+    "synonym": [
+      "Jennifer",
+      "Jennifer Lim",
+      "Jenny Lim",
+      "림",
+      "제니퍼",
+      "제니퍼 림",
+      "제니퍼림"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "제니퍼 림은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

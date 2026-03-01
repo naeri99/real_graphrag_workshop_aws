@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "브랜드 교수",
+    "synonym": [
+      "Brand 교수",
+      "Dr. Brand",
+      "John Brand",
+      "Professor Brand",
+      "교수 브랜드",
+      "브랜드 교수",
+      "브랜드 박사",
+      "브랜드교수",
+      "브랜드박사",
+      "존 브랜드",
+      "프로페서 브랜드"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "브랜드 교수은 영화 '인터스텔라'의 등장인물로, 마이클 케인이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

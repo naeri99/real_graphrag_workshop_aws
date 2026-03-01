@@ -1,0 +1,24 @@
+{
+  "entity": {
+    "name": "서유기 모험의 시작",
+    "synonym": [
+      "Journey to the West",
+      "Journey to the West: Conquering the Demons",
+      "모험의 시작",
+      "서유기",
+      "서유기 1",
+      "서유기 모험",
+      "서유기 모험의 시작",
+      "서유기 모험의시작",
+      "서유기 시작",
+      "서유기 항마편",
+      "서유기: 모험의 시작",
+      "서유기모험의시작",
+      "주성치 서유기"
+    ],
+    "entity_type": "MOVIE",
+    "summary": "서유기 모험의 시작",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

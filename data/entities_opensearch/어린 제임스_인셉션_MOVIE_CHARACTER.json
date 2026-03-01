@@ -1,0 +1,18 @@
+{
+  "entity": {
+    "name": "어린 제임스",
+    "synonym": [
+      "Young James",
+      "어린 제임스",
+      "어린 제임즈",
+      "어린제임스",
+      "영 제임스",
+      "유년 제임스",
+      "제임스 어린시절"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "어린 제임스은 영화 '인셉션'의 등장인물로, 매그너스 놀란이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

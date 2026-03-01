@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "에디 마산",
+    "synonym": [
+      "Eddie Marsan",
+      "Eddy Ko",
+      "마산",
+      "에디",
+      "에디 마산",
+      "에디 마샨",
+      "에디 마슨",
+      "에디 코",
+      "에디마산",
+      "에디코이",
+      "코이"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "에디 마산은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "entity": {
+    "name": "Tachi_Screen_타치_스크린",
+    "synonym": [
+      "Tachi_Screen_타치_스크린",
+      "Tachi Screen 타치 스크린"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "Tachi_Screen_타치_스크린은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

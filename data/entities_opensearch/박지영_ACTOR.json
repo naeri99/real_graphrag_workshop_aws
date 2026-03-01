@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "박지영",
+    "synonym": [
+      "Ji-young Park",
+      "Park Ji-young",
+      "Park Jiyoung",
+      "박 지영",
+      "박지영",
+      "박지영 배우",
+      "배우 박지영",
+      "지영"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "박지영은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

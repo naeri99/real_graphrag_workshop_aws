@@ -1,0 +1,155 @@
+{
+  "chunk_hash": "7fe3dd124e42e0",
+  "chunk_id": "하씨네_CINE_7fe3dd124e42e0_3a155b14",
+  "user_query": "out of her mouth and tries to give her mother the medicine that paralyzed her leg. This movie is a mystery thriller about the story of a mother who shows a false obsession in the name of love and a daughter who tries to escape from that obsession. As my only family and my mother, the partner of faith, become a dangerous character, the comfortable space of the house instantly becomes a dangerous space, and it is a work that expresses the suspense full of tension to escape from there. It is an obvious story as a sequel to director Anish Chaganti, who was well received through the previous work <Search>, but it is a work that gives a great sense of immersion during a 90-minute running time with concise and powerful development. In addition, for those who like Chloe station to who served Kiera Allen is gonna while digesting all the action scenes directly into the uncomfortable body as an actor with real disabilities allowed us to feel even more immersive on of her in fact acting rapid deployment and chewy full of movie suspense This is a recommended movie. Then in the next video, let's be scared again",
+  "movie_id": "미드나잇 런",
+  "reviewer": "하씨네_CINE",
+  "chunk_index": 4,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "RUN",
+      "entity_type": "MOVIE",
+      "entity_description": "Run은 사랑이라는 이름으로 거짓된 집착을 보여주는 어머니와 그 집착에서 벗어나려는 딸의 이야기를 다룬 미스터리 스릴러 영화이다. 90분의 러닝타임 동안 간결하고 강력한 전개로 몰입감을 주는 작품이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "ANISH CHAGANTI",
+      "entity_type": "MOVIE_STAFF",
+      "entity_description": "아니쉬 차간티는 Run의 감독으로, 이전 작품 Search로 좋은 평가를 받았다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "SEARCH",
+      "entity_type": "MOVIE",
+      "entity_description": "Search는 아니쉬 차간티 감독의 이전 작품으로 좋은 평가를 받은 영화이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "CHLOE",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "클로이는 Run에서 어머니의 집착에서 벗어나려고 하는 딸 캐릭터이다. 다리가 마비된 상태에서 어머니에게 약을 주려고 하며 위험한 상황에서 탈출하려 한다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "KIERA ALLEN",
+      "entity_type": "ACTOR",
+      "entity_description": "키에라 앨런은 클로이 역을 맡은 배우로, 실제 장애를 가진 배우로서 불편한 몸으로 모든 액션 장면을 직접 소화하며 더욱 몰입감 있는 연기를 보여주었다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "MOTHER",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "어머니는 Run에서 사랑이라는 이름으로 거짓된 집착을 보여주는 위험한 캐릭터이다. 딸의 유일한 가족이자 신뢰의 파트너였다가 위험한 인물이 된다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "ANISH CHAGANTI",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "RUN",
+      "target_type": "MOVIE",
+      "relationship_description": "아니쉬 차간티는 Run의 감독이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "ANISH CHAGANTI",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "SEARCH",
+      "target_type": "MOVIE",
+      "relationship_description": "아니쉬 차간티는 Search의 감독이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "CHLOE",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "RUN",
+      "target_type": "MOVIE",
+      "relationship_description": "클로이는 Run의 주인공이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "MOTHER",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "RUN",
+      "target_type": "MOVIE",
+      "relationship_description": "어머니는 Run의 주요 캐릭터이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "CHLOE",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "MOTHER",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "클로이는 어머니의 딸이며, 어머니의 집착에서 벗어나려고 한다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "KIERA ALLEN",
+      "source_type": "ACTOR",
+      "target_entity": "CHLOE",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "키에라 앨런은 클로이 역을 연기했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "KIERA ALLEN",
+      "source_type": "ACTOR",
+      "target_entity": "RUN",
+      "target_type": "MOVIE",
+      "relationship_description": "키에라 앨런은 Run에서 주연을 맡아 몰입감 있는 연기를 보여주었다",
+      "relationship_strength": 9
+    }
+  ],
+  "entity_resolution": {
+    "RUN": {
+      "description": "RUN -> RUN",
+      "resolved_name": "RUN",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "ANISH CHAGANTI": {
+      "description": "ANISH CHAGANTI -> ANISH CHAGANTI",
+      "resolved_name": "ANISH CHAGANTI",
+      "entity_type": "MOVIE_STAFF",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "SEARCH": {
+      "description": "SEARCH -> SEARCH",
+      "resolved_name": "SEARCH",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "CHLOE": {
+      "description": "CHLOE -> CHLOE",
+      "resolved_name": "CHLOE",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "KIERA ALLEN": {
+      "description": "KIERA ALLEN -> KIERA ALLEN",
+      "resolved_name": "KIERA ALLEN",
+      "entity_type": "ACTOR",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "MOTHER": {
+      "description": "MOTHER -> MOTHER",
+      "resolved_name": "MOTHER",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

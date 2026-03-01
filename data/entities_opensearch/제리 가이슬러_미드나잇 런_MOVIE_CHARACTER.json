@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "제리 가이슬러",
+    "synonym": [
+      "Jerry",
+      "Jerry Geisler",
+      "가이슬러",
+      "게리 가이슬러",
+      "제리",
+      "제리 가이슬러",
+      "제리 가이즐러",
+      "제리가이슬러"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "제리 가이슬러은 영화 '미드나잇 런'의 등장인물로, 잭 키호이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

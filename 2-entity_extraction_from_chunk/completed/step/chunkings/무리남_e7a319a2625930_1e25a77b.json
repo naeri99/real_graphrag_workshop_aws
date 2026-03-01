@@ -1,0 +1,168 @@
+{
+  "chunk_hash": "e7a319a2625930",
+  "chunk_id": "무리남_e7a319a2625930_1e25a77b",
+  "user_query": "이 장사장 >> 저저 저 새끼 왜 왜 왔냐? [음악] 여기 깜방에서 나온 상남자 송우철이 있습니다. >> 야 고생했다. 고생했어. 어 짜잔 >> 우철이를 마중 나온 절친 도시기와 동생 현태 >> 마 더 먹어. >> 응 >> 맛있지? >> 응허 강현재라고 몇 년 전부터 내 밑에서 일했네야? 강실장은 새로운 형이 마음에 안 드는데. >> 야, 강실장 제대로 해라. 앞으로 모셔야 될 형인데. >> 괜찮아. 아이 괜찮아. 응. >> 가자 친구야. >> 응. >> 요즘 깜방에는 죄다 [ __ ] 같은 새끼들만 있나 봐. >> 왜? 아니, 너 같은 놈 모범수라고 일찍 내버려 주고 말이야. 잘못됐지. 이 >> 도시기는 우철이에게 다양한 일거리를 제안하고 >> 하긴 내 친구 착하지. 아유 앞으로 네가 해야 될 일이 많다. 도박장에 술집에 대출 업무에 세상은 존나게 넓은데 할 일도 존나게 많고 그럼 일단 술집 하나 맡아서 해 볼래? >> 도시가 미안한데 난 그냥 조용히 쳐박혀서 살려고. >> 뭐 >> 도시기의 생각과 달리 우철이는 조용히 살고 싶어 하죠. [음악] 오래간만에 술 한잔하다가 >> 우리 꿈이 뭐였냐? 외제차 연봉 10억 그리고 >> 새끈한 여자 >> 난 그냥 죽은 듯이 살까나? 에이 새끼가 진짜. 야 [ __ ] 그렇게 살면은 뭐가 생기냐? 뭐가 생겨? >> 도시기는 급한 일이 생겨. 먼저 들어가고. >> 야 미안한데 먼저 가 봐야겠다. 야 일이 지금 생겨 가지고. 별 일 아니지. >> 그럼 늘상 있는 일인데 뭐씨. >> 야 알지 잘 모셔라. 어 >> 현태에게 우철이를 맡깁니다. 어 가쇼 >> 우철이를 숙소에 먼저 들여보내고 >> 아 금방 와 형 먼저 올라가 있어 >> 같이 가야지 마 >> 아이 난 여기 맥주 좀 사 갖고 갈 테니까 먼저 올라가 있어 >> 현사회에 일본어 1 2 3 4 >> 힘든 몸을 이끌고 문을 열자 >> 낯선 여자 봄미가 우철이를 맞이하는데 >> 우철아 잘 먹고 큰 일꾼데라 너의 멋 도시 왜 이렇게 느려요? 기다리다 미친 줄 >> 아씨 그게 아니라 >> 봄미는 웰컴 드링크를 건네자 >> 웰컴 드링크 >> 봄미에요 >> 우철이는 도망가려 하고 >> 갈게 >> 미안한데 내가 받은 돈 다 써서 >> 아니 저기 동생이 뭐 사온 저 밑에 >> 말할 시간도 없이 다짜고짜 옷을 벗기자 >> 동생이 >> 일합시다 >> 아 저기 아가씨 잠깐만 아니 이게 아니고 난 아직 잠깐만 잠깐만 동생 지금 술 술술 >> 반항하는 도중 손목에 여러 번 자해 흔적을 발견하죠. >> 나 먼저 씻는다. >> 한편 급한 일이 있어. 한 호텔에 도착한 도시기는 폭행당한 여자를 발견하고 >> 숨은 쉬냐? >> 예. 숨은 쉽니다. 빨리 치워. 아이고 우리 장사하고 싶네. 아 근데 요즘 얼굴 보니까 너무 힘들어. 장사자. 참 >> 막난이 가루쟁이가 일을 수습하러 온 도시기에게 남의 가게 냄비는 왜 깨고 지랄인데 왜 >> 뺨따구를 때립니다. >> 야 >> 가루쟁이가 힘이 있는지 도시기가 쩔쩔 매는데 >> 아마 우리가 아 36이라 걔도 그 우리 서로 욕을 안 하기로",
+  "movie_id": "와일드캣",
+  "reviewer": "무리남",
+  "chunk_index": 1,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "송우철",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "송우철은 교도소에서 출소한 상남자로, 조용히 살고 싶어하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "도시기",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "도시기는 송우철의 절친으로, 도박장, 술집, 대출 업무 등 다양한 사업을 하며 우철이에게 일거리를 제안하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "현태",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "현태는 송우철의 동생으로, 도시기와 함께 우철이를 마중 나온 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "강현재",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "강현재는 강실장으로 불리며, 몇 년 전부터 도시기 밑에서 일한 인물로 새로운 형(우철)이 마음에 들지 않는다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "봄미",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "봄미는 우철이의 숙소에서 그를 맞이하는 낯선 여자로, 손목에 자해 흔적이 있는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "장사장",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "장사장은 도시기에게 일을 맡기는 상위 인물로 보인다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "가루쟁이",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "가루쟁이는 도시기를 뺨따구 때릴 정도로 힘이 있는 인물이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "도시기",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "송우철",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "도시기는 송우철의 절친으로 출소한 우철이를 마중 나오고 일거리를 제안한다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "현태",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "송우철",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "현태는 송우철의 동생이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "강현재",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "도시기",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "강현재는 도시기 밑에서 몇 년간 일해온 부하이다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "강현재",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "송우철",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "강현재는 새로운 형인 송우철이 마음에 들지 않는다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "봄미",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "송우철",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "봄미는 우철이의 숙소에서 그를 맞이하며 웰컴 드링크를 건넨다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "도시기",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "현태",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "도시기는 현태에게 우철이를 맡기고 급한 일로 먼저 떠난다",
+      "relationship_strength": 6
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "가루쟁이",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "도시기",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "가루쟁이는 도시기를 뺨따구 때릴 정도로 상위에 있는 인물이다",
+      "relationship_strength": 8
+    }
+  ],
+  "entity_resolution": {
+    "송우철": {
+      "description": "송우철 -> 송우철",
+      "resolved_name": "송우철",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "도시기": {
+      "description": "도시기 -> 도시기",
+      "resolved_name": "도시기",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "현태": {
+      "description": "현태 -> 현태",
+      "resolved_name": "현태",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "강현재": {
+      "description": "강현재 -> 강현재",
+      "resolved_name": "강현재",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "봄미": {
+      "description": "봄미 -> 봄미",
+      "resolved_name": "봄미",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "장사장": {
+      "description": "장사장 -> 강항조",
+      "resolved_name": "강항조",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "가루쟁이": {
+      "description": "가루쟁이 -> 가루쟁이",
+      "resolved_name": "가루쟁이",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

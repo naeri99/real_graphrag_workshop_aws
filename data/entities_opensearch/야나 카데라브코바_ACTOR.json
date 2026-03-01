@@ -1,0 +1,17 @@
+{
+  "entity": {
+    "name": "야나 카데라브코바",
+    "synonym": [
+      "Jana Kaderabkova",
+      "야나",
+      "야나 카데라브코바",
+      "야나 카데랍코바",
+      "야나카데라브코바",
+      "카데라브코바"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "야나 카데라브코바은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

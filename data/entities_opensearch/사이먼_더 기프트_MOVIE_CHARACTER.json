@@ -1,0 +1,18 @@
+{
+  "entity": {
+    "name": "사이먼",
+    "synonym": [
+      "Simon",
+      "사이먼",
+      "사이먼 칼먼",
+      "사이먼 캘럼",
+      "사이몬",
+      "시몬",
+      "싸이먼"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "사이먼은 영화 '더 기프트'의 등장인물로, 제이슨 베이트먼이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

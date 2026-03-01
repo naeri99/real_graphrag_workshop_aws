@@ -1,0 +1,23 @@
+{
+  "entity": {
+    "name": "레너드 로시터",
+    "synonym": [
+      "Leonard Rossiter",
+      "Rossiter",
+      "레너드",
+      "레너드 로시터",
+      "레너드 로씨터",
+      "레너드로시터",
+      "레오나드 로시터",
+      "레오나드 로씨터",
+      "레오나드로시터",
+      "레오나르드 로시터",
+      "로시터",
+      "로씨터"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "레너드 로시터은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "chunk_hash": "1d6d5a181adae4",
+  "chunk_id": "필소굿_1d6d5a181adae4_0ff9b35e",
+  "user_query": "[음악] [음악] 뤽 베송 감독의 대표작 레옹을 많이 닮아 있습니다 레옹은 세상을 등지고 혼자 살아가는 킬러가 마틸다를 만나면서 세상과 싸우는 이야기죠 도그맨은 어린 시절 아버지와 형에게 받은 학대로 힘든 삶을 살지만 그 옆을 지켜주는 개들을 만나면서 세상과 싸우는 이야기입니다 케일럽 랜드리 존스가 이 영화의 주연을 맡았는데 아주 인상적인 연기를 펼쳤습니다 저는 이 배우를 쓰리 빌보드에서 처음 봤는데 연기를 너무 잘해서 다음 작품에서 어떤 역할을 맡을까 기대를 했는데 역시 탄탄한 필모그래피를 쌓으며 이번 도그맨에서도 미친 존재감을 내뿜었습니다 다리를 다친 설정도 그렇고 여장 남자란 설정도 어떻게 보면 과잉의 설정이 아닐까라는 생각했지만 영화를 다 보고 나서 정말 타당한 설정이었습니다 여장은 자신이 사랑했던 어머니와 첫사랑의 부재를 채우기 위한 것이었습니다 주인공이 힘들었던 어린 시절 가장 행복했던 시간은 주방에서 요리하는 엄마와 LP 소리였고 나중에 성인이 되어서 드랙바에서 일하고 집에 오게 되면 하는 일이 요리하면서 음악을 듣는 것이죠 그리고 첫사랑이 알려준 화장과 셰익스피어 연극은 주인공의 삶의 한줄기 빛 같은 존재입니다 마지막에 감옥을 탈출하면서 십자가의 그림자 속으로 향해 걸어가면서 총을 맞이하는 주인공 그에게 있어서 걷는다는 건 곧 죽음을 의미합니다 어찌 되었건 도그맨으로 활동하면서 살인 절도라는 중대한 범죄를 저질렀기에 벌을 받아야 하지만 그 벌은 사회가 아니라 신에게 받는다는 게 참 인상적이었습니다 결국 신이라 불리는 개들의 곁에서 총을 맞는 주인공 오랜만에 독하고 생각할 거리가 많은 영화를 본 것 같습니다 호불호가 갈릴 수 있는 소재를 다루기 때문에 쉽게 추천을 못 드리지만 남자 주인공의 뛰어난 연기와 뤽 베송 감독 특유의 연출을 볼 수 있다는 점에서 한번쯤 볼 만한 영화 아닐까라고 생각해 봅니다 지금까지 필수꿀팁이었습니다 감사합니다",
+  "movie_id": "도그맨",
+  "reviewer": "필소굿",
+  "chunk_index": 1,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "뤽 베송",
+      "entity_type": "MOVIE_STAFF",
+      "entity_description": "뤽 베송은 레옹과 도그맨을 연출한 프랑스 감독으로, 특유의 연출 스타일로 알려져 있다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "레옹",
+      "entity_type": "MOVIE",
+      "entity_description": "레옹은 뤽 베송 감독의 대표작으로, 세상을 등지고 혼자 살아가는 킬러가 마틸다를 만나면서 세상과 싸우는 이야기를 다룬 영화이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "도그맨",
+      "entity_type": "MOVIE",
+      "entity_description": "도그맨은 어린 시절 아버지와 형에게 학대받은 주인공이 개들과 함께 세상과 싸우는 이야기를 다룬 영화로, 여장 남자와 다리를 다친 설정이 특징이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "마틸다",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "마틸다는 레옹에서 킬러 레옹이 만나게 되는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "케일럽 랜드리 존스",
+      "entity_type": "ACTOR",
+      "entity_description": "케일럽 랜드리 존스는 도그맨의 주연 배우로, 쓰리 빌보드에서도 출연했으며 탄탄한 필모그래피를 쌓아온 배우이다. 도그맨에서 미친 존재감을 내뿜는 인상적인 연기를 펼쳤다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "쓰리 빌보드",
+      "entity_type": "MOVIE",
+      "entity_description": "쓰리 빌보드는 케일럽 랜드리 존스가 출연한 영화이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "필수꿀팁",
+      "entity_type": "REVIEWER",
+      "entity_description": "필수꿀팁은 도그맨을 리뷰한 유튜버 또는 블로거로, 영화의 호불호가 갈릴 수 있지만 한번쯤 볼 만한 영화라고 평가했다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "뤽 베송",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "레옹",
+      "target_type": "MOVIE",
+      "relationship_description": "뤽 베송은 레옹을 연출한 감독이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "뤽 베송",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "도그맨",
+      "target_type": "MOVIE",
+      "relationship_description": "뤽 베송은 도그맨을 연출한 감독이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "마틸다",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "레옹",
+      "target_type": "MOVIE",
+      "relationship_description": "마틸다는 레옹에 등장하는 캐릭터이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "케일럽 랜드리 존스",
+      "source_type": "ACTOR",
+      "target_entity": "도그맨",
+      "target_type": "MOVIE",
+      "relationship_description": "케일럽 랜드리 존스는 도그맨의 주연을 맡았다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "케일럽 랜드리 존스",
+      "source_type": "ACTOR",
+      "target_entity": "쓰리 빌보드",
+      "target_type": "MOVIE",
+      "relationship_description": "케일럽 랜드리 존스는 쓰리 빌보드에 출연했다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "도그맨",
+      "source_type": "MOVIE",
+      "target_entity": "레옹",
+      "target_type": "MOVIE",
+      "relationship_description": "도그맨은 레옹과 유사한 구조와 주제를 가진 영화로, 같은 감독의 작품이다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "필수꿀팁",
+      "source_type": "REVIEWER",
+      "target_entity": "도그맨",
+      "target_type": "MOVIE",
+      "relationship_description": "필수꿀팁은 도그맨을 리뷰하며 남자 주인공의 연기와 감독의 연출을 긍정적으로 평가했다",
+      "relationship_strength": 8
+    }
+  ],
+  "entity_resolution": {
+    "뤽 베송": {
+      "description": "뤽 베송 -> 뤽 베송",
+      "resolved_name": "뤽 베송",
+      "entity_type": "MOVIE_STAFF",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "레옹": {
+      "description": "레옹 -> 레옹",
+      "resolved_name": "레옹",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "도그맨": {
+      "description": "도그맨 -> 도그맨",
+      "resolved_name": "도그맨",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "마틸다": {
+      "description": "마틸다 -> 마틸다",
+      "resolved_name": "마틸다",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "케일럽 랜드리 존스": {
+      "description": "케일럽 랜드리 존스 -> 케일럽 랜드리 존스",
+      "resolved_name": "케일럽 랜드리 존스",
+      "entity_type": "ACTOR",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "쓰리 빌보드": {
+      "description": "쓰리 빌보드 -> 쓰리 빌보드",
+      "resolved_name": "쓰리 빌보드",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "필수꿀팁": {
+      "description": "필수꿀팁 -> 필수꿀팁",
+      "resolved_name": "필수꿀팁",
+      "entity_type": "REVIEWER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

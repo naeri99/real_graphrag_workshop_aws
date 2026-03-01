@@ -1,0 +1,18 @@
+{
+  "entity": {
+    "name": "알리 올로미",
+    "synonym": [
+      "Ali",
+      "Ali Olomi",
+      "Olomi",
+      "알리",
+      "알리 올로미",
+      "알리올로미",
+      "올로미"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "알리 올로미은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

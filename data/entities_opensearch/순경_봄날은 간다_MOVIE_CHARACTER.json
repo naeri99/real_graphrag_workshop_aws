@@ -1,0 +1,23 @@
+{
+  "entity": {
+    "name": "순경",
+    "synonym": [
+      "police officer",
+      "경관",
+      "경찰",
+      "경찰관",
+      "순경",
+      "순경 역",
+      "순경 캐릭터",
+      "순경님",
+      "순경씨",
+      "순경역",
+      "순사",
+      "폴리스"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "순경은 영화 '봄날은 간다'의 등장인물로, 엄효섭이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

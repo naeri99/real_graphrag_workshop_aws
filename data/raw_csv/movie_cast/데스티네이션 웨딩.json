@@ -1,0 +1,47 @@
+{
+  "movie_title": "데스티네이션 웨딩",
+  "director": [
+    {
+      "name": "빅터 레빈",
+      "name_en": "Victor Levin"
+    }
+  ],
+  "cast": [
+    {
+      "actor": "키아누 리브스",
+      "actor_en": "Keanu Reeves",
+      "character": "프랭크"
+    },
+    {
+      "actor": "위노나 라이더",
+      "actor_en": "Winona Ryder",
+      "character": "린제이"
+    },
+    {
+      "actor": "DJ 달렌바흐",
+      "actor_en": "DJ Dallenbach",
+      "character": "앤"
+    },
+    {
+      "actor": "테드 듀보스트",
+      "actor_en": "Ted Dubost",
+      "character": "키스"
+    },
+    {
+      "actor": "그렉 루시",
+      "actor_en": "Greg Lucey",
+      "character": "프랭크의 계부"
+    },
+    {
+      "actor": "D. 로시 라이트",
+      "actor_en": "D. Rosh Wright",
+      "character": "프랭크의 어머니"
+    }
+  ],
+  "review": [
+    "./data/review/데스티네이션 웨딩/데스티네이션 웨딩_2cCFgQiby5Q.json",
+    "./data/review/데스티네이션 웨딩/데스티네이션 웨딩_KfXqf0oR-Hs.json",
+    "./data/review/데스티네이션 웨딩/데스티네이션 웨딩_W5Pig5-w2Xw.json",
+    "./data/review/데스티네이션 웨딩/데스티네이션 웨딩_xsYj-J6CxC0.json"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "entity": {
+    "name": "브루스 웨인 / 배트맨",
+    "synonym": [
+      "Batman",
+      "Batman Begins",
+      "Batman v Superman",
+      "Batman vs Superman",
+      "Bruce Wayne",
+      "The Batman",
+      "The Dark Knight",
+      "다크 나이트",
+      "다크나이트",
+      "박쥐 인간",
+      "박쥐인간",
+      "배트맨",
+      "배트맨 vs 슈퍼맨",
+      "배트맨 브이 슈퍼맨",
+      "배트맨 비긴스",
+      "배트맨1",
+      "배트맨: 비긴즈",
+      "배트맨대슈퍼맨",
+      "배트맨비긴즈",
+      "뱃맨",
+      "베트맨",
+      "브루스 웨인",
+      "브루스 웨인 / 배트맨",
+      "브루스웨인",
+      "비긴즈",
+      "어둠의 기사",
+      "웨인",
+      "저스티스의 시작"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "브루스 웨인 / 배트맨은 영화 '다크나이트'의 등장인물로, 크리스찬 베일이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

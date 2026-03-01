@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "크리스 놀",
+    "synonym": [
+      "Chris",
+      "Chris Noel",
+      "Christian",
+      "Christine",
+      "놀",
+      "크리스",
+      "크리스 노엘",
+      "크리스 놀",
+      "크리스놀",
+      "크리스티안"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "크리스 놀은 영화 '죽은 시인의 사회'의 등장인물로, 알렉산드라 파워스이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

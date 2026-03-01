@@ -1,0 +1,13 @@
+{
+  "entity": {
+    "name": "Jeremy_Jahns",
+    "synonym": [
+      "Jeremy_Jahns",
+      "Jeremy Jahns"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "Jeremy_Jahns은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

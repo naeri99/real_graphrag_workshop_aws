@@ -1,0 +1,18 @@
+{
+  "entity": {
+    "name": "박지환",
+    "synonym": [
+      "Ji-hwan Park",
+      "Park Ji-hwan",
+      "박 지환",
+      "박지환",
+      "박지환 배우",
+      "배우 박지환",
+      "지환"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "박지환은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

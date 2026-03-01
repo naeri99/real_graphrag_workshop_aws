@@ -1,0 +1,103 @@
+{
+  "movie_title": "존 윅 4",
+  "director": [
+    {
+      "name": "채드 스타헬스키",
+      "name_en": "Chad Stahelski"
+    }
+  ],
+  "cast": [
+    {
+      "actor": "키아누 리브스",
+      "actor_en": "Keanu Reeves",
+      "character": "존 윅"
+    },
+    {
+      "actor": "견자단",
+      "actor_en": "Donnie Yen",
+      "character": "케인"
+    },
+    {
+      "actor": "빌 스카스가드",
+      "actor_en": "Bill Skarsgård",
+      "character": "마르키스"
+    },
+    {
+      "actor": "로렌스 피시번",
+      "actor_en": "Laurence Fishburne",
+      "character": "바우어리 킹"
+    },
+    {
+      "actor": "이안 맥셰인",
+      "actor_en": "Ian McShane",
+      "character": "윈스턴"
+    },
+    {
+      "actor": "랜스 레딕",
+      "actor_en": "Lance Reddick",
+      "character": "샤론"
+    },
+    {
+      "actor": "사나다 히로유키",
+      "actor_en": "Hiroyuki Sanada",
+      "character": "시마즈"
+    },
+    {
+      "actor": "리나 사와야마",
+      "actor_en": "Rina Sawayama",
+      "character": "아키라"
+    },
+    {
+      "actor": "샤미어 앤더슨",
+      "actor_en": "Shamier Anderson",
+      "character": "트래커"
+    },
+    {
+      "actor": "클랜시 브라운",
+      "actor_en": "Clancy Brown",
+      "character": "하빈저"
+    },
+    {
+      "actor": "스콧 애드킨스",
+      "actor_en": "Scott Adkins",
+      "character": "킬라"
+    },
+    {
+      "actor": "마르코 자로르",
+      "actor_en": "Marko Zaror",
+      "character": "치디"
+    },
+    {
+      "actor": "나탈리아 테나",
+      "actor_en": "Natalia Tena",
+      "character": "카티아"
+    },
+    {
+      "actor": "조지 게오기우",
+      "actor_en": "George Georgiou",
+      "character": "장로"
+    },
+    {
+      "actor": "로버트 베스",
+      "actor_en": "Robert Maaser",
+      "character": "깡패"
+    },
+    {
+      "actor": "안젤리카 휴스턴",
+      "actor_en": "Anjelica Huston",
+      "character": "디렉터"
+    },
+    {
+      "actor": "존 레구이자모",
+      "actor_en": "John Leguizamo",
+      "character": "아우렐리오"
+    }
+  ],
+  "review": [
+    "./data/review/존 윅 4/존 윅 4_8feD3p9RhjI.json",
+    "./data/review/존 윅 4/존 윅 4_9_m0KutHc_w.json",
+    "./data/review/존 윅 4/존 윅 4_C9EUTpXiWkE.json",
+    "./data/review/존 윅 4/존 윅 4_ivoiIwE4ltQ.json",
+    "./data/review/존 윅 4/존 윅 4_xxT-a4K3p7M.json"
+  ]
+}

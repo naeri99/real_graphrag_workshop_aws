@@ -1,0 +1,53 @@
+{
+  "movie_title": "굿윌헌팅",
+  "director": [
+    {
+      "name": "구스 반 산트",
+      "name_en": "Gus Van Sant"
+    }
+  ],
+  "cast": [
+    {
+      "actor": "맷 데이먼",
+      "actor_en": "Matt Damon",
+      "character": "윌 헌팅"
+    },
+    {
+      "actor": "로빈 윌리엄스",
+      "actor_en": "Robin Williams",
+      "character": "숀 맥과이어"
+    },
+    {
+      "actor": "벤 애플렉",
+      "actor_en": "Ben Affleck",
+      "character": "처키 설리번"
+    },
+    {
+      "actor": "스텔란 스카스가드",
+      "actor_en": "Stellan Skarsgård",
+      "character": "제랄드 램보"
+    },
+    {
+      "actor": "미니 드라이버",
+      "actor_en": "Minnie Driver",
+      "character": "Skylar"
+    },
+    {
+      "actor": "케이시 애플렉",
+      "actor_en": "Casey Affleck",
+      "character": "모건"
+    },
+    {
+      "actor": "콜 하우저",
+      "actor_en": "Cole Hauser",
+      "character": "빌리"
+    }
+  ],
+  "review": [
+    "./data/review/굿윌헌팅/굿윌헌팅_7TKbQU0S07Q.json",
+    "./data/review/굿윌헌팅/굿윌헌팅_83nnGLXf-cY.json",
+    "./data/review/굿윌헌팅/굿윌헌팅_A-0vmlDT9Bg.json",
+    "./data/review/굿윌헌팅/굿윌헌팅_OrFzLkis80M.json",
+    "./data/review/굿윌헌팅/굿윌헌팅_dUNiBVvi610.json"
+  ]
+}

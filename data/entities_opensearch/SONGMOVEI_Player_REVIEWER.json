@@ -1,0 +1,13 @@
+{
+  "entity": {
+    "name": "SONGMOVEI_Player",
+    "synonym": [
+      "SONGMOVEI_Player",
+      "SONGMOVEI Player"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "SONGMOVEI_Player은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "볼프강 페터젠",
+    "synonym": [
+      "Wolfgang Petersen",
+      "Wolfgang Peterson",
+      "볼프강",
+      "볼프강 페터젠",
+      "볼프강 페테르젠",
+      "볼프강 피터슨",
+      "볼프강페터젠",
+      "페터젠",
+      "페테르젠",
+      "피터슨"
+    ],
+    "entity_type": "MOVIE_STAFF",
+    "summary": "볼프강 페터젠은 영화 감독입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

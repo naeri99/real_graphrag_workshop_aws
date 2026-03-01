@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "오브리 포프",
+    "synonym": [
+      "Aubrey",
+      "Aubrey Pope",
+      "동생 오브리",
+      "어브리",
+      "어브리 포프",
+      "여동생 오브리",
+      "오브레이 포프",
+      "오브리",
+      "오브리 포프",
+      "오브리포프",
+      "포프"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "오브리 포프은 영화 '브릭스비 베어'의 등장인물로, 라이언 심킨스이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

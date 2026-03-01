@@ -1,0 +1,89 @@
+{
+  "chunk_hash": "75b919a1e1c58d",
+  "chunk_id": "사건탐구_과거탐구_STGT_75b919a1e1c58d_0b059cb5",
+  "user_query": "살면서 한 번만 당해도 평생의 끔찍한 기억이 될 수 있는 납치를 연달아 두 번이나 당한 불운한 사람이 있습니다 바로 부산의 수산업체 사장이자 대부호의 막내딸이었던 정효주 양인데요 처음 그녀가 유괴당했던 것은 1978년이었는데 그 사건을 수사하는 과정에서 그녀의 얼굴과 이름 그리고 그녀가 부잣집 딸이라는 사실이 알려지면서 1차 사건의 범인을 따라 그녀를 또다시 유괴한 모방범죄가 그 다음에 또 다시 일어나는 비극이 있었죠 1978년 9월 15일 부산의 한 초등학교를 다니고 있던 정효주는 집으로 돌아가던 도중 어느 40대 남성을 만나게 됩니다 그의 이름은 매석환 전과 구범이었던 그는 젊은 시절 4.19 혁명의 발포 주동자였던 곽영주의 아들을 유괴해서 자기 집에 파놓은 땅굴에 가둬놨다가 경찰에 붙잡힌 적이 있었고 위조 지폐를 만들기도 했던 악질 범죄자였죠 매석환은 정효주에게 자신의 차로 그녀를 집까지 데려다주겠다며 꼬드겼고 어린 정효주는 별다른 의심 없이 그의 차에 타게 됩니다 하지만 매석환의 차는 그녀의 집이 아닌 서울로 올라가기 시작했고 정효주는 처음 보는 아저씨가 자신의 집이 아닌 낯선 곳으로 차를 몰고 가자 울음을 터뜨렸죠 이에 매석환은 자신이 네 아버지의 친구이며 아버지가 5천만원을 빚져서 부산세관에 잡혀갔는데 내게 대신 너를 돌봐달라 부탁하고 가셨다며 정효주를 설득했죠 이후 그는 정효주를 데리고 서울과 부산을 왔다갔다 하며 그녀의 부모에게 협박 전화를 걸었고 정효주에게는 돈을 부쳐달라는 내용의 편지를 쓰게 시킨 후 그 편지를 집으로 보내기도 했습니다 범인은 당시 서울에 살고 있던 정효주의 이모와 협상을 하고 싶다는 뜻을 밝힌 후 유괴 33일째 되던 날 부산에서 전화를 걸 만한 공중전화를 찾다가 부산시경찰청 소속 공길용 경사에게 체포되며 사건이 마무리되었죠 매석환을 체포한 후 그가 몰고 온 차를 조사해봤지만 그곳에는 정효주가 없었기 때문에 공길용 경사는 불안한 마음에 매석환을 취조하기 시작했는데 다행히도 매석환은 정효주가 만화방에서 만화책을 보고 있을 것이라며 순순히 자백했습니다 급히 달려간 경찰은 정말로 만화방에 얌전히 앉아 있는 정효주를 찾아냈는데 황당한 사실은 그때까지도 정효주는 정말로 매석환이 아버지의 친구라 믿고 있었으며 그를 체포한 경찰들에게 자신에게 맛있는 거 많이 사주고 예쁜 옷도 사 준 착한 아저씨를 대체 왜 잡아가냐며 화를 내기까지 해서 경찰들이 당황했다고 하죠 매석환은 부산에서 자신의 차를 이용해 불법 택시운전을 하고 있었는데 어느 날 한 손님이 정효주가 다니는 남성초등학교에는 부잣집 자식들이 많이 있다는 말을 한 것을 듣고 곧바로 그 동네로 달려가 범죄를 저지른 것이라 자백했습니다 그는 정효주에게 옷을 무려 네 벌이나 사주고 불고기 등 맛있는 음식까지 사주는 등 그녀에게 무척이나 잘 대해줬기 때문에 정효주는 정말 매석환이 아버지의 친구라 믿었다고 하네요 그 당시는 지금과 달리 범죄 수사기법이 부족한 시절이었던 데다 아이의 안전 때문에 사건을 비공개 수사로 진행했기 때문에 수사에 많은 어려움을 겪었죠 때문에 정효주의",
+  "movie_id": "극비수사",
+  "reviewer": "사건탐구_과거탐구_STGT",
+  "chunk_index": 1,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "매석환",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "매석환은 전과 9범의 40대 남성으로, 1978년 정효주를 유괴한 범인이다. 과거 곽영주의 아들을 유괴해 땅굴에 가둔 적이 있고 위조지폐를 만들기도 한 악질 범죄자였다. 부산에서 불법 택시운전을 하다가 정효주를 납치했으며, 피해자에게 옷과 음식을 사주며 아버지 친구인 척 속였다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "공길용",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "공길용은 부산시경찰청 소속 경사로, 유괴 33일째 되던 날 공중전화 근처에서 매석환을 체포하여 정효주 유괴 사건을 해결한 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "곽영주",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "곽영주는 4.19 혁명의 발포 주동자로, 그의 아들이 과거 매석환에게 유괴되어 땅굴에 감금된 적이 있다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "매석환",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "정효주",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "매석환은 정효주를 유괴하여 33일간 억류한 납치범이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "공길용",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "매석환",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "공길용 경사가 매석환을 체포하여 정효주 유괴 사건을 해결했다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "공길용",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "정효주",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "공길용 경사가 매석환을 체포한 후 만화방에서 정효주를 구출했다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "매석환",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "곽영주",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "매석환은 과거 곽영주의 아들을 유괴하여 땅굴에 가둔 적이 있다",
+      "relationship_strength": 7
+    }
+  ],
+  "entity_resolution": {
+    "매석환": {
+      "description": "매석환 -> 매석환",
+      "resolved_name": "매석환",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "공길용": {
+      "description": "공길용 -> 공길용",
+      "resolved_name": "공길용",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "곽영주": {
+      "description": "곽영주 -> 곽영주",
+      "resolved_name": "곽영주",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

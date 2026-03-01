@@ -1,0 +1,80 @@
+{
+  "chunk_hash": "3299fe2c270614",
+  "chunk_id": "위니버스_3299fe2c270614_9a42aa8e",
+  "user_query": "a black hole is created. A Black hole made like this leaves only two very simple elements of mass and spin. So, if you know the mass and spin of the black hole, you can derive all the properties with the theory of relativity. Scholars describe the simplicity of these black holes as \"A black hole has no hair.\" But the massive gravity of the black hole creates two concepts that deviate significantly from our general understanding. It is an event horizon and a singularity that is constantly mentioned in movies. Because the spacetime around the black hole is extremely distorted, nothing can escape from the black hole at the boundary of a particular site. It just gets sucked inside. This is the event horizon. This attracting force is also due to the curvature of the spacetime of the black hole. The inside of the event horizon is only one point aligned from the curve of time, so even light cannot escape. If an outside observer sees a person's clock approaching the event horizon of a black hole, the clock is going slower and slower, and when it reaches the event horizon, the person's clock stops. That's why Romilly, who says he could be safe if he passes the event horizon quickly, is asking Cooper very unreasonably. Romilly's suggestion is to get information about the singularity of a black hole. He thinks the singularity is very important, citing the analogy that if a black hole is a shell, the singularity is a pearl. The singularity in physics is a very small area where the",
+  "movie_id": "인터스텔라",
+  "reviewer": "위니버스",
+  "chunk_index": 4,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "ROMILLY",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Romilly는 블랙홀의 사건의 지평선을 빠르게 통과하면 안전할 수 있다고 말하며, 블랙홀의 특이점에 대한 정보를 얻으려는 인물이다. 블랙홀이 조개껍데기라면 특이점은 진주라는 비유를 사용한다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "COOPER",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Cooper는 Romilly로부터 블랙홀의 사건의 지평선을 빠르게 통과하라는 매우 무리한 요청을 받는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "INTERSTELLAR",
+      "entity_type": "MOVIE",
+      "entity_description": "인터스텔라는 블랙홀, 사건의 지평선, 특이점 등 물리학적 개념이 중요하게 다뤄지는 영화이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "ROMILLY",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "COOPER",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Romilly는 Cooper에게 블랙홀의 사건의 지평선을 빠르게 통과하라는 무리한 요청을 한다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "ROMILLY",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "INTERSTELLAR",
+      "target_type": "MOVIE",
+      "relationship_description": "Romilly는 인터스텔라에 등장하는 캐릭터이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "COOPER",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "INTERSTELLAR",
+      "target_type": "MOVIE",
+      "relationship_description": "Cooper는 인터스텔라에 등장하는 캐릭터이다",
+      "relationship_strength": 10
+    }
+  ],
+  "entity_resolution": {
+    "ROMILLY": {
+      "description": "ROMILLY -> ROMILLY",
+      "resolved_name": "ROMILLY",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "COOPER": {
+      "description": "COOPER -> COOPER",
+      "resolved_name": "COOPER",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "INTERSTELLAR": {
+      "description": "INTERSTELLAR -> INTERSTELLAR",
+      "resolved_name": "INTERSTELLAR",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

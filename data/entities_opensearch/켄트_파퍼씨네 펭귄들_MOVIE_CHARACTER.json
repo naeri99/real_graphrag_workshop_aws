@@ -1,0 +1,15 @@
+{
+  "entity": {
+    "name": "켄트",
+    "synonym": [
+      "Kent",
+      "켄트",
+      "켄트 씨",
+      "켄트씨"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "켄트은 영화 '파퍼씨네 펭귄들'의 등장인물로, 데이비드 크럼홀츠이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

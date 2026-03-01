@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "수잔네 슈마허",
+    "synonym": [
+      "Susanne Schumacher",
+      "수산네 슈마허",
+      "수잔",
+      "수잔 슈마허",
+      "수잔네",
+      "수잔네 슈마허",
+      "수잔네슈마허",
+      "슈마허",
+      "주잔네 슈마허"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "수잔네 슈마허은 영화 '뱅크어택'의 등장인물로, 클라우디아 미켈센이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

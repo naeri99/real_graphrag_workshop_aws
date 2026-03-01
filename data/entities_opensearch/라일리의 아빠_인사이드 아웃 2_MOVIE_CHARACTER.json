@@ -1,0 +1,25 @@
+{
+  "entity": {
+    "name": "라일리의 아빠",
+    "synonym": [
+      "Dad",
+      "Dad Andersen",
+      "Dad Anderson",
+      "Mr. Anderson",
+      "Riley's Dad",
+      "라일리 아버지",
+      "라일리 아빠",
+      "라일리아빠",
+      "라일리의 아빠",
+      "라일리의아빠",
+      "빌 앤더슨",
+      "아빠",
+      "아빠 캐릭터",
+      "앤더슨 씨"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "라일리의 아빠은 영화 '인사이드 아웃 2'의 등장인물로, 카일 맥라클란이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

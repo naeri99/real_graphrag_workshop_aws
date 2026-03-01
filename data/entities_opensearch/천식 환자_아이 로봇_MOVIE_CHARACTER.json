@@ -1,0 +1,18 @@
+{
+  "entity": {
+    "name": "천식 환자",
+    "synonym": [
+      "Asthmatic",
+      "천식 걸린 사람",
+      "천식 앓는 사람",
+      "천식 캐릭터",
+      "천식 환자",
+      "천식병 환자",
+      "천식환자"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "천식 환자은 영화 '아이 로봇'의 등장인물로, 샤론 윌킨스이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

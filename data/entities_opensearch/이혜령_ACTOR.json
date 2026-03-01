@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "이혜령",
+    "synonym": [
+      "Hye-ryung Lee",
+      "Lee Hye-ryung",
+      "Lee Hyeryeong",
+      "배우 이혜령",
+      "이 혜령",
+      "이혜령",
+      "이혜령 배우",
+      "혜령"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "이혜령은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

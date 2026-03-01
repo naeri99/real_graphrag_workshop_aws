@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "이든 호크",
+    "synonym": [
+      "Ethan Hawke",
+      "에단 호크",
+      "에단호크",
+      "이단 호크",
+      "이든 호크",
+      "이든호크",
+      "이선 호크",
+      "호크"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "이든 호크은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "entity": {
+    "name": "클라우디아 미켈센",
+    "synonym": [
+      "Claudia Michelsen",
+      "Claudia Schiffer",
+      "미켈센",
+      "슈퍼",
+      "클라우디아",
+      "클라우디아 미첼센",
+      "클라우디아 미첼슨",
+      "클라우디아 미켈센",
+      "클라우디아 미켈슨",
+      "클라우디아 미헬센",
+      "클라우디아 쉬퍼",
+      "클라우디아미켈센",
+      "클라우디아쉬퍼",
+      "클라우디아슈퍼"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "클라우디아 미켈센은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "entity": {
+    "name": "크리스토퍼 놀란",
+    "synonym": [
+      "Chris Nolan",
+      "Christopher Edward Nolan",
+      "Christopher Nolan",
+      "Nolan",
+      "놀란",
+      "놀란 감독",
+      "놀런",
+      "크리스 놀란",
+      "크리스놀란",
+      "크리스토퍼",
+      "크리스토퍼 노란",
+      "크리스토퍼 놀란",
+      "크리스토퍼 놀런",
+      "크리스토퍼놀란"
+    ],
+    "entity_type": "MOVIE_STAFF",
+    "summary": "크리스토퍼 놀란은 영화 감독입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

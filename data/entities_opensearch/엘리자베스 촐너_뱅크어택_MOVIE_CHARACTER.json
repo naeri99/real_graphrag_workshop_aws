@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "엘리자베스 촐너",
+    "synonym": [
+      "Elizabeth Zollner",
+      "엘리자베스",
+      "엘리자베스 촐너",
+      "엘리자베스촐너",
+      "엘리자베트 촐너",
+      "졸너",
+      "졸너 박사",
+      "촐너"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "엘리자베스 촐너은 영화 '뱅크어택'의 등장인물로, 안트예 트라우에이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

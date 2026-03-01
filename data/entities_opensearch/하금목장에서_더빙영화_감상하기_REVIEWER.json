@@ -1,0 +1,13 @@
+{
+  "entity": {
+    "name": "하금목장에서_더빙영화_감상하기",
+    "synonym": [
+      "하금목장에서_더빙영화_감상하기",
+      "하금목장에서 더빙영화 감상하기"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "하금목장에서_더빙영화_감상하기은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

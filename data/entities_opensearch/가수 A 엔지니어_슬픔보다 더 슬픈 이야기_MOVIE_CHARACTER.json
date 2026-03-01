@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "가수 A 엔지니어",
+    "synonym": [
+      "A 엔지니어",
+      "A엔지니어",
+      "가수 A 엔지니어",
+      "가수 에이 엔지니어",
+      "가수A 엔지니어",
+      "가수A엔지니어",
+      "엔지니어",
+      "엔지니어A"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "가수 A 엔지니어은 영화 '슬픔보다 더 슬픈 이야기'의 등장인물로, 지대한이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

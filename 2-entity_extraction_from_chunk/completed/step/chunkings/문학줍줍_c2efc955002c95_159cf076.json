@@ -1,0 +1,195 @@
+{
+  "chunk_hash": "c2efc955002c95",
+  "chunk_id": "문학줍줍_c2efc955002c95_159cf076",
+  "user_query": "진학을 위해 학생들에게 지금을 희생하여 미래를 얻으라는 식의 교육을 하고 있었습니다 지금은 학교에서 부여하고 있는 획일적인 교육과 규칙적인 생활을 받아들이고 나서 나중에 대학에 진학한 후에 원하는 것을 찾으라 는 식입니다 그러나 키팅 은 나중이 아니라 바로 지금 자신이 하고 싶은 것 자신의 정체성을 찾으라고 이야기하는 겁니다 여러분은 여러분들 내면의 고유한 목소리를 찾아야 한다 만약 여러분이 망설인다면 그 효과는 점점 더 작아질 수밖에 없다 이 가르침을 가장 잘 파악한 학생은 닐 페리 라고 할 수 있는데 그는 자기가 진정 하고 싶은 것 연극을 찾아 냈죠 결국 이 소설이 말하는 오늘을 즐겨라 라는 것은 단순히 지금 이 순간을 즐겁게 보내라 는 뜻이 아니라 나를 찾는 것을 미래로 미루지 말고 오늘 하고 오늘의 내가 무엇을 하고 싶은지 무엇을 해야 하는지를 생각하라는 의미일 겁니다 다음으로 마지막 장면의 의미에 대해서 생각해 보려고 합니다 이 소설의 마지막 장면은 교장이 하는 국어 수업 도중 키팅 선생이 교실에서 자기 짐을 챙겨 떠나는 장면이죠 학생들은 키팅 선생을 보내면서 하나둘씩 자기 책상 위로 올라가 키팅 선생에게 작별 인사를 하는데 원작 영화에서도 명장면으로 꼽히는 장면입니다 그런데 학생들이 왜 키팅 선생을 떠나 보내면서 책상 위로 올라갔는지 그들의 행동의 의미에 대해서 생각해 볼 필요가 있을 것 같습니다 이를 위해서는 먼저 책상이 어떤 장치 인지를 알아봐야 하는데 제가 생각하게 책상은 웰튼 고등학교 학생들의 현실을 의미합니다 명문 고등학교의 학생 으로서 가족과 학교의 기대 혹은 자기 자신의 목표에 따라 정해진 공부를 할 수 밖에 없는 그들의 현실을 상징하는 것이죠 그러므로 책상 위에 올라가 두 발을 딛고 섰다는 것은 자신들은 지금의 현실에 매몰되어 살지 않고 키팅 의 가르침대로 그 이상의 것을 추구하며 살겠다는 상징적인 행동 인 셈입니다 반대로 책상 앞에 앉아 있는 것은 결국 현실에 매몰되어 사는 것을 의미하는 것으로 보이는데 죽은 시인의 사회 의 멤버 였으면서도 그의 친구들을 배신한 Cameron이 끝내 책상 앞에 앉아 작품이 마무리되는 것이 이를 증명하죠 키팅 은 학생들이 책상에 올라가서 자신을 떠나 보내는 모습을 보며 자신의 가르침이 헛되지 않았음을 확인 했을 겁니다 이 마지막 장면은 많은 것을 생각하게 만드는데 지금의 나는 책상 앞에 앉아 있는 사람인가 아니면 책상 위에 서 있는 사람인가 에 대해서 돌이켜 보게 합니다 마지막으로 Knox Overstreet의 행동을 평가해 보도록 하겠습니다 Knox 는 아버지의 친구인 캠벨 씨의 집에서 그의 아들 체트의 여친인 크리스 를 보고 한눈에 반해 그녀를 잊지 못합니다 Knox는 자신의 마음을 전하고 싶어 고민하고 그는 결국 크리스의 마음을 얻어내는 데 성공하는 모습을 보여주고 있죠 그런데 이 과정에서 Knox 가 저지른 행동들은 절대로 바람직한 것이 아니며 도리어 크게 잘못된 행동이라는 점을 지적하지 않을 수 없습니다 먼저 체트네 집에서 열린 광란의 파티 에서 Knox가 보여준",
+  "movie_id": "죽은 시인의 사회",
+  "reviewer": "문학줍줍",
+  "chunk_index": 4,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "키팅",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "키팅은 학생들에게 현재를 살고 자신의 정체성을 찾으라고 가르치는 선생님 캐릭터이다. 학생들에게 내면의 고유한 목소리를 찾으라고 조언하며, 마지막에 학교를 떠나게 된다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "닐 페리",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "닐 페리는 키팅의 가르침을 가장 잘 이해한 학생으로, 자신이 진정 하고 싶은 것인 연극을 찾아낸 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "CAMERON",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Cameron은 죽은 시인의 사회 멤버였으나 친구들을 배신한 학생으로, 마지막 장면에서 책상 앞에 앉아 있는 모습으로 현실에 매몰된 삶을 상징한다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "KNOX OVERSTREET",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Knox Overstreet는 캠벨 씨의 아들 체트의 여자친구인 크리스를 보고 한눈에 반해 그녀의 마음을 얻으려 노력하는 학생 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "크리스",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "크리스는 체트의 여자친구로, Knox가 한눈에 반한 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "체트",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "체트는 캠벨 씨의 아들이며 크리스의 남자친구이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "죽은 시인의 사회",
+      "entity_type": "MOVIE",
+      "entity_description": "죽은 시인의 사회는 웰튼 고등학교를 배경으로 키팅 선생과 학생들의 이야기를 다룬 영화로, '오늘을 즐겨라(카르페 디엠)'라는 메시지를 전달한다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "키팅",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "죽은 시인의 사회",
+      "target_type": "MOVIE",
+      "relationship_description": "키팅은 죽은 시인의 사회의 주요 인물로 학생들을 가르치는 선생님이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "닐 페리",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "죽은 시인의 사회",
+      "target_type": "MOVIE",
+      "relationship_description": "닐 페리는 죽은 시인의 사회에 등장하는 학생 캐릭터이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "닐 페리",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "키팅",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "닐 페리는 키팅의 가르침을 가장 잘 이해하고 실천한 학생이다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "CAMERON",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "죽은 시인의 사회",
+      "target_type": "MOVIE",
+      "relationship_description": "Cameron은 죽은 시인의 사회에 등장하는 학생 캐릭터이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "CAMERON",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "키팅",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Cameron은 키팅의 제자였으나 친구들을 배신하고 현실에 매몰된 삶을 선택했다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "KNOX OVERSTREET",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "죽은 시인의 사회",
+      "target_type": "MOVIE",
+      "relationship_description": "Knox Overstreet는 죽은 시인의 사회에 등장하는 학생 캐릭터이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "KNOX OVERSTREET",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "크리스",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Knox는 크리스를 보고 한눈에 반해 그녀의 마음을 얻으려 노력한다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "크리스",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "체트",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "크리스는 체트의 여자친구이다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "크리스",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "죽은 시인의 사회",
+      "target_type": "MOVIE",
+      "relationship_description": "크리스는 죽은 시인의 사회에 등장하는 인물이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "체트",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "죽은 시인의 사회",
+      "target_type": "MOVIE",
+      "relationship_description": "체트는 죽은 시인의 사회에 등장하는 인물이다",
+      "relationship_strength": 10
+    }
+  ],
+  "entity_resolution": {
+    "키팅": {
+      "description": "키팅 -> 존 키팅",
+      "resolved_name": "존 키팅",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "닐 페리": {
+      "description": "닐 페리 -> 닐 페리",
+      "resolved_name": "닐 페리",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "CAMERON": {
+      "description": "CAMERON -> CAMERON",
+      "resolved_name": "CAMERON",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "KNOX OVERSTREET": {
+      "description": "KNOX OVERSTREET -> KNOX OVERSTREET",
+      "resolved_name": "KNOX OVERSTREET",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "크리스": {
+      "description": "크리스 -> 크리스",
+      "resolved_name": "크리스",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "체트": {
+      "description": "체트 -> 체트",
+      "resolved_name": "체트",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "죽은 시인의 사회": {
+      "description": "죽은 시인의 사회 -> 죽은 시인의 사회",
+      "resolved_name": "죽은 시인의 사회",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "name_exact"
+    }
+  }
+}

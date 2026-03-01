@@ -1,0 +1,119 @@
+{
+  "chunk_hash": "09dda3fdae4d3d",
+  "chunk_id": "무드킹_09dda3fdae4d3d_ffd90853",
+  "user_query": "영화에서 회계사 듀크 역할을 맡은 배우 찰스 그로딘은 영화 베토벤 시리즈의 뛰어난 코미디 연기로 잘 알려져 있는 배우로 안타깝게도 2021년 고인이 되었습니다 그렇게 속이며 티격태격하던 두 남자가 어느새 쌓인 우정으로 친구가 되는 훈훈한 결말과 팀 버튼 감독의 거의 모든 작품의 음악을 담당한 것으로 유명한 대니 엘프만의 신나는 영화 음악이 보는 내내 기분 좋게 하는 작품으로 본편을 꼭 감상하시길 강력히 추천합니다 구독과 좋아요 부탁드립니다 믿고 보는 무비 킹의 추천 영화 앞으로도 계속됩니다 [음악]",
+  "movie_id": "미드나잇 런",
+  "reviewer": "무드킹",
+  "chunk_index": 4,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "듀크",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "듀크는 영화에서 회계사 역할을 하는 등장인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "찰스 그로딘",
+      "entity_type": "ACTOR",
+      "entity_description": "찰스 그로딘은 듀크 역할을 맡은 배우로, 영화 베토벤 시리즈의 뛰어난 코미디 연기로 잘 알려져 있으며 2021년 고인이 되었다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "베토벤 시리즈",
+      "entity_type": "MOVIE",
+      "entity_description": "베토벤 시리즈는 찰스 그로딘이 코미디 연기를 선보인 영화 시리즈이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "팀 버튼",
+      "entity_type": "MOVIE_STAFF",
+      "entity_description": "팀 버튼은 영화 감독으로, 대니 엘프만과 자주 협업하는 것으로 유명하다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "대니 엘프만",
+      "entity_type": "MOVIE_STAFF",
+      "entity_description": "대니 엘프만은 팀 버튼 감독의 거의 모든 작품의 음악을 담당한 것으로 유명한 작곡가이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "무비 킹",
+      "entity_type": "REVIEWER",
+      "entity_description": "무비 킹은 영화를 추천하는 유튜버 또는 리뷰어이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "찰스 그로딘",
+      "source_type": "ACTOR",
+      "target_entity": "듀크",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "찰스 그로딘은 듀크 역할을 연기했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "찰스 그로딘",
+      "source_type": "ACTOR",
+      "target_entity": "베토벤 시리즈",
+      "target_type": "MOVIE",
+      "relationship_description": "찰스 그로딘은 베토벤 시리즈에서 뛰어난 코미디 연기를 선보였다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "대니 엘프만",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "팀 버튼",
+      "target_type": "MOVIE_STAFF",
+      "relationship_description": "대니 엘프만은 팀 버튼 감독의 거의 모든 작품의 음악을 담당했다",
+      "relationship_strength": 10
+    }
+  ],
+  "entity_resolution": {
+    "듀크": {
+      "description": "듀크 -> 조나단 마듀카스",
+      "resolved_name": "조나단 마듀카스",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "찰스 그로딘": {
+      "description": "찰스 그로딘 -> 찰스 그로딘",
+      "resolved_name": "찰스 그로딘",
+      "entity_type": "ACTOR",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "베토벤 시리즈": {
+      "description": "베토벤 시리즈 -> 베토벤 시리즈",
+      "resolved_name": "베토벤 시리즈",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "팀 버튼": {
+      "description": "팀 버튼 -> 팀 버튼",
+      "resolved_name": "팀 버튼",
+      "entity_type": "MOVIE_STAFF",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "대니 엘프만": {
+      "description": "대니 엘프만 -> 대니 엘프만",
+      "resolved_name": "대니 엘프만",
+      "entity_type": "MOVIE_STAFF",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "무비 킹": {
+      "description": "무비 킹 -> 무비 킹",
+      "resolved_name": "무비 킹",
+      "entity_type": "REVIEWER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

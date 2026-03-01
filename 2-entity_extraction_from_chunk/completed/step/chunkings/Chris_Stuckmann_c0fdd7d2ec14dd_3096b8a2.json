@@ -1,0 +1,181 @@
+{
+  "chunk_hash": "c0fdd7d2ec14dd",
+  "chunk_id": "Chris_Stuckmann_c0fdd7d2ec14dd_3096b8a2",
+  "user_query": "foreign [Music] John Wick Chapter 4는 다시 한번 채드 스타헬스키가 감독했고 키아누 리브스가 당신을 수많은 다양한 방법으로 죽일 수 있는 인물로 출연합니다. 여기서 그는 최고 회의를 무너뜨릴 방법을 찾아내지만, 자유를 얻기 전에 존 윅은 전 세계에 강력한 동맹을 가진 새로운 적과 맞서야 하고, 오랜 친구들을 적으로 만드는 세력과 대결해야 합니다. 저는 처음 John Wick을 봤을 때를 절대 잊지 못할 겁니다. 제 친구들은 모두 다른 영화를 보러 가고 있었어요. 그 영화가 뭐였는지는 기억이 안 나네요. 동시에 두 개의 상영이 있었고 저는 John Wick을 보러 갈 거라고 했죠. 그랬더니 친구들은 2007년에 DVD로 빌릴 것 같은 키아누 리브스 영화 말이냐고 했어요. 저는 그래 그거라고 했죠. 누가 옳았을까요? 저였습니다. 그 이후로 이 시리즈는 계속해서 자신을 뛰어넘으려고 노력해왔고, 비록 저는 이전 세 편 모두 즐겼지만 첫 번째 편이 항상 제가 가장 좋아하는 작품이었습니다. 단지 그것이 너무 놀라웠고 액션 영화로서 매우 혁명적으로 느껴졌기 때문만이 아니라, 스토리가 다른 것들보다 조금 더 깊이 있게 느껴졌기 때문입니다. 하지만 2편과 3편의 멋진 점은 이 세계관의 전승을 너무나 잘 확장했고 이 완전히 새로운 세계를 열어젖혔다는 것입니다. John Wick Chapter 4는 2시간 49분입니다. 네 편의 영화 중 단연코 가장 긴 편이죠. 첫 번째 편은 제 기억에 단지 101분이었고, 그 이후 각 편은 조금씩 더 길어졌지만 이번 편은 거대합니다. 정말 엄청나죠. 저는 최근 영화의 길이에 대한 많은 논쟁을 봤습니다. 영화가 더 짧아야 하는지 더 길어야 하는지에 대한 것이죠. 영화는 있어야 할 만큼의 길이를 가져야 한다는 것이 제 견해입니다. 만약 스토리가 Return of the King처럼 3시간 반에 걸쳐 펼쳐지고 그것이 적절하게 느껴진다면 좋은 것이고, 만약 스토리가 Wes Craven의 Red Eye처럼 85분에 걸쳐 펼쳐진다면 좋은 것입니다. 그것이 그 영화가 가져야 할 길이였던 것이죠. John Wick Chapter 4는 이 길이여야 합니다. 이 영화는 정말 크게 느껴집니다. 스케일이 미친 듯합니다. 영화는 오사카에서 파리, 뉴욕으로 전 세계를 횡단합니다. 마치 방대한 James Bond 영화 같은 느낌이지만 훨씬 더 많은 초폭력이 있습니다. John Wick 4는 단연코 속편들 중 제가 가장 좋아하는 작품입니다. 저는 이 영화가 정말 놀랍다고 생각합니다. 전체를 사랑했어요. 첫 번째 편만큼 좋아하는지는 모르겠지만, 몇 번 더 다시 봐야 알 것 같습니다. 확실한 것은 이것이 가장 멋지게 보이는 John Wick 영화라는 것입니다. 채드 스타헬스키는 영화 제작자로서 정말 자기만의 영역을 개척했습니다. 이 영화를 위해 만들어진 로케이션뿐만 아니라 세트들도 화려합니다. 이것은 정말 아름다운 영화입니다. 학살은 세트 디자인과 프로덕션 디자인에 의해 균형을 이룹니다. 키아누 리브스가 수백 명의 사람들을",
+  "movie_id": "존 윅 4",
+  "reviewer": "Chris_Stuckmann",
+  "chunk_index": 1,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "JOHN WICK CHAPTER 4",
+      "entity_type": "MOVIE",
+      "entity_description": "John Wick Chapter 4는 2시간 49분 길이의 액션 영화로, 시리즈 중 가장 긴 편이며 오사카, 파리, 뉴욕 등 전 세계를 배경으로 한다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "채드 스타헬스키",
+      "entity_type": "MOVIE_STAFF",
+      "entity_description": "채드 스타헬스키는 John Wick Chapter 4의 감독으로, 영화 제작자로서 자기만의 영역을 개척했다는 평가를 받는다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "키아누 리브스",
+      "entity_type": "ACTOR",
+      "entity_description": "키아누 리브스는 John Wick 시리즈에서 주인공 존 윅 역을 맡은 배우이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "존 윅",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "존 윅은 최고 회의를 무너뜨리려 하며, 자유를 얻기 위해 전 세계에 강력한 동맹을 가진 새로운 적과 맞서고 오랜 친구들을 적으로 만드는 세력과 대결하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "JOHN WICK",
+      "entity_type": "MOVIE",
+      "entity_description": "John Wick은 시리즈의 첫 번째 편으로 101분 길이이며, 액션 영화로서 매우 혁명적이었다는 평가를 받는다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "RETURN OF THE KING",
+      "entity_type": "MOVIE",
+      "entity_description": "Return of the King은 3시간 반 길이의 영화로 언급된다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "RED EYE",
+      "entity_type": "MOVIE",
+      "entity_description": "Red Eye는 웨스 크레이븐 감독의 85분 길이 영화이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "웨스 크레이븐",
+      "entity_type": "MOVIE_STAFF",
+      "entity_description": "웨스 크레이븐은 Red Eye의 감독이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "채드 스타헬스키",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "JOHN WICK CHAPTER 4",
+      "target_type": "MOVIE",
+      "relationship_description": "채드 스타헬스키는 John Wick Chapter 4를 감독했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "키아누 리브스",
+      "source_type": "ACTOR",
+      "target_entity": "존 윅",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "키아누 리브스는 존 윅 역을 연기했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "존 윅",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "JOHN WICK CHAPTER 4",
+      "target_type": "MOVIE",
+      "relationship_description": "존 윅은 John Wick Chapter 4의 주인공이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "키아누 리브스",
+      "source_type": "ACTOR",
+      "target_entity": "JOHN WICK CHAPTER 4",
+      "target_type": "MOVIE",
+      "relationship_description": "키아누 리브스는 John Wick Chapter 4에 출연했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "키아누 리브스",
+      "source_type": "ACTOR",
+      "target_entity": "JOHN WICK",
+      "target_type": "MOVIE",
+      "relationship_description": "키아누 리브스는 John Wick 시리즈에 출연했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "JOHN WICK CHAPTER 4",
+      "source_type": "MOVIE",
+      "target_entity": "JOHN WICK",
+      "target_type": "MOVIE",
+      "relationship_description": "John Wick Chapter 4는 John Wick 시리즈의 네 번째 편이다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "웨스 크레이븐",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "RED EYE",
+      "target_type": "MOVIE",
+      "relationship_description": "웨스 크레이븐은 Red Eye를 감독했다",
+      "relationship_strength": 10
+    }
+  ],
+  "entity_resolution": {
+    "JOHN WICK CHAPTER 4": {
+      "description": "JOHN WICK CHAPTER 4 -> JOHN WICK CHAPTER 4",
+      "resolved_name": "JOHN WICK CHAPTER 4",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "채드 스타헬스키": {
+      "description": "채드 스타헬스키 -> 채드 스타헬스키",
+      "resolved_name": "채드 스타헬스키",
+      "entity_type": "MOVIE_STAFF",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "키아누 리브스": {
+      "description": "키아누 리브스 -> 키아누 리브스",
+      "resolved_name": "키아누 리브스",
+      "entity_type": "ACTOR",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "존 윅": {
+      "description": "존 윅 -> 존 윅",
+      "resolved_name": "존 윅",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "JOHN WICK": {
+      "description": "JOHN WICK -> JOHN WICK",
+      "resolved_name": "JOHN WICK",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "RETURN OF THE KING": {
+      "description": "RETURN OF THE KING -> RETURN OF THE KING",
+      "resolved_name": "RETURN OF THE KING",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "RED EYE": {
+      "description": "RED EYE -> RED EYE",
+      "resolved_name": "RED EYE",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "웨스 크레이븐": {
+      "description": "웨스 크레이븐 -> 웨스 크레이븐",
+      "resolved_name": "웨스 크레이븐",
+      "entity_type": "MOVIE_STAFF",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

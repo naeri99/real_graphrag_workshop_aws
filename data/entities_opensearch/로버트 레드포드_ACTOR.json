@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "로버트 레드포드",
+    "synonym": [
+      "Robert Redford",
+      "레드퍼드",
+      "레드포드",
+      "로버트",
+      "로버트 레드퍼드",
+      "로버트 레드포드",
+      "로버트레드포드",
+      "밥 레드포드"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "로버트 레드포드은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "entity": {
+    "name": "Millie",
+    "synonym": [
+      "Millie",
+      "멜로디",
+      "미리",
+      "밀리",
+      "밀리 미첼슨",
+      "밀리에",
+      "밀리이"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "Millie은 영화 '덤플링'의 등장인물로, 맥디 베일리오이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

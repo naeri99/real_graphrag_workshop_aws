@@ -1,0 +1,36 @@
+{
+  "chunk_hash": "d63b0553b21f9c",
+  "chunk_id": "제가봤을때_d63b0553b21f9c_9b5c5421",
+  "user_query": "붙였습니다 그래서 사람들의 기대는 높아졌지만 제가 봤을 때는 오히려 그래서 더 많은 허점들을 만들었다고 봅니다 [음악] 인셉션 정말 정말 재밌고 너무 잘 만든 명작 영화입니다 그래서 이렇게 해석도 한번 해봤죠 하지만 결론적으로 제가 봤을 때 인셉션은 보면 볼수록 어려운 영화가 아니라 보면 볼수록 어색해지는 영화였습니다 저는 인셉션을 볼수록 정교하다라기보다는 현란하게 결말까지 잘 밀어붙였다라는 생각이 들었습니다 제 인셉션 리뷰를 끝까지 시청해주신 분들께 감사하고요 저는 다음에 또 다른 영화의 리뷰로 다시 찾아오겠습니다",
+  "movie_id": "인셉션",
+  "reviewer": "제가봤을때",
+  "chunk_index": 9,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "인셉션",
+      "entity_type": "MOVIE",
+      "entity_description": "인셉션은 명작으로 평가받는 영화로, 복잡한 구조와 해석의 여지가 있는 결말이 특징이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "인셉션",
+      "source_type": "MOVIE",
+      "target_entity": "인셉션",
+      "target_type": "MOVIE",
+      "relationship_description": "리뷰어가 인셉션을 재밌고 잘 만든 명작이라고 평가하면서도 볼수록 어색해지는 영화라고 비평했다",
+      "relationship_strength": 7
+    }
+  ],
+  "entity_resolution": {
+    "인셉션": {
+      "description": "인셉션 -> 인셉션",
+      "resolved_name": "인셉션",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "name_exact"
+    }
+  }
+}

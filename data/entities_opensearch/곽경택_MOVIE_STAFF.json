@@ -1,0 +1,23 @@
+{
+  "entity": {
+    "name": "곽경택",
+    "synonym": [
+      "Kwak Gyeongtaek",
+      "Kwak Kyung-taek",
+      "감독 곽경택",
+      "경택",
+      "곽 감독",
+      "곽 감독님",
+      "곽 경택",
+      "곽감독",
+      "곽경 택",
+      "곽경택",
+      "곽경택 감독",
+      "곽경택감독"
+    ],
+    "entity_type": "MOVIE_STAFF",
+    "summary": "곽경택은 영화 감독입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

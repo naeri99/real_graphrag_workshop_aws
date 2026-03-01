@@ -1,0 +1,27 @@
+{
+  "entity": {
+    "name": "민강훈",
+    "synonym": [
+      "Gang-hun",
+      "Kang-hoon",
+      "Min Gang-hun",
+      "Min Kang-hoon",
+      "UFC 경찰",
+      "강훈",
+      "강훈이",
+      "광훈",
+      "민 강훈",
+      "민강 훈",
+      "민강운",
+      "민강훈",
+      "민강훈 캐릭터",
+      "민강훈씨",
+      "민광훈",
+      "약쟁이"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "민강훈은 영화 '베테랑2'의 등장인물로, 안보현이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "chunk_hash": "e0ede291629a26",
+  "chunk_id": "늘보Movie_e0ede291629a26_44320330",
+  "user_query": "unconscious may even have internal bleeding. Well, it's a good thing you're a doctor. What's the inter plan? We finished attaching the tethers into one long line. It's 214 m long and I'll have the MMU. So moving around should be easy. How fast relative velocity can you handle? I can grab the MAV at 5 met per second. 10 is like jumping onto a moving train. So any more than that I might miss. Well, we may have some leeway. The launch takes 12 minutes and it'll be 52 minutes before intercept. Once Mark's engine shuts off, we know our intercept point and velocity. Vogel, your back's back up. Everything goes well. You pull them on board with a tether. 그리고 마침내 마크의 운명을 결정지을 그날이 찾아왔습니다. [음악] hasn't been very much. We have to our viewers that we're watching this as it unfolds. Try keep you up to date as to what exactly [음악] [음악] we are foright commander mission control. This is her's act we willed on schedule. 2 minutes 10 seconds to about minut how you do down there anx to get up to thanks for coming back on it you be some ser out mar hands now well tell that ass no bar roll copy that capc go command Go recovery. Go secondary recovery. Go pilot go pilot go for min 10 more about seconds. Hang on. Commander 4 741 m 1350 50. [음악] That's too low. Oh, it's fighting me. He's well below target altitude. How far below? Checking. What name? Do you read? probably passed out 12 on the [음악] a few minutes. Back to automatic guidance shutd confirmed few reserves depleted intercept velocity will",
+  "movie_id": "마션",
+  "reviewer": "늘보Movie",
+  "chunk_index": 5,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "MARK",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "마크는 구조 대상이 되는 인물로, MAV를 타고 발사되어 우주에서 구조를 기다리는 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "VOGEL",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "보겔은 구조 임무에서 백업 역할을 맡고 있으며, 테더를 이용해 마크를 끌어올리는 역할을 담당하는 크루 멤버이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "THE MARTIAN",
+      "entity_type": "MOVIE",
+      "entity_description": "마션은 화성에 고립된 우주비행사의 생존과 구조를 다룬 SF 영화로 추정된다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "COMMANDER",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "커맨더는 구조 임무를 지휘하는 우주선의 지휘관이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "MISSION CONTROL",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "미션 컨트롤은 지구에서 구조 임무를 지원하고 모니터링하는 팀이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "MARK",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "THE MARTIAN",
+      "target_type": "MOVIE",
+      "relationship_description": "마크는 마션 영화의 주인공으로 구조 대상이 되는 핵심 캐릭터이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "VOGEL",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "THE MARTIAN",
+      "target_type": "MOVIE",
+      "relationship_description": "보겔은 마션 영화에서 구조 임무에 참여하는 크루 멤버이다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "VOGEL",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "MARK",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "보겔은 테더를 이용해 마크를 구조하는 역할을 맡고 있다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "COMMANDER",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "THE MARTIAN",
+      "target_type": "MOVIE",
+      "relationship_description": "커맨더는 마션 영화에서 구조 임무를 지휘하는 인물이다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "COMMANDER",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "MARK",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "커맨더는 마크 구조 임무를 지휘한다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "MISSION CONTROL",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "MARK",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "미션 컨트롤은 마크의 구조 상황을 모니터링하고 지원한다",
+      "relationship_strength": 7
+    }
+  ],
+  "entity_resolution": {
+    "MARK": {
+      "description": "MARK -> Mark",
+      "resolved_name": "Mark",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "VOGEL": {
+      "description": "VOGEL -> VOGEL",
+      "resolved_name": "VOGEL",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "THE MARTIAN": {
+      "description": "THE MARTIAN -> THE MARTIAN",
+      "resolved_name": "THE MARTIAN",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "COMMANDER": {
+      "description": "COMMANDER -> COMMANDER",
+      "resolved_name": "COMMANDER",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "MISSION CONTROL": {
+      "description": "MISSION CONTROL -> MISSION CONTROL",
+      "resolved_name": "MISSION CONTROL",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

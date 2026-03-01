@@ -1,0 +1,115 @@
+{
+  "chunk_hash": "ce4a95e0bcc244",
+  "chunk_id": "띵만리_띵작찾아삼만리_ce4a95e0bcc244_1c3ec9ba",
+  "user_query": "arrives first and waits for her to return. \"This one's for tomorrow.\" Sang-woo returns home, then heads back out to the bus stop. Grandma walked all the way, carrying the luggage, just to save on bus fare. \"Why are you so late?\" Sang-woo takes the bags and secretly hides a Choco Pie inside. Since he broke the chamber pot, Sang-woo now has to use the outdoor toilet. \"Aren't you coming?\" \"Where are you?\" \"Stay there, okay?\" \"Don't fall asleep.\" A toilet with no light. Just darkness Grandma becomes his firefly. \"Sang-woo, Chul asked where you live and even stopped by your place.\" A neighborhood girl invites him over—he melts with giddy nerves Wanting to look good, Sang-woo checks himself in the mirror. his hair's gotten long, and he's not sure it looks cool So he asks Grandma to trim it just a little. Her hands are so gentle, his eyes slowly close… \"Is it done?\" \"What… what is this?!\" \"Who told you to cut it this much?! Ughhh!\" Grandma carefully wraps something with love Sang-woo covers his head with Grandma's cloth, getting ready for a date. \"That's so lame.\" He rides with toys in hand, heading to meet the girl. \"Gosh, don't bring useless stuff like this. It's embarrassing.\" The date must've gone well—Sang-woo returns smiling, But on the way back, he gets into an accident. Limping home: \"Mad cow!! It's a mad cow!\" He thought it was a joke… But there really was a mad cow charging at him. At the brink of danger, He's saved thanks to an older boy in the neighborhood. \"Sorry about",
+  "movie_id": "집으로...",
+  "reviewer": "띵만리_띵작찾아삼만리",
+  "chunk_index": 7,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "상우",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "상우는 할머니와 함께 시골에서 지내는 도시 소년으로, 처음에는 시골 생활에 적응하지 못하지만 점차 할머니와 정을 쌓아간다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "할머니",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "할머니는 상우를 돌보는 인물로, 버스비를 아끼려고 짐을 들고 걸어오고, 상우의 머리를 깎아주며, 야외 화장실에서 불빛이 되어주는 등 손자를 사랑으로 보살핀다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "철",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "철은 상우의 집을 찾아온 동네 아이이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "동네 소녀",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "동네 소녀는 상우를 초대하여 데이트를 하는 여자아이이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "동네 형",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "동네 형은 광우병 소에게 쫓기던 상우를 위험에서 구해준 인물이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "상우",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "할머니",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "상우는 할머니의 손자이며, 할머니의 보살핌을 받는다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "철",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "상우",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "철은 상우의 집을 찾아온 동네 친구이다",
+      "relationship_strength": 5
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "동네 소녀",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "상우",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "동네 소녀는 상우를 초대하여 데이트를 한다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "동네 형",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "상우",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "동네 형은 광우병 소에게 쫓기던 상우를 구해준다",
+      "relationship_strength": 8
+    }
+  ],
+  "entity_resolution": {
+    "상우": {
+      "description": "상우 -> 상우",
+      "resolved_name": "상우",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "할머니": {
+      "description": "할머니 -> 할머니",
+      "resolved_name": "할머니",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "철": {
+      "description": "철 -> 민철",
+      "resolved_name": "민철",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "동네 소녀": {
+      "description": "동네 소녀 -> 동네 소녀",
+      "resolved_name": "동네 소녀",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "동네 형": {
+      "description": "동네 형 -> 동네 형",
+      "resolved_name": "동네 형",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

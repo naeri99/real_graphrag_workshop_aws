@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "국제통화기금 전무이사",
+    "synonym": [
+      "IMF Managing Director",
+      "IMF 이사",
+      "IMF 전무이사",
+      "IMF 총재",
+      "IMF전무이사",
+      "IMF총재",
+      "국제통화기금 이사",
+      "국제통화기금 전무이사",
+      "국제통화기금 총재",
+      "국제통화기금전무이사"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "국제통화기금 전무이사은 영화 '인사이드 잡'의 등장인물로, 도미니크 스트로스 칸이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

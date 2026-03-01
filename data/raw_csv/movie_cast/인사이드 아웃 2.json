@@ -1,0 +1,130 @@
+{
+  "movie_title": "인사이드 아웃 2",
+  "director": [
+    {
+      "name": "켈시 만",
+      "name_en": "Kelsey Mann"
+    }
+  ],
+  "cast": [
+    {
+      "actor": "에이미 폴러",
+      "actor_en": "Amy Poehler",
+      "character": "기쁨"
+    },
+    {
+      "actor": "마야 호크",
+      "actor_en": "Maya Hawke",
+      "character": "불안"
+    },
+    {
+      "actor": "켄싱턴 톨먼",
+      "actor_en": "Kensington Tallman",
+      "character": "라일리"
+    },
+    {
+      "actor": "리자 라피라",
+      "actor_en": "Liza Lapira",
+      "character": "까칠이"
+    },
+    {
+      "actor": "토니 헤일",
+      "actor_en": "Tony Hale",
+      "character": "소심이"
+    },
+    {
+      "actor": "루이스 블랙",
+      "actor_en": "Lewis Black",
+      "character": "버럭이"
+    },
+    {
+      "actor": "필리스 스미스",
+      "actor_en": "Phyllis Smith",
+      "character": "슬픔이"
+    },
+    {
+      "actor": "아요 에데비리",
+      "actor_en": "Ayo Edebiri",
+      "character": "부러움"
+    },
+    {
+      "actor": "폴 월터 하우저",
+      "actor_en": "Paul Walter Hauser",
+      "character": "당황"
+    },
+    {
+      "actor": "아델 엑사르코풀로스",
+      "actor_en": "Adèle Exarchopoulos",
+      "character": "따분함"
+    },
+    {
+      "actor": "바비 모이니한",
+      "actor_en": "Bobby Moynihan",
+      "character": "망각자 바비"
+    },
+    {
+      "actor": "릴리마르",
+      "actor_en": "Lilimar",
+      "character": "발렌티나"
+    },
+    {
+      "actor": "그레이스 루",
+      "actor_en": "Grace Lu",
+      "character": "그레이스"
+    },
+    {
+      "actor": "수마이야 시드니",
+      "actor_en": "Sumayyah Nuriddin-Green",
+      "character": "브리"
+    },
+    {
+      "actor": "다이안 레인",
+      "actor_en": "Diane Lane",
+      "character": "라일리의 엄마"
+    },
+    {
+      "actor": "카일 맥라클란",
+      "actor_en": "Kyle MacLachlan",
+      "character": "라일리의 아빠"
+    },
+    {
+      "actor": "론 펀체스",
+      "actor_en": "Ron Funches",
+      "character": "블루프"
+    },
+    {
+      "actor": "제임스 오스틴 존슨",
+      "actor_en": "James Austin Johnson",
+      "character": "랜스 슬래시블레이드"
+    },
+    {
+      "actor": "요나 칼리나",
+      "actor_en": "Yong Yea",
+      "character": "코치 로버츠"
+    },
+    {
+      "actor": "프랭크 오즈",
+      "actor_en": "Frank Oz",
+      "character": "망각자 폴라"
+    },
+    {
+      "actor": "폴라 펠",
+      "actor_en": "Paula Pell",
+      "character": "망각자 폴라"
+    },
+    {
+      "actor": "존 라츠엔버거",
+      "actor_en": "John Ratzenberger",
+      "character": "프리츠"
+    }
+  ],
+  "review": [
+    "./data/review/인사이드 아웃 2/인사이드 아웃 2_1bFiVu7DFL4.json",
+    "./data/review/인사이드 아웃 2/인사이드 아웃 2_B4D1xNjS2SY.json",
+    "./data/review/인사이드 아웃 2/인사이드 아웃 2_FPLevyVfK9M.json",
+    "./data/review/인사이드 아웃 2/인사이드 아웃 2_NbQ-PgfkUq0.json",
+    "./data/review/인사이드 아웃 2/인사이드 아웃 2_TCyxB0sY128.json",
+    "./data/review/인사이드 아웃 2/인사이드 아웃 2_btqTmzoZm80.json",
+    "./data/review/인사이드 아웃 2/인사이드 아웃 2_vW0IQoSweVI.json"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "존 시나",
+    "synonym": [
+      "John Cena",
+      "시나",
+      "존",
+      "존 세나",
+      "존 시나",
+      "존 씨나",
+      "존세나",
+      "존시나",
+      "존씨나"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "존 시나은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

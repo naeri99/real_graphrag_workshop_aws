@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "Laurel Boyd",
+    "synonym": [
+      "Laurel",
+      "Laurel Boyd",
+      "라우렐 보이드",
+      "로럴 보이드",
+      "로렐",
+      "로렐 보이드",
+      "로렐보이드",
+      "보이드",
+      "보이드 언니"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "Laurel Boyd은 영화 '제리 맥과이어'의 등장인물로, 보니 헌트이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

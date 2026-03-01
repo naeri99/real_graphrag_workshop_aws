@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "크리스틴 위그",
+    "synonym": [
+      "Kristen",
+      "Kristen Wiig",
+      "Wiig",
+      "위그",
+      "윅",
+      "크리스틴",
+      "크리스틴 위그",
+      "크리스틴 위익",
+      "크리스틴 윅",
+      "크리스틴위그",
+      "크리스틴윅"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "크리스틴 위그은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

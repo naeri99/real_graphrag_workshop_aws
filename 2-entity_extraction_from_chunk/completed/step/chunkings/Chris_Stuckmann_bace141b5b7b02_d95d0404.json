@@ -1,0 +1,93 @@
+{
+  "chunk_hash": "bace141b5b7b02",
+  "chunk_id": "Chris_Stuckmann_bace141b5b7b02_d95d0404",
+  "user_query": "the carefree adventurous feeling that so many kids have the score also by Joe Hisaishi is one of his best and I mean I'm saying things you've heard a billion times over and over again but it has to be said this animation is just so beautiful it also sneaks up on you because at one point the film gets a little serious and I haven't seen this movie in a while and I was surprised at how invested I actually got which tells you just really what Miyazaki was doing in the first two acts of this movie because yes you're experiencing a very fun and sort of light movie until you realize that you actually really care about these characters and that's rare in animation I'm going to give My Neighbor Totoro a much deserved A+ thank you so much guys for watching I'm going to try to see every film they're showing this year and review them for you guys and since I am wearing this shirt yes Samurai Jack season 5 gave me everything I wanted it was so so good you guys are the best thank you so much for watching and if you like this you can click right here and get stuck minized",
+  "movie_id": "토토로",
+  "reviewer": "Chris_Stuckmann",
+  "chunk_index": 4,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "MY NEIGHBOR TOTORO",
+      "entity_type": "MOVIE",
+      "entity_description": "이웃집 토토로는 아이들의 모험심과 자유로운 감성을 담은 애니메이션 영화로, 아름다운 애니메이션과 캐릭터에 대한 몰입감이 뛰어난 작품이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "JOE HISAISHI",
+      "entity_type": "MOVIE_STAFF",
+      "entity_description": "조 히사이시는 이웃집 토토로의 음악을 담당한 작곡가로, 이 작품의 스코어가 그의 최고작 중 하나로 평가받는다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "MIYAZAKI",
+      "entity_type": "MOVIE_STAFF",
+      "entity_description": "미야자키는 이웃집 토토로의 감독으로, 영화의 1막과 2막에서 관객들이 캐릭터에 깊이 몰입하도록 연출한 것으로 평가받는다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "CHRIS STUCKMANN",
+      "entity_type": "REVIEWER",
+      "entity_description": "크리스 스턱만은 이웃집 토토로를 리뷰하며 A+ 평점을 부여한 영화 리뷰어이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "JOE HISAISHI",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "MY NEIGHBOR TOTORO",
+      "target_type": "MOVIE",
+      "relationship_description": "조 히사이시는 이웃집 토토로의 음악을 작곡했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "MIYAZAKI",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "MY NEIGHBOR TOTORO",
+      "target_type": "MOVIE",
+      "relationship_description": "미야자키는 이웃집 토토로를 감독했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "CHRIS STUCKMANN",
+      "source_type": "REVIEWER",
+      "target_entity": "MY NEIGHBOR TOTORO",
+      "target_type": "MOVIE",
+      "relationship_description": "크리스 스턱만은 이웃집 토토로를 리뷰하고 A+ 평점을 주었다",
+      "relationship_strength": 8
+    }
+  ],
+  "entity_resolution": {
+    "MY NEIGHBOR TOTORO": {
+      "description": "MY NEIGHBOR TOTORO -> MY NEIGHBOR TOTORO",
+      "resolved_name": "MY NEIGHBOR TOTORO",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "JOE HISAISHI": {
+      "description": "JOE HISAISHI -> JOE HISAISHI",
+      "resolved_name": "JOE HISAISHI",
+      "entity_type": "MOVIE_STAFF",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "MIYAZAKI": {
+      "description": "MIYAZAKI -> MIYAZAKI",
+      "resolved_name": "MIYAZAKI",
+      "entity_type": "MOVIE_STAFF",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "CHRIS STUCKMANN": {
+      "description": "CHRIS STUCKMANN -> Chris_Stuckmann",
+      "resolved_name": "Chris_Stuckmann",
+      "entity_type": "REVIEWER",
+      "matched": true,
+      "match_type": "name_exact"
+    }
+  }
+}

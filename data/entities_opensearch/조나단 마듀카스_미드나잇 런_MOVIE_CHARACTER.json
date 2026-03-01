@@ -1,0 +1,32 @@
+{
+  "entity": {
+    "name": "조나단 마듀카스",
+    "synonym": [
+      "Jonathan",
+      "Jonathan Demme",
+      "Jonathan Mardukas",
+      "Jonathan Nolan",
+      "The Duke",
+      "더 듀크",
+      "뎀미",
+      "듀크",
+      "마두카스",
+      "마듀카스",
+      "조나단",
+      "조나단 데미",
+      "조나단 마두카스",
+      "조나단 마듀카스",
+      "조나단놀란",
+      "조나단뎀미",
+      "조나단마듀카스",
+      "조나선 놀란",
+      "조나선 뎀미",
+      "조너선 놀란",
+      "존 마듀카스"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "조나단 마듀카스은 영화 '미드나잇 런'의 등장인물로, 찰스 그로딘이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "그레그 루소",
+    "synonym": [
+      "Greg",
+      "Greg Russo",
+      "Grégory Rousso",
+      "Russo",
+      "그레그",
+      "그레그 루소",
+      "그레그 루쏘",
+      "그레그루소",
+      "그렉 루소",
+      "그렉루소",
+      "루소"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "그레그 루소은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

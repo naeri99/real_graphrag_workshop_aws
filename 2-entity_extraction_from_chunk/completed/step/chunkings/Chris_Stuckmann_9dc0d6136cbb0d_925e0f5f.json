@@ -1,0 +1,256 @@
+{
+  "chunk_hash": "9dc0d6136cbb0d",
+  "chunk_id": "Chris_Stuckmann_9dc0d6136cbb0d_925e0f5f",
+  "user_query": "[Music] Argylle is a new film from Matthew Vaughn The Man Behind Layer Cake Stardust Kickass The Kingsman movies X-Men First Class so many great films and it's about a reclusive author who writes novels about a secret agent and a global spy Syndicate who realizes the plot of the new book she's writing has started to mirror real world events in real time Bryce Dallas Howard plays this author and one of my favorite things about Argylle immediately is the way it explores how a writer might see their world how they imagine what they're creating on the page but also how they look around in real life and sometimes insert their Creations into real life in this case Matthew Vaughn found a really creative way to show how her brain is working while she's writing imagining her character saying certain things and then thinking no that's just not working actually seeing the words on the page fall away and the hero of her story looking at her in the eye and wondering why she has writer's block and what she's going to do about it and any writer who's ever been in that situation can relate her lead character in her spy series Argylle is played by Henry Cavill who has hair just like John Travolta in Broken Arrow and I can only imagine that putting life into these pages of her book for us to see was very fun for Matthew Vaughn because he gets to be extremely Fantastical and Larger than Life with all of these sequences but the engine of the movie really starts to run when Sam Rockwell character",
+  "movie_id": "아가일",
+  "reviewer": "Chris_Stuckmann",
+  "chunk_index": 1,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "ARGYLLE",
+      "entity_type": "MOVIE",
+      "entity_description": "Argylle는 Matthew Vaughn이 감독한 새로운 영화로, 비밀 요원과 글로벌 스파이 신디케이트에 대한 소설을 쓰는 은둔 작가가 자신이 쓰고 있는 새 책의 줄거리가 실시간으로 실제 세계 사건을 반영하기 시작한다는 것을 깨닫는 내용이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "MATTHEW VAUGHN",
+      "entity_type": "MOVIE_STAFF",
+      "entity_description": "Matthew Vaughn은 Argylle의 감독으로, Layer Cake, Stardust, Kickass, Kingsman 시리즈, X-Men First Class 등 많은 훌륭한 영화를 만든 감독이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "BRYCE DALLAS HOWARD",
+      "entity_type": "ACTOR",
+      "entity_description": "Bryce Dallas Howard는 Argylle에서 은둔 작가 역할을 맡은 배우이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "HENRY CAVILL",
+      "entity_type": "ACTOR",
+      "entity_description": "Henry Cavill은 Argylle에서 주인공 작가가 쓴 스파이 소설 시리즈의 주인공 캐릭터 아가일 역할을 맡은 배우로, Broken Arrow의 John Travolta와 비슷한 헤어스타일을 하고 있다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "SAM ROCKWELL",
+      "entity_type": "ACTOR",
+      "entity_description": "Sam Rockwell은 Argylle에서 영화의 본격적인 스토리를 이끌어가는 캐릭터를 연기하는 배우이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "아가일",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "아가일은 주인공 작가가 쓴 스파이 소설 시리즈의 주인공 비밀 요원 캐릭터로, Henry Cavill이 연기한다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "LAYER CAKE",
+      "entity_type": "MOVIE",
+      "entity_description": "Layer Cake는 Matthew Vaughn이 감독한 영화이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "STARDUST",
+      "entity_type": "MOVIE",
+      "entity_description": "Stardust는 Matthew Vaughn이 감독한 영화이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "KICKASS",
+      "entity_type": "MOVIE",
+      "entity_description": "Kickass는 Matthew Vaughn이 감독한 영화이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "KINGSMAN",
+      "entity_type": "MOVIE",
+      "entity_description": "Kingsman은 Matthew Vaughn이 감독한 영화 시리즈이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "X-MEN FIRST CLASS",
+      "entity_type": "MOVIE",
+      "entity_description": "X-Men First Class는 Matthew Vaughn이 감독한 영화이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "MATTHEW VAUGHN",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "ARGYLLE",
+      "target_type": "MOVIE",
+      "relationship_description": "Matthew Vaughn은 Argylle를 감독했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "MATTHEW VAUGHN",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "LAYER CAKE",
+      "target_type": "MOVIE",
+      "relationship_description": "Matthew Vaughn은 Layer Cake를 감독했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "MATTHEW VAUGHN",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "STARDUST",
+      "target_type": "MOVIE",
+      "relationship_description": "Matthew Vaughn은 Stardust를 감독했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "MATTHEW VAUGHN",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "KICKASS",
+      "target_type": "MOVIE",
+      "relationship_description": "Matthew Vaughn은 Kickass를 감독했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "MATTHEW VAUGHN",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "KINGSMAN",
+      "target_type": "MOVIE",
+      "relationship_description": "Matthew Vaughn은 Kingsman 시리즈를 감독했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "MATTHEW VAUGHN",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "X-MEN FIRST CLASS",
+      "target_type": "MOVIE",
+      "relationship_description": "Matthew Vaughn은 X-Men First Class를 감독했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "BRYCE DALLAS HOWARD",
+      "source_type": "ACTOR",
+      "target_entity": "ARGYLLE",
+      "target_type": "MOVIE",
+      "relationship_description": "Bryce Dallas Howard는 Argylle에서 주인공 작가 역할을 연기했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "HENRY CAVILL",
+      "source_type": "ACTOR",
+      "target_entity": "ARGYLLE",
+      "target_type": "MOVIE",
+      "relationship_description": "Henry Cavill은 Argylle에서 스파이 캐릭터 아가일 역할을 연기했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "HENRY CAVILL",
+      "source_type": "ACTOR",
+      "target_entity": "아가일",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Henry Cavill은 아가일 캐릭터를 연기했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "SAM ROCKWELL",
+      "source_type": "ACTOR",
+      "target_entity": "ARGYLLE",
+      "target_type": "MOVIE",
+      "relationship_description": "Sam Rockwell은 Argylle에 출연하여 영화의 핵심 스토리를 이끄는 캐릭터를 연기했다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "아가일",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "ARGYLLE",
+      "target_type": "MOVIE",
+      "relationship_description": "아가일은 Argylle 영화 속 소설의 주인공 캐릭터이다",
+      "relationship_strength": 10
+    }
+  ],
+  "entity_resolution": {
+    "ARGYLLE": {
+      "description": "ARGYLLE -> ARGYLLE",
+      "resolved_name": "ARGYLLE",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "MATTHEW VAUGHN": {
+      "description": "MATTHEW VAUGHN -> MATTHEW VAUGHN",
+      "resolved_name": "MATTHEW VAUGHN",
+      "entity_type": "MOVIE_STAFF",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "BRYCE DALLAS HOWARD": {
+      "description": "BRYCE DALLAS HOWARD -> BRYCE DALLAS HOWARD",
+      "resolved_name": "BRYCE DALLAS HOWARD",
+      "entity_type": "ACTOR",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "HENRY CAVILL": {
+      "description": "HENRY CAVILL -> HENRY CAVILL",
+      "resolved_name": "HENRY CAVILL",
+      "entity_type": "ACTOR",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "SAM ROCKWELL": {
+      "description": "SAM ROCKWELL -> SAM ROCKWELL",
+      "resolved_name": "SAM ROCKWELL",
+      "entity_type": "ACTOR",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "아가일": {
+      "description": "아가일 -> Agent Argylle",
+      "resolved_name": "Agent Argylle",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "LAYER CAKE": {
+      "description": "LAYER CAKE -> LAYER CAKE",
+      "resolved_name": "LAYER CAKE",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "STARDUST": {
+      "description": "STARDUST -> STARDUST",
+      "resolved_name": "STARDUST",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "KICKASS": {
+      "description": "KICKASS -> KICKASS",
+      "resolved_name": "KICKASS",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "KINGSMAN": {
+      "description": "KINGSMAN -> KINGSMAN",
+      "resolved_name": "KINGSMAN",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "X-MEN FIRST CLASS": {
+      "description": "X-MEN FIRST CLASS -> X-MEN FIRST CLASS",
+      "resolved_name": "X-MEN FIRST CLASS",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

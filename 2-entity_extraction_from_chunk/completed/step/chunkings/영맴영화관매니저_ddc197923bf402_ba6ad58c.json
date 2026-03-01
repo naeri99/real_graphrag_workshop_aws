@@ -1,0 +1,80 @@
+{
+  "chunk_hash": "ddc197923bf402",
+  "chunk_id": "영맴영화관매니저_ddc197923bf402_ba6ad58c",
+  "user_query": "가장 현실적인 사랑의 모습을 보여주는 듯합니다 싸움이 생겼을 때 중요한 것은 누가 더 잘났고 못 났고가 아니라 받아들일 수 없는 부분을 어떤 식으로 대처할지 라는 점을 Alma와 Reynolds는 잘 보여주고 있습니다 비록 그 방식이 과학적이고 기교 할지라도 둘이 받아들인다면 그것은 그들 나름의 사랑의 모습인 것이죠 지금까지 가학적이지만 아름다운 사랑 이야기 내 삶을 무너뜨리려 온 나의 여자에 대한 이야기 팬텀 스레드였습니다 으 르 오오오 으 으 으 으 으 으 으 으 won we now 으 w5 으 we wa 으 르 [음악]",
+  "movie_id": "팬텀 스레드",
+  "reviewer": "영맴영화관매니저",
+  "chunk_index": 3,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "ALMA",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Alma는 팬텀 스레드에서 Reynolds와 독특한 방식의 사랑을 나누는 여성 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "REYNOLDS",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Reynolds는 팬텀 스레드에서 Alma와 함께 갈등과 사랑을 보여주는 남성 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "팬텀 스레드",
+      "entity_type": "MOVIE",
+      "entity_description": "팬텀 스레드는 가학적이지만 아름다운 사랑 이야기를 다룬 영화로, '내 삶을 무너뜨리려 온 나의 여자'에 대한 이야기이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "ALMA",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "팬텀 스레드",
+      "target_type": "MOVIE",
+      "relationship_description": "Alma는 팬텀 스레드의 주요 등장인물이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "REYNOLDS",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "팬텀 스레드",
+      "target_type": "MOVIE",
+      "relationship_description": "Reynolds는 팬텀 스레드의 주요 등장인물이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "ALMA",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "REYNOLDS",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Alma와 Reynolds는 팬텀 스레드에서 독특하고 가학적인 방식의 사랑을 나누는 연인 관계이다",
+      "relationship_strength": 10
+    }
+  ],
+  "entity_resolution": {
+    "ALMA": {
+      "description": "ALMA -> ALMA",
+      "resolved_name": "ALMA",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "REYNOLDS": {
+      "description": "REYNOLDS -> REYNOLDS",
+      "resolved_name": "REYNOLDS",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "팬텀 스레드": {
+      "description": "팬텀 스레드 -> 팬텀 스레드",
+      "resolved_name": "팬텀 스레드",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "name_exact"
+    }
+  }
+}

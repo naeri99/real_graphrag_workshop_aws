@@ -1,0 +1,111 @@
+{
+  "chunk_hash": "c40da8cc2a0edd",
+  "chunk_id": "Anthony_Villegas_c40da8cc2a0edd_210bf4b8",
+  "user_query": "and sister proposed that he should work for Walt in order to make amends for his wrongs but Walt declines unlike Walt who is overly independent and individualistic it is important to Hmong people to make amends after dishonoring the family the actions of one affect everyone after hearing how important it is for Thao's mother for him to say yes Walt eventually agrees to let Thao work for him for a week in order to repay his debt and restore honor back to his family identity changes evidence in the film particularly through Walt's character in the beginning of the film Walt is a stubborn racist angry anti-social overly conservative American who hates his neighbors he begins to change after getting to know Thao and his sister Sue as the film progresses when he opts to intervene more dealing with the gang that is terrorizing Thao and his family he is also seen to mingle with his neighbors who belong to the Hmong community despite expressing traits of dislike and racism towards them during the time Thao was working for Walt Walt has Thao do home improvement on all of his Hmong neighbors and begins to accept their gifts and love their food although Walt originally angered by the rapid changes that are happening to his neighborhood he realizes that his attitude is pushing them further away from his family and by large the general society due to this Walt relaxes his conservative attitude and accepts the influence that society was having on him during the time Thao worked for Walt",
+  "movie_id": "그랜 토리노",
+  "reviewer": "Anthony_Villegas",
+  "chunk_index": 3,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "WALT",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Walt는 영화 초반에 완고하고 인종차별적이며 화가 많고 반사회적인 보수적 미국인으로, 이웃을 싫어하지만 Thao와 Sue를 알게 되면서 점차 변화하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "THAO",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Thao는 Walt의 잘못을 갚기 위해 일주일간 Walt를 위해 일하며, 가족의 명예를 회복하려는 몽족 청년이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "SUE",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Sue는 Thao의 누나로, Thao가 Walt를 위해 일할 것을 제안한 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "THAO'S MOTHER",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Thao의 어머니는 Thao가 Walt의 제안을 수락하는 것이 중요하다고 생각하는 인물이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "THAO",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "WALT",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Thao는 자신의 잘못을 갚기 위해 Walt를 위해 일주일간 일한다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "SUE",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "THAO",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Sue는 Thao의 누나이며 Thao가 Walt를 위해 일할 것을 제안했다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "SUE",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "WALT",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Sue는 Walt에게 Thao가 일할 것을 제안했으며, Walt가 변화하는 데 영향을 준 인물이다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "THAO'S MOTHER",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "THAO",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Thao의 어머니는 Thao가 Walt의 제안을 수락하기를 원한다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "WALT",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "THAO",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Walt는 Thao에게 몽족 이웃들의 집 수리 작업을 시키며 점차 이웃들을 받아들이게 된다",
+      "relationship_strength": 8
+    }
+  ],
+  "entity_resolution": {
+    "WALT": {
+      "description": "WALT -> WALT",
+      "resolved_name": "WALT",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "THAO": {
+      "description": "THAO -> Thao Vang Lor",
+      "resolved_name": "Thao Vang Lor",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "SUE": {
+      "description": "SUE -> Sue Lor",
+      "resolved_name": "Sue Lor",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "THAO'S MOTHER": {
+      "description": "THAO'S MOTHER -> THAO'S MOTHER",
+      "resolved_name": "THAO'S MOTHER",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

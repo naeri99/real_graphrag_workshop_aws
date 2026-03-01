@@ -1,0 +1,12 @@
+{
+  "entity": {
+    "name": "무비플레이",
+    "synonym": [
+      "무비플레이"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "무비플레이은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

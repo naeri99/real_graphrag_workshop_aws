@@ -1,0 +1,23 @@
+{
+  "entity": {
+    "name": "올리 징글후브스",
+    "synonym": [
+      "Ollie",
+      "Ollie Jinglehooves",
+      "Ollie Jinglehubs",
+      "올리",
+      "올리 징글허브스",
+      "올리 징글후브",
+      "올리 징글후브스",
+      "올리 징글후브즈",
+      "올리 징글훕스",
+      "올리징글허브스",
+      "올리징글후브스",
+      "징글후브스"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "올리 징글후브스은 영화 '엘리멘탈'의 등장인물로, 사샤 나이트이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

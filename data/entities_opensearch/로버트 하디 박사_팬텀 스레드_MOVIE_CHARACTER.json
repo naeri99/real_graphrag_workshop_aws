@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "로버트 하디 박사",
+    "synonym": [
+      "Dr. Robert Hardy",
+      "닥터 하디",
+      "로버트 하디",
+      "로버트 하디 박사",
+      "로버트하디",
+      "로버트하디박사",
+      "의사",
+      "하디",
+      "하디 박사",
+      "하디박사"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "로버트 하디 박사은 영화 '팬텀 스레드'의 등장인물로, 브라이언 글리슨이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

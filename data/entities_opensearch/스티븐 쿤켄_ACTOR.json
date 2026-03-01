@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "스티븐 쿤켄",
+    "synonym": [
+      "Kunken",
+      "Stephen Kunken",
+      "스티브 쿤켄",
+      "스티븐",
+      "스티븐 쿤켄",
+      "스티븐 쿤큰",
+      "스티븐쿤켄",
+      "스티븐쿤큰",
+      "쿤켄"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "스티븐 쿤켄은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

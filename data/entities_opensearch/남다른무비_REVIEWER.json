@@ -1,0 +1,12 @@
+{
+  "entity": {
+    "name": "남다른무비",
+    "synonym": [
+      "남다른무비"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "남다른무비은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

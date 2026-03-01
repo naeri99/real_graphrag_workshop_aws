@@ -1,0 +1,340 @@
+{
+  "chunk_hash": "13aeb2b73af37b",
+  "chunk_id": "무비이츠_movie_eats_13aeb2b73af37b_6c60d2d5",
+  "user_query": "안녕하세요 영화를 맛있게 리뷰하는 남자 무비테이크입니다 오늘 소개해드릴 영화 인셉션은 크리스토퍼 놀란 감독 레오나르도 디카프리오 조셉 고든 레빗 톰 하디 마리온 꼬띠아르 킬리언 머피 엘리엇 페이지 와타나베 켄 주연의 2010년 작품입니다 꿈속의 꿈으로 들어가 목표물에게 완전히 다른 생각을 심어 정신적인 테러 행위가 주 목표인 영화로 한스 짐머의 웅장한 OST 놀란 감독 특유의 시지각 없이 만든 명장면들이 가득한 영화로 개봉 당시 심야 영화로 본 저에게 격렬한 인상을 남긴 작품으로 몇 번이고 본 인생 영화 중 하나입니다 인셉션 개봉후 마지막 팽이가 도는 장면 때문에 결말에 대해 많은 의견들이 나뉘어 있지만 코브의 반지가 숨은 떡밥입니다 꿈속에서만 반지를 끼고 있는 걸 확인할 수 있죠 결정적으로 놀란 감독 피셜로 코브의 장인 마일즈가 나올 때는 항상 현실이라고 말해주며 열린 결말이 아닌 코브가 현실로 돌아온 해피 엔딩으로 연출상 열린 결말로 감독이 의도한 영화라고 볼 수 있습니다 전체적인 줄거리는 코브가 로버트를 인셉션 하는 것이지만 그 속에서 아내에 대한 죄책감과 트라우마를 극복하며 꿈속으로 도망치는게 아닌 현실 속의 사랑하는 아이들에게 돌아가며 깊은 여운을 남긴 인생 영화였습니다 영상 재밌게 보셨다면 구독과 좋아요 알림 설정 눌러주시고 다음에 있을 더 재밌는 영화 리뷰를 놓치지 마시고 즐기시면 되겠습니다 영화 리뷰는 무비테이크",
+  "movie_id": "인셉션",
+  "reviewer": "무비이츠_movie_eats",
+  "chunk_index": 11,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "무비테이크",
+      "entity_type": "REVIEWER",
+      "entity_description": "무비테이크는 영화를 맛있게 리뷰하는 유튜버로, 인셉션을 인생 영화 중 하나로 꼽으며 리뷰를 진행했다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "인셉션",
+      "entity_type": "MOVIE",
+      "entity_description": "인셉션은 2010년 개봉한 영화로, 꿈속의 꿈으로 들어가 목표물에게 생각을 심는 정신적 테러 행위를 다룬 작품이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "크리스토퍼 놀란",
+      "entity_type": "MOVIE_STAFF",
+      "entity_description": "크리스토퍼 놀란은 인셉션의 감독으로, 시지각 없이 만든 명장면들과 열린 결말처럼 보이는 연출을 의도했다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "레오나르도 디카프리오",
+      "entity_type": "ACTOR",
+      "entity_description": "레오나르도 디카프리오는 인셉션의 주연 배우이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "조셉 고든 레빗",
+      "entity_type": "ACTOR",
+      "entity_description": "조셉 고든 레빗은 인셉션의 주연 배우이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "톰 하디",
+      "entity_type": "ACTOR",
+      "entity_description": "톰 하디는 인셉션의 주연 배우이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "마리온 꼬띠아르",
+      "entity_type": "ACTOR",
+      "entity_description": "마리온 꼬띠아르는 인셉션의 주연 배우이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "킬리언 머피",
+      "entity_type": "ACTOR",
+      "entity_description": "킬리언 머피는 인셉션의 주연 배우이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "엘리엇 페이지",
+      "entity_type": "ACTOR",
+      "entity_description": "엘리엇 페이지는 인셉션의 주연 배우이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "와타나베 켄",
+      "entity_type": "ACTOR",
+      "entity_description": "와타나베 켄은 인셉션의 주연 배우이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "한스 짐머",
+      "entity_type": "MOVIE_STAFF",
+      "entity_description": "한스 짐머는 인셉션의 웅장한 OST를 작곡한 음악가이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "코브",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "코브는 인셉션의 주인공으로, 아내에 대한 죄책감과 트라우마를 극복하며 현실 속 아이들에게 돌아가는 인물이다. 꿈속에서만 반지를 끼고 있다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "로버트",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "로버트는 인셉션에서 코브가 인셉션을 수행하는 목표물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "마일즈",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "마일즈는 코브의 장인으로, 그가 등장할 때는 항상 현실임을 나타낸다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "무비테이크",
+      "source_type": "REVIEWER",
+      "target_entity": "인셉션",
+      "target_type": "MOVIE",
+      "relationship_description": "무비테이크는 인셉션을 인생 영화로 꼽으며 리뷰했다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "크리스토퍼 놀란",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "인셉션",
+      "target_type": "MOVIE",
+      "relationship_description": "크리스토퍼 놀란은 인셉션을 감독했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "레오나르도 디카프리오",
+      "source_type": "ACTOR",
+      "target_entity": "인셉션",
+      "target_type": "MOVIE",
+      "relationship_description": "레오나르도 디카프리오는 인셉션에 주연으로 출연했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "조셉 고든 레빗",
+      "source_type": "ACTOR",
+      "target_entity": "인셉션",
+      "target_type": "MOVIE",
+      "relationship_description": "조셉 고든 레빗은 인셉션에 주연으로 출연했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "톰 하디",
+      "source_type": "ACTOR",
+      "target_entity": "인셉션",
+      "target_type": "MOVIE",
+      "relationship_description": "톰 하디는 인셉션에 주연으로 출연했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "마리온 꼬띠아르",
+      "source_type": "ACTOR",
+      "target_entity": "인셉션",
+      "target_type": "MOVIE",
+      "relationship_description": "마리온 꼬띠아르는 인셉션에 주연으로 출연했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "킬리언 머피",
+      "source_type": "ACTOR",
+      "target_entity": "인셉션",
+      "target_type": "MOVIE",
+      "relationship_description": "킬리언 머피는 인셉션에 주연으로 출연했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "엘리엇 페이지",
+      "source_type": "ACTOR",
+      "target_entity": "인셉션",
+      "target_type": "MOVIE",
+      "relationship_description": "엘리엇 페이지는 인셉션에 주연으로 출연했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "와타나베 켄",
+      "source_type": "ACTOR",
+      "target_entity": "인셉션",
+      "target_type": "MOVIE",
+      "relationship_description": "와타나베 켄은 인셉션에 주연으로 출연했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "한스 짐머",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "인셉션",
+      "target_type": "MOVIE",
+      "relationship_description": "한스 짐머는 인셉션의 OST를 작곡했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "코브",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "인셉션",
+      "target_type": "MOVIE",
+      "relationship_description": "코브는 인셉션의 주인공이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "로버트",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "인셉션",
+      "target_type": "MOVIE",
+      "relationship_description": "로버트는 인셉션에서 인셉션의 목표물로 등장한다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "마일즈",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "인셉션",
+      "target_type": "MOVIE",
+      "relationship_description": "마일즈는 인셉션에 등장하는 코브의 장인이다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "코브",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "로버트",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "코브는 로버트에게 인셉션을 수행한다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "코브",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "마일즈",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "마일즈는 코브의 장인이다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "레오나르도 디카프리오",
+      "source_type": "ACTOR",
+      "target_entity": "코브",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "레오나르도 디카프리오는 코브 역을 연기했다",
+      "relationship_strength": 10
+    }
+  ],
+  "entity_resolution": {
+    "무비테이크": {
+      "description": "무비테이크 -> 무비테이크",
+      "resolved_name": "무비테이크",
+      "entity_type": "REVIEWER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "인셉션": {
+      "description": "인셉션 -> 인셉션",
+      "resolved_name": "인셉션",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "크리스토퍼 놀란": {
+      "description": "크리스토퍼 놀란 -> 크리스토퍼 놀란",
+      "resolved_name": "크리스토퍼 놀란",
+      "entity_type": "MOVIE_STAFF",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "레오나르도 디카프리오": {
+      "description": "레오나르도 디카프리오 -> 레오나르도 디카프리오",
+      "resolved_name": "레오나르도 디카프리오",
+      "entity_type": "ACTOR",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "조셉 고든 레빗": {
+      "description": "조셉 고든 레빗 -> 조셉 고든 레빗",
+      "resolved_name": "조셉 고든 레빗",
+      "entity_type": "ACTOR",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "톰 하디": {
+      "description": "톰 하디 -> 톰 하디",
+      "resolved_name": "톰 하디",
+      "entity_type": "ACTOR",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "마리온 꼬띠아르": {
+      "description": "마리온 꼬띠아르 -> 마리옹 코티야르",
+      "resolved_name": "마리옹 코티야르",
+      "entity_type": "ACTOR",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "킬리언 머피": {
+      "description": "킬리언 머피 -> 킬리언 머피",
+      "resolved_name": "킬리언 머피",
+      "entity_type": "ACTOR",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "엘리엇 페이지": {
+      "description": "엘리엇 페이지 -> 엘리엇 페이지",
+      "resolved_name": "엘리엇 페이지",
+      "entity_type": "ACTOR",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "와타나베 켄": {
+      "description": "와타나베 켄 -> 와타나베 겐",
+      "resolved_name": "와타나베 겐",
+      "entity_type": "ACTOR",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "한스 짐머": {
+      "description": "한스 짐머 -> 한스 짐머",
+      "resolved_name": "한스 짐머",
+      "entity_type": "MOVIE_STAFF",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "코브": {
+      "description": "코브 -> 코브",
+      "resolved_name": "코브",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "로버트": {
+      "description": "로버트 -> 로버트 피셔",
+      "resolved_name": "로버트 피셔",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "마일즈": {
+      "description": "마일즈 -> 마일즈",
+      "resolved_name": "마일즈",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "토토로",
+    "synonym": [
+      "My Neighbor Totoro",
+      "Totoro",
+      "となりのトトロ",
+      "大トトロ",
+      "미미즈쿠",
+      "오토토로",
+      "이웃집 토토로",
+      "큰 토토로",
+      "토네리노 토토로",
+      "토토로"
+    ],
+    "entity_type": "MOVIE",
+    "summary": "토토로",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

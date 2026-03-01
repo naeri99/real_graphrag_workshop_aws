@@ -1,0 +1,34 @@
+{
+  "entity": {
+    "name": "형사 2",
+    "synonym": [
+      "2번 형사",
+      "2번형사",
+      "Detective",
+      "Detective 2",
+      "Second Detective",
+      "Venom: Let There Be Carnage",
+      "경찰형사",
+      "두번째 형사",
+      "두번째형사",
+      "디텍티브",
+      "베놈 렛 데어 비 카니지",
+      "베놈2",
+      "보조 형사",
+      "수사관",
+      "형사",
+      "형사 2",
+      "형사 둘",
+      "형사 역",
+      "형사 이",
+      "형사 투",
+      "형사2",
+      "형사님",
+      "형사이"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "형사 2은 영화 '7번방의 선물'의 등장인물로, 오창경이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

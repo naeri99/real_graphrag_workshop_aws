@@ -1,0 +1,102 @@
+{
+  "chunk_hash": "eaa90584d1c260",
+  "chunk_id": "영화친구_영사기_eaa90584d1c260_116356a6",
+  "user_query": "영화에 대한 아무런 정보 없이 본다면 처음에는 공감하기 어려운 부분들도 있죠. 나이든 괴팍한 남자에게 반하는 알마나. 그녀보다 예쁜 여자들이 많은데도 배가 나온 걸 더 좋아하는 레이놀즈가 어떤 인물인지 처음부터 파악하기 쉽지는 않은데요. 무슨 의도인지 이해하지 못했던 한 땀 한 땀 자연스럽게 흘러갔던 여러 장면들이 엔딩에 이르는 순간 철르르르 펼쳐지며 한 벌의 아름다운 드레스로 완성됩니다. 감독은 어떻게 관객들이 이들의 사랑에 스며들게 했을까요? 영화의 오프닝은 알마의 인터뷰죠. 어떻게 보면 레이놀즈가 죽은 후 같기도 또는 그녀가 붙잡혀 받는 심문 같기도 합니다. 하지만 이 장면은 아픈 레이놀즈를 위해 부른 의사에게 털어놓는 러브 스토리였죠. 레이놀즈는 처음 버섯을 먹고 쓰러졌을 때에도 의사의 진찰을 강력히 거부했습니다. 예민한 사람이기에 누가 자신의 몸에 손대는 것을 극도로 싫어하는 것은 이해할 수 있었죠. 그럼에도 마지막에는 알마가 부른 의사의 진료를 받습니다. 그는 아마 처음부터 자신의 몸이 이상한 이유가 알마 때문임을 알아챈 것 같은데요. 알마는 갑자기 쓰러진 그의 모습에도 당황하지 않고 차분히 그를 돌봅니다. 괜찮으니 곧 내려간다며 직원들에게 말을 전하라는 그의 명령에도 대답만 하며 따르지 않죠. 레이놀즈는 자신의 나약함과 불안을 휘어잡는 주도적인 알마의 카리스마를 느낍니다. 때문에 병상에서 일어나자마자 그녀에게 청혼을 하죠. 알마는 딱딱하게 고정되어 있던 레이놀즈의 일과 생활을 파고듭니다. 그가 싫어하는 행동을 하고 반복되는 일상에 제동을 걸면서 자신과 그의 영혼을 하나로 꿰매죠. 그러나 이렇게 두 사람을 하나로 바느질하려면 둘 다 바늘에 찔리고 상처받습니다. 알마를 자신의 작품과 일에 가둔 레이놀즈. 그의 삶의 패턴, 집착을 부셔버린 그녀. 번갈아가며 서로를 찌르고 다시 찔리며 관계를 구성하는 두 사람은 서로에게 가학적인 동시에 피학적인 관계로 이어졌죠. 이를 직접적으로 보여주는 두 번째 버섯 장면에서 레이놀즈는 그녀가 조리하는 과정을 보고 알마는 버섯을 버젓이 보여주면서 서로의 관계를 확인합니다. 흔히 잭오랜턴 버섯으로 불리는 이 식물은 미세한 발광 물질을 가지고 있는데요. 어두운 곳에서 청록색의 발광을 확인할 수 있고 썰어도 멍이 들거나 색이 변하지 않는 특징이 있습니다. 알마는 늦은 저녁 어두컴컴한 집안에서 보란 듯이 이 버섯을 썰고 있죠. 레이놀즈가 싫어하는 걸 알면서도 버터를 잔뜩 넣고 요리하며 일부러 물도 시끄럽게 따르는데요. 그는 그윽하게 눈을 마주치며 음식을 먹습니다. 영화 사상 가장 로맨틱한 독버섯 장면이 아닐까요? 그렇게 쓰러진 레이놀즈를 위해 의사를 부르고 그와 대화하는 장면에서 영화는 오프닝으로 이어지죠. 이제 영화의 구조가 보입니다. 알마는 자신이 완성한 사랑의 순간을 처음으로 우드콕 부인이라 불러준 의사에게 자랑하듯 늘어놓고 있지요. 알마와 레이놀즈 사이의 애착은 병적으로 느껴질 만큼 이상하고 공격적입니다. 하지만 의사는 치료할 수 없고 손댈 수조차 없는 둘만의 사랑이죠. 이 두 사람의 사랑은 어떤",
+  "movie_id": "팬텀 스레드",
+  "reviewer": "영화친구_영사기",
+  "chunk_index": 2,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "알마",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "알마는 나이든 괴팍한 남자 레이놀즈에게 반하는 여성으로, 레이놀즈의 삶의 패턴과 집착을 부수며 그와 독특한 사랑 관계를 형성하는 인물이다. 버섯을 이용해 레이놀즈를 쓰러뜨리고 돌보며 주도적인 카리스마를 보여준다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "레이놀즈",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "레이놀즈는 배가 나온 여자를 좋아하는 나이든 괴팍한 남자로, 예민하여 누가 자신의 몸에 손대는 것을 극도로 싫어한다. 알마의 버섯 요리를 먹고 쓰러진 후 그녀에게 청혼하며, 알마와 가학적이면서 피학적인 관계를 형성한다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "우드콕 부인",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "우드콕 부인은 알마가 레이놀즈와 결혼한 후 의사에게 처음으로 불리게 된 호칭으로, 알마의 결혼 후 신분을 나타낸다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "의사",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "의사는 아픈 레이놀즈를 위해 알마가 부른 인물로, 알마의 러브 스토리를 듣는 청자 역할을 하며 알마를 처음으로 우드콕 부인이라 불러준다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "알마",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "레이놀즈",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "알마와 레이놀즈는 서로를 찌르고 다시 찔리며 가학적이면서 피학적인 사랑 관계를 형성한다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "알마",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "의사",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "알마는 레이놀즈를 위해 의사를 부르고 자신의 사랑 이야기를 의사에게 털어놓는다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "레이놀즈",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "의사",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "레이놀즈는 처음에는 의사의 진찰을 강력히 거부했으나 마지막에는 알마가 부른 의사의 진료를 받는다",
+      "relationship_strength": 6
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "알마",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "우드콕 부인",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "알마는 레이놀즈와 결혼 후 우드콕 부인이라는 호칭으로 불리게 된다",
+      "relationship_strength": 9
+    }
+  ],
+  "entity_resolution": {
+    "알마": {
+      "description": "알마 -> 알마",
+      "resolved_name": "알마",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "레이놀즈": {
+      "description": "레이놀즈 -> 레이놀즈 우드콕",
+      "resolved_name": "레이놀즈 우드콕",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "우드콕 부인": {
+      "description": "우드콕 부인 -> 알마",
+      "resolved_name": "알마",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "의사": {
+      "description": "의사 -> 의사",
+      "resolved_name": "의사",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "entity": {
+    "name": "권 중령",
+    "synonym": [
+      "Colonel Kwon",
+      "Lieutenant Colonel Kwon",
+      "군인 권",
+      "권 군인",
+      "권 대령",
+      "권 씨",
+      "권 중령",
+      "권 중령님",
+      "권대령",
+      "권씨",
+      "권중 령",
+      "권중령",
+      "권중령님",
+      "중령",
+      "중령 권",
+      "중령님"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "권 중령은 영화 '택시운전사'의 등장인물로, 박민희이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

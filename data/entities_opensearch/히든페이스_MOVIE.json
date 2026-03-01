@@ -1,0 +1,17 @@
+{
+  "entity": {
+    "name": "히든페이스",
+    "synonym": [
+      "Hidden Face",
+      "Hidden페이스",
+      "숨겨진 얼굴",
+      "히든 페이스",
+      "히든페이스",
+      "히든페이스 영화"
+    ],
+    "entity_type": "MOVIE",
+    "summary": "히든페이스",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

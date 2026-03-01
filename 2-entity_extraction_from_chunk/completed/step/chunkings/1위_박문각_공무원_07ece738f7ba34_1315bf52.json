@@ -1,0 +1,146 @@
+{
+  "chunk_hash": "07ece738f7ba34",
+  "chunk_id": "1위_박문각_공무원_07ece738f7ba34_1315bf52",
+  "user_query": "파이팅 반갑습니다 아 가장 소박한 아버지의 가장 특별한 감동을 만난다 효자동 이발사 여기서 제가 여러분들한테 이 영화를 소개하기 전에 한 가지 여쭤보고 싶은 게 있습니다 효자동이 어디 있습니까 그렇습니다 종로에 있습니다 종로 윗동네 종로구 그러니까 청와대 옆 동네입니다 이 저희 집하고도 연관이 있는 동네입니다 우리 할아버지가 효자동에 땅이 많으셨어요 무슨 똥바람이 불어가지고 그 땅을 다 팔고는 예 가난한 농민들 살겠다 가지고 전재산을 농민운동과 보육 사업에 다 전하 예 그래서 전쟁 고아들을 이끄는 보육원을 운영하시면서 전부 농민들 계몽 사업에 다 투자했어요 그 제가 그 생각이 드는 게 만약 우리 할아버지께서 그런 정의로운 마음이 없이 효자동 땅을 잘 부리셨다면 제가 지금 이걸 촬영 안 하고 있을 수도 있어요 지금은 어느 빌딩에 관리자로 있으면서 그냥 저는 그래서 할아버지한테 늘 감사합니다 열심히 노동하는 삶이 소중한 삶이죠 아 지 1920 3년에 여기서 그래서 이 송강호 씨가 이 동네 이발사 있는데 차차 차해서 박정희 대통령의 이발사가 된다는 이야기예요 박정희 정권을 다룬 영화는 많아요 126 사건 전후에 저도 재밌게 본 영화 많습니다 뭐 그때 그 사람들도 재밌게 봤고 이 작품이 가지는 여러 상징성 그러니까 박정희 정권을 다룬 영화들을 보면 드라마라 영화를 보면 민주화 운동이나 노동을 했던 운동가들의 삶을 보여주든지 아니면 권력 상층부 있던 사람들의 암투를 그린다 주로 이런데 이거는 그냥 그런 게 아니고 절대 다수의 민중들이죠 특별히 뭐 반 박정희 투쟁을 하는 것도 아니고 그렇다고 무슨 권력을 가지지도 않은 일반적인 소시민 통해서 이 정권을 보여주거든요 자 오늘의 키워드 유신 체제입니다 중앙정보부에서 효자동 간첩단이라 사건을 조작합니다 박정희 정권 특히 유신체제 때는 수많은 조작 사건이 있었습니다 민청학련 사건 인혁당 재건 사건 막 계속 사건을 조작해서 공포분위기를 만드는 거예요 그러니까 아무 죄도 없는 사람들을 간첩으로 엮어 가지고 고문해서 간첩 만들고 간첩 사건으로 엮어서 감옥으로 보낸 다음에 국민들한테 공포감 심어주고 위대한 지도자 박정희가 있어야 된다 이런 식의 프로파간다를 실현하기 위해서 끝없는 조작이 있었습니다 영화상에서 효자동 간첩단 사건이 벌어집니다 이때 여기 보면 하모니카 같은 걸 불고 있는데 온데 전기선이 연결돼 있죠 그러니까 동화적인 처리인데 송강호 씨의 아들 효자동 간첩단 사건에 조작을 하기 위해서 희생이 됩니다 그래 끌려가 가지고 전기 고문을 당하는 모습입니다 네 이걸 이제 이렇게 동화적으로 처리한 거죠 그래서 여기서 보면 전기 고문을 당하며 웃고 있어요 하하 이런 게 아니고요 하하 간지러워요 하하하하 해서 전기 고문 끝에 실토를 하게 만들고 효자동 간첩 사건은 조작된 게 발표가 되고 이 친구는 다리를 못 쓰게 됩니다 전기 고문의 후유증으로 눈을 파고 있죠 박정희 대통령이 79년 10월 26일 날 총 맞고 돌아가시죠 장례식 때 운구 차량에 있는 거대한 박정희 그림의 눈을 파고 있습니다 이렇게만 기억하면 이 영화",
+  "movie_id": "효자동이발사",
+  "reviewer": "1위_박문각_공무원",
+  "chunk_index": 1,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "효자동 이발사",
+      "entity_type": "MOVIE",
+      "entity_description": "효자동 이발사는 박정희 정권 시대를 배경으로 평범한 소시민 이발사의 삶을 통해 유신 체제를 조명하는 영화이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "송강호",
+      "entity_type": "ACTOR",
+      "entity_description": "송강호는 효자동 이발사에서 주인공 이발사 역을 맡은 배우이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "효자동 이발사 주인공",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "효자동에서 이발소를 운영하다가 박정희 대통령의 전담 이발사가 되는 소시민 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "효자동 이발사 아들",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "효자동 간첩단 사건에 연루되어 전기 고문을 당하고 다리를 못 쓰게 되는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "박정희",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "영화에서 다뤄지는 대통령으로 1979년 10월 26일 사망한 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "그때 그 사람들",
+      "entity_type": "MOVIE",
+      "entity_description": "박정희 정권을 다룬 영화로 리뷰어가 재밌게 봤다고 언급한 작품이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "송강호",
+      "source_type": "ACTOR",
+      "target_entity": "효자동 이발사 주인공",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "송강호는 효자동 이발사에서 주인공 이발사 역을 연기했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "효자동 이발사 주인공",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "효자동 이발사",
+      "target_type": "MOVIE",
+      "relationship_description": "효자동 이발사의 주인공이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "효자동 이발사 아들",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "효자동 이발사",
+      "target_type": "MOVIE",
+      "relationship_description": "효자동 이발사에 등장하는 주인공의 아들 캐릭터이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "효자동 이발사 주인공",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "효자동 이발사 아들",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "효자동 이발사 주인공과 아들의 부자 관계이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "효자동 이발사 주인공",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "박정희",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "효자동 이발사 주인공은 박정희 대통령의 전담 이발사가 된다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "박정희",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "효자동 이발사",
+      "target_type": "MOVIE",
+      "relationship_description": "박정희는 효자동 이발사에서 다뤄지는 역사적 인물이다",
+      "relationship_strength": 8
+    }
+  ],
+  "entity_resolution": {
+    "효자동 이발사": {
+      "description": "효자동 이발사 -> 효자동이발사",
+      "resolved_name": "효자동이발사",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "송강호": {
+      "description": "송강호 -> 송강호",
+      "resolved_name": "송강호",
+      "entity_type": "ACTOR",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "효자동 이발사 주인공": {
+      "description": "효자동 이발사 주인공 -> 효자동 이발사 주인공",
+      "resolved_name": "효자동 이발사 주인공",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "효자동 이발사 아들": {
+      "description": "효자동 이발사 아들 -> 효자동 이발사 아들",
+      "resolved_name": "효자동 이발사 아들",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "박정희": {
+      "description": "박정희 -> 대통령",
+      "resolved_name": "대통령",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "그때 그 사람들": {
+      "description": "그때 그 사람들 -> 그때 그 사람들",
+      "resolved_name": "그때 그 사람들",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

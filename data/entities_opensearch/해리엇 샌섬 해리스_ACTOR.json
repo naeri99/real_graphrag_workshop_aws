@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "해리엇 샌섬 해리스",
+    "synonym": [
+      "Harriet Sansom Harris",
+      "샌섬 해리스",
+      "샌섬해리스",
+      "해리스",
+      "해리엇",
+      "해리엇 샌섬 해리스",
+      "해리엇 샌섬해리스",
+      "해리엇 샌솜 해리스",
+      "해리엇 해리스",
+      "해리엇샌섬해리스"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "해리엇 샌섬 해리스은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "movie_title": "아이 로봇",
+  "director": [
+    {
+      "name": "알렉스 프로야스",
+      "name_en": "Alex Proyas"
+    }
+  ],
+  "cast": [
+    {
+      "actor": "윌 스미스",
+      "actor_en": "Will Smith",
+      "character": "델 스프너"
+    },
+    {
+      "actor": "브리짓 모이너핸",
+      "actor_en": "Bridget Moynahan",
+      "character": "수잔 캘빈"
+    },
+    {
+      "actor": "브루스 그린우드",
+      "actor_en": "Bruce Greenwood",
+      "character": "Lawrence Robertson"
+    },
+    {
+      "actor": "제임스 크롬웰",
+      "actor_en": "James Cromwell",
+      "character": "Dr. Alfred Lanning"
+    },
+    {
+      "actor": "치 맥브라이드",
+      "actor_en": "Chi McBride",
+      "character": "Lt. John Bergin"
+    },
+    {
+      "actor": "샤이아 러버프",
+      "actor_en": "Shia LaBeouf",
+      "character": "Farber"
+    },
+    {
+      "actor": "앨런 튜딕",
+      "actor_en": "Alan Tudyk",
+      "character": "써니"
+    },
+    {
+      "actor": "테리 첸",
+      "actor_en": "Terry Chen",
+      "character": "친"
+    },
+    {
+      "actor": "스콧 헤인들",
+      "actor_en": "Scott Heindl",
+      "character": "NS4/NS5 로봇"
+    },
+    {
+      "actor": "아드리안 리카드",
+      "actor_en": "Adrian Ricard",
+      "character": "할머니"
+    },
+    {
+      "actor": "제리 웨저먼",
+      "actor_en": "Jerry Wasserman",
+      "character": "발데즈"
+    },
+    {
+      "actor": "피오나 호건",
+      "actor_en": "Fiona Hogan",
+      "character": "V.I.K.I."
+    },
+    {
+      "actor": "피터 신코다",
+      "actor_en": "Peter Shinkoda",
+      "character": "친"
+    },
+    {
+      "actor": "샤론 윌킨스",
+      "actor_en": "Sharon Wilkins",
+      "character": "천식 환자"
+    },
+    {
+      "actor": "크레이그 마치",
+      "actor_en": "Craig March",
+      "character": "형사"
+    },
+    {
+      "actor": "데이비드 헤이솜",
+      "actor_en": "David Haysom",
+      "character": "NS4 로봇"
+    }
+  ],
+  "review": [
+    "./data/review/아이 로봇/아이 로봇_-i_AyvCP3gM.json",
+    "./data/review/아이 로봇/아이 로봇_I8oPrT6DGgA.json",
+    "./data/review/아이 로봇/아이 로봇_K2yYpt25COk.json",
+    "./data/review/아이 로봇/아이 로봇_KB3Fn95XyLE.json",
+    "./data/review/아이 로봇/아이 로봇_NSKUXAc9wbU.json",
+    "./data/review/아이 로봇/아이 로봇_UgvQPNreERs.json",
+    "./data/review/아이 로봇/아이 로봇_lHW2d8iyDdE.json"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "페드로 파스칼",
+    "synonym": [
+      "Pedro Pascal",
+      "파스깔",
+      "파스칼",
+      "패드로 파스칼",
+      "페드로",
+      "페드로 빠스칼",
+      "페드로 파스깔",
+      "페드로 파스칼",
+      "페드로파스칼"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "페드로 파스칼은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

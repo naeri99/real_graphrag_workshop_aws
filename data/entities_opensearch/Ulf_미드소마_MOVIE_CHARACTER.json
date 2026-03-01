@@ -1,0 +1,16 @@
+{
+  "entity": {
+    "name": "Ulf",
+    "synonym": [
+      "Ulf",
+      "우르프",
+      "울브",
+      "울푸",
+      "울프"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "Ulf은 영화 '미드소마'의 등장인물로, 헨릭 노를렌이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

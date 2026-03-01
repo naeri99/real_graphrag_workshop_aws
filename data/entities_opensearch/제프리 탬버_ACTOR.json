@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "제프리 탬버",
+    "synonym": [
+      "Jeffrey Tambor",
+      "제프 탬버",
+      "제프리",
+      "제프리 탬버",
+      "제프리 탬보",
+      "제프리 탬보어",
+      "제프리 템버",
+      "제프리탬버",
+      "제프리탬보",
+      "제프탬버",
+      "탬버"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "제프리 탬버은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

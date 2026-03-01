@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "그라쿠스",
+    "synonym": [
+      "Gracchus",
+      "그라추스",
+      "그라커스",
+      "그라쿠스",
+      "그라쿠스 원로원",
+      "그라쿠스 의원",
+      "그라쿠스의원",
+      "그라쿠우스"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "그라쿠스은 영화 '글래디에이터 2'의 등장인물로, 데렉 자코비이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "entity": {
+    "name": "후퍼 교수",
+    "synonym": [
+      "Hooper",
+      "Professor Hooper",
+      "교수 후퍼",
+      "프로페서 후퍼",
+      "호퍼 교수",
+      "후퍼",
+      "후퍼 교수",
+      "후퍼 교수님",
+      "후퍼 박사",
+      "후퍼 프로페서",
+      "후퍼교수",
+      "후퍼교수님",
+      "훕퍼 교수"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "후퍼 교수은 영화 '스틸 앨리스'의 등장인물로, 빅토리아 카르타헤나이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

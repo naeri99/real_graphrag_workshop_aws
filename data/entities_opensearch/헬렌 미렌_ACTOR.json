@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "헬렌 미렌",
+    "synonym": [
+      "Helen",
+      "Helen Mirren",
+      "미렌",
+      "헬런",
+      "헬런 미렌",
+      "헬렌",
+      "헬렌 미런",
+      "헬렌 미렌",
+      "헬렌 윅",
+      "헬렌미렌"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "헬렌 미렌은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

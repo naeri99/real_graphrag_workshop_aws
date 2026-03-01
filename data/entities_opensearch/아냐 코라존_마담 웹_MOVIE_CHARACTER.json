@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "아냐 코라존",
+    "synonym": [
+      "Anya",
+      "Anya Corazon",
+      "Anya Corazón",
+      "아냐",
+      "아냐 코라존",
+      "아냐코라존",
+      "아니아",
+      "아니아 코라존",
+      "아라냐",
+      "안야 코라존",
+      "코라존"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "아냐 코라존은 영화 '마담 웹'의 등장인물로, 이사벨라 메르세드이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

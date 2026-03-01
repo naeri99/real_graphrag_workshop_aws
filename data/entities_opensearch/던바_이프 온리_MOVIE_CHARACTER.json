@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "던바",
+    "synonym": [
+      "Dunbar",
+      "Dunbarr",
+      "던 바",
+      "던바",
+      "던바 캐릭터",
+      "던바르",
+      "던바씨",
+      "던바아",
+      "던발",
+      "덤바"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "던바은 영화 '이프 온리'의 등장인물로, 로이 샘슨이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

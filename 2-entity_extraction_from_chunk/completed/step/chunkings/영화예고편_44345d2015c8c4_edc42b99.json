@@ -1,0 +1,84 @@
+{
+  "chunk_hash": "44345d2015c8c4",
+  "chunk_id": "영화예고편_44345d2015c8c4_edc42b99",
+  "user_query": "[Musik] Diese hatten aber dasselbe. Tut sichere Investment Bank. Gewinnt man bei derselben Bank. Diesen Anleihen im Alter noch einmal sehen. Du hast ihn umgebracht. Ich habe ihn nicht angefasst. Ist ein Stuhl des Minimal ausgesprochen. Ich war das nicht. Der Bankdirektor hat meine Kunden sortiert. Der wackelt jeden Tag ein paar Millionen Cash. Seite die Spezialeinheit von Banküberfällen. Exakt um 11 Uhr eins. Kommt man es anstellt. Christian Träsch. Ich bin inzwischen China und Vater. Dass ich von unseren kleinen Chance war. Die Zahlenkombination wurde den Code. Ich war doch das Zeichen von Max tragen. Und jetzt geht alles ganz schnell. 4 5 377. Was? Und wir verlassen die Bank. Mit diesen aus kann ich auf euch warten. Was vorher da sein. Sie sehen bekommen. Danke. Okay, er hat die Tasche.",
+  "movie_id": "뱅크어택",
+  "reviewer": "영화예고편",
+  "chunk_index": 1,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "CHRISTIAN TRÄSCH",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Christian Träsch ist eine Figur, die sich als China und Vater vorstellt"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "MAX",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Max ist eine Figur, deren Zeichen oder Signal erwähnt wird"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "BANKDIREKTOR",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Der Bankdirektor ist eine Figur, die Kunden sortiert und täglich Millionen Cash bewegt"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "SPEZIALEINHEIT",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Die Spezialeinheit ist eine Gruppe, die sich mit Banküberfällen beschäftigt"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "CHRISTIAN TRÄSCH",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "MAX",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Christian Träsch erwähnt das Zeichen von Max, was auf eine Verbindung zwischen beiden hindeutet",
+      "relationship_strength": 5
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "BANKDIREKTOR",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "SPEZIALEINHEIT",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Der Bankdirektor und die Spezialeinheit sind beide im Kontext des Banküberfalls verbunden",
+      "relationship_strength": 4
+    }
+  ],
+  "entity_resolution": {
+    "CHRISTIAN TRÄSCH": {
+      "description": "CHRISTIAN TRÄSCH -> CHRISTIAN TRÄSCH",
+      "resolved_name": "CHRISTIAN TRÄSCH",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "MAX": {
+      "description": "MAX -> MAX",
+      "resolved_name": "MAX",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "BANKDIREKTOR": {
+      "description": "BANKDIREKTOR -> BANKDIREKTOR",
+      "resolved_name": "BANKDIREKTOR",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "SPEZIALEINHEIT": {
+      "description": "SPEZIALEINHEIT -> SPEZIALEINHEIT",
+      "resolved_name": "SPEZIALEINHEIT",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "chunk_hash": "ef2b50546bd731",
+  "chunk_id": "Awesomemay_ef2b50546bd731_8f48cdcc",
+  "user_query": "my mouth like if you don't take anything out of this film at the end of the day there are just some really funny Standalone moments that I'm pumped to see in clip compilations for years to come 7.5 out of 10 for comedy Dog Man's story is very much an episodic series of events like the books there's not really a set plot other than of course the brutal procedure and the first 20 minutes feels like a sugar rush it's super chaotic and all over the place and as soon as the vacuum going into the ocean segment came on I knew the action scenes were not going to have much of any payoff other than just looking awesome however that being said to defend the movie's pacing it does seem to be self-aware about its quickness as there's multiple montages just giving you a general sense of the feud between Dog Man and Petey these montages make a couple jokes about being so quick it's obvious they were trying to replicate the fast ADHD feel of the comics and Dav Pilkey's writing I mean there's literally a robot named ADHD DreamWorks was making sure the audience knew the caffeine induced speed of events was on purpose and part of the world not just bad writing so yes it's a blink and you miss it kind of film but not in a Despicable Me 3 and four way it doesn't outright erase characters or plot points because it's such a Breakneck film The Fast elements are actually being used to develop the important characters and the stuff we want to see there wasn't any moments where I was like why are we",
+  "movie_id": "도그맨",
+  "reviewer": "Awesomemay",
+  "chunk_index": 7,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "DOG MAN",
+      "entity_type": "MOVIE",
+      "entity_description": "Dog Man은 Dav Pilkey의 책을 원작으로 한 영화로, 에피소드 형식의 스토리와 빠른 전개가 특징이며 코미디 요소가 강한 작품이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "DOG MAN",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Dog Man은 영화의 주인공으로 Petey와 대립 관계에 있는 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "PETEY",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Petey는 Dog Man과 대립하는 캐릭터로, 영화 내에서 Dog Man과의 갈등이 몽타주로 표현된다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "DAV PILKEY",
+      "entity_type": "MOVIE_STAFF",
+      "entity_description": "Dav Pilkey는 Dog Man 원작 책의 작가로, 빠르고 ADHD 같은 느낌의 글쓰기 스타일로 알려져 있다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "DREAMWORKS",
+      "entity_type": "MOVIE_STAFF",
+      "entity_description": "DreamWorks는 Dog Man 영화를 제작한 스튜디오로, 원작의 빠른 전개를 의도적으로 재현하려 했다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "ADHD",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "ADHD는 영화에 등장하는 로봇 캐릭터로, 영화의 빠른 전개가 의도적임을 보여주는 역할을 한다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "DOG MAN",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "DOG MAN",
+      "target_type": "MOVIE",
+      "relationship_description": "Dog Man 캐릭터는 Dog Man 영화의 주인공이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "PETEY",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "DOG MAN",
+      "target_type": "MOVIE",
+      "relationship_description": "Petey는 Dog Man 영화에 등장하는 캐릭터이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "DOG MAN",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "PETEY",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Dog Man과 Petey는 영화 내에서 서로 대립하는 관계이다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "DAV PILKEY",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "DOG MAN",
+      "target_type": "MOVIE",
+      "relationship_description": "Dav Pilkey는 Dog Man의 원작 책을 집필한 작가이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "DREAMWORKS",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "DOG MAN",
+      "target_type": "MOVIE",
+      "relationship_description": "DreamWorks는 Dog Man 영화를 제작한 스튜디오이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "ADHD",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "DOG MAN",
+      "target_type": "MOVIE",
+      "relationship_description": "ADHD 로봇은 Dog Man 영화에 등장하는 캐릭터이다",
+      "relationship_strength": 8
+    }
+  ],
+  "entity_resolution": {
+    "DOG MAN": {
+      "description": "DOG MAN -> DOG MAN",
+      "resolved_name": "DOG MAN",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "PETEY": {
+      "description": "PETEY -> PETEY",
+      "resolved_name": "PETEY",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "DAV PILKEY": {
+      "description": "DAV PILKEY -> DAV PILKEY",
+      "resolved_name": "DAV PILKEY",
+      "entity_type": "MOVIE_STAFF",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "DREAMWORKS": {
+      "description": "DREAMWORKS -> DREAMWORKS",
+      "resolved_name": "DREAMWORKS",
+      "entity_type": "MOVIE_STAFF",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "ADHD": {
+      "description": "ADHD -> ADHD",
+      "resolved_name": "ADHD",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

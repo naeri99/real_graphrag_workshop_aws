@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "케리 비셰",
+    "synonym": [
+      "Kerry",
+      "Kerry Bishé",
+      "비셰",
+      "캐리 비셰",
+      "케리",
+      "케리 비셰",
+      "케리 비쉐",
+      "케리비셰"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "케리 비셰은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

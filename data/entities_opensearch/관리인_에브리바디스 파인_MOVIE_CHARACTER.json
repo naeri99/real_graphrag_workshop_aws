@@ -1,0 +1,24 @@
+{
+  "entity": {
+    "name": "관리인",
+    "synonym": [
+      "Caretaker",
+      "Janitor",
+      "Superintendent",
+      "건물 관리인",
+      "건물관리인",
+      "관리원",
+      "관리인",
+      "관리인 역",
+      "관리인역",
+      "관리자",
+      "수위",
+      "수퍼",
+      "케어테이커"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "관리인은 영화 '에브리바디스 파인'의 등장인물로, 조 바르바갈로이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

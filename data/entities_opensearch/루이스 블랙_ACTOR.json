@@ -1,0 +1,26 @@
+{
+  "entity": {
+    "name": "루이스 블랙",
+    "synonym": [
+      "Black Widow",
+      "Lewis",
+      "Lewis Black",
+      "Louis Black",
+      "검은 과부",
+      "나타샤 로마노프",
+      "루이스",
+      "루이스 블랙",
+      "루이스 블럭",
+      "루이스 블렉",
+      "루이스블랙",
+      "루이스블렉",
+      "블랙",
+      "블랙 위도우",
+      "블랙위도우"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "루이스 블랙은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

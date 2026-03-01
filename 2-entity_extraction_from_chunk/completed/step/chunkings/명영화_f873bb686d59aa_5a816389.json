@@ -1,0 +1,102 @@
+{
+  "chunk_hash": "f873bb686d59aa",
+  "chunk_id": "명영화_f873bb686d59aa_5a816389",
+  "user_query": "it's like an invasion of my privacy you know what I'm saying it's like it's intrusive you know got pictures of your whole in a [ __ ] circle pictures names of the people you know what he's trying to do exactly what he's doing look at yourself he's trying to rattle you he's trying to rattle your old lady so she nags you until you become a [ __ ] witness hey welcome aboard Jordan welcome aboard the Naomi pleasure to meet you agent Denham this is Agent Hughes hi how are you makes me wonder what what the hell you're investigating me for Jordan I can't discuss an ongoing investigation this case got dumped on my desk it is you know by a higher up who uh needs to make a show of looking into the new company on the block you know with all the PR and everything and then I end up being the schmuck who does the looking exactly did you try to get your broker's license at one time did I hear that right were you trying to take a stab at Wall Street no who have you been talking to who the [ __ ] you you investigating you ever ever think about what would have happened if you would have you know stayed the course you know what when I'm riding home on the subway and my balls are [ __ ] sweating I'm wearing the same suit three days in a row yeah you you bet I do I've thought about it before who wouldn't right right who [ __ ] wouldn't I mean what do you get another personal question you don't need to answer no that's all right Jordan what are you pulling 50 60k something like that a year",
+  "movie_id": "인사이드 잡",
+  "reviewer": "명영화",
+  "chunk_index": 6,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "JORDAN",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "조던은 월스트리트의 새로운 회사와 관련하여 연방 수사관들의 조사를 받고 있는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "NAOMI",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "나오미는 조던의 연인/아내로 보이며, 수사관들이 그녀를 동요시키려 한다고 언급된다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "AGENT DENHAM",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "덴햄 요원은 조던을 조사하는 연방 수사관이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "AGENT HUGHES",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "휴즈 요원은 덴햄 요원과 함께 조던을 조사하는 연방 수사관이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "AGENT DENHAM",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "JORDAN",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "덴햄 요원은 조던에 대한 수사를 담당하고 있다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "AGENT HUGHES",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "JORDAN",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "휴즈 요원은 덴햄 요원과 함께 조던을 조사하고 있다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "AGENT DENHAM",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "AGENT HUGHES",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "덴햄 요원과 휴즈 요원은 같은 사건을 조사하는 파트너이다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "JORDAN",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "NAOMI",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "조던과 나오미는 연인/부부 관계이며, 수사관들이 나오미를 통해 조던을 압박하려 한다",
+      "relationship_strength": 8
+    }
+  ],
+  "entity_resolution": {
+    "JORDAN": {
+      "description": "JORDAN -> JORDAN",
+      "resolved_name": "JORDAN",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "NAOMI": {
+      "description": "NAOMI -> NAOMI",
+      "resolved_name": "NAOMI",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "AGENT DENHAM": {
+      "description": "AGENT DENHAM -> AGENT DENHAM",
+      "resolved_name": "AGENT DENHAM",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "AGENT HUGHES": {
+      "description": "AGENT HUGHES -> AGENT HUGHES",
+      "resolved_name": "AGENT HUGHES",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

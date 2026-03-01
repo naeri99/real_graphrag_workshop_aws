@@ -1,0 +1,24 @@
+{
+  "entity": {
+    "name": "제프 피지온",
+    "synonym": [
+      "Jeff",
+      "Jeff Pidgeon",
+      "Jeff Pigeon",
+      "제프 구드",
+      "제프 피전",
+      "제프 피젼",
+      "제프 피존",
+      "제프 피지온",
+      "제프구드",
+      "제프리",
+      "제프피전",
+      "제프피지온",
+      "피지온"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "제프 피지온은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

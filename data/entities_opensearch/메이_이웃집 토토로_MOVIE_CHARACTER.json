@@ -1,0 +1,24 @@
+{
+  "entity": {
+    "name": "메이",
+    "synonym": [
+      "May",
+      "Mei",
+      "Mei Kusakabe",
+      "mei",
+      "めい",
+      "草壁メイ",
+      "매이",
+      "메이",
+      "메이 언니",
+      "메이짱",
+      "메이쨩",
+      "여동생 메이",
+      "쿠사카베 메이"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "메이은 영화 '이웃집 토토로'의 등장인물로, 사카모토 치카이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

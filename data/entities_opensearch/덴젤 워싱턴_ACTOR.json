@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "덴젤 워싱턴",
+    "synonym": [
+      "Denzel Washington",
+      "덴절 워싱턴",
+      "덴젤",
+      "덴젤 워싱턴",
+      "덴젤 워싱톤",
+      "덴젤워싱턴",
+      "덴젤워싱톤",
+      "워싱턴"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "덴젤 워싱턴은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

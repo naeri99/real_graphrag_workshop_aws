@@ -1,0 +1,221 @@
+{
+  "chunk_hash": "992b0e1985da3f",
+  "chunk_id": "김기린_992b0e1985da3f_23f4de00",
+  "user_query": "영화 이웃집 토토로의 주된 배경은 일본의 토코로자와시를 모델로 제작되었으며 초기 제목 또한 토토로가 아닌 토코로자와의 이웃집 유령이었다 그러나 미야자키는 어느 한 소녀가 토코로자와라고 발음하는 것을 보고 작품과 굉장히 잘 어울린다고 생각하여 제목을 이웃집 토토로로 변경하게 되었다 1970년대 말 미야자키는 동화 도토리와 살쾡이에서 영감을 받아 이웃집 토토로를 기획하게 되지만 캐릭터의 별 매력이 없네요 라는 이유로 거절당하게 된다 그 후 10년 뒤 미야자키는 토토로의 제작을 다시 한번 시도해보지만 이런 판타지 없습니까 사람들이 잘 안 볼 것 같은 말과 함께 또다시 거절당한 후 타카하타 이사오 사장님과 함께 1988년 4월 16일 공동 상영으로 세상에 공개되었다 여담으로 이웃집 토토로의 제작비는 약 120억 원이라는 금액이 투입되었지만 1988년 당시 극장 수입은 그의 절반이었던 61억 원 정도로 나왔으나 일본의 국민 프로그램이었던 금요 로드쇼에서 토토로가 방영된 이후 약 210만 개의 토토로 인형이 판매되었고 이로 인해 엄청난 수익을 벌어들인 지브리 측에서는 이를 기념하여 토토로 캐릭터를 지브리 심볼 마크로 사용하게 되었다 이웃집 토토로의 초기 각본은 본래 인간과 토토로 부족의 전쟁으로 인해 토토로가 멸종하게 되고 이 얼마 남지 않은 토토로가 현대에 들어서 다시 등장하게 된다는 내용이 구상되어 있었다 하지만 일상물로 기획되었던 토토로와는 전혀 어울리지 않는 스토리였기 때문에 이를 삭제하게 되었고 이후 이 설정은 폼포코 너구리 대작전에서 사용되었다고 한다 이웃집 토토로의 런닝타임은 본래 반딧불이의 묘와 함께 60분으로 기획되어 있었다 그러나 타카하타 이사오가 먼저 이 약속을 깨고 반딧불이의 묘의 런닝타임을 88분으로 변경하였고 미야자키 또한 시간을 늘리기 위해서 한 명이었던 주인공을 두 명으로 분산하여 런닝타임을 86분으로 늘리게 되었다 그런데 이와 반대로 토토로의 포스터에는 단 한 명의 소녀만이 그려져 있는 것을 찾아볼 수 있는데 이는 두 명을 전부 세우면 그림이 살지 않는다는 미야자키의 제안으로 인해서 두 주인공의 복장과 헤어스타일을 합쳐 단 한 명의 소녀만 그리게 되었다고 작품의 주인공인 사츠키와 메이는 각각 일본어와 영어로 5월을 뜻하고 있으며 작품의 시대적 배경 또한 1950년대 5월로 이웃집 토토로는 5월에 5월과 5월이 이사를 오며 이야기가 시작된다 주인공 가족이 이사를 오게 된 이 낡고 허름한 별장은 귀신이 나오는 집으로 소문이 자자 하지만 사실 미야자키의 말에 따르면 이곳은 원래 결핵 환자의 요양을 위해 지어진 건물이었다고 한다 그러나 건물이 다 완공되기도 전에 환자가 세상을 떠나는 바람에 결국 한참 미완성인 채로 버려지게 되었고 원래 한의원으로 근무할 예정이었던 칸타의 할머니가 이곳에 남아 건물을 관리하게 되었다고 여담으로 제작진들은 별장의 음침한 설정과는 다르게 이곳을 평소 자신들이 살고 싶어 했던 집을 생각하며 제작하였다고 하는데 놀랍게도 제작이 끝날 무렵에는 작품에 대한 말은 일절 하지 않은 채 연신 나는 언제 저런",
+  "movie_id": "토토로",
+  "reviewer": "김기린",
+  "chunk_index": 1,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "이웃집 토토로",
+      "entity_type": "MOVIE",
+      "entity_description": "이웃집 토토로는 1988년 4월 16일에 공개된 일본 애니메이션 영화로, 토코로자와시를 모델로 한 배경에서 두 자매가 토토로를 만나는 이야기를 다룬다. 제작비 약 120억 원이 투입되었으며, 지브리 스튜디오의 심볼 마크가 된 작품이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "미야자키",
+      "entity_type": "MOVIE_STAFF",
+      "entity_description": "미야자키는 이웃집 토토로의 감독으로, 1970년대 말부터 작품을 기획하였고 동화 '도토리와 살쾡이'에서 영감을 받았다. 런닝타임을 늘리기 위해 주인공을 한 명에서 두 명으로 분산하는 등 작품의 주요 결정을 내렸다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "타카하타 이사오",
+      "entity_type": "MOVIE_STAFF",
+      "entity_description": "타카하타 이사오는 지브리의 사장으로, 이웃집 토토로와 반딧불이의 묘를 공동 상영하였으며, 반딧불이의 묘의 런닝타임을 88분으로 변경한 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "토토로",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "토토로는 이웃집 토토로에 등장하는 숲의 정령 캐릭터로, 약 210만 개의 인형이 판매될 정도로 인기를 얻었으며 지브리의 심볼 마크로 사용되고 있다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "사츠키",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "사츠키는 이웃집 토토로의 주인공 중 한 명으로, 이름은 일본어로 5월을 뜻한다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "메이",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "메이는 이웃집 토토로의 주인공 중 한 명으로, 이름은 영어로 5월을 뜻한다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "칸타의 할머니",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "칸타의 할머니는 원래 한의원으로 근무할 예정이었으나 미완성 건물에 남아 별장을 관리하게 된 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "반딧불이의 묘",
+      "entity_type": "MOVIE",
+      "entity_description": "반딧불이의 묘는 1988년 이웃집 토토로와 공동 상영된 애니메이션 영화로, 런닝타임은 88분이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "폼포코 너구리 대작전",
+      "entity_type": "MOVIE",
+      "entity_description": "폼포코 너구리 대작전은 이웃집 토토로의 초기 각본에서 삭제된 인간과 토토로 부족의 전쟁 설정이 사용된 작품이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "미야자키",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "이웃집 토토로",
+      "target_type": "MOVIE",
+      "relationship_description": "미야자키는 이웃집 토토로의 감독으로 작품을 기획하고 연출하였다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "타카하타 이사오",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "이웃집 토토로",
+      "target_type": "MOVIE",
+      "relationship_description": "타카하타 이사오는 이웃집 토토로의 공동 상영을 결정한 사장이다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "타카하타 이사오",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "반딧불이의 묘",
+      "target_type": "MOVIE",
+      "relationship_description": "타카하타 이사오는 반딧불이의 묘의 런닝타임을 88분으로 결정하였다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "토토로",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "이웃집 토토로",
+      "target_type": "MOVIE",
+      "relationship_description": "토토로는 이웃집 토토로의 핵심 캐릭터이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "사츠키",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "이웃집 토토로",
+      "target_type": "MOVIE",
+      "relationship_description": "사츠키는 이웃집 토토로의 주인공이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "메이",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "이웃집 토토로",
+      "target_type": "MOVIE",
+      "relationship_description": "메이는 이웃집 토토로의 주인공이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "사츠키",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "메이",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "사츠키와 메이는 이웃집 토토로에서 자매 관계이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "칸타의 할머니",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "이웃집 토토로",
+      "target_type": "MOVIE",
+      "relationship_description": "칸타의 할머니는 이웃집 토토로에 등장하는 인물이다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "이웃집 토토로",
+      "source_type": "MOVIE",
+      "target_entity": "반딧불이의 묘",
+      "target_type": "MOVIE",
+      "relationship_description": "이웃집 토토로와 반딧불이의 묘는 1988년 공동 상영되었다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "이웃집 토토로",
+      "source_type": "MOVIE",
+      "target_entity": "폼포코 너구리 대작전",
+      "target_type": "MOVIE",
+      "relationship_description": "이웃집 토토로의 삭제된 설정이 폼포코 너구리 대작전에서 사용되었다",
+      "relationship_strength": 6
+    }
+  ],
+  "entity_resolution": {
+    "이웃집 토토로": {
+      "description": "이웃집 토토로 -> 이웃집 토토로",
+      "resolved_name": "이웃집 토토로",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "미야자키": {
+      "description": "미야자키 -> 미야자키 하야오",
+      "resolved_name": "미야자키 하야오",
+      "entity_type": "MOVIE_STAFF",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "타카하타 이사오": {
+      "description": "타카하타 이사오 -> 타카하타 이사오",
+      "resolved_name": "타카하타 이사오",
+      "entity_type": "MOVIE_STAFF",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "토토로": {
+      "description": "토토로 -> 토토로",
+      "resolved_name": "토토로",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "사츠키": {
+      "description": "사츠키 -> 사츠키",
+      "resolved_name": "사츠키",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "메이": {
+      "description": "메이 -> 메이",
+      "resolved_name": "메이",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "칸타의 할머니": {
+      "description": "칸타의 할머니 -> 칸타의 할머니",
+      "resolved_name": "칸타의 할머니",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "반딧불이의 묘": {
+      "description": "반딧불이의 묘 -> 반딧불이의 묘",
+      "resolved_name": "반딧불이의 묘",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "폼포코 너구리 대작전": {
+      "description": "폼포코 너구리 대작전 -> 폼포코 너구리 대작전",
+      "resolved_name": "폼포코 너구리 대작전",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "로니 델 카르멘",
+    "synonym": [
+      "Ronnie",
+      "Ronnie Del Carmen",
+      "Ronnie del Carmen",
+      "델 카르멘",
+      "로니",
+      "로니 델 카르멘",
+      "로니 델 카멘",
+      "로니 델카르멘",
+      "로니 카르멘",
+      "로니델카르멘"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "로니 델 카르멘은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

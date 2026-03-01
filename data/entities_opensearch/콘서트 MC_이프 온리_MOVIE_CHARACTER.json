@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "콘서트 MC",
+    "synonym": [
+      "Concert MC",
+      "MC",
+      "사회자",
+      "엠씨",
+      "콘서트 MC",
+      "콘서트 사회자",
+      "콘서트 엠씨",
+      "콘서트MC",
+      "콘서트엠씨"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "콘서트 MC은 영화 '이프 온리'의 등장인물로, 네빌 필립스이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

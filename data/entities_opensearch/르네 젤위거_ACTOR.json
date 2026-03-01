@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "르네 젤위거",
+    "synonym": [
+      "Renee Zellweger",
+      "Renée Zellweger",
+      "레네 젤위거",
+      "레니 젤위거",
+      "르네",
+      "르네 젤웨거",
+      "르네 젤위거",
+      "르네젤위거",
+      "젤위거"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "르네 젤위거은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

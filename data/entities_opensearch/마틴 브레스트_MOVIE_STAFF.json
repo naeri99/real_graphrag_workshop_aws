@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "마틴 브레스트",
+    "synonym": [
+      "Martin",
+      "Martin Brest",
+      "마틴",
+      "마틴 브래스트",
+      "마틴 브레스트",
+      "마틴 브레스트 감독",
+      "마틴브레스트",
+      "브레스트",
+      "브레스트 감독"
+    ],
+    "entity_type": "MOVIE_STAFF",
+    "summary": "마틴 브레스트은 영화 감독입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

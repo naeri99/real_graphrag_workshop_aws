@@ -1,0 +1,17 @@
+{
+  "entity": {
+    "name": "다니 로비라",
+    "synonym": [
+      "Dani Rovira",
+      "다니",
+      "다니 로비라",
+      "다니로비라",
+      "대니 로비라",
+      "로비라"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "다니 로비라은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

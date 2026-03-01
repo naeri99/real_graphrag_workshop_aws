@@ -1,0 +1,102 @@
+{
+  "chunk_hash": "b5a46b3c6a61da",
+  "chunk_id": "요런시점_movie_b5a46b3c6a61da_025f5d1c",
+  "user_query": "이 영상은 예전에 올렸던\n'테넷' 해설 영상들을 내용과 이미지들을\n수정 보완하여 합본한 것입니다 스포일러가 가득 들어있으니\n꼭 영화를 보신 후에 시청해 주시기 바랍니다 골치 아픈 내용 전에 기본적인 것부터\n하나하나 설명해 드릴 텐데요 이미 알고 계신 분들이라면 바로 오슬로 회전문과\n탈린 회전문으로 가셔도 괜찮습니다 고정댓글의 목차를\n참고해 주시고요 하지만 반드시\n미리 숙지하셔야 할 것은 회전문에 먼저 들어간 사람이 반대편 시간에서는\n나중에 나온다는 점입니다 이러한 '선입후출'은 회전문 앞에서 벌어지는\n사건의 동선을 그릴 때 필수적인 내용이기 때문에 이 점이 잘\n이해가 안 가시는 분들은 '선입후출' 설명 파트를\n꼭 먼저 봐주세요 여기 회전문이 있는 방이 있고 중간에는 유리로 된\n칸막이가 있습니다 왼쪽에는\n입구와 출구가 있죠 사토르의 항구 옆 아지트에 있는\n회전문을 보면 아래에 있는 방에는\n빨간 조명이 켜져 있고 위에 있는 방에는\n파란 조명이 켜져 있습니다 레드팀과 블루팀의\n구분에서도 알 수 있듯이 빨간색은 영화에서\n시간의 순행을 가리키는 색깔이고 파란색은 시간의 역행을\n가리키는 색깔입니다 그러니까 시간이 순행일 때\n빨간 방 쪽으로 들어간 사람은 파란 방으로 나올 때\n시간 역행으로 인버전이 되는 것이죠 프리포트의 회전문에서는\n조명 대신에 바닥과 벽에 빨간 선과 파란 선이 그어져 있어서\n이를 구분하고 있습니다 그리고 마지막 레드팀과\n블루팀의 전투 장면을 보면 컨테이너는 파란색인데 헬기의 날개를 보면\n빨간색인 경우가 있습니다 이는 헬기는\n시간에 순행하고 있지만 컨테이너 안의 사람들은\n역행하고 있다는 사실을 가리키죠 이 사토르의 회전문에서\n한 가지 짚어두어야 할 점은 바로 이 파란 방의 실내 공간이\n인버전된 산소로 채워져 있다는 것입니다 왜냐하면\n역행하는 사람의 폐는 순행하는 공기를\n흡입할 수가 없기 때문에 회전문에서 나와서\n숨이 막히지 않도록 이 안의 공기를\n미리 역행 공기로 채워둔 것이죠 하지만\n밖으로 나가게 되면 다시 순행 공기를\n마시게 되기 때문에 반드시\n마스크를 써야 합니다 그래서\n마스크를 쓴 사람을 보면 그가 역행 중인 사람임을\n쉽게 확인할 수가 있죠 예를 들어 이 장면에서\n사토르는 마스크를 쓰고 있으니 역행 중임을 알 수 있지만 순행 중인 캣은\n마스크를 쓰고 있지 않죠 이 장면에서도\n운전자는 순행 중이지만 뒷좌석에서 나오는 남자는\n역행 중임을 알 수가 있습니다 어떻게 이런 상황이\n가능한 건지 정말 볼수록\n신기하기만 합니다 그리고 사토르가 캣을 데리고\n파란 방에 들어왔을 때는 사토르가 마스크를 벗고\n캣은 마스크를 쓰고 있습니다 아까 말씀드렸듯이 이쪽의 공기는\n역행 공기로 가득 차 있기 때문에 시간의 순행하는 캣은\n이 안에서 숨을 쉴 수가 없죠 주인공 일행이 시간을 역행하면서\n배 안에서 지낼 때에도 항상 비닐로 된 방에서 역행하는 공기를 마시며\n지내는 것을 볼 수가 있습니다 마스크에 대한 설명은\n이 정도로 하고요 입구에서 들어온 사람이\n회전문에 도착하는데 걸리는 시간을 10초라고 가정하겠습니다 인버전 된 사람이",
+  "movie_id": "테넷",
+  "reviewer": "요런시점_movie",
+  "chunk_index": 1,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "테넷",
+      "entity_type": "MOVIE",
+      "entity_description": "테넷은 시간의 순행과 역행을 다루는 영화로, 회전문을 통해 인버전(시간 역행)이 가능한 세계관을 가진 작품이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "사토르",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "사토르는 테넷의 등장인물로, 항구 옆 아지트에 회전문을 보유하고 있으며 캣을 데리고 다니는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "캣",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "캣은 테넷의 등장인물로, 사토르와 함께 등장하며 순행 중일 때는 마스크를 쓰지 않고, 역행 공기가 있는 파란 방에서는 마스크를 착용한다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "주인공",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "테넷의 주인공으로, 일행과 함께 시간을 역행하면서 배 안에서 비닐로 된 방에서 역행하는 공기를 마시며 지낸다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "사토르",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "테넷",
+      "target_type": "MOVIE",
+      "relationship_description": "사토르는 테넷에 등장하는 캐릭터이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "캣",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "테넷",
+      "target_type": "MOVIE",
+      "relationship_description": "캣은 테넷에 등장하는 캐릭터이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "주인공",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "테넷",
+      "target_type": "MOVIE",
+      "relationship_description": "주인공은 테넷의 메인 캐릭터이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "사토르",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "캣",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "사토르는 캣을 데리고 파란 방에 들어오는 등 캣과 밀접한 관계에 있다",
+      "relationship_strength": 8
+    }
+  ],
+  "entity_resolution": {
+    "테넷": {
+      "description": "테넷 -> 테넷",
+      "resolved_name": "테넷",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "사토르": {
+      "description": "사토르 -> Andrei Sator",
+      "resolved_name": "Andrei Sator",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "캣": {
+      "description": "캣 -> 캣걸",
+      "resolved_name": "캣걸",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "주인공": {
+      "description": "주인공 -> 레인",
+      "resolved_name": "레인",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    }
+  }
+}

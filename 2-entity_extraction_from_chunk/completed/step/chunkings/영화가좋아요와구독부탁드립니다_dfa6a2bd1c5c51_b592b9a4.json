@@ -1,0 +1,124 @@
+{
+  "chunk_hash": "dfa6a2bd1c5c51",
+  "chunk_id": "영화가좋아요와구독부탁드립니다_dfa6a2bd1c5c51_b592b9a4",
+  "user_query": "슬픈 것도 잠시 뭔가 일이 있어. 아무도 없이 이렇게 강같이 잠수를 탈 수 있는 성격이 아니야. 걔가 그래서 내가 경찰에 신고했어. 아 내 자기 집으로 경찰이 갈 거야. 그러니 협조해. 처장님 혹시 지금 저 의심하십니까? 셀프로 갇혔잖아요. 딸에 대한 행방은 몰라도 바람기는 충분히 의심되고도 남는 이때 벽 뒤에서 수도를 끊어버린 여자 뭘 끊어? 민소매와 두꺼운 털을 동시에 입고 겨울도 여름도 아닌 결음을 표현 중인 여자 나야 뺏었다가 돌려주는 킬킬의 아이스크림식의 수도 공급으로 존재감을 알리려 합니다. 미친다면 분명 이상하다고 느낄 만한데요. 씻어야지. 못 씻겠지. 알아채야 할 텐데요. 남자는 새 출발하고 벽 뒤에 갇힌 여자는 영영 못 나오는 걸까요? 기생충으로부터 5년 뒤 대저택에 몰래 사는 사람의 심정을 알게 된 사모님의 역지사지 스릴러 히든 페이스였습니다.",
+  "movie_id": "히든페이스",
+  "reviewer": "영화가좋아요와구독부탁드립니다",
+  "chunk_index": 3,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "히든 페이스",
+      "entity_type": "MOVIE",
+      "entity_description": "히든 페이스는 대저택에 몰래 사는 사람의 심정을 다룬 역지사지 스릴러 영화이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "기생충",
+      "entity_type": "MOVIE",
+      "entity_description": "기생충은 히든 페이스보다 5년 전에 개봉한 영화로, 대저택에 몰래 사는 사람이 등장하는 작품이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "처장님",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "처장님은 딸의 실종에 대해 경찰에 신고하고 상대방을 의심하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "벽 뒤에 갇힌 여자",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "벽 뒤에서 수도를 끊어버리며 존재감을 알리려 하는 여자로, 민소매와 두꺼운 털을 동시에 입고 있는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "사모님",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "사모님은 대저택에 몰래 사는 사람의 심정을 알게 되는 인물이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "벽 뒤에 갇힌 여자",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "히든 페이스",
+      "target_type": "MOVIE",
+      "relationship_description": "벽 뒤에 갇힌 여자는 히든 페이스의 주요 등장인물이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "처장님",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "히든 페이스",
+      "target_type": "MOVIE",
+      "relationship_description": "처장님은 히든 페이스에 등장하는 인물이다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "사모님",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "히든 페이스",
+      "target_type": "MOVIE",
+      "relationship_description": "사모님은 히든 페이스의 등장인물이다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "처장님",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "벽 뒤에 갇힌 여자",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "처장님은 벽 뒤에 갇힌 여자의 존재를 알아채지 못하고 있다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "히든 페이스",
+      "source_type": "MOVIE",
+      "target_entity": "기생충",
+      "target_type": "MOVIE",
+      "relationship_description": "히든 페이스는 기생충으로부터 5년 뒤 유사한 설정(대저택에 몰래 사는 사람)을 다룬 영화이다",
+      "relationship_strength": 6
+    }
+  ],
+  "entity_resolution": {
+    "히든 페이스": {
+      "description": "히든 페이스 -> 히든페이스",
+      "resolved_name": "히든페이스",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "기생충": {
+      "description": "기생충 -> 기생충",
+      "resolved_name": "기생충",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "처장님": {
+      "description": "처장님 -> 처장님",
+      "resolved_name": "처장님",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "벽 뒤에 갇힌 여자": {
+      "description": "벽 뒤에 갇힌 여자 -> 벽 뒤에 갇힌 여자",
+      "resolved_name": "벽 뒤에 갇힌 여자",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "사모님": {
+      "description": "사모님 -> 혜연",
+      "resolved_name": "혜연",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    }
+  }
+}

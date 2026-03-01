@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "김수미",
+    "synonym": [
+      "Kim Soo-mi",
+      "Kim Soomi",
+      "김 수미",
+      "김선생님",
+      "김수미",
+      "김수미 배우",
+      "김수미 선배님",
+      "김수미 씨",
+      "김수미씨",
+      "수미",
+      "수미씨"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "김수미은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

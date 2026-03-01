@@ -1,0 +1,17 @@
+{
+  "entity": {
+    "name": "치 맥브라이드",
+    "synonym": [
+      "Chi McBride",
+      "맥 브라이드",
+      "맥브라이드",
+      "치",
+      "치 맥브라이드",
+      "치맥브라이드"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "치 맥브라이드은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

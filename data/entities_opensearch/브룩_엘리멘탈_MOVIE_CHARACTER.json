@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "브룩",
+    "synonym": [
+      "Brook",
+      "Brook Ripple",
+      "물 어머니",
+      "부룩",
+      "브루크",
+      "브룩",
+      "브룩 리플",
+      "브룩리플",
+      "웨이드 엄마",
+      "웨이드 이모",
+      "웨이드엄마"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "브룩은 영화 '엘리멘탈'의 등장인물로, 캐서린 오하라이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

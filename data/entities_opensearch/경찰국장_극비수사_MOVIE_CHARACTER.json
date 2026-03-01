@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "경찰국장",
+    "synonym": [
+      "Police Chief",
+      "경찰 국장",
+      "경찰국 국장",
+      "경찰국장",
+      "경찰국장 캐릭터",
+      "경찰국장님",
+      "국장",
+      "국장님"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "경찰국장은 영화 '극비수사'의 등장인물로, 남문철이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "entity": {
+    "name": "채널휸_리뷰하는_남자",
+    "synonym": [
+      "채널휸_리뷰하는_남자",
+      "채널휸 리뷰하는 남자"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "채널휸_리뷰하는_남자은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

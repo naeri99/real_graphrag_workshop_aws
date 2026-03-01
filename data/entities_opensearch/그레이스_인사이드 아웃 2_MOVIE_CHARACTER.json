@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "그레이스",
+    "synonym": [
+      "Grace",
+      "그레이",
+      "그레이스",
+      "그레이스 친구",
+      "그레이스 캐릭터",
+      "그레이스역",
+      "그레이스캐릭터",
+      "그레이쓰"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "그레이스은 영화 '인사이드 아웃 2'의 등장인물로, 그레이스 루이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

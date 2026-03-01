@@ -1,0 +1,102 @@
+{
+  "chunk_hash": "87094f1cada9b5",
+  "chunk_id": "무드킹_87094f1cada9b5_78e5201c",
+  "user_query": "it could be anyone it could be a mistake i flew out there after you visited no you're going to be an artist you're going to make me proud sorry about how everything's worked out it's not your fault i've been thinking about what i want to do when i grow up i'd be proud of you no matter what you did good i told mom i wouldn't be long give him my love i will i'll see you dad gabriel i'm sorry it's not your fault dad david david [Music] [Music] well it was a big trip i know if i could do it all over again i would ask i know i have to stop thinking of them as if they're still children you talk to me about things that i should listen to you more carefully visit me for the holidays and you know what this time i believe them david i hope we'll spend christmas with you guys if it wasn't for his dad that he never would have become an artist look we might have something of his in storage i can check if you'd like okay sure okay he wasn't concerned with fashion [Music] this is frank uh i'm i'm not out i'm not here at the moment shopping for the holidays promised to cook the turkey for the first time this year and treat the children to some expensive wine sale price oh it's a sale price that side's perfect kidding me oh yeah yeah what's that sound turkey so efficient check that turkey grandpa that's a big bird you better cook it properly well mom actually would have cooked it for at least 30 minutes 41 years we've been married she always overcooked i just never had the heart to tell her",
+  "movie_id": "에브리바디스 파인",
+  "reviewer": "무드킹",
+  "chunk_index": 8,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "GABRIEL",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Gabriel은 영화 속 등장인물로, 아버지와 대화를 나누며 예술가가 되겠다는 꿈을 가진 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "DAVID",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "David는 영화 속 등장인물로, Gabriel의 아버지이며 가족과의 관계와 과거를 회상하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "FRANK",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Frank는 영화 속 등장인물로, 전화 메시지를 남기며 휴일 쇼핑과 칠면조 요리를 준비하는 할아버지 역할의 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "MOM",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Mom은 영화 속 등장인물로, Gabriel이 언급하는 어머니이며 Frank와 41년간 결혼생활을 한 인물이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "GABRIEL",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "DAVID",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Gabriel은 David의 아들이며, David는 Gabriel이 예술가가 되도록 영향을 준 아버지이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "DAVID",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "GABRIEL",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "David는 Gabriel의 아버지로서 그가 예술가가 될 수 있도록 지원했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "GABRIEL",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "MOM",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Gabriel은 Mom에게 오래 걸리지 않겠다고 말하며, Mom은 Gabriel의 어머니이다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "FRANK",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "MOM",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Frank와 Mom은 41년간 결혼한 부부 관계이며, Frank는 Mom이 항상 칠면조를 너무 익혔다고 언급한다",
+      "relationship_strength": 9
+    }
+  ],
+  "entity_resolution": {
+    "GABRIEL": {
+      "description": "GABRIEL -> GABRIEL",
+      "resolved_name": "GABRIEL",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "DAVID": {
+      "description": "DAVID -> DAVID",
+      "resolved_name": "DAVID",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "FRANK": {
+      "description": "FRANK -> Frank Wolff",
+      "resolved_name": "Frank Wolff",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "MOM": {
+      "description": "MOM -> MOM",
+      "resolved_name": "MOM",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

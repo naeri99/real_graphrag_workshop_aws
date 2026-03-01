@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "마이크 마츠 코치",
+    "synonym": [
+      "Coach Mike Martz",
+      "Mike Martz",
+      "마이크 마르츠",
+      "마이크 마츠",
+      "마이크 마츠 코치",
+      "마이크마츠",
+      "마이크마츠코치",
+      "마츠",
+      "마츠 코치"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "마이크 마츠 코치은 영화 '아메리칸 언더독'의 등장인물로, 챈스 켈리이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

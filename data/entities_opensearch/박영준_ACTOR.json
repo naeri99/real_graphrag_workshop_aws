@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "박영준",
+    "synonym": [
+      "Park Young-jun",
+      "Park Youngjun",
+      "Young-jun Park",
+      "박 영준",
+      "박영준",
+      "박영준 배우",
+      "배우 박영준",
+      "영준"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "박영준은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

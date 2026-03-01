@@ -1,0 +1,18 @@
+{
+  "entity": {
+    "name": "민철",
+    "synonym": [
+      "Min-chul",
+      "민 철",
+      "민철",
+      "민철 캐릭터",
+      "민철씨",
+      "민철이",
+      "캐릭터 민철"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "민철은 영화 '슬픔보다 더 슬픈 이야기'의 등장인물로, 신현탁이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

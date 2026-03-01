@@ -1,0 +1,71 @@
+{
+  "chunk_hash": "27edfaf5b02faa",
+  "chunk_id": "서삐삐의_영화리뷰_27edfaf5b02faa_c01a6f60",
+  "user_query": "안녕하세요 대충하는 영화리뷰\n저는 서삐삐입니다. 오늘은 영화 미드소마에 \n대한 해설 영상입니다. 영화에 대한 스포일러 가득한 리뷰이기 때문에 아직 영화 미드소마를 보지 않으셨다면 영화를 보고 오시는 걸 추천드려요. 또 미드소마 보고는 싶은데 \n너무 무서워서 진짜 못 보겠다 라는 분들 중 \"스포일러 괜찮다\"\n하시는 분들은 함께 봐요. 먼저 \"좋아요, 구독, 알람 설정\" 눌러주시고 \n영화 미드소마 내용 해석 바로 시작해볼게요. 불행한 사건으로 인해 슬픔에 빠진 Dani\nDani는 친구의 초대로 호르가라는 스웨덴의 작은 마을에 \n가게 되는데요. 한여름, 낮이 가장 긴 하지에 \n열리는 축제 '미드소마'에 Dani와 친구들은 그곳에서 \n기이하고도 이상한 경험을 하게 됩니다. 스웨덴에서는 매년 6월 중순에 (제 발음은 실제 발음과 많이 차이가 있습니다.)\n미드솜마다겐 혹은 미드솜마라프톤 이라는 \n하지 축제를 여는데요. 여기서 미드소마 (midsommar) 는 'midsummer'이라는 '한여름'이라는 뜻을 가지고 있어요. 영화에 등장하는 호르가라는 마을은 인간의 삶을 사계절로 분리해 사람의 나이를 하나의 계절로 보는데요. 그래서 태어난 순간부터 18살을 '봄' 18살에서 36살을 '여름' 36살에서 54살을 '가을' 54살에서 72살을 '겨울'로 나누어 같은 주기에 있는 사람들끼리 생활합니다. 참고로 주인공 Dani의 나이는 26살인데요. 호르가 마을 기준으로는 한여름,\n즉 미드소마인 거죠. Dani가 호르가 마을에 오게 된 이유 그리고 Dani가 메이퀸이 된 이유\n뭔가 필연적이지 않나요? 호르가 마을에서는 일흔두 살의 생일이 되면 절벽에서 직접 삶을 마감하는 의식을 치룹니다. 'Ättestupa(애터스투파)'라는 단어가 스웨덴어 사전에 명시되어 있는데 스웨덴의 여러 절벽, 벼랑에 붙여진 이름입니다. 이 Ättestupa는 자살절벽이라는 뜻을 가지고 있어요. 북유럽 전설에 따르면\n이곳에서는 의식적인 노인 살인이 일어났다고 합니다. 노인들이 가정을 더 이상 돌볼 수 없을 때 혹은 자신을 부양하는 가족들에게 짐이 되지 않으려고 자살을 하거나 투신이 행해졌다고 하는데요. 이 호르가에서도 역시 일흔두 살이 되면 절벽에서 투신을 하고 다음에 태어나는 아이들이 그 죽은 사람들의 이름을 물려받게 되는 거죠. 이름의 이야기가 나와서 말인데... 주인공들의 이름들도 한번 확인해볼까요? Dani를 포함한 친구들의 이름을 보면 기독교 성경에서 따온 이름이라는 것을 알 수 있습니다. Dani는 다니엘 Dani의 남자친구",
+  "movie_id": "미드소마",
+  "reviewer": "서삐삐의_영화리뷰",
+  "chunk_index": 1,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "미드소마",
+      "entity_type": "MOVIE",
+      "entity_description": "미드소마는 스웨덴의 작은 마을 호르가에서 벌어지는 하지 축제를 배경으로 한 공포 영화로, 주인공 다니와 친구들이 기이하고 이상한 경험을 하게 되는 내용을 담고 있다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "서삐삐",
+      "entity_type": "REVIEWER",
+      "entity_description": "서삐삐는 '대충하는 영화리뷰' 채널을 운영하며 영화 미드소마에 대한 해설 영상을 제작한 유튜버이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "DANI",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "다니는 미드소마의 주인공으로 26살이며, 불행한 사건으로 슬픔에 빠진 후 친구의 초대로 스웨덴 호르가 마을을 방문하게 되고, 메이퀸이 된다. 이름은 기독교 성경의 다니엘에서 따왔다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "서삐삐",
+      "source_type": "REVIEWER",
+      "target_entity": "미드소마",
+      "target_type": "MOVIE",
+      "relationship_description": "서삐삐는 미드소마에 대한 해설 및 리뷰 영상을 제작했다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "DANI",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "미드소마",
+      "target_type": "MOVIE",
+      "relationship_description": "다니는 미드소마의 주인공이다",
+      "relationship_strength": 10
+    }
+  ],
+  "entity_resolution": {
+    "미드소마": {
+      "description": "미드소마 -> 미드소마",
+      "resolved_name": "미드소마",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "서삐삐": {
+      "description": "서삐삐 -> 서삐삐의_영화리뷰",
+      "resolved_name": "서삐삐의_영화리뷰",
+      "entity_type": "REVIEWER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "DANI": {
+      "description": "DANI -> Dani",
+      "resolved_name": "Dani",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    }
+  }
+}

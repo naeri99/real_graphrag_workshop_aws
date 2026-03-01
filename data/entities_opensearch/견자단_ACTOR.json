@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "견자단",
+    "synonym": [
+      "Donnie Yen",
+      "Donnie Yen Ji-dan",
+      "甄子丹",
+      "견 자단",
+      "견자단",
+      "도니 옌",
+      "도니옌",
+      "돈니 옌",
+      "자단",
+      "진쯔단"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "견자단은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "entity": {
+    "name": "루크 홉스",
+    "synonym": [
+      "Agent Hobbs",
+      "Luke Hobbs",
+      "Rook",
+      "개 머리",
+      "대머리",
+      "루크",
+      "루크 목소리",
+      "루크 캐릭터",
+      "루크 홉스",
+      "루크홉스",
+      "룩",
+      "빡빡이",
+      "빡빡이 홉스",
+      "안드로이드 루크",
+      "홈즈",
+      "홉스",
+      "홉스 요원"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "루크 홉스은 영화 '홉스앤쇼'의 등장인물로, 드웨인 존슨이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

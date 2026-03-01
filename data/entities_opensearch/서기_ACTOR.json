@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "서기",
+    "synonym": [
+      "Shu Qi",
+      "서 기",
+      "서기",
+      "서기 배우",
+      "서기이",
+      "수기",
+      "수치",
+      "슈 치",
+      "슈기",
+      "슈치"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "서기은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

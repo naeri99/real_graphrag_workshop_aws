@@ -1,0 +1,27 @@
+{
+  "entity": {
+    "name": "Willowdean 'Dumplin'",
+    "synonym": [
+      "Dumplin",
+      "Will",
+      "Willowdean",
+      "Willowdean 'Dumplin'",
+      "Willowdean Dickson",
+      "Willowdean Dixon",
+      "덤플린",
+      "덤플링",
+      "로디",
+      "윌",
+      "윌로디",
+      "윌로딘",
+      "윌로딘 딕슨",
+      "윌로딩",
+      "윌로우딘",
+      "윌로우딘 덤플린"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "Willowdean 'Dumplin'은 영화 '덤플링'의 등장인물로, 다니엘 맥도날드이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "entity": {
+    "name": "에헤라_티비_-_KBS_LIFE",
+    "synonym": [
+      "에헤라_티비_-_KBS_LIFE",
+      "에헤라 티비 - KBS LIFE"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "에헤라_티비_-_KBS_LIFE은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

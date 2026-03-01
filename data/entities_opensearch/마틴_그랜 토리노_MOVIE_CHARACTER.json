@@ -1,0 +1,26 @@
+{
+  "entity": {
+    "name": "마틴",
+    "synonym": [
+      "Martin",
+      "Martin Feldstein",
+      "Martin Scorsese",
+      "마르틴",
+      "마아틴",
+      "마틴",
+      "마틴 스콜세지",
+      "마틴 이발사",
+      "마틴 펠드스타인",
+      "마틴스코세이지",
+      "마틴씨",
+      "마틴펠드스타인",
+      "말틴",
+      "스코세이지",
+      "펠드스타인"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "마틴은 영화 '그랜 토리노'의 등장인물로, 존 캐럴 린치이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

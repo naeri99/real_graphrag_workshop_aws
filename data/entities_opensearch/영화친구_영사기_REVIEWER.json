@@ -1,0 +1,13 @@
+{
+  "entity": {
+    "name": "영화친구_영사기",
+    "synonym": [
+      "영화친구_영사기",
+      "영화친구 영사기"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "영화친구_영사기은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

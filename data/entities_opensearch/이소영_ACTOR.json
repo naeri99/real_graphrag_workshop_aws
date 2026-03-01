@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "이소영",
+    "synonym": [
+      "Lee So-young",
+      "Lee Soyoung",
+      "So-young Lee",
+      "배우 이소영",
+      "소영",
+      "이 소영",
+      "이소영",
+      "이소영 배우"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "이소영은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "파퍼 할아버지",
+    "synonym": [
+      "Grandpa Popper",
+      "Popper 할아버지",
+      "파퍼 조부",
+      "파퍼 할아버지",
+      "파퍼조부",
+      "파퍼할아버지",
+      "포퍼 할아버지",
+      "할아버지 파퍼"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "파퍼 할아버지은 영화 '파퍼씨네 펭귄들'의 등장인물로, 도미닉 치아니즈이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

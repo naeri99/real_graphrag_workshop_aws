@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "프리야",
+    "synonym": [
+      "Priya",
+      "Priya Singh",
+      "쁘리야",
+      "프리아",
+      "프리야",
+      "프리야 싱",
+      "프리야 캐릭터",
+      "프리야싱",
+      "프리야캐릭터"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "프리야은 영화 '테넷'의 등장인물로, 딤플 카파디아이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

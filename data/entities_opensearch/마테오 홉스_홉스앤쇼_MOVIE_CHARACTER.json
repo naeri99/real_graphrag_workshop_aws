@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "마테오 홉스",
+    "synonym": [
+      "Mateo",
+      "Mateo Hobbs",
+      "마테오",
+      "마테오 홉스",
+      "마테오홉스",
+      "홉스",
+      "홉스 동생",
+      "홉스의 형제"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "마테오 홉스은 영화 '홉스앤쇼'의 등장인물로, 로만 레인즈이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

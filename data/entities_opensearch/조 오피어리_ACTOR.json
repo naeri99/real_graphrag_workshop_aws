@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "조 오피어리",
+    "synonym": [
+      "Joe",
+      "Joe Aufiery",
+      "오피어리",
+      "오피에리",
+      "조",
+      "조 오피리",
+      "조 오피어리",
+      "조 오피에리",
+      "조오피어리",
+      "조오피에리"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "조 오피어리은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

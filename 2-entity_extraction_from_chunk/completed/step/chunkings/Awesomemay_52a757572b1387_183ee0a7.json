@@ -1,0 +1,205 @@
+{
+  "chunk_hash": "52a757572b1387",
+  "chunk_id": "Awesomemay_52a757572b1387_183ee0a7",
+  "user_query": "not fair what life's not fair you can actually call that number and hear that voice line and I love that fact life's not fair what life's not fair DreamWorks went above and beyond I wish they did the same with the marketing there's a few running jokes with some of the side characters I thought were strong even if they didn't really have much of an impact to the overarching world I liked Big Jim wishing he had Petey back in jail so he could feel less lonely officer Milly just info dumps about her life problems every time she's on screen and I could not have been more into it and the voice acting from her like when Anthony fell asleep on his fishing boat and he yells through the door why did you untie my boat and I'm like me it's not my fault you can't tie a knot Captain Sty PD's former assistant Butler constantly coming into his headquarters to be a smart alec to him was such a fun back and forth that could have gotten old but didn't and do not get me started on Chief I absolutely adored how they handled his switch-ups as he goes from rooting for Dog Man being his supporter to then being absolutely pissed off at him other times his frustrated screams as Dog Man licks all over him while he's trying to explain their duties brought the stored 8-year-old Giggles out of me that I had left in the days of watching PBS before school why do you always got to lick the insides out of my mouth like if you don't take anything out of this film at the end of the day there are just some",
+  "movie_id": "도그맨",
+  "reviewer": "Awesomemay",
+  "chunk_index": 6,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "DOG MAN",
+      "entity_type": "MOVIE",
+      "entity_description": "Dog Man은 DreamWorks에서 제작한 애니메이션 영화로, 다양한 캐릭터들의 코믹한 상호작용을 담고 있다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "BIG JIM",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Big Jim은 감옥에서 Petey가 돌아오길 바라며 외로움을 느끼는 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "PETEY",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Petey는 감옥에 있던 캐릭터로 Big Jim과 관련이 있다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "OFFICER MILLY",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Officer Milly는 화면에 등장할 때마다 자신의 인생 문제를 쏟아내는 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "ANTHONY",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Anthony는 낚시 배에서 잠이 든 캐릭터로, 배가 풀려나는 사건과 관련이 있다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "CAPTAIN STY",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Captain Sty는 PD의 전직 보조 집사가 있는 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "BUTLER",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Butler는 Captain Sty의 전직 보조로, 그의 본부에 와서 빈정거리는 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "CHIEF",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Chief는 Dog Man을 응원하다가 화를 내는 등 태도가 계속 바뀌는 캐릭터로, Dog Man이 핥을 때 좌절하며 소리지르는 장면이 인상적이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "DOG MAN",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Dog Man은 영화의 주인공으로, Chief를 핥는 등의 행동을 하며 Chief의 지지와 분노를 동시에 받는 캐릭터이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "BIG JIM",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "DOG MAN",
+      "target_type": "MOVIE",
+      "relationship_description": "Big Jim은 Dog Man 영화의 조연 캐릭터이다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "BIG JIM",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "PETEY",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Big Jim은 Petey가 감옥에 돌아오길 바라며 외로움을 느낀다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "OFFICER MILLY",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "DOG MAN",
+      "target_type": "MOVIE",
+      "relationship_description": "Officer Milly는 Dog Man 영화의 조연 캐릭터이다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "ANTHONY",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "DOG MAN",
+      "target_type": "MOVIE",
+      "relationship_description": "Anthony는 Dog Man 영화의 조연 캐릭터이다",
+      "relationship_strength": 6
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "CAPTAIN STY",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "BUTLER",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Butler는 Captain Sty의 전직 보조로 그에게 빈정거린다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "CAPTAIN STY",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "DOG MAN",
+      "target_type": "MOVIE",
+      "relationship_description": "Captain Sty는 Dog Man 영화의 캐릭터이다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "BUTLER",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "DOG MAN",
+      "target_type": "MOVIE",
+      "relationship_description": "Butler는 Dog Man 영화의 캐릭터이다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "CHIEF",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "DOG MAN",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Chief는 Dog Man을 응원하다가 화를 내기도 하며, Dog Man이 자신을 핥을 때 좌절한다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "CHIEF",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "DOG MAN",
+      "target_type": "MOVIE",
+      "relationship_description": "Chief는 Dog Man 영화의 주요 캐릭터이다",
+      "relationship_strength": 8
+    }
+  ],
+  "entity_resolution": {
+    "DOG MAN": {
+      "description": "DOG MAN -> DOG MAN",
+      "resolved_name": "DOG MAN",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "BIG JIM": {
+      "description": "BIG JIM -> BIG JIM",
+      "resolved_name": "BIG JIM",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "PETEY": {
+      "description": "PETEY -> PETEY",
+      "resolved_name": "PETEY",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "OFFICER MILLY": {
+      "description": "OFFICER MILLY -> OFFICER MILLY",
+      "resolved_name": "OFFICER MILLY",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "ANTHONY": {
+      "description": "ANTHONY -> ANTHONY",
+      "resolved_name": "ANTHONY",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "CAPTAIN STY": {
+      "description": "CAPTAIN STY -> CAPTAIN STY",
+      "resolved_name": "CAPTAIN STY",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "BUTLER": {
+      "description": "BUTLER -> BUTLER",
+      "resolved_name": "BUTLER",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "CHIEF": {
+      "description": "CHIEF -> CHIEF",
+      "resolved_name": "CHIEF",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

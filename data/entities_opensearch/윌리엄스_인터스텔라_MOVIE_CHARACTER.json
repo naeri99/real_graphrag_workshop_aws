@@ -1,0 +1,18 @@
+{
+  "entity": {
+    "name": "윌리엄스",
+    "synonym": [
+      "Dr. Williams",
+      "Williams",
+      "Williams 박사",
+      "윌리암스",
+      "윌리엄스",
+      "윌리엄스 박사",
+      "윌리엄즈"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "윌리엄스은 영화 '인터스텔라'의 등장인물로, 윌리엄 데바인이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

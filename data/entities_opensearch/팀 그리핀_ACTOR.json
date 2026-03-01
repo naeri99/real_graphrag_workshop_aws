@@ -1,0 +1,23 @@
+{
+  "entity": {
+    "name": "팀 그리핀",
+    "synonym": [
+      "Tim Burton",
+      "Tim Griffin",
+      "그리핀",
+      "버튼",
+      "버튼 감독",
+      "티모시 그리핀",
+      "팀",
+      "팀 그리핀",
+      "팀 버턴",
+      "팀그리핀",
+      "팀버턴 감독",
+      "팀버튼"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "팀 그리핀은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

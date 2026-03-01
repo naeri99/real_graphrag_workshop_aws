@@ -1,0 +1,17 @@
+{
+  "entity": {
+    "name": "샬롯",
+    "synonym": [
+      "Charlotte",
+      "샤롯",
+      "샤를롯",
+      "샬럿",
+      "샬로트",
+      "샬롯"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "샬롯은 영화 '포스 마쥬어 화이트 베케이션'의 등장인물로, 카린 뮈렌베리 파베르이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

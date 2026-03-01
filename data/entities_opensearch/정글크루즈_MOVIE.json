@@ -1,0 +1,16 @@
+{
+  "entity": {
+    "name": "정글크루즈",
+    "synonym": [
+      "Jungle Cruise",
+      "정글 크루즈",
+      "정글 크루즈 영화",
+      "정글크루스",
+      "정글크루즈"
+    ],
+    "entity_type": "MOVIE",
+    "summary": "정글크루즈",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

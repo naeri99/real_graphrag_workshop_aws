@@ -1,0 +1,85 @@
+{
+  "movie_title": "팬텀 스레드",
+  "director": [
+    {
+      "name": "폴 토마스 앤더슨",
+      "name_en": "Paul Thomas Anderson"
+    }
+  ],
+  "cast": [
+    {
+      "actor": "다니엘 데이 루이스",
+      "actor_en": "Daniel Day-Lewis",
+      "character": "레이놀즈 우드콕"
+    },
+    {
+      "actor": "비키 크리프스",
+      "actor_en": "Vicky Krieps",
+      "character": "알마"
+    },
+    {
+      "actor": "레슬리 맨빌",
+      "actor_en": "Lesley Manville",
+      "character": "시실"
+    },
+    {
+      "actor": "카밀라 루더포드",
+      "actor_en": "Camilla Rutherford",
+      "character": "조한나"
+    },
+    {
+      "actor": "브라이언 글리슨",
+      "actor_en": "Brian Gleeson",
+      "character": "로버트 하디 박사"
+    },
+    {
+      "actor": "해리엇 샌섬 해리스",
+      "actor_en": "Harriet Sansom Harris",
+      "character": "바바라 로즈"
+    },
+    {
+      "actor": "줄리 볼로노",
+      "actor_en": "Julie Vollono",
+      "character": "런던 하우스키퍼"
+    },
+    {
+      "actor": "루즈자 리히터",
+      "actor_en": "Lujza Richter",
+      "character": "모나 공주"
+    },
+    {
+      "actor": "수 클라크",
+      "actor_en": "Sue Clark",
+      "character": "비디"
+    },
+    {
+      "actor": "조안 브라운",
+      "actor_en": "Joan Brown",
+      "character": "나나"
+    },
+    {
+      "actor": "폴린 모리어티",
+      "actor_en": "Pauline Moriarty",
+      "character": "미네타"
+    },
+    {
+      "actor": "에릭 시그문드슨",
+      "actor_en": "Eric Sigmundsson",
+      "character": "칼 로즈"
+    },
+    {
+      "actor": "필리스 맥마혼",
+      "actor_en": "Phyllis MacMahon",
+      "character": "티피"
+    }
+  ],
+  "review": [
+    "./data/review/팬텀 스레드/팬텀 스레드_4kzwZAlqoBU.json",
+    "./data/review/팬텀 스레드/팬텀 스레드_CU-SM2JUp8I.json",
+    "./data/review/팬텀 스레드/팬텀 스레드_CyyDZAnVAr4.json",
+    "./data/review/팬텀 스레드/팬텀 스레드_Ic5m7X6WtdQ.json",
+    "./data/review/팬텀 스레드/팬텀 스레드_Y2HHWy6JrRk.json",
+    "./data/review/팬텀 스레드/팬텀 스레드_izGRNbAOBpc.json",
+    "./data/review/팬텀 스레드/팬텀 스레드_v5RApjKuaOQ.json"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "entity": {
+    "name": "체스 로버츠",
+    "synonym": [
+      "Chess Roberts",
+      "로버츠",
+      "체스",
+      "체스 로버츠",
+      "체스로버츠"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "체스 로버츠은 영화 '아이언맨2'의 등장인물로, 올리비에 리히터스이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "entity": {
+    "name": "조나단 W. 스톡스",
+    "synonym": [
+      "Jonathan Stokes",
+      "Jonathan W. Stokes",
+      "스톡스",
+      "스톡스 감독",
+      "조나단",
+      "조나단 W 스톡스",
+      "조나단 W. 스톡스",
+      "조나단 더블유 스톡스",
+      "조나단 스톡스",
+      "조나단W스톡스",
+      "조나단스톡스",
+      "조나선 스톡스"
+    ],
+    "entity_type": "MOVIE_STAFF",
+    "summary": "조나단 W. 스톡스은 영화 감독입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

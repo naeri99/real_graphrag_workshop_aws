@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "에런 테일러 존슨",
+    "synonym": [
+      "A. 테일러 존슨",
+      "Aaron Johnson",
+      "Aaron Taylor Johnson",
+      "Aaron Taylor-Johnson",
+      "아론 테일러 존슨",
+      "에런 존슨",
+      "에런 테일러 존슨",
+      "에런존슨",
+      "에런테일러존슨",
+      "테일러 존슨",
+      "테일러존슨"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "에런 테일러 존슨은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

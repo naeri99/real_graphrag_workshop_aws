@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "킬리언 머피",
+    "synonym": [
+      "Cillian",
+      "Cillian Murphy",
+      "머피",
+      "실리안 머피",
+      "실리안머피",
+      "실리언 머피",
+      "킬리안 머피",
+      "킬리안머피",
+      "킬리언",
+      "킬리언 머피",
+      "킬리언머피"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "킬리언 머피은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

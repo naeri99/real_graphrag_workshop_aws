@@ -1,0 +1,38 @@
+{
+  "entity": {
+    "name": "마이클 케인",
+    "synonym": [
+      "Caine",
+      "M. 케인",
+      "Michael Bishop",
+      "Michael Cain",
+      "Michael Caine",
+      "Michael Cane",
+      "Michael Mann",
+      "Mike Caine",
+      "Sir Michael Caine",
+      "마이클",
+      "마이클 게인",
+      "마이클 만",
+      "마이클 비샵",
+      "마이클 캐인",
+      "마이클 케인",
+      "마이클 케인 경",
+      "마이클 케인경",
+      "마이클맨",
+      "마이클비숍",
+      "마이클케인",
+      "마이클케인 경",
+      "마이클케인경",
+      "맨",
+      "비샵",
+      "비숍",
+      "케인",
+      "케인 경"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "마이클 케인은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

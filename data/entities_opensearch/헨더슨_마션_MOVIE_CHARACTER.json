@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "헨더슨",
+    "synonym": [
+      "Dr Henderson",
+      "Henderson",
+      "Henderson character",
+      "핸더슨",
+      "헨더선",
+      "헨더슨",
+      "헨더슨 박사",
+      "헨더슨 캐릭터",
+      "헨더슨캐릭터"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "헨더슨은 영화 '마션'의 등장인물로, 조나단 아리스이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

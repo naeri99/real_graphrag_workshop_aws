@@ -1,0 +1,23 @@
+{
+  "entity": {
+    "name": "문페이페이",
+    "synonym": [
+      "Feifei Wen",
+      "Wen Pei Pei",
+      "Wen Peipei",
+      "鄭佩佩",
+      "문 페이페이",
+      "문패패",
+      "문페이페이",
+      "문페이페이 배우",
+      "문페이페이이",
+      "문페페",
+      "원페이페이",
+      "정페이페이"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "문페이페이은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

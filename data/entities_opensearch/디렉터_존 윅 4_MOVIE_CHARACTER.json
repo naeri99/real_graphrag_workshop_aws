@@ -1,0 +1,25 @@
+{
+  "entity": {
+    "name": "디렉터",
+    "synonym": [
+      "Director",
+      "The Director",
+      "감독",
+      "감독관",
+      "관리자",
+      "관장",
+      "디렉타",
+      "디렉터",
+      "디렉터 캐릭터",
+      "루스카 로마",
+      "루스카 로마 수장",
+      "발레 관장",
+      "발레 디렉터",
+      "발레단장"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "디렉터은 영화 '존 윅 4'의 등장인물로, 안젤리카 휴스턴이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

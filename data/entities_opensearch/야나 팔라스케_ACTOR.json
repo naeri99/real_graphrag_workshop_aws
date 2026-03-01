@@ -1,0 +1,18 @@
+{
+  "entity": {
+    "name": "야나 팔라스케",
+    "synonym": [
+      "Jana Pallaske",
+      "야나",
+      "야나 팔라스게",
+      "야나 팔라스케",
+      "야나 팔라츠케",
+      "야나팔라스케",
+      "팔라스케"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "야나 팔라스케은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

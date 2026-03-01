@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "스티브 안토누치",
+    "synonym": [
+      "Antonucci",
+      "Steve Antonnucci",
+      "Steve Antonucci",
+      "스티브 안토누찌",
+      "스티브 안토누치",
+      "스티브안토누치",
+      "스티븐 안토누치",
+      "안토누치"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "스티브 안토누치은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

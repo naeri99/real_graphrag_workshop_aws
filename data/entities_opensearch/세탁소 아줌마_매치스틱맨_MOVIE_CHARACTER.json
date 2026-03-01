@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "세탁소 아줌마",
+    "synonym": [
+      "Laundry Lady",
+      "Laundry Woman",
+      "세탁소 아주머니",
+      "세탁소 아줌마",
+      "세탁소 여인",
+      "세탁소 여자",
+      "세탁소 주인",
+      "세탁소아줌마"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "세탁소 아줌마은 영화 '매치스틱맨'의 등장인물로, 베스 그랜트이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

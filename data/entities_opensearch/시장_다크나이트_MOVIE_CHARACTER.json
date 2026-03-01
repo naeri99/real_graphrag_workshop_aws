@@ -1,0 +1,24 @@
+{
+  "entity": {
+    "name": "시장",
+    "synonym": [
+      "Anthony Garcia",
+      "Gotham Mayor",
+      "Mayor",
+      "Mayor Garcia",
+      "가르시아 시장",
+      "고담 시장",
+      "고담시 시장",
+      "고담시장",
+      "메이어",
+      "시장",
+      "시장 캐릭터",
+      "시장님",
+      "앤서니 가르시아"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "시장은 영화 '다크나이트'의 등장인물로, 네스터 카보넬이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

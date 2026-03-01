@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "파라",
+    "synonym": [
+      "Farah",
+      "파라",
+      "파라 아덴",
+      "파라아",
+      "파라아덴",
+      "파라하",
+      "파라흐",
+      "패라",
+      "화라"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "파라은 영화 '아웃 오브 아프리카'의 등장인물로, 말릭 보언스이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

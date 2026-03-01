@@ -1,0 +1,25 @@
+{
+  "entity": {
+    "name": "쿠사카베 타츠오",
+    "synonym": [
+      "Kusakabe Tatsuo",
+      "Tatsuo Kusakabe",
+      "草壁タツオ",
+      "메이 아버지",
+      "메이 아빠",
+      "사츠키 아버지",
+      "사츠키 아빠",
+      "아버지",
+      "아빠",
+      "쿠사카베 타츠오",
+      "쿠사카베씨",
+      "쿠사카베타츠오",
+      "타쓰오",
+      "타츠오"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "쿠사카베 타츠오은 영화 '이웃집 토토로'의 등장인물로, 이토이 시게사토이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

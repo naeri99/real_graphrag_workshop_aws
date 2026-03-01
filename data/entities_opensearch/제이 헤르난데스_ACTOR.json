@@ -1,0 +1,23 @@
+{
+  "entity": {
+    "name": "제이 헤르난데스",
+    "synonym": [
+      "J. 헤르난데스",
+      "Jay",
+      "Jay Hernandes",
+      "Jay Hernandez",
+      "제이",
+      "제이 에르난데스",
+      "제이 헤르난데스",
+      "제이 헤르난데즈",
+      "제이헤르난데스",
+      "헤르난데스",
+      "헤르난데즈",
+      "헤이 헤르난데스"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "제이 헤르난데스은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

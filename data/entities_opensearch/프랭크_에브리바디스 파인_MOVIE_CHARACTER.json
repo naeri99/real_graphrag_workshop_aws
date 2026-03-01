@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "프랭크",
+    "synonym": [
+      "Frank",
+      "프랑크",
+      "프랜크",
+      "프랭크",
+      "프랭크 구드",
+      "프랭크 굿",
+      "프랭크구드",
+      "프랭크굿",
+      "프렝크",
+      "후랭크"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "프랭크은 영화 '에브리바디스 파인'의 등장인물로, 로버트 드니로이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

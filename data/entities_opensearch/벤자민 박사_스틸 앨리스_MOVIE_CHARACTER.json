@@ -1,0 +1,27 @@
+{
+  "entity": {
+    "name": "벤자민 박사",
+    "synonym": [
+      "Benjamin",
+      "Chandra",
+      "Dr. Benjamin",
+      "Dr. Chandra",
+      "Dr. Miller",
+      "Miller 박사",
+      "닥터 벤자민",
+      "밀러",
+      "벤자민",
+      "벤자민 박사",
+      "벤자민박사",
+      "벤저민",
+      "벤저민 박사",
+      "벤저민박사",
+      "찬드라",
+      "챈드라 박사"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "벤자민 박사은 영화 '스틸 앨리스'의 등장인물로, 스티븐 쿤켄이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

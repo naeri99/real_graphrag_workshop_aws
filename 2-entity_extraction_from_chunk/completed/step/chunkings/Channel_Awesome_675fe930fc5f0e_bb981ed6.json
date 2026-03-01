@@ -1,0 +1,195 @@
+{
+  "chunk_hash": "675fe930fc5f0e",
+  "chunk_id": "Channel_Awesome_675fe930fc5f0e_bb981ed6",
+  "user_query": "[Music] [Applause] [Music] jungle cruise might be one of the most efficient summer blockbusters ever made that's not at all to say it's anything great honestly i'd argue the script is terrible but for a disney action movie based on a ride starring the rock and emily blunt it gives you exactly what it knows its strengths are silly action corny jokes weird effects and incredibly charming actors being incredibly charming actors if i were just to read the script version of this on paper i would despise this there is nothing original in it it's like a mix of the mummy and pirates of the caribbean and every lame jungle b movie known to man but the directing editing and acting all showcase why these people are directors editors and actors they know how to show you what you want to see and do it quickly which is impressive because this is almost two and a half hours yet it feels like an hour and a half for how efficiently everybody does their job emily blunt and her brother are searching for treasure specifically a tree whose leaves can heal people not surprisingly they can't get much funding for this because well it sounds like a crazy idea and gasp she's a woman which okay that's not overplayed too much though the rock does make way too many jokes about her wearing pants but one person who does believe him is this i think german prince played by jesse plemons i'm really not sure why he's a prince in this but it doesn't matter because his over-the-top accent is amazing the only",
+  "movie_id": "정글크루즈",
+  "reviewer": "Channel_Awesome",
+  "chunk_index": 1,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "JUNGLE CRUISE",
+      "entity_type": "MOVIE",
+      "entity_description": "정글 크루즈는 디즈니 놀이기구를 기반으로 한 여름 블록버스터 액션 영화로, 미라와 캐리비안의 해적을 섞은 듯한 정글 B급 영화 스타일이다. 거의 2시간 30분 길이지만 효율적인 연출과 편집으로 1시간 30분처럼 느껴진다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "THE ROCK",
+      "entity_type": "ACTOR",
+      "entity_description": "더 락은 정글 크루즈에 출연한 배우로, 매력적인 연기를 보여준다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "EMILY BLUNT",
+      "entity_type": "ACTOR",
+      "entity_description": "에밀리 블런트는 정글 크루즈에서 보물을 찾는 여성 주인공 역을 맡은 배우로, 매력적인 연기를 보여준다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "JESSE PLEMONS",
+      "entity_type": "ACTOR",
+      "entity_description": "제시 플레몬스는 정글 크루즈에서 과장된 억양의 독일 왕자 역을 맡은 배우이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "EMILY BLUNT의 캐릭터",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "에밀리 블런트가 연기한 캐릭터로, 남동생과 함께 사람을 치유할 수 있는 나뭇잎을 가진 나무를 찾아 보물 탐험을 떠나는 여성이다. 여성이라는 이유로 자금 지원을 받지 못한다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "EMILY BLUNT 캐릭터의 남동생",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "에밀리 블런트 캐릭터의 남동생으로, 함께 보물을 찾아 나선다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "독일 왕자",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "제시 플레몬스가 연기한 캐릭터로, 에밀리 블런트 캐릭터의 탐험을 믿어주는 과장된 억양의 독일 왕자이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "THE ROCK",
+      "source_type": "ACTOR",
+      "target_entity": "JUNGLE CRUISE",
+      "target_type": "MOVIE",
+      "relationship_description": "더 락은 정글 크루즈에 주연으로 출연했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "EMILY BLUNT",
+      "source_type": "ACTOR",
+      "target_entity": "JUNGLE CRUISE",
+      "target_type": "MOVIE",
+      "relationship_description": "에밀리 블런트는 정글 크루즈에 주연으로 출연했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "JESSE PLEMONS",
+      "source_type": "ACTOR",
+      "target_entity": "JUNGLE CRUISE",
+      "target_type": "MOVIE",
+      "relationship_description": "제시 플레몬스는 정글 크루즈에 출연했다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "EMILY BLUNT",
+      "source_type": "ACTOR",
+      "target_entity": "EMILY BLUNT의 캐릭터",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "에밀리 블런트는 보물을 찾는 여성 주인공 역을 연기했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "JESSE PLEMONS",
+      "source_type": "ACTOR",
+      "target_entity": "독일 왕자",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "제시 플레몬스는 독일 왕자 역을 연기했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "EMILY BLUNT의 캐릭터",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "JUNGLE CRUISE",
+      "target_type": "MOVIE",
+      "relationship_description": "에밀리 블런트의 캐릭터는 정글 크루즈의 주인공이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "EMILY BLUNT 캐릭터의 남동생",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "JUNGLE CRUISE",
+      "target_type": "MOVIE",
+      "relationship_description": "에밀리 블런트 캐릭터의 남동생은 정글 크루즈의 등장인물이다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "독일 왕자",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "JUNGLE CRUISE",
+      "target_type": "MOVIE",
+      "relationship_description": "독일 왕자는 정글 크루즈의 등장인물이다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "EMILY BLUNT의 캐릭터",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "EMILY BLUNT 캐릭터의 남동생",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "두 캐릭터는 남매 관계로 함께 보물을 찾아 탐험한다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "독일 왕자",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "EMILY BLUNT의 캐릭터",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "독일 왕자는 에밀리 블런트 캐릭터의 탐험을 믿어주는 인물이다",
+      "relationship_strength": 7
+    }
+  ],
+  "entity_resolution": {
+    "JUNGLE CRUISE": {
+      "description": "JUNGLE CRUISE -> JUNGLE CRUISE",
+      "resolved_name": "JUNGLE CRUISE",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "THE ROCK": {
+      "description": "THE ROCK -> THE ROCK",
+      "resolved_name": "THE ROCK",
+      "entity_type": "ACTOR",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "EMILY BLUNT": {
+      "description": "EMILY BLUNT -> EMILY BLUNT",
+      "resolved_name": "EMILY BLUNT",
+      "entity_type": "ACTOR",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "JESSE PLEMONS": {
+      "description": "JESSE PLEMONS -> JESSE PLEMONS",
+      "resolved_name": "JESSE PLEMONS",
+      "entity_type": "ACTOR",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "EMILY BLUNT의 캐릭터": {
+      "description": "EMILY BLUNT의 캐릭터 -> EMILY BLUNT의 캐릭터",
+      "resolved_name": "EMILY BLUNT의 캐릭터",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "EMILY BLUNT 캐릭터의 남동생": {
+      "description": "EMILY BLUNT 캐릭터의 남동생 -> EMILY BLUNT 캐릭터의 남동생",
+      "resolved_name": "EMILY BLUNT 캐릭터의 남동생",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "독일 왕자": {
+      "description": "독일 왕자 -> 독일 왕자",
+      "resolved_name": "독일 왕자",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

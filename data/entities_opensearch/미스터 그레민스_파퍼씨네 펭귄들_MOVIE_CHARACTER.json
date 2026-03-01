@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "미스터 그레민스",
+    "synonym": [
+      "Gremmins",
+      "Mr. Gremins",
+      "Mr. Gremmins",
+      "그레민스",
+      "그레민스 씨",
+      "그레민스씨",
+      "그레민즈",
+      "미스터 그레민스",
+      "미스터그레민스"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "미스터 그레민스은 영화 '파퍼씨네 펭귄들'의 등장인물로, 제프리 탬버이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "chunk_hash": "75cd006e8e44af",
+  "chunk_id": "Jacks_Movie_Reviews_75cd006e8e44af_8d2dbe10",
+  "user_query": "to do something negative if it means in the long run, something positive comes from it? And I'm getting hungry. The two both agreed to live in this constant cycle of negativity. By the end of the film, Reynolds is more than willing to eat the omelet, even though he knows it'll make him sick, because he knows that Alma will be there to care for him. It's also worth pointing out that he is more than willing to eat the omelet despite the butter. Alma was able to make him live the way that she wants him to. Cyril knows all that is going on But she also knows that for the first time, Reynolds is happy. Alma is bringing his life out of chaos and providing the care and support that he always needed. In my video discussing Paul Thomas Anderson's entire filmography, I spoke about the importance of taking control of your own life, venturing out on your own and becoming your own master. Reynolds is unable to do this. Much like many of Anderson's other protagonists, he must turn to the care of someone else. His life only functions when he is being taken care of. But Alma is able to successfully become the master of not only her life, but also over Reynolds. Kiss me my girl before I'm sick. Hey everyone, I hope you enjoyed (the film?) Phantom Thread is wonderful. PTA has made so many great movies and it's hard stack ranking them. But this is definitely towards the top. I feel like this is his most Kubrick-ian film yet. There are some shots that felt like they were taken right out of a",
+  "movie_id": "팬텀 스레드",
+  "reviewer": "Jacks_Movie_Reviews",
+  "chunk_index": 4,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "REYNOLDS",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Reynolds는 영화에서 오믈렛을 먹으면 아플 것을 알면서도 Alma가 돌봐줄 것을 알기에 기꺼이 먹는 인물이며, 스스로 삶을 통제하지 못하고 다른 사람의 돌봄이 필요한 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "ALMA",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Alma는 Reynolds의 삶에 질서를 가져오고 그가 필요로 하는 돌봄과 지지를 제공하며, 자신의 삶뿐만 아니라 Reynolds의 삶까지 지배하게 되는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "CYRIL",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Cyril은 Reynolds와 Alma 사이에 일어나는 모든 일을 알고 있으며, Reynolds가 처음으로 행복해졌다는 것을 아는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "PHANTOM THREAD",
+      "entity_type": "MOVIE",
+      "entity_description": "Phantom Thread는 Paul Thomas Anderson이 만든 훌륭한 영화로, 그의 가장 큐브릭적인 작품으로 평가받는다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "PAUL THOMAS ANDERSON",
+      "entity_type": "MOVIE_STAFF",
+      "entity_description": "Paul Thomas Anderson은 Phantom Thread의 감독으로, 많은 훌륭한 영화들을 만들었으며 그의 작품들은 자신의 삶을 통제하고 스스로의 주인이 되는 것의 중요성을 다룬다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "REYNOLDS",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "PHANTOM THREAD",
+      "target_type": "MOVIE",
+      "relationship_description": "Reynolds는 Phantom Thread의 주인공이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "ALMA",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "PHANTOM THREAD",
+      "target_type": "MOVIE",
+      "relationship_description": "Alma는 Phantom Thread의 주요 등장인물이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "CYRIL",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "PHANTOM THREAD",
+      "target_type": "MOVIE",
+      "relationship_description": "Cyril은 Phantom Thread의 등장인물이다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "REYNOLDS",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "ALMA",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Reynolds와 Alma는 서로 부정적인 순환 속에서 살기로 합의한 관계이며, Alma가 Reynolds를 돌보고 그의 삶을 지배한다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "CYRIL",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "REYNOLDS",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Cyril은 Reynolds에 대해 일어나는 모든 일을 알고 있으며 그가 처음으로 행복해졌음을 인지한다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "PAUL THOMAS ANDERSON",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "PHANTOM THREAD",
+      "target_type": "MOVIE",
+      "relationship_description": "Paul Thomas Anderson은 Phantom Thread를 감독했다",
+      "relationship_strength": 10
+    }
+  ],
+  "entity_resolution": {
+    "REYNOLDS": {
+      "description": "REYNOLDS -> REYNOLDS",
+      "resolved_name": "REYNOLDS",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "ALMA": {
+      "description": "ALMA -> ALMA",
+      "resolved_name": "ALMA",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "CYRIL": {
+      "description": "CYRIL -> CYRIL",
+      "resolved_name": "CYRIL",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "PHANTOM THREAD": {
+      "description": "PHANTOM THREAD -> PHANTOM THREAD",
+      "resolved_name": "PHANTOM THREAD",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "PAUL THOMAS ANDERSON": {
+      "description": "PAUL THOMAS ANDERSON -> PAUL THOMAS ANDERSON",
+      "resolved_name": "PAUL THOMAS ANDERSON",
+      "entity_type": "MOVIE_STAFF",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

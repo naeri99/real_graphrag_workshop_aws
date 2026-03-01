@@ -1,0 +1,12 @@
+{
+  "entity": {
+    "name": "미들뻔",
+    "synonym": [
+      "미들뻔"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "미들뻔은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

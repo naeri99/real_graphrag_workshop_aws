@@ -1,0 +1,106 @@
+{
+  "chunk_hash": "c8d04a58195445",
+  "chunk_id": "침착맨_c8d04a58195445_444b703b",
+  "user_query": "미드소마는 하지 축제가 있어요 공포들 어두운 장면이 하나도 없어 거기는 백야라서 해 해도 안 지고 사람들이 계속 춤추고 있고 계속 웃으면서 막 축제야 계속 어 어두운 장면이 [음악] 없어 뭐 최근에 미드소마 재밌게 보셨다고 아 요즘에 자기 전에 영화 하나씩 보고 있는데 너무 재밌었어 최근에 본 영화들이 다 미드소마요가 미드서머 하지 여름에서 제일 해가 긴 날 이런데 어 불쾌 불쾌하고 재밌어 공포들 어두운 장면이 하나도 없어 찡찡 밝아 하지야 백야야 백야 해가 안 지고 근데도 무서워 아 뭔가 섬뜩해 무서 웬만한 멘탈로는 못 버티는데 그건 또 과장 형이 예 멘탈이 더러워서 아이니 근데 그 감독님 영화가 조금 그렇긴 해 그분이 이제 유전이라는 영화도 만들었거든요 유전 유전 유전 근데 그것도 뭔가 좀 기분이 안 좋아지는 그 감독님이 되게 젊어요 86년생이 그래 뉴욕 사람인데 아리 애스터라는 응 아리 애스터 남자 감독님인데 어렸을 때 좀 그런 게 있었나 봐 집안에 무슨 안 좋은 일이 있었나 봐 음 항상 가족들이 나오는데 파괴되고 막 안 좋아요 뭔가 미드소마도 재밌었고 인비테이션이고 초대장 초대라는 영화도 봤는데 요거 재밌습니다 한 시간 반짜리니까 한번 보세요 대충 내용을 소개해 드리면 주인공이 여자 주인공인데 미대생이 그 도예 초대를 받는구나 어떻게 알았어 인비테이션이 아아 미쳤네 미쳤어 얘가 무슨 초대를 봤냐 그은 한 1년 전에 김풍 작가님하고 2년 전쯤에 한 거 있잖아 DNA 테스트 나는 어디서 왔는가 그 세미나에서 얘가 알바를 하고 있었어요 내 본 거 같지 어 이거 알바를 한다는 걸 왜 알지 아무튼 행사가 끝나고 김창민이 관공 그 팩 그거를 하나 가져왔어 거기서 주잖아요 상품으로 받은데 그냥 남아서 가져왔어 그래서 심심 풀이로 침 담아 가지고 보냈어요 긁어 가지고 몇 주 후에 이제 이메일로 답이 왔는데 얘가 천애고아거든 엄마도 얼마 전에 돌아가시고 근데 친촌이 발견됐다는 거야 혈통 찾아주는 사이트예요 그게 그래 가지고 이제 만났어 그랬더니 당신은 알렉산더 집안에 할머니가 노예랑 바람 나서 난 사생아의 자손이라는 거예요 주인공한테 어쨌든 알렉산더 피다 그래서 이제 영국에서 성대한 결혼식이 우리 집안 결혼식이 있는데 거기 한번 와라 모두가 널 기다리고 있다 얘는 이제 땡전한푼 없거든요 아 근데 퍼스트 클래스에 막 이런 거 다 해 줘 공항에 가니까 롤스로이스가 딱 대기하고 있어 가니까 으리으리한 맨션에 사람들이 막 다 막 너무 잘 왔다고 막 환영해 줘 왜 이제 왔니 막 이러면서 극적으로 떨어뜨리기 위한 장치 반기면 반길수록 기괴해지죠 근데 약간 기괴한 느낌을 더 주죠 있죠 중간중간에 약간 뭐지 약간 이런 걸 중간중간 있어 그래서 이제 이 이게 고딕 코러 고딕 코러 맨션 안에 들어갔는데 밖에는 이 화해 가지고 되게 삐까번쩍하고 날씨도 좋아 영국인들 이상하게 근데 들어갔는데 막 가고일 석상 막 이런 거 있고 홀렁치해 안에는 다 석조로 돼 있어 막 시꺼매 안에가 막 막 다 촛불 키고 다녀 그리고 막 그래가지고 이제 여기서 묵으시면 된다고 이 파티가",
+  "movie_id": "미드소마",
+  "reviewer": "침착맨",
+  "chunk_index": 1,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "미드소마",
+      "entity_type": "MOVIE",
+      "entity_description": "미드소마는 하지 축제를 배경으로 한 공포 영화로, 어두운 장면 없이 백야의 밝은 배경에서 진행되며 불쾌하고 섬뜩한 분위기를 자아내는 작품이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "유전",
+      "entity_type": "MOVIE",
+      "entity_description": "유전은 아리 애스터 감독이 만든 영화로, 가족이 파괴되는 내용을 담고 있으며 기분이 안 좋아지는 분위기의 작품이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "인비테이션",
+      "entity_type": "MOVIE",
+      "entity_description": "인비테이션(초대장/초대)은 한 시간 반 분량의 영화로, 미대생 여자 주인공이 DNA 테스트를 통해 발견된 친척으로부터 영국 맨션에서 열리는 결혼식에 초대받는 내용의 고딕 호러 영화이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "아리 애스터",
+      "entity_type": "MOVIE_STAFF",
+      "entity_description": "아리 애스터는 1986년생 뉴욕 출신의 젊은 남자 감독으로, 미드소마와 유전을 만들었으며 가족이 파괴되는 내용의 영화를 주로 만든다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "김풍",
+      "entity_type": "MOVIE_STAFF",
+      "entity_description": "김풍은 작가로, DNA 테스트 관련 세미나를 진행한 적이 있다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "아리 애스터",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "미드소마",
+      "target_type": "MOVIE",
+      "relationship_description": "아리 애스터는 미드소마를 감독했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "아리 애스터",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "유전",
+      "target_type": "MOVIE",
+      "relationship_description": "아리 애스터는 유전을 감독했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "미드소마",
+      "source_type": "MOVIE",
+      "target_entity": "유전",
+      "target_type": "MOVIE",
+      "relationship_description": "미드소마와 유전은 같은 감독 아리 애스터의 작품으로, 비슷하게 불쾌하고 기분 나쁜 분위기를 공유한다",
+      "relationship_strength": 8
+    }
+  ],
+  "entity_resolution": {
+    "미드소마": {
+      "description": "미드소마 -> 미드소마",
+      "resolved_name": "미드소마",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "유전": {
+      "description": "유전 -> 유전",
+      "resolved_name": "유전",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "인비테이션": {
+      "description": "인비테이션 -> 인비테이션",
+      "resolved_name": "인비테이션",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "아리 애스터": {
+      "description": "아리 애스터 -> 아리 에스터",
+      "resolved_name": "아리 에스터",
+      "entity_type": "MOVIE_STAFF",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "김풍": {
+      "description": "김풍 -> 김풍",
+      "resolved_name": "김풍",
+      "entity_type": "MOVIE_STAFF",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

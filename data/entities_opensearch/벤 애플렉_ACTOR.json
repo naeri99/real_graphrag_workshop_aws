@@ -1,0 +1,23 @@
+{
+  "entity": {
+    "name": "벤 애플렉",
+    "synonym": [
+      "Ben",
+      "Ben Affleck",
+      "Benjamin Affleck",
+      "베네딕트 애플렉",
+      "벤",
+      "벤 애플랙",
+      "벤 애플렉",
+      "벤 에플렉",
+      "벤애플렉",
+      "벤자민 애플렉",
+      "애플렉",
+      "애플렉 감독"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "벤 애플렉은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

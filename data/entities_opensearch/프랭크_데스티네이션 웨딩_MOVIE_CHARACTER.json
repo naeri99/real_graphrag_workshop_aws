@@ -1,0 +1,27 @@
+{
+  "entity": {
+    "name": "프랭크",
+    "synonym": [
+      "Frank",
+      "Frank Goode",
+      "Frank Miller",
+      "밀러",
+      "프랑크",
+      "프랜크",
+      "프랭크",
+      "프랭크 구드",
+      "프랭크 굿",
+      "프랭크 밀러",
+      "프랭크 크루즈",
+      "프랭크구드",
+      "프랭크굿",
+      "프랭크밀러",
+      "프렝크",
+      "후랭크"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "프랭크은 영화 '데스티네이션 웨딩'의 등장인물로, 키아누 리브스이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

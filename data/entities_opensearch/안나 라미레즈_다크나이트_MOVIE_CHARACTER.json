@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "안나 라미레즈",
+    "synonym": [
+      "Anna",
+      "Anna Ramirez",
+      "Ramirez",
+      "라미레스",
+      "라미레즈",
+      "라미레즈 형사",
+      "안나",
+      "안나 라미레즈",
+      "안나라미레즈",
+      "애나 라미레즈",
+      "형사 라미레즈"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "안나 라미레즈은 영화 '다크나이트'의 등장인물로, 모니크 커넌이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

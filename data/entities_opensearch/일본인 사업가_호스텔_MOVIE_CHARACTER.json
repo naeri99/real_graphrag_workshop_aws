@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "일본인 사업가",
+    "synonym": [
+      "Japanese Businessman",
+      "일본 비즈니스맨",
+      "일본 사업가",
+      "일본인 남자",
+      "일본인 비즈니스맨",
+      "일본인 사업가",
+      "일본인사업가",
+      "재패니즈 비즈니스맨",
+      "재패니즈 사업가"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "일본인 사업가은 영화 '호스텔'의 등장인물로, 타카시 미이케이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

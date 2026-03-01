@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "바바라 로즈",
+    "synonym": [
+      "Barbara",
+      "Barbara Rose",
+      "로즈",
+      "로즈 부인",
+      "바바라",
+      "바바라 로스",
+      "바바라 로즈",
+      "바바라로즈",
+      "바버라 로즈"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "바바라 로즈은 영화 '팬텀 스레드'의 등장인물로, 해리엇 샌섬 해리스이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

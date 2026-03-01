@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "비디",
+    "synonym": [
+      "Biddy",
+      "비디",
+      "비디 부인",
+      "비디 우드콕",
+      "비디 캐릭터",
+      "비띠",
+      "비티",
+      "빗디"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "비디은 영화 '팬텀 스레드'의 등장인물로, 수 클라크이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

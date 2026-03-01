@@ -1,0 +1,17 @@
+{
+  "entity": {
+    "name": "펠레",
+    "synonym": [
+      "Pele",
+      "Pelle",
+      "페레",
+      "펠",
+      "펠러",
+      "펠레"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "펠레은 영화 '미드소마'의 등장인물로, 빌헬름 브롬그렌이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

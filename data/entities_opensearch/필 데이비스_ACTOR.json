@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "필 데이비스",
+    "synonym": [
+      "Davis",
+      "Phil Davis",
+      "데이비스",
+      "필",
+      "필 데이비스",
+      "필 데이빗",
+      "필데이비스",
+      "필립 데이비스"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "필 데이비스은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

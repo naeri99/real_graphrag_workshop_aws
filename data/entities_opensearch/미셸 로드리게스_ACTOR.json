@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "미셸 로드리게스",
+    "synonym": [
+      "Michelle Rodriguez",
+      "로드리게스",
+      "미셸",
+      "미셸 로드리게스",
+      "미셸 로드리게즈",
+      "미셸로드리게스",
+      "미쉘 로드리게스",
+      "미쉘 로드리게즈"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "미셸 로드리게스은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

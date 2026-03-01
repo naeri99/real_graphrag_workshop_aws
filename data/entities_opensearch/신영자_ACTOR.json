@@ -1,0 +1,18 @@
+{
+  "entity": {
+    "name": "신영자",
+    "synonym": [
+      "Shin Young-ja",
+      "Sin Yeong-ja",
+      "신 영자",
+      "신영자",
+      "신영자 배우",
+      "신영자씨",
+      "영자"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "신영자은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

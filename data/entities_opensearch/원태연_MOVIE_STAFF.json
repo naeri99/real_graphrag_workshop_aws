@@ -1,0 +1,18 @@
+{
+  "entity": {
+    "name": "원태연",
+    "synonym": [
+      "Won Tae-yeon",
+      "감독 원태연",
+      "원 태연",
+      "원태연",
+      "원태연 감독",
+      "원태연감독",
+      "태연"
+    ],
+    "entity_type": "MOVIE_STAFF",
+    "summary": "원태연은 영화 감독입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

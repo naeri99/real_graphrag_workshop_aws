@@ -1,0 +1,18 @@
+{
+  "entity": {
+    "name": "멜리사 레오",
+    "synonym": [
+      "Leo",
+      "Melissa Leo",
+      "레오",
+      "멜리사 레오",
+      "멜리사 리오",
+      "멜리사레오",
+      "멜리싸 레오"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "멜리사 레오은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "entity": {
+    "name": "스테판스",
+    "synonym": [
+      "Stephens",
+      "스테판",
+      "스테판스",
+      "스티븐스"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "스테판스은 영화 '다크나이트'의 등장인물로, 마이클 비에른이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "호르헤 렌데보그 주니어",
+    "synonym": [
+      "Jorge",
+      "Jorge Lendeborg",
+      "Jorge Lendeborg Jr.",
+      "렌데보그",
+      "호르헤",
+      "호르헤 렌데보그",
+      "호르헤 렌데보그 Jr.",
+      "호르헤 렌데보그 주니어",
+      "호르헤렌데보그",
+      "호르헤렌데보그주니어"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "호르헤 렌데보그 주니어은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

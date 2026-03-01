@@ -1,0 +1,25 @@
+{
+  "entity": {
+    "name": "캐시",
+    "synonym": [
+      "Cassandra Webb",
+      "Cassie Webb",
+      "Cathy",
+      "Kathy",
+      "마담 웹",
+      "마담웹",
+      "웹",
+      "카산드라 웹",
+      "캐시",
+      "캐시웹",
+      "캐씨",
+      "캐티",
+      "케시",
+      "케이시"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "캐시은 영화 '매치스틱맨'의 등장인물로, 쉴라 켈리이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

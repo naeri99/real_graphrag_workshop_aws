@@ -1,0 +1,87 @@
+{
+  "movie_title": "이웃집 토토로",
+  "director": [
+    {
+      "name": "미야자키 하야오",
+      "name_en": "Hayao Miyazaki"
+    }
+  ],
+  "cast": [
+    {
+      "actor": "히다카 노리코",
+      "actor_en": "Noriko Hidaka",
+      "character": "사츠키"
+    },
+    {
+      "actor": "사카모토 치카",
+      "actor_en": "Chika Sakamoto",
+      "character": "메이"
+    },
+    {
+      "actor": "시마모토 스미",
+      "actor_en": "Sumi Shimamoto",
+      "character": "쿠사카베 야스코 (엄마)"
+    },
+    {
+      "actor": "타나카 나오키",
+      "actor_en": "Naoki Tanaka",
+      "character": "칸타"
+    },
+    {
+      "actor": "이토이 시게사토",
+      "actor_en": "Shigesato Itoi",
+      "character": "쿠사카베 타츠오"
+    },
+    {
+      "actor": "타카기 히토시",
+      "actor_en": "Hitoshi Takagi",
+      "character": "토토로"
+    },
+    {
+      "actor": "키타바야시 타니에",
+      "actor_en": "Tanie Kitabayashi",
+      "character": "칸타의 할머니"
+    },
+    {
+      "actor": "마시코 마사코",
+      "actor_en": "Masako Araki",
+      "character": "칸타의 어머니"
+    },
+    {
+      "actor": "타키 료코",
+      "actor_en": "Ryoko Taki",
+      "character": "선생님"
+    },
+    {
+      "actor": "미야자키 하야오",
+      "actor_en": "Hayao Miyazaki",
+      "character": "아버지의 동료"
+    },
+    {
+      "actor": "이치하라 유리코",
+      "actor_en": "Yuriko Ichihara",
+      "character": "간호사"
+    },
+    {
+      "actor": "마치다 마사히로",
+      "actor_en": "Masahiro Machida",
+      "character": "칸타"
+    },
+    {
+      "actor": "히라마츠 아키코",
+      "actor_en": "Akiko Hiramatsu",
+      "character": "미치코"
+    },
+    {
+      "actor": "나카무라 다이지로",
+      "actor_en": "Daijiro Nakamura",
+      "character": "우편배달부"
+    }
+  ],
+  "review": [
+    "./data/review/이웃집 토토로/이웃집 토토로_O3IuyU_-ntY.json",
+    "./data/review/이웃집 토토로/이웃집 토토로_OKQARAyckqY.json",
+    "./data/review/이웃집 토토로/이웃집 토토로_nS_AtsC-t4Q.json",
+    "./data/review/이웃집 토토로/이웃집 토토로_nx5NpdclOM4.json"
+  ]
+}

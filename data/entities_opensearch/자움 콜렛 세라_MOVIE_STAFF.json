@@ -1,0 +1,23 @@
+{
+  "entity": {
+    "name": "자움 콜렛 세라",
+    "synonym": [
+      "Jaume Collet-Serra",
+      "자우메 콜렛 세라",
+      "자움",
+      "자움 세라",
+      "자움 콜렛",
+      "자움 콜렛 세라",
+      "자움 콜렛-세라",
+      "자움 콜렛세라",
+      "자움콜렛세라",
+      "콜렛 세라",
+      "콜렛세라",
+      "하우메 콜렛 세라"
+    ],
+    "entity_type": "MOVIE_STAFF",
+    "summary": "자움 콜렛 세라은 영화 감독입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

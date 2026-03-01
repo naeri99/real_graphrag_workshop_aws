@@ -1,0 +1,16 @@
+{
+  "entity": {
+    "name": "데니스 퀘이드",
+    "synonym": [
+      "Dennis Quaid",
+      "데니스",
+      "데니스 퀘이드",
+      "데니스퀘이드",
+      "퀘이드"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "데니스 퀘이드은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

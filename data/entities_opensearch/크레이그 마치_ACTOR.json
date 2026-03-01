@@ -1,0 +1,18 @@
+{
+  "entity": {
+    "name": "크레이그 마치",
+    "synonym": [
+      "Craig March",
+      "마치",
+      "크레이그",
+      "크레이그 마치",
+      "크레이그 마크",
+      "크레이그마치",
+      "크레이그마크"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "크레이그 마치은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

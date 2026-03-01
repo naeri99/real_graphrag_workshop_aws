@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "Steward",
+    "synonym": [
+      "Steward",
+      "Steward 캐릭터",
+      "스튜어드",
+      "스튜어드 캐릭터",
+      "스튜어트",
+      "스튜얼드",
+      "스튜워드",
+      "집사"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "Steward은 영화 '테넷'의 등장인물로, 제레미 테오발드이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

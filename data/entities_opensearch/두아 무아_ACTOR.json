@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "두아 무아",
+    "synonym": [
+      "Doua Moua",
+      "두아",
+      "두아 모아",
+      "두아 무아",
+      "두아모아",
+      "두아무아",
+      "모아",
+      "무아"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "두아 무아은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

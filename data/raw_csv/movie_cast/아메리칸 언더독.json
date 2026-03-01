@@ -1,0 +1,88 @@
+{
+  "movie_title": "아메리칸 언더독",
+  "director": [
+    {
+      "name": "앤드류 어윈",
+      "name_en": "Andrew Erwin"
+    }
+  ],
+  "cast": [
+    {
+      "actor": "재커리 리바이",
+      "actor_en": "Zachary Levi",
+      "character": "커트 워너"
+    },
+    {
+      "actor": "안나 파킨",
+      "actor_en": "Anna Paquin",
+      "character": "브렌다 메오니"
+    },
+    {
+      "actor": "데니스 퀘이드",
+      "actor_en": "Dennis Quaid",
+      "character": "딕 버마일"
+    },
+    {
+      "actor": "헤이든 잘러",
+      "actor_en": "Hayden Zaller",
+      "character": "잭"
+    },
+    {
+      "actor": "서다리우스 블레인",
+      "actor_en": "Ser'Darius Blain",
+      "character": "마이크 허드넛"
+    },
+    {
+      "actor": "브루스 맥길",
+      "actor_en": "Bruce McGill",
+      "character": "짐 포스터"
+    },
+    {
+      "actor": "챈스 켈리",
+      "actor_en": "Chance Kelly",
+      "character": "마이크 마츠 코치"
+    },
+    {
+      "actor": "아담 볼드윈",
+      "actor_en": "Adam Baldwin",
+      "character": "테리 앨런"
+    },
+    {
+      "actor": "모르가나 쇼",
+      "actor_en": "Morgana Shaw",
+      "character": "제니 조"
+    },
+    {
+      "actor": "신디 호건",
+      "actor_en": "Cindy Hogan",
+      "character": "수 워너"
+    },
+    {
+      "actor": "대니 빈슨",
+      "actor_en": "Danny Vinson",
+      "character": "래리"
+    },
+    {
+      "actor": "맥킬린 로우",
+      "actor_en": "McKylin Rowe",
+      "character": "마샬"
+    },
+    {
+      "actor": "시메온 카스틸",
+      "actor_en": "Simeon Castille",
+      "character": "아이작 브루스"
+    },
+    {
+      "actor": "알비스 루이스",
+      "actor_en": "Alvis Lewis",
+      "character": "코치"
+    }
+  ],
+  "review": [
+    "./data/review/아메리칸 언더독/아메리칸 언더독_4GbXUOM3SWg.json",
+    "./data/review/아메리칸 언더독/아메리칸 언더독_7ry1TFpCegw.json",
+    "./data/review/아메리칸 언더독/아메리칸 언더독_B5PfqNP-fro.json",
+    "./data/review/아메리칸 언더독/아메리칸 언더독_TlOKrhOkFsk.json",
+    "./data/review/아메리칸 언더독/아메리칸 언더독_cA77CtakX74.json"
+  ]
+}

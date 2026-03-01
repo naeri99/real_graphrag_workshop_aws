@@ -1,0 +1,12 @@
+{
+  "entity": {
+    "name": "누르끼끼FBJ",
+    "synonym": [
+      "누르끼끼FBJ"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "누르끼끼FBJ은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

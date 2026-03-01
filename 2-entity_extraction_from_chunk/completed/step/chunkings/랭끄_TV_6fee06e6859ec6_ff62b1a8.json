@@ -1,0 +1,80 @@
+{
+  "chunk_hash": "6fee06e6859ec6",
+  "chunk_id": "랭끄_TV_6fee06e6859ec6_ff62b1a8",
+  "user_query": "[음악] 새끼 펭귄들을 위해 아파트 퇴거 조치에 응했지만 생 같은 자식 어린 듯 파퍼 씨의 마음은 아려오고 아이들의 속상함 앞에 태연한 척 [음악] 해보지만 마음에도 없는 소리로 또다시 원성을 사게 된 파퍼 씨 오 드디어 들어갔구나 아니 집에서 지금 키우던 애들을 저 창고 속에 계속 가둬 둔 거야 이 순한 애들이 나쁜 상술을 이용당하기 전에 탈출하기로 결심한 [음악] 파퍼 씨는 별일 없었듯 태연한 척 큰 걸음으로 나서는데 걸 혼자 잡히는 거 아닌가 몰라 이미 나머진 빠져나간 지 오래 혼자 남고 된 펭귄 위기에 빠질 일발의 상황에 대면하는데 마침 빠른 걸음으로 일단 탈출 성공 어 나머지 가족도 이제 이 구간만 통과하면 게임 끝인데 아 들켰어 애들을 다 들고 뛸 수도 없는 노릇이지 모두 천천히 바라며 펭귄 문이 빠지도록 뛰는 성공 과연 이 남은 한 마리까지 무사히 가족의 품으로 돌아갈 수 있을까요 어느 별에서 왔든 서로의 마음만 열면 한 가족이 될 수 있단 가족의 돈독 프로젝트 파퍼 씨네 펭귄 [음악] 들이었습니다",
+  "movie_id": "파퍼씨네 펭귄들",
+  "reviewer": "랭끄_TV",
+  "chunk_index": 2,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "파퍼 씨",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "파퍼 씨는 펭귄들을 키우다가 아파트 퇴거 조치를 받고, 펭귄들이 나쁜 상술에 이용당하기 전에 탈출시키기로 결심한 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "파퍼 씨네 펭귄들",
+      "entity_type": "MOVIE",
+      "entity_description": "파퍼 씨네 펭귄들은 서로 다른 존재들이 마음을 열면 한 가족이 될 수 있다는 메시지를 담은 가족 영화이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "펭귄",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "펭귄들은 파퍼 씨가 집에서 키우던 새끼 펭귄들로, 창고에 갇혔다가 파퍼 씨의 도움으로 탈출을 시도하는 순한 동물 캐릭터들이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "파퍼 씨",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "파퍼 씨네 펭귄들",
+      "target_type": "MOVIE",
+      "relationship_description": "파퍼 씨는 파퍼 씨네 펭귄들의 주인공이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "펭귄",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "파퍼 씨네 펭귄들",
+      "target_type": "MOVIE",
+      "relationship_description": "펭귄들은 파퍼 씨네 펭귄들에 등장하는 주요 캐릭터들이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "파퍼 씨",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "펭귄",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "파퍼 씨는 펭귄들을 가족처럼 키우며 탈출을 도와주는 관계이다",
+      "relationship_strength": 9
+    }
+  ],
+  "entity_resolution": {
+    "파퍼 씨": {
+      "description": "파퍼 씨 -> 파퍼",
+      "resolved_name": "파퍼",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "파퍼 씨네 펭귄들": {
+      "description": "파퍼 씨네 펭귄들 -> 파퍼씨네 펭귄들",
+      "resolved_name": "파퍼씨네 펭귄들",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "펭귄": {
+      "description": "펭귄 -> 펭귄 목소리",
+      "resolved_name": "펭귄 목소리",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    }
+  }
+}

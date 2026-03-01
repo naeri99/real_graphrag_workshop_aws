@@ -1,0 +1,24 @@
+{
+  "entity": {
+    "name": "Lawrence Robertson",
+    "synonym": [
+      "Lawrence",
+      "Lawrence Robertson",
+      "Robertson",
+      "USR 회장",
+      "래리 로버트슨",
+      "로렌스",
+      "로렌스 로버슨",
+      "로렌스 로버트슨",
+      "로렌스로버트슨",
+      "로버슨",
+      "로버트슨",
+      "로버트슨 회장",
+      "회장"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "Lawrence Robertson은 영화 '아이 로봇'의 등장인물로, 브루스 그린우드이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

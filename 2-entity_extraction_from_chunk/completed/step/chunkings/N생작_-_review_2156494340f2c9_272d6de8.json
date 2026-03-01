@@ -1,0 +1,142 @@
+{
+  "chunk_hash": "2156494340f2c9",
+  "chunk_id": "N생작_-_review_2156494340f2c9_272d6de8",
+  "user_query": "장가갈 뻔했었다. 예전에 근데 내가 다 망쳤어 [ __ ] 원래 내 인생이 지랄이잖아 저기 시장 앞에 수협 있지 거기 다녀 얼굴도 예쁘고 완전히 효녀야지 아버지 몸 누워 있을 때도 오랫동안 병수발 했었어 그런 애한테 어떻게 내 병수발까지 하라 그래 그냥 돈이나 왕창 갖다 주고 사라지려 그랬는데 나 없어도 걔 만나면 잘해 줘야 돼. 아버지 걔가 아버지가 없어. 그니까 아버지가 아버지 좀 해 줘. 아버지 아들이 진짜 사랑하는 여자야. 내 말 알아들어. 미안해 아버지. 하정의 손을 잡아주며 영화는 끝이 납니다. 영화 남자가 사랑할 때는 거칠지만 순정파인 태일과 삶의 무게를 견디는 하정의 안타까운 사랑 이야기입니다. 주인공 황정민 한혜진 배우는 관객들의 눈물샘을 자극하는 가슴 저릿한 멜로 연기를 선보였습니다. 실제로 저도 찔끔했습니다. 은 고백과 헤어짐 이별 보는 이들에게 진정한 사랑의 의미를 되새기게 하는 영화 남자가 사랑할 때였습니다.",
+  "movie_id": "남자가 사랑할 때",
+  "reviewer": "N생작_-_review",
+  "chunk_index": 6,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "남자가 사랑할 때",
+      "entity_type": "MOVIE",
+      "entity_description": "남자가 사랑할 때는 거칠지만 순정파인 태일과 삶의 무게를 견디는 하정의 안타까운 사랑 이야기를 다룬 멜로 영화이다. 고백과 헤어짐, 이별을 통해 진정한 사랑의 의미를 되새기게 하는 작품이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "태일",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "태일은 거칠지만 순정파인 남자 주인공으로, 하정을 진심으로 사랑하며 자신의 병 때문에 그녀에게 짐이 되지 않으려 돈을 주고 사라지려 했던 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "하정",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "하정은 시장 앞 수협에서 일하는 여성으로, 얼굴이 예쁘고 효녀이며 아버지가 누워 있을 때 오랫동안 병수발을 했던 인물이다. 아버지가 없는 상황이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "황정민",
+      "entity_type": "ACTOR",
+      "entity_description": "황정민은 영화 남자가 사랑할 때에서 태일 역을 맡아 관객들의 눈물샘을 자극하는 가슴 저릿한 멜로 연기를 선보인 배우이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "한혜진",
+      "entity_type": "ACTOR",
+      "entity_description": "한혜진은 영화 남자가 사랑할 때에서 하정 역을 맡아 관객들의 눈물샘을 자극하는 가슴 저릿한 멜로 연기를 선보인 배우이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "태일",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "남자가 사랑할 때",
+      "target_type": "MOVIE",
+      "relationship_description": "태일은 남자가 사랑할 때의 남자 주인공이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "하정",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "남자가 사랑할 때",
+      "target_type": "MOVIE",
+      "relationship_description": "하정은 남자가 사랑할 때의 여자 주인공이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "태일",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "하정",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "태일은 하정을 진심으로 사랑하는 연인 관계이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "황정민",
+      "source_type": "ACTOR",
+      "target_entity": "태일",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "황정민은 태일 역을 연기했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "한혜진",
+      "source_type": "ACTOR",
+      "target_entity": "하정",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "한혜진은 하정 역을 연기했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "황정민",
+      "source_type": "ACTOR",
+      "target_entity": "남자가 사랑할 때",
+      "target_type": "MOVIE",
+      "relationship_description": "황정민은 남자가 사랑할 때에서 주연으로 멜로 연기를 선보였다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "한혜진",
+      "source_type": "ACTOR",
+      "target_entity": "남자가 사랑할 때",
+      "target_type": "MOVIE",
+      "relationship_description": "한혜진은 남자가 사랑할 때에서 주연으로 멜로 연기를 선보였다",
+      "relationship_strength": 9
+    }
+  ],
+  "entity_resolution": {
+    "남자가 사랑할 때": {
+      "description": "남자가 사랑할 때 -> 남자가 사랑할 때",
+      "resolved_name": "남자가 사랑할 때",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "태일": {
+      "description": "태일 -> 태일",
+      "resolved_name": "태일",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "하정": {
+      "description": "하정 -> 한송지",
+      "resolved_name": "한송지",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "황정민": {
+      "description": "황정민 -> 황정민",
+      "resolved_name": "황정민",
+      "entity_type": "ACTOR",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "한혜진": {
+      "description": "한혜진 -> 한혜진",
+      "resolved_name": "한혜진",
+      "entity_type": "ACTOR",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

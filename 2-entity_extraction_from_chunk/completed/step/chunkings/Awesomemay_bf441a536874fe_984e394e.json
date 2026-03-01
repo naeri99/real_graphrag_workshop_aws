@@ -1,0 +1,185 @@
+{
+  "chunk_hash": "bf441a536874fe",
+  "chunk_id": "Awesomemay_bf441a536874fe_984e394e",
+  "user_query": "making meta jokes about the characters on screen everything in this world comes to life and you can feel how much thought was put into it I really love the Little O's floating into the sky when Dog Man would howl and they do this type of thing with text quite a bit and it's super creative no surprise here 10 out of 10 for the animation and visuals this film takes what I love from the Captain Underpants movie's humor and that to me is comedy that builds on itself and gives just a little bit more time to let the joke fully reach its punchline and really play on the bizarreness of the world do I think this film is a comedy Masterpiece or as funny as the Captain Underpants movie absolutely not I don't think Dog Man or Petey can top George and Harold and Captain Underpants as characters just in general but there are just as clever ideas and gags thrown into the ring that makes this movie feel like almost a sequel to it my favorite joke from Dog Man is of course the life is unfair bit I wish that wasn't spoiled in sneak peeks because it really is the magnum opus of the film's comedy and I think I would have loved it even more if it was a surprise scene it's just such a peak example of stretching a joke out perfectly mayor could have just said life is unfair and that be it but no it went that extra mile that's not fair oh that's not fair that's not fair here call this number life's not fair what life's not fair you can actually call that number and hear that voice line and I love",
+  "movie_id": "도그맨",
+  "reviewer": "Awesomemay",
+  "chunk_index": 5,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "DOG MAN",
+      "entity_type": "MOVIE",
+      "entity_description": "Dog Man은 Captain Underpants 영화와 유사한 유머 스타일을 가진 애니메이션 영화로, 텍스트를 활용한 창의적인 시각적 연출이 특징이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "DOG MAN",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Dog Man은 영화의 주인공 캐릭터로, 하울링할 때 작은 O들이 하늘로 떠오르는 장면이 있다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "PETEY",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Petey는 Dog Man 영화에 등장하는 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "CAPTAIN UNDERPANTS",
+      "entity_type": "MOVIE",
+      "entity_description": "Captain Underpants는 Dog Man과 비교되는 애니메이션 영화로, 코미디 마스터피스로 평가받는다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "GEORGE",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "George는 Captain Underpants 영화의 캐릭터로, Dog Man이나 Petey보다 더 뛰어난 캐릭터로 평가받는다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "HAROLD",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Harold는 Captain Underpants 영화의 캐릭터로, George와 함께 등장한다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "CAPTAIN UNDERPANTS",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Captain Underpants는 동명 영화의 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "MAYOR",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Mayor는 Dog Man 영화에서 \"life is unfair\" 장면에 등장하는 캐릭터로, 농담을 극대화하는 역할을 한다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "DOG MAN",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "DOG MAN",
+      "target_type": "MOVIE",
+      "relationship_description": "Dog Man 캐릭터는 Dog Man 영화의 주인공이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "PETEY",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "DOG MAN",
+      "target_type": "MOVIE",
+      "relationship_description": "Petey는 Dog Man 영화에 등장하는 캐릭터이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "MAYOR",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "DOG MAN",
+      "target_type": "MOVIE",
+      "relationship_description": "Mayor는 Dog Man 영화에서 \"life is unfair\" 장면에 등장한다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "DOG MAN",
+      "source_type": "MOVIE",
+      "target_entity": "CAPTAIN UNDERPANTS",
+      "target_type": "MOVIE",
+      "relationship_description": "Dog Man은 Captain Underpants 영화와 유사한 유머 스타일과 창의적인 아이디어를 공유하며, 거의 속편처럼 느껴진다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "DOG MAN",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "PETEY",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Dog Man과 Petey는 같은 영화에 등장하는 캐릭터들로, George와 Harold, Captain Underpants와 비교된다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "GEORGE",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "CAPTAIN UNDERPANTS",
+      "target_type": "MOVIE",
+      "relationship_description": "George는 Captain Underpants 영화의 주요 캐릭터이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "HAROLD",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "CAPTAIN UNDERPANTS",
+      "target_type": "MOVIE",
+      "relationship_description": "Harold는 Captain Underpants 영화의 주요 캐릭터이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "CAPTAIN UNDERPANTS",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "CAPTAIN UNDERPANTS",
+      "target_type": "MOVIE",
+      "relationship_description": "Captain Underpants 캐릭터는 동명 영화의 주인공이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "GEORGE",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "HAROLD",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "George와 Harold는 Captain Underpants 영화에서 함께 등장하는 캐릭터들이다",
+      "relationship_strength": 10
+    }
+  ],
+  "entity_resolution": {
+    "DOG MAN": {
+      "description": "DOG MAN -> DOG MAN",
+      "resolved_name": "DOG MAN",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "PETEY": {
+      "description": "PETEY -> PETEY",
+      "resolved_name": "PETEY",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "CAPTAIN UNDERPANTS": {
+      "description": "CAPTAIN UNDERPANTS -> CAPTAIN UNDERPANTS",
+      "resolved_name": "CAPTAIN UNDERPANTS",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "GEORGE": {
+      "description": "GEORGE -> GEORGE",
+      "resolved_name": "GEORGE",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "HAROLD": {
+      "description": "HAROLD -> HAROLD",
+      "resolved_name": "HAROLD",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "MAYOR": {
+      "description": "MAYOR -> MAYOR",
+      "resolved_name": "MAYOR",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

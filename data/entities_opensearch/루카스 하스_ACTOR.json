@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "루카스 하스",
+    "synonym": [
+      "Lukas Haas",
+      "루카스",
+      "루카스 하스",
+      "루카스 하아스",
+      "루카스 해스",
+      "루카스하스",
+      "루커스 하스",
+      "하스"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "루카스 하스은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

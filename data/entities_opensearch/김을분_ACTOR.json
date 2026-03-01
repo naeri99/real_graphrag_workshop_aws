@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "김을분",
+    "synonym": [
+      "Kim Eul-boon",
+      "김 을분",
+      "김을분",
+      "김을분 배우",
+      "김을분 할머니",
+      "김을분씨",
+      "을분",
+      "을분 할머니"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "김을분은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

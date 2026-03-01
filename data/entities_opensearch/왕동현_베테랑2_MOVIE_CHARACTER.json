@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "왕동현",
+    "synonym": [
+      "Dong-hyun",
+      "Wang Dong-hyun",
+      "동현",
+      "동현이",
+      "왕 동현",
+      "왕 형사",
+      "왕동 현",
+      "왕동현",
+      "왕동현씨",
+      "왕형사"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "왕동현은 영화 '베테랑2'의 등장인물로, 오대환이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

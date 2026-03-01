@@ -1,0 +1,49 @@
+{
+  "chunk_hash": "d57e6876fc63df",
+  "chunk_id": "무비가가_d57e6876fc63df_26a6860e",
+  "user_query": "with gr hands I don't How even did what he did to you and even in the midst of the shame of being Here you can possibly still be mooning over that's because You're a monkey who doesn't understand the human condition having met you I understand why It's a condition You Don't stop loving a person just because they injure You is Part of you That Just Want to wish well and move on most of me to be found iy river 키스에 대한 원망을 드러내지만 한편으로는 실패한 연애에 미련이 남아 있었던 린제이 서로가 대립하며 일정을 이어가는데요 ISP Please dres cele because our wedding is so special it needs to be an epic impos It's far too important to celebrate anybody shit ass hometown or on one calendar day so kindly give up your entire weekend What's hilarious is that these two have no idea they're in a fool's Paradise really think that spent most of my life doing the for my mother's of some mares work out and some people fing so i'm guessing you're single I decided to learn from my parents mistakes It's a form of evolution but you can't blame people for believing their own lives will be different Yes I can It's incredibly egotistical it might help to consider the idea that Heartbreak is Because if had up with personable any 그들은 결혼 식 전 준비된 일정에 소극적으로 참여하는 대신 대화를 나누며 마음속 깊은 진실에 대해 점차 알아가기 시작합니다 그렇게 길고 길었던 식전 행사가 끝이 나면 그들은 식장에 참석하기 위해 길을 나서는데요 마침내 결혼식에 참석한 두 사람 any you need a crit And conne how many believer no believer no congre church preach there a heaven got church you know who I feel Sorry for yourself and father why here wasn't Married To",
+  "movie_id": "데스티네이션 웨딩",
+  "reviewer": "무비가가",
+  "chunk_index": 3,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "린제이",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "린제이는 키스에 대한 원망을 드러내면서도 실패한 연애에 미련이 남아있는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "키스",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "키스는 린제이에게 상처를 준 인물로, 린제이가 원망하는 대상이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "린제이",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "키스",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "린제이는 키스에게 상처를 받았지만 여전히 미련이 남아있다",
+      "relationship_strength": 8
+    }
+  ],
+  "entity_resolution": {
+    "린제이": {
+      "description": "린제이 -> 린제이",
+      "resolved_name": "린제이",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "키스": {
+      "description": "키스 -> 키스",
+      "resolved_name": "키스",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    }
+  }
+}

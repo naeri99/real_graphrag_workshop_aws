@@ -1,0 +1,13 @@
+{
+  "entity": {
+    "name": "Movie_Trailers_Source",
+    "synonym": [
+      "Movie_Trailers_Source",
+      "Movie Trailers Source"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "Movie_Trailers_Source은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "entity": {
+    "name": "조승연의_탐구생활",
+    "synonym": [
+      "조승연의_탐구생활",
+      "조승연의 탐구생활"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "조승연의_탐구생활은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "chunk_hash": "7a304f3a4c094b",
+  "chunk_id": "영화가좋아요와구독부탁드립니다_7a304f3a4c094b_a7c2100d",
+  "user_query": "나야 성진 씨 나 지금 다시 [음악] 떠나는 중이야 베를린으로 용서 못 할 짓을 저질러야겠다지 뭐 뭐 하는 거야 대저택의 비밀 공간에 숨어 들어간 여자가 있습니다. 오늘의 영화 공작속. [음악] 우리 집에 나 말고 누군가 또 있다. 히든 페이스. 먼저 히든 페이스입니다. 월세 전세 아니고 작가예요. 마음에 들어. 엄청난데. [음악] 기생충에서 나왔던 집에 다시 들어간 거요? 이런 집에 사는 게 꿈이었는데 [음악] 노력도 없이 꿈을 이뤘네. 그렇다는 말은 장가 잘 간다는 말이신데. 야, 조용히 하고 따라와라. 익숙해져야 돼. 응? 성진 씨는 마에스트로잖아. 아, 지휘자군요. 마에스트로. 마에스트로는 모든 게 당연한 거야. 실력만으로 바닥에서 여기까지 올라왔다가 첼리스트이자 오케스트라 단장의 딸과 결혼을 앞두고 있어서 세상 부러울 게 없는 남자. 그러면 거기로 정한다. 그 리조트. 오박에 3천 비싸다고. 아, 어차피 엄마가 내는 건데 뭐. 와, 그들이 사는 세상인데요. 이거 좀 봐봐라. 의상팀에서 올라온 건데 너랑 결정해야지. 그들이 사는 세상이 아니라 그들만 사는 세상. 지휘자가 멀쩡히 있는데 공연에 대한 얘기는 모녀 둘이서만 얘기하고 있으니 남자 혼자 자꾸 외딴섬이 되어 가는 중. 근데 이런 모습은 좀 오해하겠는데요. 결혼 앞두고 있는데 막 한눈 팔고 그런 거야? 왜 그래? 자기 요즘 낯설다. 바이올린한테도 다정하고 모든 사람한테 다정하면서 왜 나한테 그렇게 냉정해? 으아 천국을 찔렸지만 나도 할 말이 있다는 분노 표출의 연기. 나도 뭐 하나 얘기 좀 할까? 뭔데? 나 왜 이렇게 창피하게 만들어? 누가? 내가. 꼭 그렇게 단원들 다 보는 데서 둘이서 회의를 해야 하나? 응? 지휘자는 그냥 허수아비라는 걸 사람들이 다 알게끔 해야 되는 거니? 아니 그거는 엄마가 일차로 나랑 상의하고 성진 씨랑 결정하려고 한 거야. 그러니까 그 일차 상의를 꼭 그렇게 다 보는 데서 해야 되는 거였니? 많이 서운했나 본데요. 그게 그 그게 그렇게 창피해. 금 자랑스럽게 써서 배치하자게 그날의 말다툼 이후로 약혼녀가 불렀다. 나 성진 씨와의 관계가 확신이 없어. 그래도 이 집에 계속 살아도 되는 거지. 성진 씨 잘못이 아니고 내 잘못이야. 그러니까 내가 떠날게. [음악] 이러면 파혼하자는 건데요. 지난날의 정과 자산 규모를 생각하면 후회가 파도처럼 밀려오는 터라. 부글부글 끓는 마음에 찬물로 세수하고 정신 차리러 갔는데. 성진 씨 나 여기 있어. 어 거울 뒤에 있네요. 성진 씨 여기 갇혔어. 소리가 안 들리나 봐요. 야, 대저택 안에 있는 비밀 공간에 잠깐 들어갔다가 서프라이즈 해 주려고 했지만. 이야, 이러면 가출이 아니라 출근인데. 남의 돈으로 좋은 매물에 살고 있는 남자의 얘기로 돌아옵니다. 공연이 코앞인데 첼리스트의 자리는 여전히 공석. 지휘자는 첼로 제 말씀인데요. 이거 계속 한 자리를 비워두고 연습을 갈 순 없는 게 아닌가 해서. 예. 빨리 해결하겠습니다. 어떡해요? 예. 예비 장모님 찬스 12일째인가? 예. 그 정도. 너무 걱정하지 마. 곧 연락",
+  "movie_id": "히든페이스",
+  "reviewer": "영화가좋아요와구독부탁드립니다",
+  "chunk_index": 1,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "히든 페이스",
+      "entity_type": "MOVIE",
+      "entity_description": "히든 페이스는 대저택의 비밀 공간에 숨어든 여자에 관한 영화이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "공작속",
+      "entity_type": "MOVIE",
+      "entity_description": "공작속은 오늘의 영화로 소개된 작품이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "성진",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "성진은 마에스트로(지휘자)로, 실력만으로 바닥에서 올라온 남자이며 첼리스트이자 오케스트라 단장의 딸과 결혼을 앞두고 있다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "약혼녀",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "약혼녀는 첼리스트이자 오케스트라 단장의 딸로, 성진과 결혼을 앞두고 있었으나 관계에 확신이 없어 파혼을 선언한다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "예비 장모",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "예비 장모는 오케스트라 단장으로, 공연에 대한 결정을 딸과 함께 하며 성진을 소외시킨다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "기생충",
+      "entity_type": "MOVIE",
+      "entity_description": "기생충은 대저택이 등장하는 영화로, 히든 페이스의 집과 비교되어 언급된다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "성진",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "히든 페이스",
+      "target_type": "MOVIE",
+      "relationship_description": "성진은 히든 페이스의 주인공이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "약혼녀",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "히든 페이스",
+      "target_type": "MOVIE",
+      "relationship_description": "약혼녀는 히든 페이스에 등장하는 인물이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "예비 장모",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "히든 페이스",
+      "target_type": "MOVIE",
+      "relationship_description": "예비 장모는 히든 페이스에 등장하는 인물이다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "성진",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "약혼녀",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "성진과 약혼녀는 결혼을 앞둔 사이였으나 파혼 위기에 처한다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "약혼녀",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "예비 장모",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "약혼녀는 예비 장모의 딸이며 함께 공연 관련 결정을 한다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "성진",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "예비 장모",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "성진은 예비 장모의 예비 사위이며, 공연 결정에서 소외당하고 있다",
+      "relationship_strength": 8
+    }
+  ],
+  "entity_resolution": {
+    "히든 페이스": {
+      "description": "히든 페이스 -> 히든페이스",
+      "resolved_name": "히든페이스",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "공작속": {
+      "description": "공작속 -> 공작속",
+      "resolved_name": "공작속",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "성진": {
+      "description": "성진 -> 성진의 어머니",
+      "resolved_name": "성진의 어머니",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "약혼녀": {
+      "description": "약혼녀 -> 수연 친구2",
+      "resolved_name": "수연 친구2",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "예비 장모": {
+      "description": "예비 장모 -> 예비 장모",
+      "resolved_name": "예비 장모",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "기생충": {
+      "description": "기생충 -> 기생충",
+      "resolved_name": "기생충",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

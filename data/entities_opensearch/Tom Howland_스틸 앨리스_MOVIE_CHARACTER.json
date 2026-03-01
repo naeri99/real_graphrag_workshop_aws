@@ -1,0 +1,36 @@
+{
+  "entity": {
+    "name": "Tom Howland",
+    "synonym": [
+      "Thomas Howland",
+      "Tom",
+      "Tom Cooper",
+      "Tom Hanks",
+      "Tom Howland",
+      "Young Tom",
+      "소년 톰",
+      "어린 톰",
+      "어린톰",
+      "탐",
+      "탐 쿠퍼",
+      "탐 하울랜드",
+      "탐하울랜드",
+      "토마스 하울랜드",
+      "토마스 행크스",
+      "토마스하울랜드",
+      "톰",
+      "톰 쿠퍼",
+      "톰 하울랜드",
+      "톰 하울런드",
+      "톰 행크스",
+      "톰하울랜드",
+      "톰하울런드",
+      "톰행크스",
+      "하울랜드"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "Tom Howland은 영화 '스틸 앨리스'의 등장인물로, 헌터 패리시이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

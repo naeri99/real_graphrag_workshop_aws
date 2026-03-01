@@ -1,0 +1,13 @@
+{
+  "entity": {
+    "name": "편고예화영_Movie_Trailers",
+    "synonym": [
+      "편고예화영_Movie_Trailers",
+      "편고예화영 Movie Trailers"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "편고예화영_Movie_Trailers은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "모리스",
+    "synonym": [
+      "Maurice",
+      "Maurice Fischer",
+      "모리스",
+      "모리스 씨",
+      "모리스 피셔",
+      "모리스 피셔 시니어",
+      "모리스 회장",
+      "모리스씨",
+      "모리스피셔",
+      "모리쓰",
+      "피셔 시니어"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "모리스은 영화 '인셉션'의 등장인물로, 피트 포스틀스웨이트이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

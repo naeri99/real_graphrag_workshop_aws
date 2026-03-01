@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "찰스 퍼거슨",
+    "synonym": [
+      "Charles Ferguson",
+      "Charles H. Ferguson",
+      "Ferguson",
+      "찰스 H. 퍼거슨",
+      "찰스 퍼거선",
+      "찰스 퍼거슨",
+      "찰스 퍼거슨 감독",
+      "찰스 페거슨",
+      "찰스퍼거슨",
+      "퍼거슨",
+      "퍼거슨 감독"
+    ],
+    "entity_type": "MOVIE_STAFF",
+    "summary": "찰스 퍼거슨은 영화 감독입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "chunk_hash": "a5bf4c32ce2ef4",
+  "chunk_id": "무드킹_a5bf4c32ce2ef4_96db02bd",
+  "user_query": "things in. Can't you see it? All right. We came out here just to relax. Some just to sail and unw. Just going to get some more beers. [음악] [음악] A [음악] one killed the other on purpose or by accident and then took his own life dred himself [음악] 불행을 예견했던 여인 카산드라. 카산드라의 꿈은 결국 이름 그대로 불길한 예언이 되고야 말았습니다. [음악]",
+  "movie_id": "카산드라 드림",
+  "reviewer": "무드킹",
+  "chunk_index": 7,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "카산드라",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "카산드라는 불행을 예견했던 여인으로, 그녀의 꿈이 불길한 예언이 되었다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "카산드라",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "카산드라",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "카산드라의 이름은 불길한 예언을 상징한다",
+      "relationship_strength": 5
+    }
+  ],
+  "entity_resolution": {
+    "카산드라": {
+      "description": "카산드라 -> 캐시 웹 / 마담 웹",
+      "resolved_name": "캐시 웹 / 마담 웹",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    }
+  }
+}

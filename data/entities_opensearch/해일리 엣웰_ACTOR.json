@@ -1,0 +1,25 @@
+{
+  "entity": {
+    "name": "해일리 엣웰",
+    "synonym": [
+      "Atwell",
+      "Hayley Atwell",
+      "앳웰",
+      "엣웰",
+      "해일리",
+      "해일리 애트웰",
+      "해일리 앳웰",
+      "해일리 엣웰",
+      "해일리앳웰",
+      "해일리엣웰",
+      "헤일리",
+      "헤일리 앳웰",
+      "헤일리 엣웰",
+      "헤일리앳웰"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "해일리 엣웰은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

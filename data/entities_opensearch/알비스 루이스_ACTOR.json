@@ -1,0 +1,18 @@
+{
+  "entity": {
+    "name": "알비스 루이스",
+    "synonym": [
+      "Alvis Lewis",
+      "Elvis Lewis",
+      "루이스",
+      "알비스",
+      "알비스 루이스",
+      "알비스루이스",
+      "앨비스 루이스"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "알비스 루이스은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

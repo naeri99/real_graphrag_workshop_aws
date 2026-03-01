@@ -1,0 +1,16 @@
+{
+  "entity": {
+    "name": "티피",
+    "synonym": [
+      "Tippy",
+      "띠피",
+      "티삐",
+      "티피",
+      "팁피"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "티피은 영화 '팬텀 스레드'의 등장인물로, 필리스 맥마혼이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

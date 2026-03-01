@@ -1,0 +1,23 @@
+{
+  "entity": {
+    "name": "필립 베이커 홀",
+    "synonym": [
+      "Philip",
+      "Philip Baker Hall",
+      "베이커 홀",
+      "필 베이커 홀",
+      "필립",
+      "필립 베이커 할",
+      "필립 베이커 홀",
+      "필립 베이커홀",
+      "필립 홀",
+      "필립베이커 홀",
+      "필립베이커홀",
+      "필립홀"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "필립 베이커 홀은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

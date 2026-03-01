@@ -1,0 +1,23 @@
+{
+  "entity": {
+    "name": "이준혁",
+    "synonym": [
+      "Lee Joon-hyuk",
+      "Lee Jun-hyeok",
+      "Lee Jun-hyuk",
+      "Lee Junhyeok",
+      "배우 이준혁",
+      "이 준혁",
+      "이준 혁",
+      "이준혁",
+      "이준혁 배우",
+      "이준혁배우",
+      "이준혁씨",
+      "준혁"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "이준혁은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

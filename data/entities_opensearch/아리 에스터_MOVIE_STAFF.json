@@ -1,0 +1,25 @@
+{
+  "entity": {
+    "name": "아리 에스터",
+    "synonym": [
+      "Ari",
+      "Ari Aster",
+      "Ari Aster 감독",
+      "Ari 에스터",
+      "아리 아스터",
+      "아리 애스타",
+      "아리 애스터",
+      "아리 에스타",
+      "아리 에스터",
+      "아리애스터",
+      "아리에스터",
+      "애스터",
+      "에스터",
+      "에스터 감독"
+    ],
+    "entity_type": "MOVIE_STAFF",
+    "summary": "아리 에스터은 영화 감독입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

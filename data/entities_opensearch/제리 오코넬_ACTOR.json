@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "제리 오코넬",
+    "synonym": [
+      "Jerry",
+      "Jerry O'Connell",
+      "오코넬",
+      "제리",
+      "제리 오코널",
+      "제리 오코넬",
+      "제리오코널",
+      "제리오코넬"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "제리 오코넬은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

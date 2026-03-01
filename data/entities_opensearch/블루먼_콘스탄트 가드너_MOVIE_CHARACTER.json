@@ -1,0 +1,17 @@
+{
+  "entity": {
+    "name": "블루먼",
+    "synonym": [
+      "Blumen",
+      "블루만",
+      "블루맨",
+      "블루먼",
+      "블루멘",
+      "블루문"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "블루먼은 영화 '콘스탄트 가드너'의 등장인물로, 존 시라피안이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

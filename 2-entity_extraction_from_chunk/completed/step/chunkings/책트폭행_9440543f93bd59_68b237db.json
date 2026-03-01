@@ -1,0 +1,146 @@
+{
+  "chunk_hash": "9440543f93bd59",
+  "chunk_id": "책트폭행_9440543f93bd59_68b237db",
+  "user_query": "합니다 그나마 카라칼라의 업적이 있다면 그가 전쟁에서 공을 많이 세웠다는 것입니다 영화에서 비춰진 것처럼 그는 전쟁을 매우 좋아했고 직접 전쟁터로 나가 병사들과 호흡하며 로마의 승리를 안겨 주었죠 하지만 로마의 역사를 기록한 카시우스 디오는 카라칼라가 로마 제국 확장이라는 거대한 목표를 가지고 전쟁을 벌인 것은 아니라고 합니다 단지 적을 정복했다는 구실로 부유한 시민들에게 돈을 뜯어내기 위해 전쟁을 즐겼다고 지적했죠 결국 영화에서도 실제 역사에서도 카라칼라는 마크리누스에게 배신당하고 죽고 맙니다 영화에서는 귀에 침을 맞고 즉사하지만 실제 현실은 더 수치스러웠습니다 바로 사적인 욕구를 해결하다 죽음을 맞이한 것이었죠 배우 덴젤 워싱턴이 연기한 마크리누스는 원래 알제리 쉐르셀 지역에서 태어난 무어인이었습니다 그의 부모님은 알려지지 않았지만 명망 있는 가문 출신은 아니었을 것으로 추측됩니다 하지만 야망이 넘치던 마크리누스는 열심히 일해 근위대 사령관직까지 오르게 됩니다 당시 사령관직은 두 명의 장관이 나누어 맡았는데 군사 분야는 아드벤투스가 행정 분야는 마크리누스가 담당하였습니다 이 자리는 명예로웠지만 매우 위험한 자리였습니다 카라칼라가 매우 변덕스러웠기 때문에 그에게 잘못 보이면 그날 바로 죽을 수도 있는 자리였죠 그런데 어느 날 한 예언자가 마크리누스가 장차 제국을 통치할 것이라는 예언을 하게 됩니다 이 예언은 마술사의 귀에 들어갔고 그는 이 아프리카 예언자와 마크리누스를 조사해 혹시 모를 반역에 대한 보고서를 황제에게 올렸습니다 하지만 카라칼라는 당시 전차 경주에 빠져 있어 자기에게 들어온 보고서를 제대로 읽어보지도 않고 모두 마크리누스에게 떠넘겼습니다 먼저 읽어보고 혹시나 중요한 내용이 있으면 그때 자신에게 보고해 달라고 했죠 황제의 보고서를 대신 읽던 마크리누스는 예언자의 이야기를 읽게 됩니다 그는 이 내용이 황제의 귀에 들어가면 어차피 자신은 반역죄로 죽을 것이기에 죽기보다는 차라리 황제를 죽이는 것을 선택했습니다 그리고 자신의 재물이 될 장군 한 명을 골라내고 마크리누스가 선택한 인물은 마르티알리스였습니다 그는 대장 진급이 좌절되어 카라칼라에게 앙심을 품고 있었죠 마크리누스는 마르티알리스를 꼬득여 카라칼라를 죽이라고 시켰고 마르티알리스는 기회를 살피다 카라칼라가 혼자 있는 것을 발견하게 됩니다 보통 카라칼라의 주변은 근위대가 지키고 있지만 이날은 카라칼라가 예배를 드리려 신전으로 가는 길에 잠깐 길에서 소변을 보기 위해 근위대에게 물러나 있으라고 했던 것이죠 마르티알리스는 경호가 빈틈을 타 카라칼라에게 다가가 단검으로 급소를 찔렀습니다 카라칼라는 현장에서 즉사했고 그제서야 근위병들은 뭔가 이상한 것을 느껴 곧바로 마르티알리스를 포위해 죽였죠 황제의 갑작스러운 죽음에 3일 동안 로마는 혼란스러운 상태에 빠졌습니다 다음 황제를 정해야 하는데 마땅한 후보가 없자 사람들의 관심은 자연스레 근위대 사령관에게 쏠렸고 두 명의 사령관 중 아드벤투스는 이미 나이가 많고 병약해 실질적으로 황제의 후보자는 마크리누스뿐이었습니다 사실 이런 상황도",
+  "movie_id": "글래디에이터 2",
+  "reviewer": "책트폭행",
+  "chunk_index": 4,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "카라칼라",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "카라칼라는 영화에서 전쟁을 좋아하고 변덕스러운 로마 황제로 묘사되며, 마크리누스에게 배신당해 죽음을 맞이하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "마크리누스",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "마크리누스는 알제리 출신 무어인으로 근위대 사령관직까지 오른 야망 넘치는 인물이며, 카라칼라를 배신하고 죽이는 역할을 한다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "덴젤 워싱턴",
+      "entity_type": "ACTOR",
+      "entity_description": "덴젤 워싱턴은 영화에서 마크리누스 역을 연기한 배우이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "마르티알리스",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "마르티알리스는 대장 진급이 좌절되어 카라칼라에게 앙심을 품고 있던 장군으로, 마크리누스의 사주를 받아 카라칼라를 암살한 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "아드벤투스",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "아드벤투스는 근위대 사령관직을 마크리누스와 나누어 맡았던 인물로, 군사 분야를 담당했으며 나이가 많고 병약했다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "카시우스 디오",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "카시우스 디오는 로마의 역사를 기록한 역사가로, 카라칼라가 제국 확장보다는 부유한 시민들에게 돈을 뜯어내기 위해 전쟁을 즐겼다고 기록했다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "덴젤 워싱턴",
+      "source_type": "ACTOR",
+      "target_entity": "마크리누스",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "덴젤 워싱턴은 영화에서 마크리누스 역을 연기했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "마크리누스",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "카라칼라",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "마크리누스는 카라칼라의 근위대 사령관이었으며, 예언 때문에 카라칼라를 배신하고 암살을 계획했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "마르티알리스",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "카라칼라",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "마르티알리스는 카라칼라에게 앙심을 품고 있다가 그를 단검으로 찔러 암살했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "마크리누스",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "마르티알리스",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "마크리누스는 마르티알리스를 꼬드겨 카라칼라를 암살하도록 사주했다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "마크리누스",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "아드벤투스",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "마크리누스와 아드벤투스는 함께 근위대 사령관직을 나누어 맡았다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "카시우스 디오",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "카라칼라",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "카시우스 디오는 카라칼라의 전쟁 동기에 대해 비판적으로 기록했다",
+      "relationship_strength": 6
+    }
+  ],
+  "entity_resolution": {
+    "카라칼라": {
+      "description": "카라칼라 -> Emperor Caracalla",
+      "resolved_name": "Emperor Caracalla",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "마크리누스": {
+      "description": "마크리누스 -> Macrinus",
+      "resolved_name": "Macrinus",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "덴젤 워싱턴": {
+      "description": "덴젤 워싱턴 -> 덴젤 워싱턴",
+      "resolved_name": "덴젤 워싱턴",
+      "entity_type": "ACTOR",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "마르티알리스": {
+      "description": "마르티알리스 -> 마르티알리스",
+      "resolved_name": "마르티알리스",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "아드벤투스": {
+      "description": "아드벤투스 -> 아드벤투스",
+      "resolved_name": "아드벤투스",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "카시우스 디오": {
+      "description": "카시우스 디오 -> 카시우스 디오",
+      "resolved_name": "카시우스 디오",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

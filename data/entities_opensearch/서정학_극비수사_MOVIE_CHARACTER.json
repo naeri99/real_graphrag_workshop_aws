@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "서정학",
+    "synonym": [
+      "Seo Jung-hak",
+      "서 정학",
+      "서정학",
+      "서정학 캐릭터",
+      "서정학씨",
+      "서정학형사",
+      "서형사",
+      "정학",
+      "정학씨",
+      "정학이"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "서정학은 영화 '극비수사'의 등장인물로, 정호빈이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

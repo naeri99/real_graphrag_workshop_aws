@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "김용화",
+    "synonym": [
+      "Kim Yong-hwa",
+      "Kim Yonghwa",
+      "감독 김용화",
+      "김 감독",
+      "김 용화",
+      "김용 화",
+      "김용화",
+      "김용화 감독",
+      "용화",
+      "용화 감독"
+    ],
+    "entity_type": "MOVIE_STAFF",
+    "summary": "김용화은 영화 감독입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

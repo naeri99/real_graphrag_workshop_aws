@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "브렌다 메오니",
+    "synonym": [
+      "Brenda Meoni",
+      "메오니",
+      "브랜다",
+      "브랜다 메오니",
+      "브렌다",
+      "브렌다 메오니",
+      "브렌다 워너",
+      "브렌다메오니"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "브렌다 메오니은 영화 '아메리칸 언더독'의 등장인물로, 안나 파킨이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

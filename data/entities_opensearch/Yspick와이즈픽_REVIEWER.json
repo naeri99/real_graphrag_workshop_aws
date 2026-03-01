@@ -1,0 +1,12 @@
+{
+  "entity": {
+    "name": "Yspick와이즈픽",
+    "synonym": [
+      "Yspick와이즈픽"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "Yspick와이즈픽은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

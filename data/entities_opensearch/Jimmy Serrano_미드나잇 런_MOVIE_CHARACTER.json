@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "Jimmy Serrano",
+    "synonym": [
+      "Jimmy",
+      "Jimmy Serrano",
+      "Serrano",
+      "세라노",
+      "지미",
+      "지미 서라노",
+      "지미 세라노",
+      "지미세라노",
+      "짐 세라노"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "Jimmy Serrano은 영화 '미드나잇 런'의 등장인물로, 데니스 파리나이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

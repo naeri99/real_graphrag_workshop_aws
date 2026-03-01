@@ -1,0 +1,23 @@
+{
+  "entity": {
+    "name": "로이스",
+    "synonym": [
+      "Lois",
+      "Lois Cooper",
+      "Tom's wife",
+      "로이스",
+      "로이스 부인",
+      "로이스 쿠퍼",
+      "로이스쿠퍼",
+      "로이쓰",
+      "로이즈",
+      "성인 로이스",
+      "톰 아내",
+      "톰의 아내"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "로이스은 영화 '인터스텔라'의 등장인물로, 레아 케언스이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

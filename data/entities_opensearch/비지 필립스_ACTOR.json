@@ -1,0 +1,18 @@
+{
+  "entity": {
+    "name": "비지 필립스",
+    "synonym": [
+      "Busy Philipps",
+      "버지 필립스",
+      "비지",
+      "비지 필립",
+      "비지 필립스",
+      "비지필립스",
+      "필립스"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "비지 필립스은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

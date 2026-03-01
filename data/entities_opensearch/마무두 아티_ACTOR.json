@@ -1,0 +1,23 @@
+{
+  "entity": {
+    "name": "마무두 아티",
+    "synonym": [
+      "Mamoudou",
+      "Mamoudou Athie",
+      "마무도 아티",
+      "마무도우 아티",
+      "마무두",
+      "마무두 아시",
+      "마무두 아티",
+      "마무두 아티에",
+      "마무두아티",
+      "마무드 아티",
+      "마무드아티",
+      "아티"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "마무두 아티은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

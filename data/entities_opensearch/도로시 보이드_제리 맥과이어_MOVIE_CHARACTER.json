@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "도로시 보이드",
+    "synonym": [
+      "Dorothy",
+      "Dorothy Boyd",
+      "도러시 보이드",
+      "도로시",
+      "도로시 보이드",
+      "도로시보이드",
+      "도로실",
+      "보이드"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "도로시 보이드은 영화 '제리 맥과이어'의 등장인물로, 르네 젤위거이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "entity": {
+    "name": "샘 록웰",
+    "synonym": [
+      "Rockwell",
+      "Sam Rockwell",
+      "Samuel Rockwell",
+      "락웰",
+      "록웰",
+      "새뮤얼 록웰",
+      "샘",
+      "샘 락웰",
+      "샘 록웰",
+      "샘락웰",
+      "샘록웰",
+      "쌤 록웰"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "샘 록웰은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "바우어리 킹",
+    "synonym": [
+      "Bowery King",
+      "거지왕",
+      "노숙자 왕",
+      "바우어리 왕",
+      "바우어리 킹",
+      "바우어리킹",
+      "바워리 킹",
+      "바워리킹",
+      "보워리 킹",
+      "킹"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "바우어리 킹은 영화 '존 윅 4'의 등장인물로, 로렌스 피시번이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "윤세웅",
+    "synonym": [
+      "Se-woong Yoon",
+      "Yoon Se-woong",
+      "Yun Seung",
+      "배우 윤세웅",
+      "세웅",
+      "윤 세웅",
+      "윤세웅",
+      "윤세웅 배우"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "윤세웅은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

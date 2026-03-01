@@ -1,0 +1,13 @@
+{
+  "entity": {
+    "name": "서삐삐의_영화리뷰",
+    "synonym": [
+      "서삐삐의_영화리뷰",
+      "서삐삐의 영화리뷰"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "서삐삐의_영화리뷰은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

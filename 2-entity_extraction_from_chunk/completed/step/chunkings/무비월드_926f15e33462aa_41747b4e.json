@@ -1,0 +1,120 @@
+{
+  "chunk_hash": "926f15e33462aa",
+  "chunk_id": "무비월드_926f15e33462aa_41747b4e",
+  "user_query": "가족의 상처. 늦은 감이 있지만 휴가 마지막 날 오늘만큼은 다 같이 웃을 수 있을 것 같았다. 스키가 시야 속에서 강행된 스키. 아니나 다를까 기어코 사건이 하나 터지고 말한다. Ebba. 아내를 찾으러 달려가는데 잠깐 스키부츠 신고서 달릴 수 없다고 하셨던 분 아닙니까. 이건 휴가 첫날의 당신으로 추락한 이미지를 한 방에 회복한 아빠. 솔직히 말해 보자. 때론 가족을 지켜야 한다는 사명감보다 자신의 생존이 더 중요한 순간이 올지도 모른다. 눈사태 속에서 도망친 아빠를 비난하는 엄마도 낭떠러지 앞에 선 버스에서 그 누구보다 빠르게 가족보다는 본인을 선택할 수도 있다. 나밖에 모르는 사람들이 오늘을 산다.",
+  "movie_id": "포스 마쥬어 화이트 베케이션",
+  "reviewer": "무비월드",
+  "chunk_index": 2,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "EBBA",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Ebba는 영화 속 아내 캐릭터로, 눈사태 속에서 도망친 남편을 비난하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "포스 마주어",
+      "entity_type": "MOVIE",
+      "entity_description": "가족 스키 휴가 중 눈사태 사건을 통해 가족의 상처와 생존 본능, 가족을 지켜야 한다는 사명감과 자기 생존 사이의 갈등을 다룬 영화이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "아빠",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "스키 휴가 중 눈사태가 발생했을 때 가족을 두고 도망쳤다가 나중에 아내를 구하러 달려가며 이미지를 회복하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "엄마",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "눈사태 속에서 도망친 아빠를 비난하지만, 낭떠러지 앞에 선 버스에서는 본인도 가족보다 자신을 선택할 수 있는 인물이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "아빠",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "포스 마주어",
+      "target_type": "MOVIE",
+      "relationship_description": "아빠는 이 영화의 주요 인물로 눈사태 사건의 중심에 있다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "엄마",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "포스 마주어",
+      "target_type": "MOVIE",
+      "relationship_description": "엄마는 이 영화의 주요 인물로 남편의 행동을 비난하는 역할을 한다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "EBBA",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "포스 마주어",
+      "target_type": "MOVIE",
+      "relationship_description": "Ebba는 이 영화에 등장하는 아내 캐릭터이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "아빠",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "엄마",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "아빠와 엄마는 부부 관계로, 눈사태 사건을 둘러싸고 갈등을 겪는다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "EBBA",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "엄마",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Ebba와 엄마는 동일 인물로 추정되는 아내 캐릭터이다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "EBBA",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "아빠",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Ebba는 아빠의 아내로, 아빠가 그녀를 찾으러 달려간다",
+      "relationship_strength": 9
+    }
+  ],
+  "entity_resolution": {
+    "EBBA": {
+      "description": "EBBA -> Ebba",
+      "resolved_name": "Ebba",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "포스 마주어": {
+      "description": "포스 마주어 -> 포스 마쥬어 화이트 베케이션",
+      "resolved_name": "포스 마쥬어 화이트 베케이션",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "아빠": {
+      "description": "아빠 -> 라일리의 아빠",
+      "resolved_name": "라일리의 아빠",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "엄마": {
+      "description": "엄마 -> 라일리의 엄마",
+      "resolved_name": "라일리의 엄마",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    }
+  }
+}

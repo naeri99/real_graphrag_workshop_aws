@@ -1,0 +1,17 @@
+{
+  "entity": {
+    "name": "캐시 나지미",
+    "synonym": [
+      "Kathy Najimy",
+      "나지미",
+      "캐시",
+      "캐시 나지미",
+      "캐시나지미",
+      "캐티 나지미"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "캐시 나지미은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

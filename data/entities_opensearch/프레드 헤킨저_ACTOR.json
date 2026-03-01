@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "프레드 헤킨저",
+    "synonym": [
+      "Fred Hechinger",
+      "프레드",
+      "프레드 헤친저",
+      "프레드 헤킨저",
+      "프레드 헤킹거",
+      "프레드헤친저",
+      "프레드헤킨저",
+      "헤친저",
+      "헤킨저",
+      "헤킹거"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "프레드 헤킨저은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

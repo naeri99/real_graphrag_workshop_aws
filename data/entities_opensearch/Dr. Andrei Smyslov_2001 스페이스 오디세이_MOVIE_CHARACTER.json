@@ -1,0 +1,23 @@
+{
+  "entity": {
+    "name": "Dr. Andrei Smyslov",
+    "synonym": [
+      "Andrei Smyslov",
+      "Dr. Andrei Smyslov",
+      "Dr. Smyslov",
+      "Smyslov",
+      "스미슬로프",
+      "스미슬로프 박사",
+      "안드레이",
+      "안드레이 박사",
+      "안드레이 스미슬로브",
+      "안드레이 스미슬로프",
+      "안드레이 스미슬로프 박사",
+      "안드레이스미슬로프"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "Dr. Andrei Smyslov은 영화 '2001 스페이스 오디세이'의 등장인물로, 레너드 로시터이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

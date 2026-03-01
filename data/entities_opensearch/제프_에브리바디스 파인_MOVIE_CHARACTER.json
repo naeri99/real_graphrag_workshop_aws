@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "제프",
+    "synonym": [
+      "Jeff",
+      "Jeff Goode",
+      "Jeffrey",
+      "제퍼",
+      "제퍼리",
+      "제프",
+      "제프 구드",
+      "제프 굿",
+      "제프리",
+      "젭"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "제프은 영화 '에브리바디스 파인'의 등장인물로, 데미안 영이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

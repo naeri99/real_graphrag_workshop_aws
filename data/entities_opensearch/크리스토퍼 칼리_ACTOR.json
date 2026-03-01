@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "크리스토퍼 칼리",
+    "synonym": [
+      "Chris Carley",
+      "Christopher Carley",
+      "카알리",
+      "칼리",
+      "크리스 칼리",
+      "크리스토퍼",
+      "크리스토퍼 카리",
+      "크리스토퍼 칼리",
+      "크리스토퍼칼리"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "크리스토퍼 칼리은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

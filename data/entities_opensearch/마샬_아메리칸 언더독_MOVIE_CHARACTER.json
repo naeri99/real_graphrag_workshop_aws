@@ -1,0 +1,15 @@
+{
+  "entity": {
+    "name": "마샬",
+    "synonym": [
+      "Marshall",
+      "마샬",
+      "마셜",
+      "마쉘"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "마샬은 영화 '아메리칸 언더독'의 등장인물로, 맥킬린 로우이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

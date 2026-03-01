@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "은행 매니저",
+    "synonym": [
+      "Bank Manager",
+      "Bank Teller",
+      "고담 은행 매니저",
+      "매니저",
+      "뱅크 매니저",
+      "은행 관리자",
+      "은행 매니저",
+      "은행 지점장",
+      "은행매니저",
+      "은행장",
+      "은행지점장"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "은행 매니저은 영화 '다크나이트'의 등장인물로, 윌리엄 피히트너이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "루즈자 리히터",
+    "synonym": [
+      "Lujza Richter",
+      "루자 리히터",
+      "루자리히터",
+      "루즈야 리히터",
+      "루즈자",
+      "루즈자 리흐터",
+      "루즈자 리히터",
+      "루즈자리히터",
+      "리히터"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "루즈자 리히터은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

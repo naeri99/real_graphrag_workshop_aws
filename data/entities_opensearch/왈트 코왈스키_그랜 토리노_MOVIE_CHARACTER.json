@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "왈트 코왈스키",
+    "synonym": [
+      "Walt",
+      "Walt Kowalski",
+      "왈트",
+      "왈트 코왈스키",
+      "월트",
+      "월트 코발스키",
+      "월트 코왈스키",
+      "월트 코월스키",
+      "월트 할아버지",
+      "코왈스키"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "왈트 코왈스키은 영화 '그랜 토리노'의 등장인물로, 클린트 이스트우드이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

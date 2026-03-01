@@ -1,0 +1,177 @@
+{
+  "chunk_hash": "1aadb65ce01a22",
+  "chunk_id": "덕질하는_오소리_1aadb65ce01a22_f48ef31d",
+  "user_query": ">> 즉 앞으로 다가올 미래를 대비하는 역할을 담당하고 있는 사실상 둘 다 공포와 연관된 감정인데요. 때문에 제작 초기엔 아예 불안이를 소심이의 사촌으로 등장시키려 했으나 이는 폐지되었고 대신 서로 비슷한 디자인으로 특히 다른 감정들과 달리 두 캐릭터만 눈썹이 얼굴 밖에 튀어나와 있다는 설정을 챙김으로써 두 감정의 공통 분모를 묘사했다고 합니다. 이어서 동경심과 부러움을 담당하고 있는 감정. 부럽이 같은 경우는 전통적으로 서양 쪽에선 질투라는 감정을 그린 어비라고 부르며 녹색으로 묘사하곤 했지만 이미 까칠이가 초록색을 사용하고 있기 때문에 비슷한 계열의 색상인 청록색으로 부럽이를 디자인했다고 하는데요. 완전 초기 컨셉에선 부럽이를 녹색 수트를 입고 있는 중년 남성으로 기획했었지만 폐기되었고 또 다른 컨셉 아트에서는 부럽다라는 감정 엔비와 질투라는 감정 젤러시가 서로 비슷한 것을 고려해 아예 쌍둥이 캐릭터로 부럽과 질투를 등장시키려 했으나 감정 수가 너무 많아지면 이야기가 복잡해질 것 같아 최종적으로 두 감정을 하나로 합쳐서 부럽이를 탄생시켰다고 합니다. 또한 부럽이란 이름답게 부럽이는 다른 감정들에 비해 혼자만 키가 조그맣고 혼자만 손가락이 네 개뿐이며 혼자만 이빨이 앞니 하나밖에 없는 즉 구조적으로 남들을 부러워할 수밖에 없게 디자인했다고 하며 >> 부럽이의 거대한 눈망울은 영단어 엔비의 어원인 라틴어 인비디아가 들여다보다라는 뜻을 가지고 있기 때문에 의도적으로 눈을 강조해서 디자인했다고 합니다. 참고로 부럽이의 디자인 모티브는 그녀의 머리 스타일에서 알 수 있듯 버섯이라고 합니다. 다음으로 따분이 같은 경우는 권태감, 귀찮음, 성가심 등을 담당하고 있는 감정으로 원어로는 엔위. >> 앙뉘라는 권태감을 뜻하는 프랑스 이름을 가지고 있는데 이는 미국인들에게 있어 프랑스인의 이미지가 대체로 도도하고 고지식한 즉 따분한 이미지인 것을 활용한 개그로 영화 속에서도 아예 프랑스어를 대놓고 사용하고 있는 따분이의 모습을 확인할 수 있는데요. [음악] 초기 컨셉에서 따분이는 놀랍게도 핑크색 디자인이었고 성격 또한 따분보다는 비아냥거림에 좀 더 치중된 설정이었지만 따분의 부정적인 면 냉소적인 태도와 비아냥거림보다는 따분의 긍정적인 면 쓸데없는 관심이나 불필요한 상황에 에너지 낭비를 하지 않게 도와주는 즉 긍정적인 방어적 감정으로 따분이를 연출하기 위해 무관심하고 무미건조한 이미지를 주는 어두운 남색으로 상징색이 변경되었다고 합니다. 참고로 따분이의 디자인 모티브는 축 늘어진 국수라고 하는데 이는 영미권에서 웻 누들 지칭하면 젖은 국수가 의욕이 없고 무기력한 사람을 나타내는 비유적 표현인 것에서 가져온 것이라고 합니다. 이어서 당황하기만 하면 >> 후드 잠그고 냅다 숨어버리는 당황이 같은 경우는 영어명 임베러스먼트에서 알 수 있듯 황당하거나 놀랄 때의 당황보다는 당혹스럽고 창피할 때 느끼는 당황에 더 가까운 감정으로 당황스러움, 창피함, 부끄러움 등을 담당하고 있는 감정인데요. 초기 컨셉에서 당황이는 주근깨 치아 교정기 그리고 안경을 착용하고 있는",
+  "movie_id": "인사이드 아웃 2",
+  "reviewer": "덕질하는_오소리",
+  "chunk_index": 2,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "인사이드 아웃 2",
+      "entity_type": "MOVIE",
+      "entity_description": "인사이드 아웃 2는 다양한 감정 캐릭터들이 등장하는 픽사 애니메이션 영화로, 불안이, 부럽이, 따분이, 당황이 등 새로운 감정 캐릭터들이 추가되었다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "불안이",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "불안이는 앞으로 다가올 미래를 대비하는 역할을 담당하는 감정 캐릭터로, 공포와 연관된 감정이며 소심이와 비슷한 디자인을 가지고 있고 눈썹이 얼굴 밖에 튀어나와 있다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "소심이",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "소심이는 공포와 연관된 감정 캐릭터로, 불안이와 비슷한 디자인을 가지고 있으며 눈썹이 얼굴 밖에 튀어나와 있다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "부럽이",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "부럽이는 동경심과 부러움을 담당하는 감정 캐릭터로, 청록색 디자인이며 다른 감정들보다 키가 작고 손가락이 네 개, 앞니가 하나뿐이다. 거대한 눈망울이 특징이며 디자인 모티브는 버섯이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "까칠이",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "까칠이는 초록색을 상징색으로 사용하는 감정 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "따분이",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "따분이는 권태감, 귀찮음, 성가심 등을 담당하는 감정 캐릭터로, 프랑스어 이름 앙뉘를 가지고 있으며 어두운 남색이 상징색이다. 디자인 모티브는 축 늘어진 국수이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "당황이",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "당황이는 당혹스럽고 창피할 때 느끼는 당황, 부끄러움 등을 담당하는 감정 캐릭터로, 당황하면 후드를 잠그고 숨어버리는 특징이 있다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "불안이",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "인사이드 아웃 2",
+      "target_type": "MOVIE",
+      "relationship_description": "불안이는 인사이드 아웃 2에 등장하는 새로운 감정 캐릭터이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "소심이",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "인사이드 아웃 2",
+      "target_type": "MOVIE",
+      "relationship_description": "소심이는 인사이드 아웃 시리즈에 등장하는 감정 캐릭터이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "불안이",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "소심이",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "불안이와 소심이는 둘 다 공포와 연관된 감정이며 비슷한 디자인을 가지고 있고, 초기에는 사촌으로 설정하려 했다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "부럽이",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "인사이드 아웃 2",
+      "target_type": "MOVIE",
+      "relationship_description": "부럽이는 인사이드 아웃 2에 등장하는 새로운 감정 캐릭터이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "까칠이",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "인사이드 아웃 2",
+      "target_type": "MOVIE",
+      "relationship_description": "까칠이는 인사이드 아웃 시리즈에 등장하는 감정 캐릭터이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "부럽이",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "까칠이",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "부럽이는 까칠이가 이미 초록색을 사용하고 있어서 청록색으로 디자인되었다",
+      "relationship_strength": 6
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "따분이",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "인사이드 아웃 2",
+      "target_type": "MOVIE",
+      "relationship_description": "따분이는 인사이드 아웃 2에 등장하는 새로운 감정 캐릭터이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "당황이",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "인사이드 아웃 2",
+      "target_type": "MOVIE",
+      "relationship_description": "당황이는 인사이드 아웃 2에 등장하는 새로운 감정 캐릭터이다",
+      "relationship_strength": 10
+    }
+  ],
+  "entity_resolution": {
+    "인사이드 아웃 2": {
+      "description": "인사이드 아웃 2 -> 인사이드 아웃 2",
+      "resolved_name": "인사이드 아웃 2",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "불안이": {
+      "description": "불안이 -> 불안",
+      "resolved_name": "불안",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "소심이": {
+      "description": "소심이 -> 소심이",
+      "resolved_name": "소심이",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "부럽이": {
+      "description": "부럽이 -> 부러움",
+      "resolved_name": "부러움",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "까칠이": {
+      "description": "까칠이 -> 까칠이",
+      "resolved_name": "까칠이",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "따분이": {
+      "description": "따분이 -> 따분함",
+      "resolved_name": "따분함",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "당황이": {
+      "description": "당황이 -> 당황",
+      "resolved_name": "당황",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    }
+  }
+}

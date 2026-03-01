@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "조쉬 스튜어트",
+    "synonym": [
+      "Josh Stewart",
+      "스튜어트",
+      "조쉬",
+      "조쉬 스튜어드",
+      "조쉬 스튜어트",
+      "조쉬 스튜얼트",
+      "조쉬스튜어트",
+      "조시 스튜어트",
+      "조시스튜어트"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "조쉬 스튜어트은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

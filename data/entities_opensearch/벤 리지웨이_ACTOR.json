@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "벤 리지웨이",
+    "synonym": [
+      "Ben",
+      "Ben Ridgeway",
+      "Ben Ridgway",
+      "리지웨이",
+      "벤",
+      "벤 리지웨이",
+      "벤 릿지웨이",
+      "벤리지웨이"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "벤 리지웨이은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "그레이스 루",
+    "synonym": [
+      "Grace",
+      "Grace Loo",
+      "Grace Lu",
+      "그레이스",
+      "그레이스 루",
+      "그레이스 루이",
+      "그레이스루",
+      "루"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "그레이스 루은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

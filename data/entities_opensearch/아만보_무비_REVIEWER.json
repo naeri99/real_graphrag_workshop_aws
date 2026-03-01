@@ -1,0 +1,13 @@
+{
+  "entity": {
+    "name": "아만보_무비",
+    "synonym": [
+      "아만보_무비",
+      "아만보 무비"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "아만보_무비은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

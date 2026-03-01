@@ -1,0 +1,24 @@
+{
+  "entity": {
+    "name": "아키라",
+    "synonym": [
+      "Akira",
+      "Akira Kurosawa",
+      "Akira Shimazu",
+      "アキラ",
+      "구로사와",
+      "구로사와 아키라",
+      "시마즈 딸",
+      "시마즈 아키라",
+      "아끼라",
+      "아키라",
+      "아키라 시마즈",
+      "아키라 캐릭터",
+      "쿠로사와 아키라"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "아키라은 영화 '존 윅 4'의 등장인물로, 리나 사와야마이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

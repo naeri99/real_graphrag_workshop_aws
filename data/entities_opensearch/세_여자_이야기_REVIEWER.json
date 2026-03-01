@@ -1,0 +1,13 @@
+{
+  "entity": {
+    "name": "세_여자_이야기",
+    "synonym": [
+      "세_여자_이야기",
+      "세 여자 이야기"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "세_여자_이야기은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

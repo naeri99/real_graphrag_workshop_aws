@@ -1,0 +1,24 @@
+{
+  "entity": {
+    "name": "호세 마리아 야스피크",
+    "synonym": [
+      "José",
+      "José María Yazpik",
+      "José María Yázpik",
+      "야스피크",
+      "호세",
+      "호세 마리아",
+      "호세 마리아 야스피크",
+      "호세 마리아 야즈피크",
+      "호세 마리아 야즈픽",
+      "호세 야스피크",
+      "호세마리아",
+      "호세마리아 야즈픽",
+      "호세마리아야스피크"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "호세 마리아 야스피크은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

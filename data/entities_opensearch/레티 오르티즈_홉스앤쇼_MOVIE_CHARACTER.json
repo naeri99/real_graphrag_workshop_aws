@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "레티 오르티즈",
+    "synonym": [
+      "Letty",
+      "Letty Ortiz",
+      "레티",
+      "레티 오르티스",
+      "레티 오르티즈",
+      "레티 오티즈",
+      "레티오르티즈",
+      "오르티즈"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "레티 오르티즈은 영화 '홉스앤쇼'의 등장인물로, 미셸 로드리게스이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

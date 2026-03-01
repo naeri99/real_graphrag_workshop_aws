@@ -1,0 +1,25 @@
+{
+  "entity": {
+    "name": "닉 퓨리",
+    "synonym": [
+      "Nick Cave",
+      "Nick Fury",
+      "니콜라스 퓨리",
+      "니크 퓨리",
+      "닉",
+      "닉 케이브",
+      "닉 퓨리",
+      "닉 퓨리 국장",
+      "닉케이브",
+      "닉퓨리",
+      "쉴드 국장",
+      "케이브",
+      "퓨리",
+      "퓨리 국장"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "닉 퓨리은 영화 '아이언맨2'의 등장인물로, 사무엘 L. 잭슨이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

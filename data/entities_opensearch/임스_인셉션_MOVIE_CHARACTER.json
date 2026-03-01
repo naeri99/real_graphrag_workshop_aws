@@ -1,0 +1,17 @@
+{
+  "entity": {
+    "name": "임스",
+    "synonym": [
+      "Eames",
+      "에임스",
+      "에임즈",
+      "이임스",
+      "임스",
+      "임즈"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "임스은 영화 '인셉션'의 등장인물로, 톰 하디이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "chunk_hash": "f9960be2406eb6",
+  "chunk_id": "Tachi_Screen_타치_스크린_f9960be2406eb6_8254a5e1",
+  "user_query": "소중한 오빠가 있다 아 [음악] 닐의 아버지가 닐의 죽음을 발견하기 전 피어오르는 연기를 먼저 보게 됩니다 사회가 만들어 놓은 길을 따라가지 않고 자신의 행복과 꿈을 쫓는 그를 연기로 표현한 듯 보입니다 si 그들의 행복은 타인이 개입할 때 사라져 버립니다 이러한 그들의 행복을 연기로 묘사하고 있는 것입니다 닐의 자살 소식을 들은 토드는 그의 아버지가 죽인 것이라며 눈물을 보입니다 닐을 죽음으로 내몬 것은 사회와 아버지의 각료이기에 우리는 토드의 말에 공감할 수 있습니다 4 50대와 있어요 하지만 학교는 닐의 죽음에 대한 책임을 키팅 선생님의 붙습니다 앱 qr 키팅 600의 시작했 9 학생들의 진정한 꿈과 행복을 가르친 그와의 이별을 행복한 그대를 꿈과의 이별로 그려집니다 nx100 간병 하구요 영화의 마지막 키팅 선생님의 가르침을 학생들은 받아들이지만 약동하게 핫 키팅 선생님을 따라 나서진 않습니다 꿈을 뒤로한 채 학교에 남는 그들과 함께 영화를 보는 이동한 꿈을 지구 현실로 돌아옵니다 키팅 선생님을 진정한 스승으로 받아들인 학생들을 보며 따라갈 수 없기에 더욱 아름다운 행복을 영화는 일깨워 줍니다 [음악] 1 스포츠카 i3 거야 우린 더 우중 경쟁 속 살아남아야 하는 학교에서 행복을 가르친 키팅 선생님 fx 우리 이제 수립 어 줄 옛날에 레토나 처음 쓰 치열한 경쟁 속에서 살아가는 우리들에게도 꼭 필요한 선생님이 아닐까요 네 그래서 따는 이 은행의 여러분은 이 영화를 어떻게 보셨나요 오디 페이소스 들어오고 나가는 레이션 왜 그런 4 날씨 말 배출 영화 죽은 시인의 사회였습니다 outer",
+  "movie_id": "죽은 시인의 사회",
+  "reviewer": "Tachi_Screen_타치_스크린",
+  "chunk_index": 3,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "닐",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "닐은 자신의 꿈과 행복을 쫓다가 아버지와의 갈등 끝에 자살로 생을 마감하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "토드",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "토드는 닐의 친구로, 닐의 자살 소식을 듣고 그의 아버지가 죽인 것이라며 눈물을 보이는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "키팅 선생님",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "키팅 선생님은 학생들에게 진정한 꿈과 행복을 가르친 스승으로, 닐의 죽음에 대한 책임을 떠안게 되어 학교를 떠나는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "닐의 아버지",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "닐의 아버지는 사회가 만들어 놓은 길을 강요하여 닐을 죽음으로 내몬 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "죽은 시인의 사회",
+      "entity_type": "MOVIE",
+      "entity_description": "죽은 시인의 사회는 치열한 경쟁 속 학교에서 행복을 가르친 키팅 선생님과 학생들의 이야기를 다룬 영화이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "닐",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "죽은 시인의 사회",
+      "target_type": "MOVIE",
+      "relationship_description": "닐은 죽은 시인의 사회의 주요 등장인물이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "토드",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "죽은 시인의 사회",
+      "target_type": "MOVIE",
+      "relationship_description": "토드는 죽은 시인의 사회의 주요 등장인물이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "키팅 선생님",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "죽은 시인의 사회",
+      "target_type": "MOVIE",
+      "relationship_description": "키팅 선생님은 죽은 시인의 사회의 핵심 인물이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "닐의 아버지",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "죽은 시인의 사회",
+      "target_type": "MOVIE",
+      "relationship_description": "닐의 아버지는 죽은 시인의 사회의 등장인물이다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "닐",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "닐의 아버지",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "닐의 아버지는 닐에게 사회가 정한 길을 강요하여 갈등을 일으킨다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "닐",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "토드",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "토드는 닐의 친구로 닐의 죽음에 깊이 슬퍼한다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "키팅 선생님",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "닐",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "키팅 선생님은 닐에게 꿈과 행복을 가르친 스승이다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "키팅 선생님",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "토드",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "키팅 선생님은 토드를 포함한 학생들에게 진정한 꿈과 행복을 가르쳤다",
+      "relationship_strength": 8
+    }
+  ],
+  "entity_resolution": {
+    "닐": {
+      "description": "닐 -> 닐 페리",
+      "resolved_name": "닐 페리",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "토드": {
+      "description": "토드 -> 토드 앤더슨",
+      "resolved_name": "토드 앤더슨",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "키팅 선생님": {
+      "description": "키팅 선생님 -> 존 키팅",
+      "resolved_name": "존 키팅",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "닐의 아버지": {
+      "description": "닐의 아버지 -> 페리 씨",
+      "resolved_name": "페리 씨",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "죽은 시인의 사회": {
+      "description": "죽은 시인의 사회 -> 죽은 시인의 사회",
+      "resolved_name": "죽은 시인의 사회",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "name_exact"
+    }
+  }
+}

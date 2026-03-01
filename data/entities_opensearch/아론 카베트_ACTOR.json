@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "아론 카베트",
+    "synonym": [
+      "Aaron",
+      "Aaron Cavette",
+      "Aaron Kavet",
+      "Kavet",
+      "아론",
+      "아론 카베트",
+      "아론카베트",
+      "애런 카벳",
+      "카베트"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "아론 카베트은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

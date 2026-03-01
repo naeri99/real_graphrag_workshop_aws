@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "처키 설리번",
+    "synonym": [
+      "Chuckie",
+      "Chuckie Sullivan",
+      "설리번",
+      "처키",
+      "처키 설리번",
+      "처키설리번",
+      "척",
+      "척키",
+      "척키 설리번"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "처키 설리번은 영화 '굿윌헌팅'의 등장인물로, 벤 애플렉이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

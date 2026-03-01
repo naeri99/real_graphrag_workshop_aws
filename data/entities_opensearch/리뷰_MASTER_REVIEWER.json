@@ -1,0 +1,13 @@
+{
+  "entity": {
+    "name": "리뷰_MASTER",
+    "synonym": [
+      "리뷰_MASTER",
+      "리뷰 MASTER"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "리뷰_MASTER은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

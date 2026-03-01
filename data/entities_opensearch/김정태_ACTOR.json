@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "김정태",
+    "synonym": [
+      "Kim Jeong-tae",
+      "Kim Jung Tae",
+      "Kim Jung-tae",
+      "김 정태",
+      "김정대",
+      "김정태",
+      "김정태 배우",
+      "김정태 씨",
+      "김정태배우",
+      "김정테",
+      "정태"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "김정태은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

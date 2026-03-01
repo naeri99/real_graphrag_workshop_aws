@@ -1,0 +1,33 @@
+{
+  "entity": {
+    "name": "피터 손",
+    "synonym": [
+      "Peter",
+      "Peter Parker",
+      "Peter Sohn",
+      "Peter Son",
+      "Peter Weyland",
+      "손",
+      "손 감독",
+      "손 피터",
+      "손피터",
+      "스파이더맨",
+      "웨이랜드",
+      "웨이랜드 회장",
+      "파커",
+      "피터",
+      "피터 선",
+      "피터 손",
+      "피터 손 감독",
+      "피터 숀",
+      "피터 쏜",
+      "피터손",
+      "피터웨이랜드",
+      "피터파커"
+    ],
+    "entity_type": "MOVIE_STAFF",
+    "summary": "피터 손은 영화 감독입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

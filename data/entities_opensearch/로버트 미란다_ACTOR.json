@@ -1,0 +1,18 @@
+{
+  "entity": {
+    "name": "로버트 미란다",
+    "synonym": [
+      "Robert",
+      "Robert Miranda",
+      "로버트 미란다",
+      "로버트 미랜다",
+      "로버트미란다",
+      "미란다",
+      "밥 미란다"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "로버트 미란다은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

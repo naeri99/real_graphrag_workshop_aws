@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "미칼척 부인",
+    "synonym": [
+      "Mrs. Michalchuk",
+      "Mrs. Mikalchek",
+      "미칼척",
+      "미칼척 부인",
+      "미칼척 선생님",
+      "미칼척 여사",
+      "미칼척부인",
+      "미칼첵 부인"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "미칼척 부인은 영화 '덤플링'의 등장인물로, 캐시 나지미이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

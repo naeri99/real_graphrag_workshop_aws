@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "프리츠",
+    "synonym": [
+      "Frits",
+      "Fritz",
+      "Fritz 캐릭터",
+      "프리쯔",
+      "프리츠",
+      "프리츠 캐릭터",
+      "프리츠역",
+      "프리츠캐릭터",
+      "프릿츠"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "프리츠은 영화 '인사이드 아웃 2'의 등장인물로, 존 라츠엔버거이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "잭 커틀모어",
+    "synonym": [
+      "Cutmore",
+      "J. 커틀모어",
+      "Jack Cutmore",
+      "Jack Cutmore-Scott",
+      "잭 커틀모어",
+      "잭 커틀모어 스콧",
+      "잭 커틀모어스콧",
+      "잭 컷모어",
+      "잭커틀모어",
+      "커틀모어"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "잭 커틀모어은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

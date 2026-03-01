@@ -1,0 +1,12 @@
+{
+  "entity": {
+    "name": "삼촌의수다방",
+    "synonym": [
+      "삼촌의수다방"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "삼촌의수다방은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

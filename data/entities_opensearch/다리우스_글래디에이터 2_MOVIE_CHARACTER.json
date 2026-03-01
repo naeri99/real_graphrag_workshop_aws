@@ -1,0 +1,16 @@
+{
+  "entity": {
+    "name": "다리우스",
+    "synonym": [
+      "Darius",
+      "다리어스",
+      "다리오스",
+      "다리우스",
+      "다리우스 캐릭터"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "다리우스은 영화 '글래디에이터 2'의 등장인물로, 알렉 우트고프이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

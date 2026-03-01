@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "리처드 글랫저",
+    "synonym": [
+      "Glatzer",
+      "Richard Glatzer",
+      "글래처",
+      "글랫저",
+      "리차드 글랫저",
+      "리차드글랫저",
+      "리처드",
+      "리처드 글래처",
+      "리처드 글랫저",
+      "리처드글래처",
+      "리처드글랫저"
+    ],
+    "entity_type": "MOVIE_STAFF",
+    "summary": "리처드 글랫저은 영화 감독입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

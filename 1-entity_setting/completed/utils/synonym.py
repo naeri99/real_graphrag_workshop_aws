@@ -14,7 +14,15 @@ def clean_entity_whitespace(entity_data: dict) -> dict:
         if isinstance(value, str):
             cleaned_entity[key] = value.strip()
         elif isinstance(value, list):
-            cleaned_entity[key] = [item.strip() if isinstance(item, str) else item for item in value]
+            flat = []
+            for item in value:
+                if isinstance(item, str):
+                    flat.append(item.strip())
+                elif isinstance(item, list):
+                    flat.extend(s.strip() for s in item if isinstance(s, str))
+                else:
+                    flat.append(item)
+            cleaned_entity[key] = flat
         else:
             cleaned_entity[key] = value
     
@@ -32,29 +40,30 @@ def clean_entities_whitespace(entities_list: list) -> list:
 def merge_synonyms_with_set(existing_synonyms, new_synonyms) -> list:
     """
     기존 동의어와 새 동의어를 set을 사용하여 중복 제거하고 병합합니다.
-    
-    Args:
-        existing_synonyms: 기존 동의어 리스트 또는 문자열
-        new_synonyms: 새 동의어 리스트
-        
-    Returns:
-        list: 중복이 제거된 병합된 동의어 리스트
     """
-    # 기존 동의어 처리
-    if isinstance(existing_synonyms, str):
-        existing_set = set(syn.strip() for syn in existing_synonyms.split(',') if syn.strip())
-    elif isinstance(existing_synonyms, list):
-        existing_set = set(syn.strip() for syn in existing_synonyms if syn.strip())
-    else:
-        existing_set = set()
-    
-    # 새 동의어 처리
-    if isinstance(new_synonyms, list):
-        new_set = set(syn.strip() for syn in new_synonyms if syn.strip())
-    else:
-        new_set = set()
-    
-    # 병합 및 정렬
+    def _flatten(syns):
+        result = set()
+        if isinstance(syns, str):
+            for s in syns.split(','):
+                s = s.strip()
+                if s:
+                    result.add(s)
+        elif isinstance(syns, list):
+            for item in syns:
+                if isinstance(item, str):
+                    s = item.strip()
+                    if s:
+                        result.add(s)
+                elif isinstance(item, list):
+                    for sub in item:
+                        if isinstance(sub, str):
+                            s = sub.strip()
+                            if s:
+                                result.add(s)
+        return result
+
+    existing_set = _flatten(existing_synonyms)
+    new_set = _flatten(new_synonyms)
     return sorted(list(existing_set.union(new_set)))
 
 

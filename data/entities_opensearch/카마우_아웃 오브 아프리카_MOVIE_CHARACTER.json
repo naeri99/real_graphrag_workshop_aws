@@ -1,0 +1,18 @@
+{
+  "entity": {
+    "name": "카마우",
+    "synonym": [
+      "Kamau",
+      "카마오",
+      "카마우",
+      "카마우 소년",
+      "카마우씨",
+      "카마웅",
+      "카무아"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "카마우은 영화 '아웃 오브 아프리카'의 등장인물로, 조셉 티에바이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

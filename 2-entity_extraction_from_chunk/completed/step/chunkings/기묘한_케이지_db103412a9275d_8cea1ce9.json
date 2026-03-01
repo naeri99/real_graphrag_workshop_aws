@@ -1,0 +1,252 @@
+{
+  "chunk_hash": "db103412a9275d",
+  "chunk_id": "기묘한_케이지_db103412a9275d_8cea1ce9",
+  "user_query": "윈스턴이나 사악한 그라몽 후작과는 달리 규칙을 중시하고 중립적 태도를 견지합니다 그가 존윅처럼 손가락이 없는 건 과거 암살자로서 최고 회의에게 충성심을 의심받은 적이 있고 지옥을 헤쳐나온 적도 있다는 것 그러나 지금까지 전령으로 충성하고 있기에 자유를 위해 목숨을 건 존윅과는 전혀 다른 운명을 겪었습니다 그라몽의 행위엔 정당성이 부족했고 존윅은 정당성을 획득하면서 전령은 결투를 승인 그때쯤 최고 회의도 그라몽을 과대평가했음을 느꼈을 것이기에 그라몽은 케인을 앞세우고도 가면 갈수록 초조함을 느낍니다 윈스턴이 빠리 루브르 박물관에서 그라몽을 만날 때 등장하는 그림은 1830년 화가 외젠 들라크루아가 그린 민중을 이끄는 자유의 여신입니다 이 그림 군주제의 폭정에 맞서는 자유의 화신이자 투사인 여성이 밑에 깔려있는 프롤레타리아들의 시체들을 딛고서 있습니다 이 역시 최고 회의와 존윅의 관계를 빗댄 것으로 쌓여가는 시체들까지도 적절합니다 컨티넨탈 오사카 시퀀스에선 존윅이 호텔 지배인이자 친구 시마즈 코지에게 도움을 청하러 가고 그라몽의 신복들은 중립지대인 컨티넨탈을 공격 그중 케인과 시마즈 3명의 친구가 한 장소에 모여 대치하는 상황을 그립니다 여기서 뜨는 의문은 케인은 존윅을 공격하는데 왜 시마즈는 존을 보호하기 위해 목숨까지 거는가 사실 컨티넨탈 오사카의 운영 방식은 뉴욕과 큰 차이가 있습니다 온 곳에 여러 가문의 문장이 걸려 있고 프론트엔 시마즈의 딸 아키라가 있으며 야쿠자 부하들은 술을 마시고 있다가도 시마즈의 호출에 일사불란하게 움직이죠 시마즈는 가족주의적으로 컨티넨탈을 운영하고 있습니다 아키라는 존윙을 인지하고 있고 아버지를 만류하나 시마즈는 존을 호텔에 숨겨준 것만으로도 최고 회의가 쳐들어올 것을 알고 있습니다 존 역시 일생일대의 위기 때 찾아가는 사람이 시마즈인 걸 보면 서로 형제나 가족과 다름없는 존재 이 영화에 시마즈가 등장하는 이유는 형제애와 무사도로 보여주기 위함입니다 무사도란 주군에게 충성하고 약한 자를 돕고 명예를 중시하는 가치관으로 죽음 대신 가족 형제를 넘는 시마즈의 무사도 있습니다 사나다 히로유키는 무사의 결정방식을 자기 연기에 투영했다고 밝혔는데요 그렇기에 설령 자신의 죽음이 딸에겐 불행일지라도 시마즈는 스스로 세운 윤리에 기초한 행동을 하는 것이죠 반면 케인은 딸을 보호하기 위해 친구와 가족 사이에 선을 긋습니다 케인에게 딸은 우정 형제보다 더 큰 의미가 있으며 존을 죽이지 않으면 최고 회의가 딸을 해칠 테니 최고 회의에 도전하지 않습니다 그러나 케인이 사크레쾨르의 계단을 존과 함께 오르는 것은 그라몽의 비겁함이 딸을 위해 형제를 죽이기로 마음먹은 신념을 가로막기 때문입니다 오사카 시퀀스는 조명과 컬러 그레이딩을 통한 색채감으로 여러 암시를 주기도 합니다 벚꽃나무 앞에 서서 상실과 후회를 말하는 존을 붉은 색조가 삼키며 호텔 로비에서 시마즈와 그라몽의 부하들이 대치하고 있을 땐 배경이 녹색으로 바뀌어 위험성을 나타내고 지하철에서 존과 아키라가 만나는 장면에선 아키라의 분노와 감정을 드러내는 붉은색으로 넘치죠",
+  "movie_id": "존 윅 4",
+  "reviewer": "기묘한_케이지",
+  "chunk_index": 4,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "윈스턴",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "윈스턴은 규칙을 중시하고 중립적 태도를 견지하는 인물로, 빠리 루브르 박물관에서 그라몽을 만나는 장면이 있다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "그라몽 후작",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "그라몽 후작은 사악한 인물로 정당성이 부족한 행위를 하며, 케인을 앞세우고 점점 초조함을 느끼는 악역이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "존윅",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "존윅은 자유를 위해 목숨을 건 인물로, 손가락이 없으며 일생일대의 위기 때 시마즈를 찾아가는 주인공이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "전령",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "전령은 과거 암살자로서 최고 회의에게 충성심을 의심받았으나 지금까지 충성하고 있으며, 손가락이 없고 결투를 승인하는 역할을 한다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "케인",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "케인은 딸을 보호하기 위해 친구와 가족 사이에 선을 긋는 인물로, 존윅을 공격하지만 사크레쾨르 계단을 존과 함께 오르기도 한다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "시마즈 코지",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "시마즈 코지는 컨티넨탈 오사카의 호텔 지배인이자 존윅의 친구로, 가족주의적으로 호텔을 운영하며 무사도 정신으로 존을 보호하기 위해 목숨을 건다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "아키라",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "아키라는 시마즈의 딸로 컨티넨탈 오사카의 프론트에서 일하며, 존윅을 인지하고 아버지를 만류하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "최고 회의",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "최고 회의는 암살자 세계를 지배하는 조직으로, 그라몽을 과대평가했으며 존윅과 대립 관계에 있다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "사나다 히로유키",
+      "entity_type": "ACTOR",
+      "entity_description": "사나다 히로유키는 시마즈 역을 맡은 배우로, 무사의 결정방식을 자기 연기에 투영했다고 밝혔다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "외젠 들라크루아",
+      "entity_type": "MOVIE_STAFF",
+      "entity_description": "외젠 들라크루아는 1830년 '민중을 이끄는 자유의 여신'을 그린 화가로, 이 그림이 영화에서 최고 회의와 존윅의 관계를 빗대는 데 사용되었다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "존윅",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "시마즈 코지",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "존윅과 시마즈는 형제나 가족과 다름없는 친구 관계로, 존윅이 일생일대의 위기 때 시마즈를 찾아간다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "존윅",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "케인",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "존윅과 케인은 친구 관계이지만 케인은 딸을 위해 존윅을 공격해야 하는 상황에 놓여있다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "시마즈 코지",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "케인",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "시마즈와 케인은 존윅의 친구로서 세 명이 한 장소에서 대치하는 상황이 벌어진다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "시마즈 코지",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "아키라",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "시마즈는 아키라의 아버지이며, 아키라는 아버지를 만류하지만 시마즈는 자신의 윤리에 따라 행동한다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "케인",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "최고 회의",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "케인은 딸을 보호하기 위해 최고 회의에 도전하지 않고 그들의 명령에 따른다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "그라몽 후작",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "케인",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "그라몽은 케인을 앞세워 존윅을 추적하며, 케인의 신념을 가로막는 비겁한 행동을 한다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "그라몽 후작",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "최고 회의",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "그라몽은 최고 회의의 지원을 받지만, 최고 회의는 그라몽을 과대평가했음을 느끼게 된다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "윈스턴",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "그라몽 후작",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "윈스턴은 빠리 루브르 박물관에서 그라몽을 만나는 장면이 있다",
+      "relationship_strength": 6
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "존윅",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "최고 회의",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "존윅은 최고 회의와 대립하며 자유를 위해 목숨을 건다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "전령",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "최고 회의",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "전령은 과거 최고 회의에게 충성심을 의심받았으나 지금까지 충성하고 있다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "사나다 히로유키",
+      "source_type": "ACTOR",
+      "target_entity": "시마즈 코지",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "사나다 히로유키는 시마즈 코지 역을 연기했으며 무사의 결정방식을 연기에 투영했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "존윅",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "아키라",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "존윅과 아키라는 지하철에서 만나며, 아키라는 존윅에 대해 분노와 감정을 드러낸다",
+      "relationship_strength": 6
+    }
+  ],
+  "entity_resolution": {
+    "윈스턴": {
+      "description": "윈스턴 -> 윈스턴",
+      "resolved_name": "윈스턴",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "그라몽 후작": {
+      "description": "그라몽 후작 -> 마르키스",
+      "resolved_name": "마르키스",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "존윅": {
+      "description": "존윅 -> 존 윅",
+      "resolved_name": "존 윅",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "전령": {
+      "description": "전령 -> 하빈저",
+      "resolved_name": "하빈저",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "케인": {
+      "description": "케인 -> 케인",
+      "resolved_name": "케인",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "시마즈 코지": {
+      "description": "시마즈 코지 -> 시마즈",
+      "resolved_name": "시마즈",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "아키라": {
+      "description": "아키라 -> 아키라",
+      "resolved_name": "아키라",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "최고 회의": {
+      "description": "최고 회의 -> 최고 회의",
+      "resolved_name": "최고 회의",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "사나다 히로유키": {
+      "description": "사나다 히로유키 -> 사나다 히로유키",
+      "resolved_name": "사나다 히로유키",
+      "entity_type": "ACTOR",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "외젠 들라크루아": {
+      "description": "외젠 들라크루아 -> 외젠 들라크루아",
+      "resolved_name": "외젠 들라크루아",
+      "entity_type": "MOVIE_STAFF",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "chunk_hash": "36f0be7e4901f7",
+  "chunk_id": "멍냥이_잼반응_36f0be7e4901f7_cd6cd67e",
+  "user_query": "Dude, I'm like so nervous about this hot air balloon. >> Oh, come on. >> Hurry up. Oh, the kids are walking everybody out. They built a hot air balloon. What? What the is this? Oh, that's a heck of Wow. go. God, this is so dangerous. Oh my god. No. No. No. No. No. No one's concerned except for that one guard. >> What are they just shooting you down? >> I'm genuinely surprised that the guy is shooting them. >> A I'm worried cuz the string at the beginning got caught in the fence and I'm hoping that's not what happens here. [Music] string's going to get going to catch on the damn [Music] >> it just wasn't >> I knew we couldn't have a happy ending. >> I guess I guess you know after they got out what would they do? He'd be on the run. >> Well, yeah, exactly. I mean, they wouldn't have really been free anyway. >> No. [Applause] [Music] [Applause] [Music] Dude, did he actually die? December 23rd. Oh, [Music] >> they're not going. They can't tell her. >> No, >> they made her a birthday cake. >> It's a Sailor Moon bag. Is it a Sailor Moon bag? It's a Sailor Moon bag. Oh, >> stop. >> You almost got me that time. Oh my gosh. Well, you got it for I'm really going to kill him today, right? [Music] >> I'm struggling over here. Oh god, >> stop moving. >> Oh Jesus. >> I really hope that commissioner dies too. >> I know. [Music] No, dude. Does he actually [ __ ] die? I hope not. I hope somehow it just doesn't happen. >> Merry Christmas. [Music] >> Merry Christmas. That's man. Daniel, >>",
+  "movie_id": "7번방의 선물",
+  "reviewer": "멍냥이_잼반응",
+  "chunk_index": 9,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "COMMISSIONER",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "영화 속 등장인물로, 화자들이 그의 죽음을 바라는 악역으로 보임"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "DANIEL",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "영화 마지막 부분에서 언급되는 인물"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "COMMISSIONER",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "DANIEL",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "같은 영화에 등장하는 인물들로 추정됨",
+      "relationship_strength": 3
+    }
+  ],
+  "entity_resolution": {
+    "COMMISSIONER": {
+      "description": "COMMISSIONER -> COMMISSIONER",
+      "resolved_name": "COMMISSIONER",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "DANIEL": {
+      "description": "DANIEL -> DANIEL",
+      "resolved_name": "DANIEL",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

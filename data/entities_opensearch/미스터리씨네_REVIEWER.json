@@ -1,0 +1,12 @@
+{
+  "entity": {
+    "name": "미스터리씨네",
+    "synonym": [
+      "미스터리씨네"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "미스터리씨네은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

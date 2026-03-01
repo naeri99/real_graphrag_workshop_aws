@@ -1,0 +1,23 @@
+{
+  "entity": {
+    "name": "송이우",
+    "synonym": [
+      "Song I-woo",
+      "Song Iwoo",
+      "Song Yi Woo",
+      "Song Yi-woo",
+      "송 이우",
+      "송이우",
+      "송이우 배우",
+      "송이우 씨",
+      "송이우배우",
+      "송이우씨",
+      "송이유",
+      "이우"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "송이우은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

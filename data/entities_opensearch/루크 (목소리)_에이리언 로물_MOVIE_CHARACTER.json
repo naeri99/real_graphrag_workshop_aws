@@ -1,0 +1,24 @@
+{
+  "entity": {
+    "name": "루크 (목소리)",
+    "synonym": [
+      "Rook",
+      "Rook character",
+      "Rook 박사",
+      "Rooke",
+      "루크",
+      "루크 (목소리)",
+      "루크 박사",
+      "루크 에이리언",
+      "루크 인조인간",
+      "루크 캐릭터",
+      "루크 합성인간",
+      "룩",
+      "룩 안드로이드"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "루크 (목소리)은 영화 '에이리언 로물'의 등장인물로, 다니엘 베츠이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

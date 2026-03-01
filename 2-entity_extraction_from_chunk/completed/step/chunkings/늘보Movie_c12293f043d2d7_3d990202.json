@@ -1,0 +1,36 @@
+{
+  "chunk_hash": "c12293f043d2d7",
+  "chunk_id": "늘보Movie_c12293f043d2d7_3d990202",
+  "user_query": "south and you're going to say, \"This is it. This is how I end.\" Now, you can either accept that or you can get to work. That's all it is. You just begin. 영화는 이렇게 마무리됩니다. [음악]",
+  "movie_id": "마션",
+  "reviewer": "늘보Movie",
+  "chunk_index": 8,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "MARK WATNEY",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "마크 와트니는 화성에 고립된 상황에서 포기하지 않고 생존을 위해 노력하는 인물로, \"이게 끝이다\"라고 받아들이거나 일을 시작하라는 메시지를 전달한다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "MARK WATNEY",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "THE MARTIAN",
+      "target_type": "MOVIE",
+      "relationship_description": "마크 와트니는 마션의 주인공으로 추정되며 생존에 대한 핵심 대사를 전달한다",
+      "relationship_strength": 7
+    }
+  ],
+  "entity_resolution": {
+    "MARK WATNEY": {
+      "description": "MARK WATNEY -> MARK WATNEY",
+      "resolved_name": "MARK WATNEY",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

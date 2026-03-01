@@ -1,0 +1,26 @@
+{
+  "entity": {
+    "name": "스탠 리",
+    "synonym": [
+      "Leigh Steinberg",
+      "Stan Lee",
+      "래리 킹",
+      "리",
+      "리 스타인버그",
+      "리스타인버그",
+      "마블 아버지",
+      "마블 할아버지",
+      "스타인버그",
+      "스탠",
+      "스탠 리",
+      "스탠 리 카메오",
+      "스탠리",
+      "스텐 리",
+      "스텐리"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "스탠 리은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

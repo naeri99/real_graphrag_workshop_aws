@@ -1,0 +1,123 @@
+{
+  "chunk_hash": "d15022e3dd026d",
+  "chunk_id": "드라마의기술_d15022e3dd026d_ad8b21e0",
+  "user_query": "풀리면 꼭 갚을게요. >> 돈이 필요하던 딸에게는 통장을 쥐어주며 배웅한다. >> 어쩐지 발길이 안 떨어지는데. 보세요. >> 이제는 푹 잘 수 있겠구만. 이건 다 챙긴 건가? 어. 어. 그 그거 >> 꼭 사고 쳐요. >> 이런 뭐 하나 다 챙겨. >> 아까 장갑 참 줄기차게 끼고 다녔이 >> 사람의 이게 어떤 장갑인데? >> 씨내 잘해 줘라. 우리는 항상 죽어도 어색할게 있는 나야. 람처럼 끝까지 멋있는 적이 >> 쓸쓸하게 웃는다. 그날 밤 추억이 가득한 집에서 >> 방에 번개탄을 피우고 문틈을 메우는 작업을 하고는 >> 당신 참 미쁘다. >> 아내와 마지막 인사를 나눈다. >> 늙어가면 더 곱더 >> 아내 없이 혼자 살아갈 자신이 없던 장군봉은 아내와 함께 가기로 결심을 했다. >> 미안한데 잘 사해. 너는 겁쟁이 아이가 당신이 못 살 것 같아. 그러니까 내 손 꼭 잡아. 알았지? 이 이 영화는 노년의 등과 사랑의 보편성을 핵심 주제로 다루며 >> 사회가 흔히 간과하는 노년의 감정과 욕구를 조명하고 사랑은 나이와 무관하게 누구에게나 필요하고 가능한 것임을 보여줍니다. 각자의 상처와 외로움을 안고 살아가는 노인들이 서로를 통해 위로받고 삶의 의미를 되찾는 과정을 그리고 혼자가 아닌 함께할 때 인생의 황혼기도 아름다울 수 있다는 메시지를 전합니다. 노인을 단순히 보호 부양의 대상이 아닌 여전히 감정을 느끼고 꿈꾸며 사랑할 수 있는 독립적 인격체로 바라보며 사회와 가족으로부터 소외된 노인들이 자신의 존재 가치를 재확인하는 여정을 담아냈습니다. 죽음이 가까워진 시기에도 삶을 긍정하고 순간순간을 소중히 여기는 태도를 보여줍니다. 궁극적으로 이 영화는 세대를 아우르는 보편적 감정으로서의 사랑과 인생의 마지막까지 인간답게 살아갈 권리에 대한 따뜻한 시선을 담고 있습니다. 영화의 결말은 직접 확인해 보시길 권합니다. 이 영화를 빛내주신 이순재, 윤소정, 송재호, 김수미 배우님 모두 이제는 우리 곁에 계시지 않습니다. 하지만 스크린 속 그들의 미소와 목소리, 그리고 사랑은 늦지 않는다는 메시지는 여전히 우리 마음속에 살아 숨쉬고 있습니다.",
+  "movie_id": "그대를사랑합니다",
+  "reviewer": "드라마의기술",
+  "chunk_index": 7,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "장군봉",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "장군봉은 아내 없이 혼자 살아갈 자신이 없어 아내와 함께 생을 마감하기로 결심한 노인 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "이순재",
+      "entity_type": "ACTOR",
+      "entity_description": "이순재는 이 영화를 빛내준 배우로, 현재는 세상을 떠났다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "윤소정",
+      "entity_type": "ACTOR",
+      "entity_description": "윤소정은 이 영화를 빛내준 배우로, 현재는 세상을 떠났다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "송재호",
+      "entity_type": "ACTOR",
+      "entity_description": "송재호는 이 영화를 빛내준 배우로, 현재는 세상을 떠났다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "김수미",
+      "entity_type": "ACTOR",
+      "entity_description": "김수미는 이 영화를 빛내준 배우로, 현재는 세상을 떠났다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "장군봉의 아내",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "장군봉의 아내는 장군봉과 함께 생을 마감하기로 한 노인 캐릭터로, 장군봉에게 \"당신 참 미쁘다\"라는 말을 듣는다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "딸",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "딸은 돈이 필요했던 인물로, 장군봉으로부터 통장을 받고 배웅받는다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "장군봉",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "장군봉의 아내",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "장군봉은 아내와 마지막 인사를 나누고 함께 생을 마감하기로 결심했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "장군봉",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "딸",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "장군봉은 돈이 필요한 딸에게 통장을 쥐어주며 배웅한다",
+      "relationship_strength": 7
+    }
+  ],
+  "entity_resolution": {
+    "장군봉": {
+      "description": "장군봉 -> 장군봉",
+      "resolved_name": "장군봉",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "이순재": {
+      "description": "이순재 -> 이순재",
+      "resolved_name": "이순재",
+      "entity_type": "ACTOR",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "윤소정": {
+      "description": "윤소정 -> 윤소정",
+      "resolved_name": "윤소정",
+      "entity_type": "ACTOR",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "송재호": {
+      "description": "송재호 -> 송재호",
+      "resolved_name": "송재호",
+      "entity_type": "ACTOR",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "김수미": {
+      "description": "김수미 -> 김수미",
+      "resolved_name": "김수미",
+      "entity_type": "ACTOR",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "장군봉의 아내": {
+      "description": "장군봉의 아내 -> 장군봉의 아내",
+      "resolved_name": "장군봉의 아내",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "딸": {
+      "description": "딸 -> 족장의 딸",
+      "resolved_name": "족장의 딸",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    }
+  }
+}

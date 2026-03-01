@@ -1,0 +1,124 @@
+{
+  "chunk_hash": "44ff29b1e7f796",
+  "chunk_id": "무비씨엘로_MOVIE_CIELO_44ff29b1e7f796_06d92cee",
+  "user_query": "you may have killed them Mitch we're fighting the same War every time something goes wrong the world forgets why we fly I'm trying to keep us airborne it's bigger than one person now I'm Sol 449 okay I've got 200 sols to figure out how to take everything here that's keeping me alive the oxygenator the water reclaimer the atmospheric regulator and the whole planet Earth with all of the brain power on the entire planet helping me with this endeavor and so far they've come up with hey why don't you drill holes in the roof of your Rover and hit it as hard as you can with a rock [Music] oh Mark Watney space pirate [Music] Everywhere I Go I'm the first it's a strange feeling step outside the Rover first guy to be there climb that Hill first guy to do that [Music] nobody the first person to be alone on an entire planet the MAV that was only designed to get to low Mars orbit so in order for Mark to escape Mars's gravity entirely and to intercept the Hermes it has to be going fast exactly which means we need to make the MAV lighter a lot we need to remove the nose cone windows and whole Panel 19. 5400 kilograms you want to send a man into space without the front of his ship no no [Music] the launch takes 12 minutes and it'll be 52 minutes before intercept once Mark's engine shuts off we'll know our intercept point and velocity you go out after him yep let's go get our boy [Music] fuel pressure green engine alignment perfect Mission Control this is Hermes actual we will proceed on",
+  "movie_id": "마션",
+  "reviewer": "무비씨엘로_MOVIE_CIELO",
+  "chunk_index": 10,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "THE MARTIAN",
+      "entity_type": "MOVIE",
+      "entity_description": "화성에 홀로 남겨진 우주비행사의 생존과 구출을 다룬 SF 영화"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "MARK WATNEY",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "화성에 홀로 남겨진 우주비행사로, 449솔 동안 생존하며 구출을 기다리는 인물. 스스로를 \"우주 해적\"이라 칭함"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "MITCH",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "NASA 관계자로 보이며, 구출 작전과 관련된 갈등 상황에서 언급되는 인물"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "HERMES",
+      "entity_type": "MOVIE",
+      "entity_description": "마크 와트니를 구출하기 위해 화성 궤도에서 그를 인터셉트하는 우주선"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "MAV",
+      "entity_type": "MOVIE",
+      "entity_description": "화성 상승 모듈로, 마크 와트니가 화성을 탈출하기 위해 사용하는 우주선. 원래 저궤도용으로 설계됨"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "MARK WATNEY",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "THE MARTIAN",
+      "target_type": "MOVIE",
+      "relationship_description": "마크 와트니는 이 영화의 주인공으로 화성에서 생존하는 우주비행사이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "MITCH",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "THE MARTIAN",
+      "target_type": "MOVIE",
+      "relationship_description": "미치는 영화에서 NASA 측 인물로 등장한다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "MAV",
+      "source_type": "MOVIE",
+      "target_entity": "MARK WATNEY",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "MAV는 마크 와트니가 화성을 탈출하기 위해 사용하는 우주선이다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "HERMES",
+      "source_type": "MOVIE",
+      "target_entity": "MARK WATNEY",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "헤르메스 우주선이 마크 와트니를 구출하기 위해 인터셉트 작전을 수행한다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "MAV",
+      "source_type": "MOVIE",
+      "target_entity": "HERMES",
+      "target_type": "MOVIE",
+      "relationship_description": "MAV가 발사되어 헤르메스와 인터셉트하도록 계획됨",
+      "relationship_strength": 8
+    }
+  ],
+  "entity_resolution": {
+    "THE MARTIAN": {
+      "description": "THE MARTIAN -> THE MARTIAN",
+      "resolved_name": "THE MARTIAN",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "MARK WATNEY": {
+      "description": "MARK WATNEY -> MARK WATNEY",
+      "resolved_name": "MARK WATNEY",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "MITCH": {
+      "description": "MITCH -> Mitch Henderson",
+      "resolved_name": "Mitch Henderson",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "HERMES": {
+      "description": "HERMES -> HERMES",
+      "resolved_name": "HERMES",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "MAV": {
+      "description": "MAV -> MAV",
+      "resolved_name": "MAV",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

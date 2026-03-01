@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "키아누 리브스",
+    "synonym": [
+      "Keanu",
+      "Keanu Reeves",
+      "리브스",
+      "키아누",
+      "키아누 리브스",
+      "키아누 리이브스",
+      "키아누리브스",
+      "키애누",
+      "키애누 리브스",
+      "키애누리브스",
+      "키에누 리브스"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "키아누 리브스은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

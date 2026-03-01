@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "엠마 로버츠",
+    "synonym": [
+      "Emma",
+      "Emma Roberts",
+      "로버츠",
+      "에마 로버츠",
+      "엠마",
+      "엠마 로버츠",
+      "엠마 로버트",
+      "엠마로버츠"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "엠마 로버츠은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "chunk_hash": "a491fb09971b52",
+  "chunk_id": "명영화_a491fb09971b52_01cc7fbf",
+  "user_query": "need to answer no that's all right Jordan what are you pulling 50 60k something like that a year probably well let's put this way you get a free handgun when you sign up for the bureau well that situation made that particular trade and with one trade north of half a million dollars and I do that for anybody you know anybody that needs the proper guidance can you say that again just the way you you said it just the same way if I'm not mistaken you just tried to bribe a Federal Officer no technically I didn't bribe anybody technically no no according to the US criminal code there needs to be an exact dollar figure for the exchange of services that would not hold up in the court of law you heard it I think it's time you both get the [ __ ] off my boat what do you hey fuck look what I found in my pocket look a year salary right here a fund coupon the grandfather and me around Switzerland what the [ __ ] is in Switzerland Swiss [ __ ] banks that's what it was ass covering time I had to hide my money we're here we're here we're here I'm going to calm down come on Jordan Jordan Jean Jacques pleasure to make your acquaintance nice to meet you curious about your bank secrecy laws here let's get down to it what would you like to know under what circumstances would you be obligated to cooperate with an FBI or or US Justice Department investigation for example the only way the bank would deev would cooperate with a foreign legal body is if the crime being pursued is also a crime in",
+  "movie_id": "인사이드 잡",
+  "reviewer": "명영화",
+  "chunk_index": 7,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "JORDAN",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Jordan은 연간 50-60만 달러 이상을 버는 인물로, 한 번의 거래로 50만 달러 이상을 벌 수 있다고 주장하며, 연방 요원에게 뇌물을 시도하고 스위스 은행에 돈을 숨기려는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "JEAN JACQUES",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Jean Jacques는 스위스 은행가로, Jordan에게 은행 비밀 유지법에 대해 설명해주는 인물이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "JORDAN",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "JEAN JACQUES",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Jordan은 Jean Jacques를 만나 스위스 은행 비밀 유지법에 대해 문의한다",
+      "relationship_strength": 8
+    }
+  ],
+  "entity_resolution": {
+    "JORDAN": {
+      "description": "JORDAN -> JORDAN",
+      "resolved_name": "JORDAN",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "JEAN JACQUES": {
+      "description": "JEAN JACQUES -> JEAN JACQUES",
+      "resolved_name": "JEAN JACQUES",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

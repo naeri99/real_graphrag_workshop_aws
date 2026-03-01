@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "아치 르노",
+    "synonym": [
+      "Archie",
+      "Archie Renaux",
+      "Archie Reno",
+      "르노",
+      "아치",
+      "아치 레노",
+      "아치 르노",
+      "아치르노",
+      "아키 레노",
+      "아키 르노"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "아치 르노은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

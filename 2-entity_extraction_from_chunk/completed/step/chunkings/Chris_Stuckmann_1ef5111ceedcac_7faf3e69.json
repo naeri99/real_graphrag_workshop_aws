@@ -1,0 +1,80 @@
+{
+  "chunk_hash": "1ef5111ceedcac",
+  "chunk_id": "Chris_Stuckmann_1ef5111ceedcac_7faf3e69",
+  "user_query": "weekend. Don't allow it to become that underrated thriller that everyone talks about and no one ever watches. Go check out this movie. I think it's a really good one. Guys thank you so much as always for watching, truly I greatly appreciate it and I'm looking forward to starting my M. Night Shyamalan series of reviews very soon starting with The Sixth Sense that should be up in a few days. Guys thank you so much once again and if you like this you can click right here and get Stuckmannized.",
+  "movie_id": "더 기프트",
+  "reviewer": "Chris_Stuckmann",
+  "chunk_index": 4,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "M. NIGHT SHYAMALAN",
+      "entity_type": "MOVIE_STAFF",
+      "entity_description": "M. Night Shyamalan은 영화 감독으로, 리뷰어가 곧 그의 영화 시리즈 리뷰를 시작할 예정이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "THE SIXTH SENSE",
+      "entity_type": "MOVIE",
+      "entity_description": "The Sixth Sense는 M. Night Shyamalan 감독의 영화로, 리뷰 시리즈의 첫 번째 작품으로 다뤄질 예정이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "STUCKMANN",
+      "entity_type": "REVIEWER",
+      "entity_description": "Stuckmann은 영화 리뷰어로, 스릴러 영화를 추천하고 M. Night Shyamalan 시리즈 리뷰를 예고하고 있다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "M. NIGHT SHYAMALAN",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "THE SIXTH SENSE",
+      "target_type": "MOVIE",
+      "relationship_description": "M. Night Shyamalan은 The Sixth Sense를 감독했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "STUCKMANN",
+      "source_type": "REVIEWER",
+      "target_entity": "THE SIXTH SENSE",
+      "target_type": "MOVIE",
+      "relationship_description": "Stuckmann은 The Sixth Sense 리뷰를 곧 업로드할 예정이다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "STUCKMANN",
+      "source_type": "REVIEWER",
+      "target_entity": "M. NIGHT SHYAMALAN",
+      "target_type": "MOVIE_STAFF",
+      "relationship_description": "Stuckmann은 M. Night Shyamalan의 영화 시리즈 리뷰를 시작할 예정이다",
+      "relationship_strength": 8
+    }
+  ],
+  "entity_resolution": {
+    "M. NIGHT SHYAMALAN": {
+      "description": "M. NIGHT SHYAMALAN -> M. NIGHT SHYAMALAN",
+      "resolved_name": "M. NIGHT SHYAMALAN",
+      "entity_type": "MOVIE_STAFF",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "THE SIXTH SENSE": {
+      "description": "THE SIXTH SENSE -> THE SIXTH SENSE",
+      "resolved_name": "THE SIXTH SENSE",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "STUCKMANN": {
+      "description": "STUCKMANN -> Chris_Stuckmann",
+      "resolved_name": "Chris_Stuckmann",
+      "entity_type": "REVIEWER",
+      "matched": true,
+      "match_type": "name_exact"
+    }
+  }
+}

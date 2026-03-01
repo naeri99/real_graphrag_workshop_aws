@@ -1,0 +1,60 @@
+{
+  "movie_title": "서유기 모험의 시작",
+  "director": [
+    {
+      "name": "주성치",
+      "name_en": "Stephen Chow"
+    },
+    {
+      "name": "곽자건",
+      "name_en": "Derek Kwok"
+    }
+  ],
+  "cast": [
+    {
+      "actor": "서기",
+      "actor_en": "Shu Qi",
+      "character": "단소소"
+    },
+    {
+      "actor": "문장",
+      "actor_en": "Wen Zhang",
+      "character": "현장"
+    },
+    {
+      "actor": "황보",
+      "actor_en": "Huang Bo",
+      "character": "손오공"
+    },
+    {
+      "actor": "나지상",
+      "actor_en": "Show Lo",
+      "character": "사오정"
+    },
+    {
+      "actor": "진병강",
+      "actor_en": "Chen Bing-qiang",
+      "character": "저팔계"
+    },
+    {
+      "actor": "유문장",
+      "actor_en": "Yuwen Zhang",
+      "character": "성"
+    },
+    {
+      "actor": "이정",
+      "actor_en": "Jing Li",
+      "character": "근"
+    },
+    {
+      "actor": "문페이페이",
+      "actor_en": "Feifei Wen",
+      "character": "루 스님"
+    }
+  ],
+  "review": [
+    "./data/review/서유기 모험의 시작/서유기 모험의 시작_-xxs6z3Lhog.json",
+    "./data/review/서유기 모험의 시작/서유기 모험의 시작_WcA5xojR_1w.json",
+    "./data/review/서유기 모험의 시작/서유기 모험의 시작_plxr4PPzth4.json"
+  ]
+}

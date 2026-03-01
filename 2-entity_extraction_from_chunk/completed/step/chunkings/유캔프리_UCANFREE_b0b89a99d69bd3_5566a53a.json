@@ -1,0 +1,36 @@
+{
+  "chunk_hash": "b0b89a99d69bd3",
+  "chunk_id": "유캔프리_UCANFREE_b0b89a99d69bd3_5566a53a",
+  "user_query": "I'm so sorry Sam really I can't believe I did that I'm so sorry Sam really I can't believe I did that oh I'm so sorry Sam really I can't believe I did that good luck in your meeting not that you need it you're gonna be good luck in your meeting not that you need it you're gonna be great good luck in your meeting not that you need it you're gonna be great good luck in your meeting not that you need it you're going to be great good luck in your meeting not that you need it you're gonna be great you know don't be late I'll take care of this I'll see you tonight at the concert you know don't be late I'll take care of this I'll see you tonight at the concert you know don't be late I'll take care of this I'll see you tonight at the concert you know don't be late I'll take care of this I'll see you tonight at the concert you know don't be late I'll take care of this I'll see you tonight at the concert come on I'll see you tonight I'll see you tonight I'll see you tonight I'll see you tonight I'll see you tonight thank God bollocks what happened I cracked it this morning what happened I cracked it this morning what happened I cracked it this morning what happened I cracked it this morning what happened I cracked it this morning it says 11 o'clock but it says 11 o'clock but it says 11 o'clock but it says 11 o'clock it says 11 o'clock well the hands must have moved well the hands must have moved well the hands must have moved well the hands must have moved well the hands must have",
+  "movie_id": "이프 온리",
+  "reviewer": "유캔프리_UCANFREE",
+  "chunk_index": 5,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "SAM",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Sam은 대화에서 언급되는 인물로, 미팅에 참석할 예정이며 콘서트에서 만나기로 한 사람이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "SAM",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "SAM",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "텍스트에서 다른 명확한 영화 관련 엔티티가 식별되지 않아 관계를 설정할 수 없음",
+      "relationship_strength": 0
+    }
+  ],
+  "entity_resolution": {
+    "SAM": {
+      "description": "SAM -> SAM",
+      "resolved_name": "SAM",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

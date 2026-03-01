@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "폴라 펠",
+    "synonym": [
+      "Paula",
+      "Paula Pel",
+      "Paula Pell",
+      "파울라 펠",
+      "펠",
+      "폴라",
+      "폴라 펠",
+      "폴라 펠리",
+      "폴라 펠역",
+      "폴라 펠이",
+      "폴라펠"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "폴라 펠은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

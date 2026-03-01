@@ -1,0 +1,75 @@
+{
+  "chunk_hash": "512ebace7ee175",
+  "chunk_id": "안본리뷰_512ebace7ee175_55fa1655",
+  "user_query": "väl av den tror du inte? Nej inte så här ptin på det kan jag inte tänka mig. Vi håller tillbaka i yttrbanen till 24 timmar. Jag vill Petrovic lite space men vi fortsätter lyssna. snackar spil jag kan inte alltså jag kan jag kan inte 그날 밤 범행 날이 다가올수록 이들은 더욱 신중해졌습니다. Det är någon annan som går in i Petter bil. Hej, vad händer? De har tappat Petr va? Vå spanet tappa bort honom på dagen för hur är det möjligt vänster. Vad säger ni grabbar? Blir inte så mycket bättre än det här va? Axel, slappna av. Mik snart. Nej men vi ska väl utgå med helikopter från helga vi måste ju köra nore. Jag sa att det var redo 15 kör en 15. Vad menar du? Eller var du inte ikväll så? Nej nej nej nej. Man säger aldrig det riktiga datumet att man dagarna för ett rån. Alla rånare har sitt sätt att gå rök. Se till [음악] att försvinna. 그렇게 강도들은 경찰의 눈을 완벽히 속였습니다. 범행 당일 자신감이 넘치던 이들에게 불안이 엄습했죠. 하지만 helikopter kommer inte skjuta på helikoptern lugnt bara bra går igenom plan fortsätt precis ja depån i Västberga in och ut 15 minuter Där sticker jag till Kanabadet och lämnar helikoptern. Och där väntar två båtar. Den ena bränner helikoptern. 오전 5시 30분 이들은 경찰 헬기 격납고에 폭탄을 설치하며 작전을 개시했습니다. 그런데 집에 두고 왔다던 악셀의 말은 거짓이었죠. 옥상에 도착한 강도들. 그들은 일사불란하게 움직였습니다. 그 사이 출동한 경찰들 강도들에게 남은 시간은 15분뿐이었습니다. Den här dörren fanns inte med den fanns inte bara för dörren. 거대한 폭발음에 놀란 직원들은 비상 대피실로 급히 몸을 피했습니다. De var kvar här nu. Okej, det är tungt här. pengen andler kom die Kom igen, kom igen. Vi rekker vi kom bror. Lyssna på mig. Det går",
+  "movie_id": "뱅크어택",
+  "reviewer": "안본리뷰",
+  "chunk_index": 4,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "AXEL",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "악셀은 강도단의 일원으로, 범행 당일 불안해하며 거짓말을 한 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "PETROVIC",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "페트로비치는 경찰의 감시 대상이 된 인물로, 강도단과 관련이 있다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "PETTER",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "페터는 차량을 소유한 인물로, 다른 누군가가 그의 차에 탑승했다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "VÄSTBERGA",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "베스트베리아 현금 보관소는 강도단의 목표 장소이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "AXEL",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "PETROVIC",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "악셀과 페트로비치는 같은 강도단의 일원으로 함께 작전을 수행했다",
+      "relationship_strength": 8
+    }
+  ],
+  "entity_resolution": {
+    "AXEL": {
+      "description": "AXEL -> AXEL",
+      "resolved_name": "AXEL",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "PETROVIC": {
+      "description": "PETROVIC -> PETROVIC",
+      "resolved_name": "PETROVIC",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "PETTER": {
+      "description": "PETTER -> PETTER",
+      "resolved_name": "PETTER",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "VÄSTBERGA": {
+      "description": "VÄSTBERGA -> VÄSTBERGA",
+      "resolved_name": "VÄSTBERGA",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

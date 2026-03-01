@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "찰리 존스",
+    "synonym": [
+      "Charlie",
+      "Charlie Jones",
+      "존스",
+      "찰리",
+      "찰리 존스",
+      "찰리 존즈",
+      "찰리존스",
+      "찰리존즈",
+      "챨리 존스",
+      "챨리존스"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "찰리 존스은 영화 '스틸 앨리스'의 등장인물로, 셰인 맥레이이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

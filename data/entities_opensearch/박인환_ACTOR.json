@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "박인환",
+    "synonym": [
+      "Park In-hwan",
+      "Park Inhwan",
+      "박 인환",
+      "박인환",
+      "박인환 배우",
+      "박인환 씨",
+      "박인환씨",
+      "인환"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "박인환은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

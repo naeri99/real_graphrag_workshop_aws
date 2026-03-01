@@ -1,0 +1,13 @@
+{
+  "entity": {
+    "name": "리뷰엉이-_Owls_Review",
+    "synonym": [
+      "리뷰엉이-_Owls_Review",
+      "리뷰엉이- Owls Review"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "리뷰엉이-_Owls_Review은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

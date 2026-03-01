@@ -1,0 +1,84 @@
+{
+  "movie_title": "글래디에이터 2",
+  "director": [
+    {
+      "name": "리들리 스콧",
+      "name_en": "Ridley Scott"
+    }
+  ],
+  "cast": [
+    {
+      "actor": "폴 메스칼",
+      "actor_en": "Paul Mescal",
+      "character": "루시우스"
+    },
+    {
+      "actor": "페드로 파스칼",
+      "actor_en": "Pedro Pascal",
+      "character": "General Acacius"
+    },
+    {
+      "actor": "덴젤 워싱턴",
+      "actor_en": "Denzel Washington",
+      "character": "Macrinus"
+    },
+    {
+      "actor": "코니 닐슨",
+      "actor_en": "Connie Nielsen",
+      "character": "Lucilla"
+    },
+    {
+      "actor": "조셉 퀸",
+      "actor_en": "Joseph Quinn",
+      "character": "Emperor Geta"
+    },
+    {
+      "actor": "프레드 헤킨저",
+      "actor_en": "Fred Hechinger",
+      "character": "Emperor Caracalla"
+    },
+    {
+      "actor": "데렉 자코비",
+      "actor_en": "Derek Jacobi",
+      "character": "그라쿠스"
+    },
+    {
+      "actor": "맷 루카스",
+      "actor_en": "Matt Lucas",
+      "character": "Master of Ceremonies"
+    },
+    {
+      "actor": "팀 맥이너니",
+      "actor_en": "Tim McInnerny",
+      "character": "트라엑스 원로원 의원"
+    },
+    {
+      "actor": "피터 멘사",
+      "actor_en": "Peter Mensah",
+      "character": "유구르타"
+    },
+    {
+      "actor": "리오르 라즈",
+      "actor_en": "Lior Raz",
+      "character": "Viggo"
+    },
+    {
+      "actor": "알렉산더 카림",
+      "actor_en": "Alexander Karim",
+      "character": "Ravi"
+    },
+    {
+      "actor": "알렉 우트고프",
+      "actor_en": "Alec Utgoff",
+      "character": "다리우스"
+    }
+  ],
+  "review": [
+    "./data/review/글래디에이터 2/글래디에이터 2_A8-ZyhngkQs.json",
+    "./data/review/글래디에이터 2/글래디에이터 2_Dd6ukTk-JN4.json",
+    "./data/review/글래디에이터 2/글래디에이터 2_Nkx6nFm5aNg.json",
+    "./data/review/글래디에이터 2/글래디에이터 2_Rp3Y0G_JBJY.json",
+    "./data/review/글래디에이터 2/글래디에이터 2_WUSPyJx_ybs.json",
+    "./data/review/글래디에이터 2/글래디에이터 2_o0_NeyucXBs.json"
+  ]
+}

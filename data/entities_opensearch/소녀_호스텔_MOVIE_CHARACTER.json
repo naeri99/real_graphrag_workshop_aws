@@ -1,0 +1,17 @@
+{
+  "entity": {
+    "name": "소녀",
+    "synonym": [
+      "Girl",
+      "걸",
+      "소녀",
+      "어린 소녀",
+      "어린소녀",
+      "여자아이"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "소녀은 영화 '호스텔'의 등장인물로, 무기 라그바도르즈이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

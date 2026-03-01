@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "조셉 퀸",
+    "synonym": [
+      "Joseph Quinn",
+      "Queen",
+      "에이리언 퀸",
+      "여왕 에이리언",
+      "조세프 퀸",
+      "조세프퀸",
+      "조셉",
+      "조셉 퀸",
+      "조셉퀸",
+      "퀸",
+      "퀸 제노모프"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "조셉 퀸은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

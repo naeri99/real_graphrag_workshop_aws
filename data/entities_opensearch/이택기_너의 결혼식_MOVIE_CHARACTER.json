@@ -1,0 +1,29 @@
+{
+  "entity": {
+    "name": "이택기",
+    "synonym": [
+      "Lee Taek-gi",
+      "Lee Taekgi",
+      "LeeTaekGi",
+      "Leetaekgi",
+      "Taek-gi",
+      "Taekgi",
+      "이 택기",
+      "이택기",
+      "차엽 캐릭터",
+      "태기",
+      "태끼",
+      "택기",
+      "택기 역",
+      "택기 캐릭터",
+      "택기씨",
+      "택기야",
+      "택비트",
+      "택해"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "이택기은 영화 '너의 결혼식'의 등장인물로, 차엽이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "오대환",
+    "synonym": [
+      "Dae-hwan Oh",
+      "Oh Dae-hwan",
+      "대환",
+      "오 대환",
+      "오대 환",
+      "오대환",
+      "오대환 배우",
+      "오대환씨"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "오대환은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

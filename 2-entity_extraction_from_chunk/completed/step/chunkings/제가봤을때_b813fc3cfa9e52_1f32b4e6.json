@@ -1,0 +1,133 @@
+{
+  "chunk_hash": "b813fc3cfa9e52",
+  "chunk_id": "제가봤을때_b813fc3cfa9e52_1f32b4e6",
+  "user_query": "번이나 보여줍니다 여기서 포인트는 꿈의 외부든 내부든 한쪽에서라도 자극을 받으면 꿈에서 깨어난다는 자연스러운 일방성 또는 강제성을 가지고 있다는 겁니다 이렇게 영화의 전반부까지는 킥이라는 설정이 아주 현실적이고 자연스럽습니다 우리 일상 속에서 아무리 더 자고 싶어도 세차게 울리는 알람 소리에는 깰 수밖에 없는 것처럼 말이죠 그런데 영화의 후반부부터는 설정이 파괴되고 모순이 생기기 시작합니다 먼저 주목해야 할 포인트는 3단계 꿈에 진입한 후에 이 장면부터 킥을 놓쳤다 이런 이상한 말을 하기 시작한다는 겁니다 놓쳤다라는 말은 즉 어떤 의도적인 상호작용이 필요하다라는 뜻이죠 더 자세히 보겠습니다 분명 전반부에 이 장면에선 진정제의 효능을 설명하며 특히 귀의 내이 기능은 살려 놓았다고 자랑합니다 깊게 잠들게는 하지만 떨어지는 감각을 여전히 느낄 수 있다고 말이죠 그렇기 때문에 의자가 조금만 기울어져도 팔을 쫙 펴며 깨어나는 모습을 보여준 겁니다 그래놓고 인셉션 임무에 들어가자 이 장면에서는 차가 언덕에서 데굴데굴 구르는데도 아무도 깨어나질 않습니다 이것의 모순을 두고 누군가는 3단계 꿈에 진입했기 때문에 영향을 주지 못한 것이 아닌가라는 해석을 시도해볼 수도 있겠습니다 하지만 태클이 걸립니다 그럼 2단계에 머물러 있는 Arthur는 왜 깨어나질 않는가 그렇죠 뭐가 어쨌든 이 양반은 깨어나야 맞죠 그리고 방 안의 자고 있는 사람들은 뭐 가만히 있겠습니까 비빔밥 재료들 마냥 난리도 아니었어야 맞습니다 게다가 운전하고 있는 Yusuf는 레이더가 고장났습니까 결국 원래 설정대로라면 다들 깨어나야 했죠 그런데 감독은 킥을 놓쳤다라는 억지 이유를 만들어 개연성 방어를 시도했습니다 애초에 킥이란 설정을 다르게 잡았으면 더 좋았을 텐데 아무튼 어쨌든 감독은 중력 방향이 회전하는 이 멋진 액션을 선보이고 싶었고 또 단계별로 한 번에 착착 진행되는 싱크로나이즈된 멋진 마무리도 하고 싶었고 이런저런 원하는 장면들을 연출하기 위해 개연성은 모르겠고 했기 때문에 설정을 슬쩍 바꿔서 킥을 놓쳤네 만회하며 킥의 상호작용과 타이밍을 끼워 넣었고 마치 킥의 동기화가 꼭 필요한 것처럼 했습니다 그런데 또 대부분의 관객들은 그냥 그런갑다 하고 받아들였습니다 왜냐 관람 시에 그런 거 따질 정신이 없이 재밌었으니까 그러니까 결국 개봉 당시에도 개연성에 논란 같은 건 없었고 게다가 이후에는 영화 팬들이 이런저런 이유를 붙여서 부족한 개연성을 메우려는 노력을 알아서 열심히 해줬으니 어쨌든 개연성 방어는 성공적이었다고 볼 수도 있겠죠 이렇게 개연성이 부족해 보이는 부분들을 하나하나 다 할 수는 없고 몇 가지만 더 짚어보겠습니다 제가 봤을 때 꿈의 구조 설정 특히 그중 림보에 대한 설정은 미완성이 아닌가 싶을 정도로 설명이 부족한 부분인데요 인셉션 임무의 마지막을 보면 림보에 빠진 사이토를 구하려고 림보에 남은 코브 그런데 이상한 게 코브는 늙지 않고 사이토만 폭삭 늙어 있는 모습입니다 저는 의문점이 들기 시작했죠 뭐가 어떻게 된 거지 좀 더 자세히 뜯어 봅시다 먼저 이 영화에서 꾸는",
+  "movie_id": "인셉션",
+  "reviewer": "제가봤을때",
+  "chunk_index": 6,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "인셉션",
+      "entity_type": "MOVIE",
+      "entity_description": "인셉션은 꿈 속에서 꿈을 꾸는 다층 구조와 킥(kick) 설정을 활용한 영화로, 림보와 같은 복잡한 꿈의 구조를 다룬다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "코브",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "코브는 인셉션 임무의 주인공으로, 림보에 빠진 사이토를 구하기 위해 림보에 남는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "사이토",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "사이토는 인셉션 임무 중 림보에 빠져 늙어버린 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "ARTHUR",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "아서는 인셉션 임무에서 2단계 꿈에 머물러 있는 팀원으로, 중력 방향이 회전하는 액션 장면에 등장한다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "YUSUF",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "유서프는 인셉션 임무에서 운전을 담당하는 팀원이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "코브",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "인셉션",
+      "target_type": "MOVIE",
+      "relationship_description": "코브는 인셉션의 주인공이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "사이토",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "인셉션",
+      "target_type": "MOVIE",
+      "relationship_description": "사이토는 인셉션에 등장하는 주요 인물이다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "ARTHUR",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "인셉션",
+      "target_type": "MOVIE",
+      "relationship_description": "아서는 인셉션 임무에 참여하는 팀원이다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "YUSUF",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "인셉션",
+      "target_type": "MOVIE",
+      "relationship_description": "유서프는 인셉션 임무에서 운전을 담당하는 팀원이다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "코브",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "사이토",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "코브는 림보에 빠진 사이토를 구하기 위해 림보에 남는다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "ARTHUR",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "YUSUF",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "아서와 유서프는 같은 인셉션 임무 팀의 일원이다",
+      "relationship_strength": 7
+    }
+  ],
+  "entity_resolution": {
+    "인셉션": {
+      "description": "인셉션 -> 인셉션",
+      "resolved_name": "인셉션",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "코브": {
+      "description": "코브 -> 코브",
+      "resolved_name": "코브",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "사이토": {
+      "description": "사이토 -> 사이토",
+      "resolved_name": "사이토",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "ARTHUR": {
+      "description": "ARTHUR -> ARTHUR",
+      "resolved_name": "ARTHUR",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "YUSUF": {
+      "description": "YUSUF -> YUSUF",
+      "resolved_name": "YUSUF",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

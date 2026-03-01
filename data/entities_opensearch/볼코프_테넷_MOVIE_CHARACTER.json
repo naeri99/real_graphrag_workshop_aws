@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "볼코프",
+    "synonym": [
+      "Volkov",
+      "Volkov 캐릭터",
+      "발코프",
+      "볼꼬프",
+      "볼코브",
+      "볼코프",
+      "볼코프 캐릭터",
+      "볼콥",
+      "불코프"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "볼코프은 영화 '테넷'의 등장인물로, 요나스 스타우브이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

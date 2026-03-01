@@ -1,0 +1,221 @@
+{
+  "chunk_hash": "f4a77663fa5e9c",
+  "chunk_id": "무비팬더_Movie_Panda_f4a77663fa5e9c_b76f7bca",
+  "user_query": "상태에서 볼펜을 떼어내는 방식으로 촬영했습니다 참 아이디어가 기가 막히죠 스탠리 큐브릭의 천재성을 볼 수 있는 장면 중 하나입니다 그리고 우주선의 이 컴퓨터그래픽 같은 장면들은 컴퓨터 없이 만들어냈습니다 애플 1이 처음 만들어진 게 1970년이며 이 당시에는 개인용 컴퓨터라는 게 존재하지도 않던 시절이죠 이 장면은 CG 없이 미니어처 안의 프로젝터로 영상을 투사하는 방식으로 특수 효과를 낸 것입니다 이 영화의 모든 장면들은 CG 없이 100% 아날로그 방식으로 만들어졌습니다 스탠리 큐브릭은 이 영화가 처음이자 마지막 SF 영화였지만 최고의 SF 영화를 만들어냈습니다 사실 이 영화 이전에도 SF 영화들은 있었습니다 하지만 금지된 행성처럼 잘 만든 SF 영화조차도 스페이스 오디세이처럼 영상 충격을 보여주지 못했습니다 너무 많은 고전 공포영화 할로윈에서도 등장할 정도로 SF 영화 중에서는 꽤 유명한 영화임에도 말이죠 화상 전화에 나오는 이 아이는 스탠리 큐브릭 감독님의 딸이고 이 영화에 나오는 모든 디스플레이는 평면입니다 지금 보면 뭐 그리 대단하냐고 생각되겠지만 당시 브라운관 TV들은 화면이 볼록하게 튀어나와 있습니다 왜냐하면 브라운관 내부가 진공 상태이기 때문에 화면을 평평하게 만들 경우 유리가 깨질 수 있기 때문에 유리가 버틸 수 있도록 아치 형태로 볼록하게 만들어야 했던 것이죠 이걸 평면으로 만들기 위해서 납유리를 두껍게 만들어야 하는데 이 기술은 1990년대나 가능해집니다 화장실 이용 방법에 적혀있는 내용은 무엇이냐면 사람이 화장실에 들어가서 변기에 앉으면 우주 정거장처럼 화장실이 회전을 해서 원심력을 발생시킵니다 그래야 응가가 변기 밑으로 떨어지니까요 SF 영화 중에서 우주에서 화장실을 어떻게 이용할지를 고민한 유일한 영화가 아닐까 합니다 그리고 HAL 장면에서 한 가지 특이한 점이 조명이 천장에 없습니다 바로 벽이 조명이 되는 것이죠 보우먼의 실험실에서는 바닥 조명을 합니다 당시의 조명기구는 하나도 달려있지 않습니다 스탠리 큐브릭 감독님은 어떻게 하면 미래지향적인 느낌을 줄까 고민한 결과가 바로 벽과 바닥의 면발광 조명이었던 것이죠 미래 영화에 형광등이 있었으면 이 영화의 느낌은 많이 죽었을 겁니다 2010년 이후에야 LED 방식의 면발광 조명이 나왔으니 이 또한 시대를 한참 앞서 갔던 것이고요 이 영화에 등장하는 뉴스 패드는 애플이 삼성을 아이패드 특허 침해로 소송을 걸었을 때 다시 조명을 받게 됩니다 삼성 측에서 스페이스 오디세이의 이 장면을 가지고 아이패드는 독창적인 제품이 아니다라는 증거로 미국 법원에 제출을 했던 것이죠 각종 계기판도 지금 보면 LCD를 이용해 쉽게 구현할 수 있지만 1968년에 이런 영상을 만들어낸 영화감독은 없었습니다 그리고 비행접시 형태의 우주선만 나오던 SF 영화에서 장대한 함선이 등장한 것도 이 영화가 처음이었고 큰 함선의 규모를 보여주기 위한 이 구도는 스타워즈나 스타트렉 등의 다른 영화에도 큰 영향을 미쳤습니다 HAL 9000이 들을까 봐 보우먼과 Frank가 몰래 대화를 나누는 이 장면에서",
+  "movie_id": "2001 스페이스 오디세이",
+  "reviewer": "무비팬더_Movie_Panda",
+  "chunk_index": 8,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "스탠리 큐브릭",
+      "entity_type": "MOVIE_STAFF",
+      "entity_description": "스탠리 큐브릭은 2001 스페이스 오디세이를 연출한 감독으로, CG 없이 아날로그 방식으로 혁신적인 특수효과를 구현하며 천재성을 보여주었다. 이 영화가 처음이자 마지막 SF 영화였지만 최고의 SF 영화를 만들어냈다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "2001 스페이스 오디세이",
+      "entity_type": "MOVIE",
+      "entity_description": "2001 스페이스 오디세이는 1968년에 제작된 SF 영화로, CG 없이 100% 아날로그 방식으로 제작되었으며 평면 디스플레이, 면발광 조명, 뉴스 패드 등 미래 기술을 예견한 혁신적인 작품이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "금지된 행성",
+      "entity_type": "MOVIE",
+      "entity_description": "금지된 행성은 스페이스 오디세이 이전에 제작된 SF 영화로, 잘 만든 SF 영화였지만 스페이스 오디세이만큼의 영상 충격을 보여주지 못했다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "할로윈",
+      "entity_type": "MOVIE",
+      "entity_description": "할로윈은 고전 공포영화로, 금지된 행성이 등장할 정도로 SF 영화의 영향을 받은 작품이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "스타워즈",
+      "entity_type": "MOVIE",
+      "entity_description": "스타워즈는 스페이스 오디세이의 장대한 함선 구도에 영향을 받은 SF 영화이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "스타트렉",
+      "entity_type": "MOVIE",
+      "entity_description": "스타트렉은 스페이스 오디세이의 장대한 함선 구도에 영향을 받은 SF 영화이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "HAL 9000",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "HAL 9000은 스페이스 오디세이에 등장하는 우주선의 인공지능 컴퓨터로, 보우먼과 프랭크가 몰래 대화를 나눌 정도로 위협적인 존재이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "보우먼",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "보우먼은 스페이스 오디세이의 등장인물로, 실험실에서 바닥 조명 아래 활동하며 HAL 9000을 피해 프랭크와 몰래 대화를 나눈다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "FRANK",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "프랭크는 스페이스 오디세이의 등장인물로, HAL 9000이 들을까 봐 보우먼과 몰래 대화를 나눈다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "스탠리 큐브릭",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "2001 스페이스 오디세이",
+      "target_type": "MOVIE",
+      "relationship_description": "스탠리 큐브릭은 2001 스페이스 오디세이를 감독했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "HAL 9000",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "2001 스페이스 오디세이",
+      "target_type": "MOVIE",
+      "relationship_description": "HAL 9000은 스페이스 오디세이에 등장하는 인공지능 컴퓨터이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "보우먼",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "2001 스페이스 오디세이",
+      "target_type": "MOVIE",
+      "relationship_description": "보우먼은 스페이스 오디세이의 주요 등장인물이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "FRANK",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "2001 스페이스 오디세이",
+      "target_type": "MOVIE",
+      "relationship_description": "프랭크는 스페이스 오디세이의 등장인물이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "보우먼",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "FRANK",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "보우먼과 프랭크는 HAL 9000을 피해 몰래 대화를 나누는 동료이다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "보우먼",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "HAL 9000",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "보우먼은 HAL 9000이 들을까 봐 몰래 대화를 나눈다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "FRANK",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "HAL 9000",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "프랭크는 HAL 9000이 들을까 봐 보우먼과 몰래 대화를 나눈다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "2001 스페이스 오디세이",
+      "source_type": "MOVIE",
+      "target_entity": "금지된 행성",
+      "target_type": "MOVIE",
+      "relationship_description": "스페이스 오디세이는 금지된 행성보다 더 큰 영상 충격을 보여준 SF 영화이다",
+      "relationship_strength": 6
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "2001 스페이스 오디세이",
+      "source_type": "MOVIE",
+      "target_entity": "스타워즈",
+      "target_type": "MOVIE",
+      "relationship_description": "스페이스 오디세이의 장대한 함선 구도가 스타워즈에 큰 영향을 미쳤다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "2001 스페이스 오디세이",
+      "source_type": "MOVIE",
+      "target_entity": "스타트렉",
+      "target_type": "MOVIE",
+      "relationship_description": "스페이스 오디세이의 장대한 함선 구도가 스타트렉에 큰 영향을 미쳤다",
+      "relationship_strength": 7
+    }
+  ],
+  "entity_resolution": {
+    "스탠리 큐브릭": {
+      "description": "스탠리 큐브릭 -> 스탠리 큐브릭",
+      "resolved_name": "스탠리 큐브릭",
+      "entity_type": "MOVIE_STAFF",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "2001 스페이스 오디세이": {
+      "description": "2001 스페이스 오디세이 -> 2001 스페이스 오디세이",
+      "resolved_name": "2001 스페이스 오디세이",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "금지된 행성": {
+      "description": "금지된 행성 -> 금지된 행성",
+      "resolved_name": "금지된 행성",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "할로윈": {
+      "description": "할로윈 -> 할로윈",
+      "resolved_name": "할로윈",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "스타워즈": {
+      "description": "스타워즈 -> 스타워즈",
+      "resolved_name": "스타워즈",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "스타트렉": {
+      "description": "스타트렉 -> 스타트렉",
+      "resolved_name": "스타트렉",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "HAL 9000": {
+      "description": "HAL 9000 -> HAL 9000 (목소리)",
+      "resolved_name": "HAL 9000 (목소리)",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "보우먼": {
+      "description": "보우먼 -> 데이비드 보우먼 박사",
+      "resolved_name": "데이비드 보우먼 박사",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "FRANK": {
+      "description": "FRANK -> Frank Wolff",
+      "resolved_name": "Frank Wolff",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    }
+  }
+}

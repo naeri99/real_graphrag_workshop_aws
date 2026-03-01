@@ -1,0 +1,111 @@
+{
+  "chunk_hash": "8d833ab7ed0e4c",
+  "chunk_id": "민호타우르스_8d833ab7ed0e4c_77f6a5ff",
+  "user_query": "자 이제 각종 커뮤니티 반응들을 보면 봐도 대체 무슨 얘기인지 모르겠다는 게 대부분인데요 이 영상 그런 분들을 위해 최대한 쉽게 테넷의 상황들을 풀어 본 영상입니다 과학적인 이론 해석의 부분은 이 영상에서 과감하게 생략했습니다 어차피 영화에서도 가장 설명이 필요한 부분은 그냥 미래의 기술이다 이걸로 퉁 쳤으니까요 괜히 영화에 나오는 이런 설명들을 타이트하면서 그러다가 정작 서사를 놓치신 분들이 많으실 겁니다 영화 예고편은 써도 비리 이해하지 말고 그냥 느껴라 라는 대사로 관람객을 줬죠 과학적인 내용 이해하지 못했다고 스스로 자책할 필요 없습니다 이해할 수 없으니까 그냥 느끼면서 봐야 하는 영화니까요 그냥 과학적 이론으로 언젠가 실제로 가능할 수도 있는 지금까지 세상에 나온 바른 시간여행 영화에서 소개된 적 없는 방식의 시간여행 방법을 보여주는 영화다 라고만 이해하시면 충분할 것 같습니다 그럼 바로 트레디아 기 시작해 보도록 하겠습니다 우크라이나의 오페라에서 주인공은 임무 중 완전히 처음 보는 형태의 어떤 무기를 적 집단에게서 지켜 냅니다 하지만 러시아 용병들에게 붙잡히고 고문을 당하게 된다 이때 주인공은 보안 유지를 위해 훈련받은 대로 CIA의 자결 중독 약을 먹는데요 하지만 어째서인지 주인공은 죽지 않고 살아납니다 테넷의 차 비밀 조직이 주인공을 살리고 새로운 임무를 부여한 것인데요 테넷은 앞으로 닥쳐올 3차 세계대전을 막기 위한 조직입니다 이 3차 세계대전은 이전 1, 2차 대전처럼 나라들끼리 나라들의 전쟁이 아니라 현재 시간대 세계와 미래 시간대 세계의 개 싸움 전쟁이었죠 단 지게 되면 현재 시간대 세계가 사라지는 몹시도 불리한 개 싸움이었습니다 미래 한 여성 과학자가 엔트로피를 반전시켜 시간을 역행할 수 있는 기술을 만들었고 이 기술로 한 세계 모든 엔트로피를 반대로 돌려 버리면 그 세계를 없애버릴 수 있다는 걸 알게 되었죠 이를 우려한 이 과학자는 그러한 세계의 엔트로피를 모조리 역전시킬 수 있는 절대 공식을 물체로 만들고 그것을 9개로 나누어 가장 안전한 곳에 보관해 누구도 찾을 수 없게 하려 한다 이 9개의 물체가 바로 알고리즘입니다 친해지는데 주인공이 핵무기를 만들 수 있는 플루토늄이라고 생각했던 이 사이의 일이 바로 이 알고리즘 중 하나였습니다 이 알고리즘을 만든 여자 과학자가 죽기 전 가장 안전하다고 생각한 곳은 바로 과거의 시간 그 중에서도 9개의 핵보유국이 가장 철저한 보안을 유지하며 지키는 핵무기 시설이 최적의 장소였습니다 초반도 계속해서 이 사이의 일이 무기라고 언급되고 주인공과 관객들이 이것이 플루토늄이라고 생각할 수밖에 없었던 건 바로 이런 배경 때문이었죠 이 알고리즘을 조합한 공식을 통해 과거를 없애 버리려 하는 미래 세력은 Sator를 통해 과거 시간대 세계를 없애 버리려 합니다 Sator는 자기가 가지지 못하면 남들도 절대 가질 수 없다는 식의 치사뽕 욕심쟁이 마인드의 소유자인데 췌장암 말기로 피할 수 없는 죽음을 앞둔 Sator는 내가 죽으면 이 세상도 같이 끝내 버릴 과거 시간대 세계를 아무런 미련",
+  "movie_id": "테넷",
+  "reviewer": "민호타우르스",
+  "chunk_index": 1,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "테넷",
+      "entity_type": "MOVIE",
+      "entity_description": "테넷은 크리스토퍼 놀란 감독의 영화로, 시간 역행 기술을 소재로 한 새로운 방식의 시간여행 영화이다. 현재 시간대 세계와 미래 시간대 세계의 전쟁인 3차 세계대전을 막는 내용을 다룬다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "주인공",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "테넷의 주인공으로, 우크라이나 오페라에서 임무 수행 중 특수 무기를 지켜내고, 러시아 용병들에게 붙잡혀 고문당한 후 자결 약을 먹지만 테넷 조직에 의해 살아나 새로운 임무를 부여받는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "SATOR",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "테넷의 악역으로, 자기가 가지지 못하면 남들도 가질 수 없다는 마인드의 소유자이다. 췌장암 말기로 죽음을 앞두고 있으며, 자신이 죽으면 세상도 같이 끝내버리려 한다. 미래 세력을 통해 과거 시간대 세계를 없애버리려 한다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "여성 과학자",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "미래의 과학자로, 엔트로피를 반전시켜 시간을 역행할 수 있는 기술을 개발했다. 이 기술의 위험성을 우려하여 절대 공식을 9개의 알고리즘으로 나누어 과거의 핵보유국 시설에 숨겼다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "주인공",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "테넷",
+      "target_type": "MOVIE",
+      "relationship_description": "주인공은 테넷 영화의 중심 인물로 3차 세계대전을 막기 위한 임무를 수행한다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "SATOR",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "테넷",
+      "target_type": "MOVIE",
+      "relationship_description": "Sator는 테넷 영화의 주요 악역이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "여성 과학자",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "테넷",
+      "target_type": "MOVIE",
+      "relationship_description": "여성 과학자는 테넷 영화에서 시간 역행 기술과 알고리즘을 만든 인물이다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "주인공",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "SATOR",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "주인공은 Sator의 세계 멸망 계획을 막기 위해 대립한다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "SATOR",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "여성 과학자",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Sator는 여성 과학자가 만든 알고리즘을 이용해 미래 세력과 함께 과거 세계를 없애려 한다",
+      "relationship_strength": 8
+    }
+  ],
+  "entity_resolution": {
+    "테넷": {
+      "description": "테넷 -> 테넷",
+      "resolved_name": "테넷",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "주인공": {
+      "description": "주인공 -> 레인",
+      "resolved_name": "레인",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "SATOR": {
+      "description": "SATOR -> Andrei Sator",
+      "resolved_name": "Andrei Sator",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "여성 과학자": {
+      "description": "여성 과학자 -> 여성 과학자",
+      "resolved_name": "여성 과학자",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

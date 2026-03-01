@@ -1,0 +1,24 @@
+{
+  "entity": {
+    "name": "브루스 맥길",
+    "synonym": [
+      "Batman",
+      "Bruce McGill",
+      "Bruce Wayne",
+      "McGill",
+      "다크나이트",
+      "맥길",
+      "배트맨",
+      "부르스 맥길",
+      "브루스",
+      "브루스 맥길",
+      "브루스맥길",
+      "브루스웨인",
+      "웨인"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "브루스 맥길은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

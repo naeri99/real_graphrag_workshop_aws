@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "인셉션",
+    "synonym": [
+      "Inception",
+      "Inception 2010",
+      "인샙션",
+      "인셉션",
+      "인셉션 영화",
+      "인셉션(2010",
+      "인셉숀",
+      "인셉쳔",
+      "인쎕션"
+    ],
+    "entity_type": "MOVIE",
+    "summary": "인셉션",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

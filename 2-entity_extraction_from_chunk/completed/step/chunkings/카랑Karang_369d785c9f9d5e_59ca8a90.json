@@ -1,0 +1,124 @@
+{
+  "chunk_hash": "369d785c9f9d5e",
+  "chunk_id": "카랑Karang_369d785c9f9d5e_59ca8a90",
+  "user_query": "income thank you hi I'm Bernard Garrett I'd like to speak with Mr. Reed please I'm sorry Mr. Reed is I may take a message I have pretty good eyesight and I can clearly read the nameplate on his desk Mr. Reed can't meet with you right now Mr. Reed do I know you uh no but you know Mr. Barker I like a loan to buy one of his buildings keep looking you're going to find yourself another building do you use my name to try and get a loan from Mr. Reed at Mid-City Bank yes and do you think that follows normal business customs if I was following normal business customs I'd still be a shoe shine boy in Texas sir Reed wants to see you at the bank in the morning to sign off on that loan I told him I'd act as guarantor because normal business customs are in place to screw people like you Mr. Garrett you went to see Reed knowing the deck was stacked because you have that much confidence in this deal that tells me all I need to know about you two minutes um I'm not your wife what do you want from me man look I like seeing black men succeed sometimes they even invest some of my own money to back well if you can't finish the work or rent the units I'll make the debt what are you doing here just doing some renovations on the empty apartment and you can tell that Mick that owns this place when he goes jacking the rent he ain't jacking mine yes ma'am Mr. Barker was very clear about your lease when he sold me the building don't you sass me boy this is a white building you can't own this place I",
+  "movie_id": "뱅크어택",
+  "reviewer": "카랑Karang",
+  "chunk_index": 3,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "BERNARD GARRETT",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "버나드 개럿은 텍사스 출신으로 구두닦이 소년에서 성장하여 부동산 대출을 받으려는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "MR. REED",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "리드 씨는 미드시티 은행에서 일하는 인물로 대출 업무를 담당한다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "MR. BARKER",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "바커 씨는 건물을 소유하고 있으며 버나드 개럿의 대출에 보증인 역할을 하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "MID-CITY BANK",
+      "entity_type": "MOVIE",
+      "entity_description": "미드시티 은행은 버나드 개럿이 대출을 받으려고 방문한 은행이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "THE BANKER",
+      "entity_type": "MOVIE",
+      "entity_description": "이 텍스트는 인종 차별이 존재하던 시대에 흑인 사업가가 부동산 사업을 하려는 내용을 다룬 영화로 보인다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "BERNARD GARRETT",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "MR. REED",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "버나드 개럿은 리드 씨에게 대출을 받으려고 했다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "BERNARD GARRETT",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "MR. BARKER",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "버나드 개럿은 바커 씨의 이름을 사용하여 대출을 받으려 했고 바커 씨는 그의 보증인이 되었다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "MR. BARKER",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "BERNARD GARRETT",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "바커 씨는 흑인 사업가의 성공을 돕고 싶어하며 버나드 개럿의 대출 보증인 역할을 한다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "MR. REED",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "MID-CITY BANK",
+      "target_type": "MOVIE",
+      "relationship_description": "리드 씨는 미드시티 은행에서 근무한다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "BERNARD GARRETT",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "THE BANKER",
+      "target_type": "MOVIE",
+      "relationship_description": "버나드 개럿은 이 영화의 주인공으로 보인다",
+      "relationship_strength": 10
+    }
+  ],
+  "entity_resolution": {
+    "BERNARD GARRETT": {
+      "description": "BERNARD GARRETT -> BERNARD GARRETT",
+      "resolved_name": "BERNARD GARRETT",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "MR. REED": {
+      "description": "MR. REED -> MR. REED",
+      "resolved_name": "MR. REED",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "MR. BARKER": {
+      "description": "MR. BARKER -> MR. BARKER",
+      "resolved_name": "MR. BARKER",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "MID-CITY BANK": {
+      "description": "MID-CITY BANK -> MID-CITY BANK",
+      "resolved_name": "MID-CITY BANK",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "THE BANKER": {
+      "description": "THE BANKER -> THE BANKER",
+      "resolved_name": "THE BANKER",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

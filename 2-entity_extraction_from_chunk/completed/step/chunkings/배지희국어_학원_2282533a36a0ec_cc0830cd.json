@@ -1,0 +1,80 @@
+{
+  "chunk_hash": "2282533a36a0ec",
+  "chunk_id": "배지희국어_학원_2282533a36a0ec_cc0830cd",
+  "user_query": "하지만 송씨가 결국은 약간 환상처럼 어 만석이라고 하는 분이 오토바이 타고 자기한테 와요 김만석이라고 하는 거에요 그래서 그 같이 오토바이 타고 찾아 떠나는 그런 이야기로 마무리가 되는 그래서 아까 이게 자 삶의 희망을 주는 그런 작품은 봤습니다만 중간중간 삶의 애환이 들어가 있죠 그걸 우리한테 보여주고 싶은 거거든요 작품에서 가장 품에서 가지 뭔 해서 보여주고 싶은 애환은 그러니까 소외된 삶의 현실이 어 특히 경제적으로 궁핍하고 소외된 삶의 현실 제가 그 부분이 보일 거예요 자 있겠습니다 이제 그 분이 어디냐면 이제 동사무소로 데려가자 나 그래서 왜 나오는 어르신 같은 거 노인한테 대추는 거나 노인한테 주는 그거 있냐 라고 했더니 어 있다 있다 라고 얘기를 해서 그 부분이 어디냐면 149페이지 잠깐만 봐주세요 거기에서 이 내려서 8 10줄 정도 올라가며 그 연아가 이제 동사무소에서 일하는 사람이 이제 만석이라고 하는 노인을 잘 알아 가지고 얘기해 주는데 얼마냐고 하니까 하심 lsc 뭐 많은 돈 좀 물어서 얘기를 했더니 그건 누구의 붙여 보일러 기름 값도 안 되는 걸 했더니만 송씨에 대사 보이십니까 잠깐 쭉 보세요 그만한 돈을 준다고요 정말 보일러 값도 안 될 수 있겠죠 적은 돈 이거든 근데 그걸 정말 그만한 돈을 준다고요 얘다 부족 계셨습니까 라고 생각을 한다는 거 그것도 많게 느껴진다는 거죠 그것 또한 많게 느껴진다는 것 그만큼 경제적으로 궁핍한 삶을 살고 있구나 그런 노인의 모습이구나를 우리한테 보여주는 거고요 그렇지만 굉장히 감사합니다 감사합니다 이런 게 이제 사람들이 이제 같이 감동 먹어 가지고 빨리 더 빨리 에 어디에서 해 주자나 서로가 좀 넘어갑니다 서로가 짱을 넘길 게요 그랬더니 위에서부터 둘째 6줄을 보시면 송씨가 이제 주민등록증을 보여 주세요 서를 만들어 주려고 한 거지 주민등록증 좀 보여주세요 라고 했더니 그게 없는데 라고 얘기를 하신다는 거 주민등록증조차 만들고 살지 못했던 소외된 삶의 모습을 보여주는 거죠 거기다 밑줄을 긋습니다 우선 주민번호이 없다는 거 크 거쳐 만들지 못하고 살았던 그런 소외된 삶의 현실을 보여주는 겁니다 그래서 열심히 이제 주권을 만들어 줘야 하지만 그가 예 그 증을 만들어 뭐다 했지만 등본을 만들려 했지만 이름이 딱히 이제 옛날 사람들 특히나 여성들은 남존여비의 사상 때문에 그리고 남아선호 사상 뭐 남존여비까지는 너무 멀어요 근데 남아선호 사상도 개입했으니까 일단 집안에도 어릴 때 할머니 할아버지들이 어렸을 때 그러다 보니 여자 아이한테는 이름을 딱히 지어 주시려고 것을 막 하게 심각하게 불러주지 않다 보니까 혹은 으로 불려졌던 거죠 쉽게 얘기하면 이름 없이 살 수밖에 없었던 설사 있었다 할지라도 불려지지 않으니까 잊혀진 거지 그래서 송씨로만 살아왔던 그런 삶의 모습 이러한 어려운 사람들의 모습을 보여주고자 합니다 그러니까 거기에 그냥 송 크게 라고 얘기하고 있는 부분이 그거에요 그래서 이름 없었던 사람 그랬더니 만석이가 만석 얘가 자꾸 이렇게 이름 뭐 이거 미안하다 뭐 이런 게 찌가 에",
+  "movie_id": "그대를사랑합니다",
+  "reviewer": "배지희국어_학원",
+  "chunk_index": 3,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "송씨",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "송씨는 경제적으로 궁핍하고 소외된 삶을 살아온 노인 여성으로, 주민등록증도 없이 살아왔으며 이름조차 제대로 불려지지 않고 성씨로만 불렸던 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "김만석",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "김만석은 오토바이를 타고 송씨를 찾아오는 노인 남성으로, 송씨와 함께 오토바이를 타고 떠나는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "연아",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "연아는 동사무소에서 일하는 사람으로 만석 노인을 잘 알고 있어 송씨에게 정보를 알려주는 인물이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "송씨",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "김만석",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "김만석이 오토바이를 타고 송씨를 찾아오며, 둘이 함께 오토바이를 타고 떠난다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "연아",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "김만석",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "연아는 동사무소 직원으로 만석 노인을 잘 알고 있다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "연아",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "송씨",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "연아가 송씨에게 노인 복지 관련 정보를 알려주고 주민등록증 발급을 도와주려 한다",
+      "relationship_strength": 8
+    }
+  ],
+  "entity_resolution": {
+    "송씨": {
+      "description": "송씨 -> 송이뿐",
+      "resolved_name": "송이뿐",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "김만석": {
+      "description": "김만석 -> 김만석",
+      "resolved_name": "김만석",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "연아": {
+      "description": "연아 -> 연아",
+      "resolved_name": "연아",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

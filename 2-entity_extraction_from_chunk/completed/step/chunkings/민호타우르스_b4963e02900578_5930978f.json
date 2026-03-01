@@ -1,0 +1,164 @@
+{
+  "chunk_hash": "b4963e02900578",
+  "chunk_id": "민호타우르스_b4963e02900578_5930978f",
+  "user_query": "흐름을 향유하는 2명의 한 사람이기 때문에 두 사람은 각각 반대로 시간이 흐르는 것과 같이 움직이는 상대와 싸우게 된 것입니다 이때 미래의 주인공은 과거의 주인공을 따돌리기 위해 회전 문 안으로 들어가고 시간이 역전되어 반대쪽 미리 있는 문으로 나와 도망친다 그런데 이때 주인공인 Neil과 함께 이 문에 처음 왔을 때 시점에 두 문이 동시에 열리면서 두 사람이 동시에 튀어나오기 때문에 굉장히 헷갈립니다 이 문은 들어가면 반대쪽 문으로 나오게 되면서 그 문을 통과한 사람의 현재 시간이 거꾸로 가게 되는데 그러면 당연히 한쪽에서 들어가면 다른 한쪽에서는 나와야 하는 것 맞습니다 그래서 여기 이 회전 문에서는 같은 사람이 동시에 튀어나오죠 언뜻 잘 이해가 되지 않습니다 이후 에스토니아 도로 추격전 직후 나오는 창고의 Sator 회전문에서도 한쪽에서 들어가면 동시에 반대쪽에서도 나오고 있는 것이 보였던 것과는 전혀 다릅니다 놀란 감독이 실수한 부분일까요 아닙니다 이건 잘 생각해보면 강연 에스토니아의 Sator 회전문과 오슬로 프리포트 회전 문에서 이 상황은 다를 수밖에 없습니다 그건 바로 미래에서 온 주인공이 과거의 주인공과 싸우다가 회전 문에 들어간 그 상황 자체가 이미 인버전 되어 시간이 반대로 흐르고 있는 상황이었기 때문이죠 인버전 된 상태로 회전 문에 들어가 반대쪽 미리 있는 문 쪽으로 나오는 순간을 원래의 시간 흐름대로 본다면 당연히 2명의 같은 사람이 동시에 튀어나온 것처럼 보일 수밖에 없습니다 미래 인버전 된 주인공이 거꾸로 흘러가는 시간 속에서 회전 문으로 들어가는 순간은 원래 시간 흐름에서 볼 땐 문을 열고 나오는 것처럼 보일 수밖에 없고 그렇게 거꾸로 인버전 된 시간에서 회전문으로 들어가 반대 회전 문으로 나온 주인공은 원래 시간 흐름을 향유할 수 있게 되면서 구해지게 된 것이니까요 이때 주인공은 추격하는 Neil에게 정체를 발각당하게 되지만 사실 많은 것을 알고 있던 Neil은 주인공에게 그 무엇도 묻지 않고 그대로 놓아 준다 현재 시간에서 예상했던 플루토늄 대신 이상한 회전문을 발견한 주인공은 Sator에게 접근하여 그에게 그가 오페라 하우스에서 얻지 못한 241을 훔쳐 주겠다고 약속한다 당연히 넘겨줄 생각은 없었고 이를 통해 그의 계획을 알아내어 막을 요량이었지만 Kat을 인질로 잡은 Sator에게 오히려 주인공 붙잡히게 되고 훔친 241 위치를 추궁 당하게 되죠 이때 Sator는 Kat의 복부를 총으로 한 방 쏘고 또 이어서 다음엔 머리를 쏘겠다 협박하는데 Kat의 복부를 총으로 쏜 자국은 있지만 머리를 쏜다고 해 놓고 머리를 쏜 자국이 없는 것을 본 주인공은 끝까지 241이 있는 곳을 거짓으로 알려줍니다 Sator는 이 주인공의 대답을 듣고 인버전 된 시간 속에서 이 사이의 일을 찾으러 향하고 그리고 주인공 또한 이 사이의 일을 챙기러 가는 Sator를 막기 위해 자신도 인버전을 한 채로 차를 타고 뒤쫓는데 좀 전의 시간에서 빈 케이스를 Sator에게 넘겨주었던 상황 중 목격했던 거꾸로 달리는 의문의 미래 차가 바로",
+  "movie_id": "테넷",
+  "reviewer": "민호타우르스",
+  "chunk_index": 3,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "테넷",
+      "entity_type": "MOVIE",
+      "entity_description": "테넷은 시간 역전(인버전)과 회전문을 통한 시간 이동을 다루는 크리스토퍼 놀란 감독의 SF 영화이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "주인공",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "주인공은 테넷의 중심 인물로, 인버전을 통해 시간을 거슬러 이동하며 Sator의 계획을 막으려 한다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "NEIL",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Neil은 주인공과 함께 행동하는 인물로, 많은 것을 알고 있으면서도 주인공에게 묻지 않고 놓아주는 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "SATOR",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Sator는 악당으로, 회전문을 소유하고 있으며 241을 얻으려 하고 Kat을 인질로 잡아 주인공을 협박한다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "KAT",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Kat은 Sator에게 인질로 잡힌 인물로, 복부에 총을 맞는다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "놀란 감독",
+      "entity_type": "MOVIE_STAFF",
+      "entity_description": "놀란 감독은 테넷의 감독으로, 복잡한 시간 역전 개념을 영화에 구현했다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "주인공",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "테넷",
+      "target_type": "MOVIE",
+      "relationship_description": "주인공은 테넷의 중심 인물이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "NEIL",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "테넷",
+      "target_type": "MOVIE",
+      "relationship_description": "Neil은 테넷에 등장하는 주요 캐릭터이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "SATOR",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "테넷",
+      "target_type": "MOVIE",
+      "relationship_description": "Sator는 테넷의 악당 캐릭터이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "KAT",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "테넷",
+      "target_type": "MOVIE",
+      "relationship_description": "Kat은 테넷에 등장하는 인물이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "주인공",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "NEIL",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "주인공과 Neil은 함께 행동하며, Neil은 주인공의 정체를 알면서도 놓아준다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "주인공",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "SATOR",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "주인공은 Sator에게 접근하여 241을 훔쳐주겠다고 약속하지만 실제로는 그의 계획을 막으려 한다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "SATOR",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "KAT",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Sator는 Kat을 인질로 잡고 복부에 총을 쏘며 주인공을 협박한다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "놀란 감독",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "테넷",
+      "target_type": "MOVIE",
+      "relationship_description": "놀란 감독은 테넷을 연출했다",
+      "relationship_strength": 10
+    }
+  ],
+  "entity_resolution": {
+    "테넷": {
+      "description": "테넷 -> 테넷",
+      "resolved_name": "테넷",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "주인공": {
+      "description": "주인공 -> 레인",
+      "resolved_name": "레인",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "NEIL": {
+      "description": "NEIL -> Neil",
+      "resolved_name": "Neil",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "SATOR": {
+      "description": "SATOR -> Andrei Sator",
+      "resolved_name": "Andrei Sator",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "KAT": {
+      "description": "KAT -> Kat",
+      "resolved_name": "Kat",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "놀란 감독": {
+      "description": "놀란 감독 -> 클린트 이스트우드",
+      "resolved_name": "클린트 이스트우드",
+      "entity_type": "MOVIE_STAFF",
+      "matched": true,
+      "match_type": "synonym_exact"
+    }
+  }
+}

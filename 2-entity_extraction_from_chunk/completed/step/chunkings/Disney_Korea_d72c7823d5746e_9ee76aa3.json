@@ -1,0 +1,80 @@
+{
+  "chunk_hash": "d72c7823d5746e",
+  "chunk_id": "Disney_Korea_d72c7823d5746e_9ee76aa3",
+  "user_query": "Ladies and gentlemen, boys and girls, and children of all ages, we are one month away from the adventure of a lifetime, the epic summer movie going event known as Jungle Cruise. You guys are excited? We are so excited. The timing of this movie getting released couldn't be better as we are all trying to get on the other side of COVID and everyone is going back to the movie theaters. It's an exciting time. So ladies and gentlemen, I give you the newest, the greatest, and the latest trailer for Jungle Cruise with myself and my co-star, what's her name? Essa? Every? What is it? Actually, I know what it is. It's rhetorical. Hey, ladies and gentlemen, enjoy Jungle Cruise trailer with myself and Ethel Brunt. In theaters around the world in one month. Enjoy.",
+  "movie_id": "정글크루즈",
+  "reviewer": "Disney_Korea",
+  "chunk_index": 1,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "JUNGLE CRUISE",
+      "entity_type": "MOVIE",
+      "entity_description": "Jungle Cruise는 2021년 여름에 개봉하는 모험 영화로, 에픽한 여름 영화 이벤트로 소개되고 있다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "DWAYNE JOHNSON",
+      "entity_type": "ACTOR",
+      "entity_description": "Dwayne Johnson은 Jungle Cruise의 주연 배우로, 트레일러를 직접 소개하고 있다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "EMILY BLUNT",
+      "entity_type": "ACTOR",
+      "entity_description": "Emily Blunt는 Jungle Cruise에서 Dwayne Johnson의 공동 주연 배우이다. 영상에서 Ethel Brunt로 장난스럽게 언급되었다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "DWAYNE JOHNSON",
+      "source_type": "ACTOR",
+      "target_entity": "JUNGLE CRUISE",
+      "target_type": "MOVIE",
+      "relationship_description": "Dwayne Johnson은 Jungle Cruise에 출연하며 영화를 홍보하고 있다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "EMILY BLUNT",
+      "source_type": "ACTOR",
+      "target_entity": "JUNGLE CRUISE",
+      "target_type": "MOVIE",
+      "relationship_description": "Emily Blunt는 Jungle Cruise의 공동 주연 배우이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "DWAYNE JOHNSON",
+      "source_type": "ACTOR",
+      "target_entity": "EMILY BLUNT",
+      "target_type": "ACTOR",
+      "relationship_description": "Dwayne Johnson과 Emily Blunt는 Jungle Cruise에서 공동 주연을 맡았다",
+      "relationship_strength": 9
+    }
+  ],
+  "entity_resolution": {
+    "JUNGLE CRUISE": {
+      "description": "JUNGLE CRUISE -> JUNGLE CRUISE",
+      "resolved_name": "JUNGLE CRUISE",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "DWAYNE JOHNSON": {
+      "description": "DWAYNE JOHNSON -> DWAYNE JOHNSON",
+      "resolved_name": "DWAYNE JOHNSON",
+      "entity_type": "ACTOR",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "EMILY BLUNT": {
+      "description": "EMILY BLUNT -> EMILY BLUNT",
+      "resolved_name": "EMILY BLUNT",
+      "entity_type": "ACTOR",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

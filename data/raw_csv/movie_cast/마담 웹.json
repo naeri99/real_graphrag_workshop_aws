@@ -1,0 +1,70 @@
+{
+  "movie_title": "마담 웹",
+  "director": [
+    {
+      "name": "S.J. 클락슨",
+      "name_en": "S.J. Clarkson"
+    }
+  ],
+  "cast": [
+    {
+      "actor": "다코타 존슨",
+      "actor_en": "Dakota Johnson",
+      "character": "캐시 웹 / 마담 웹"
+    },
+    {
+      "actor": "시드니 스위니",
+      "actor_en": "Sydney Sweeney",
+      "character": "줄리아 카펜터"
+    },
+    {
+      "actor": "셀레스트 오코너",
+      "actor_en": "Celeste O'Connor",
+      "character": "매티 프랭클린"
+    },
+    {
+      "actor": "이사벨라 메르세드",
+      "actor_en": "Isabela Merced",
+      "character": "아냐 코라존"
+    },
+    {
+      "actor": "타하르 라힘",
+      "actor_en": "Tahar Rahim",
+      "character": "에제키엘 심스"
+    },
+    {
+      "actor": "엠마 로버츠",
+      "actor_en": "Emma Roberts",
+      "character": "메리 파커"
+    },
+    {
+      "actor": "애덤 스콧",
+      "actor_en": "Adam Scott",
+      "character": "벤 파커"
+    },
+    {
+      "actor": "케리 비셰",
+      "actor_en": "Kerry Bishé",
+      "character": "콘스탄스"
+    },
+    {
+      "actor": "조시아 마멧",
+      "actor_en": "Zosia Mamet",
+      "character": "아마리아"
+    },
+    {
+      "actor": "호세 마리아 야스피크",
+      "actor_en": "José María Yázpik",
+      "character": "산티아고"
+    }
+  ],
+  "review": [
+    "./data/review/마담 웹/마담 웹_-bDKB5TKHyA.json",
+    "./data/review/마담 웹/마담 웹_4C1u6DbWr3w.json",
+    "./data/review/마담 웹/마담 웹_5sBWM014dUo.json",
+    "./data/review/마담 웹/마담 웹_CrYnU-Q8IyA.json",
+    "./data/review/마담 웹/마담 웹_EgayPlC7EAs.json",
+    "./data/review/마담 웹/마담 웹_PQNaAuzKB3A.json",
+    "./data/review/마담 웹/마담 웹_dL3Aenht34g.json"
+  ]
+}

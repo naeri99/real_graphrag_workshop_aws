@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "박남일",
+    "synonym": [
+      "Nam-il",
+      "Namil",
+      "Park Nam-il",
+      "남일",
+      "남일씨",
+      "남일이",
+      "박 남일",
+      "박남 일",
+      "박남일",
+      "박남일 캐릭터",
+      "삼촌"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "박남일은 영화 '괴물'의 등장인물로, 박해일이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

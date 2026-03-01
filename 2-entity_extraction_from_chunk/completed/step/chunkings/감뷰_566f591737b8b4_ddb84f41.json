@@ -1,0 +1,62 @@
+{
+  "chunk_hash": "566f591737b8b4",
+  "chunk_id": "감뷰_566f591737b8b4_ddb84f41",
+  "user_query": "I'm sorry, but I cannot complete this task. The transcript provided is in English and discusses Martin Scorsese's film \"Taxi Driver\" (1976), while the movie information indicates a 2025 Korean adult film titled \"여자 택시운전사 : 몸으로 하는 최고 서비스\" (Female Taxi Driver: The Best Physical Service).\n\nThese are completely different films. The transcript does not match the movie information provided, so I cannot perform the requested correction work.",
+  "movie_id": "택시운전사",
+  "reviewer": "감뷰",
+  "chunk_index": 1,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "TAXI DRIVER",
+      "entity_type": "MOVIE",
+      "entity_description": "Taxi Driver는 1976년 마틴 스콜세지 감독의 영화이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "MARTIN SCORSESE",
+      "entity_type": "MOVIE_STAFF",
+      "entity_description": "Martin Scorsese는 1976년 영화 Taxi Driver의 감독이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "여자 택시운전사 : 몸으로 하는 최고 서비스",
+      "entity_type": "MOVIE",
+      "entity_description": "여자 택시운전사 : 몸으로 하는 최고 서비스는 2025년 한국 성인 영화이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "MARTIN SCORSESE",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "TAXI DRIVER",
+      "target_type": "MOVIE",
+      "relationship_description": "Martin Scorsese는 Taxi Driver를 감독했다",
+      "relationship_strength": 10
+    }
+  ],
+  "entity_resolution": {
+    "TAXI DRIVER": {
+      "description": "TAXI DRIVER -> TAXI DRIVER",
+      "resolved_name": "TAXI DRIVER",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "MARTIN SCORSESE": {
+      "description": "MARTIN SCORSESE -> MARTIN SCORSESE",
+      "resolved_name": "MARTIN SCORSESE",
+      "entity_type": "MOVIE_STAFF",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "여자 택시운전사 : 몸으로 하는 최고 서비스": {
+      "description": "여자 택시운전사 : 몸으로 하는 최고 서비스 -> 여자 택시운전사 : 몸으로 하는 최고 서비스",
+      "resolved_name": "여자 택시운전사 : 몸으로 하는 최고 서비스",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

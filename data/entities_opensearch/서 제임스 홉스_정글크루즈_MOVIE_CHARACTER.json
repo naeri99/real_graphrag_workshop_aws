@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "서 제임스 홉스",
+    "synonym": [
+      "James Hobbs",
+      "Sir James Hobbs",
+      "서 제임스 홉스",
+      "서제임스홉스",
+      "제임스",
+      "제임스 홉스",
+      "제임스경",
+      "제임스홉스",
+      "홉스"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "서 제임스 홉스은 영화 '정글크루즈'의 등장인물로, 앤디 나이먼이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

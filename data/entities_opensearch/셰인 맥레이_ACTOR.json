@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "셰인 맥레이",
+    "synonym": [
+      "McRae",
+      "Shane McRae",
+      "맥레이",
+      "셰인",
+      "셰인 맥레이",
+      "셰인맥레이",
+      "쉐인 맥레이",
+      "쉐인맥레이"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "셰인 맥레이은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

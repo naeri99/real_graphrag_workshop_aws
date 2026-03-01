@@ -1,0 +1,24 @@
+{
+  "entity": {
+    "name": "미드소마",
+    "synonym": [
+      "Midsommar",
+      "Midsommer",
+      "Midsummer",
+      "midsummer",
+      "미드 소마",
+      "미드서머",
+      "미드소마",
+      "미드소머",
+      "미드솜마",
+      "미드써머",
+      "미드썸머",
+      "미드쏘마",
+      "한여름"
+    ],
+    "entity_type": "MOVIE",
+    "summary": "미드소마",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

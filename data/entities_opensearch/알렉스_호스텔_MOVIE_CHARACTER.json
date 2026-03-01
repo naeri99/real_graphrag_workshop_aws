@@ -1,0 +1,17 @@
+{
+  "entity": {
+    "name": "알렉스",
+    "synonym": [
+      "Alex",
+      "알렉",
+      "알렉산더",
+      "알렉스",
+      "알렉시",
+      "알렉쓰"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "알렉스은 영화 '호스텔'의 등장인물로, 루보미르 부코비이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

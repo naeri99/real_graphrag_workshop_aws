@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "앨런 튜딕",
+    "synonym": [
+      "Alan Tudyk",
+      "알란 튜딕",
+      "알란튜딕",
+      "앨런",
+      "앨런 투딕",
+      "앨런 튜딕",
+      "앨런튜딕",
+      "튜딕"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "앨런 튜딕은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

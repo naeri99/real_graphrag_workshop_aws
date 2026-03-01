@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "스케어크로우",
+    "synonym": [
+      "Jonathan Crane",
+      "Scarecrow",
+      "공포박사",
+      "스캐어크로우",
+      "스케어 크로우",
+      "스케어크로",
+      "스케어크로우",
+      "조나단 크레인",
+      "허수아비"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "스케어크로우은 영화 '다크나이트'의 등장인물로, 킬리언 머피이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

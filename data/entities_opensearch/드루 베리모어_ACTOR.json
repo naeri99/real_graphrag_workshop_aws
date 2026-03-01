@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "드루 베리모어",
+    "synonym": [
+      "Barrymore",
+      "Drew Barry Moore",
+      "Drew Barrymore",
+      "드루 배리모어",
+      "드루 베리모어",
+      "드루베리모어",
+      "드류 배리모어",
+      "드류 베리모어",
+      "드류배리모어",
+      "베리모어"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "드루 베리모어은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

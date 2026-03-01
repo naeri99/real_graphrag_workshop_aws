@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "매들린 캐롤",
+    "synonym": [
+      "Madeline Carroll",
+      "마들린 캐롤",
+      "마들린캐롤",
+      "매들린 캐럴",
+      "매들린 캐롤",
+      "매들린캐럴",
+      "매들린캐롤",
+      "매들린케롤",
+      "메들린 캐롤",
+      "캐롤"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "매들린 캐롤은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

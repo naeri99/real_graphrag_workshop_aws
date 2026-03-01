@@ -1,0 +1,203 @@
+{
+  "chunk_hash": "9a0bc211cde872",
+  "chunk_id": "요런시점_movie_9a0bc211cde872_080f1368",
+  "user_query": "끔찍한 장면이었는데요 이 장면이 삭제되면서\n제임스 카메론 감독이 2편에서 알을 낳는 퀸이란\n설정을 만들어 넣었고 그것이 기본처럼\n정착되어 버렸습니다 어쨌든 퀸이 아닌 제노모프도\n숙주만 있으면 알을 생산할 수 있다 그것이 오피셜이라고\n알고 계시면 됩니다 로물루스 호에서 일하던\n합성인간 룩은 1편에 나왔던 애쉬와\n똑같은 외모를 하고 있습니다 애쉬는\n인간 과학 장교로 위장하고서 승무원들을 해치고\n제노모프를 확보하려고 했었죠 이 기종의 정식명칭은\nHyperdyne Systems 120-A/2 여기서 제조사인\n하이퍼다인이라는 이름은 2편에서\n제임스 카메론 감독이 붙인 이름으로 자신의 영화 터미네이터에 나오는\n로봇 제조사 \"사이버다인\"의 이름을\n그대로 쓸까 하다가 살짝 바꾸었다고 합니다 1편의 과학장교에 이어 이번 A2도 과학선에\n탑승하고 있는 것을 보면 웨일랜드 유타니의\n과학연구 관련 미션에 주로 투입되는\n기종인 것 같습니다 룩도 1편의 애쉬처럼 제노모프가 완벽한 구조의\n유기생명체임을 강조하고 있으며 다음의 명대사도\n똑같이 반복하고 있죠 로물루스 호가 머물며\n실험을 하고 있던 곳은 주인공들이 살고 있던\n잭슨의 별이라는 행성으로 태양계로부터\n65광년 떨어진 곳입니다 태양계에서 39광년 떨어져 있었던\nLV 223과 LV426보다 훨씬 멀리 떨어진\n외진 행성인데요 로물루스 호가\n이곳에 자리잡은 이유는 아마도 실험에 필요한\n인간 숙주를 쉽게 구할 수 있기\n때문이 아닐까 싶습니다 외진 행성으로\n인권의 사각지대에 있기 때문에 불법을 자행하기\n쉽지 않았을까 싶은데요 잭슨의 사람들은\n태양도 뜨지 않는 황폐한 행성에서 웨일랜드 유타니의\n지맘대로 노예계약에 묶여 비참하게 살고 있습니다 동면 포드가 없으면\n성간 여행을 할 수가 없기 때문에 이들은 이 행성을\n맘대로 떠나지 못하고 있죠 웨일랜드 유타니는\n행성 개척에 가장 중요한 설비인 대기 처리 설비를 생산하는\n회사이기 때문에 개척지 사람들에게\n절대적인 권력을 행사하고 있습니다 2편의 \"해들리의 희망\"에 있었던 같은\n거대한 대기 처리 설비의 모습을 이번 잭슨에서도\n볼 수 있었습니다 에이리언 시리즈는\n전통적으로 우주선 이름을 조셉 콘래드의 소설에서\n따오는 경우가 많았습니다 제국주의 시대 영국 작가였던\n조셉 콘래드는 그의 대표작인 \"암흑의 핵심\"도 그렇고\n\"노스트로모\"도 그렇고 식민지 사업에 눈이 멀어\n미치거나 타락하는 그런 인간상을\n자주 묘사했는데요 웨일랜드 유타니의\n악행을 암시하기에 적절한 작가라 할 수 있겠죠 1편에 나온\n노스트로모 호는 동명의 소설\n\"노스트로모\"에서 따온 것으로 은광 자원을 운반하는 이야기라는 점에서\n화물선의 이름에 잘 어울립니다 또한 셔틀 나르시서스 호는 조셉 콘래드의 \"바다의 아이들\"이라는\n중편에 나온 배의 이름이죠 2편에 나온 병력 수송선\n술라코 호는 노스트로모 소설의 주요 무대인\n은광이 위치한 도시 이름이고 3편에서 마이클 비숍이\n마지막에 타고오는 파트나 호도 조셉 콘래드의 소설\n\"로드 짐\"에 나오는 배입니다 이번 로물루스에서",
+  "movie_id": "에이리언 로물",
+  "reviewer": "요런시점_movie",
+  "chunk_index": 4,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "제임스 카메론",
+      "entity_type": "MOVIE_STAFF",
+      "entity_description": "제임스 카메론은 에이리언 2편의 감독으로, 퀸 설정을 만들어 넣었고 하이퍼다인이라는 제조사 이름을 붙인 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "에이리언",
+      "entity_type": "MOVIE",
+      "entity_description": "에이리언은 제노모프라는 외계 생명체가 등장하는 SF 호러 영화 시리즈이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "에이리언 2",
+      "entity_type": "MOVIE",
+      "entity_description": "에이리언 2는 제임스 카메론 감독이 연출한 시리즈 2편으로, 퀸 설정이 처음 등장한 작품이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "에이리언: 로물루스",
+      "entity_type": "MOVIE",
+      "entity_description": "에이리언: 로물루스는 에이리언 시리즈의 작품으로, 로물루스 호에서 벌어지는 이야기를 다룬다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "터미네이터",
+      "entity_type": "MOVIE",
+      "entity_description": "터미네이터는 제임스 카메론 감독의 영화로, 사이버다인이라는 로봇 제조사가 등장한다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "룩",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "룩은 로물루스 호에서 일하던 합성인간으로, 1편의 애쉬와 똑같은 외모를 하고 있다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "애쉬",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "애쉬는 에이리언 1편에 나온 합성인간으로, 인간 과학 장교로 위장하고 승무원들을 해치며 제노모프를 확보하려 했다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "마이클 비숍",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "마이클 비숍은 에이리언 3편에서 파트나 호를 타고 마지막에 등장하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "조셉 콘래드",
+      "entity_type": "MOVIE_STAFF",
+      "entity_description": "조셉 콘래드는 제국주의 시대 영국 작가로, 에이리언 시리즈의 우주선 이름들이 그의 소설에서 따온 경우가 많다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "제임스 카메론",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "에이리언 2",
+      "target_type": "MOVIE",
+      "relationship_description": "제임스 카메론은 에이리언 2편을 감독했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "제임스 카메론",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "터미네이터",
+      "target_type": "MOVIE",
+      "relationship_description": "제임스 카메론은 터미네이터를 감독했으며, 사이버다인이라는 이름을 만들었다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "룩",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "에이리언: 로물루스",
+      "target_type": "MOVIE",
+      "relationship_description": "룩은 에이리언: 로물루스에 등장하는 합성인간 캐릭터이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "애쉬",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "에이리언",
+      "target_type": "MOVIE",
+      "relationship_description": "애쉬는 에이리언 1편에 등장하는 합성인간 캐릭터이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "룩",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "애쉬",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "룩은 애쉬와 똑같은 외모를 가진 같은 기종의 합성인간이다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "마이클 비숍",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "에이리언",
+      "target_type": "MOVIE",
+      "relationship_description": "마이클 비숍은 에이리언 3편에 등장하는 인물이다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "에이리언: 로물루스",
+      "source_type": "MOVIE",
+      "target_entity": "에이리언",
+      "target_type": "MOVIE",
+      "relationship_description": "에이리언: 로물루스는 에이리언 시리즈의 작품이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "에이리언 2",
+      "source_type": "MOVIE",
+      "target_entity": "에이리언",
+      "target_type": "MOVIE",
+      "relationship_description": "에이리언 2는 에이리언 시리즈의 두 번째 작품이다",
+      "relationship_strength": 10
+    }
+  ],
+  "entity_resolution": {
+    "제임스 카메론": {
+      "description": "제임스 카메론 -> 제임스 카메론",
+      "resolved_name": "제임스 카메론",
+      "entity_type": "MOVIE_STAFF",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "에이리언": {
+      "description": "에이리언 -> 에이리언 로물",
+      "resolved_name": "에이리언 로물",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "에이리언 2": {
+      "description": "에이리언 2 -> 에이리언 2",
+      "resolved_name": "에이리언 2",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "에이리언: 로물루스": {
+      "description": "에이리언: 로물루스 -> 에이리언 로물",
+      "resolved_name": "에이리언 로물",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "터미네이터": {
+      "description": "터미네이터 -> 터미네이터",
+      "resolved_name": "터미네이터",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "룩": {
+      "description": "룩 -> 루크 홉스",
+      "resolved_name": "루크 홉스",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "애쉬": {
+      "description": "애쉬 -> 애쉬",
+      "resolved_name": "애쉬",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "마이클 비숍": {
+      "description": "마이클 비숍 -> 마이클 비숍",
+      "resolved_name": "마이클 비숍",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "조셉 콘래드": {
+      "description": "조셉 콘래드 -> 조셉 콘래드",
+      "resolved_name": "조셉 콘래드",
+      "entity_type": "MOVIE_STAFF",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

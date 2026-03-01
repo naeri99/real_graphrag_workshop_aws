@@ -1,0 +1,18 @@
+{
+  "entity": {
+    "name": "코리나 마리아나",
+    "synonym": [
+      "Corina Mariana",
+      "Corrina Marlowe",
+      "마리아나",
+      "코리나",
+      "코리나 마리아나",
+      "코리나 마리아니",
+      "코리나마리아나"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "코리나 마리아나은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

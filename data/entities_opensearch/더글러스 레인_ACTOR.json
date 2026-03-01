@@ -1,0 +1,25 @@
+{
+  "entity": {
+    "name": "더글러스 레인",
+    "synonym": [
+      "Douglas Rain",
+      "Rain",
+      "Rain Carradine",
+      "더글라스",
+      "더글라스 레인",
+      "더글라스레인",
+      "더글러스",
+      "더글러스 레인",
+      "더글러스레인",
+      "레인",
+      "레인 에이리언",
+      "레인 캐러딘",
+      "레인 캐릭터",
+      "주인공 레인"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "더글러스 레인은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

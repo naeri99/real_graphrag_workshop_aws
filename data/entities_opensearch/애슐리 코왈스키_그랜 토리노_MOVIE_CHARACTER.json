@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "애슐리 코왈스키",
+    "synonym": [
+      "Ashley",
+      "Ashley Kowalski",
+      "애쉴리 코왈스키",
+      "애슐리",
+      "애슐리 코왈스키",
+      "애슐리 코월스키",
+      "애슐리코왈스키",
+      "코왈스키"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "애슐리 코왈스키은 영화 '그랜 토리노'의 등장인물로, 드리마 워커이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

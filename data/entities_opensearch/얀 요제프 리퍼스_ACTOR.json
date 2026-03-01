@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "얀 요제프 리퍼스",
+    "synonym": [
+      "Jan Josef Liefers",
+      "리퍼스",
+      "얀 리퍼스",
+      "얀 요세프 리퍼스",
+      "얀 요셉 리퍼스",
+      "얀 요제프 리퍼스",
+      "얀 요제프 리퍼스이",
+      "얀 요제프 리페르스",
+      "얀요제프리퍼스"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "얀 요제프 리퍼스은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

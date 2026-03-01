@@ -1,0 +1,30 @@
+{
+  "entity": {
+    "name": "덕춘",
+    "synonym": [
+      "Deok-choon",
+      "Deok-chun",
+      "Deokchun",
+      "Dokchun",
+      "Dukchun",
+      "덕 춘",
+      "덕춘",
+      "덕춘 차사",
+      "덕춘이",
+      "막내 덕춘",
+      "막내 차사",
+      "설명충",
+      "월직차사",
+      "월직차사 덕춘",
+      "이덕춘",
+      "저승사자 덕춘",
+      "저승차사 덕춘",
+      "차사 덕춘",
+      "친절한 덕춘"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "덕춘은 영화 '신과함께-죄와벌'의 등장인물로, 김향기이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "entity": {
+    "name": "테리",
+    "synonym": [
+      "Terry",
+      "Terry Blaine",
+      "테러",
+      "테런스",
+      "테리",
+      "테리 블레인"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "테리은 영화 '카산드라 드림'의 등장인물로, 콜린 파렐이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

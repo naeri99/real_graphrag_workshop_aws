@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "고르도",
+    "synonym": [
+      "Gordo",
+      "Gordo the Weirdo",
+      "Gordon",
+      "고도",
+      "고돈",
+      "고든",
+      "고르도",
+      "고르도우",
+      "고르돈",
+      "골도"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "고르도은 영화 '더 기프트'의 등장인물로, 조엘 에저턴이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

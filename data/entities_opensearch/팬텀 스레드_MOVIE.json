@@ -1,0 +1,18 @@
+{
+  "entity": {
+    "name": "팬텀 스레드",
+    "synonym": [
+      "Phantom Thread",
+      "유령 실",
+      "팬텀 스레드",
+      "팬텀 쓰레드",
+      "팬텀스레드",
+      "팬텀쓰레드",
+      "환영의 실"
+    ],
+    "entity_type": "MOVIE",
+    "summary": "팬텀 스레드",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

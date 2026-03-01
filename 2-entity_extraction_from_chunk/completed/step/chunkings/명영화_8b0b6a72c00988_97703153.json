@@ -1,0 +1,102 @@
+{
+  "chunk_hash": "8b0b6a72c00988",
+  "chunk_id": "명영화_8b0b6a72c00988_97703153",
+  "user_query": "he is on paper but you and me the brokers we're taking home cold hard cash via commission [ __ ] right that's incredible sir can't tell you how excited I am then I was a licensed broker at last ready to make my fortune my first day as a future Master of the [Music] Universe they called it Black Monday no [ __ ] by 400 p.m. the market had dropped 508 points the biggest plummet since the crash of 29 think you're making a big mistake yes I will talk to your wife trust me do not answer the phone a lot of people are going to be calling you trying to get your dirty long you don't know what's going on here I [Music] know within a month L.F. Rothschild an institution since 1899 closed its doors Wall Street had swallowed me up and [ __ ] me right back out again we could pawn my engagement ring if we needed to I don't mind if we needed to I'm saying how about this what nobody beats the Wiz electronics stock boy what do you think you're not going to work at that place yeah but you know you start off Jordan you're going to be miserable at that place if you go there it's sales you work your way up you be a general manager you're not going to be a stock boy why not cuz you're a stock broker do you understand that nobody's hiring stock brokers right now you understand that okay uh this place is hey uh I'm I'm looking for an investor center say you want to invest no investor center I'm looking for investor center yeah yeah that's us hey this is it this is it heard that's what that means",
+  "movie_id": "인사이드 잡",
+  "reviewer": "명영화",
+  "chunk_index": 2,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "JORDAN",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "조던은 주식 중개인 자격을 취득한 후 월스트리트에서 일하기 시작했으나 블랙 먼데이로 인해 직장을 잃고 전자제품 매장에서 일자리를 찾게 되는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "L.F. ROTHSCHILD",
+      "entity_type": "MOVIE",
+      "entity_description": "L.F. 로스차일드는 1899년부터 운영된 금융 기관으로 블랙 먼데이 이후 한 달 만에 문을 닫았다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "BLACK MONDAY",
+      "entity_type": "MOVIE",
+      "entity_description": "블랙 먼데이는 1929년 대공황 이후 최대 폭락인 508포인트 하락이 발생한 날을 지칭한다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "JORDAN'S WIFE",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "조던의 아내는 필요하다면 약혼반지를 전당포에 맡겨도 된다고 말하며 조던을 지지하는 인물이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "JORDAN",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "L.F. ROTHSCHILD",
+      "target_type": "MOVIE",
+      "relationship_description": "조던은 L.F. 로스차일드에서 주식 중개인으로 일했다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "JORDAN",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "BLACK MONDAY",
+      "target_type": "MOVIE",
+      "relationship_description": "조던의 첫 출근일에 블랙 먼데이가 발생하여 그의 경력에 큰 영향을 미쳤다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "JORDAN",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "JORDAN'S WIFE",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "조던과 그의 아내는 부부 관계이며 아내는 어려운 시기에 조던을 지지한다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "L.F. ROTHSCHILD",
+      "source_type": "MOVIE",
+      "target_entity": "BLACK MONDAY",
+      "target_type": "MOVIE",
+      "relationship_description": "블랙 먼데이로 인해 L.F. 로스차일드가 문을 닫게 되었다",
+      "relationship_strength": 10
+    }
+  ],
+  "entity_resolution": {
+    "JORDAN": {
+      "description": "JORDAN -> JORDAN",
+      "resolved_name": "JORDAN",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "L.F. ROTHSCHILD": {
+      "description": "L.F. ROTHSCHILD -> L.F. ROTHSCHILD",
+      "resolved_name": "L.F. ROTHSCHILD",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "BLACK MONDAY": {
+      "description": "BLACK MONDAY -> BLACK MONDAY",
+      "resolved_name": "BLACK MONDAY",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "JORDAN'S WIFE": {
+      "description": "JORDAN'S WIFE -> JORDAN'S WIFE",
+      "resolved_name": "JORDAN'S WIFE",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

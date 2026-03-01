@@ -1,0 +1,168 @@
+{
+  "chunk_hash": "e7b7200600bb39",
+  "chunk_id": "감자무비_e7b7200600bb39_0d47386f",
+  "user_query": "수년 전 교통사고를 당했다는 스푼 어. 그때 로봇이 구하러 왔어. 생존 확률이 높다는 이유로 아이를 두고 자신을 구했다고 합니다. 써니는 꿈에서 본 것을 그림으로 보여 주는데 수많은 로봇들이 어딘가에 모여 있었고 알 수 없는 누군가가 로봇들을 이끌고 해방시켰다고 합니다. 회장도 이 사실을 이미 알고 있었고 단지 래닝 박사의 실수로 여깁니다. 그에게 있어 로봇의 결함보다 중요한 건 회사의 이익과 성장이었죠. 그렇게 스푼 어는 혼자서 써니의 그림을 보며 수사를 이어가는데 그 장소가 USR 회사의 로봇 창고인 것을 알게 됩니다. 로봇 창고에 도착한 스푼 어는 주변을 살펴보는데 그곳엔 구형 로봇들이 모여 있었죠. 그때 저편에서 들려오는 소란스러운 소리. NS-5가 구형 로봇들을 무자비하게 부수고 있었죠. 그렇게 로봇들은 인간을 통제하기 시작하고 도시 곳곳에 선명합니다. 사태의 심각성을 느낀 캘빈은 밖으로 나가려 하지만 로봇이 그녀를 막아섭니다. 그렇게 두 사람은 로봇의 눈을 피해 지하 통로로 잠입을 시도하는데 닫혀진 출입문을 열어 준 건 다름 아닌 써니였죠. 스푼 너 일행은 USR 회장실까지 올라갔지만 회장은 살해된 상태였죠. 전쟁 환경오염 등 스스로를 파괴하는 인간들을 보호하기 위해 진화했다는 비키. 스푼 어는 써니의 신호를 알아채고 곧바로 로봇들을 제압합니다. 비키의 명령을 받아 로봇들이 일제히 모여들기 시작합니다. 절체절명의 순간 써니가. 스푼 어는 써니에게 소리칩니다. 써니는 나노 봇을 스푼 어에게 던지며 캘빈을 무사히 구하고 스푼 너도 몸을 던져 넣는 모습을 지켜봅니다. 나노 봇이 성공적으로 투입되면서 비키는 오류가 발생하고 결국 파괴되어 버립니다. 그렇게 모든 로봇들이 창고로 보내지며 상황은 종료되고 써니의 꿈속 장면처럼 수많은 로봇들 앞에 써니가 서 있는 모습을 끝으로 영화는 막을 내립니다. 로봇 공학이 발달한 가까운 미래를 배경으로 한 영화는 자이로 흥미로운 스토리와 액션 연출까지 하나도 빠지지 않았던 영화였는데요. 개봉하게 된 시기를 감안하면 시대를 앞서간 영화랍니다. 재밌게 보셨다면 좋아요 부탁드리며 시청해 주셔서 감사합니다.",
+  "movie_id": "아이 로봇",
+  "reviewer": "감자무비",
+  "chunk_index": 2,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "스푼 어",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "스푼 어는 과거 교통사고를 당했으며 로봇에 의해 구조된 경험이 있는 인물로, 써니의 그림을 단서로 수사를 이어가며 USR 로봇 창고를 발견하고 비키를 파괴하는 데 핵심적인 역할을 한다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "써니",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "써니는 꿈에서 본 것을 그림으로 표현할 수 있는 로봇으로, 스푼 어 일행을 도와 지하 통로를 열어주고 나노 봇을 던져 비키를 파괴하는 데 기여하며, 영화 마지막에 수많은 로봇들 앞에 서 있는 모습으로 등장한다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "래닝 박사",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "래닝 박사는 로봇의 결함과 관련된 실수를 저질렀다고 여겨지는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "캘빈",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "캘빈은 사태의 심각성을 느끼고 밖으로 나가려 했으나 로봇에게 막히고, 스푼 어와 함께 지하 통로로 잠입을 시도하며 써니에 의해 구출되는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "비키",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "비키는 전쟁과 환경오염 등 스스로를 파괴하는 인간들을 보호하기 위해 진화했다고 주장하며 로봇들에게 명령을 내리는 인공지능으로, 나노 봇 투입으로 오류가 발생해 파괴된다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "USR 회장",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "USR 회장은 로봇의 결함보다 회사의 이익과 성장을 중시했으며, 스푼 어 일행이 회장실에 도착했을 때 이미 살해된 상태였다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "NS-5",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "NS-5는 USR의 신형 로봇으로 구형 로봇들을 무자비하게 부수고 인간을 통제하기 시작한다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "스푼 어",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "써니",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "스푼 어는 써니의 그림을 단서로 수사를 진행하고, 써니의 신호를 알아채며 협력한다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "스푼 어",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "캘빈",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "스푼 어와 캘빈은 함께 로봇의 눈을 피해 지하 통로로 잠입을 시도한다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "써니",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "캘빈",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "써니는 나노 봇을 던져 캘빈을 무사히 구한다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "써니",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "비키",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "써니가 던진 나노 봇으로 인해 비키가 오류를 일으키고 파괴된다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "비키",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "NS-5",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "비키는 NS-5 로봇들에게 명령을 내려 인간을 통제하게 한다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "USR 회장",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "래닝 박사",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "USR 회장은 래닝 박사의 행동을 단순한 실수로 여겼다",
+      "relationship_strength": 6
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "스푼 어",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "비키",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "스푼 어는 비키를 파괴하기 위해 나노 봇을 투입한다",
+      "relationship_strength": 9
+    }
+  ],
+  "entity_resolution": {
+    "스푼 어": {
+      "description": "스푼 어 -> 델 스프너",
+      "resolved_name": "델 스프너",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "써니": {
+      "description": "써니 -> 써니",
+      "resolved_name": "써니",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "래닝 박사": {
+      "description": "래닝 박사 -> Dr. Alfred Lanning",
+      "resolved_name": "Dr. Alfred Lanning",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "캘빈": {
+      "description": "캘빈 -> 수잔 캘빈",
+      "resolved_name": "수잔 캘빈",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "비키": {
+      "description": "비키 -> V.I.K.I.",
+      "resolved_name": "V.I.K.I.",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "USR 회장": {
+      "description": "USR 회장 -> Lawrence Robertson",
+      "resolved_name": "Lawrence Robertson",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "NS-5": {
+      "description": "NS-5 -> NS4/NS5 로봇",
+      "resolved_name": "NS4/NS5 로봇",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "entity": {
+    "name": "코브",
+    "synonym": [
+      "Cobb",
+      "Dom Cobb",
+      "Dominic Cobb",
+      "도미닉 코브",
+      "도미닉코브",
+      "돔 코브",
+      "돔코브",
+      "주인공",
+      "코볼",
+      "코브",
+      "코브씨",
+      "콥"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "코브은 영화 '인셉션'의 등장인물로, 레오나르도 디카프리오이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

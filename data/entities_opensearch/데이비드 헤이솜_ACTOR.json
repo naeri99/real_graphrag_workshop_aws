@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "데이비드 헤이솜",
+    "synonym": [
+      "David Haysom",
+      "데이비드",
+      "데이비드 헤이섬",
+      "데이비드 헤이솜",
+      "데이비드헤이섬",
+      "데이비드헤이솜",
+      "데이빗 헤이솜",
+      "데이빗헤이솜",
+      "헤이솜"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "데이비드 헤이솜은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

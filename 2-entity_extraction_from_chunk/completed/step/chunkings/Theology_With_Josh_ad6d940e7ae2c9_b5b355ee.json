@@ -1,0 +1,102 @@
+{
+  "chunk_hash": "ad6d940e7ae2c9",
+  "chunk_id": "Theology_With_Josh_ad6d940e7ae2c9_b5b355ee",
+  "user_query": "not about what happened or the important information he has to offer he only cares about his children and he rushes to the video messages that his children left Cooper watches as years of his life go by in seconds seeing his son grow up meet his wife have a child and hearing of Cooper's own father passing but Cooper is devastated as he realizes his daughter Murph didn't record any messages Murphy held on to a hatred of her father ever since he left her and refused to ever talk to him as one last message plays a message from Murph hey Dad amen I never made one of these when you were still responding because I was so mad at you for leaving you once told me that when you came back we might be the same age and today I'm the age you were when you left it's gonna be a real good time Cooper and Murph both know that what he did was the only option but they both wish they could turn back the clock as Murph lives her life without her father Cooper's life flashes before his eyes realizing all the incredible moments of his children's lives that he'll never get to see Cooper gives the ultimate sacrifice anyone could ever give time time with his daughter time with his son time with his father time with his grandchildren time that he gave up so that his children and their children's children could live a full life even in the final scene of the film when Cooper finally returns home after a journey that left only a mere few years on his own life he still doesn't win he returns home as his",
+  "movie_id": "인터스텔라",
+  "reviewer": "Theology_With_Josh",
+  "chunk_index": 3,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "COOPER",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Cooper는 자녀들을 깊이 사랑하는 아버지로, 우주 임무 중에도 자녀들의 비디오 메시지를 확인하며 아들이 성장하고 결혼하고 아이를 낳는 모습을 지켜본다. 자신의 아버지가 돌아가셨다는 소식도 듣게 되며, 자녀들과 함께할 시간을 희생하여 인류의 미래를 위해 헌신한 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "MURPH",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Murph는 Cooper의 딸로, 아버지가 떠난 후 오랫동안 분노를 품고 메시지를 보내지 않았다. 아버지가 떠났을 때의 나이가 되어서야 비로소 메시지를 남기며, 아버지에 대한 복잡한 감정을 드러낸다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "COOPER의 아들",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Cooper의 아들은 아버지가 우주에 있는 동안 성장하여 결혼하고 아이를 낳으며 인생을 살아간다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "COOPER의 아버지",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Cooper의 아버지는 Cooper가 우주 임무 중일 때 세상을 떠난 인물이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "COOPER",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "MURPH",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Cooper는 Murph의 아버지이며, 둘 사이에는 떠남으로 인한 복잡한 감정적 갈등이 존재한다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "COOPER",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "COOPER의 아들",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Cooper는 아들의 아버지로, 우주에서 아들의 성장 과정을 비디오 메시지로 지켜본다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "COOPER",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "COOPER의 아버지",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Cooper는 아버지의 아들이며, 우주 임무 중 아버지의 사망 소식을 듣게 된다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "MURPH",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "COOPER의 아들",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Murph와 Cooper의 아들은 남매 관계이다",
+      "relationship_strength": 7
+    }
+  ],
+  "entity_resolution": {
+    "COOPER": {
+      "description": "COOPER -> COOPER",
+      "resolved_name": "COOPER",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "MURPH": {
+      "description": "MURPH -> Murph (older)",
+      "resolved_name": "Murph (older)",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "COOPER의 아들": {
+      "description": "COOPER의 아들 -> COOPER의 아들",
+      "resolved_name": "COOPER의 아들",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "COOPER의 아버지": {
+      "description": "COOPER의 아버지 -> COOPER의 아버지",
+      "resolved_name": "COOPER의 아버지",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

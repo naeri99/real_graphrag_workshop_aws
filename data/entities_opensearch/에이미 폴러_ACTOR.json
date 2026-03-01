@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "에이미 폴러",
+    "synonym": [
+      "Amy",
+      "Amy Poehler",
+      "Amy Pohler",
+      "에이미 포엘러",
+      "에이미 포울러",
+      "에이미 폴라",
+      "에이미 폴러",
+      "에이미폴러",
+      "폴러"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "에이미 폴러은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

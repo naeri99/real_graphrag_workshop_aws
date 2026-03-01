@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "까칠이",
+    "synonym": [
+      "Disgust",
+      "까칠",
+      "까칠 감정",
+      "까칠 캐릭터",
+      "까칠이",
+      "까칠이 캐릭터",
+      "디스거스트",
+      "역겨움"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "까칠이은 영화 '인사이드 아웃 2'의 등장인물로, 리자 라피라이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

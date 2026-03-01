@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "리치 코스터",
+    "synonym": [
+      "Ritchie",
+      "Ritchie Coster",
+      "리치",
+      "리치 코스타",
+      "리치 코스터",
+      "리치 코스트",
+      "리치코스타",
+      "리치코스터",
+      "리키 코스터",
+      "코스터"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "리치 코스터은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

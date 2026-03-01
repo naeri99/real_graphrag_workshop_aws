@@ -1,0 +1,17 @@
+{
+  "entity": {
+    "name": "어얼 카메론",
+    "synonym": [
+      "Earl Cameron",
+      "어얼",
+      "어얼 카메론",
+      "어얼카메론",
+      "얼 카메론",
+      "카메론"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "어얼 카메론은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

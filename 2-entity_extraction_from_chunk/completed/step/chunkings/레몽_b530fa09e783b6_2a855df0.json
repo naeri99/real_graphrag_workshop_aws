@@ -1,0 +1,80 @@
+{
+  "chunk_hash": "b530fa09e783b6",
+  "chunk_id": "레몽_b530fa09e783b6_2a855df0",
+  "user_query": "그렇게 시간이 흘러. 즉 이는 오직 깨지기도 의원에게 우연의 이름처럼 비친 우연히 찾아온 달아주어. 나는 이제부터 서울 말을 쓸 거야. 재수생 친구가 가져온 대학 홍보 프린트 물에서 유독 빛이 나는 사람을 보게 된 것이었죠. 바로 승이 얻습니다. 그쵸. 아직도 잊지 못한 승리를 만나기 위해 구현은 결심했습니다. 써레 있는가. 같은 대학에 가기로 말했죠. 진짜요. 한 다음에 진짜 그 한 상태 그 좀 전공을 최대 참새 샅샅히 한데 때야. 제대로 무엇이고 어디서 아. 더 웃지 말라 진짜. 그렇게 필사즉생 뛰어넘는 요관 공법으로 우연은 텅 빈 머리를 채워가고 결국 수위와 같은 대학에 입학을 하게 됩니다. 어떻게 들어야 환승이. 그렇게 그토록 보고 싶던 승리를 다시 만나게 되요. [음악] 오오오 투 오.\n\n두 사람이 떨어져 있던 시간은 그리 잡지 않았습니다. 뭐야 나 잠깐 얘기 좀 오. 저는 뭐. 소나무 수는 누워서 보다가 합자 치우고 있다. opi 사인데 갱. 으 파투스 내리라고. 그럼 겠습니다. 예. [음악] 아 이게 무슨 개 같은 경우야. 미친 듯이 공부해서 대학에 왔더니 승리와 다른 남자의 꽁냥꽁냥은 그저 특구 많이 써야 되는 산하의 황우여 그대로 있을 수밖에 없습니다. 투. 무슨 일인데 남자랑 여자랑 일 관에서 반면 포. 근데 원래 소개되고 서적은 와 협박 기반. 공부할 수 없어 제가 이야 자야 같았고요. 갈색빛 미안해요. 제가 100. 이란 100일이 좋구나. 후애 아니고. 그렇게 의경 빼고는 모두가 사랑의 대학생활을 만들어 가고 있습니다.\n\n버전은 밸브. 저기 제가 신입생이라서 길을 잘 몰라서 그러는데 그쪽 집으로 갈려면 어디로 가야 돼요. 하지만 승의 생일만큼은 챙겨 주고 싶었던 의원을 꽃 한 송이를 되고 그녀에게 가보지만 그 시설 성인은 이제 우연의 추억 속 존재였습니다. 아. 그렇게 생일을 추억의 묵기로 결심했지만 우연한 뜻밖의 사실 하나를 알게 되는데. 팔힘 사람당 걸어갈. 바로 쓰니 남자친구 까. 아 새끼라는 사실을 말이죠. 우연은 이 사실을 곧장 승희에게 알리지만. 완성의 정신 좀 차려 니 남자친구 딴 여자한테 일억 가지고 보수 들어 쓰십니다 나도 나도. 실망 있었으니 야 아. 결국 진실을 알고 있는 우연은 뚝배기를 깨 버리게 되고 우연과 승의 두 번째 만남도 끝이 났습니다.",
+  "movie_id": "너의 결혼식",
+  "reviewer": "레몽",
+  "chunk_index": 3,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "우연",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "우연은 승희를 만나기 위해 열심히 공부해서 같은 대학에 입학한 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "승희",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "승희는 우연이 좋아하는 인물로, 대학에서 남자친구가 있는 상태이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "승희 남자친구",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "승희의 남자친구로, 다른 여자와 바람을 피우는 인물이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "우연",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "승희",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "우연은 승희를 좋아하여 같은 대학에 입학했다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "승희",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "승희 남자친구",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "승희와 남자친구는 연인 관계이다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "우연",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "승희 남자친구",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "우연은 승희 남자친구의 바람 사실을 알게 되어 승희에게 알린다",
+      "relationship_strength": 7
+    }
+  ],
+  "entity_resolution": {
+    "우연": {
+      "description": "우연 -> 우연",
+      "resolved_name": "우연",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "승희": {
+      "description": "승희 -> 승희",
+      "resolved_name": "승희",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "승희 남자친구": {
+      "description": "승희 남자친구 -> 승희 남자친구",
+      "resolved_name": "승희 남자친구",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

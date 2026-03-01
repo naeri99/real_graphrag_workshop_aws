@@ -1,0 +1,80 @@
+{
+  "chunk_hash": "00c77170d4db98",
+  "chunk_id": "Cody_Leach_00c77170d4db98_b30680f1",
+  "user_query": "years would pass before I eventually Revisited it so it exists it's a movie that I think is done well for what they're going for it's just not an experience that I like to revisit that's it for this one guys if you enjoyed that please click over here for all of my 2023 new release reviews I'm also going to put last year's 31 on 31 that was titled 33 on 31 all the Michael Freddy and Jason movies ranked please check that out like share hit that subscribe button so you don't miss this 31 on 31 next week and as always remember opinions are like assholes but that doesn't mean you have to be",
+  "movie_id": "호스텔",
+  "reviewer": "Cody_Leach",
+  "chunk_index": 16,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "MICHAEL",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "마이클은 호러 영화 시리즈의 캐릭터로, 리뷰어가 순위를 매긴 영화들에 등장하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "FREDDY",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "프레디는 호러 영화 시리즈의 캐릭터로, 리뷰어가 순위를 매긴 영화들에 등장하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "JASON",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "제이슨은 호러 영화 시리즈의 캐릭터로, 리뷰어가 순위를 매긴 영화들에 등장하는 인물이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "MICHAEL",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "FREDDY",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "마이클과 프레디는 같은 호러 영화 순위 영상에서 함께 다뤄진 캐릭터들이다",
+      "relationship_strength": 5
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "MICHAEL",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "JASON",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "마이클과 제이슨은 같은 호러 영화 순위 영상에서 함께 다뤄진 캐릭터들이다",
+      "relationship_strength": 5
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "FREDDY",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "JASON",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "프레디와 제이슨은 같은 호러 영화 순위 영상에서 함께 다뤄진 캐릭터들이다",
+      "relationship_strength": 5
+    }
+  ],
+  "entity_resolution": {
+    "MICHAEL": {
+      "description": "MICHAEL -> MICHAEL",
+      "resolved_name": "MICHAEL",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "FREDDY": {
+      "description": "FREDDY -> FREDDY",
+      "resolved_name": "FREDDY",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "JASON": {
+      "description": "JASON -> JASON",
+      "resolved_name": "JASON",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "찰스 그로딘",
+    "synonym": [
+      "Charles",
+      "Charles Grodin",
+      "그로딘",
+      "찰리 그로딘",
+      "찰스 그로든",
+      "찰스 그로딘",
+      "찰스그로딘",
+      "챨스 그로딘"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "찰스 그로딘은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "chunk_hash": "3919fb0aed5aa1",
+  "chunk_id": "하씨네_CINE_3919fb0aed5aa1_d598c2be",
+  "user_query": "to protect her. time. Mom takes a syringe and attacks the driver. Chloe, who was brought back home, found her college pass in the basement. Diane saw a picture of herself running around in the past, a death certificate for a newborn baby who died in 2 hours and 11 minutes, and an article of a parent who lost a child in the hospital. Intuition that you are not your own mother. Diane tries to convey her affection to her who sees Chloe, who knows everything, and asks her. Chloe deliberately complains of her mother who had a disability with her, and when she tries to hurt her again, she drinks the pesticide to escape her. Chloe wakes up after being treated in the hospital. She tries to meet Chloe, but she stops doctors from seeing her and is threatened when she sees her mother. She writes to inform the nurse about her situation. At that moment, an emergency call rings and her mother takes her out. It is. When the nurse returns to the room, she sees Chloe's memo, and fortunately guards are dispatched. While worrying about the escalator not working, Chloe sees the college placard where she passed and is angry at her lost life. The stationary wheelchair, Chloe, stands with her legs, rejects her mother, and she is shot by a security guard and rolls to the floor. 7 years later. Chloe goes to visit Diane. The film ends as she smiles and talks about her situation, and she takes something out of her mouth and tries to give her mother the medicine that paralyzed her leg. This movie is a",
+  "movie_id": "미드나잇 런",
+  "reviewer": "하씨네_CINE",
+  "chunk_index": 3,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "CHLOE",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Chloe는 지하실에서 대학 합격증을 발견하고 자신이 친어머니의 딸이 아님을 직감하는 인물로, 휠체어를 사용하며 어머니로부터 탈출하려 농약을 마시고, 7년 후 어머니를 방문하여 자신의 다리를 마비시켰던 약을 어머니에게 주려 한다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "DIANE",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Diane은 Chloe의 어머니로, 과거 달리는 자신의 사진과 신생아 사망증명서, 병원에서 아이를 잃은 부모에 대한 기사를 가지고 있으며, Chloe에게 애정을 전하려 하지만 그녀를 다치게 하려 하고, 결국 경비원에게 총을 맞아 바닥에 쓰러진다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "MOM",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Mom은 주사기를 들고 운전사를 공격하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "RUN",
+      "entity_type": "MOVIE",
+      "entity_description": "Run은 Chloe와 Diane의 관계를 다룬 스릴러 영화로, 어머니에게 감금당한 딸이 진실을 알아가며 탈출을 시도하고 7년 후 복수하는 내용을 담고 있다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "CHLOE",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "RUN",
+      "target_type": "MOVIE",
+      "relationship_description": "Chloe는 Run의 주인공이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "DIANE",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "RUN",
+      "target_type": "MOVIE",
+      "relationship_description": "Diane은 Run의 주요 등장인물이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "CHLOE",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "DIANE",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Chloe는 Diane의 딸이며, Diane이 자신의 친어머니가 아님을 알게 되고 7년 후 복수를 시도한다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "MOM",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "DIANE",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Mom과 Diane은 동일 인물로 추정되며 Chloe의 어머니 역할을 한다",
+      "relationship_strength": 8
+    }
+  ],
+  "entity_resolution": {
+    "CHLOE": {
+      "description": "CHLOE -> CHLOE",
+      "resolved_name": "CHLOE",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "DIANE": {
+      "description": "DIANE -> DIANE",
+      "resolved_name": "DIANE",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "MOM": {
+      "description": "MOM -> MOM",
+      "resolved_name": "MOM",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "RUN": {
+      "description": "RUN -> RUN",
+      "resolved_name": "RUN",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

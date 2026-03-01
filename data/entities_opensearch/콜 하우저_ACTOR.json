@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "콜 하우저",
+    "synonym": [
+      "Cole",
+      "Cole Hauser",
+      "콜",
+      "콜 하우서",
+      "콜 하우저",
+      "콜 하우져",
+      "콜하우저",
+      "하우저"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "콜 하우저은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

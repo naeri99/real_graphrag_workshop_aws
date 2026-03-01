@@ -1,0 +1,23 @@
+{
+  "entity": {
+    "name": "죽은 시인의 사회",
+    "synonym": [
+      "DPS",
+      "Dead Poets Society",
+      "데드 포엣츠 소사이어티",
+      "데드포엣소사이어티",
+      "시인의 사회",
+      "죽시",
+      "죽은 시인 사회",
+      "죽은 시인의 사회",
+      "죽은 시인의사회",
+      "죽은시인 의사회",
+      "죽은시인사회",
+      "죽은시인의사회"
+    ],
+    "entity_type": "MOVIE",
+    "summary": "죽은 시인의 사회",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

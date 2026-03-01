@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "콜린 맥팔레인",
+    "synonym": [
+      "Colin",
+      "Colin McFarlane",
+      "맥팔레인",
+      "콜린",
+      "콜린 맥파레인",
+      "콜린 맥팔레인",
+      "콜린 맥팔린",
+      "콜린맥팔레인",
+      "콜린맥팔린"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "콜린 맥팔레인은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

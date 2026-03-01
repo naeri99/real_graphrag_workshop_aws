@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "존 캐럴 린치",
+    "synonym": [
+      "John Carroll Lynch",
+      "John Lynch",
+      "린치",
+      "존 린치",
+      "존 캐럴 린치",
+      "존 캐롤 린치",
+      "존 케럴 린치",
+      "존캐럴린치",
+      "캐럴 린치"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "존 캐럴 린치은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "entity": {
+    "name": "Andrei Sator",
+    "synonym": [
+      "Andrei Sator",
+      "Sator",
+      "사또르",
+      "사토르",
+      "사토르 캐릭터",
+      "세이터",
+      "세이터 캐릭터",
+      "세이토르",
+      "안드레이",
+      "안드레이 사토르",
+      "안드레이 세이터",
+      "안드레이사토르",
+      "안드레이세이터"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "Andrei Sator은 영화 '테넷'의 등장인물로, 케네스 브래너이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

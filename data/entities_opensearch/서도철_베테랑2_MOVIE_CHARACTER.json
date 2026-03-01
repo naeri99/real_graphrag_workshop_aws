@@ -1,0 +1,23 @@
+{
+  "entity": {
+    "name": "서도철",
+    "synonym": [
+      "Do-cheol",
+      "Seo Do-cheol",
+      "도철",
+      "도철 형사",
+      "도철이",
+      "도철형",
+      "서 도철",
+      "서도 철",
+      "서도철",
+      "서도철 형사",
+      "서형사",
+      "팀장"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "서도철은 영화 '베테랑2'의 등장인물로, 황정민이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

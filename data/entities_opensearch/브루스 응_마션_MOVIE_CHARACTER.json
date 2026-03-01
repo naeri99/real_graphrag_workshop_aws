@@ -1,0 +1,29 @@
+{
+  "entity": {
+    "name": "브루스 응",
+    "synonym": [
+      "Batman",
+      "Bruce",
+      "Bruce Ng",
+      "Bruce Wayne",
+      "Ng",
+      "다크 나이트",
+      "다크나이트",
+      "배트맨",
+      "브루스",
+      "브루스 엔지",
+      "브루스 엥",
+      "브루스 웨인",
+      "브루스 응",
+      "브루스웨인",
+      "브루스응",
+      "어둠의 기사",
+      "웨인",
+      "응"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "브루스 응은 영화 '마션'의 등장인물로, 베네딕트 웡이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

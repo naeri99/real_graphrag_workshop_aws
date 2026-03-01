@@ -1,0 +1,13 @@
+{
+  "entity": {
+    "name": "하뭉_-_The_Movie",
+    "synonym": [
+      "하뭉_-_The_Movie",
+      "하뭉 - The Movie"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "하뭉_-_The_Movie은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "chunk_hash": "d349ff4fffddbd",
+  "chunk_id": "무비썸TV_d349ff4fffddbd_62f49515",
+  "user_query": "같더라는 인터뷰를 차용해서 그 장면을 찍었다고 해요 굉장히 무섭게 찍고 있는 거죠 근데 어 저는 이런 좀 장르적인 접근이 때로는 유효한데 때로는 굉장히 위험하다고 생각을 하거든요 특히 이런 실화를 바탕으로 하는 영화들을 다루고 있을 때는 뭐 예로 들 수 있는 영화가 도가니 같은 영화인데 도가니가 실제 사건을 기반으로 해서 그거를 극화를 시킨 거잖아요 실제 도가니 영화는 굉장히 긍정적인 효과를 자아냈죠 사회를 시끄럽게 만들기도 했고 어 실제로 법까지 만들어지기도 했으니까요 근데 한편으로 보면 도가니 영화가 그만큼 파괴력이 있었던 이유 중에 하나는 그 영화는 철저하게 공포 영화의 관습 문법을 따르고 있거든요 거기 나오는 그 원장 선생 같은 경우는 인간이 아닌 것처럼 묘사가 돼요 그냥 악마처럼 묘사가 되거든요 사람을 너무 단순화시키는 거죠 이 영화에서도 사실 광주 시민들이나 이방인인 만섭 이런 사람들은 굉장히 좀 복합적으로 입체적으로 그려주고 있는 반면에 일부 군인에 해당하는 사람들은 거의 인간을 인간성을 지워 버려요 근데 이렇게 했을 때 문제는 그 상황 자체가 되게 입체적으로 혹은 진실 그대로는 드러나지 않는 거죠 도가니 같은 경우도 한 사람을 악마로 만들었기 때문에 이 상황을 시스템 전체의 문제로 확장시키지 않는 거거고 이번 택시 운전사 같은 경우도 시민군과 뭐 군인들이 왜 충돌할 수밖에 없었는지에 대한 입체적인 조망은 전혀 이루어지지 않는 거죠 그냥 한 사람의 목격자 그리고 그 사람이 느낀 감정만 충실하게 따라가고 있기 때문에 그런 좀 생략이 있는 거 같고 저는 이 영화가 그래서 그 나름의 가치가 있다고 생각이 들기도 하는 게요 이게 체험하는 영화이기도 하지만 만섭과 그 기자의 독일 기자의 눈으로 보는 거기 때문에 거기에는 인간도 물론 있지만 그 인간보다는 인간의 악마성이 더 두드러져 보이지 않을까 그런 것들을 시각적으로 표현한다면 이런 장면처럼 보이지 않을까라는 생각이 들었고요 사실 사실관계를 따지고자 하는 영화는 아니기 때문에 그런 식의 생략 같은 게 있지 않았나 저는 그 정도는 괜찮은 정도가 아닐까 생각해봤습니다 이 영화가 가야 될 방향은 이방인이 목격자가 되는 과정이에요 그게 이제 드라마 파트였는데 장르적으로 좀 과장하는 순간이 딱 두 순간 아까 그 스릴러에 가까운 MBC 불타는 장면 그 순간이랑 그리고 액션 장면들인데 어 금남로에서 지프라든가 경우는 그 추격전 제가 보기엔 역사에 나올 만한 말도 안 되는 추격전이 보던 사람들이 갑자기 이게 뭐야 이런 생각을 했을 거예요 사실 영화가 그 전에 끝났어요 실제로 이 영화의 진짜 엔딩은 뭐냐면 독일기자 피터와 그 만섭이 광주를 빠져나오는 순간에 끝나거든요 사실상 영화는 거기서 끝났는데 최근의 한국 블록버스터 영화 특히 여름을 노리는 이렇게 규모 있는 영화들은 강박이 있어요 뭘 보여줘야 된다는 뭘 더 보여줘야 된다는 강박이 있거든요 그게 어느 영화 하면 어느 정도 납득할 수 있는데 이렇게 실화를 바탕으로 하는 영화에서 심지어 드라마도 다 끝났는데 구태여 액션을 더하는 거는 사실 사족",
+  "movie_id": "택시운전사",
+  "reviewer": "무비썸TV",
+  "chunk_index": 2,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "택시운전사",
+      "entity_type": "MOVIE",
+      "entity_description": "택시운전사는 광주 민주화 운동을 배경으로 한 실화 바탕의 한국 영화로, 이방인이 목격자가 되는 과정을 그린 드라마이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "도가니",
+      "entity_type": "MOVIE",
+      "entity_description": "도가니는 실제 사건을 기반으로 극화한 영화로, 공포 영화의 문법을 따르며 사회적으로 큰 파급력을 가져 법까지 만들어지게 한 작품이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "만섭",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "만섭은 택시운전사의 주인공으로, 이방인이자 목격자로서 광주를 경험하는 택시 운전사 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "피터",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "피터는 택시운전사에 등장하는 독일 기자로, 만섭과 함께 광주를 목격하고 빠져나오는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "원장",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "원장은 도가니에 등장하는 인물로, 인간이 아닌 악마처럼 묘사되는 캐릭터이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "만섭",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "택시운전사",
+      "target_type": "MOVIE",
+      "relationship_description": "만섭은 택시운전사의 주인공이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "피터",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "택시운전사",
+      "target_type": "MOVIE",
+      "relationship_description": "피터는 택시운전사에 등장하는 독일 기자이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "만섭",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "피터",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "만섭과 피터는 함께 광주를 목격하고 빠져나오는 동행 관계이다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "원장",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "도가니",
+      "target_type": "MOVIE",
+      "relationship_description": "원장은 도가니에 등장하는 악역 캐릭터이다",
+      "relationship_strength": 10
+    }
+  ],
+  "entity_resolution": {
+    "택시운전사": {
+      "description": "택시운전사 -> 택시운전사",
+      "resolved_name": "택시운전사",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "도가니": {
+      "description": "도가니 -> 도가니",
+      "resolved_name": "도가니",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "만섭": {
+      "description": "만섭 -> 김만섭",
+      "resolved_name": "김만섭",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "피터": {
+      "description": "피터 -> 페터",
+      "resolved_name": "페터",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "원장": {
+      "description": "원장 -> 원장",
+      "resolved_name": "원장",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

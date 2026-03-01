@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "이정재",
+    "synonym": [
+      "Lee Jung-jae",
+      "Lee Jungjae",
+      "염라운",
+      "이 정재",
+      "이정 재",
+      "이정재",
+      "이정재 배우",
+      "정재"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "이정재은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

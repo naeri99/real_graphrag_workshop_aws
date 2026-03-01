@@ -1,0 +1,23 @@
+{
+  "entity": {
+    "name": "그대를사랑합니다",
+    "synonym": [
+      "I Love You",
+      "Late Blossom",
+      "그대를 사랑 합니다",
+      "그대를 사랑합니다",
+      "그대를 사랑해요",
+      "그대를사랑합니다",
+      "그대를사랑해",
+      "그대를사랑해요",
+      "그사",
+      "당신을 사랑합니다",
+      "레이트 블로썸",
+      "아이러브유"
+    ],
+    "entity_type": "MOVIE",
+    "summary": "그대를사랑합니다",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

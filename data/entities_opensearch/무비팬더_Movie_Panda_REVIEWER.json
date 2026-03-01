@@ -1,0 +1,13 @@
+{
+  "entity": {
+    "name": "무비팬더_Movie_Panda",
+    "synonym": [
+      "무비팬더_Movie_Panda",
+      "무비팬더 Movie Panda"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "무비팬더_Movie_Panda은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

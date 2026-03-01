@@ -1,0 +1,23 @@
+{
+  "entity": {
+    "name": "리처드 맥케이브",
+    "synonym": [
+      "Richard",
+      "Richard Dent",
+      "Richard McCabe",
+      "리차드",
+      "리차드 맥케이브",
+      "리챠드",
+      "리처드",
+      "리처드 맥케이브",
+      "리처드 맥케이브이",
+      "리처드맥케이브",
+      "릿차드",
+      "맥케이브"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "리처드 맥케이브은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

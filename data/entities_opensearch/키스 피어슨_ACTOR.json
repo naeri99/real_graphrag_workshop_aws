@@ -1,0 +1,18 @@
+{
+  "entity": {
+    "name": "키스 피어슨",
+    "synonym": [
+      "Keith Pearson",
+      "키스",
+      "키스 피어선",
+      "키스 피어슨",
+      "키스 피얼슨",
+      "키스피어슨",
+      "피어슨"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "키스 피어슨은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

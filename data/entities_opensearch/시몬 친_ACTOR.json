@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "시몬 친",
+    "synonym": [
+      "Chin",
+      "Simone Chin",
+      "Simone Kessell",
+      "Simone Lockhart",
+      "사이먼 친",
+      "시몬",
+      "시몬 친",
+      "시몬친",
+      "진",
+      "친"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "시몬 친은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

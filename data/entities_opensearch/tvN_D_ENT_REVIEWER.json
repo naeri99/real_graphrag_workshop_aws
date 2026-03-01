@@ -1,0 +1,13 @@
+{
+  "entity": {
+    "name": "tvN_D_ENT",
+    "synonym": [
+      "tvN_D_ENT",
+      "tvN D ENT"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "tvN_D_ENT은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

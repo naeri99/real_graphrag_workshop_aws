@@ -1,0 +1,27 @@
+{
+  "entity": {
+    "name": "전 연방준비제도 의장",
+    "synonym": [
+      "FRB 의장",
+      "FRB 전 의장",
+      "Fed Chairman",
+      "Fed 의장",
+      "Fed 전 의장",
+      "Former Fed Chairman",
+      "Former Federal Reserve Chairman",
+      "연방준비제도 의장",
+      "연방준비제도 전 의장",
+      "연방준비제도이사회 의장",
+      "연준 의장",
+      "연준 전 의장",
+      "연준의장",
+      "전 연방준비제도 의장",
+      "전 연준 의장",
+      "전 연준의장"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "전 연방준비제도 의장은 영화 '인사이드 잡'의 등장인물로, 폴 볼커이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

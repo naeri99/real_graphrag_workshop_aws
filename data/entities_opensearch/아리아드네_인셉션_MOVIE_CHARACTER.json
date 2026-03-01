@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "아리아드네",
+    "synonym": [
+      "Ariadne",
+      "아리아네",
+      "아리아드",
+      "아리아드나",
+      "아리아드네",
+      "아리아드느",
+      "아리아드니",
+      "아리애드니"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "아리아드네은 영화 '인셉션'의 등장인물로, 엘리엇 페이지이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "entity": {
+    "name": "라일리의 엄마",
+    "synonym": [
+      "Mom",
+      "Mom Andersen",
+      "Mom Anderson",
+      "Mrs. Anderson",
+      "Riley's Mom",
+      "라일리 어머니",
+      "라일리 엄마",
+      "라일리엄마",
+      "라일리의 엄마",
+      "라일리의엄마",
+      "앤더슨 부인",
+      "엄마",
+      "엄마 캐릭터",
+      "질 앤더슨"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "라일리의 엄마은 영화 '인사이드 아웃 2'의 등장인물로, 다이안 레인이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

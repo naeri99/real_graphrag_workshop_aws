@@ -1,0 +1,89 @@
+{
+  "movie_title": "에브리바디스 파인",
+  "director": [
+    {
+      "name": "커크 존스",
+      "name_en": "Kirk Jones"
+    }
+  ],
+  "cast": [
+    {
+      "actor": "로버트 드니로",
+      "actor_en": "Robert De Niro",
+      "character": "프랭크"
+    },
+    {
+      "actor": "드루 베리모어",
+      "actor_en": "Drew Barrymore",
+      "character": "로지"
+    },
+    {
+      "actor": "케이트 베킨세일",
+      "actor_en": "Kate Beckinsale",
+      "character": "Amy"
+    },
+    {
+      "actor": "샘 록웰",
+      "actor_en": "Sam Rockwell",
+      "character": "Robert"
+    },
+    {
+      "actor": "멜리사 레오",
+      "actor_en": "Melissa Leo",
+      "character": "콜린"
+    },
+    {
+      "actor": "제임스 프레인",
+      "actor_en": "James Frain",
+      "character": "톰"
+    },
+    {
+      "actor": "오스틴 라이시",
+      "actor_en": "Austin Lysy",
+      "character": "데이비드"
+    },
+    {
+      "actor": "캐서린 메니그",
+      "actor_en": "Katherine Moennig",
+      "character": "질리"
+    },
+    {
+      "actor": "데미안 영",
+      "actor_en": "Damian Young",
+      "character": "제프"
+    },
+    {
+      "actor": "릴리 모 신",
+      "actor_en": "Lily Mo Sheen",
+      "character": "어린 에이미"
+    },
+    {
+      "actor": "맥켄지 밀론",
+      "actor_en": "Mackenzie Milone",
+      "character": "어린 로지"
+    },
+    {
+      "actor": "챈들러 프란츠",
+      "actor_en": "Chandler Frantz",
+      "character": "어린 데이비드"
+    },
+    {
+      "actor": "스티브 안토누치",
+      "actor_en": "Steve Antonucci",
+      "character": "통근자"
+    },
+    {
+      "actor": "조 바르바갈로",
+      "actor_en": "Joe Barbagallo",
+      "character": "관리인"
+    }
+  ],
+  "review": [
+    "./data/review/에브리바디스 파인/에브리바디스 파인_6niMt0W7MKc.json",
+    "./data/review/에브리바디스 파인/에브리바디스 파인_9Ep6FHMnyus.json",
+    "./data/review/에브리바디스 파인/에브리바디스 파인_EcbjxGVzi0o.json",
+    "./data/review/에브리바디스 파인/에브리바디스 파인_NEMEfqxtckM.json",
+    "./data/review/에브리바디스 파인/에브리바디스 파인_VMWst5-A7ak.json",
+    "./data/review/에브리바디스 파인/에브리바디스 파인_bAAP9WRtj_o.json"
+  ]
+}

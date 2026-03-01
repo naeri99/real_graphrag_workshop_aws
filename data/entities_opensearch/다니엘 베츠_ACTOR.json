@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "다니엘 베츠",
+    "synonym": [
+      "Daniel",
+      "Daniel Betts",
+      "Daniel Betz",
+      "다니엘",
+      "다니엘 베츠",
+      "다니엘 벳츠",
+      "다니엘베츠",
+      "대니얼 베츠",
+      "베츠"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "다니엘 베츠은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

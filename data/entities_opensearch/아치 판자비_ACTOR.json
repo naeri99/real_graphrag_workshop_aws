@@ -1,0 +1,17 @@
+{
+  "entity": {
+    "name": "아치 판자비",
+    "synonym": [
+      "Archie Panjabi",
+      "아르치 판자비",
+      "아치",
+      "아치 판자비",
+      "아치판자비",
+      "판자비"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "아치 판자비은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

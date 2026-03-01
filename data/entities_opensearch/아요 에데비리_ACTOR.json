@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "아요 에데비리",
+    "synonym": [
+      "Ayo",
+      "Ayo Edeberi",
+      "Ayo Edebiri",
+      "Ayo Edebri",
+      "Ayo Edibiri",
+      "아요",
+      "아요 에더비리",
+      "아요 에데비리",
+      "아요 에드비리",
+      "아요에데비리",
+      "에데비리"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "아요 에데비리은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

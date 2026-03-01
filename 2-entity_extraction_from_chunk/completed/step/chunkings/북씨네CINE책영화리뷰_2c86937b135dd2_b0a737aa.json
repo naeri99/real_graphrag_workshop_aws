@@ -1,0 +1,115 @@
+{
+  "chunk_hash": "2c86937b135dd2",
+  "chunk_id": "북씨네CINE책영화리뷰_2c86937b135dd2_b0a737aa",
+  "user_query": "하지만 모든 세상을 버텨 나갈 수 있게 하는 위로임은 분명합니다 치매와 병으로 고통받는 아내의 십자가를 대신 지고 갈 수 없는 남편이 함께 그 고통을 마감하는 것은 그래서 옳은 선택이라 할 수 없을지는 몰라도 최선의 선택은 아니었을까요 이들 부부의 죽음을 놓고 젊은이들이 가미호상이라고 떠들어댈 때 친구 만복이 버럭 화를 내는 것 역시 당연합니다 죽음 앞에서 좋다는 뜻의 가를 붙이는 것은 산 자의 그만이기 때문입니다 사랑했던 기억들은 내 삶과 공유된 타인의 시간과 공간이 아닐까요 영화 속 두 커플 모두 죽음으로 이승에서의 헤어짐을 피할 수 없었지만 그들이 함께 한 삶의 마지막 축복으로 인해 만석은 배 파악한 노인으로 송씨는 이름조차 없는 임명의 존재로 삶을 마감하지 않을 수 있었습니다 또한 조순이와 장군봉 부부 역시 누군가의 삶에 짐으로 남지 않고 서로의 마지막이 될 수 있었습니다 생애 마지막 순간에 그대를 사랑합니다 라는 말을 남기고 떠날 수 있는 이들은 그리하여 복된 삶임이 분명합니다 감사합니다 [음악]",
+  "movie_id": "그대를사랑합니다",
+  "reviewer": "북씨네CINE책영화리뷰",
+  "chunk_index": 3,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "조순이",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "조순이는 영화 속 부부 중 한 명으로, 장군봉과 함께 서로의 마지막이 되어 삶을 마감한 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "장군봉",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "장군봉은 조순이의 남편으로, 누군가의 짐으로 남지 않고 서로의 마지막이 된 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "만복",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "만복은 영화 속 친구로, 젊은이들이 부부의 죽음을 가미호상이라고 떠들어댈 때 버럭 화를 내는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "만석",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "만석은 영화 속 인물로, 함께 한 삶의 마지막 축복으로 인해 배 파악한 노인이 아닌 존재로 삶을 마감할 수 있었던 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "송씨",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "송씨는 영화 속 인물로, 함께 한 삶의 마지막 축복으로 인해 이름조차 없는 익명의 존재가 아닌 삶을 마감할 수 있었던 인물이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "조순이",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "장군봉",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "조순이와 장군봉은 부부 관계로 서로의 마지막이 되었다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "만석",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "송씨",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "만석과 송씨는 영화 속 커플로 함께 삶의 마지막을 맞이했다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "만복",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "조순이",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "만복은 조순이 부부의 죽음에 대해 젊은이들이 가미호상이라 할 때 화를 내며 친구로서 그들을 옹호했다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "만복",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "장군봉",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "만복은 장군봉 부부의 죽음에 대해 젊은이들이 가미호상이라 할 때 화를 내며 친구로서 그들을 옹호했다",
+      "relationship_strength": 7
+    }
+  ],
+  "entity_resolution": {
+    "조순이": {
+      "description": "조순이 -> 조순이",
+      "resolved_name": "조순이",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "장군봉": {
+      "description": "장군봉 -> 장군봉",
+      "resolved_name": "장군봉",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "만복": {
+      "description": "만복 -> 만복",
+      "resolved_name": "만복",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "만석": {
+      "description": "만석 -> 김만석",
+      "resolved_name": "김만석",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "송씨": {
+      "description": "송씨 -> 송이뿐",
+      "resolved_name": "송이뿐",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    }
+  }
+}

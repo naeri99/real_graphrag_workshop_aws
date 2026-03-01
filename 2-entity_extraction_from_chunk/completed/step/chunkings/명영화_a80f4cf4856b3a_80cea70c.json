@@ -1,0 +1,36 @@
+{
+  "chunk_hash": "a80f4cf4856b3a",
+  "chunk_id": "명영화_a80f4cf4856b3a_80cea70c",
+  "user_query": "left and gone away I'm not ashamed to admit it we arrived to prison I was absolutely terrified see for a brief fleeting moment I'd forgotten I was rich and I lived in a place where everything was for sale Jordan Belfort thank you [Music]",
+  "movie_id": "인사이드 잡",
+  "reviewer": "명영화",
+  "chunk_index": 13,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "JORDAN BELFORT",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Jordan Belfort는 감옥에 도착했을 때 두려움을 느꼈지만 자신이 부자이며 모든 것이 돈으로 살 수 있는 곳에 살고 있다는 것을 깨닫는 인물이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "JORDAN BELFORT",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "THE WOLF OF WALL STREET",
+      "target_type": "MOVIE",
+      "relationship_description": "Jordan Belfort는 월스트리트의 늑대의 주인공이다",
+      "relationship_strength": 9
+    }
+  ],
+  "entity_resolution": {
+    "JORDAN BELFORT": {
+      "description": "JORDAN BELFORT -> JORDAN BELFORT",
+      "resolved_name": "JORDAN BELFORT",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

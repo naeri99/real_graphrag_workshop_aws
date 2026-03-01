@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "브루스 알트만",
+    "synonym": [
+      "Bruce Altman",
+      "Bruce Altmann",
+      "브루스",
+      "브루스 알트만",
+      "브루스 알트먼",
+      "브루스 올트만",
+      "브루스알트만",
+      "브루스알트먼",
+      "알트만"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "브루스 알트만은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

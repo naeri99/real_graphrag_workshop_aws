@@ -1,0 +1,25 @@
+{
+  "entity": {
+    "name": "에런 엑하트",
+    "synonym": [
+      "Aaron Eckhart",
+      "Aaron Edward Eckhart",
+      "아론 에크하트",
+      "아론 엑하트",
+      "아론에크하트",
+      "애런 에크하트",
+      "애런 엑하트",
+      "에런",
+      "에런 에크하트",
+      "에런 엑하트",
+      "에런에크하트",
+      "에런엑하트",
+      "에크하트",
+      "엑하트"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "에런 엑하트은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

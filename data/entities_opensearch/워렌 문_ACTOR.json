@@ -1,0 +1,18 @@
+{
+  "entity": {
+    "name": "워렌 문",
+    "synonym": [
+      "Warren",
+      "Warren Moon",
+      "문",
+      "워런 문",
+      "워렌",
+      "워렌 문",
+      "워렌문"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "워렌 문은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

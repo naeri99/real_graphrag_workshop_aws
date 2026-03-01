@@ -1,0 +1,71 @@
+{
+  "chunk_hash": "6c1efaa1147b17",
+  "chunk_id": "요런시점_movie_6c1efaa1147b17_005eebc5",
+  "user_query": "기독교, 유교, 불교처럼 생명을 소중히 여기는 종교들이 많이 개발이 되었는데도 여전히 야만적이고 고대적인 종교관을 현대까지 고수하고 있다는 건 분명 미치광이들만 할 수 있는 일이죠. 하지만 그렇다고 이 마을의 풍습을 단순한 사이비 종교로 치부할 수만은 없습니다. 감독은 인신 공양을 하던 고대인의 멘탈과 종교관을 세심하게 반영을 해서 호르가 마을을 아름답고 화사하게 창조했기 때문입니다. 아리 애스터 감독만이 할 수 있는 천재적인 변태성이죠. 다음 시간에는 영화 속에 묘사된 호르가 마을의 종교적 그림을 좀 더 세부적으로 따져 보도록 하겠습니다. 그럼 우리는 이 마을의 종교와 쇼펜하우어 철학과의 연결점 그리고 이 루빈의 정체에 대해서도 알게 될 것입니다. [음악] [음악]",
+  "movie_id": "미드소마",
+  "reviewer": "요런시점_movie",
+  "chunk_index": 4,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "아리 애스터",
+      "entity_type": "MOVIE_STAFF",
+      "entity_description": "아리 애스터는 호르가 마을을 아름답고 화사하게 창조한 감독으로, 인신 공양을 하던 고대인의 멘탈과 종교관을 세심하게 반영한 천재적인 변태성을 가진 것으로 평가받는다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "미드소마",
+      "entity_type": "MOVIE",
+      "entity_description": "미드소마는 호르가 마을을 배경으로 고대적인 종교관과 인신 공양 풍습을 다룬 영화이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "루빈",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "루빈은 호르가 마을과 관련된 인물로, 그 정체가 영화에서 중요한 의미를 가진다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "아리 애스터",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "미드소마",
+      "target_type": "MOVIE",
+      "relationship_description": "아리 애스터는 미드소마를 감독하며 호르가 마을을 창조했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "루빈",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "미드소마",
+      "target_type": "MOVIE",
+      "relationship_description": "루빈은 미드소마에 등장하는 캐릭터이다",
+      "relationship_strength": 8
+    }
+  ],
+  "entity_resolution": {
+    "아리 애스터": {
+      "description": "아리 애스터 -> 아리 에스터",
+      "resolved_name": "아리 에스터",
+      "entity_type": "MOVIE_STAFF",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "미드소마": {
+      "description": "미드소마 -> 미드소마",
+      "resolved_name": "미드소마",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "루빈": {
+      "description": "루빈 -> 루빈",
+      "resolved_name": "루빈",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

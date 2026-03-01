@@ -1,0 +1,12 @@
+{
+  "entity": {
+    "name": "지누씨네",
+    "synonym": [
+      "지누씨네"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "지누씨네은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

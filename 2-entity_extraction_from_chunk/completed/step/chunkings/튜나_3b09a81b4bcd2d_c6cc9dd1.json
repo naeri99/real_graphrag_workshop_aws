@@ -1,0 +1,49 @@
+{
+  "chunk_hash": "3b09a81b4bcd2d",
+  "chunk_id": "튜나_3b09a81b4bcd2d_c6cc9dd1",
+  "user_query": "오버랩됩니다 그 눈을 아주 까맣게 만들어 놨는데 이 작은 위화감이 기분 나쁠 정도의 인상을 만들어냅니다 스토리로 낮은 점수를 주겠지만 그래도 이야기가 얼추 구색은 갖춘 채로 액션과 장면 연출 면이 뛰어난 점은 긍정적으로 봤습니다 이걸 최악의 스토리로 보기엔 더 심한 것들도 있으니까요 결과적으로 말해서 앞서 언급했듯 비겁한 영화가 아닌가 싶습니다 류승완 감독 정도 되는 위치에서 제작사의 입김만으로 이런 결과물을 냈을 리는 없고 결국은 고민 없이 이슈를 끌어왔던 만드는 과정에서 질에 겁먹고 수정을 했든 사적 제재라는 이슈를 다루기에는 턱없이 부족한 내러티브를 가지고도 그게 영화의 핵심 플롯이기 때문에 영화 전체의 경험을 망치기 쉬울 수밖에 없는 영화가 나왔다고 봅니다 만약 베테랑 3가 나오게 된다면 조금 더 주제 있는 영화면 참 좋겠네요 오늘 영상은 여기서 마무리하겠습니다 여러분의 매일이 평안하시길 바라며 하였습니다",
+  "movie_id": "베테랑2",
+  "reviewer": "튜나",
+  "chunk_index": 8,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "류승완",
+      "entity_type": "MOVIE_STAFF",
+      "entity_description": "류승완은 베테랑 시리즈를 연출한 감독으로, 리뷰어가 그의 위치에서 제작사의 입김만으로 이런 결과물을 냈을 리 없다고 언급했다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "베테랑 3",
+      "entity_type": "MOVIE",
+      "entity_description": "베테랑 3는 아직 제작되지 않은 베테랑 시리즈의 잠재적 후속작으로, 리뷰어가 더 주제 있는 영화가 되길 바란다고 언급했다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "류승완",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "베테랑 3",
+      "target_type": "MOVIE",
+      "relationship_description": "류승완은 베테랑 시리즈의 감독으로 베테랑 3가 나온다면 연출을 맡을 것으로 예상된다",
+      "relationship_strength": 7
+    }
+  ],
+  "entity_resolution": {
+    "류승완": {
+      "description": "류승완 -> 류승완",
+      "resolved_name": "류승완",
+      "entity_type": "MOVIE_STAFF",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "베테랑 3": {
+      "description": "베테랑 3 -> 베테랑 3",
+      "resolved_name": "베테랑 3",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

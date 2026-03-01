@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "돈 치들",
+    "synonym": [
+      "Don Cheadle",
+      "던 치들",
+      "도널드 치들",
+      "도니 치들",
+      "돈 치들",
+      "돈치들",
+      "체들",
+      "치들"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "돈 치들은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

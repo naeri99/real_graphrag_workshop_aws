@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "제프 헤프너",
+    "synonym": [
+      "Jeff Hephner",
+      "제프",
+      "제프 해프너",
+      "제프 헤프나",
+      "제프 헤프너",
+      "제프 헵너",
+      "제프리 헤프너",
+      "제프헤프너",
+      "제프헵너",
+      "헤프너"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "제프 헤프너은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

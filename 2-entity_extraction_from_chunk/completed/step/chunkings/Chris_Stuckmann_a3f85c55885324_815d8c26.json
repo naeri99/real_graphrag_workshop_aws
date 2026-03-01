@@ -1,0 +1,199 @@
+{
+  "chunk_hash": "a3f85c55885324",
+  "chunk_id": "Chris_Stuckmann_a3f85c55885324_815d8c26",
+  "user_query": "I still was so entertained by everything that came before that. The movie's themes of what our place in life is, what our existence is, what our purpose is are all really well realized and Hathaway is very good in the film despite not really caring all that much about her character. Around all these amazing visual treats that your eyes are getting, McConaughey is the anchor that brings this movie back down to earth. He's terrific in the movie. Is he as good of a character as in True Detective? No. But True Detective had eight hours to build a character. You know what I mean? He was just perfect in this movie. He really was. The space sequences were just mind-blowing. Some truly epic stuff going on. Definitely a lot of inspiration from 2001: A Space Odyssey in there and a really funny robot character that I truly did not expect to be as awesome as he was. I felt attached to his daughter when he was still on Earth. The emotional connection between them was so real and raw and powerful and I really felt that. It didn't seem faked. It felt totally real. Like all of the space mission stuff was great. It's just that the way the film wrapped up and like I said no spoilers, there's a moment when you think the film might be ending. At that point I feel if it had ended that it would have been a lot better than it was but it goes on for about another 10 minutes and I was like hmm I don't know about this. But like I said guys I honestly really enjoyed watching this movie and I can't",
+  "movie_id": "인터스텔라",
+  "reviewer": "Chris_Stuckmann",
+  "chunk_index": 4,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "INTERSTELLAR",
+      "entity_type": "MOVIE",
+      "entity_description": "인터스텔라는 우리의 존재, 삶에서의 위치, 목적에 대한 주제를 다루는 영화로, 놀라운 시각적 효과와 우주 시퀀스가 인상적인 작품이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "ANNE HATHAWAY",
+      "entity_type": "ACTOR",
+      "entity_description": "앤 해서웨이는 인터스텔라에서 좋은 연기를 보여준 배우이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "MATTHEW MCCONAUGHEY",
+      "entity_type": "ACTOR",
+      "entity_description": "매튜 맥커너히는 인터스텔라에서 완벽한 연기를 보여준 주연 배우로, 영화의 중심을 잡아주는 역할을 했다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "TRUE DETECTIVE",
+      "entity_type": "MOVIE",
+      "entity_description": "트루 디텍티브는 매튜 맥커너히가 출연한 작품으로, 8시간에 걸쳐 캐릭터를 구축한 시리즈이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "2001: A SPACE ODYSSEY",
+      "entity_type": "MOVIE",
+      "entity_description": "2001: 스페이스 오디세이는 인터스텔라에 많은 영감을 준 영화이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "COOPER",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "쿠퍼는 인터스텔라의 주인공으로, 딸과 강렬하고 진실된 감정적 유대를 가진 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "COOPER'S DAUGHTER",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "쿠퍼의 딸은 지구에 남겨진 인물로, 아버지와 진실되고 강렬한 감정적 연결을 보여준다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "ROBOT CHARACTER",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "인터스텔라에 등장하는 재미있는 로봇 캐릭터로, 예상외로 훌륭한 캐릭터였다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "MATTHEW MCCONAUGHEY",
+      "source_type": "ACTOR",
+      "target_entity": "INTERSTELLAR",
+      "target_type": "MOVIE",
+      "relationship_description": "매튜 맥커너히는 인터스텔라의 주연 배우로 완벽한 연기를 보여주었다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "MATTHEW MCCONAUGHEY",
+      "source_type": "ACTOR",
+      "target_entity": "COOPER",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "매튜 맥커너히는 쿠퍼 역을 연기했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "ANNE HATHAWAY",
+      "source_type": "ACTOR",
+      "target_entity": "INTERSTELLAR",
+      "target_type": "MOVIE",
+      "relationship_description": "앤 해서웨이는 인터스텔라에서 좋은 연기를 보여주었다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "MATTHEW MCCONAUGHEY",
+      "source_type": "ACTOR",
+      "target_entity": "TRUE DETECTIVE",
+      "target_type": "MOVIE",
+      "relationship_description": "매튜 맥커너히는 트루 디텍티브에 출연하여 8시간에 걸쳐 캐릭터를 구축했다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "COOPER",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "INTERSTELLAR",
+      "target_type": "MOVIE",
+      "relationship_description": "쿠퍼는 인터스텔라의 주인공이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "COOPER",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "COOPER'S DAUGHTER",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "쿠퍼와 그의 딸은 진실되고 강렬한 감정적 유대를 가지고 있다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "COOPER'S DAUGHTER",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "INTERSTELLAR",
+      "target_type": "MOVIE",
+      "relationship_description": "쿠퍼의 딸은 인터스텔라에 등장하는 캐릭터이다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "ROBOT CHARACTER",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "INTERSTELLAR",
+      "target_type": "MOVIE",
+      "relationship_description": "로봇 캐릭터는 인터스텔라에 등장하는 재미있고 훌륭한 캐릭터이다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "INTERSTELLAR",
+      "source_type": "MOVIE",
+      "target_entity": "2001: A SPACE ODYSSEY",
+      "target_type": "MOVIE",
+      "relationship_description": "인터스텔라는 2001: 스페이스 오디세이로부터 많은 영감을 받았다",
+      "relationship_strength": 7
+    }
+  ],
+  "entity_resolution": {
+    "INTERSTELLAR": {
+      "description": "INTERSTELLAR -> INTERSTELLAR",
+      "resolved_name": "INTERSTELLAR",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "ANNE HATHAWAY": {
+      "description": "ANNE HATHAWAY -> ANNE HATHAWAY",
+      "resolved_name": "ANNE HATHAWAY",
+      "entity_type": "ACTOR",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "MATTHEW MCCONAUGHEY": {
+      "description": "MATTHEW MCCONAUGHEY -> MATTHEW MCCONAUGHEY",
+      "resolved_name": "MATTHEW MCCONAUGHEY",
+      "entity_type": "ACTOR",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "TRUE DETECTIVE": {
+      "description": "TRUE DETECTIVE -> TRUE DETECTIVE",
+      "resolved_name": "TRUE DETECTIVE",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "2001: A SPACE ODYSSEY": {
+      "description": "2001: A SPACE ODYSSEY -> 2001: A SPACE ODYSSEY",
+      "resolved_name": "2001: A SPACE ODYSSEY",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "COOPER": {
+      "description": "COOPER -> COOPER",
+      "resolved_name": "COOPER",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "COOPER'S DAUGHTER": {
+      "description": "COOPER'S DAUGHTER -> COOPER'S DAUGHTER",
+      "resolved_name": "COOPER'S DAUGHTER",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "ROBOT CHARACTER": {
+      "description": "ROBOT CHARACTER -> ROBOT CHARACTER",
+      "resolved_name": "ROBOT CHARACTER",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

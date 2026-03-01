@@ -1,0 +1,13 @@
+{
+  "entity": {
+    "name": "B_tv_이동진의_파이아키아",
+    "synonym": [
+      "B_tv_이동진의_파이아키아",
+      "B tv 이동진의 파이아키아"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "B_tv_이동진의_파이아키아은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

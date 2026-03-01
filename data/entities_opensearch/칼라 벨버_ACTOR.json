@@ -1,0 +1,23 @@
+{
+  "entity": {
+    "name": "칼라 벨버",
+    "synonym": [
+      "Carla",
+      "Carla Belver",
+      "벨버",
+      "벨베르",
+      "카라 벨버",
+      "카를라 벨버",
+      "카를라벨버",
+      "칼라",
+      "칼라 벨버",
+      "칼라 벨베르",
+      "칼라벨버",
+      "칼라벨베르"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "칼라 벨버은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

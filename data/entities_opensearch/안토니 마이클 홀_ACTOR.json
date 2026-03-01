@@ -1,0 +1,23 @@
+{
+  "entity": {
+    "name": "안토니 마이클 홀",
+    "synonym": [
+      "Anthony Hall",
+      "Anthony Michael Hall",
+      "Michael Anthony Hall",
+      "마이클 홀",
+      "안소니 마이클 홀",
+      "안소니마이클홀",
+      "안토니",
+      "안토니 마이클 홀",
+      "안토니 홀",
+      "안토니마이클홀",
+      "앤서니 마이클 홀",
+      "앤토니 마이클 홀"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "안토니 마이클 홀은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

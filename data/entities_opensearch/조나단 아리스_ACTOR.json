@@ -1,0 +1,23 @@
+{
+  "entity": {
+    "name": "조나단 아리스",
+    "synonym": [
+      "Aris",
+      "Jonathan",
+      "Jonathan Aris",
+      "Jonathan Nolan",
+      "아리스",
+      "조나단",
+      "조나단 아리스",
+      "조나단 애리스",
+      "조나단놀란",
+      "조나단아리스",
+      "조나선 놀란",
+      "조나선 아리스"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "조나단 아리스은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

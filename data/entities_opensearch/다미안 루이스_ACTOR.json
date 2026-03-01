@@ -1,0 +1,18 @@
+{
+  "entity": {
+    "name": "다미안 루이스",
+    "synonym": [
+      "Damian Lewis",
+      "다미안",
+      "다미안 루이스",
+      "다미안루이스",
+      "대미안 루이스",
+      "데미안 루이스",
+      "루이스"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "다미안 루이스은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

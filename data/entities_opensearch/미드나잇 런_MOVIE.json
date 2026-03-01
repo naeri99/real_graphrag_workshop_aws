@@ -1,0 +1,17 @@
+{
+  "entity": {
+    "name": "미드나잇 런",
+    "synonym": [
+      "Midnight Run",
+      "미드나이트 런",
+      "미드나이트런",
+      "미드나잇 런",
+      "미드나잇런",
+      "한밤의 질주"
+    ],
+    "entity_type": "MOVIE",
+    "summary": "미드나잇 런",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

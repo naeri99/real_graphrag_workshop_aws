@@ -1,0 +1,24 @@
+{
+  "entity": {
+    "name": "앤 해서웨이",
+    "synonym": [
+      "Anne Hathaway",
+      "Hathaway",
+      "안 해서웨이",
+      "애나 해서웨이",
+      "애니 해서웨이",
+      "앤",
+      "앤 해서웨이",
+      "앤 해써웨이",
+      "앤 헤서웨이",
+      "앤해서웨이",
+      "앤헤서웨이",
+      "해서웨이",
+      "해써웨이"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "앤 해서웨이은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

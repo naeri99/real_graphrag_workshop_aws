@@ -1,0 +1,13 @@
+{
+  "entity": {
+    "name": "랭끄_TV",
+    "synonym": [
+      "랭끄_TV",
+      "랭끄 TV"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "랭끄_TV은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "테일러 지엘리스카",
+    "synonym": [
+      "Taylor Geare",
+      "Taylor Gieliska",
+      "Taylor Zielinska",
+      "Taylor Zieliska",
+      "지엘리스카",
+      "테일러",
+      "테일러 지엘리스카",
+      "테일러 지엘리스키",
+      "테일러 지엘린스카",
+      "테일러지엘리스카"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "테일러 지엘리스카은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

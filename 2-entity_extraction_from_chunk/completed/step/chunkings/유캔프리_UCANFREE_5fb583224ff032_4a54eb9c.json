@@ -1,0 +1,39 @@
+{
+  "chunk_hash": "5fb583224ff032",
+  "chunk_id": "유캔프리_UCANFREE_5fb583224ff032_4a54eb9c",
+  "user_query": "care how big this meeting is you are going to eat hey I don't care how big this meeting is you are going to eat excuse me um in case we don't talk later dinner tonight Tantra seven o'clock in case we don't talk later dinner tonight Tantra seven o'clock in case we don't talk later dinner tonight Tantra seven o'clock in case we don't talk later dinner tonight Tantra seven o'clock in case we don't talk later dinner tonight Tantra seven o'clock tonight seven o'clock you're kidding right tonight seven o'clock you're kidding right tonight seven o'clock you're kidding right tonight seven o'clock you're kidding right tonight seven o'clock you're kidding right my concert the one I've been preparing for for three years ring a bell my concert the one I've been preparing for for three years ring a bell my concert the one I've been preparing for for three years ring a bell my concert the one I've been preparing for for three years ring a bell my concert the one I've been preparing for for three years ring a bell yeah your graduation concert I didn't forget that that's yeah your graduation concert I didn't forget that that's yeah your graduation concert I didn't forget that that's yeah your graduation concert I didn't forget that that's yeah your graduation concert I didn't forget that that's I'm so sorry Sam really I can't believe I did that I'm so sorry Sam really I can't believe I did that I'm so sorry Sam really I can't believe I did that I'm so sorry Sam really I can't believe I did",
+  "movie_id": "이프 온리",
+  "reviewer": "유캔프리_UCANFREE",
+  "chunk_index": 4,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "SAM",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Sam은 3년간 준비해온 졸업 콘서트가 있는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "TANTRA",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Tantra는 저녁 7시에 저녁 식사 약속을 잡으려는 인물로 보인다"
+    }
+  ],
+  "relationships": [],
+  "entity_resolution": {
+    "SAM": {
+      "description": "SAM -> SAM",
+      "resolved_name": "SAM",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "TANTRA": {
+      "description": "TANTRA -> TANTRA",
+      "resolved_name": "TANTRA",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

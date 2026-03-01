@@ -1,0 +1,80 @@
+{
+  "chunk_hash": "c7ccd701cd72db",
+  "chunk_id": "FriezZaddy_c7ccd701cd72db_9c5b3b24",
+  "user_query": "So happens, you hear a shot. He's, Hwang Tae-sul, I'm okay, I'm okay. And then they're running. Next thing you know, he's getting, they separate by accident. Man-seob, he gets, he's getting beat by the chief and they need to keep calling a commie and he's choking, I'm choking. And then finally, Peter bashes on the side of the head. They go back and they're like, where's he? And they don't know. His car is broken down. Yeah, because they were running. But I forgot in that part, damaged, that part came before.\n\nBut there was a part where his car broken down. And the thing is, he was trying to pay and they got in a fight because he thought he was trying to buy him. And then finally Hwang Tae-sul's like, no, he's worried about his daughter. And everyone helps them like, yeah, I could give you my transmission and putting your number. Well, and then it was funny, they're like, how do you even get here? You're like way over 600 kilometers, 600,000 kilometers? No. Hook.",
+  "movie_id": "택시운전사",
+  "reviewer": "FriezZaddy",
+  "chunk_index": 9,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "황태술",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "황태술은 총에 맞았지만 괜찮다고 말하며 도망치는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "만섭",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "만섭은 빨갱이로 불리며 대장에게 구타당하고 목이 졸리는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "피터",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "피터는 만섭을 구하기 위해 대장의 머리를 때리는 인물이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "황태술",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "만섭",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "황태술과 만섭은 함께 도망치다가 우연히 헤어지게 된다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "피터",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "만섭",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "피터는 만섭이 구타당할 때 대장을 때려서 만섭을 구한다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "황태술",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "피터",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "황태술과 피터는 만섭과 함께 행동하는 동료이다",
+      "relationship_strength": 7
+    }
+  ],
+  "entity_resolution": {
+    "황태술": {
+      "description": "황태술 -> 황태술",
+      "resolved_name": "황태술",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "만섭": {
+      "description": "만섭 -> 김만섭",
+      "resolved_name": "김만섭",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "피터": {
+      "description": "피터 -> 페터",
+      "resolved_name": "페터",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    }
+  }
+}

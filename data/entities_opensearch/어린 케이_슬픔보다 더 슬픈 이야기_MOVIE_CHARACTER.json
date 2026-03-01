@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "어린 케이",
+    "synonym": [
+      "Young K",
+      "꼬마 케이",
+      "꼬마케이",
+      "소년 케이",
+      "소년케이",
+      "어린 K",
+      "어린 케이",
+      "어린K",
+      "어린케이",
+      "유년 케이",
+      "유년케이"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "어린 케이은 영화 '슬픔보다 더 슬픈 이야기'의 등장인물로, 구웅회이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

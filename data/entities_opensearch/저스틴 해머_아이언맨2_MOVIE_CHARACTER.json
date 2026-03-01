@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "저스틴 해머",
+    "synonym": [
+      "Justin Hammer",
+      "저스틴",
+      "저스틴 해머",
+      "저스틴해머",
+      "해머",
+      "해머 사장",
+      "해머 산업",
+      "해머 인더스트리"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "저스틴 해머은 영화 '아이언맨2'의 등장인물로, 샘 록웰이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "chunk_hash": "e3b1ea6403d1ac",
+  "chunk_id": "에헤라_티비_-_KBS_LIFE_e3b1ea6403d1ac_ce539232",
+  "user_query": "했다 보니까 빨지도 않고 됐소 풀썩 하니까 냄새가 바타 올라오는 거 나만 못 느끼고 역사를 다 느끼고 있는 거예요 너무 부끄러웠어요 아 정녕 모 커뮤니티 사이트에 들어갔어요 게시판에 거기다 글을 하나 골랐어요 제 처지 하고 4 또 내가 지금 하는 생활들 하고 싶은 내 글이 다소 쓰네 동생이 왔더라고요 근데 동생은 이제 중앙대의 못 갈을 나와서 배우며 배우 생활을 하고 있었고 내 매니저도 있었어요 안 매니저한테 에 동생이 오더니 형 극을 때문에 교회가 난리가 났다는 거예요 난리가 나요 예 그 글을 보고 감동을 받고 아 감동 에로 동생이 그걸 매니저 알트 복사를 중 거야 4 매니저가 오더니 만 경우 이런 거 쓰지 맛있고 4 시나리오를 한번 써보세요 아 그걸 가지고 이제 그 매니저가 감독들한테 보이다가 4 어떤 분이 이런 너무 잘 쓴 거 아니 이렇게 된 거래요 근데 졸 째 발냄새 때문에 예 아따 잡화 됐어요 아리 그래서 0 아빠도 만큼 정말 많은 개미 중에 알렌 3 태우는 어떻게 이렇게 훌륭한 작품이 나와 싸울 게 그 자그만 꼬시 하나가 정원을 만들었고 사람들 1대 에 그 꽃씨가 저한테 하는데 발냄새 어떤 것 [음악] 5 하하 [음악] woo woo won 음식의 다 준비가 됐습니다 와 오메 비주얼이 이렇게 만만찮은데요 어 그게 그 그 참치 기름 디버프 하시고요 네 저요 쪽은 약간 비주얼 좀 달리 해봤고요 제가 시원하게 9 좀 그랬는데 잠깐 이한테 제가 특별한 선물을 하나 준비했습니다 4 3:00 길이에요 예 추억을 살려서 뜻이라고 어제 잠시 잊게 되면 초 뭐 이것 정말 젖었어요 부탁 좀 고생 하셨고요 아 be a 볼까요 tel 4 뭐 나중에 저런 돼요 [음악] [박수] [음악] [박수] [음악] 작가님의 인생은 될 듯 안 될 듯 하면서 1번이 빵 되는데 그게 전부 사람으로 인해서 예 그래요 작가님의 섬 물은 사람인 것 같아요 그런 것 같습니다 4 어도 시 들과 날 쭈이 엮여 있는 게 그 개개인의 인생이기도 하지만 그렇게 엮여 있는 게 우리 인쇄 있는 것 같아요 너무나 많은 도움을 받았던 걸로 저는 네 지금까지 마음의 상처를 달래는 데는 사람밖에 없어요 맞아요 예 내가 배운 인생이란 그뿐입니다 그냥 흘러 가듯이 가고 사람을 사랑하는 것 그 밖에 없다고 생각해요 사실 이 없는 시련은 없는 것 같아요 그런 시련 속에서 이렇게 멋지게 작품을 쓰셨고 그리고 정말 그래서 시 본방 조차도 잠깐 있을 때는 아 행 행운 분명 분명 이었어 같습니다 4 4 우리는 좋은 작품 기다리고 있겠습니다 그래서 꼭 부응하도록 하겠습니다 해가 말씀드린 났어 222 we [음악] we [음악] [음악] woo ooh a",
+  "movie_id": "7번방의 선물",
+  "reviewer": "에헤라_티비_-_KBS_LIFE",
+  "chunk_index": 10,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "중앙대",
+      "entity_type": "MOVIE",
+      "entity_description": "중앙대는 텍스트에서 언급된 대학교로, 동생이 졸업한 학교이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "동생",
+      "entity_type": "ACTOR",
+      "entity_description": "화자의 동생으로 중앙대를 나와 배우 생활을 하고 있는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "매니저",
+      "entity_type": "MOVIE_STAFF",
+      "entity_description": "동생의 매니저로, 화자에게 시나리오를 써보라고 권유하고 감독들에게 보여준 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "감독",
+      "entity_type": "MOVIE_STAFF",
+      "entity_description": "매니저가 화자의 글을 보여준 영화 감독들이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "작가님",
+      "entity_type": "MOVIE_STAFF",
+      "entity_description": "인터뷰를 받고 있는 시나리오 작가로, 발냄새 에피소드를 계기로 시나리오 작가가 된 인물이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "동생",
+      "source_type": "ACTOR",
+      "target_entity": "매니저",
+      "target_type": "MOVIE_STAFF",
+      "relationship_description": "동생은 매니저와 함께 일하는 배우이다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "매니저",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "감독",
+      "target_type": "MOVIE_STAFF",
+      "relationship_description": "매니저가 화자의 글을 감독들에게 보여주었다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "매니저",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "작가님",
+      "target_type": "MOVIE_STAFF",
+      "relationship_description": "매니저가 작가님에게 시나리오를 써보라고 권유하여 작가의 길로 이끌었다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "동생",
+      "source_type": "ACTOR",
+      "target_entity": "작가님",
+      "target_type": "MOVIE_STAFF",
+      "relationship_description": "동생은 작가님의 형제로, 커뮤니티 글을 매니저에게 보여주어 작가의 길을 열어주었다",
+      "relationship_strength": 9
+    }
+  ],
+  "entity_resolution": {
+    "중앙대": {
+      "description": "중앙대 -> 중앙대",
+      "resolved_name": "중앙대",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "동생": {
+      "description": "동생 -> 동생",
+      "resolved_name": "동생",
+      "entity_type": "ACTOR",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "매니저": {
+      "description": "매니저 -> 매니저",
+      "resolved_name": "매니저",
+      "entity_type": "MOVIE_STAFF",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "감독": {
+      "description": "감독 -> 페데 알바레즈",
+      "resolved_name": "페데 알바레즈",
+      "entity_type": "MOVIE_STAFF",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "작가님": {
+      "description": "작가님 -> 작가님",
+      "resolved_name": "작가님",
+      "entity_type": "MOVIE_STAFF",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

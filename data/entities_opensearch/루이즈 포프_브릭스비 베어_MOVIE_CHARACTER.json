@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "루이즈 포프",
+    "synonym": [
+      "Louise",
+      "Louise Pope",
+      "루이스",
+      "루이스 포프",
+      "루이즈",
+      "루이즈 포프",
+      "루이즈포프",
+      "포프"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "루이즈 포프은 영화 '브릭스비 베어'의 등장인물로, 미카엘라 왓킨스이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "entity": {
+    "name": "까까단",
+    "synonym": [
+      "까까단"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "까까단은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

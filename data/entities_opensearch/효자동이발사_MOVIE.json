@@ -1,0 +1,17 @@
+{
+  "entity": {
+    "name": "효자동이발사",
+    "synonym": [
+      "The President's Barber",
+      "대통령의 이발사",
+      "이발사",
+      "효자동 이발사",
+      "효자동의 이발사",
+      "효자동이발사"
+    ],
+    "entity_type": "MOVIE",
+    "summary": "효자동이발사",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

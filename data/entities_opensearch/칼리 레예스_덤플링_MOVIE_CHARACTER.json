@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "칼리 레예스",
+    "synonym": [
+      "Callie",
+      "Callie Reyes",
+      "레예스",
+      "칼리",
+      "칼리 레예스",
+      "칼리 레이에스",
+      "칼리 레이예스",
+      "칼리레예스"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "칼리 레예스은 영화 '덤플링'의 등장인물로, 조지 플로레스이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

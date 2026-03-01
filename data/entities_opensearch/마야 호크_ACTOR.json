@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "마야 호크",
+    "synonym": [
+      "Maya",
+      "Maya Hawk",
+      "Maya Hawke",
+      "마야",
+      "마야 호크",
+      "마야 혹",
+      "마야호크",
+      "호크"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "마야 호크은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

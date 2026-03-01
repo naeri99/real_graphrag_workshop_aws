@@ -1,0 +1,27 @@
+{
+  "entity": {
+    "name": "어스 관리자 3",
+    "synonym": [
+      "Earth 3",
+      "Earth Inspector 3",
+      "Earth Manager 3",
+      "Earth Official 3",
+      "Earth3",
+      "The Roundup: No Way Out",
+      "땅 관리자 3",
+      "범죄도시 3편",
+      "범죄도시3",
+      "어스 관리자 3",
+      "어스 매니저 3",
+      "어스관리자3",
+      "지구 관리자 3",
+      "지구관리자3",
+      "흙 관리자 3",
+      "흙관리자3"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "어스 관리자 3은 영화 '엘리멘탈'의 등장인물로, 피터 손이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

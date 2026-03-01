@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "은행 고객",
+    "synonym": [
+      "Bank Customer",
+      "고객",
+      "뱅크 고객",
+      "손님",
+      "은행 고객",
+      "은행 손님",
+      "은행고객",
+      "은행손님"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "은행 고객은 영화 '뱅크어택'의 등장인물로, 야니네 쿤체이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

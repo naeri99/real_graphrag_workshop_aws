@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "크리스찬 베일",
+    "synonym": [
+      "Chris Bale",
+      "Christian Bale",
+      "베일",
+      "크리스 베일",
+      "크리스찬 베일",
+      "크리스찬베일",
+      "크리스챤 베일",
+      "크리스천 베일",
+      "크리스천베일",
+      "크리스티안 베일"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "크리스찬 베일은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

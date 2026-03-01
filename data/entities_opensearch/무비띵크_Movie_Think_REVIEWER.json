@@ -1,0 +1,13 @@
+{
+  "entity": {
+    "name": "무비띵크_Movie_Think",
+    "synonym": [
+      "무비띵크_Movie_Think",
+      "무비띵크 Movie Think"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "무비띵크_Movie_Think은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

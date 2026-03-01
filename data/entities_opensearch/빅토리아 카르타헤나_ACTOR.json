@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "빅토리아 카르타헤나",
+    "synonym": [
+      "Cartagena",
+      "Victoria Cartagena",
+      "빅토리아",
+      "빅토리아 카르타게나",
+      "빅토리아 카르타헤나",
+      "빅토리아카르타게나",
+      "빅토리아카르타헤나",
+      "카르타헤나"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "빅토리아 카르타헤나은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

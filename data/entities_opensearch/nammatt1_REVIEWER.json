@@ -1,0 +1,12 @@
+{
+  "entity": {
+    "name": "nammatt1",
+    "synonym": [
+      "nammatt1"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "nammatt1은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

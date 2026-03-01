@@ -1,0 +1,133 @@
+{
+  "chunk_hash": "74ed42ff056420",
+  "chunk_id": "명영화_74ed42ff056420_96b7c36b",
+  "user_query": "the securities industry barring me from Stratton my home I'm not [ __ ] [Applause] leaving the show goes on PD Mayo you Irishman Jordan Belfort just well done his deal with the SEC he [Music] is subpoenas started flying okay you know we've talked to several of the employees at this firm and nobody can recall anything about the Steve Madden IPO it's I think it's odd we have a problem okay your friend Steve Madden is unloading shares doing it what's going look I'm watching the screen and huge chunks of Steve Madden are being sold okay it's not coming from us so it's got to be Steve he's the only person with that many shares baby baby what happened what's going on why you crying she's dead who I just got a call from my cousin Betty yeah and Emma is dead you [ __ ] kidding me no you serious oh my shuffled off her mortal coil and $20 million stuck in a Swiss bank account to her she was fine you know she's not that God baby oh God that's so [ __ ] terrible oh [ __ ] my condolences to you yes we're absolutely devastated thank you thank you so much for your condolences now where does that leave us in regard to her account exactly does it go into probate or what now very um now fast very fast I have to get to Switzerland now take your suit take your dick okay and move your ass please within minutes he had me set up with a forger who could fake Aunt Emma's signature you're American [ __ ] I just had to get there by tomorrow we'll lose $20 million we're going to Monaco Monaco now yes",
+  "movie_id": "인사이드 잡",
+  "reviewer": "명영화",
+  "chunk_index": 10,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "JORDAN BELFORT",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Jordan Belfort는 Stratton 회사의 인물로, SEC와 거래를 하고 스위스 은행 계좌의 돈을 회수하기 위해 스위스로 급히 가야 하는 상황에 처한 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "STEVE MADDEN",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Steve Madden은 IPO와 관련된 인물로, 대량의 주식을 보유하고 있으며 주식을 매도하고 있는 것으로 의심받는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "SEC",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "SEC는 증권거래위원회로, Jordan Belfort와 거래를 성사시킨 규제 기관이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "AUNT EMMA",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Aunt Emma는 스위스 은행 계좌에 2천만 달러를 보유하고 있다가 사망한 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "THE WOLF OF WALL STREET",
+      "entity_type": "MOVIE",
+      "entity_description": "월스트리트의 늑대는 Jordan Belfort의 이야기를 다룬 영화로, 증권 사기와 관련된 내용을 담고 있다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "JORDAN BELFORT",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "THE WOLF OF WALL STREET",
+      "target_type": "MOVIE",
+      "relationship_description": "Jordan Belfort는 월스트리트의 늑대의 주인공이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "JORDAN BELFORT",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "SEC",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Jordan Belfort는 SEC와 거래를 성사시켰다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "JORDAN BELFORT",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "STEVE MADDEN",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Jordan Belfort는 Steve Madden의 주식 매도 상황을 모니터링하고 있다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "JORDAN BELFORT",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "AUNT EMMA",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Jordan Belfort는 Aunt Emma의 스위스 계좌에 있는 돈을 회수하려고 한다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "STEVE MADDEN",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "THE WOLF OF WALL STREET",
+      "target_type": "MOVIE",
+      "relationship_description": "Steve Madden IPO는 영화의 주요 플롯 요소이다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "AUNT EMMA",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "THE WOLF OF WALL STREET",
+      "target_type": "MOVIE",
+      "relationship_description": "Aunt Emma의 스위스 계좌는 영화의 중요한 스토리 요소이다",
+      "relationship_strength": 7
+    }
+  ],
+  "entity_resolution": {
+    "JORDAN BELFORT": {
+      "description": "JORDAN BELFORT -> JORDAN BELFORT",
+      "resolved_name": "JORDAN BELFORT",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "STEVE MADDEN": {
+      "description": "STEVE MADDEN -> STEVE MADDEN",
+      "resolved_name": "STEVE MADDEN",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "SEC": {
+      "description": "SEC -> SEC",
+      "resolved_name": "SEC",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "AUNT EMMA": {
+      "description": "AUNT EMMA -> AUNT EMMA",
+      "resolved_name": "AUNT EMMA",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "THE WOLF OF WALL STREET": {
+      "description": "THE WOLF OF WALL STREET -> THE WOLF OF WALL STREET",
+      "resolved_name": "THE WOLF OF WALL STREET",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

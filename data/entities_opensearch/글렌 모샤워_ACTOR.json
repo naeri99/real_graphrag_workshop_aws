@@ -1,0 +1,24 @@
+{
+  "entity": {
+    "name": "글렌 모샤워",
+    "synonym": [
+      "Glenn",
+      "Glenn Hubbard",
+      "Glenn Morshower",
+      "글렌",
+      "글렌 모샤우어",
+      "글렌 모샤워",
+      "글렌 모셔워",
+      "글렌 모쇼워",
+      "글렌 허바드",
+      "글렌모샤워",
+      "글렌허버드",
+      "모샤워",
+      "허버드"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "글렌 모샤워은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

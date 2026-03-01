@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "수 클라크",
+    "synonym": [
+      "Sue",
+      "Sue Clark",
+      "Sue Clarke",
+      "수",
+      "수 클라크",
+      "수 클락",
+      "수클라크",
+      "수클락",
+      "슈 클라크",
+      "슈클라크",
+      "클라크"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "수 클라크은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

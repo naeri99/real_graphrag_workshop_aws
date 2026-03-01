@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "알렉산더 카림",
+    "synonym": [
+      "Alexander Karim",
+      "Alexander the Great",
+      "알렉산더",
+      "알렉산더 대왕",
+      "알렉산더 더 그레이트",
+      "알렉산더 카림",
+      "알렉산더카림",
+      "알렉산드로스",
+      "알렉스 카림",
+      "카림"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "알렉산더 카림은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

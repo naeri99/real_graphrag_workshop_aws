@@ -1,0 +1,283 @@
+{
+  "chunk_hash": "d2ce05410a9d10",
+  "chunk_id": "리우군의_다락방_d2ce05410a9d10_76be8918",
+  "user_query": "그는 공연이 끝난 후 자신의 아들을 칭찬하는 Keating에게 신경질적인 반응을 보입니다. 아버지는 닐을 집으로 데려와 널 이해할 수 없다며 전학을 가라고 합니다. 화를 퍼붓는 아버지와 속상해하는 어머니를 보며 무언가 말을 하려다... 입을 다무는 닐. 닐은 그렇게 영원한 침묵을 선택합니다. 닐의 죽음을 괴로워하는 Anderson과 친구들. Keating 또한 슬픔에 가득 차 있습니다. 교장은 이 사건을 철저히 조사하겠다며 공개 선언을 합니다. 그 사이 모든 걸 고자질한 Cameron과 그런 그를 보며 화를 내는 Charlie. 죽은 시인의 사회는 앞으로 어떻게 되는 걸까요? 영화 초반엔 학생들이 교장의 뜻대로 움직입니다. 그의 질문에 따라 일어나 대답을 하죠. 하지만 영화 말미엔 그들 스스로 판단을 하고 행동을 합니다. 그리고 이 장면은 영화 역사상 가장 유명한 한 장면이 되죠. 그런데 Anderson은 왜 하필 책상 위로 올라갔던 걸까요? Keating은 왜 하필 시로 학생들을 깨우치려고 했던 걸까요? 그가 했던 말 속에 정답이 있습니다. 시는 그 자체로 받아들여야 하고 또 그걸 제대로 느끼려면 스스로 판단을 해야 하는데 그 과정에서 전해지는 메시지가 있기 때문입니다. 아무리 좋은 글도 한 번 보고 흘리면 그대로 소멸되지만 시처럼 함축과 은유, 회화가 모두 포함된 내용의 글은 다시 한번 되새김질을 할 수밖에 없으니까요. 그리고 그로 인해 감수성이 충만해지는 건 필연적이기도 합니다. 하지만 더 중요한 건 따로 있습니다. Keating은 세상을 바라보는 눈을 뜨게 해주고 싶었던 겁니다. 각자의 느낌과 판단으로 말이죠. 단순한 주입식 공부만으론 도달하지 못하는 영역이니까요. Charlie는 수업시간에 여자의 젖가슴을 그리고 있었습니다. 그리고 Keating은 그 낙서에 깔린 교과서를 찢으라 시킵니다. 젖가슴은 아이의 자유로운 상상력과 호기심을 상징하고, 교과서는 그 창의성을 말살시키는 매개체로 봐야 합니다. 결국 단두대에서 살아남은 Charlie의 낙서는 하나의 완벽한 여인이 되어 그에게 속삭이고, 진화를 거듭해 그의 재능을 이끌어내줍니다. 무리 지어 날아가는 철새들과 같은 모습을 하고 있는 학생들. 이들은 Keating을 만나고 조금씩 변해갑니다. 불만이 있어도 아버지의 말을 거역하지 못했던 닐, 소심하고 내성적이었던 Anderson, 누완다로 진화하는 말썽쟁이 Charlie. 눈치라곤 전혀 없는 Cameron과, 사랑에 눈을 뜨게 되는 녹스. 모임에 회의적인 반응을 보였던 Pitts와 호기심이 많았던 Meeks. 아이들은 Keating이 던져준 작은 불씨를 마치 인류의 진화를 재현하듯 동굴 속에서 키워 나갑니다. Keating의 교육은 실패한 걸까요? 성공한 걸까요? 닐은 극단적인 선택을 했고, Cameron은 어른들의 힘에 굴복하고 말았습니다. 하지만 Charlie는 과거로 돌아가지 않고 또 다른 세상으로 나아갑니다. Anderson 또한 자신의 신념에 따라 움직이기 시작하는데 그게 방아쇠가 되어 녹스, Pitts, Meeks를",
+  "movie_id": "죽은 시인의 사회",
+  "reviewer": "리우군의_다락방",
+  "chunk_index": 3,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "KEATING",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Keating은 학생들에게 시를 통해 세상을 바라보는 눈을 뜨게 해주려 했던 교사이다. 닐의 공연 후 그를 칭찬했으며, 닐의 죽음에 슬픔에 가득 찼다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "닐",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "닐은 아버지의 뜻을 거역하지 못했던 학생으로, 공연 후 아버지에게 전학을 가라는 말을 듣고 영원한 침묵(죽음)을 선택한 비극적인 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "ANDERSON",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Anderson은 소심하고 내성적이었던 학생으로, 닐의 죽음을 괴로워했으며 영화 말미에 자신의 신념에 따라 움직이기 시작하고 책상 위로 올라가는 유명한 장면의 주인공이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "CHARLIE",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Charlie는 말썽쟁이로 누완다로 진화하는 학생이다. 수업시간에 여자의 젖가슴을 그렸으며, Cameron의 고자질에 화를 냈고, 과거로 돌아가지 않고 또 다른 세상으로 나아간다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "CAMERON",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Cameron은 눈치가 전혀 없는 학생으로, 닐의 죽음 후 모든 걸 고자질했으며 어른들의 힘에 굴복한 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "녹스",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "녹스는 사랑에 눈을 뜨게 되는 학생이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "PITTS",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Pitts는 모임에 회의적인 반응을 보였던 학생이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "MEEKS",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Meeks는 호기심이 많았던 학생이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "교장",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "교장은 닐의 죽음 사건을 철저히 조사하겠다고 공개 선언한 인물로, 영화 초반 학생들이 그의 뜻대로 움직였다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "닐의 아버지",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "닐의 아버지는 공연 후 Keating의 칭찬에 신경질적인 반응을 보이고, 닐에게 전학을 가라며 화를 퍼붓는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "죽은 시인의 사회",
+      "entity_type": "MOVIE",
+      "entity_description": "죽은 시인의 사회는 학생들이 Keating 선생님을 만나 변화해가는 과정을 그린 영화로, 영화 역사상 가장 유명한 장면 중 하나인 책상 위에 올라가는 장면이 있다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "KEATING",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "죽은 시인의 사회",
+      "target_type": "MOVIE",
+      "relationship_description": "Keating은 죽은 시인의 사회의 핵심 인물로 학생들을 가르치는 교사이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "닐",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "죽은 시인의 사회",
+      "target_type": "MOVIE",
+      "relationship_description": "닐은 죽은 시인의 사회의 주요 등장인물이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "ANDERSON",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "죽은 시인의 사회",
+      "target_type": "MOVIE",
+      "relationship_description": "Anderson은 죽은 시인의 사회의 주요 등장인물이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "CHARLIE",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "죽은 시인의 사회",
+      "target_type": "MOVIE",
+      "relationship_description": "Charlie는 죽은 시인의 사회의 주요 등장인물이다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "CAMERON",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "죽은 시인의 사회",
+      "target_type": "MOVIE",
+      "relationship_description": "Cameron은 죽은 시인의 사회의 등장인물이다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "KEATING",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "닐",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Keating은 닐의 공연을 칭찬했으며 닐의 죽음에 슬퍼했다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "닐",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "닐의 아버지",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "닐은 닐의 아버지의 아들로, 아버지의 뜻을 거역하지 못했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "ANDERSON",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "닐",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Anderson은 닐의 친구로 닐의 죽음을 괴로워했다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "CHARLIE",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "CAMERON",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Charlie는 고자질한 Cameron에게 화를 냈다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "KEATING",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "ANDERSON",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Keating은 Anderson을 가르쳤으며 Anderson은 Keating의 영향으로 변화했다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "KEATING",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "CHARLIE",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Keating은 Charlie에게 교과서를 찢으라고 시켰으며 Charlie의 창의성을 이끌어냈다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "녹스",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "죽은 시인의 사회",
+      "target_type": "MOVIE",
+      "relationship_description": "녹스는 죽은 시인의 사회의 등장인물이다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "PITTS",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "죽은 시인의 사회",
+      "target_type": "MOVIE",
+      "relationship_description": "Pitts는 죽은 시인의 사회의 등장인물이다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "MEEKS",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "죽은 시인의 사회",
+      "target_type": "MOVIE",
+      "relationship_description": "Meeks는 죽은 시인의 사회의 등장인물이다",
+      "relationship_strength": 7
+    }
+  ],
+  "entity_resolution": {
+    "KEATING": {
+      "description": "KEATING -> KEATING",
+      "resolved_name": "KEATING",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "닐": {
+      "description": "닐 -> 닐 페리",
+      "resolved_name": "닐 페리",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "ANDERSON": {
+      "description": "ANDERSON -> ANDERSON",
+      "resolved_name": "ANDERSON",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "CHARLIE": {
+      "description": "CHARLIE -> CHARLIE",
+      "resolved_name": "CHARLIE",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "CAMERON": {
+      "description": "CAMERON -> CAMERON",
+      "resolved_name": "CAMERON",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "녹스": {
+      "description": "녹스 -> 녹스 오버스트리트",
+      "resolved_name": "녹스 오버스트리트",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "PITTS": {
+      "description": "PITTS -> PITTS",
+      "resolved_name": "PITTS",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "MEEKS": {
+      "description": "MEEKS -> MEEKS",
+      "resolved_name": "MEEKS",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "교장": {
+      "description": "교장 -> 학교 교장",
+      "resolved_name": "학교 교장",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "닐의 아버지": {
+      "description": "닐의 아버지 -> 페리 씨",
+      "resolved_name": "페리 씨",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "죽은 시인의 사회": {
+      "description": "죽은 시인의 사회 -> 죽은 시인의 사회",
+      "resolved_name": "죽은 시인의 사회",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "name_exact"
+    }
+  }
+}

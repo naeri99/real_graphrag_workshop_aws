@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "프레데릭 존슨",
+    "synonym": [
+      "Frederick",
+      "Frederick Johnson",
+      "존슨",
+      "프레데릭",
+      "프레데릭 존슨",
+      "프레데릭존슨",
+      "프레드릭 존슨",
+      "프레드릭존슨"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "프레데릭 존슨은 영화 '스틸 앨리스'의 등장인물로, 세스 길리엄이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

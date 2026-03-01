@@ -1,0 +1,18 @@
+{
+  "entity": {
+    "name": "안젤리카 휴스턴",
+    "synonym": [
+      "Anjelica Huston",
+      "안젤리카",
+      "안젤리카 휴스턴",
+      "안젤리카 휴스톤",
+      "안젤리카휴스턴",
+      "앤젤리카 휴스턴",
+      "휴스턴"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "안젤리카 휴스턴은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

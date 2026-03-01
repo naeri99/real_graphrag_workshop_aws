@@ -1,0 +1,148 @@
+{
+  "chunk_hash": "8ce48a4e1535ba",
+  "chunk_id": "진리의_영화_8ce48a4e1535ba_c9606632",
+  "user_query": "이웃의 도움도 구할 수 없었습니다 그날밤 누군가 찾아오는데 the ist nur seit meine in kinik ist umbra oder Okay meine familie wartet geht mir nicht aus dem [음악] kopf 가족이 걱정된 핀은 탈출을 시도합니다 gehalten Sam ist verschwunden DU wirst das [박수] ert kindern kte ich kein 남편을 이용해 잠을 죽이려는 [음악] 카산드라 집으로 몰래 들어간 잠은 핀을 지키기 위해 잠을 공격할 수밖에 없었습니다 마치 ich [음악] 얼떨결에 들어온 의문의 방 어린아이의 방 [음악] 같았죠 핀에게 직진하는 카산드라 잠을 찌른 은 카산드라의 딸 카산드라 딸이죠 다시 과거로 돌아가 함께 잡혀 있던 카산드라의 가족들을 지키겠다고 약속하는 남편 딸을 데리러 간 [음악] 사이 약속을 어기고 도망쳤던 것입니다 카산드라는 불쌍한 딸을 떠올립니다 가스가 흘러나오는데 카산드라가 지켜주지 못했던 딸 딸의 시체와 함께 집은 폭파하며 시리즈는 끝이 납니다 영상 재밌게 보셨나요 이번 작품은 카산드라입니다 넷플릭스 공개 당시 무려 37개국에서 1위를 기록한 시리즈죠 독일에서 만든 시리즈였는데 가정부 로봇인 카산드라에 관한 내용이죠 한 가족이 오래된 집에 이사로 오게 되고 그곳에 있던 가정부 로봇을 실행시키는데 가정부 로봇은 가족들 중에서도 부인을 미워했습니다 마치 자신의 자리를 되찾으려고 하는 듯했죠 그리고 진실이 밝혀지는데 카산드라의 몸은 로봇이었지만 뇌는 인간인 카산드라의 것이었죠 다시 말해 인간인 카산드라가 로봇 신체로 연기를 하던 것 과거의 가족들에게 상처가 있던 카산드라는 잠의 가족들을 빼앗으려 했습니다 하지만 마지막에 자신의 과거 지키지 못한 어린 딸을 떠올리며 모든 것을 내려놓는 모습을 보이죠 굉장히 충격적인 내용과 반전으로 시간 가는 줄 모르고 본 시리즈였습니다 최근에 본 SF 스릴러 중에 단연 최고로 재밌었네요 그럼 이번 영상 여기까지고요 저는 또 다른 작품으로 인사드리겠습니다 지금까지 넷플릭스 시리즈 카산드라였습니다 [음악]",
+  "movie_id": "카산드라 드림",
+  "reviewer": "진리의_영화",
+  "chunk_index": 5,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "카산드라",
+      "entity_type": "MOVIE",
+      "entity_description": "카산드라는 넷플릭스에서 공개된 독일 SF 스릴러 시리즈로, 가정부 로봇에 관한 내용을 다루며 37개국에서 1위를 기록했다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "카산드라",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "카산드라는 로봇 신체를 가졌지만 인간의 뇌를 가진 가정부 로봇으로, 과거에 지키지 못한 딸에 대한 상처를 가지고 있다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "잠",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "잠은 카산드라 시리즈의 등장인물로, 핀을 지키기 위해 카산드라를 공격하며 가족을 보호하려 한다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "핀",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "핀은 카산드라 시리즈의 등장인물로, 탈출을 시도하며 잠의 보호를 받는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "카산드라의 딸",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "카산드라의 딸은 과거에 카산드라가 지켜주지 못해 죽은 어린아이로, 가스 사고로 사망했다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "넷플릭스",
+      "entity_type": "MOVIE",
+      "entity_description": "넷플릭스는 카산드라 시리즈를 공개한 스트리밍 플랫폼이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "카산드라",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "카산드라",
+      "target_type": "MOVIE",
+      "relationship_description": "카산드라는 동명의 시리즈의 핵심 캐릭터이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "잠",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "카산드라",
+      "target_type": "MOVIE",
+      "relationship_description": "잠은 카산드라 시리즈의 등장인물이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "핀",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "카산드라",
+      "target_type": "MOVIE",
+      "relationship_description": "핀은 카산드라 시리즈의 등장인물이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "카산드라",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "잠",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "카산드라는 잠의 가족을 빼앗으려 했으며 잠에게 찔렸다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "잠",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "핀",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "잠은 핀을 지키기 위해 카산드라를 공격했다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "카산드라",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "카산드라의 딸",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "카산드라의 딸은 카산드라가 과거에 지키지 못한 딸이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "카산드라",
+      "source_type": "MOVIE",
+      "target_entity": "넷플릭스",
+      "target_type": "MOVIE",
+      "relationship_description": "카산드라는 넷플릭스에서 공개되어 37개국 1위를 기록했다",
+      "relationship_strength": 8
+    }
+  ],
+  "entity_resolution": {
+    "카산드라": {
+      "description": "카산드라 -> 캐시 웹 / 마담 웹",
+      "resolved_name": "캐시 웹 / 마담 웹",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "잠": {
+      "description": "잠 -> 잠",
+      "resolved_name": "잠",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "핀": {
+      "description": "핀 -> 핀",
+      "resolved_name": "핀",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "카산드라의 딸": {
+      "description": "카산드라의 딸 -> 카산드라의 딸",
+      "resolved_name": "카산드라의 딸",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "넷플릭스": {
+      "description": "넷플릭스 -> 넷플릭스",
+      "resolved_name": "넷플릭스",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

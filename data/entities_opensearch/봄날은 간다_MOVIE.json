@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "봄날은 간다",
+    "synonym": [
+      "One Fine Spring Day",
+      "Spring Day",
+      "봄날",
+      "봄날 은 간다",
+      "봄날은 간다",
+      "봄날은 간다 영화",
+      "봄날은간다",
+      "원 파인 스프링 데이",
+      "원파인스프링데이"
+    ],
+    "entity_type": "MOVIE",
+    "summary": "봄날은 간다",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

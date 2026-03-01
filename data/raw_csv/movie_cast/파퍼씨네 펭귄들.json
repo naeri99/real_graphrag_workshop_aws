@@ -1,0 +1,98 @@
+{
+  "movie_title": "파퍼씨네 펭귄들",
+  "director": [
+    {
+      "name": "마크 워터스",
+      "name_en": "Mark Waters"
+    }
+  ],
+  "cast": [
+    {
+      "actor": "짐 캐리",
+      "actor_en": "Jim Carrey",
+      "character": "파퍼"
+    },
+    {
+      "actor": "칼라 구기노",
+      "actor_en": "Carla Gugino",
+      "character": "Amanda Popper"
+    },
+    {
+      "actor": "안젤라 랜즈베리",
+      "actor_en": "Angela Lansbury",
+      "character": "Mrs. Van Gundy"
+    },
+    {
+      "actor": "매들린 캐롤",
+      "actor_en": "Madeline Carroll",
+      "character": "Janie Popper"
+    },
+    {
+      "actor": "오필리아 로비본드",
+      "actor_en": "Ophelia Lovibond",
+      "character": "Pippi"
+    },
+    {
+      "actor": "클라크 그렉",
+      "actor_en": "Clark Gregg",
+      "character": "냇 존스"
+    },
+    {
+      "actor": "제프리 탬버",
+      "actor_en": "Jeffrey Tambor",
+      "character": "미스터 그레민스"
+    },
+    {
+      "actor": "데이비드 크럼홀츠",
+      "actor_en": "David Krumholtz",
+      "character": "켄트"
+    },
+    {
+      "actor": "필립 베이커 홀",
+      "actor_en": "Philip Baker Hall",
+      "character": "프랭클린"
+    },
+    {
+      "actor": "맥스웰 페리 코튼",
+      "actor_en": "Maxwell Perry Cotton",
+      "character": "빌리 파퍼"
+    },
+    {
+      "actor": "제임스 터퍼",
+      "actor_en": "James Tupper",
+      "character": "릭"
+    },
+    {
+      "actor": "앤드류 스튜어트 존스",
+      "actor_en": "Andrew Stewart-Jones",
+      "character": "반 군디"
+    },
+    {
+      "actor": "도미닉 치아니즈",
+      "actor_en": "Dominic Chianese",
+      "character": "파퍼 할아버지"
+    },
+    {
+      "actor": "베티 화이트",
+      "actor_en": "Betty White",
+      "character": "미시즈 반 군디"
+    },
+    {
+      "actor": "프랭크 웰커",
+      "actor_en": "Frank Welker",
+      "character": "펭귄 목소리"
+    },
+    {
+      "actor": "마크 워터스",
+      "actor_en": "Mark Waters",
+      "character": "감독"
+    }
+  ],
+  "review": [
+    "./data/review/파퍼씨네 펭귄들/파퍼씨네 펭귄들_XS2LjzTT9mE.json",
+    "./data/review/파퍼씨네 펭귄들/파퍼씨네 펭귄들_YaIUwmLXdpU.json",
+    "./data/review/파퍼씨네 펭귄들/파퍼씨네 펭귄들_Yfp64hn_yDg.json",
+    "./data/review/파퍼씨네 펭귄들/파퍼씨네 펭귄들_moIfQRY7MiA.json",
+    "./data/review/파퍼씨네 펭귄들/파퍼씨네 펭귄들_pgkZX-H9kzs.json"
+  ]
+}

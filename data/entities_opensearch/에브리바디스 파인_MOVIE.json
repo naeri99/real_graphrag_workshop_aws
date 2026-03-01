@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "에브리바디스 파인",
+    "synonym": [
+      "Everybody's Fine",
+      "Everybodys Fine",
+      "모두 괜찮아",
+      "모두 잘 지내고 있다오",
+      "에브리바디 파인",
+      "에브리바디스 파인",
+      "에브리바디스 화인",
+      "에브리바디스파인",
+      "에브리바디즈 파인"
+    ],
+    "entity_type": "MOVIE",
+    "summary": "에브리바디스 파인",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

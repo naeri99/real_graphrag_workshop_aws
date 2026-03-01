@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "라일리",
+    "synonym": [
+      "Riley",
+      "Riley Andersen",
+      "Riley Anderson",
+      "라일리",
+      "라일리 앤더슨",
+      "라일리 엔더슨",
+      "라일리 캐릭터",
+      "라일리앤더슨",
+      "라일리야",
+      "릴리"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "라일리은 영화 '인사이드 아웃 2'의 등장인물로, 켄싱턴 톨먼이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,274 @@
+{
+  "chunk_hash": "b28ba650116b95",
+  "chunk_id": "영맴영화관매니저_b28ba650116b95_4f01b2d0",
+  "user_query": "[음악] 안녕하세요 달콤한 영화이야기 캬라멜 팝콘입니다 오늘 리뷰할 영화는 제 인생 영화 팬텀 스레드인데요 다소 대중적으로는 많이 알려지지 않았지만 매그놀리아 데어 윌 비 블러드 마스터 인히어렌트 바이스 등 수많은 명작을 만든 폴 토마스 앤더슨 감독의 작품입니다 때는 바야흐로 1950년대 2차 세계대전이 끝난 직후 Reynolds는 누나 Cyril과 함께 런던 왕실과 사교계를 지배하는 그 솜씨로 평판이 자자한 디자이너입니다 많은 천재들이 그렇듯 그의 삶은 그만의 루틴에 완벽하게 통제되어 있습니다 심지어 여자관계까지 말이죠 예컨대 냄새 내 맡아야 금세 싫증 원래 쉬운데 뭐 포투 에쎄 하지만 장식품이 아닌 여자로서 사랑을 받고 싶어하는 그의 뮤즈들은 언제나 그를 떠나기 마련이었습니다 휴식을 위해 고향 집을 찾은 Reynolds 원익 근처 식당에서 식사를 하는데요 웨이트리스와 묘한 기류가 흐르는 본지 몇 분가 됐다고 다짜고짜 데이트를 신청합니다 요약 되더라구요 아니 아무리 그래도 그렇지 이렇게 뜬금 쉬운데 술 칼 있거야 아 그렇게 Alma를 집으로 초대한 weino.5 예 4 mars mpop 아이폰이 마이클스 함 싹 말고 서펜트 마음에 한번 그 사람 뒷받침 나 하는 기회를 보 나쁜남자 4 물씬나는 멘트를 뒤로 하고 옷을 만들어야 했다며 치수를 재는 Reynolds 섹스 나아 안녕하세요 알기 여 씨가 4 2 으 plx 있을 때니 이걸 좋아해야 할지 싫어야 할지 일단 드레스가 만들어졌으니 입고 데이트를 나가는 Alma 내부 스파이 갤러 킹 스윙스 걸 넘쳐 날 [음악] 빅 4의 으 [음악] 그렇게 Reynolds의 뮤즈가 된 Alma는 Woodcock 하우스의 모델이 됩니다요 조 속으로 패션쇼에 진출하는 Alma 이 패션 허씨는 Alma의 장난기와 내 이런지 건조한 프로페셔널 암이 대조적으로 보여지고 5 60년대 패션쇼의 모습을 볼 수 있어 참 좋아하는 시기입니다 잠시 감사원 가집니다 wee 오오오 wee 으 으 같습니다 으 하지만 언제나 좋을 수만은 없는 법 자기만의 방식을 고수하려는 Alma와 자신의 스타일에 Alma를 맞추려는 Reynolds 사이의 미묘한 신경전이 오갑니다 회원들의 어차 m 셔츠 s 담아 햄릿 아 아 으 에비타 탈퇴해 쓰 으 앱 life is 4 scott hero 아 수입상 이렇게 하는 것이 더 [음악] 대고객 인 Barbara Rose 분리해 파티에 참석하는 날 Alma의 Reynolds 표정이 매우 안 좋은데요 그도 그럴것이 의 물 지어 만든 드레스 다양한 방식으로 홀드 갖고 있었습니다 결국 실려가는 Barbara 부인을 보며 Alma는 분통을 터뜨립니다 내가 5 퀘스트 씁니다 으 cool 5 가맹 치우가 Alma의 기가막힌 선동 술에 Reynolds는 자리를 박차고 일어납니다 평안 [음악] try 쏘우 카 없어 있어줘 했을까요 미술 sc 팽 다만 아 으 아 으 틱톡 co 5 비록 사랑한다는 말은 못 들었지만 이제 조금만 더 하면 된다고 생각한 우리의 Alma Reynolds를 위한 서프라이즈를 준비하는데요 뛰어나게",
+  "movie_id": "팬텀 스레드",
+  "reviewer": "영맴영화관매니저",
+  "chunk_index": 1,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "캬라멜 팝콘",
+      "entity_type": "REVIEWER",
+      "entity_description": "캬라멜 팝콘은 '달콤한 영화이야기'라는 채널을 운영하며 영화 리뷰를 하는 유튜버이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "팬텀 스레드",
+      "entity_type": "MOVIE",
+      "entity_description": "팬텀 스레드는 1950년대 런던을 배경으로 한 영화로, 리뷰어가 인생 영화로 꼽는 작품이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "폴 토마스 앤더슨",
+      "entity_type": "MOVIE_STAFF",
+      "entity_description": "폴 토마스 앤더슨은 팬텀 스레드의 감독으로, 매그놀리아, 데어 윌 비 블러드, 마스터, 인히어렌트 바이스 등 수많은 명작을 만든 감독이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "매그놀리아",
+      "entity_type": "MOVIE",
+      "entity_description": "매그놀리아는 폴 토마스 앤더슨 감독의 작품이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "데어 윌 비 블러드",
+      "entity_type": "MOVIE",
+      "entity_description": "데어 윌 비 블러드는 폴 토마스 앤더슨 감독의 작품이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "마스터",
+      "entity_type": "MOVIE",
+      "entity_description": "마스터는 폴 토마스 앤더슨 감독의 작품이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "인히어렌트 바이스",
+      "entity_type": "MOVIE",
+      "entity_description": "인히어렌트 바이스는 폴 토마스 앤더슨 감독의 작품이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "REYNOLDS",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Reynolds는 1950년대 런던에서 누나 Cyril과 함께 왕실과 사교계를 지배하는 유명 디자이너로, 자신만의 루틴에 완벽하게 통제된 삶을 사는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "CYRIL",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Cyril은 Reynolds의 누나로 함께 일하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "ALMA",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Alma는 웨이트리스로 일하다가 Reynolds를 만나 그의 뮤즈가 되어 Woodcock 하우스의 모델이 되는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "BARBARA ROSE",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Barbara Rose는 Reynolds가 만든 드레스를 입고 파티에 참석하는 고객이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "캬라멜 팝콘",
+      "source_type": "REVIEWER",
+      "target_entity": "팬텀 스레드",
+      "target_type": "MOVIE",
+      "relationship_description": "캬라멜 팝콘은 팬텀 스레드를 자신의 인생 영화로 꼽으며 리뷰하였다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "폴 토마스 앤더슨",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "팬텀 스레드",
+      "target_type": "MOVIE",
+      "relationship_description": "폴 토마스 앤더슨은 팬텀 스레드를 감독하였다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "폴 토마스 앤더슨",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "매그놀리아",
+      "target_type": "MOVIE",
+      "relationship_description": "폴 토마스 앤더슨은 매그놀리아를 감독하였다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "폴 토마스 앤더슨",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "데어 윌 비 블러드",
+      "target_type": "MOVIE",
+      "relationship_description": "폴 토마스 앤더슨은 데어 윌 비 블러드를 감독하였다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "폴 토마스 앤더슨",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "마스터",
+      "target_type": "MOVIE",
+      "relationship_description": "폴 토마스 앤더슨은 마스터를 감독하였다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "폴 토마스 앤더슨",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "인히어렌트 바이스",
+      "target_type": "MOVIE",
+      "relationship_description": "폴 토마스 앤더슨은 인히어렌트 바이스를 감독하였다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "REYNOLDS",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "팬텀 스레드",
+      "target_type": "MOVIE",
+      "relationship_description": "Reynolds는 팬텀 스레드의 주인공이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "ALMA",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "팬텀 스레드",
+      "target_type": "MOVIE",
+      "relationship_description": "Alma는 팬텀 스레드의 주요 등장인물이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "CYRIL",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "팬텀 스레드",
+      "target_type": "MOVIE",
+      "relationship_description": "Cyril은 팬텀 스레드의 등장인물이다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "BARBARA ROSE",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "팬텀 스레드",
+      "target_type": "MOVIE",
+      "relationship_description": "Barbara Rose는 팬텀 스레드의 등장인물이다",
+      "relationship_strength": 6
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "REYNOLDS",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "CYRIL",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Reynolds와 Cyril은 남매 관계로 함께 일한다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "REYNOLDS",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "ALMA",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Reynolds는 Alma를 만나 자신의 뮤즈로 삼고 사랑하는 관계가 된다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "REYNOLDS",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "BARBARA ROSE",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Reynolds는 Barbara Rose를 위해 드레스를 제작하였다",
+      "relationship_strength": 7
+    }
+  ],
+  "entity_resolution": {
+    "캬라멜 팝콘": {
+      "description": "캬라멜 팝콘 -> 캬라멜 팝콘",
+      "resolved_name": "캬라멜 팝콘",
+      "entity_type": "REVIEWER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "팬텀 스레드": {
+      "description": "팬텀 스레드 -> 팬텀 스레드",
+      "resolved_name": "팬텀 스레드",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "폴 토마스 앤더슨": {
+      "description": "폴 토마스 앤더슨 -> 폴 토마스 앤더슨",
+      "resolved_name": "폴 토마스 앤더슨",
+      "entity_type": "MOVIE_STAFF",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "매그놀리아": {
+      "description": "매그놀리아 -> 매그놀리아",
+      "resolved_name": "매그놀리아",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "데어 윌 비 블러드": {
+      "description": "데어 윌 비 블러드 -> 데어 윌 비 블러드",
+      "resolved_name": "데어 윌 비 블러드",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "마스터": {
+      "description": "마스터 -> 마스터",
+      "resolved_name": "마스터",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "인히어렌트 바이스": {
+      "description": "인히어렌트 바이스 -> 인히어렌트 바이스",
+      "resolved_name": "인히어렌트 바이스",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "REYNOLDS": {
+      "description": "REYNOLDS -> REYNOLDS",
+      "resolved_name": "REYNOLDS",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "CYRIL": {
+      "description": "CYRIL -> CYRIL",
+      "resolved_name": "CYRIL",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "ALMA": {
+      "description": "ALMA -> ALMA",
+      "resolved_name": "ALMA",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "BARBARA ROSE": {
+      "description": "BARBARA ROSE -> BARBARA ROSE",
+      "resolved_name": "BARBARA ROSE",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

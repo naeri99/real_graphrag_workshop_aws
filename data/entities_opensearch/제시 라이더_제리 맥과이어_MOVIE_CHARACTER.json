@@ -1,0 +1,18 @@
+{
+  "entity": {
+    "name": "제시 라이더",
+    "synonym": [
+      "Jesse",
+      "Jesse Ryder",
+      "라이더",
+      "제시",
+      "제시 라이더",
+      "제시라이더",
+      "제씨 라이더"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "제시 라이더은 영화 '제리 맥과이어'의 등장인물로, 드레이크 벨이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

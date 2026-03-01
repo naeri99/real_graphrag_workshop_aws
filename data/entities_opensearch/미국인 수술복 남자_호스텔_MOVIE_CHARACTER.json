@@ -1,0 +1,23 @@
+{
+  "entity": {
+    "name": "미국인 수술복 남자",
+    "synonym": [
+      "American Man in Scrubs",
+      "American Man in Surgical Gown",
+      "American Surgeon",
+      "미국 수술복 남자",
+      "미국 외과의",
+      "미국인 수술복 남자",
+      "미국인 수술복 입은 남자",
+      "미국인 외과의",
+      "미국인 의사",
+      "미국인수술복남자",
+      "수술복 남자",
+      "아메리칸 서전"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "미국인 수술복 남자은 영화 '호스텔'의 등장인물로, 일라이 로스이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

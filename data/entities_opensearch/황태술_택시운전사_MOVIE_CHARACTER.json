@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "황태술",
+    "synonym": [
+      "Hwang Tae-sul",
+      "Tae-sul",
+      "광주 택시기사",
+      "태술",
+      "태술씨",
+      "태술이",
+      "황 태술",
+      "황기사",
+      "황태 술",
+      "황태술"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "황태술은 영화 '택시운전사'의 등장인물로, 유해진이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

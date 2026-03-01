@@ -1,0 +1,24 @@
+{
+  "entity": {
+    "name": "브릭스턴 로어",
+    "synonym": [
+      "Brixton",
+      "Brixton Lore",
+      "까까머리 악당",
+      "로어",
+      "브룩스",
+      "브릭스턴",
+      "브릭스턴 로어",
+      "브릭스턴로어",
+      "브릭스톤",
+      "브릭스톤 로어",
+      "블랙 슈퍼맨",
+      "사이보그",
+      "사이보그 악당"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "브릭스턴 로어은 영화 '홉스앤쇼'의 등장인물로, 이드리스 엘바이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

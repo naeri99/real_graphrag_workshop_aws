@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "미야자키 하야오",
+    "synonym": [
+      "Hayao Miyazaki",
+      "Miyazaki",
+      "宮崎駿",
+      "미야자키",
+      "미야자키 감독",
+      "미야자키 하야오",
+      "미야자키감독",
+      "미야자키하야오",
+      "지브리 감독",
+      "하야오",
+      "하야오 미야자키"
+    ],
+    "entity_type": "MOVIE_STAFF",
+    "summary": "미야자키 하야오은 영화 감독입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

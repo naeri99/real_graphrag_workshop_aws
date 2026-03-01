@@ -1,0 +1,12 @@
+{
+  "entity": {
+    "name": "에프피하우스",
+    "synonym": [
+      "에프피하우스"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "에프피하우스은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

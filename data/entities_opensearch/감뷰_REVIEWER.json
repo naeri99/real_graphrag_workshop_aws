@@ -1,0 +1,12 @@
+{
+  "entity": {
+    "name": "감뷰",
+    "synonym": [
+      "감뷰"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "감뷰은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

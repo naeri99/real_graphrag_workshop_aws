@@ -1,0 +1,26 @@
+{
+  "entity": {
+    "name": "극비수사",
+    "synonym": [
+      "2015 극비수사",
+      "Classified Investigation",
+      "Geukbi Susa",
+      "Geukbisusa",
+      "The Classified File",
+      "Top Secret",
+      "Top Secret Investigation",
+      "極秘搜査",
+      "극비 수사",
+      "극비수사",
+      "극비수사 영화",
+      "비밀수사",
+      "톱시크릿",
+      "톱시크릿 수사",
+      "톱시크릿수사"
+    ],
+    "entity_type": "MOVIE",
+    "summary": "극비수사",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "entity": {
+    "name": "DOCLIP_--_두클립",
+    "synonym": [
+      "DOCLIP_--_두클립",
+      "DOCLIP -- 두클립"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "DOCLIP_--_두클립은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "entity": {
+    "name": "케이",
+    "synonym": [
+      "K",
+      "Kay",
+      "Kay character",
+      "절교",
+      "주인공 케이",
+      "캐이",
+      "케이",
+      "케이 에이리언",
+      "케이 카라딘",
+      "케이 캐릭터",
+      "케이씨",
+      "케이역"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "케이은 영화 '슬픔보다 더 슬픈 이야기'의 등장인물로, 권상우이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

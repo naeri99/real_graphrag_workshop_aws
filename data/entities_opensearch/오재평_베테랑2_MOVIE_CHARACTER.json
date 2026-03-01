@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "오재평",
+    "synonym": [
+      "Jae-pyeong",
+      "Oh Jae-pyeong",
+      "미스터 봉",
+      "미스터봉",
+      "오 재평",
+      "오재 평",
+      "오재평",
+      "오재평씨",
+      "재평",
+      "재평이"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "오재평은 영화 '베테랑2'의 등장인물로, 오달수이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

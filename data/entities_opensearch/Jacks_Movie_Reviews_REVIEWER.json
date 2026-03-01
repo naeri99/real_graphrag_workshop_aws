@@ -1,0 +1,13 @@
+{
+  "entity": {
+    "name": "Jacks_Movie_Reviews",
+    "synonym": [
+      "Jacks_Movie_Reviews",
+      "Jacks Movie Reviews"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "Jacks_Movie_Reviews은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

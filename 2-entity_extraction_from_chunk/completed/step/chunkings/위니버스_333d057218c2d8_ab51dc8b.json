@@ -1,0 +1,71 @@
+{
+  "chunk_hash": "333d057218c2d8",
+  "chunk_id": "위니버스_333d057218c2d8_ab51dc8b",
+  "user_query": "is a shell, the singularity is a pearl. The singularity in physics is a very small area where the surface of spacetime is infinitely distorted. We've seen enough mathematical singularities in high school. You learn that a simple rational function does not define a value in a particular area. The form of a black hole is more like this function, simply to look at it. This function has a value at all points, but cannot be differentiated at zero. So the concept of singularity exists mathematically. But it's impossible to see beyond the event horizon of a black hole in nature. This is because, as I said before, light cannot escape. So it's in the question that the singularity really exists. Like Romilly of Interstellar, scholars really want to look beyond the event horizon. If the black hole is spinning really fast, the event horizon will disappear and the singularity will be exposed. This is called a naked singularity. However, it is only the wish of scholars to observe the naked singularity in the natural state. This is because it violates the laws of physics, assuming that the black hole's spin should be faster than the speed of light. Therefore, it is not expected that any naked singularity will be observed in the natural state. That's why Dr. Mann says, \"The laws of nature prohibit a naked singularity\" Why do scholars want to observe the singularity? The singularity is where extreme gravity exist in very narrow areas. So it's the best place to figure out the quantum gravity",
+  "movie_id": "인터스텔라",
+  "reviewer": "위니버스",
+  "chunk_index": 5,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "INTERSTELLAR",
+      "entity_type": "MOVIE",
+      "entity_description": "인터스텔라는 블랙홀과 특이점을 다루는 SF 영화이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "ROMILLY",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "로밀리는 인터스텔라에 등장하는 인물로, 학자들처럼 사건의 지평선 너머를 보고 싶어하는 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "DR. MANN",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "만 박사는 인터스텔라에 등장하는 인물로, \"자연의 법칙은 벌거벗은 특이점을 금지한다\"라고 말하는 캐릭터이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "ROMILLY",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "INTERSTELLAR",
+      "target_type": "MOVIE",
+      "relationship_description": "로밀리는 인터스텔라에 등장하는 캐릭터이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "DR. MANN",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "INTERSTELLAR",
+      "target_type": "MOVIE",
+      "relationship_description": "만 박사는 인터스텔라에 등장하는 캐릭터이다",
+      "relationship_strength": 10
+    }
+  ],
+  "entity_resolution": {
+    "INTERSTELLAR": {
+      "description": "INTERSTELLAR -> INTERSTELLAR",
+      "resolved_name": "INTERSTELLAR",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "ROMILLY": {
+      "description": "ROMILLY -> ROMILLY",
+      "resolved_name": "ROMILLY",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "DR. MANN": {
+      "description": "DR. MANN -> DR. MANN",
+      "resolved_name": "DR. MANN",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

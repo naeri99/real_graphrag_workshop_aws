@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "존 카니",
+    "synonym": [
+      "John Carney",
+      "John Kani",
+      "존",
+      "존 카네이",
+      "존 카니",
+      "존 카니이",
+      "존카니",
+      "카니"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "존 카니은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

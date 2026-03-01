@@ -1,0 +1,258 @@
+{
+  "chunk_hash": "5ba34626746f26",
+  "chunk_id": "캬랑Kyaryang_5ba34626746f26_172dd9ce",
+  "user_query": "고양이 버스를 타고 죽은 동생과 만나게 되었다 그리고 고양이 버스를 타고 그렇게 보고 싶어 하던 어머니를 보러 가지만 바로 들어가 볼 수 있는 거리임에도 불구하고 나무에 앉아서 지켜보기만 합니다 그리고 옥수수 하나를 창가에 놓고 가죠 엄마에게라고 쓰인 옥수수가 갑자기 창가에 놓여 있는데 어머니와 아버지의 대화는 꼭 죽은 자식들이 놓았다 본 것처럼 말합니다 조금은 학생들의 타투를 탐구하려 할 때 하면 뭔가 슬퍼 가 보셨나요 사야마 사건과 토토로가 연관이 있는 이유는 하필 사야마 옆 동네인 토코로자와 시가 영화의 배경이 되었고 자매가 등장하는데 동생을 잃어버린다는 점 하필 언니가 언급한 고양이와 너구리가 등장한다는 점 그리고 사야마 사건은 1963년 5월 1일에 일어난 사건으로 동생 메이의 이름은 영어로 5월을 뜻하며 언니인 사츠키 이름은 1번째 달 오월을 뜻한다는 것입니다 그러나 이 괴담에는 해결되지 않는 것이 있는데 메이와 사츠키가 죽었다면 있을 수 없는 엔딩 장면입니다 메이와 사츠키는 집으로 다시 돌아오고 해피엔딩으로 끝이 나죠 이런 의문에 괴담은 아버지의 직업을 해답으로 넣었는데 작중에 아버지가 글을 쓰는 장면들이 나오는데 이 장면들로 미루어 아버지는 글을 쓰는 일을 하고 있다는 것입니다 글을 쓰며 무언가 잘 안 풀린 듯한 표정 그리고 옆에 메이를 보고 뭔가 해결이 된 듯한 표정으로 바뀌며 글을 써내려 갑니다 그리고 메이가 작은 생명체를 따라 가는 장면으로 이어지죠 그리고 중간에 한 번 더 글을 쓰는 아버지의 모습이 나옵니다 마당에 나무가 자라나는 어이없는 상황이 벌어지고 있는데 아버지는 방안에서 글을 쓰고 있죠 나무가 쑥쑥 자라나며 아버지는 밖을 한번 내다보고 다시 그럽니다 글을 쓴 뒤 이어진 장면은 아이들이 토토로와 춤을 추고 있는 장면입니다 또다시 글 쓰는 아버지가 나오고 이번엔 마당 위쪽을 올려다 보고 흐뭇하게 웃으며 다시 글을 씁니다 그리고 이어진 장면은 나무 위에서 아이들이 토토로와 피리를 불고 있는 장면이죠 즉 이 모든 이야기는 딸을 잃은 아버지가 딸들을 상상하여 쓴 글이라는 것입니다 정리를 해보자면 어머니가 결핵에 걸려 가족들과 같이 토코로자와 시로 이사를 오게 되었는데 이사 온 토코로자와 시에서 혼자 어머니를 찾으러 간 메이는 저수지에서 죽고 메이를 찾던 사츠키는 숲속에서 죽었고 아이들이 죽기 전 계속 같다고 했던 괴물이 사실 사신이 아닌 친구이며 다시 아이들을 데려와주고 결핵에 걸린 아내가 완치되어 집에 오는 것을 상상하여 쓴 비극을 희극으로 바꾼 아버지의 소설이라는 것이죠",
+  "movie_id": "토토로",
+  "reviewer": "캬랑Kyaryang",
+  "chunk_index": 3,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "이웃집 토토로",
+      "entity_type": "MOVIE",
+      "entity_description": "이웃집 토토로는 토코로자와 시를 배경으로 한 지브리 애니메이션 영화로, 어머니가 결핵에 걸려 이사 온 가족과 숲의 정령 토토로의 이야기를 다룬다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "메이",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "메이는 영화의 주인공 자매 중 동생으로, 이름은 영어로 5월을 뜻하며, 작은 생명체를 따라가다 토토로를 만나고 어머니를 보러 가기 위해 혼자 길을 나서는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "사츠키",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "사츠키는 영화의 주인공 자매 중 언니로, 이름은 일본어로 5월을 뜻하며, 동생 메이를 찾아다니고 고양이 버스를 타고 함께 어머니를 만나러 가는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "아버지",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "아버지는 메이와 사츠키의 아버지로, 글을 쓰는 일을 하며 결핵에 걸린 아내를 위해 토코로자와 시로 이사 온 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "어머니",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "어머니는 메이와 사츠키의 어머니로, 결핵에 걸려 병원에 입원해 있으며 아이들이 보고 싶어하는 대상이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "토토로",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "토토로는 숲의 정령으로, 아이들과 춤을 추고 피리를 불며 교류하는 신비로운 존재이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "고양이 버스",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "고양이 버스는 메이와 사츠키를 태우고 어머니가 있는 병원으로 데려다주는 신비로운 존재이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "메이",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "이웃집 토토로",
+      "target_type": "MOVIE",
+      "relationship_description": "메이는 이웃집 토토로의 주인공 자매 중 동생이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "사츠키",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "이웃집 토토로",
+      "target_type": "MOVIE",
+      "relationship_description": "사츠키는 이웃집 토토로의 주인공 자매 중 언니이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "아버지",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "이웃집 토토로",
+      "target_type": "MOVIE",
+      "relationship_description": "아버지는 이웃집 토토로에 등장하는 자매의 아버지이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "어머니",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "이웃집 토토로",
+      "target_type": "MOVIE",
+      "relationship_description": "어머니는 이웃집 토토로에 등장하는 자매의 어머니로 병원에 입원해 있다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "토토로",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "이웃집 토토로",
+      "target_type": "MOVIE",
+      "relationship_description": "토토로는 영화 이웃집 토토로의 핵심 캐릭터이자 제목의 유래이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "고양이 버스",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "이웃집 토토로",
+      "target_type": "MOVIE",
+      "relationship_description": "고양이 버스는 이웃집 토토로에 등장하는 신비로운 존재이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "메이",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "사츠키",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "메이와 사츠키는 자매 관계이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "메이",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "아버지",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "메이는 아버지의 딸이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "사츠키",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "아버지",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "사츠키는 아버지의 딸이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "메이",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "어머니",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "메이는 어머니의 딸로, 어머니를 보고 싶어한다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "사츠키",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "어머니",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "사츠키는 어머니의 딸로, 어머니를 보고 싶어한다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "아버지",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "어머니",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "아버지와 어머니는 부부 관계이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "메이",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "토토로",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "메이는 토토로를 처음 발견하고 함께 춤추고 피리를 부는 관계이다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "사츠키",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "토토로",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "사츠키는 토토로와 함께 춤추고 피리를 부는 관계이다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "메이",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "고양이 버스",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "메이는 고양이 버스를 타고 어머니를 만나러 간다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "사츠키",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "고양이 버스",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "사츠키는 고양이 버스를 타고 메이를 찾고 어머니를 만나러 간다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "고양이 버스",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "토토로",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "고양이 버스는 토토로와 연관된 신비로운 존재이다",
+      "relationship_strength": 7
+    }
+  ],
+  "entity_resolution": {
+    "이웃집 토토로": {
+      "description": "이웃집 토토로 -> 이웃집 토토로",
+      "resolved_name": "이웃집 토토로",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "메이": {
+      "description": "메이 -> 메이",
+      "resolved_name": "메이",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "사츠키": {
+      "description": "사츠키 -> 사츠키",
+      "resolved_name": "사츠키",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "아버지": {
+      "description": "아버지 -> 아버지",
+      "resolved_name": "아버지",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "어머니": {
+      "description": "어머니 -> 자홍의 어머니",
+      "resolved_name": "자홍의 어머니",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "토토로": {
+      "description": "토토로 -> 토토로",
+      "resolved_name": "토토로",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "고양이 버스": {
+      "description": "고양이 버스 -> 고양이 버스",
+      "resolved_name": "고양이 버스",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

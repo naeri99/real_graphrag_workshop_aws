@@ -1,0 +1,13 @@
+{
+  "entity": {
+    "name": "N생작_-_review",
+    "synonym": [
+      "N생작_-_review",
+      "N생작 - review"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "N생작_-_review은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

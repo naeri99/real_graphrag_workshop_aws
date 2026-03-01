@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "제랄딘 휴즈",
+    "synonym": [
+      "Geraldine Hughes",
+      "제랄딘",
+      "제랄딘 휴스",
+      "제랄딘 휴즈",
+      "제랄딘휴즈",
+      "제럴딘 휴즈",
+      "제럴딘휴즈",
+      "휴즈"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "제랄딘 휴즈은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

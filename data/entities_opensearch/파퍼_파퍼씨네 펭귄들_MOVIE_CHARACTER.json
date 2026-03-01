@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "파퍼",
+    "synonym": [
+      "Mr. Popper",
+      "Popper",
+      "Tom Popper",
+      "미스터 파퍼",
+      "미스터 포퍼",
+      "톰 파퍼",
+      "톰파퍼",
+      "파퍼",
+      "파퍼 씨",
+      "파퍼씨",
+      "포퍼"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "파퍼은 영화 '파퍼씨네 펭귄들'의 등장인물로, 짐 캐리이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

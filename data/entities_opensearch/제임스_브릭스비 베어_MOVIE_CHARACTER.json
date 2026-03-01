@@ -1,0 +1,24 @@
+{
+  "entity": {
+    "name": "제임스",
+    "synonym": [
+      "James",
+      "James Newton Howard",
+      "뉴튼 하워드",
+      "제이",
+      "제임",
+      "제임스",
+      "제임스 뉴튼 하워드",
+      "제임스 코브",
+      "제임스 포프",
+      "제임스뉴튼하워드",
+      "제임스씨",
+      "제임즈",
+      "짐"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "제임스은 영화 '브릭스비 베어'의 등장인물로, 카일 무니이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

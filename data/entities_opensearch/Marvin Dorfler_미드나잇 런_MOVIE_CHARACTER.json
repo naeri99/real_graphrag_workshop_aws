@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "Marvin Dorfler",
+    "synonym": [
+      "Dorfler",
+      "Marvin",
+      "Marvin Dorfler",
+      "도플러",
+      "마빈",
+      "마빈 도르플러",
+      "마빈 도플러",
+      "마빈 돌플러",
+      "마빈도플러"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "Marvin Dorfler은 영화 '미드나잇 런'의 등장인물로, 존 애시턴이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

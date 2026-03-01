@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "알렉산드라 웬트워스",
+    "synonym": [
+      "Alexandra",
+      "Alexandra Wentworth",
+      "알렉산드라",
+      "알렉산드라 웬트워드",
+      "알렉산드라 웬트워스",
+      "알렉산드라 웬트워쓰",
+      "알렉산드라웬트워스",
+      "알리 웬트워스",
+      "웬트워스"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "알렉산드라 웬트워스은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

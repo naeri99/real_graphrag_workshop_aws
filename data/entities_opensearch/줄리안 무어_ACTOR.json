@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "줄리안 무어",
+    "synonym": [
+      "Julianne Moore",
+      "무어",
+      "줄리안",
+      "줄리안 모어",
+      "줄리안 무어",
+      "줄리안무어",
+      "줄리앤",
+      "줄리앤 무어",
+      "줄리앤무어"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "줄리안 무어은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

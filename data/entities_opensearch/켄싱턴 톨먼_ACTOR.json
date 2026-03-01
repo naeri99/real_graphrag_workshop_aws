@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "켄싱턴 톨먼",
+    "synonym": [
+      "Kensington",
+      "Kensington Tallman",
+      "Kensington Tolman",
+      "켄싱턴",
+      "켄싱턴 탈먼",
+      "켄싱턴 톨만",
+      "켄싱턴 톨맨",
+      "켄싱턴 톨먼",
+      "켄싱턴톨먼",
+      "톨먼"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "켄싱턴 톨먼은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

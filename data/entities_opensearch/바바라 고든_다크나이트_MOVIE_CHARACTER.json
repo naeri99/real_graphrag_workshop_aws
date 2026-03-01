@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "바바라 고든",
+    "synonym": [
+      "Barbara",
+      "Barbara Gordon",
+      "Mrs. Gordon",
+      "고든 부인",
+      "바바라",
+      "바바라 고돈",
+      "바바라 고든",
+      "바바라 고든 부인",
+      "바바라 키언",
+      "바바라고든",
+      "배트걸"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "바바라 고든은 영화 '다크나이트'의 등장인물로, 멜린다 맥그로이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

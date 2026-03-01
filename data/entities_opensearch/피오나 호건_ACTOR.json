@@ -1,0 +1,18 @@
+{
+  "entity": {
+    "name": "피오나 호건",
+    "synonym": [
+      "Fiona Hogan",
+      "피오나",
+      "피오나 호간",
+      "피오나 호건",
+      "피오나호간",
+      "피오나호건",
+      "호건"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "피오나 호건은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "chunk_hash": "2c5e27edc5fc39",
+  "chunk_id": "Cody_Leach_2c5e27edc5fc39_d200a218",
+  "user_query": "I know people say horror is just about the tits and the gore but God [Music] [Applause] damn what is up everybody and welcome to my review of the original Hostel and they kick off to my quick little Hostel review series before we land ourselves at 31 on 31 pain and suffering here in just about a week so for those that don't know what 31 on 31 is every single Halloween and sometimes throughout the earlier months of the year me and the cohorts at autop stream get together we choose a theme and 31 franchise films that fit that theme and we rank all of them on Halloween this year we're going to be joined by Rudy at Gen X reviews and with the theme of pain and suffering we've got Hellraiser saw Wrong Turn and of course Hostel and Hostel is the only one of these films that I have not reviewed yet though I have seen well I saw the first two about to watch the third one tonight and Hostel is an interesting movie to talk about for me because the memory of the day I saw this for the first time in theaters with my dad is a memory that will be forever seared into my brain that is a day that I will never forget for as long as I am on this Earth that's not to say that Hostel is one of my favorite movies cuz it's not as far from it but the memory of experiencing this movie it's something that both me and my dad remember vividly and when we bring it up both of us just laugh about just the Unison memory that we have that is 100% in line with each other so essentially this movie came out I was",
+  "movie_id": "호스텔",
+  "reviewer": "Cody_Leach",
+  "chunk_index": 1,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "HOSTEL",
+      "entity_type": "MOVIE",
+      "entity_description": "Hostel은 호러 장르의 영화로, 리뷰어가 아버지와 함께 극장에서 처음 본 기억이 강렬하게 남아있는 작품이다. 31 on 31 시리즈의 \"pain and suffering\" 테마에 포함된 프랜차이즈 영화이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "RUDY",
+      "entity_type": "REVIEWER",
+      "entity_description": "Rudy는 Gen X reviews의 리뷰어로, 31 on 31 Halloween 이벤트에 참여할 예정이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "HELLRAISER",
+      "entity_type": "MOVIE",
+      "entity_description": "Hellraiser는 31 on 31 이벤트의 \"pain and suffering\" 테마에 포함된 호러 프랜차이즈 영화이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "SAW",
+      "entity_type": "MOVIE",
+      "entity_description": "Saw는 31 on 31 이벤트의 \"pain and suffering\" 테마에 포함된 호러 프랜차이즈 영화이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "WRONG TURN",
+      "entity_type": "MOVIE",
+      "entity_description": "Wrong Turn은 31 on 31 이벤트의 \"pain and suffering\" 테마에 포함된 호러 프랜차이즈 영화이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "HOSTEL",
+      "source_type": "MOVIE",
+      "target_entity": "HELLRAISER",
+      "target_type": "MOVIE",
+      "relationship_description": "두 영화 모두 31 on 31 이벤트의 \"pain and suffering\" 테마에 포함된 호러 프랜차이즈이다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "HOSTEL",
+      "source_type": "MOVIE",
+      "target_entity": "SAW",
+      "target_type": "MOVIE",
+      "relationship_description": "두 영화 모두 31 on 31 이벤트의 \"pain and suffering\" 테마에 포함된 호러 프랜차이즈이다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "HOSTEL",
+      "source_type": "MOVIE",
+      "target_entity": "WRONG TURN",
+      "target_type": "MOVIE",
+      "relationship_description": "두 영화 모두 31 on 31 이벤트의 \"pain and suffering\" 테마에 포함된 호러 프랜차이즈이다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "RUDY",
+      "source_type": "REVIEWER",
+      "target_entity": "HOSTEL",
+      "target_type": "MOVIE",
+      "relationship_description": "Rudy는 31 on 31 Halloween 이벤트에서 Hostel을 포함한 영화들을 랭킹할 예정이다",
+      "relationship_strength": 5
+    }
+  ],
+  "entity_resolution": {
+    "HOSTEL": {
+      "description": "HOSTEL -> HOSTEL",
+      "resolved_name": "HOSTEL",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "RUDY": {
+      "description": "RUDY -> RUDY",
+      "resolved_name": "RUDY",
+      "entity_type": "REVIEWER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "HELLRAISER": {
+      "description": "HELLRAISER -> HELLRAISER",
+      "resolved_name": "HELLRAISER",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "SAW": {
+      "description": "SAW -> SAW",
+      "resolved_name": "SAW",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "WRONG TURN": {
+      "description": "WRONG TURN -> WRONG TURN",
+      "resolved_name": "WRONG TURN",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

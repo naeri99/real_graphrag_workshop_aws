@@ -1,0 +1,23 @@
+{
+  "entity": {
+    "name": "웬디 맥렌던 코비",
+    "synonym": [
+      "Wendi",
+      "Wendi McLendon Covey",
+      "Wendi McLendon-Covey",
+      "맥렌던 코비",
+      "웬디",
+      "웬디 맥렌던 코비",
+      "웬디 맥렌던코비",
+      "웬디 맥렌돈 코비",
+      "웬디 맥렌든 코비",
+      "웬디 맥클렌던 코비",
+      "웬디 코비",
+      "웬디맥렌던코비"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "웬디 맥렌던 코비은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

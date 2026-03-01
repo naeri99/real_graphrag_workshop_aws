@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "존 패브로",
+    "synonym": [
+      "Jon Favreau",
+      "존 파브로",
+      "존 패브로",
+      "존 패브로우",
+      "존 페브로",
+      "존 페이브로",
+      "존파브로",
+      "존패브로",
+      "파브로",
+      "패브로"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "존 패브로은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

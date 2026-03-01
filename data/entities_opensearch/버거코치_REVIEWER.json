@@ -1,0 +1,12 @@
+{
+  "entity": {
+    "name": "버거코치",
+    "synonym": [
+      "버거코치"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "버거코치은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

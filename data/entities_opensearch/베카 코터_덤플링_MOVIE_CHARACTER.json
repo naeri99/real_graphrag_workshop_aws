@@ -1,0 +1,18 @@
+{
+  "entity": {
+    "name": "베카 코터",
+    "synonym": [
+      "Bekah",
+      "Bekah Cotter",
+      "베카",
+      "베카 코타",
+      "베카 코터",
+      "베카코터",
+      "코터"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "베카 코터은 영화 '덤플링'의 등장인물로, 도브 카메론이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

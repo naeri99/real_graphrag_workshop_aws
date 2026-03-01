@@ -1,0 +1,17 @@
+{
+  "entity": {
+    "name": "Ravi",
+    "synonym": [
+      "Ravi",
+      "라비",
+      "라비 캐릭터",
+      "라비역",
+      "라위",
+      "레이비"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "Ravi은 영화 '글래디에이터 2'의 등장인물로, 알렉산더 카림이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

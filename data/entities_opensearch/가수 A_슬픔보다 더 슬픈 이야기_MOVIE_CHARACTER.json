@@ -1,0 +1,18 @@
+{
+  "entity": {
+    "name": "가수 A",
+    "synonym": [
+      "A 가수",
+      "A가수",
+      "Singer A",
+      "가수 A",
+      "가수 에이",
+      "가수A",
+      "가수에이"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "가수 A은 영화 '슬픔보다 더 슬픈 이야기'의 등장인물로, 이승철이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

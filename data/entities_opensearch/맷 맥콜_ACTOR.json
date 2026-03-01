@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "맷 맥콜",
+    "synonym": [
+      "Matt McCall",
+      "Matt McColm",
+      "매트 맥콜",
+      "매트맥콜",
+      "맥콜",
+      "맷",
+      "맷 맥칼",
+      "맷 맥컬",
+      "맷 맥콜",
+      "맷맥콜"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "맷 맥콜은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

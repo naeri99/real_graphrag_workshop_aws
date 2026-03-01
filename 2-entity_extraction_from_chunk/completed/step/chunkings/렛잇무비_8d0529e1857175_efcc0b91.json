@@ -1,0 +1,124 @@
+{
+  "chunk_hash": "8d0529e1857175",
+  "chunk_id": "렛잇무비_8d0529e1857175_efcc0b91",
+  "user_query": "[Music] foreign [Music] foreign [Music] this is correct come foreign [Music] hey [ __ ] you oh my god it here it doesn't mean because i go here i'm a genius is that uh prior to the revolutionalities especially in the southern college if you're a first year grad student you just got finished reading some moxie and historian pete work in essex county page 98 right of your own on this matter of fact [Music] that you've been through several foster homes the state removed you from three because you might care but you hit a [ __ ] day [Music] hi jerry i've got time to tell you much less talk to that things to do with my time hey well there is someone who is here since we seen each other before nancy died yeah i'm sorry never heard of ramona john um he's a bit defensive all your money on these [ __ ] fancy books you surround yourselves with them they're the wrong [ __ ] books you paint that it's a real piece of [ __ ] about one step away from cutting your [ __ ] hair off really oh yeah maybe you married the wrong woman maybe you should watch your mouth you married the wrong woman so you know they're hanging some other guy at ease if you don't want to meet with them again thursday four o'clock make sure the kids are here today you know that much i'm very unfortunate i was hoping for a kiss [Music] what's this the taste is choice moment between guys what you said to me the other day about my painting you're just a kid you don't have the faintest idea of what you're talking about why",
+  "movie_id": "굿윌헌팅",
+  "reviewer": "렛잇무비",
+  "chunk_index": 1,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "GOOD WILL HUNTING",
+      "entity_type": "MOVIE",
+      "entity_description": "굿 윌 헌팅은 천재적인 수학 능력을 가진 청년과 그의 심리 치료를 다룬 영화로 추정된다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "WILL HUNTING",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "윌 헌팅은 천재적 능력을 가졌지만 여러 위탁 가정을 전전한 방어적인 청년 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "SEAN",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "션은 윌과 상담을 하는 인물로, 아내 낸시를 잃었으며 그림을 그리는 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "NANCY",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "낸시는 션의 사망한 아내로 언급되는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "JERRY",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "제리는 대화에서 언급되는 인물이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "WILL HUNTING",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "GOOD WILL HUNTING",
+      "target_type": "MOVIE",
+      "relationship_description": "윌 헌팅은 굿 윌 헌팅의 주인공이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "SEAN",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "GOOD WILL HUNTING",
+      "target_type": "MOVIE",
+      "relationship_description": "션은 굿 윌 헌팅에 등장하는 주요 인물이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "SEAN",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "WILL HUNTING",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "션은 윌 헌팅과 상담 세션을 진행하며 그의 그림에 대해 대화를 나눈다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "SEAN",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "NANCY",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "션은 낸시의 남편이었으며 낸시는 사망했다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "NANCY",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "GOOD WILL HUNTING",
+      "target_type": "MOVIE",
+      "relationship_description": "낸시는 굿 윌 헌팅에서 언급되는 인물이다",
+      "relationship_strength": 6
+    }
+  ],
+  "entity_resolution": {
+    "GOOD WILL HUNTING": {
+      "description": "GOOD WILL HUNTING -> GOOD WILL HUNTING",
+      "resolved_name": "GOOD WILL HUNTING",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "WILL HUNTING": {
+      "description": "WILL HUNTING -> WILL HUNTING",
+      "resolved_name": "WILL HUNTING",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "SEAN": {
+      "description": "SEAN -> SEAN",
+      "resolved_name": "SEAN",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "NANCY": {
+      "description": "NANCY -> NANCY",
+      "resolved_name": "NANCY",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "JERRY": {
+      "description": "JERRY -> JERRY",
+      "resolved_name": "JERRY",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

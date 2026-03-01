@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "Chris Beck",
+    "synonym": [
+      "Beck",
+      "Chris",
+      "Chris Beck",
+      "베크",
+      "벡",
+      "벡 박사",
+      "크리스",
+      "크리스 백",
+      "크리스 벡",
+      "크리스벡",
+      "크리스토퍼 벡"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "Chris Beck은 영화 '마션'의 등장인물로, 세바스찬 스탠이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

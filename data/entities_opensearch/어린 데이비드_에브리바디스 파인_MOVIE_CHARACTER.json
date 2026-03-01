@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "어린 데이비드",
+    "synonym": [
+      "Young David",
+      "꼬마 데이비드",
+      "어린 David",
+      "어린 데이비드",
+      "어린 데이빗",
+      "어린데이비드",
+      "영 데이비드",
+      "유년 데이비드"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "어린 데이비드은 영화 '에브리바디스 파인'의 등장인물로, 챈들러 프란츠이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

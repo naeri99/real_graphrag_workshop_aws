@@ -1,0 +1,17 @@
+{
+  "entity": {
+    "name": "데스티네이션 웨딩",
+    "synonym": [
+      "Destination Wedding",
+      "데스티네이션 웨딩",
+      "데스티네이션 웨팅",
+      "데스티네이션웨딩",
+      "데스티네이션웨팅",
+      "목적지 결혼식"
+    ],
+    "entity_type": "MOVIE",
+    "summary": "데스티네이션 웨딩",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

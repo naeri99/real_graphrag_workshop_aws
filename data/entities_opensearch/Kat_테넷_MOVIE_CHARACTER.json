@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "Kat",
+    "synonym": [
+      "Kat",
+      "Kat 캐릭터",
+      "카트",
+      "카트리나",
+      "캐서린",
+      "캐트",
+      "캣",
+      "캣 바튼",
+      "캣 캐릭터",
+      "케이트",
+      "켓"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "Kat은 영화 '테넷'의 등장인물로, 엘리자베스 데비키이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

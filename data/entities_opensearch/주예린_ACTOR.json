@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "주예린",
+    "synonym": [
+      "Joo Ye-rin",
+      "Ju Yerin",
+      "Ye-rin Joo",
+      "배우 주예린",
+      "예린",
+      "주 예린",
+      "주예린",
+      "주예린 배우"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "주예린은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

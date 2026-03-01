@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "장훈",
+    "synonym": [
+      "Chang Hoon",
+      "Director Jang",
+      "Jang Hoon",
+      "Jang Hun",
+      "감독 장훈",
+      "장 훈",
+      "장훈",
+      "장훈 감독",
+      "훈"
+    ],
+    "entity_type": "MOVIE_STAFF",
+    "summary": "장훈은 영화 감독입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

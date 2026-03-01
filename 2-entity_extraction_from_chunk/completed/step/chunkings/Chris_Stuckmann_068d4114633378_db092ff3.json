@@ -1,0 +1,80 @@
+{
+  "chunk_hash": "068d4114633378",
+  "chunk_id": "Chris_Stuckmann_068d4114633378_db092ff3",
+  "user_query": "in the mornings and try to create dress ideas and if you chew your food improperly or make too much noise or speak to him when he doesn't want to be spoken to or in any way disrupt his routine his entire day is lost so this creates a lot of difficulty for Alma because she wants to be loved in the same way that she's loving him she feels like she would love to take care of him and be there for him whenever he would need her but he doesn't need her that much or at least he doesn't act like he does he's the type of artist that needs human interaction just like all artists do we all need to connect and feel like we're going back and forth with someone else about ideas and that's one of the best ways to create when you're in a mood like no matter what your art is if you're a painter sculptor a filmmaker a writer going back and forth other people about your ideas or their ideas can be really creatively inspiring but Reynolds doesn't like to admit that he needs that and so he likes to have people situated in his life like they're a chess board of sorts like you go there and that's where you belong and this person here belongs there and as long as you move and the way that I know you always move I'm going to be satisfied that's the way he views life which creates a lot of problems for them in their relationship Phantom Thread is a movie that some will consider boring because nothing really happens there's very few large sequences where you feel like something huge is happening as",
+  "movie_id": "팬텀 스레드",
+  "reviewer": "Chris_Stuckmann",
+  "chunk_index": 2,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "ALMA",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Alma는 Reynolds를 사랑하고 돌보고 싶어하지만, 그가 자신을 같은 방식으로 사랑해주지 않는 것처럼 느끼는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "REYNOLDS",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Reynolds는 아침에 드레스 아이디어를 구상하는 예술가로, 엄격한 루틴을 가지고 있으며 방해받으면 하루 전체가 망가지는 인물이다. 인간적 교류가 필요하면서도 그것을 인정하지 않으려 하고, 주변 사람들을 체스판의 말처럼 정해진 위치에 배치하려는 성향을 가지고 있다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "PHANTOM THREAD",
+      "entity_type": "MOVIE",
+      "entity_description": "Phantom Thread는 일부 관객들이 지루하다고 느낄 수 있는 영화로, 큰 사건이 거의 일어나지 않는 작품이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "ALMA",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "REYNOLDS",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Alma는 Reynolds와 연인 관계이며, 그를 사랑하고 돌보고 싶어하지만 관계에서 어려움을 겪는다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "REYNOLDS",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "PHANTOM THREAD",
+      "target_type": "MOVIE",
+      "relationship_description": "Reynolds는 Phantom Thread의 주요 등장인물이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "ALMA",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "PHANTOM THREAD",
+      "target_type": "MOVIE",
+      "relationship_description": "Alma는 Phantom Thread의 주요 등장인물이다",
+      "relationship_strength": 10
+    }
+  ],
+  "entity_resolution": {
+    "ALMA": {
+      "description": "ALMA -> ALMA",
+      "resolved_name": "ALMA",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "REYNOLDS": {
+      "description": "REYNOLDS -> REYNOLDS",
+      "resolved_name": "REYNOLDS",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "PHANTOM THREAD": {
+      "description": "PHANTOM THREAD -> PHANTOM THREAD",
+      "resolved_name": "PHANTOM THREAD",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

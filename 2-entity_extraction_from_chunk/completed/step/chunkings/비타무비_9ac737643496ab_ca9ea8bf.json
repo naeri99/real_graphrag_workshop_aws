@@ -1,0 +1,49 @@
+{
+  "chunk_hash": "9ac737643496ab",
+  "chunk_id": "비타무비_9ac737643496ab_ca9ea8bf",
+  "user_query": "납니다. 영상 즐겁게 시청하셨나요? 이 영화 너무 이해하기 어려운 엔딩인데요 데이브가 목성 근처에 도착한 이후부터는 피카소의 추상화처럼 난해하기만 합니다. 스탠리 큐브릭 감독은 절대 친절한 적이 없는, 그러나 천재적인 예술가인 것 같습니다 욕을 하건 감탄을 하건 영화를 어떻게 해석하는가 하는 것은 절대적으로 관객의 몫입니다 스탠리 큐브릭 감독의 새로운 작품을 더 이상 볼 수 없다는 것이 너무 아쉽습니다. 시청해주셔서 감사합니다. 구독 버튼 잊지 마세요~!!",
+  "movie_id": "2001 스페이스 오디세이",
+  "reviewer": "비타무비",
+  "chunk_index": 3,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "데이브",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "데이브는 목성 근처에 도착하는 영화 속 등장인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "스탠리 큐브릭",
+      "entity_type": "MOVIE_STAFF",
+      "entity_description": "스탠리 큐브릭은 난해하고 천재적인 예술가로 평가받는 감독이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "데이브",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "스탠리 큐브릭",
+      "target_type": "MOVIE_STAFF",
+      "relationship_description": "데이브는 스탠리 큐브릭 감독의 영화에 등장하는 캐릭터이다",
+      "relationship_strength": 8
+    }
+  ],
+  "entity_resolution": {
+    "데이브": {
+      "description": "데이브 -> 데이비드",
+      "resolved_name": "데이비드",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "스탠리 큐브릭": {
+      "description": "스탠리 큐브릭 -> 스탠리 큐브릭",
+      "resolved_name": "스탠리 큐브릭",
+      "entity_type": "MOVIE_STAFF",
+      "matched": true,
+      "match_type": "name_exact"
+    }
+  }
+}

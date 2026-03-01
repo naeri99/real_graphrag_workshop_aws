@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "아이언맨2",
+    "synonym": [
+      "Iron Man 2",
+      "Iron Man Two",
+      "ironman2",
+      "아이언 맨 2",
+      "아이언맨 2",
+      "아이언맨 시리즈",
+      "아이언맨 투",
+      "아이언맨2",
+      "아이언맨II",
+      "아이언맨투"
+    ],
+    "entity_type": "MOVIE",
+    "summary": "아이언맨2",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

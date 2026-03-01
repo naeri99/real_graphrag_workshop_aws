@@ -1,0 +1,24 @@
+{
+  "entity": {
+    "name": "Frank Wolff",
+    "synonym": [
+      "Frank",
+      "Frank Wolff",
+      "Frankie",
+      "Wolff",
+      "울프",
+      "프란시스코",
+      "프랭크",
+      "프랭크 선장",
+      "프랭크 울프",
+      "프랭크 월프",
+      "프랭크울프",
+      "프랭크월프",
+      "프랭키"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "Frank Wolff은 영화 '정글크루즈'의 등장인물로, 드웨인 존슨이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

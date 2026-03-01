@@ -1,0 +1,93 @@
+{
+  "chunk_hash": "984219cab85652",
+  "chunk_id": "쭌무비_984219cab85652_541595af",
+  "user_query": "생긴 프라이빗 저기 없었던 건데 밖으로 나와 이걸 명령이야 하지만 이번만큼은 저밖에 없다고요 [음악] 사실 레이저를 발견한 데이브 [음악] 레이저 조종기 배터리가 떨어지자 [음악] 근처 편의점을 발견한 프라이빗이 명령을 내립니다 신호 [음악] 기가 막힌 타이밍에 도착한 노스윈드 [음악] 레이저 발사를 막기 위해 직접 나서는 데이브 안녕 잘 가세요 조준하고 [음악] 쏘세요 그렇게 모든 펭귄들이 원래의 모습으로 돌아옵니다 번데기가 만들어지는 건데 금방 괜찮아질 거야 [음악] 겉모습은 중요하지 않다 네가 뭘 했는지 봐라 모든 것이 제자리로 돌아왔죠 너는 우리 특공대에서 절대 없어서는 안 될 정의 멤버다 [음악] 귀요미 레이저를 맞은 데이브가 나타납니다 뭐야 난 지금부터 시작이야 다음엔 문어 스노우볼이 맘에 든 한 아이 [박수] 그런데 말이야 사과의 뜻으로 선물을 하고 싶은데 [음악] 개 갖고 싶었던 제트팩의 특급 미션은 이렇게 끝이 납니다 [음악]",
+  "movie_id": "파퍼씨네 펭귄들",
+  "reviewer": "쭌무비",
+  "chunk_index": 3,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "프라이빗",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "프라이빗은 펭귄 특공대의 멤버로, 편의점을 발견하고 명령을 내리는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "데이브",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "데이브는 레이저를 발견하고 레이저 발사를 막기 위해 직접 나서는 인물로, 귀요미 레이저를 맞은 악당 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "노스윈드",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "노스윈드는 기가 막힌 타이밍에 도착하여 도움을 주는 팀이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "스노우볼",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "스노우볼은 문어 형태의 캐릭터로, 한 아이의 마음에 든 캐릭터이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "프라이빗",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "데이브",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "프라이빗과 데이브는 레이저 관련 사건에서 대립하는 관계이다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "데이브",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "노스윈드",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "노스윈드가 데이브의 레이저 발사를 막기 위해 도착한다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "프라이빗",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "노스윈드",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "노스윈드는 프라이빗의 팀을 돕기 위해 도착한다",
+      "relationship_strength": 7
+    }
+  ],
+  "entity_resolution": {
+    "프라이빗": {
+      "description": "프라이빗 -> 프라이빗",
+      "resolved_name": "프라이빗",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "데이브": {
+      "description": "데이브 -> 데이비드",
+      "resolved_name": "데이비드",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "노스윈드": {
+      "description": "노스윈드 -> 노스윈드",
+      "resolved_name": "노스윈드",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "스노우볼": {
+      "description": "스노우볼 -> 스노우볼",
+      "resolved_name": "스노우볼",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "chunk_hash": "562f39ae4aa656",
+  "chunk_id": "오티티_-_OTT_562f39ae4aa656_2bb2d9c4",
+  "user_query": "항상 승이였고 한승이입니다. 아직 승이는 우연의 마음에 남아 있습니다. 얼마 뒤 비는 언제쯤 왔어? 어 뭐 한 달 됐나? 과연 두 사람의 결말은 나 무슨 얘기를 하려고 그렇게 뜸을 들이냐? 어떻게 될까요? 영화 너의 결혼식이었습니다. 솔로인 분들은 지금 당장 VOD를 트셔서 보시는 걸 추천드립니다. 아이 리모컨 어디 갔지? 누구냐, 너? 오티 너는 계획이 다 있구나. 허위가 계속되면은 그게 관례인 줄 알아요. 네. 또 손잡이를 어이라 그래요? 어이 너를 돌리려고 하는데 손잡이가 빠졌네. 이런 상황을 어이가 없다 그래요. 어이 어이가 없네. 아 고자.",
+  "movie_id": "너의 결혼식",
+  "reviewer": "오티티_-_OTT",
+  "chunk_index": 11,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "너의 결혼식",
+      "entity_type": "MOVIE",
+      "entity_description": "너의 결혼식은 승이와 우연의 러브스토리를 다룬 로맨스 영화이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "승이",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "승이는 너의 결혼식의 주인공으로, 우연의 마음에 남아있는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "우연",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "우연은 너의 결혼식의 주인공으로, 승이가 마음에 남아있는 인물이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "승이",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "너의 결혼식",
+      "target_type": "MOVIE",
+      "relationship_description": "승이는 너의 결혼식의 주인공이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "우연",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "너의 결혼식",
+      "target_type": "MOVIE",
+      "relationship_description": "우연은 너의 결혼식의 주인공이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "승이",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "우연",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "승이와 우연은 너의 결혼식에서 서로 사랑하는 관계이다",
+      "relationship_strength": 10
+    }
+  ],
+  "entity_resolution": {
+    "너의 결혼식": {
+      "description": "너의 결혼식 -> 너의 결혼식",
+      "resolved_name": "너의 결혼식",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "승이": {
+      "description": "승이 -> 승희",
+      "resolved_name": "승희",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "우연": {
+      "description": "우연 -> 우연",
+      "resolved_name": "우연",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    }
+  }
+}

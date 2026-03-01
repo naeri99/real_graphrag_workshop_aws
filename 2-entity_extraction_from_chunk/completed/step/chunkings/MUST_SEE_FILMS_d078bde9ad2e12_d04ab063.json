@@ -1,0 +1,93 @@
+{
+  "chunk_hash": "d078bde9ad2e12",
+  "chunk_id": "MUST_SEE_FILMS_d078bde9ad2e12_d04ab063",
+  "user_query": "giving the appearance of love again but leaving the crashing of true love unanswered Reynolds obsession and focus shifts again before long and Alma becomes displeased with the way she is treated I didn't catch this one on my first viewing but how much this next moment really rubs salt in her wound as the French bride is formally greeting the staff she doesn't acknowledge Alma and although silent she takes major offense and holds an end until [Music] she sees herself as Reynolds some use as as equal but is treated like the help and it's this that leads her to plan the surprise dinner and we all know how that turned out leading to this and she's well aware of his main saying just listen for the line from the trailer there was removed from the final film something my brother can feel cursed that love is doomed for him you're not cursed you're loved by me this is a good point to talk about Jonny Greenwood score not only is it beautiful and haunting but it's used very deliberately throughout the film to highlight certain turning points the mother scene for example is the midpoint of the movie which the entire story swivels on and it has its own signature song that we hear only once before Alma arrives we have music that represents the everyday routine of the House of Woodcock only to be interrupted by my favorite use of music in the film this is the song used to signify Alma taking power back and winning against Reynolds habitual behavior we see in both the poisoning scenes which",
+  "movie_id": "팬텀 스레드",
+  "reviewer": "MUST_SEE_FILMS",
+  "chunk_index": 5,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "REYNOLDS",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Reynolds는 사랑에 집착하고 초점이 자주 바뀌는 인물로, Alma를 동등하게 대하지 않고 하인처럼 대하며, 습관적인 행동 패턴을 보이는 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "ALMA",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Alma는 Reynolds의 연인으로, 자신이 동등하게 대우받지 못하고 하인처럼 취급받는 것에 불쾌해하며, 깜짝 저녁 식사를 계획하고 Reynolds에게 독을 먹이는 장면에서 권력을 되찾는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "JONNY GREENWOOD",
+      "entity_type": "MOVIE_STAFF",
+      "entity_description": "Jonny Greenwood는 영화의 작곡가로, 아름답고 몽환적인 음악을 만들었으며, 영화 전반에 걸쳐 특정 전환점을 강조하기 위해 의도적으로 사용된 스코어를 담당했다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "HOUSE OF WOODCOCK",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "House of Woodcock은 영화에서 일상적인 루틴을 가진 공간으로, 고유한 음악으로 표현되는 장소이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "ALMA",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "REYNOLDS",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Alma는 Reynolds의 연인이지만 동등하게 대우받지 못하며, 그의 습관적 행동에 맞서 권력을 되찾으려 한다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "JONNY GREENWOOD",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "REYNOLDS",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Jonny Greenwood의 음악은 Reynolds와 관련된 장면들, 특히 어머니 장면과 독살 장면에서 전환점을 강조하는 데 사용된다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "JONNY GREENWOOD",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "ALMA",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Jonny Greenwood의 음악은 Alma가 권력을 되찾는 장면을 상징하는 곡으로 사용된다",
+      "relationship_strength": 8
+    }
+  ],
+  "entity_resolution": {
+    "REYNOLDS": {
+      "description": "REYNOLDS -> REYNOLDS",
+      "resolved_name": "REYNOLDS",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "ALMA": {
+      "description": "ALMA -> ALMA",
+      "resolved_name": "ALMA",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "JONNY GREENWOOD": {
+      "description": "JONNY GREENWOOD -> JONNY GREENWOOD",
+      "resolved_name": "JONNY GREENWOOD",
+      "entity_type": "MOVIE_STAFF",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "HOUSE OF WOODCOCK": {
+      "description": "HOUSE OF WOODCOCK -> HOUSE OF WOODCOCK",
+      "resolved_name": "HOUSE OF WOODCOCK",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

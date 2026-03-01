@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "로버트 루이스",
+    "synonym": [
+      "Lewis",
+      "Rob Lewis",
+      "Robert",
+      "Robert Lewis",
+      "로버트",
+      "로버트 루이스",
+      "로버트루이스",
+      "롭 루이스",
+      "루이스",
+      "밥 루이스"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "로버트 루이스은 영화 '마션'의 등장인물로, 찰리 가드너이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "폴 볼커",
+    "synonym": [
+      "Paul A. Volcker",
+      "Paul Volcker",
+      "볼커",
+      "폴 A. 볼커",
+      "폴 보커",
+      "폴 볼커",
+      "폴 볼커 전 의장",
+      "폴볼커"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "폴 볼커은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

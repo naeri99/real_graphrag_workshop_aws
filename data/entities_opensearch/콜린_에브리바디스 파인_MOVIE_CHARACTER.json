@@ -1,0 +1,24 @@
+{
+  "entity": {
+    "name": "콜린",
+    "synonym": [
+      "Colleen",
+      "Colleen Goode",
+      "칼린",
+      "컬린",
+      "코린",
+      "콜렌",
+      "콜리",
+      "콜리엔",
+      "콜린",
+      "콜린 구드",
+      "콜린 굿",
+      "콜린구드",
+      "콜린느"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "콜린은 영화 '에브리바디스 파인'의 등장인물로, 멜리사 레오이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

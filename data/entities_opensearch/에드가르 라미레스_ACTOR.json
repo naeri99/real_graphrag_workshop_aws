@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "에드가르 라미레스",
+    "synonym": [
+      "Edgar Ramirez",
+      "Edgar Ramírez",
+      "라미레스",
+      "에드가",
+      "에드가 라미레스",
+      "에드가 라미레즈",
+      "에드가라미레스",
+      "에드가르",
+      "에드가르 라미레스",
+      "에드가르라미레스"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "에드가르 라미레스은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

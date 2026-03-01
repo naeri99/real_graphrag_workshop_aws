@@ -1,0 +1,128 @@
+{
+  "chunk_hash": "41d50421e15c5a",
+  "chunk_id": "무비씨엘로_MOVIE_CIELO_41d50421e15c5a_3c35533b",
+  "user_query": "a low chance of killing six people um we still have a chance to bring five astronauts home safe and sound I'm not risking their lives you goddamn coward [Music] I don't really know what we're looking at it's um a course maneuver for the Hermes the mission concludes with Earth intercept 211 days later would it work we ran the numbers they check out it's a brilliant course so why all the cloak and dagger because it goes directly against NASA's decision yeah if we do the maneuver they'd have to send the supply ship or we die we have the opportunity to force their hand so we're gonna do it this is something NASA expressly rejected we're talking about Mutiny here which is not a word that I take lightly so we do this together or not at all and before you answer consider the consequences think about your families again 533 days of unplanned space travel where anything could go wrong if it's Mission critical we die I guarantee they will never send you back up here again if we do this it will be over 900 days of space [Music] that's more than enough space for one life so yes how about yes let's go get him yeah Roger read it out Hermes actual reads Houston please be advised Rich Purnell is a steely-eyed missile man flight guidance Hermes is off course Capcom advise Hermes they're drifting guidance get a correction ready negative flight it's not drift leave it alone they're just off course you may have killed them Mitch we're fighting the same War every time something goes wrong the",
+  "movie_id": "마션",
+  "reviewer": "무비씨엘로_MOVIE_CIELO",
+  "chunk_index": 9,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "HERMES",
+      "entity_type": "MOVIE",
+      "entity_description": "Hermes는 우주선으로, 우주 비행사들이 탑승하여 임무를 수행하는 영화 속 주요 배경이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "RICH PURNELL",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Rich Purnell은 \"steely-eyed missile man\"으로 불리며, Hermes의 궤도 수정 계획을 세운 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "MITCH",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Mitch는 NASA 관계자로, Hermes의 항로 이탈에 대해 \"그냥 놔두라\"고 지시하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "HOUSTON",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Houston은 NASA 지상 관제센터를 대표하는 통신 상대이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "CAPCOM",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Capcom은 우주선과 통신하는 NASA 관제 담당자이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "THE MARTIAN",
+      "entity_type": "MOVIE",
+      "entity_description": "마션은 화성에 고립된 우주비행사를 구출하기 위한 임무를 다룬 SF 영화이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "RICH PURNELL",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "HERMES",
+      "target_type": "MOVIE",
+      "relationship_description": "Rich Purnell이 Hermes의 궤도 수정 계획을 설계했다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "MITCH",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "HERMES",
+      "target_type": "MOVIE",
+      "relationship_description": "Mitch는 Hermes의 항로 이탈 상황을 관리하는 NASA 관계자이다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "MITCH",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "RICH PURNELL",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Mitch는 Rich Purnell의 계획을 실행하도록 허용했다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "HERMES",
+      "source_type": "MOVIE",
+      "target_entity": "THE MARTIAN",
+      "target_type": "MOVIE",
+      "relationship_description": "Hermes는 마션 영화에 등장하는 우주선이다",
+      "relationship_strength": 10
+    }
+  ],
+  "entity_resolution": {
+    "HERMES": {
+      "description": "HERMES -> HERMES",
+      "resolved_name": "HERMES",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "RICH PURNELL": {
+      "description": "RICH PURNELL -> RICH PURNELL",
+      "resolved_name": "RICH PURNELL",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "MITCH": {
+      "description": "MITCH -> Mitch Henderson",
+      "resolved_name": "Mitch Henderson",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "HOUSTON": {
+      "description": "HOUSTON -> HOUSTON",
+      "resolved_name": "HOUSTON",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "CAPCOM": {
+      "description": "CAPCOM -> CAPCOM",
+      "resolved_name": "CAPCOM",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "THE MARTIAN": {
+      "description": "THE MARTIAN -> THE MARTIAN",
+      "resolved_name": "THE MARTIAN",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "chunk_hash": "715b039e1bccd1",
+  "chunk_id": "구불_715b039e1bccd1_4ce9c3cb",
+  "user_query": "머리결 봐 그거 테리우스 아니 테리우스 능력과 외모를 모두 겸비한 엄친아였어요 새끼보다 좀 잘생겼는데 잘생기기 딱 내 취향이 이때 승희가 응원을 오고 음료수 드세요 음료 야 내려 개뻘쭘해진 우연입니다 그리고 두 사람은 저희가 좀 도와드릴게요 짐을 싣는 노부부를 도와주는 착한 일을 해요 그래도 돼 아 괜찮아요 밤에는 승희가 하숙집 친구들에게 랜선을 빌려주는데요 잘 쓰겠습니다 하숙집 친구들은 이걸로 야동을 봅니다 그런데 이때 경찰입니다 갑자기 경찰이 우연이 찾아옵니다 야 야동 보면 잡아가 문 좀 열어보세요 왜 그러세요 너 나랑 같이 좀 가자 하지만 잡혀가는 사람은 우연 혼자가 아니었으니 처음엔 야동 때문에 잡혀간 줄 알았지만 여기 여기 돈 받잖아요 돈 돈 절도입니다 절도단이었다니 저런 노인네들인 줄 누가 알았겠냐 사실은 낮에 도와준 할머니 할아버지가 절도단이었던 겁니다 아저씨 아이보 혈기 왕성한 애들이 호기심에 했다가 외국어로 하다니까 솔직히 아씨 그랬잖아요 이 새끼가 경찰을 몰라 보고 한 6년 콩밥 먹여 줘 6년이야 이렇게 오해는 키지만 가고 너 할아버지 할머니 연락 돼 할아버지 할머니요 다 돌아가셨는데 뭐 돌 돌아가 돌아가기 어디 야 내가 방금 봤는데 뭘 돌아갈지 거 너 그러다가 네 아버지도 모른다고 하겠다 왜 저 아빠랑 연 끊고 살아요 그게 뭐 죄예요 근데 왜 아빠는 왜 물어보시는데요 진짜 너 싫은 거 아니에요 왜 남의 아픈 가정사까지 끌어내시래요 너마 돈 얼마나 받았어 돈 받은 거 다 알아마 야 너 그거 돈 받았어 결국 우연은 승희에게 분노의 응징을 당하죠 두 사람은 이제서야 사실을 알게 되고 이 자식들이 이거 조용히 안 해 그리고 우연은 윤근이 형 어디가 좋아 승희에게 남친에 대해 물어봅니다 너 삼 초 얘기 들어봤어 삼 초 사람을 보고 아이 사람이구나 하는 순간이 삼 초에 수험표를 떨어트렸는데 주워봐요 딱 3초였나 이 3초는 우연이 처음 승희를 봤을 때 이미 겪었던 시간이었어요 그런데 도서관에서 우연은 엄마 아빠한테는 뭐라고 말하지 친구들이랑 여행 간다고 하든가 승희의 남친이 바람을 피우는 장면을 목격합니다 그리고 우연의 동아리는 대학 미식축구 결승전까지 진출하는데 [박수] 우리 이러다가 진짜 우승하는 거 아니에요 그러게 나도 떨린다 우승하면 둘이 유럽 가기로 했거든 결국 참다 못한 우연은 뭐 하는 거야 승희에게 남친이 바람을 피우고 있다는 사실을 알려줍니다 네 남자친구 딴 여자한테 유럽 가자고 꼬시더라 하지만 승희는 진짜 실망이다 우연의 말을 믿어주지 않아요 결국 우연은 멘탈이 완전히 나가버리고 시합 신경 쓰지 그런데 이때 우연의 눈에 든 것은 3초 삼 초가 그렇게 대단하네 내가 뚫을 거야 그러니까 너희들이 스크린 좀 걸어줘 우연은 이 3초의 벽을 깨기로 결심합니다 셋 [음악] 어떤 인간이 그랬다 첫사랑은 사랑의 걸음마라고 또 어떤 인간은 그랬다 첫사랑이 없는 사람은 불쌍한 사람이라고 다 [박수] 개소리다 야 [박수] 잘했어 결국 이렇게 우연의 첫사랑도 끝을 맺어요 5년 뒤 그래서 내가 우리 오빠 애처럼 하잖아 우연은 여자친구도",
+  "movie_id": "피끓는 청춘",
+  "reviewer": "구불",
+  "chunk_index": 4,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "테리우스",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "테리우스는 능력과 외모를 모두 겸비한 엄친아로 묘사되는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "우연",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "우연은 미식축구 동아리 소속으로, 승희를 좋아하는 남자 주인공이다. 절도단 오해 사건에 휘말리고, 첫사랑을 경험하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "승희",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "승희는 우연에게 응원을 오고, 하숙집 친구들에게 랜선을 빌려주는 인물이다. 남자친구 윤근이 있으며, 3초 만에 사랑에 빠졌다고 말한다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "윤근",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "윤근은 승희의 남자친구로, 다른 여자와 바람을 피우며 유럽 여행을 가자고 꼬시는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "할머니",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "할머니는 낮에 우연과 승희가 짐을 싣는 것을 도와준 노인으로, 사실은 절도단이었다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "할아버지",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "할아버지는 낮에 우연과 승희가 짐을 싣는 것을 도와준 노인으로, 사실은 절도단이었다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "우연",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "승희",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "우연은 승희를 좋아하며 첫사랑으로 여긴다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "승희",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "윤근",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "승희는 윤근의 여자친구이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "우연",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "윤근",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "우연은 윤근이 바람피우는 것을 목격하고 승희에게 알려준다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "할머니",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "할아버지",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "할머니와 할아버지는 함께 절도단으로 활동하는 노부부이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "우연",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "할머니",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "우연은 할머니의 짐을 도와주다가 절도 사건에 연루된다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "우연",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "할아버지",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "우연은 할아버지의 짐을 도와주다가 절도 사건에 연루된다",
+      "relationship_strength": 8
+    }
+  ],
+  "entity_resolution": {
+    "테리우스": {
+      "description": "테리우스 -> 테리우스",
+      "resolved_name": "테리우스",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "우연": {
+      "description": "우연 -> 우연",
+      "resolved_name": "우연",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "승희": {
+      "description": "승희 -> 승희",
+      "resolved_name": "승희",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "윤근": {
+      "description": "윤근 -> 옥근남",
+      "resolved_name": "옥근남",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "할머니": {
+      "description": "할머니 -> 할머니",
+      "resolved_name": "할머니",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "할아버지": {
+      "description": "할아버지 -> 다도 할아버지",
+      "resolved_name": "다도 할아버지",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    }
+  }
+}

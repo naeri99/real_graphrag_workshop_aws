@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "폴 메스칼",
+    "synonym": [
+      "Paul Mescal",
+      "메스칼",
+      "메스컬",
+      "메스켈",
+      "폴",
+      "폴 매스칼",
+      "폴 메스칼",
+      "폴 메스컬",
+      "폴 메스켈",
+      "폴메스칼",
+      "폴메스컬"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "폴 메스칼은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

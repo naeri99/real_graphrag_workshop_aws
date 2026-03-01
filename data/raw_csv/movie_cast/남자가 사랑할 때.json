@@ -1,0 +1,60 @@
+{
+  "movie_title": "남자가 사랑할 때",
+  "director": [
+    {
+      "name": "한동욱",
+      "name_en": "Han Dong-wook"
+    }
+  ],
+  "cast": [
+    {
+      "actor": "황정민",
+      "actor_en": "Hwang Jung-min",
+      "character": "태일"
+    },
+    {
+      "actor": "강민아",
+      "actor_en": "Kang Min-ah",
+      "character": "한송지"
+    },
+    {
+      "actor": "김홍파",
+      "actor_en": "Kim Hong-pa",
+      "character": "건강원 박씨"
+    },
+    {
+      "actor": "김병옥",
+      "actor_en": "Kim Byung-ok",
+      "character": "목사"
+    },
+    {
+      "actor": "남문철",
+      "actor_en": "Nam Moon-chul",
+      "character": "조형사"
+    },
+    {
+      "actor": "최우리",
+      "actor_en": "Choi Woo-ri",
+      "character": "술집녀 미선"
+    },
+    {
+      "actor": "손세빈",
+      "actor_en": "Son Se-bin",
+      "character": "수협 동료 혜경"
+    },
+    {
+      "actor": "박지환",
+      "actor_en": "Park Ji-hwan",
+      "character": "금니"
+    }
+  ],
+  "review": [
+    "./data/review/남자가 사랑할 때/남자가 사랑할 때_-ux4FVYAG9M.json",
+    "./data/review/남자가 사랑할 때/남자가 사랑할 때_AxekJCY7-qk.json",
+    "./data/review/남자가 사랑할 때/남자가 사랑할 때_DsKVyLh3_v0.json",
+    "./data/review/남자가 사랑할 때/남자가 사랑할 때_jIiQanxMljI.json",
+    "./data/review/남자가 사랑할 때/남자가 사랑할 때_nUiT6It0zGQ.json",
+    "./data/review/남자가 사랑할 때/남자가 사랑할 때_qDmZDxXcCzc.json",
+    "./data/review/남자가 사랑할 때/남자가 사랑할 때_uIrkGZ8Oqyg.json"
+  ]
+}

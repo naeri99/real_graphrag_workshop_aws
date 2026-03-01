@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "메리 파커",
+    "synonym": [
+      "Mary",
+      "Mary Parker",
+      "매리 파커",
+      "메리",
+      "메리 파카",
+      "메리 파커",
+      "메리파커",
+      "파커"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "메리 파커은 영화 '마담 웹'의 등장인물로, 엠마 로버츠이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

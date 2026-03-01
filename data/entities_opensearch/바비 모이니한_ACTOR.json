@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "바비 모이니한",
+    "synonym": [
+      "Bobby",
+      "Bobby Moynahan",
+      "Bobby Moynihan",
+      "모이니한",
+      "바비",
+      "바비 모니한",
+      "바비 모이니한",
+      "바비 모이니핸",
+      "바비 모이니헌",
+      "바비모이니한",
+      "보비 모이니한"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "바비 모이니한은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

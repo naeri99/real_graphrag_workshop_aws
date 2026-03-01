@@ -1,0 +1,25 @@
+{
+  "entity": {
+    "name": "플로렌스 퓨",
+    "synonym": [
+      "Florence Atwater",
+      "Florence Pugh",
+      "퓨",
+      "플로랜스 퓨",
+      "플로런스 앳워터",
+      "플로런스 퓨",
+      "플로렌스",
+      "플로렌스 앳워터",
+      "플로렌스 푸",
+      "플로렌스 퓨",
+      "플로렌스 퓨이",
+      "플로렌스앳워터",
+      "플로렌스푸",
+      "플로렌스퓨"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "플로렌스 퓨은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

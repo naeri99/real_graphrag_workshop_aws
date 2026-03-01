@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "게리 록우드",
+    "synonym": [
+      "Gary Lockwood",
+      "개리 록우드",
+      "게리",
+      "게리 락우드",
+      "게리 록우드",
+      "게리락우드",
+      "게리록우드",
+      "락우드",
+      "록우드"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "게리 록우드은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

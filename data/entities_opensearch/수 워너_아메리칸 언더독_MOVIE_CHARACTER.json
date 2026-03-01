@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "수 워너",
+    "synonym": [
+      "Sue Warner",
+      "수",
+      "수 워나",
+      "수 워너",
+      "수워너",
+      "슈 워너",
+      "워너",
+      "워너 부인",
+      "커트의 엄마"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "수 워너은 영화 '아메리칸 언더독'의 등장인물로, 신디 호건이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

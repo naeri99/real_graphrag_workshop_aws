@@ -1,0 +1,23 @@
+{
+  "entity": {
+    "name": "반 군디",
+    "synonym": [
+      "Mrs. Van Gundy",
+      "Van Gundy",
+      "미시즈반군디",
+      "반 건디",
+      "반 군디",
+      "반 군디 부인",
+      "반건디",
+      "반군디",
+      "밴 건디",
+      "밴 건디 부인",
+      "밴건디",
+      "밴군디"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "반 군디은 영화 '파퍼씨네 펭귄들'의 등장인물로, 앤드류 스튜어트 존스이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

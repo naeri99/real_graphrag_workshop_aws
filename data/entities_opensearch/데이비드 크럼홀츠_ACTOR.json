@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "데이비드 크럼홀츠",
+    "synonym": [
+      "David Krumholtz",
+      "데이비드",
+      "데이비드 크럼홀쯔",
+      "데이비드 크럼홀츠",
+      "데이비드 크룸홀츠",
+      "데이비드크럼홀츠",
+      "데이빗 크럼홀츠",
+      "데이빗크럼홀츠",
+      "크럼홀츠"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "데이비드 크럼홀츠은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

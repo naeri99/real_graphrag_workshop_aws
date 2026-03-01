@@ -1,0 +1,13 @@
+{
+  "entity": {
+    "name": "집구석_주댕이들",
+    "synonym": [
+      "집구석_주댕이들",
+      "집구석 주댕이들"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "집구석_주댕이들은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

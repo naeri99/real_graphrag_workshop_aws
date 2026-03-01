@@ -1,0 +1,17 @@
+{
+  "entity": {
+    "name": "마담 M",
+    "synonym": [
+      "Madam M",
+      "마담",
+      "마담 M",
+      "마담 엠",
+      "마담M",
+      "마담엠"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "마담 M은 영화 '홉스앤쇼'의 등장인물로, 에이사 곤살레스이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "entity": {
+    "name": "다이안 레인",
+    "synonym": [
+      "Diane",
+      "Diane Lain",
+      "Diane Lane",
+      "Dianne Lane",
+      "Rain",
+      "다이안",
+      "다이안 래인",
+      "다이안 레인",
+      "다이안레인",
+      "다이앤 레인",
+      "다이앤레인",
+      "래인",
+      "레인",
+      "레인 카라덱",
+      "레인 캐러딘",
+      "레인 캐럿"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "다이안 레인은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

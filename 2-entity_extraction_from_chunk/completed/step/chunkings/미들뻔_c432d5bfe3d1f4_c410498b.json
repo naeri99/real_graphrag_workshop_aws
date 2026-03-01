@@ -1,0 +1,49 @@
+{
+  "chunk_hash": "c432d5bfe3d1f4",
+  "chunk_id": "미들뻔_c432d5bfe3d1f4_c410498b",
+  "user_query": "나아가는 할아버지의 이야기 '그랜 토리노' 가슴 속을 울리는 묵직한 카타르시스를\n느끼고 싶으신 분들에게 이 명작을 강력 추천합니다. 지금까지 미들뻔이었습니다.",
+  "movie_id": "그랜 토리노",
+  "reviewer": "미들뻔",
+  "chunk_index": 3,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "그랜 토리노",
+      "entity_type": "MOVIE",
+      "entity_description": "그랜 토리노는 할아버지의 이야기를 다룬 영화로, 가슴 속을 울리는 묵직한 카타르시스를 선사하는 명작이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "미들뻔",
+      "entity_type": "REVIEWER",
+      "entity_description": "미들뻔은 그랜 토리노를 강력 추천하는 리뷰어이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "미들뻔",
+      "source_type": "REVIEWER",
+      "target_entity": "그랜 토리노",
+      "target_type": "MOVIE",
+      "relationship_description": "미들뻔은 그랜 토리노를 명작으로 강력 추천했다",
+      "relationship_strength": 8
+    }
+  ],
+  "entity_resolution": {
+    "그랜 토리노": {
+      "description": "그랜 토리노 -> 그랜 토리노",
+      "resolved_name": "그랜 토리노",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "미들뻔": {
+      "description": "미들뻔 -> 미들뻔",
+      "resolved_name": "미들뻔",
+      "entity_type": "REVIEWER",
+      "matched": true,
+      "match_type": "name_exact"
+    }
+  }
+}

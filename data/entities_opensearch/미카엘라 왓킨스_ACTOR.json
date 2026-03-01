@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "미카엘라 왓킨스",
+    "synonym": [
+      "Michaela",
+      "Michaela Watkins",
+      "미셸라 왓킨스",
+      "미카엘라",
+      "미카엘라 왓킨스",
+      "미카엘라 왓킨즈",
+      "미카엘라왓킨스",
+      "미켈라 왓킨스",
+      "왓킨스"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "미카엘라 왓킨스은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

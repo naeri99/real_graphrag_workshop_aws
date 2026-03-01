@@ -1,0 +1,16 @@
+{
+  "entity": {
+    "name": "커티스 펠프스",
+    "synonym": [
+      "Curtis Phelps",
+      "커티스",
+      "커티스 펠프스",
+      "커티스펠프스",
+      "펠프스"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "커티스 펠프스은 영화 '콘스탄트 가드너'의 등장인물로, 제라드 맥소리이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

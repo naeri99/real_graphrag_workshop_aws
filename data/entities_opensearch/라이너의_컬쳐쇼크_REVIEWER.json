@@ -1,0 +1,13 @@
+{
+  "entity": {
+    "name": "라이너의_컬쳐쇼크",
+    "synonym": [
+      "라이너의_컬쳐쇼크",
+      "라이너의 컬쳐쇼크"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "라이너의_컬쳐쇼크은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

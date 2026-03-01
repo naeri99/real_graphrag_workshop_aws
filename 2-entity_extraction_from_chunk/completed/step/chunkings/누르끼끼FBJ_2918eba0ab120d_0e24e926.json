@@ -1,0 +1,455 @@
+{
+  "chunk_hash": "2918eba0ab120d",
+  "chunk_id": "누르끼끼FBJ_2918eba0ab120d_0e24e926",
+  "user_query": "하지만 최후에 혜은이에게 죄책감을 느끼게 되었고 결국 자살해버리며 삶을 마감합니다 은구와 탱구는 과거의 최원석과 함께 고아원에서 자라왔습니다 그래서 은구 탱구 최원석은 사이가 매우 각별했으며 은구와 탱구는 최원석을 대장이라고 부르며 따르는 모습을 보였습니다 최원석은 박세림과 장현이 단둘이 같이 사는 것을 지켜만 볼 수 없었고 은구와 탱구를 데리고 박세림의 집에 합류하면서 은구와 탱구도 정식으로 호스텔의 멤버가 되었습니다 은구와 탱구는 과거에는 최원석급의 전투력을 지녔다고 평가받았으며 힘을 합쳐 싸우면 최원석에게도 승리하는 강자였습니다 하지만 최근에는 힘을 합쳐 싸워도 윤재희에게 밀리는 모습과 이건우와 윤경원에게 밀리는 모습을 보이며 전투원으로서는 퇴화하는 모습을 보였습니다 하지만 떡볶이 장사의 고수가 되어서 사업적인 측면에서는 발전한 모습을 보였습니다 곽청호와 팽진량은 호스텔 A의 주요 전력이었으며 왕오춘을 대신하여 전반적인 사업을 이끌어가는 [박수] [음악] [음악] [음악] 허영민은 재원고 시절부터 허언증이 심했으며 교우관계도 원만하지 못한 아이였습니다 그리고 허영민은 김미진 박하늘 김미루 등의 사진을 도용하여 스타킹 양말 침 등을 판매하며 돈을 벌다가 발각되어 재원고를 자퇴하고 호스텔에 합류하였습니다 그리고 그 이후에는 자신의 특기를 살려 불법적인 일을 자행하다가 현재는 공룡과 함께 자취를 감추었습니다 [음악] 혜은이는 과거 살인명문중학교에서도 손꼽히는 수재였습니다 또한 부유한 엘리트 집안에서 태어나 호스텔과는 전혀 어울리지 않았습니다 하지만 혜은이는 우연히 만나게 된 장현에게 한눈에 반하였고 장현을 보기 위하여 호스텔과 어울리게 되었습니다 그리고 왕오춘은 혜은이 때문에 장현이 변하는 것을 보고 혜은이 엄마에게 신고하여 호스텔을 반쯤 박살 내버렸습니다 그리고 혜은이가 장현의 아이를 임신한 상태였으나 그것을 알지 못하고 장현과 혜은이를 이간질하여 혜은이를 죽음으로 몰고 가기도 하였습니다 그리고 혜은이는 결국 예나를 출산 후 사망해버립니다 대우교와 마귀라는 원래는 호스텔 B에 소속된 것이 아닌 호스텔 A의 구성원이었던 이후 호스텔 B로 넘어가게 되었고 호스텔 B에서는 떡볶이 장사를 하며 건전한 일을 하며 자라났습니다 그리고 최근에는 최원석과 박세림에게 이쁨 받으며 박세림과 최원석과 같이 동거하기도 하는 모습을 보였습니다 또한 본의 아니게 일회 4개 팀을 부숴버린 첫 번째 단초가 되기도 하였습니다 오늘 영상은 여기까지입니다 시청해주셔서 감사합니다 [음악]",
+  "movie_id": "호스텔",
+  "reviewer": "누르끼끼FBJ",
+  "chunk_index": 3,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "호스텔",
+      "entity_type": "MOVIE",
+      "entity_description": "호스텔은 고아원 출신 인물들과 다양한 캐릭터들이 얽히는 이야기를 다룬 작품이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "혜은이",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "혜은이는 살인명문중학교 출신의 수재로 부유한 엘리트 집안에서 태어났으나 장현에게 반해 호스텔과 어울리게 되었고, 장현의 아이를 임신한 후 예나를 출산하고 사망한 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "장현",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "장현은 박세림과 함께 살았으며 혜은이가 반한 인물로, 혜은이와의 사이에서 예나를 낳게 된 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "최원석",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "최원석은 고아원에서 은구, 탱구와 함께 자랐으며 대장으로 불리는 인물로, 박세림의 집에 합류하여 호스텔 멤버가 되었다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "박세림",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "박세림은 장현과 함께 살았으며 최원석, 대우교, 마귀와 동거하는 호스텔의 주요 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "은구",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "은구는 고아원에서 최원석, 탱구와 함께 자랐으며 과거 최원석급 전투력을 지녔으나 현재는 떡볶이 장사의 고수가 된 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "탱구",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "탱구는 고아원에서 최원석, 은구와 함께 자랐으며 은구와 힘을 합쳐 싸우면 최원석에게도 승리할 정도의 강자였으나 현재는 떡볶이 장사를 하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "왕오춘",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "왕오춘은 혜은이 때문에 장현이 변하는 것을 보고 혜은이 엄마에게 신고하여 호스텔을 반쯤 박살 내고, 장현과 혜은이를 이간질하여 혜은이를 죽음으로 몰고 간 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "허영민",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "허영민은 재원고 시절부터 허언증이 심했고 교우관계가 원만하지 못했으며, 타인의 사진을 도용해 물건을 판매하다 발각되어 자퇴 후 호스텔에 합류한 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "곽청호",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "곽청호는 호스텔 A의 주요 전력으로 왕오춘을 대신하여 전반적인 사업을 이끌어가는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "팽진량",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "팽진량은 호스텔 A의 주요 전력으로 곽청호와 함께 사업을 이끌어가는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "대우교",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "대우교는 원래 호스텔 A 소속이었다가 호스텔 B로 넘어가 떡볶이 장사를 하며 최원석과 박세림에게 이쁨 받는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "마귀",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "마귀는 원래 호스텔 A 소속이었다가 호스텔 B로 넘어가 떡볶이 장사를 하며 건전하게 자라난 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "예나",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "예나는 장현과 혜은이 사이에서 태어난 아이이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "윤재희",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "윤재희는 은구와 탱구가 힘을 합쳐 싸워도 밀리는 강한 전투력을 가진 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "이건우",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "이건우는 은구와 탱구를 상대로 우위를 점하는 전투력을 가진 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "윤경원",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "윤경원은 이건우와 함께 은구와 탱구를 상대로 우위를 점하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "공룡",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "공룡은 허영민과 함께 자취를 감춘 인물이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "혜은이",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "호스텔",
+      "target_type": "MOVIE",
+      "relationship_description": "혜은이는 호스텔의 주요 등장인물이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "장현",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "호스텔",
+      "target_type": "MOVIE",
+      "relationship_description": "장현은 호스텔의 주요 등장인물이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "최원석",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "호스텔",
+      "target_type": "MOVIE",
+      "relationship_description": "최원석은 호스텔의 주요 등장인물이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "혜은이",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "장현",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "혜은이는 장현에게 한눈에 반했으며 장현의 아이를 임신했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "예나",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "장현",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "예나는 장현의 딸이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "예나",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "혜은이",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "예나는 혜은이가 출산한 딸이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "왕오춘",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "혜은이",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "왕오춘은 혜은이를 죽음으로 몰고 간 장본인이다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "왕오춘",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "장현",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "왕오춘은 장현과 혜은이를 이간질했다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "최원석",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "은구",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "최원석은 은구와 고아원에서 함께 자랐으며 대장으로 불린다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "최원석",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "탱구",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "최원석은 탱구와 고아원에서 함께 자랐으며 대장으로 불린다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "은구",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "탱구",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "은구와 탱구는 고아원에서 함께 자랐으며 힘을 합쳐 싸우는 파트너이다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "최원석",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "박세림",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "최원석은 박세림의 집에 합류하여 함께 동거한다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "장현",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "박세림",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "장현은 박세림과 단둘이 함께 살았다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "대우교",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "최원석",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "대우교는 최원석에게 이쁨 받으며 함께 동거한다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "대우교",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "박세림",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "대우교는 박세림에게 이쁨 받으며 함께 동거한다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "마귀",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "대우교",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "마귀와 대우교는 함께 호스텔 A에서 B로 넘어가 떡볶이 장사를 한다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "곽청호",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "팽진량",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "곽청호와 팽진량은 호스텔 A의 주요 전력으로 함께 사업을 이끈다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "곽청호",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "왕오춘",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "곽청호는 왕오춘을 대신하여 사업을 이끌어간다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "허영민",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "공룡",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "허영민은 공룡과 함께 자취를 감추었다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "은구",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "윤재희",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "은구는 탱구와 힘을 합쳐도 윤재희에게 밀린다",
+      "relationship_strength": 6
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "탱구",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "윤재희",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "탱구는 은구와 힘을 합쳐도 윤재희에게 밀린다",
+      "relationship_strength": 6
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "은구",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "이건우",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "은구는 이건우에게 밀리는 모습을 보인다",
+      "relationship_strength": 6
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "탱구",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "이건우",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "탱구는 이건우에게 밀리는 모습을 보인다",
+      "relationship_strength": 6
+    }
+  ],
+  "entity_resolution": {
+    "호스텔": {
+      "description": "호스텔 -> 호스텔",
+      "resolved_name": "호스텔",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "혜은이": {
+      "description": "혜은이 -> 혜은이",
+      "resolved_name": "혜은이",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "장현": {
+      "description": "장현 -> 장현",
+      "resolved_name": "장현",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "최원석": {
+      "description": "최원석 -> 최원석",
+      "resolved_name": "최원석",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "박세림": {
+      "description": "박세림 -> 박세림",
+      "resolved_name": "박세림",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "은구": {
+      "description": "은구 -> 은구",
+      "resolved_name": "은구",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "탱구": {
+      "description": "탱구 -> 탱구",
+      "resolved_name": "탱구",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "왕오춘": {
+      "description": "왕오춘 -> 왕오춘",
+      "resolved_name": "왕오춘",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "허영민": {
+      "description": "허영민 -> 허영민",
+      "resolved_name": "허영민",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "곽청호": {
+      "description": "곽청호 -> 곽청호",
+      "resolved_name": "곽청호",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "팽진량": {
+      "description": "팽진량 -> 팽진량",
+      "resolved_name": "팽진량",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "대우교": {
+      "description": "대우교 -> 대우교",
+      "resolved_name": "대우교",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "마귀": {
+      "description": "마귀 -> 마귀",
+      "resolved_name": "마귀",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "예나": {
+      "description": "예나 -> 예나",
+      "resolved_name": "예나",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "윤재희": {
+      "description": "윤재희 -> 윤재희",
+      "resolved_name": "윤재희",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "이건우": {
+      "description": "이건우 -> 이건우",
+      "resolved_name": "이건우",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "윤경원": {
+      "description": "윤경원 -> 윤경원",
+      "resolved_name": "윤경원",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "공룡": {
+      "description": "공룡 -> 공룡",
+      "resolved_name": "공룡",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

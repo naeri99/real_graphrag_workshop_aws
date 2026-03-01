@@ -1,0 +1,29 @@
+{
+  "entity": {
+    "name": "중길",
+    "synonym": [
+      "Joong-gil",
+      "Jung-gil",
+      "Jungil",
+      "강중길",
+      "김중길",
+      "우연",
+      "우연이",
+      "이종석 중길",
+      "이중길",
+      "종길",
+      "종길이",
+      "중 길",
+      "중기리",
+      "중길",
+      "중길 역",
+      "중길 캐릭터",
+      "중길아",
+      "중길이"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "중길은 영화 '피끓는 청춘'의 등장인물로, 이종석이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

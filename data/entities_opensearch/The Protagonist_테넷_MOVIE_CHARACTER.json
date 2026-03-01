@@ -1,0 +1,32 @@
+{
+  "entity": {
+    "name": "The Protagonist",
+    "synonym": [
+      "Protagonist",
+      "Shazam 2",
+      "The Dark Knight",
+      "The Protagonist",
+      "The Raid: Redemption",
+      "다크 나이트",
+      "다크나이트",
+      "더 레이드",
+      "더 프로타고니스트",
+      "더레이드",
+      "레이드",
+      "레이드: 리뎀션",
+      "배트맨 다크나이트",
+      "샤잠",
+      "샤잠 2",
+      "샤잠 신들의 분노",
+      "주인공",
+      "주인공 캐릭터",
+      "테넷 주인공",
+      "프로타고니스트",
+      "프로타고니스트 캐릭터"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "The Protagonist은 영화 '테넷'의 등장인물로, 존 데이비드 워싱턴이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "제리 웨저먼",
+    "synonym": [
+      "Jerry Wasserman",
+      "웨저먼",
+      "제리",
+      "제리 와서먼",
+      "제리 워서먼",
+      "제리 웨저먼",
+      "제리와서먼",
+      "제리워서먼",
+      "제리웨서먼",
+      "제리웨저먼"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "제리 웨저먼은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

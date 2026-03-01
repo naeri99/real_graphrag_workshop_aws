@@ -1,0 +1,23 @@
+{
+  "entity": {
+    "name": "로지 에드",
+    "synonym": [
+      "Rosie",
+      "Rosie Ed",
+      "Rosie Ede",
+      "로시",
+      "로우지",
+      "로즈",
+      "로지",
+      "로지 에데",
+      "로지 에드",
+      "로지 이드",
+      "로지에드",
+      "에드"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "로지 에드은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

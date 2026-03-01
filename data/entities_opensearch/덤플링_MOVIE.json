@@ -1,0 +1,18 @@
+{
+  "entity": {
+    "name": "덤플링",
+    "synonym": [
+      "Dumplin",
+      "Dumplin'",
+      "덤프린",
+      "덤플린",
+      "덤플링",
+      "덤플링 2018",
+      "덤플링 영화"
+    ],
+    "entity_type": "MOVIE",
+    "summary": "덤플링",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

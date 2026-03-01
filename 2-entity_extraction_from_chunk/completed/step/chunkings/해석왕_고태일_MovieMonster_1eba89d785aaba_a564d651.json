@@ -1,0 +1,335 @@
+{
+  "chunk_hash": "1eba89d785aaba",
+  "chunk_id": "해석왕_고태일_MovieMonster_1eba89d785aaba_a564d651",
+  "user_query": "좋아요 구독 킹스맨의 매튜 본 감독이 연출했고요 그리고 헨리 카빌 브라이스 댈러스 하워드 샘 록웰 뭐 이렇게 출연을 하고 있습니다 사무엘 L. 잭슨 하고 존 시나는 좀 보조 출연 뭐라 그럴까 잠깐 나와요 잠깐 그래서 큰 역할은 뭐 맡은 건 아닙니다 제가 매튜 본 감독 영화를 상당히 많이 봤더라고요 생각해 보니까 스타더스트 제 스타더스트 그때 사람들이 많이 안 좋다고 했을 때 전 재밌게 봤거든요 그때는 영화를 뭐 제대로 본 식인 아니었지만 어쨌든 재밌게 봤고 킥 애스도 재밌게 봤어 엑스맨 퍼스트 클래스 어 재밌게 봤죠 근데 이제 어디서부터 조금 삐끗 끝나기 시작했냐면 2017년 골든 서클 로켓맨 킹스맨 퍼스트 에이전트 이때부터 좀 내가 매튜 본 이게 느낌이 좀 쇠한대라는 느낌을 받기 시작했어 요번 영화를 보면서 더 많이 생각이 들었던 건 가이 리치 느낌이 많이 든다는 생각이 들었거든요 헨리 카빌도 거의 조연인데 많이 나오긴 나오죠 어 그래서 위에는 많이 나오는 사람들 밑에는 많이 안 나온 사람들 포스터를 만든 것이 아닌가라는 생각이 들었습니다 나눠 놨네 자 줄거리는 이 사람이 소설 씁니다 아가일이라는 소설을 쓰고 있는데 소설이 한 2편까지 나왔어 그래서 3편 출판 기념회를 합니다 뭐 그때 질문들을 많이 받아요 당신 스파이 아닙니까 스파이에 대해서 왜 이렇게 잘 알아요 막 이런 얘기들 들어요 아 전 스파이가 아닙니다 전 소설가일 뿐이고요 허허허 막 해 그러다가 이제 4편을 써야 되는데 4편을 다 썼어 다 쓰고서 아 이제 됐다라고 해서 엄마한테 보내주니까 엄마가 이 부분이거든요 어 나 홀로 집에 엄마 엄마한테 보내줬더니 엄마가 아이 다 좋은데 엔딩이 좀 이상해 해가지고 아 엔딩 엔딩 어떻게 해야 되지 엔딩 엔딩을 못 쓰겠는 거야 그래가지고 떠나야겠다 그래가지고 떠납니다 떠났는데 그때 샘 록웰이 나온 거야 내 앞에 딱 기차에 맞은편에 앉은 거야 아 뭐야 저 남자 되게 못생기고 어 지저분하게 생겼는데 하필 또 내 책을 읽고 있네 그래가지고 막 모른척 모른척 하려고 하는데 갑자기 이 작가를 죽이려고 막 그 옆에 있는 사람들이 막 죽이려고 합니다 근데 얘가 샘 록웰 도와줘 다다다다다 막아줘 막아주고 나서 둘이서 그 기차를 도망칩니다 그랬더니만 얘가 왜 구해 주냐 얘를 왜 데리고 다니냐 했더니만 얘는 그러는 거야 당신 소설 다 읽어봤다 3편도 읽어봤는데 3편까지 내용이 실제로 벌어지고 있는 일이다 벌어지고 있는 일을 당신이 그걸 다 써버려 가지고 그 악당 쪽에서 너를 찾으려고 난리다 왜냐면 너를 죽여야 된다고 생각을 하니까 아니 이건 소설일 뿐인데 어떻게 현실하고 똑같아요라고 했더니 얘가 그러는 거야 4편도 읽어봤다 4편 출판도 안 했는데 4편을 내 책을 4편을 읽어 봤다고요 어 거기서 나오는 얘기들을 나한테 계속 알려 달라 어떻게 되는지 그런 얘기를 하는 거야 말도 안 되잖아 자기가 상상력으로 쓴 것들이 실제로 계속 벌어진다고 하니까 그래서 둘이서 막 그 단서를 막 찾으러 다녀요 찾으러 다니는데 스포일러 있습니다 스포일러 말씀드릴게요 스포일러 있다고",
+  "movie_id": "아가일",
+  "reviewer": "해석왕_고태일_MovieMonster",
+  "chunk_index": 1,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "매튜 본",
+      "entity_type": "MOVIE_STAFF",
+      "entity_description": "매튜 본은 킹스맨, 스타더스트, 킥 애스, 엑스맨 퍼스트 클래스, 골든 서클, 로켓맨, 킹스맨 퍼스트 에이전트, 아가일 등을 연출한 감독이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "아가일",
+      "entity_type": "MOVIE",
+      "entity_description": "아가일은 매튜 본 감독이 연출한 영화로, 소설가가 자신이 쓴 스파이 소설의 내용이 실제로 벌어지고 있다는 것을 알게 되면서 벌어지는 이야기를 다룬다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "헨리 카빌",
+      "entity_type": "ACTOR",
+      "entity_description": "헨리 카빌은 아가일에 출연한 배우로, 조연이지만 많이 등장한다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "브라이스 댈러스 하워드",
+      "entity_type": "ACTOR",
+      "entity_description": "브라이스 댈러스 하워드는 아가일에 출연한 배우이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "샘 록웰",
+      "entity_type": "ACTOR",
+      "entity_description": "샘 록웰은 아가일에 출연한 배우로, 소설가를 구해주는 인물 역할을 맡았다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "사무엘 L. 잭슨",
+      "entity_type": "ACTOR",
+      "entity_description": "사무엘 L. 잭슨은 아가일에 보조 출연한 배우로, 잠깐 등장한다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "존 시나",
+      "entity_type": "ACTOR",
+      "entity_description": "존 시나는 아가일에 보조 출연한 배우로, 잠깐 등장한다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "킹스맨",
+      "entity_type": "MOVIE",
+      "entity_description": "킹스맨은 매튜 본 감독이 연출한 영화이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "스타더스트",
+      "entity_type": "MOVIE",
+      "entity_description": "스타더스트는 매튜 본 감독이 연출한 영화로, 당시 평가가 좋지 않았지만 리뷰어는 재밌게 봤다고 한다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "킥 애스",
+      "entity_type": "MOVIE",
+      "entity_description": "킥 애스는 매튜 본 감독이 연출한 영화이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "엑스맨 퍼스트 클래스",
+      "entity_type": "MOVIE",
+      "entity_description": "엑스맨 퍼스트 클래스는 매튜 본 감독이 연출한 영화이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "골든 서클",
+      "entity_type": "MOVIE",
+      "entity_description": "골든 서클은 2017년 매튜 본 감독이 연출한 영화로, 리뷰어가 감독의 기량이 쇠퇴했다고 느끼기 시작한 작품이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "로켓맨",
+      "entity_type": "MOVIE",
+      "entity_description": "로켓맨은 매튜 본 감독이 연출한 영화이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "킹스맨 퍼스트 에이전트",
+      "entity_type": "MOVIE",
+      "entity_description": "킹스맨 퍼스트 에이전트는 매튜 본 감독이 연출한 영화이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "가이 리치",
+      "entity_type": "MOVIE_STAFF",
+      "entity_description": "가이 리치는 영화 감독으로, 리뷰어가 아가일에서 그의 스타일이 느껴진다고 언급했다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "매튜 본",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "아가일",
+      "target_type": "MOVIE",
+      "relationship_description": "매튜 본은 아가일을 연출했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "매튜 본",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "킹스맨",
+      "target_type": "MOVIE",
+      "relationship_description": "매튜 본은 킹스맨을 연출했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "매튜 본",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "스타더스트",
+      "target_type": "MOVIE",
+      "relationship_description": "매튜 본은 스타더스트를 연출했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "매튜 본",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "킥 애스",
+      "target_type": "MOVIE",
+      "relationship_description": "매튜 본은 킥 애스를 연출했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "매튜 본",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "엑스맨 퍼스트 클래스",
+      "target_type": "MOVIE",
+      "relationship_description": "매튜 본은 엑스맨 퍼스트 클래스를 연출했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "매튜 본",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "골든 서클",
+      "target_type": "MOVIE",
+      "relationship_description": "매튜 본은 골든 서클을 연출했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "매튜 본",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "로켓맨",
+      "target_type": "MOVIE",
+      "relationship_description": "매튜 본은 로켓맨을 연출했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "매튜 본",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "킹스맨 퍼스트 에이전트",
+      "target_type": "MOVIE",
+      "relationship_description": "매튜 본은 킹스맨 퍼스트 에이전트를 연출했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "헨리 카빌",
+      "source_type": "ACTOR",
+      "target_entity": "아가일",
+      "target_type": "MOVIE",
+      "relationship_description": "헨리 카빌은 아가일에 조연으로 출연했다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "브라이스 댈러스 하워드",
+      "source_type": "ACTOR",
+      "target_entity": "아가일",
+      "target_type": "MOVIE",
+      "relationship_description": "브라이스 댈러스 하워드는 아가일에 출연했다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "샘 록웰",
+      "source_type": "ACTOR",
+      "target_entity": "아가일",
+      "target_type": "MOVIE",
+      "relationship_description": "샘 록웰은 아가일에 출연했다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "사무엘 L. 잭슨",
+      "source_type": "ACTOR",
+      "target_entity": "아가일",
+      "target_type": "MOVIE",
+      "relationship_description": "사무엘 L. 잭슨은 아가일에 보조 출연했다",
+      "relationship_strength": 5
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "존 시나",
+      "source_type": "ACTOR",
+      "target_entity": "아가일",
+      "target_type": "MOVIE",
+      "relationship_description": "존 시나는 아가일에 보조 출연했다",
+      "relationship_strength": 5
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "아가일",
+      "source_type": "MOVIE",
+      "target_entity": "가이 리치",
+      "target_type": "MOVIE_STAFF",
+      "relationship_description": "리뷰어가 아가일에서 가이 리치 감독의 스타일이 느껴진다고 평가했다",
+      "relationship_strength": 6
+    }
+  ],
+  "entity_resolution": {
+    "매튜 본": {
+      "description": "매튜 본 -> 매튜 본",
+      "resolved_name": "매튜 본",
+      "entity_type": "MOVIE_STAFF",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "아가일": {
+      "description": "아가일 -> 아가일",
+      "resolved_name": "아가일",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "헨리 카빌": {
+      "description": "헨리 카빌 -> 헨리 카빌",
+      "resolved_name": "헨리 카빌",
+      "entity_type": "ACTOR",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "브라이스 댈러스 하워드": {
+      "description": "브라이스 댈러스 하워드 -> 브라이스 달라스 하워드",
+      "resolved_name": "브라이스 달라스 하워드",
+      "entity_type": "ACTOR",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "샘 록웰": {
+      "description": "샘 록웰 -> 샘 록웰",
+      "resolved_name": "샘 록웰",
+      "entity_type": "ACTOR",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "사무엘 L. 잭슨": {
+      "description": "사무엘 L. 잭슨 -> 사무엘 L. 잭슨",
+      "resolved_name": "사무엘 L. 잭슨",
+      "entity_type": "ACTOR",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "존 시나": {
+      "description": "존 시나 -> 존 시나",
+      "resolved_name": "존 시나",
+      "entity_type": "ACTOR",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "킹스맨": {
+      "description": "킹스맨 -> 킹스맨",
+      "resolved_name": "킹스맨",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "스타더스트": {
+      "description": "스타더스트 -> 스타더스트",
+      "resolved_name": "스타더스트",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "킥 애스": {
+      "description": "킥 애스 -> 킥 애스",
+      "resolved_name": "킥 애스",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "엑스맨 퍼스트 클래스": {
+      "description": "엑스맨 퍼스트 클래스 -> 엑스맨 퍼스트 클래스",
+      "resolved_name": "엑스맨 퍼스트 클래스",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "골든 서클": {
+      "description": "골든 서클 -> 골든 서클",
+      "resolved_name": "골든 서클",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "로켓맨": {
+      "description": "로켓맨 -> 로켓맨",
+      "resolved_name": "로켓맨",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "킹스맨 퍼스트 에이전트": {
+      "description": "킹스맨 퍼스트 에이전트 -> 킹스맨 퍼스트 에이전트",
+      "resolved_name": "킹스맨 퍼스트 에이전트",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "가이 리치": {
+      "description": "가이 리치 -> 가이 리치",
+      "resolved_name": "가이 리치",
+      "entity_type": "MOVIE_STAFF",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

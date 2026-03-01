@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "맷 루카스",
+    "synonym": [
+      "Matt Lucas",
+      "루카스",
+      "매트 루카스",
+      "매트루카스",
+      "맷",
+      "맷 루카스",
+      "맷 루커스",
+      "맷루카스"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "맷 루카스은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

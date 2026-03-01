@@ -1,0 +1,36 @@
+{
+  "chunk_hash": "e7c6310e3ab6f5",
+  "chunk_id": "멍냥이_잼반응_e7c6310e3ab6f5_ceb6245d",
+  "user_query": "of my favorite movies. >> Yeah, 100%. >> But like it is one of those movies where I'm like, it's so beautiful and it makes me cry. [Music] [Applause]",
+  "movie_id": "7번방의 선물",
+  "reviewer": "멍냥이_잼반응",
+  "chunk_index": 11,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "UNNAMED MOVIE",
+      "entity_type": "MOVIE",
+      "entity_description": "화자가 가장 좋아하는 영화 중 하나로, 아름답고 눈물을 흘리게 만드는 영화로 묘사됨"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "UNNAMED MOVIE",
+      "source_type": "MOVIE",
+      "target_entity": "UNNAMED MOVIE",
+      "target_type": "MOVIE",
+      "relationship_description": "화자가 이 영화를 아름답고 감동적이라고 평가함",
+      "relationship_strength": 5
+    }
+  ],
+  "entity_resolution": {
+    "UNNAMED MOVIE": {
+      "description": "UNNAMED MOVIE -> UNNAMED MOVIE",
+      "resolved_name": "UNNAMED MOVIE",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

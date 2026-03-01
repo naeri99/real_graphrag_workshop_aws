@@ -1,0 +1,89 @@
+{
+  "chunk_hash": "b9263653c6a5ba",
+  "chunk_id": "명영화_b9263653c6a5ba_d863524f",
+  "user_query": "I'm 22 years old newly married and already a money craze little [ __ ] so what do I do I go to the one place on Earth that befits my highest [Music] ambitions your job is connector which means that you will be dialing the phone over 500 times a day trying to connect me with wealthy business owners and until you pass your Series 7 that is all you're going to [ __ ] be doing sit sit just say you know last year I made over $300,000 the other guy you'll be working for he made over a million bucks that guy must be Jordan Belfort yeah yes sir Mark Hannah pleasure to meet you and you as well I see you've already met the village [ __ ] smile and dial and don't pick up your [ __ ] head until one hey [ __ ] him I'm the senior broker here he's just now did you really pitch a stock in your job interview I had to do something to stand out right sir I [ __ ] love that lunch today yeah right we don't start dialing at 9:30 because our clients are already answering the phone three two one let's I was hooked in seconds can't 4 pick up the [ __ ] phone Mark as well we don't give two [ __ ] about how technology works because all we care about is getting [ __ ] rich name of the game move the money from your client's pocket into your pocket right but if you can make a client's money at the same time it's advantageous to everyone of them correct no meanwhile he thinks he's getting [ __ ] rich which he is on paper but you and me the brokers we're taking home cold hard cash via commission [ __ ]",
+  "movie_id": "인사이드 잡",
+  "reviewer": "명영화",
+  "chunk_index": 1,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "THE WOLF OF WALL STREET",
+      "entity_type": "MOVIE",
+      "entity_description": "월스트리트의 늑대는 주식 중개인의 성공과 탐욕을 다룬 영화이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "JORDAN BELFORT",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "조던 벨포트는 22세에 결혼한 신입 주식 중개인으로, 부를 향한 야망을 가진 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "MARK HANNA",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "마크 한나는 시니어 브로커로, 조던 벨포트에게 주식 중개업의 본질과 수수료를 통한 돈벌이 방식을 가르쳐주는 인물이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "JORDAN BELFORT",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "THE WOLF OF WALL STREET",
+      "target_type": "MOVIE",
+      "relationship_description": "조던 벨포트는 월스트리트의 늑대의 주인공이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "MARK HANNA",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "THE WOLF OF WALL STREET",
+      "target_type": "MOVIE",
+      "relationship_description": "마크 한나는 월스트리트의 늑대에 등장하는 시니어 브로커 캐릭터이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "JORDAN BELFORT",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "MARK HANNA",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "조던 벨포트는 마크 한나 밑에서 일하며 주식 중개업을 배운다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "MARK HANNA",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "JORDAN BELFORT",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "마크 한나는 조던 벨포트의 멘토로서 브로커의 수수료 시스템을 가르쳐준다",
+      "relationship_strength": 9
+    }
+  ],
+  "entity_resolution": {
+    "THE WOLF OF WALL STREET": {
+      "description": "THE WOLF OF WALL STREET -> THE WOLF OF WALL STREET",
+      "resolved_name": "THE WOLF OF WALL STREET",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "JORDAN BELFORT": {
+      "description": "JORDAN BELFORT -> JORDAN BELFORT",
+      "resolved_name": "JORDAN BELFORT",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "MARK HANNA": {
+      "description": "MARK HANNA -> MARK HANNA",
+      "resolved_name": "MARK HANNA",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

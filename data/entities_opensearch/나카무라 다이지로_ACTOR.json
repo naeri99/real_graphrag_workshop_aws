@@ -1,0 +1,17 @@
+{
+  "entity": {
+    "name": "나카무라 다이지로",
+    "synonym": [
+      "Daijiro Nakamura",
+      "中村大樹",
+      "나카무라",
+      "나카무라 다이지로",
+      "나카무라다이지로",
+      "다이지로"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "나카무라 다이지로은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

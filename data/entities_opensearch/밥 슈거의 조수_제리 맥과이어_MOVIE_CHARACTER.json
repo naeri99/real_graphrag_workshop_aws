@@ -1,0 +1,24 @@
+{
+  "entity": {
+    "name": "밥 슈거의 조수",
+    "synonym": [
+      "Bob Sugar's Assistant",
+      "Something in the Rain",
+      "밥 슈가의 조수",
+      "밥 슈거 조수",
+      "밥 슈거의 조수",
+      "밥 잘 사주는 예쁜 누나",
+      "밥누나",
+      "밥슈거 조수",
+      "밥슈거의 조수",
+      "밥슈거의조수",
+      "밥슈거조수",
+      "슈거의 조수",
+      "조수"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "밥 슈거의 조수은 영화 '제리 맥과이어'의 등장인물로, 릭 존슨이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

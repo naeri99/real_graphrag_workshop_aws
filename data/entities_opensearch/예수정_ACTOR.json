@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "예수정",
+    "synonym": [
+      "Ye Soo-jung",
+      "Ye Soojung",
+      "Ye Su-jeong",
+      "수정",
+      "예 수정",
+      "예수 정",
+      "예수정",
+      "예수정 배우",
+      "예수정 선생님"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "예수정은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

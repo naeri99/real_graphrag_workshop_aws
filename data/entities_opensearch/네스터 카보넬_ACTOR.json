@@ -1,0 +1,24 @@
+{
+  "entity": {
+    "name": "네스터 카보넬",
+    "synonym": [
+      "Nestor",
+      "Nestor Carbonell",
+      "Nestor Gastón Carbonell",
+      "네스터",
+      "네스터 카르보넬",
+      "네스터 카보넬",
+      "네스터카르보넬",
+      "네스터카보넬",
+      "네스토 카보넬",
+      "네스토르 카르보넬",
+      "네스토르 카보넬",
+      "네스토카보넬",
+      "카보넬"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "네스터 카보넬은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

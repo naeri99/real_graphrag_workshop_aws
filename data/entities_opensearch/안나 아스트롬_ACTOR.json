@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "안나 아스트롬",
+    "synonym": [
+      "Anna",
+      "Anna Astrom",
+      "Anna Åström",
+      "아스트롬",
+      "안나",
+      "안나 아스트롬",
+      "안나 아스트룀",
+      "안나 애스트롬",
+      "안나아스트롬"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "안나 아스트롬은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

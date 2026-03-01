@@ -1,0 +1,13 @@
+{
+  "entity": {
+    "name": "머프무비s_영화_뽀개기",
+    "synonym": [
+      "머프무비s_영화_뽀개기",
+      "머프무비s 영화 뽀개기"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "머프무비s_영화_뽀개기은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

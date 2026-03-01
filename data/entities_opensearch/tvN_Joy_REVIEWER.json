@@ -1,0 +1,13 @@
+{
+  "entity": {
+    "name": "tvN_Joy",
+    "synonym": [
+      "tvN_Joy",
+      "tvN Joy"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "tvN_Joy은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

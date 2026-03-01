@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "저스틴 퀘일",
+    "synonym": [
+      "Justin Quayle",
+      "저스틴",
+      "저스틴 퀘일",
+      "저스틴 퀘일리",
+      "저스틴퀘일",
+      "져스틴 퀘일",
+      "쥬스틴 퀘일",
+      "퀘일"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "저스틴 퀘일은 영화 '콘스탄트 가드너'의 등장인물로, 레이프 파인즈이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

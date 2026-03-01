@@ -1,0 +1,137 @@
+{
+  "chunk_hash": "96ec1170cf124a",
+  "chunk_id": "하뭉_-_The_Movie_96ec1170cf124a_aa445d62",
+  "user_query": "거 그리고 위험한데도 다 알고 동의했는데요 오늘은 진짜 무서웠어요 딱 일주일만 하기로 한 거고 지금은 다섯 배 요즘 MG들은 이런 걸 더 좋아하지 않나 글쎄요 저는 그냥 옷장에 비행기 타고 싶은데요 승무원 준비를 하는 수연은 고액의 알바를 지원했지만 생각보다 너무 위험한 실험에 그만두려 하는데 인센티브 관상 실험 끝마다 200 말도 안 되는 금액에 결국 실험을 계속하는 수연 한편 불이 꺼지고 복도에서는 또다시 시선이 느껴집니다 [음악] 아침이 돼도 그녀의 머릿속엔 어젯밤 생각뿐이었고 그날 밤에도 그녀를 괴롭히는 인기척 그녀는 용기를 내서 밖을 나가보려 하고 그거 워터멜론이에요 알죠 수박 그 후 수박이 담겨 있다는 상자를 옆에 두고 알바를 시작합니다 [음악] 이미지 메이킹의 중요성에 대해서 다시 한번 말씀드리겠습니다 편의점 약간 봐봐 내 관상이요 진상이 계속 꼬일 것 같으니 관상 점주의 관상 이야기를 들은 후 계속해서 신경 쓰이는 수연 멀쩡한 비행기를 추락시킬 만한 그런 불길한 관상도 있을까 면접에서 알아서 걸러 치겠지 요즘 뭔 소리 하는 거야 지금 아니야 난 이만 돈 벌러 모험을 떠납니다요 갈게 불안한 마음에 호신용품까지 챙겨서 편의점으로 출근하는 수연 곧이어 밤이 되고 어젯밤 그 남자는 찾아오지 않았지만 진상 손님이 찾아옵니다 죄송합니다 쌍 폐기물도 원래 가격에 그냥 나한테 버리라니까 아무리 말씀을 하셔도 손님이 원하시는 도시락은 재고가 없을 뿐더러 폐기도시락을 내놓으라는 진상은 곧이어 옆에 있는 상자에 눈이 가죠 고기가 들어있다고 생각한 그는 상자를 열어 버리고 [음악] 문밖에 아무도 없다는 걸 어젯밤 확인했지만 그녀의 의심은 점점 더 심해져만 가고 [음악] [음악] 불이 꺼지자 결국 봉녀는 노인이 있는 방으로 향합니다 바로 그때 소리가 잠잠해지자 다시 문 밖으로 나서는 봉녀 [음악] [음악] 과연 두 사람은 어떻게 될까요 6개의 옴니버스로 구성된 미드나잇 호러 6개의 밤이 27일 시즌 오리지널로 공개되었습니다 오늘 소개해드린 에피소드는 각각 편의점과 호리였고 두 에피소드 모두 충격적인 결말이 기다리고 있으니 공포물을 좋아하시는 분들은 꼭 한번 확인해 보시길 바랍니다 미드나잇 호러를 보고 싶으신 분들은 지금 당장 댓글에 있는 링크를 통해 시청하실 수 있습니다 이상 하몽 더 무비였습니다",
+  "movie_id": "미드나잇 런",
+  "reviewer": "하뭉_-_The_Movie",
+  "chunk_index": 3,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "미드나잇 호러",
+      "entity_type": "MOVIE",
+      "entity_description": "미드나잇 호러는 6개의 옴니버스로 구성된 공포 시리즈로, 27일 시즌 오리지널로 공개되었다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "수연",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "수연은 승무원 준비를 하면서 고액의 알바를 지원한 인물로, 위험한 실험에 참여하며 편의점에서도 일하는 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "봉녀",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "봉녀는 밤마다 인기척과 시선에 괴롭힘을 당하며 노인이 있는 방으로 향하는 공포 에피소드의 등장인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "점주",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "점주는 편의점 주인으로 수연에게 관상 이야기를 해주는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "노인",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "노인은 봉녀가 향하는 방에 있는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "하몽 더 무비",
+      "entity_type": "REVIEWER",
+      "entity_description": "하몽 더 무비는 미드나잇 호러를 소개하고 리뷰하는 유튜버/리뷰어이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "수연",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "미드나잇 호러",
+      "target_type": "MOVIE",
+      "relationship_description": "수연은 미드나잇 호러의 편의점 에피소드 주인공이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "봉녀",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "미드나잇 호러",
+      "target_type": "MOVIE",
+      "relationship_description": "봉녀는 미드나잇 호러의 호리 에피소드 등장인물이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "점주",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "수연",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "점주는 수연에게 관상 이야기를 해주며 수연을 불안하게 만든다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "봉녀",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "노인",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "봉녀는 노인이 있는 방으로 향한다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "하몽 더 무비",
+      "source_type": "REVIEWER",
+      "target_entity": "미드나잇 호러",
+      "target_type": "MOVIE",
+      "relationship_description": "하몽 더 무비는 미드나잇 호러를 소개하고 리뷰했다",
+      "relationship_strength": 8
+    }
+  ],
+  "entity_resolution": {
+    "미드나잇 호러": {
+      "description": "미드나잇 호러 -> 미드나잇 호러",
+      "resolved_name": "미드나잇 호러",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "수연": {
+      "description": "수연 -> 수연 친구2",
+      "resolved_name": "수연 친구2",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "봉녀": {
+      "description": "봉녀 -> 봉녀",
+      "resolved_name": "봉녀",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "점주": {
+      "description": "점주 -> 점주",
+      "resolved_name": "점주",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "노인": {
+      "description": "노인 -> 노인",
+      "resolved_name": "노인",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "하몽 더 무비": {
+      "description": "하몽 더 무비 -> 하몽 더 무비",
+      "resolved_name": "하몽 더 무비",
+      "entity_type": "REVIEWER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

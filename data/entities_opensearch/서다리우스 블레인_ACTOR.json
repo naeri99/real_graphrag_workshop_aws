@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "서다리우스 블레인",
+    "synonym": [
+      "Ser'Darius Blain",
+      "블레인",
+      "서다리우스",
+      "서다리우스 블레인",
+      "서다리우스블레인",
+      "서대리우스 블레인",
+      "세르다리우스",
+      "세르다리우스 블레인"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "서다리우스 블레인은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

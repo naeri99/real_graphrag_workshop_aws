@@ -1,0 +1,12 @@
+{
+  "entity": {
+    "name": "작스튜브ZAKSTUBE",
+    "synonym": [
+      "작스튜브ZAKSTUBE"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "작스튜브ZAKSTUBE은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

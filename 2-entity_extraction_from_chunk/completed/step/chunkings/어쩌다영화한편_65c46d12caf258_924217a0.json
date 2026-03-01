@@ -1,0 +1,71 @@
+{
+  "chunk_hash": "65c46d12caf258",
+  "chunk_id": "어쩌다영화한편_65c46d12caf258_924217a0",
+  "user_query": "microphone [Music] don't die [Music] going on [Music] that's a nice dress I like your jacket thanks I hope our flight's on time this airline has an excellent arrival departure record like 98 no 96 no 98 which is very interesting um I'm sorry what was that what did I do you came up alongside me face and charm and you just you know just casually blatantly step in front of me untrue um your position on an aircraft that has eight seats in fact I need to be over there [ __ ] anybody want to trade seats you're ridiculous destinations thank you dear God carried at the notch there is no notch this one does not appear to have a working notch oh I'm actually going to passwords please don't tell me it's Keith in it I was engaged to him six years ago God you're Lindsay holy [ __ ] you're Frank um [Music] our flight was early really it seemed so long know that he broke off your engagement five weeks before the wedding and now I know why which is saying something considering how bad off you are stay as far away from Keith as I can why would you come to his wedding he broke your heart as I recall I came because he invited me I'm just trying to be the big person well also I need closure marrying someone else that's closure it's closed a chance I sent me two cars [Music] foreign [Music] I run marketing for JD powering Associates the career you dreamed of handing out Awards by the fistful what do you do anyway I prosecute or culturally insensitive actions or speech racist or misogynist or",
+  "movie_id": "데스티네이션 웨딩",
+  "reviewer": "어쩌다영화한편",
+  "chunk_index": 1,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "LINDSAY",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Lindsay는 Keith와 6년 전 약혼했다가 결혼 5주 전에 파혼당한 여성 캐릭터이다. JD Power and Associates에서 마케팅을 담당하고 있다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "FRANK",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Frank는 Lindsay와 비행기에서 만나 대화를 나누는 남성 캐릭터이다. 인종차별적이거나 성차별적인 행동이나 발언을 기소하는 일을 한다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "KEITH",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Keith는 Lindsay의 전 약혼자로, 결혼식 5주 전에 약혼을 파기했으며 현재 다른 사람과 결혼을 앞두고 있는 인물이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "LINDSAY",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "FRANK",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Lindsay와 Frank는 비행기에서 만나 좌석 문제로 실랑이를 벌이고 대화를 나눈다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "FRANK",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "KEITH",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Frank는 Keith의 결혼식에 참석하기 위해 같은 비행기를 타고 있으며, Keith가 Lindsay와의 약혼을 파기한 이유를 알고 있다고 암시한다",
+      "relationship_strength": 6
+    }
+  ],
+  "entity_resolution": {
+    "LINDSAY": {
+      "description": "LINDSAY -> LINDSAY",
+      "resolved_name": "LINDSAY",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "FRANK": {
+      "description": "FRANK -> Frank Wolff",
+      "resolved_name": "Frank Wolff",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "KEITH": {
+      "description": "KEITH -> KEITH",
+      "resolved_name": "KEITH",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

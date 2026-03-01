@@ -1,0 +1,199 @@
+{
+  "chunk_hash": "ba3d5207fd7e65",
+  "chunk_id": "무비퓨레_moviepuree_ba3d5207fd7e65_12d9ea89",
+  "user_query": "주식 시장 붕괴 면 해가 망신 한다는 말 들어본 적 있으신가요 하우스 푸어라는 단어는 혹시 들어본 적 있으신가요 2008년 아무도 예상하지 못했던 시기 외국 금융 위기가 닥쳤습니다 미국이 기침을 하면 한국은 독감에 걸린다는 말이 있듯 미국 금융위기 사태는 정작 강국인 미국보다 다른 국가들에 더 큰 상처를 안겨줬죠 오늘은 영화 인사이드 잡을 통해 금융 선진국이라고 불리는 미국에서 어떻게 금융위기가 터졌는지 왜 전문가들도 쉽게 예측하지 못하는지에 관해 살펴보며 동시에 그렇다면 우리가 그런 위기를 피할 수 있는 방법은 무엇인지에 대해 자세히 알아보도록 하겠습니다 [음악] 2008년 9월 15일 충격적인 소식이 방송을 통해 흘러나왔습니다 세계 최대 투자은행인 리먼 브라더스가 파산보호를 신청했고 또 다른 세계적 투자은행인 메릴린치도 매각 예정이라는 뉴스였죠 뉴스가 방송을 타고 얼마 되지 않아 세계 최대 보험사 AIG도 파산하며 전 세계 경제는 휘청거렸습니다 리먼 브라더스가 파산하며 리먼 채권에 투자한 투자자들은 돈을 돌려받지 못했고 그들은 한번에 전 재산을 잃는 쓰라린 경험을 겪어야만 했습니다 주식과 부동산 가치가 하락하며 자산을 가지고 있던 사람들의 손자산도 단번에 폭락했습니다 전 세계 3천만 명이 하루아침에 실직했고 5천만 명은 극빈자 신세가 되었죠 대공황 이후 40년 동안 미국 경제는 단 한 차례 금융위기에도 겪지 않고 쉴 틈 없이 성장했습니다 영화는 그렇단 미국이 위기 한 번 없이 승승장구할 수 있었던 이유로 당시 시행되고 있었던 엄격한 금융규제를 짚습니다 당시 대부분의 은행은 고유의 은행업무만 맡았고 고객 예금을 투기하는 것은 엄격히 금지되어 있었다고 하네요 투자은행이 주식과 채권 매매를 할 수 있었지만 규모가 작았고 동업자 관계로 이뤄졌다고 합니다 1972년 모건스탠리 연합은 110명의 직원 하나의 사무실 1천 2백만 달러의 자본금을 보유하고 있었다고 하네요 하지만 지금은 어떨까요 영화가 제작된 2010년 기준 모건스탠리는 5만 명의 직원 전 세계에 사무실이 있으며 자본금은 수십억 달러에 달한다고 합니다 모건스탠리가 이렇듯 가파르게 성장할 수 있었던 기반에는 1980년대 벌어진 금융업 팽창이 있었습니다 1980년대 투자은행이 공개기업화되면서 주주들에게 큰돈이 들어가기 시작했다고 하네요 그렇게 자연스럽게 월스트리트 사람들은 부자가 되었습니다 금융업 종사자와 일반 업계 종사자의 임금을 비교한 그래프인데요 1978년까지는 비슷한데 1980년대 무렵부터는 격차가 심해지는 것을 한눈에 확인할 수 있습니다 작가 찰스 모리스는 1970년대 당시 메릴린치에서 일했던 한 친구를 기억하며 다음과 같이 말했습니다 1982년 레이건 대통령은 재무부 장관으로 도널드 리건을 임명했습니다 도널드 리건은 메릴린치 은행 CEO였죠 경제학자와 규제 로비스트는 레이건 행정부를 적극적으로 지지했고 그때부터 규제완화가 본격적으로 시작되었습니다 놀라운 점은 그때 시작된 규제완화가 무려 30년 동안 이어졌다는 것이죠 레이건 정부는 1981년 저축과 융자회사 규제를 먼저",
+  "movie_id": "인사이드 잡",
+  "reviewer": "무비퓨레_moviepuree",
+  "chunk_index": 2,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "인사이드 잡",
+      "entity_type": "MOVIE",
+      "entity_description": "인사이드 잡은 2008년 미국 금융위기의 원인과 과정을 다룬 다큐멘터리 영화로, 2010년에 제작되었다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "리먼 브라더스",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "리먼 브라더스는 영화에서 언급되는 세계 최대 투자은행으로, 2008년 9월 15일 파산보호를 신청했다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "메릴린치",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "메릴린치는 영화에서 언급되는 세계적 투자은행으로, 2008년 금융위기 당시 매각 예정이었다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "AIG",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "AIG는 영화에서 언급되는 세계 최대 보험사로, 리먼 브라더스 파산 직후 함께 파산했다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "모건스탠리",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "모건스탠리는 영화에서 금융업 팽창의 예시로 언급되는 투자은행으로, 1972년 110명 직원에서 2010년 기준 5만 명 직원으로 성장했다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "찰스 모리스",
+      "entity_type": "REVIEWER",
+      "entity_description": "찰스 모리스는 작가로, 영화에서 1970년대 메릴린치에서 일했던 친구에 대해 언급하며 당시 금융업계 상황을 설명한다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "도널드 리건",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "도널드 리건은 메릴린치 은행 CEO 출신으로, 1982년 레이건 대통령에 의해 재무부 장관으로 임명되어 금융 규제완화를 시작했다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "레이건",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "레이건은 1982년 미국 대통령으로, 도널드 리건을 재무부 장관으로 임명하고 금융 규제완화 정책을 시작했다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "리먼 브라더스",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "인사이드 잡",
+      "target_type": "MOVIE",
+      "relationship_description": "리먼 브라더스의 파산은 인사이드 잡에서 다루는 2008년 금융위기의 핵심 사건이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "메릴린치",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "인사이드 잡",
+      "target_type": "MOVIE",
+      "relationship_description": "메릴린치는 인사이드 잡에서 금융위기 당시 매각된 투자은행으로 언급된다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "AIG",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "인사이드 잡",
+      "target_type": "MOVIE",
+      "relationship_description": "AIG는 인사이드 잡에서 금융위기 당시 파산한 보험사로 언급된다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "모건스탠리",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "인사이드 잡",
+      "target_type": "MOVIE",
+      "relationship_description": "모건스탠리는 인사이드 잡에서 금융업 팽창의 대표적 사례로 언급된다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "찰스 모리스",
+      "source_type": "REVIEWER",
+      "target_entity": "인사이드 잡",
+      "target_type": "MOVIE",
+      "relationship_description": "찰스 모리스는 인사이드 잡에서 1970년대 금융업계 상황에 대해 증언하는 작가이다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "도널드 리건",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "메릴린치",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "도널드 리건은 메릴린치 은행의 CEO였다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "레이건",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "도널드 리건",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "레이건 대통령은 도널드 리건을 재무부 장관으로 임명했다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "도널드 리건",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "인사이드 잡",
+      "target_type": "MOVIE",
+      "relationship_description": "도널드 리건은 인사이드 잡에서 금융 규제완화를 시작한 인물로 언급된다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "레이건",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "인사이드 잡",
+      "target_type": "MOVIE",
+      "relationship_description": "레이건은 인사이드 잡에서 금융 규제완화 정책을 시작한 대통령으로 언급된다",
+      "relationship_strength": 8
+    }
+  ],
+  "entity_resolution": {
+    "인사이드 잡": {
+      "description": "인사이드 잡 -> 인사이드 잡",
+      "resolved_name": "인사이드 잡",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "리먼 브라더스": {
+      "description": "리먼 브라더스 -> 리먼 브라더스",
+      "resolved_name": "리먼 브라더스",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "메릴린치": {
+      "description": "메릴린치 -> 메릴린치",
+      "resolved_name": "메릴린치",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "AIG": {
+      "description": "AIG -> AIG",
+      "resolved_name": "AIG",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "모건스탠리": {
+      "description": "모건스탠리 -> 모건스탠리",
+      "resolved_name": "모건스탠리",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "찰스 모리스": {
+      "description": "찰스 모리스 -> 찰스 모리스",
+      "resolved_name": "찰스 모리스",
+      "entity_type": "REVIEWER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "도널드 리건": {
+      "description": "도널드 리건 -> 도널드 리건",
+      "resolved_name": "도널드 리건",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "레이건": {
+      "description": "레이건 -> 레이건",
+      "resolved_name": "레이건",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

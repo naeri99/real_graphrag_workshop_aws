@@ -1,0 +1,83 @@
+{
+  "movie_title": "에이리언 로물",
+  "director": [
+    {
+      "name": "페데 알바레즈",
+      "name_en": "Fede Álvarez"
+    }
+  ],
+  "cast": [
+    {
+      "actor": "케일리 스페이니",
+      "actor_en": "Cailee Spaeny",
+      "character": "레인"
+    },
+    {
+      "actor": "데이비드 존슨",
+      "actor_en": "David Jonsson",
+      "character": "앤디"
+    },
+    {
+      "actor": "이사벨라 메르세드",
+      "actor_en": "Isabela Merced",
+      "character": "케이"
+    },
+    {
+      "actor": "아치 르노",
+      "actor_en": "Archie Renaux",
+      "character": "타일러"
+    },
+    {
+      "actor": "스파이크 펀",
+      "actor_en": "Spike Fearn",
+      "character": "비욘"
+    },
+    {
+      "actor": "에일린 우",
+      "actor_en": "Aileen Wu",
+      "character": "나바로"
+    },
+    {
+      "actor": "다니엘 베츠",
+      "actor_en": "Daniel Betts",
+      "character": "루크 (목소리)"
+    },
+    {
+      "actor": "로지 에드",
+      "actor_en": "Rosie Ede",
+      "character": "WY 장교"
+    },
+    {
+      "actor": "소마 사이먼",
+      "actor_en": "Soma Simon",
+      "character": "10세 펑크 #1"
+    },
+    {
+      "actor": "벤스 오케케",
+      "actor_en": "Bence Okeke",
+      "character": "10세 펑크 #2"
+    },
+    {
+      "actor": "빅터 오리주",
+      "actor_en": "Viktor Orizu",
+      "character": "10세 펑크 #3"
+    },
+    {
+      "actor": "안네마리 그릭스",
+      "actor_en": "Annemarie Griggs",
+      "character": "MU의 목소리"
+    },
+    {
+      "actor": "이안 홀름",
+      "actor_en": "Ian Holm",
+      "character": "루크 (외모 참조)"
+    }
+  ],
+  "review": [
+    "./data/review/에이리언 로물/에이리언 로물_9WSZC5hzsM8.json",
+    "./data/review/에이리언 로물/에이리언 로물_MTQ9WJAjpsE.json",
+    "./data/review/에이리언 로물/에이리언 로물_SfPh2PJsfd8.json",
+    "./data/review/에이리언 로물/에이리언 로물_WsnDdqt-V5I.json",
+    "./data/review/에이리언 로물/에이리언 로물_pPnNqzN13t4.json"
+  ]
+}

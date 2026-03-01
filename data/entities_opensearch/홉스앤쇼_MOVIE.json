@@ -1,0 +1,28 @@
+{
+  "entity": {
+    "name": "홉스앤쇼",
+    "synonym": [
+      "Fast & Furious Presents: Hobbs & Shaw",
+      "Hobbs & Shaw",
+      "Hobbs and Shaw",
+      "분노의 질주 홉스 앤 쇼",
+      "분노의 질주 홉스앤쇼",
+      "분노의 질주: 홉스 & 쇼",
+      "분노의 질주: 홉스 앤 쇼",
+      "분노의 질주: 홉스&쇼",
+      "분노의 질주: 홉스앤쇼",
+      "패스트앤퓨리어스: 홉스앤쇼",
+      "홉스 & 쇼",
+      "홉스 앤 쇼",
+      "홉스 앤드 쇼",
+      "홉스&쇼",
+      "홉스앤쇼",
+      "홉스앤숀",
+      "홉스와쇼"
+    ],
+    "entity_type": "MOVIE",
+    "summary": "홉스앤쇼",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

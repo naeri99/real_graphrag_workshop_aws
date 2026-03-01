@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "학교 교장",
+    "synonym": [
+      "Principal",
+      "School Principal",
+      "교장",
+      "교장 선생님",
+      "교장선생님",
+      "스쿨 프린시펄",
+      "프린시펄",
+      "학교 교장",
+      "학교교장"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "학교 교장은 영화 '인터스텔라'의 등장인물로, 데이비드 오옐로워이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

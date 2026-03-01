@@ -1,0 +1,13 @@
+{
+  "entity": {
+    "name": "무비씨엘로_MOVIE_CIELO",
+    "synonym": [
+      "무비씨엘로_MOVIE_CIELO",
+      "무비씨엘로 MOVIE CIELO"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "무비씨엘로_MOVIE_CIELO은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

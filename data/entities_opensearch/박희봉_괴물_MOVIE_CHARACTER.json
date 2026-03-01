@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "박희봉",
+    "synonym": [
+      "Hee-bong",
+      "Heebong",
+      "Park Hee-bong",
+      "박 희봉",
+      "박희 봉",
+      "박희봉",
+      "아버지",
+      "할아버지",
+      "희봉",
+      "희봉씨"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "박희봉은 영화 '괴물'의 등장인물로, 변희봉이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

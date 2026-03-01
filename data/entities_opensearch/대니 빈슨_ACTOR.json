@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "대니 빈슨",
+    "synonym": [
+      "Danny Elfman",
+      "Danny Vinson",
+      "다니엘 엘프만",
+      "대니",
+      "대니 빈손",
+      "대니 빈슨",
+      "대니빈슨",
+      "대니엘프만",
+      "데니 빈슨",
+      "빈슨",
+      "엘프만"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "대니 빈슨은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

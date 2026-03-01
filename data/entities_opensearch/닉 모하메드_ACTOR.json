@@ -1,0 +1,27 @@
+{
+  "entity": {
+    "name": "닉 모하메드",
+    "synonym": [
+      "Mohammed",
+      "Nick",
+      "Nick Cave",
+      "Nick Mohammed",
+      "니크 모하메드",
+      "닉",
+      "닉 모하메드",
+      "닉 모하메트",
+      "닉 무하메드",
+      "닉 케이브",
+      "닉 케잎",
+      "닉모하맷",
+      "닉모하메드",
+      "닉케이브",
+      "모하메드",
+      "케이브"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "닉 모하메드은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

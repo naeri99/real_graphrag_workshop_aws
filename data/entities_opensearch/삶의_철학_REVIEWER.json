@@ -1,0 +1,13 @@
+{
+  "entity": {
+    "name": "삶의_철학",
+    "synonym": [
+      "삶의_철학",
+      "삶의 철학"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "삶의_철학은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

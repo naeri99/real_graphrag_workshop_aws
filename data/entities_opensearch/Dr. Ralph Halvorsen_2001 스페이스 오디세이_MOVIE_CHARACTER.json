@@ -1,0 +1,31 @@
+{
+  "entity": {
+    "name": "Dr. Ralph Halvorsen",
+    "synonym": [
+      "Dr. Halvorsen",
+      "Dr. Ralph Halvorsen",
+      "Halvorsen",
+      "Ralph Halvorsen",
+      "랄프",
+      "랄프 박사",
+      "랄프 할버슨",
+      "랄프 할보르센",
+      "랄프 할보르센 박사",
+      "랄프 할보센",
+      "랄프 할보슨",
+      "랄프 할보슨 박사",
+      "랄프할버슨",
+      "랄프할보르센",
+      "할버슨",
+      "할버슨 박사",
+      "할보르센",
+      "할보르센 박사",
+      "할보슨",
+      "할보슨 박사"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "Dr. Ralph Halvorsen은 영화 '2001 스페이스 오디세이'의 등장인물로, 로버트 비티이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

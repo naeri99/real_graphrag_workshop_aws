@@ -1,0 +1,23 @@
+{
+  "entity": {
+    "name": "빅터 오리주",
+    "synonym": [
+      "Victor",
+      "Victor Oriju",
+      "Victor Orisju",
+      "Victor Orizu",
+      "Viktor Orizu",
+      "빅터",
+      "빅터 오리주",
+      "빅터 오리쥬",
+      "빅터오리주",
+      "빅터오리쥬",
+      "빅토르 오리주",
+      "오리주"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "빅터 오리주은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

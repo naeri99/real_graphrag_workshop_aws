@@ -1,0 +1,17 @@
+{
+  "entity": {
+    "name": "크리스",
+    "synonym": [
+      "Chris",
+      "크리스",
+      "크리스찬",
+      "크리스토퍼",
+      "크리스토프",
+      "크리스티안"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "크리스은 영화 '뱅크어택'의 등장인물로, 틸 슈바이거이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

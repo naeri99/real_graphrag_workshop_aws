@@ -1,0 +1,18 @@
+{
+  "entity": {
+    "name": "리아 루이스",
+    "synonym": [
+      "Leah",
+      "Leah Lewis",
+      "레아 루이스",
+      "레아루이스",
+      "루이스",
+      "리아 루이스",
+      "리아루이스"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "리아 루이스은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

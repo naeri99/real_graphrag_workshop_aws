@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "칼라 구기노",
+    "synonym": [
+      "Carla Gugino",
+      "구기노",
+      "카를라 구기노",
+      "카를라 구지노",
+      "카를라구기노",
+      "카를라구지노",
+      "칼라 구기노",
+      "칼라 구지노",
+      "칼라구기노"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "칼라 구기노은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

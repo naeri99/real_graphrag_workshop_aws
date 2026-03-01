@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "V.I.K.I.",
+    "synonym": [
+      "V.I.K.I.",
+      "VIKI",
+      "Vicky",
+      "Virtual Interactive Kinetic Intelligence",
+      "브이아이케이아이",
+      "비키",
+      "빅키",
+      "인공 두뇌"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "V.I.K.I.은 영화 '아이 로봇'의 등장인물로, 피오나 호건이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

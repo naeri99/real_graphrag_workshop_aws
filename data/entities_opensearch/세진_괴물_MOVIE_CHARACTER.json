@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "세진",
+    "synonym": [
+      "Se-jin",
+      "Sejin",
+      "세 진",
+      "세진",
+      "세진 캐릭터",
+      "세진씨",
+      "세진아",
+      "세진이",
+      "소년 세진"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "세진은 영화 '괴물'의 등장인물로, 이재응이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

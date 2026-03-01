@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "백종학",
+    "synonym": [
+      "Baek Jong-hak",
+      "Baek Jonghak",
+      "백 종학",
+      "백종학",
+      "백종학 배우",
+      "백종학 씨",
+      "백종학씨",
+      "종학"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "백종학은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "chunk_hash": "075ce0d0c516e2",
+  "chunk_id": "김준표_075ce0d0c516e2_8a36cb81",
+  "user_query": "처음 본 거랑 똑같은 충격이 있었다고 생각해요 근데 지금은 여러분 예고편만 봐도 알죠 이게 이 편이기 때문에 첫 작품에서 나와 있던 감정들이 추가가 되는 형태로 가져갔기 때문에 처음에 우리가 마술을 처음 봤을 때 그 감정을 느끼기는 조금 어렵다 근데 이게 호불호가 많이 갈릴 것 같아 왜냐면 엔딩 부분으로 가면 갈수록 이 편이 더 낫다는 생각이 들기 해요 그래서 이건 정말 그냥 취향 차일 거 같아 1편이 더 낫다는 사람도 분명히 있을 거고 저는 개인적으로 2편이에요 왜냐면 이번에 제대로 하려고 내가 1편도 다시 봤는데 다시 울어서 빙봉 빙봉에서 또 집자 가지고 음 굉장히 슬펐습니다 그래 눈에서 막 땀이 막 뚝뚝 떨어지더라고 더워서 그렇겠죠 근데 1편이랑 2편 중에 어디가 좋았냐 여러분 저는 2편이 한데 점수로 따졌을 때 1편이 100점이라면 2편이 99점 98점 2점밖에 차이 안 나요 그니까 두 개가 거의 같다고 보셔도 무방할 정도로 훌륭한 영화입니다 그냥 여러분 이렇게 표현할 수 있을 것 같은데 요즘에 우리가 다 알고 있지만 까먹은 얘기들이 되게 많아요 스스로를 아껴야 된다 나쁜 감정에는 이유가 있고 우리가 그것까지 다 받아들여야 된다 뭐 이런 여러 가지 모두가 알고 있지만 자주 까먹는 이 있 그런 모든 이야기를 정말 작품으로 잘 녹여낸 거 같아 그래서 여러분들도 꼭 봤으면 좋겠어요 그 애기들이 이 모든 걸 이해할 수 있을까는 잘 모르겠는데 아이들도 좋아할 거예요 정말 좋아할 거 같아 내 생각으로는 오랜만에 가족들끼리 함께 볼 수 있는 되게 위대한 영화가 나온 거 같아서 기분이 너무 좋았어요 훌륭한 일입니다",
+  "movie_id": "인사이드 아웃 2",
+  "reviewer": "김준표",
+  "chunk_index": 4,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "인사이드 아웃",
+      "entity_type": "MOVIE",
+      "entity_description": "인사이드 아웃은 감정을 의인화한 애니메이션 영화로, 1편과 2편이 있으며 가족들이 함께 볼 수 있는 작품이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "인사이드 아웃 2",
+      "entity_type": "MOVIE",
+      "entity_description": "인사이드 아웃 2는 1편에서 나왔던 감정들에 새로운 감정이 추가되는 형태로 제작된 속편이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "빙봉",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "빙봉은 인사이드 아웃 1편에 등장하는 캐릭터로, 관객들에게 슬픔을 주는 감동적인 장면이 있다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "빙봉",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "인사이드 아웃",
+      "target_type": "MOVIE",
+      "relationship_description": "빙봉은 인사이드 아웃 1편에 등장하는 캐릭터이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "인사이드 아웃 2",
+      "source_type": "MOVIE",
+      "target_entity": "인사이드 아웃",
+      "target_type": "MOVIE",
+      "relationship_description": "인사이드 아웃 2는 인사이드 아웃 1편의 속편으로, 1편의 감정들에 새로운 감정이 추가된다",
+      "relationship_strength": 10
+    }
+  ],
+  "entity_resolution": {
+    "인사이드 아웃": {
+      "description": "인사이드 아웃 -> 인사이드 아웃 2",
+      "resolved_name": "인사이드 아웃 2",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "인사이드 아웃 2": {
+      "description": "인사이드 아웃 2 -> 인사이드 아웃 2",
+      "resolved_name": "인사이드 아웃 2",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "빙봉": {
+      "description": "빙봉 -> 빙봉",
+      "resolved_name": "빙봉",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

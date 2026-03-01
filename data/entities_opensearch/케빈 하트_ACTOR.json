@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "케빈 하트",
+    "synonym": [
+      "Kevin Hart",
+      "케빈",
+      "케빈 하르트",
+      "케빈 하아트",
+      "케빈 하트",
+      "케빈 핫",
+      "케빈하트",
+      "하트"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "케빈 하트은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

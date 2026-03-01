@@ -1,0 +1,28 @@
+{
+  "entity": {
+    "name": "부트스 선생님",
+    "synonym": [
+      "Boots",
+      "Boots 선생님",
+      "Mr Boots",
+      "Mr. Boots",
+      "Teacher Boots",
+      "담임선생님",
+      "메이 선생님",
+      "미스터 부트스",
+      "부츠",
+      "부츠 선생님",
+      "부트스",
+      "부트스 선생",
+      "부트스 선생님",
+      "부트스선생님",
+      "사츠키 선생님",
+      "선생님 부트스",
+      "학교선생님"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "부트스 선생님은 영화 '인터스텔라'의 등장인물로, 프랜시스 X. 맥카시이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

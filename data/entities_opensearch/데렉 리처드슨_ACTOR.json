@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "데렉 리처드슨",
+    "synonym": [
+      "Derek",
+      "Derek Richardsen",
+      "Derek Richardson",
+      "데렉",
+      "데렉 리차드슨",
+      "데렉 리처드슨",
+      "데렉리처드슨",
+      "데릭 리차드슨",
+      "데릭 리처드슨",
+      "리처드슨"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "데렉 리처드슨은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

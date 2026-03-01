@@ -1,0 +1,23 @@
+{
+  "entity": {
+    "name": "조지 마틴",
+    "synonym": [
+      "George",
+      "George Clooney",
+      "George Martin",
+      "마틴",
+      "조지",
+      "조지 마틴",
+      "조지 클루니",
+      "조지마틴",
+      "조지클루니",
+      "죠지 마틴",
+      "죠지마틴",
+      "클루니"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "조지 마틴은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

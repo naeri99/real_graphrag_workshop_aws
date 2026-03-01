@@ -1,0 +1,71 @@
+{
+  "chunk_hash": "12ef40af7680b7",
+  "chunk_id": "Jeremy_Jahns_12ef40af7680b7_a738f0aa",
+  "user_query": "there's a story based reason for it happening in the movie I'm just saying watching Tony Stark the character that we all loved and connected with in the first one all down in the dumps in the dark part of his life full self-destructive style for an hour and 45 minutes is just kind of a drag and yes I know that in sequels the character needs to be challenged in ways that he wasn't challenged in the first one but you can challenge him without making him kind of douchy that's all his attitude in this movie is that he doesn't give a [__] and because of that you don't either that's all I'm saying and okay now the dialogue there are scenes where the dialogue is well written and well delivered in this movie but then there are other scenes where the dialogue's being delivered at the same time like two people are talking at the exact same time it just feels like this are you listening go to the press conference you know can't the Press conference you have to go to this on man you need to go be hero you can't have yes I'm listening to you all right are you listening to me I swear to God not crazy all right I got you I got you I got you I got you I got you I got you the climax of the movie was cool we all saw it in the trailer where War Machine and Iron Man are just thrown down with a bunch of mechs it was cool fun exciting until it abruptly ended in a 45 sec fight with the main bad guy so I won't tell you not to see this movie that would be impossible everyone's going to see this",
+  "movie_id": "아이언맨2",
+  "reviewer": "Jeremy_Jahns",
+  "chunk_index": 3,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "TONY STARK",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "토니 스타크는 첫 번째 영화에서 관객들이 사랑하고 공감했던 캐릭터로, 이 영화에서는 인생의 어두운 시기를 겪으며 자기 파괴적인 모습을 보여준다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "WAR MACHINE",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "워 머신은 영화의 클라이맥스에서 아이언맨과 함께 여러 메카들과 싸우는 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "IRON MAN",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "아이언맨은 영화의 클라이맥스에서 워 머신과 함께 여러 메카들과 싸우는 캐릭터이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "TONY STARK",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "IRON MAN",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "토니 스타크는 아이언맨의 정체성을 가진 동일 인물이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "WAR MACHINE",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "IRON MAN",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "워 머신과 아이언맨은 클라이맥스에서 함께 메카들과 싸우는 동료 관계이다",
+      "relationship_strength": 9
+    }
+  ],
+  "entity_resolution": {
+    "TONY STARK": {
+      "description": "TONY STARK -> TONY STARK",
+      "resolved_name": "TONY STARK",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "WAR MACHINE": {
+      "description": "WAR MACHINE -> WAR MACHINE",
+      "resolved_name": "WAR MACHINE",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "IRON MAN": {
+      "description": "IRON MAN -> IRON MAN",
+      "resolved_name": "IRON MAN",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

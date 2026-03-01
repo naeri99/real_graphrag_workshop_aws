@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "웨이드",
+    "synonym": [
+      "Wade",
+      "Wade Ripple",
+      "물 남자",
+      "물 소년",
+      "물 아들",
+      "물 캐릭터",
+      "물소년",
+      "웨이드",
+      "웨이드 리플",
+      "웨이드리플",
+      "웨이트"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "웨이드은 영화 '엘리멘탈'의 등장인물로, 마무두 아티이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

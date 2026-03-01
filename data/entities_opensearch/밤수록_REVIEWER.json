@@ -1,0 +1,12 @@
+{
+  "entity": {
+    "name": "밤수록",
+    "synonym": [
+      "밤수록"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "밤수록은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "에단 발리",
+    "synonym": [
+      "Ethan",
+      "Ethan Valhere",
+      "발리",
+      "에단",
+      "에단 발리",
+      "에단 밸리",
+      "에단발리",
+      "이든 발리"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "에단 발리은 영화 '제리 맥과이어'의 등장인물로, 에릭 스톨츠이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

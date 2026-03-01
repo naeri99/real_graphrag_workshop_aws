@@ -1,0 +1,14 @@
+{
+  "entity": {
+    "name": "프레디",
+    "synonym": [
+      "Freddy",
+      "프레드",
+      "프레디"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "프레디은 영화 '뱅크어택'의 등장인물로, 알렉산드라 마리아 라라이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

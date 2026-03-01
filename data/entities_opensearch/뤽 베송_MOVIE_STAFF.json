@@ -1,0 +1,25 @@
+{
+  "entity": {
+    "name": "뤽 베송",
+    "synonym": [
+      "Besson",
+      "Luc Besson",
+      "Luc Besson 감독",
+      "Luc besson",
+      "Luc 베송",
+      "루크 베송",
+      "룩 베송",
+      "뤼크 베송",
+      "뤽 베송",
+      "뤽 베쏭",
+      "뤽베송",
+      "류크 베송",
+      "륙 베송",
+      "베송"
+    ],
+    "entity_type": "MOVIE_STAFF",
+    "summary": "뤽 베송은 영화 감독입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

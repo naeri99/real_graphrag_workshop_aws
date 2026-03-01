@@ -1,0 +1,23 @@
+{
+  "entity": {
+    "name": "박선생",
+    "synonym": [
+      "Park Seonsaeng",
+      "Teacher Park",
+      "박 교사",
+      "박 선생",
+      "박 선생님",
+      "박교사",
+      "박선생",
+      "박선생님",
+      "박쌤",
+      "변중희 캐릭터",
+      "선생 박",
+      "캐릭터 박선생"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "박선생은 영화 '히든페이스'의 등장인물로, 변중희이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

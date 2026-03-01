@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "Macrinus",
+    "synonym": [
+      "Macrinus",
+      "마크리너스",
+      "마크리노스",
+      "마크리누스",
+      "마크리누스 황제",
+      "마크리누스장군",
+      "마크리니우스",
+      "마크리우스",
+      "마키리누스",
+      "매크리누스"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "Macrinus은 영화 '글래디에이터 2'의 등장인물로, 덴젤 워싱턴이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

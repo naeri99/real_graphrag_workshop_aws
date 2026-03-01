@@ -1,0 +1,25 @@
+{
+  "entity": {
+    "name": "어스 관리자",
+    "synonym": [
+      "Earth",
+      "Earth Inspector",
+      "Earth Manager",
+      "Earth Official",
+      "Earth 관리자",
+      "땅 관리자",
+      "어스 관리자",
+      "어스 매니저",
+      "어스관리자",
+      "어스매니저",
+      "지구 관리자",
+      "지구관리자",
+      "흙 관리자",
+      "흙관리자"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "어스 관리자은 영화 '엘리멘탈'의 등장인물로, 제프 피지온이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

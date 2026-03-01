@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "브라이언 크랜스턴",
+    "synonym": [
+      "Bryan Cranston",
+      "브라이언",
+      "브라이언 크랜스턴",
+      "브라이언 크랜스톤",
+      "브라이언 크랜스튼",
+      "브라이언크랜스턴",
+      "크랜스턴",
+      "크랜스튼"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "브라이언 크랜스턴은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

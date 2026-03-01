@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "클라라 브라보",
+    "synonym": [
+      "Clara",
+      "Clara Brabo",
+      "Clara Bravo",
+      "브라보",
+      "클라라 브라보",
+      "클라라 브레이보",
+      "클라라브라보",
+      "클래라 브라보"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "클라라 브라보은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

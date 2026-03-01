@@ -1,0 +1,17 @@
+{
+  "entity": {
+    "name": "이한위",
+    "synonym": [
+      "Lee Han-wi",
+      "이 한위",
+      "이한위",
+      "이한위 배우",
+      "이한위씨",
+      "한위"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "이한위은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "레슬리 맨빌",
+    "synonym": [
+      "Lesley Manville",
+      "Leslie Manville",
+      "레슬리",
+      "레슬리 만빌",
+      "레슬리 맨빌",
+      "레슬리 맨필",
+      "레슬리맨빌",
+      "맨빌"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "레슬리 맨빌은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

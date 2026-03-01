@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "나바로",
+    "synonym": [
+      "Navaro",
+      "Navarro",
+      "Navarro character",
+      "나바로",
+      "나바로 로물루스",
+      "나바로 카라딘",
+      "나바로 캐러데인",
+      "나바로 캐릭터",
+      "나바로Navarro",
+      "나바르",
+      "네바로"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "나바로은 영화 '에이리언 로물'의 등장인물로, 에일린 우이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

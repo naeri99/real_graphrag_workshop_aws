@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "윌 스미스",
+    "synonym": [
+      "Will",
+      "Will Smith",
+      "스미스",
+      "월 스미스",
+      "윌",
+      "윌 스미스",
+      "윌 스미쓰",
+      "윌리엄 스미스",
+      "윌스미스",
+      "윌스미쓰"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "윌 스미스은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

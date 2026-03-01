@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "택시 운전사",
+    "synonym": [
+      "Cab Driver",
+      "Taxi Driver",
+      "운전기사",
+      "운전사",
+      "택시 기사",
+      "택시 드라이버",
+      "택시 운전사",
+      "택시기사",
+      "택시드라이버",
+      "택시운전사"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "택시 운전사은 영화 '인셉션'의 등장인물로, 잭 머레이이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

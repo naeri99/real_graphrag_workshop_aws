@@ -1,0 +1,23 @@
+{
+  "entity": {
+    "name": "폴 월터 하우저",
+    "synonym": [
+      "Paul",
+      "Paul Hauser",
+      "Paul W. Hauser",
+      "Paul Walter Hauser",
+      "폴 월터",
+      "폴 월터 하우서",
+      "폴 월터 하우저",
+      "폴 월터 하우져",
+      "폴 하우저",
+      "폴월터하우저",
+      "폴월터하우져",
+      "하우저"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "폴 월터 하우저은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

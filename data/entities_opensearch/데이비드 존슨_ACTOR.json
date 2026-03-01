@@ -1,0 +1,23 @@
+{
+  "entity": {
+    "name": "데이비드 존슨",
+    "synonym": [
+      "David",
+      "David Johnson",
+      "David Jonsson",
+      "데이비드",
+      "데이비드 욘슨",
+      "데이비드 존슨",
+      "데이비드존슨",
+      "데이빗",
+      "데이빗 존손",
+      "데이빗 존슨",
+      "데이빗존슨",
+      "존슨"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "데이비드 존슨은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

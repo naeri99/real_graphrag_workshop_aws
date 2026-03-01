@@ -1,0 +1,49 @@
+{
+  "chunk_hash": "3161958fbb3a4d",
+  "chunk_id": "Chris_Stuckmann_3161958fbb3a4d_beb26416",
+  "user_query": "that also is going to challenge the audience. This movie exists in stark opposition to the Save the Cat book, which was a guide written for screenwriters by a screenwriter Blake Snyder about making your protagonist more likeable and following a certain structure to make your films work and make them sell and generate more box office revenue. I've read that book and while it certainly makes a lot of good points, it never really gelled with me and I felt that it was a way of making scripts feel more rote and familiar, whereas Barbarian is completely different from anything I've seen in a very long time and that's exactly what I liked about it. It withholds information from you for so long and it challenges the audience to be okay with that and if you're a patient viewer I think that's really going to pay off for you. I had a really good time with Barbarian and I would strongly recommend seeing it without knowing anything other than the trailer or a brief synopsis. I think that's really going to heighten the experience for you because that is exactly how I went in. Guys, I hope you check it out this weekend. Look forward to more videos very soon and if you like this you can click right here and get stuck manized. [Music] You",
+  "movie_id": "덤플링",
+  "reviewer": "Chris_Stuckmann",
+  "chunk_index": 3,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "BARBARIAN",
+      "entity_type": "MOVIE",
+      "entity_description": "Barbarian은 관객에게 도전적인 영화로, 오랫동안 정보를 숨기며 인내심 있는 관객에게 보상을 주는 독특한 구조를 가진 작품이다. 기존의 공식적인 영화들과는 완전히 다른 스타일의 영화로 평가받는다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "BLAKE SNYDER",
+      "entity_type": "MOVIE_STAFF",
+      "entity_description": "Blake Snyder는 시나리오 작가로, 주인공을 더 호감 가게 만들고 특정 구조를 따라 영화가 성공하고 박스오피스 수익을 올릴 수 있도록 하는 가이드북 'Save the Cat'을 저술한 인물이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "BLAKE SNYDER",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "BARBARIAN",
+      "target_type": "MOVIE",
+      "relationship_description": "Barbarian은 Blake Snyder의 Save the Cat 책에서 제시한 공식과 완전히 반대되는 방식으로 만들어진 영화이다",
+      "relationship_strength": 7
+    }
+  ],
+  "entity_resolution": {
+    "BARBARIAN": {
+      "description": "BARBARIAN -> BARBARIAN",
+      "resolved_name": "BARBARIAN",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "BLAKE SNYDER": {
+      "description": "BLAKE SNYDER -> BLAKE SNYDER",
+      "resolved_name": "BLAKE SNYDER",
+      "entity_type": "MOVIE_STAFF",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

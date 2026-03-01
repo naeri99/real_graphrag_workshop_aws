@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "리처드",
+    "synonym": [
+      "Richard",
+      "Richard Dent",
+      "리차드",
+      "리챠드",
+      "리처드",
+      "리처드 덴트",
+      "리처드 형사",
+      "리처어드",
+      "리쳐드",
+      "릿차드",
+      "버그 리처드"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "리처드은 영화 '다크나이트'의 등장인물로, 마이클 섀넌이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

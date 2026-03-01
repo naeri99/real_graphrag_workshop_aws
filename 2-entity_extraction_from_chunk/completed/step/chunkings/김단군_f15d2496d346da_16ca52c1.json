@@ -1,0 +1,128 @@
+{
+  "chunk_hash": "f15d2496d346da",
+  "chunk_id": "김단군_f15d2496d346da_16ca52c1",
+  "user_query": "되나 트렌드처럼 유행 같다고 해야 되나 약간 그런 느낌이 있잖아요 근데 저는 범죄도시를 그렇게 하진 않았으면 좋겠어요 어쨌든 천만이 넘었다는 건 저는 무조건 인정받아야 된다고 생각하거든요 저는 룩백보다는 좋았던 거 같고요 와이프는 룩백이 더 좋았다고 했어요 왜냐면 와이프는 룩백이 약간 본인의 감정을 건드려 가지고 룩백은 진짜 완전 감성적이고 그런 애니메이션이라 파묘보다 위냐 아래냐 하는데 고민된다 파묘요 정도인데 여기서 17,000원이냐 18,000원이냐 저 17,000원 가겠습니다 재밌었습니다 전 진짜 재밌었어요 시간도 잘 갔고 지루할 틈 없었고 저는 재밌게 봤어요 영화 등급으로 따지면 이 티어표 제가 따로 작성하고 있거든요 저는 이거는 그냥 무조건 A죠 아 제 잘 만든 오락 영화 아 그게 나한테 딱 맞는 거 같아요 예 웬만하면 이런 그냥 형사물 뭐 베테랑 원 재밌게 보신 분들은 무조건 재밌게 볼 수밖에 없다 진짜 그게 대단하다 그 범죄도시 시리즈 보면 솔직히 시원시원한 액션 있지만 뭔가 다 비슷비슷한 느낌의 그냥 마동석의 시원시원한 액션이야 아 근데 베테랑 2는 진짜로 각기 다른 환경 각기 다른 장소에 각기 다른 인물들이 나오는데 또 그 각기 다른 상황이 있어 다 뭔가 좀 느낌이 달라요 다채로워요 그 액션은 보는 재미가 있어요 예 그 다채로운 상황별 액션이 좀 그 보는 재미가 있습니다 진짜 액션을 보는 재미가 액션 참 잘 찍는 거 같아요 어 단순히 빠른게 아니라 그리고 컷으로 막 멋있게 보이려는게 아니라 그 액션 동작 하나하나를 참 그 관객들이 딱 알아챌 수 있게 보여주는게 아 저는 너무 좋았습니다 여러분들 재밌게 보셨으면 구독 좋아요 한 번씩 부탁드리겠고요 댓글 많이 남겨 주시고요 그리고 악플은 자제해 주시길 바라겠습니다 감사합니다",
+  "movie_id": "베테랑2",
+  "reviewer": "김단군",
+  "chunk_index": 6,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "범죄도시",
+      "entity_type": "MOVIE",
+      "entity_description": "범죄도시는 천만 관객을 넘긴 한국 영화 시리즈로, 마동석의 시원시원한 액션이 특징인 형사물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "룩백",
+      "entity_type": "MOVIE",
+      "entity_description": "룩백은 감성적인 애니메이션 영화로, 관객의 감정을 건드리는 작품이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "파묘",
+      "entity_type": "MOVIE",
+      "entity_description": "파묘는 한국 영화로, 룩백과 비교 대상이 되는 작품이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "베테랑",
+      "entity_type": "MOVIE",
+      "entity_description": "베테랑은 형사물 장르의 한국 영화로, 1편을 재밌게 본 관객들이 후속작도 즐길 수 있는 시리즈이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "베테랑 2",
+      "entity_type": "MOVIE",
+      "entity_description": "베테랑 2는 각기 다른 환경, 장소, 인물들이 등장하며 다채로운 상황별 액션이 특징인 영화로, 액션 동작 하나하나를 관객이 알아챌 수 있게 잘 보여주는 작품이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "마동석",
+      "entity_type": "ACTOR",
+      "entity_description": "마동석은 범죄도시 시리즈에서 시원시원한 액션을 보여주는 배우이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "마동석",
+      "source_type": "ACTOR",
+      "target_entity": "범죄도시",
+      "target_type": "MOVIE",
+      "relationship_description": "마동석은 범죄도시 시리즈에서 주연으로 시원시원한 액션을 선보인다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "베테랑 2",
+      "source_type": "MOVIE",
+      "target_entity": "베테랑",
+      "target_type": "MOVIE",
+      "relationship_description": "베테랑 2는 베테랑의 후속작이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "룩백",
+      "source_type": "MOVIE",
+      "target_entity": "파묘",
+      "target_type": "MOVIE",
+      "relationship_description": "룩백과 파묘는 영화 평가에서 비교 대상으로 언급된다",
+      "relationship_strength": 5
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "베테랑",
+      "source_type": "MOVIE",
+      "target_entity": "범죄도시",
+      "target_type": "MOVIE",
+      "relationship_description": "베테랑과 범죄도시는 모두 형사물 장르의 한국 영화로 비교된다",
+      "relationship_strength": 6
+    }
+  ],
+  "entity_resolution": {
+    "범죄도시": {
+      "description": "범죄도시 -> 범죄도시",
+      "resolved_name": "범죄도시",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "룩백": {
+      "description": "룩백 -> 룩백",
+      "resolved_name": "룩백",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "파묘": {
+      "description": "파묘 -> 파묘",
+      "resolved_name": "파묘",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "베테랑": {
+      "description": "베테랑 -> 베테랑2",
+      "resolved_name": "베테랑2",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "베테랑 2": {
+      "description": "베테랑 2 -> 베테랑2",
+      "resolved_name": "베테랑2",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "마동석": {
+      "description": "마동석 -> 마동석",
+      "resolved_name": "마동석",
+      "entity_type": "ACTOR",
+      "matched": true,
+      "match_type": "name_exact"
+    }
+  }
+}

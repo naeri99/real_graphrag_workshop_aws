@@ -1,0 +1,12 @@
+{
+  "entity": {
+    "name": "늘보Movie",
+    "synonym": [
+      "늘보Movie"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "늘보Movie은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

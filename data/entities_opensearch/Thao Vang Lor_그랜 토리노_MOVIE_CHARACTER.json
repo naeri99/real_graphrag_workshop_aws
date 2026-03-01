@@ -1,0 +1,24 @@
+{
+  "entity": {
+    "name": "Thao Vang Lor",
+    "synonym": [
+      "Thao",
+      "Thao Vang Lor",
+      "따오",
+      "방 로르",
+      "타오",
+      "타오 로",
+      "타오 로르",
+      "타오 방",
+      "타오 방 로",
+      "타오 방 로르",
+      "타오 밴 로",
+      "타오 뱅 로르",
+      "타오방로르"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "Thao Vang Lor은 영화 '그랜 토리노'의 등장인물로, 비 방이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

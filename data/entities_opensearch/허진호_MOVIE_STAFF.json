@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "허진호",
+    "synonym": [
+      "Hur Jin-ho",
+      "Hur Jinho",
+      "감독 허진호",
+      "진호",
+      "허 감독",
+      "허 진호",
+      "허진호",
+      "허진호 감독",
+      "허진호감독"
+    ],
+    "entity_type": "MOVIE_STAFF",
+    "summary": "허진호은 영화 감독입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

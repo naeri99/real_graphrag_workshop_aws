@@ -1,0 +1,13 @@
+{
+  "entity": {
+    "name": "영화_보여주는_누나",
+    "synonym": [
+      "영화_보여주는_누나",
+      "영화 보여주는 누나"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "영화_보여주는_누나은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

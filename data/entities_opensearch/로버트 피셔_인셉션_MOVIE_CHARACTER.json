@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "로버트 피셔",
+    "synonym": [
+      "Fischer",
+      "Robert Fischer",
+      "Robert Fischer Jr.",
+      "로버트",
+      "로버트 피셔",
+      "로버트 피셔 주니어",
+      "로버트피셔",
+      "롭 피셔",
+      "밥 피셔",
+      "피셔",
+      "피셔 주니어"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "로버트 피셔은 영화 '인셉션'의 등장인물로, 킬리언 머피이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

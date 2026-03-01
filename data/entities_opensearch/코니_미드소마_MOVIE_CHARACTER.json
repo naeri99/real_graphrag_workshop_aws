@@ -1,0 +1,17 @@
+{
+  "entity": {
+    "name": "코니",
+    "synonym": [
+      "Connie",
+      "꼬니",
+      "커니",
+      "코니",
+      "코니이",
+      "콘니"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "코니은 영화 '미드소마'의 등장인물로, 엘로라 토르치아이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

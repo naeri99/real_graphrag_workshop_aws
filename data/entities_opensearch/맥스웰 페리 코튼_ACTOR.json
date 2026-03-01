@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "맥스웰 페리 코튼",
+    "synonym": [
+      "Maxwell Perry Cotton",
+      "막스웰 페리 코튼",
+      "맥스 페리 코튼",
+      "맥스웰",
+      "맥스웰 코튼",
+      "맥스웰 페리 코튼",
+      "맥스웰 페리코튼",
+      "맥스웰코튼",
+      "맥스웰페리코튼",
+      "맥스페리코튼",
+      "코튼"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "맥스웰 페리 코튼은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

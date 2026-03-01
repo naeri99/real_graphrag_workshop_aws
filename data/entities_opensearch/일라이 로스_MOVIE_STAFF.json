@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "일라이 로스",
+    "synonym": [
+      "Eli",
+      "Eli Roth",
+      "Eli Roth 감독",
+      "로스",
+      "로스 감독",
+      "엘라이 로스",
+      "엘리 로스",
+      "일라이",
+      "일라이 로스",
+      "일라이로스"
+    ],
+    "entity_type": "MOVIE_STAFF",
+    "summary": "일라이 로스은 영화 감독입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

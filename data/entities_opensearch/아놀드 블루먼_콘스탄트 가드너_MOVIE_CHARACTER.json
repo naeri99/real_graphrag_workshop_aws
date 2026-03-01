@@ -1,0 +1,18 @@
+{
+  "entity": {
+    "name": "아놀드 블루먼",
+    "synonym": [
+      "Arnold Blumen",
+      "블루먼",
+      "아널드 블루먼",
+      "아놀드",
+      "아놀드 블루먼",
+      "아놀드 블루멘",
+      "아놀드블루먼"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "아놀드 블루먼은 영화 '콘스탄트 가드너'의 등장인물로, 다니엘 에반스이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

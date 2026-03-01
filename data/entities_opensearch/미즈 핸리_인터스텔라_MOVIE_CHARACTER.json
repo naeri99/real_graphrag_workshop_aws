@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "미즈 핸리",
+    "synonym": [
+      "Hanley",
+      "Miss Hanley",
+      "Ms Hanley",
+      "Ms. Hanley",
+      "미스 핸리",
+      "미즈 핸리",
+      "미즈핸리",
+      "핸리",
+      "핸리 선생님"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "미즈 핸리은 영화 '인터스텔라'의 등장인물로, 콜레트 울프이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

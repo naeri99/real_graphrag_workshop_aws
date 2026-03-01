@@ -1,0 +1,208 @@
+{
+  "chunk_hash": "6373866536d4dc",
+  "chunk_id": "서삐삐의_영화리뷰_6373866536d4dc_6207468a",
+  "user_query": "Christian 침대 밑에 놓죠. Pelle뿐만 아니라 마을 족장인 Siv와 면담에서도 알 수 있듯이 Siv는 \"Maja가 이제 \n성관계를 맺을 수 있는 나이가 되었고 Christian, 너랑 자고 싶어 하니까 너만 괜찮다면 잘 수 있어.\" 라고 말을 합니다. 이에 Christian은 \"내가 방금 Maja의\n털을 먹은 것 같다.\"라고 말을 하죠. 결국 Christian은 \n'호르가 마을의 번식을 위한, 씨를 위한 매개체'였던 것입니다. 그럼 Ruben은 왜 나온 걸까요? 호르가는 스웨덴에서도 고립된 작은 마을입니다. 외부인의 출입도 적고, 자기들끼리\n자급자족하면서 번영하는 마을인데요. 이로 인해서 Christian은 \n\"어떻게 대를 이어가느냐?\"라는 질문을 하죠. 그러자 그 사람은 \"마을 어르신들이 \n정해준 짝으로 관계를 맺어가는데, 가끔 사촌들 간의 관계도 허용은 하지만 최대한 근친상간은 금하고 있다\"라고 말합니다. 그러나 그 뒤에 나오는 Josh와 마을 어르신의 이야기는 \n완전 다른 내용이었습니다! Josh는 마을 어르신과 \n경전에 대한 이야기를 하게 되었는데요. 그 경전을 만드는 사람은 Ruben이었어요. Josh는 \"혹시 Ruben이 죽으면 Ruben과 같은 아이를 또 기다리느냐\" 라는 \n질문을 하게 되는 거죠. 그러자 어르신은 \n\"Ruben은 근친에서 나온 생명이다. 그는 신성하고 가장 순수한 영혼이다!\"\n라는 대답을 합니다. 이 말은 호르가에서는 근친상간이 존재하고 오히려 Ruben과 같은 아이를 배출하기 위해 일부러 시행을 한다는 의미였죠. 이 장면은 호르가 마을의 모순됨, 이중성을 보여주는 장면입니다. 정말 90년에 한번 일어나는 일일까요? 호르가 마을에서는 이 여름축제를 90년에 한번 9일 동안 열린다고 하였는데요. 수많은 메이퀸들의 사진들로 인해서 많은 관객들이 \"90년에 한번 일어나는\n축제가 아닌 것 같은데?\"라고 했습니다. 아리 애스터 감독의 피셜로 호르가 마을에서 열리는 여름축제는 매년 열리고, 매년 메이퀸을 뽑지만 마지막에 나오는 인신공양 장면이 90년에 한번 \n이루어지는 것이라고 하네요. 참고로 영화 속 마지막 장면은 '축제 9일' 중에서 아직 4일 차라고 합니다. 마지막 9인은 누구였을까요? 90년에 한번 9일 동안 그리고 9의 배수인 18년을 기준으로 인간 삶을 나누는 것이나 절벽에 뛰어내리기 전, 아홉 개의 룬 문자가 새겨진 바위에서도 그리고 마지막 9명 등 이 마을은 9라는 숫자에 굉장히 집착합니다. 영화는 9명의 희생자들을 불에 태우는 것으로 막을 내리는데요. 이미 시체가 된 사람들도 있었고 시체 대신 사람 모양을 한 인형으로 된 것도 있었고, 스스로 자원한 사람들도 있었는데 과연 그들이 누구이고",
+  "movie_id": "미드소마",
+  "reviewer": "서삐삐의_영화리뷰",
+  "chunk_index": 3,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "미드소마",
+      "entity_type": "MOVIE",
+      "entity_description": "미드소마는 호르가 마을의 여름축제를 배경으로 한 공포 영화로, 90년에 한번 열리는 인신공양 의식과 마을의 이중성을 다룬다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "CHRISTIAN",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Christian은 호르가 마을에서 번식을 위한 씨앗 매개체로 이용당하는 인물로, Maja와의 관계를 제안받는다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "PELLE",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Pelle은 호르가 마을 출신의 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "SIV",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Siv는 호르가 마을의 족장으로, Christian에게 Maja와의 성관계를 제안하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "MAJA",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Maja는 호르가 마을의 젊은 여성으로, Christian과 관계를 맺고 싶어하며 그의 음식에 자신의 털을 넣는다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "RUBEN",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Ruben은 호르가 마을에서 근친상간을 통해 태어난 인물로, 경전을 만드는 신성하고 순수한 영혼으로 여겨진다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "JOSH",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Josh는 호르가 마을을 방문한 외부인으로, 마을 어르신과 경전에 대해 이야기하며 Ruben에 대해 질문한다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "아리 애스터",
+      "entity_type": "MOVIE_STAFF",
+      "entity_description": "아리 애스터는 미드소마의 감독으로, 여름축제가 매년 열리지만 인신공양은 90년에 한번 이루어진다고 설명했다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "CHRISTIAN",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "미드소마",
+      "target_type": "MOVIE",
+      "relationship_description": "Christian은 미드소마의 주요 등장인물이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "PELLE",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "미드소마",
+      "target_type": "MOVIE",
+      "relationship_description": "Pelle은 미드소마의 등장인물이다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "SIV",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "미드소마",
+      "target_type": "MOVIE",
+      "relationship_description": "Siv는 미드소마의 등장인물로 마을 족장 역할을 한다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "MAJA",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "미드소마",
+      "target_type": "MOVIE",
+      "relationship_description": "Maja는 미드소마의 등장인물이다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "RUBEN",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "미드소마",
+      "target_type": "MOVIE",
+      "relationship_description": "Ruben은 미드소마의 등장인물로 경전을 만드는 역할을 한다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "JOSH",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "미드소마",
+      "target_type": "MOVIE",
+      "relationship_description": "Josh는 미드소마의 등장인물이다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "SIV",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "CHRISTIAN",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Siv는 Christian에게 Maja와의 성관계를 제안한다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "MAJA",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "CHRISTIAN",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Maja는 Christian과 관계를 맺고 싶어하며 그의 음식에 털을 넣는다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "JOSH",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "RUBEN",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Josh는 마을 어르신에게 Ruben에 대해 질문한다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "아리 애스터",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "미드소마",
+      "target_type": "MOVIE",
+      "relationship_description": "아리 애스터는 미드소마를 감독했다",
+      "relationship_strength": 10
+    }
+  ],
+  "entity_resolution": {
+    "미드소마": {
+      "description": "미드소마 -> 미드소마",
+      "resolved_name": "미드소마",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "CHRISTIAN": {
+      "description": "CHRISTIAN -> Christian",
+      "resolved_name": "Christian",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "PELLE": {
+      "description": "PELLE -> PELLE",
+      "resolved_name": "PELLE",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "SIV": {
+      "description": "SIV -> Siv",
+      "resolved_name": "Siv",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "MAJA": {
+      "description": "MAJA -> MAJA",
+      "resolved_name": "MAJA",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "RUBEN": {
+      "description": "RUBEN -> RUBEN",
+      "resolved_name": "RUBEN",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "JOSH": {
+      "description": "JOSH -> Josh",
+      "resolved_name": "Josh",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "아리 애스터": {
+      "description": "아리 애스터 -> 아리 에스터",
+      "resolved_name": "아리 에스터",
+      "entity_type": "MOVIE_STAFF",
+      "matched": true,
+      "match_type": "synonym_exact"
+    }
+  }
+}

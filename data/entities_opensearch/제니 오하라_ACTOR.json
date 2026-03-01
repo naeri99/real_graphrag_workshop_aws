@@ -1,0 +1,23 @@
+{
+  "entity": {
+    "name": "제니 오하라",
+    "synonym": [
+      "Jeni",
+      "Jennie",
+      "Jenny",
+      "Jenny O'Hara",
+      "Jenny Ohara",
+      "오하라",
+      "제니",
+      "제니 오하라",
+      "제니 오해라",
+      "제니오하라",
+      "제니오해라",
+      "제니퍼"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "제니 오하라은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

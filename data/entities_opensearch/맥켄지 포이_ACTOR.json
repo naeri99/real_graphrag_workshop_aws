@@ -1,0 +1,18 @@
+{
+  "entity": {
+    "name": "맥켄지 포이",
+    "synonym": [
+      "Mackenzie Foy",
+      "매켄지 포이",
+      "매켄지포이",
+      "맥켄지",
+      "맥켄지 포이",
+      "맥켄지포이",
+      "포이"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "맥켄지 포이은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

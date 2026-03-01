@@ -1,0 +1,16 @@
+{
+  "entity": {
+    "name": "루크 (외모 참조)",
+    "synonym": [
+      "Rook",
+      "루크 (외모 참조)",
+      "루크 AI",
+      "룩",
+      "인공지능 루크"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "루크 (외모 참조)은 영화 '에이리언 로물'의 등장인물로, 이안 홀름이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

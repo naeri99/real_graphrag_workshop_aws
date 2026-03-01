@@ -1,0 +1,235 @@
+{
+  "chunk_hash": "4e8f5cb17d5c66",
+  "chunk_id": "오티티_-_OTT_4e8f5cb17d5c66_58ab8adb",
+  "user_query": ">> 드디어 혜연과 놀 수 있게 됩니다. 가진 모든 것을 털어 데이트를 준비하죠. >> 무슨 일 없지. 그렇게 할머니에게 머리를 맡깁니다. >> 누가 머리를 만져주면 졸린 것은 국룰? >> 잘랐어. >> 이게 뭐야? 저 몰라. >> 그래. 조금만 조금만 자르라했잖아. 누가 여기까지 자르래? 아이 이제 내 일이도 뭐라하고 배터리도 어떻게 해줘? >> 다음날 오늘도 혜연을 기다리던 상우는 >> 혜연이가 올지도 모르는데 >> 길을 나서는 할머니를 따라갑니다. >> 힘든데 무슨 일 하러 그래야 길에서 한번 봤어. >> 지난번 도움을 받았던 할아버지를 보러 온 것이었죠. 괜찮아. 그게 뭐여? >> 영양제 노인들. >> 이제 할머니의 언어쯤은 눈 감고도 파악 가능했습니다. >> 다른 건 집에 많지만 모자기는 하나래요. >> 그리고 머리를 싸매고 혜연을 직접 보러 가죠. 시치미떼게 >> 멋을 부리려고 신은 신발은 불편했지만 그때 눈앞에 재밌는 미끄럼틀이 보이고 >> 결국 넘어져 버립니다. 그때 >> 미친 소야 미친 소가 뛰어났어 왜 피하질 거야 >> 자신처럼 장난인가 싶었는데 진짜였죠 올라 >> 철이는 직접 몸을 던져 [음악] >> 히어로처럼 상우를 구해줍니다. >> 전번에 미안했어. 너는 사과를 두 번씩 하나? >> 그렇게 온몸이 만신창이가 되어 돌아가는 상우. 그런데 [음악] 배터리를 사라고 돈을 넣어 두신 것이었지요. 티는 안 냈지만 서러웠던 상우는 할머니를 보자마자 눈물부터 나옵니다. [음악] 상우가 떠날 시간이 다가옵니다. >> 자, 잘 봐. 다시. >> 이건 아프다. 요건 보고 싶다. 써 봐. 다시. >> 상우는 할머니에게 글을 가르치기 시작합니다. >> 할머니 말 못 하니까 전화도 못 하는데 편지도 못 쓰면 어떡해? 할머니, 많이 아프면 그냥 아무것도 쓰지 말고 보내. 그럼 상우가 할머니가 보낸 줄 알고 금방 달려올게. 응. 알았지. >> 그렇게 자신이 없을 할머니에게 필요한 것들을 준비해 두죠. 할머니와 상우는 어떤 결말을 맞게 될까요? 끝까지 봐 주시면 감사하겠습니다. 극중 외할머니를 맡으신 김을분 할머니는 2001년 당시 75세의 나이로 이 영화에 할머니로 즉석 캐스팅되어 출연하셨다고 합니다. 2008년 12월 6년 만에 유승호 배우와 재회했는데 고령의 나이임에도 병치레 없이 매우 건강한 상태셨고 우리 승호 아니냐라며 반겨줬다고 하죠. 유승호 배우가 성장하며 활약하는 모습을 꾸준히 보면서 동네 사람들에게는 유승호에 대해 자랑을 많이 했다고 합니다. 2016년 인터뷰에서도 가끔씩 만난다고 했으며 그때는 유승호 배우가 할머니께 소고기를 사드렸다고 하죠. 그렇게 이 영화의 인연을 이어가던 김을분 할머니는 21년 4월 17일 향년 95세로 별세하셨습니다. 영화 집으로는 단순한 가족 영화가 아닌 김을분 할머니가 남기신 삶 그 자체 그리고 이 영화를 보신 분들의 마음속에 남아 있는 유산 그 자체가 아닐까라는 생각이 듭니다. 여러분도 아무 조건 없이 나를 사랑해 준 조부모님, 부모님 혹은 가족에게 따뜻한 전화 한 통 드리는 건 어떨까요?",
+  "movie_id": "집으로...",
+  "reviewer": "오티티_-_OTT",
+  "chunk_index": 4,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "혜연",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "혜연은 상우가 좋아하는 인물로, 상우가 데이트를 준비하고 만나러 가는 대상이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "상우",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "상우는 할머니와 함께 지내는 소년으로, 혜연을 좋아하고 할머니에게 글을 가르쳐주는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "할머니",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "할머니는 상우를 돌봐주는 외할머니로, 말을 못하고 글을 모르지만 상우를 따뜻하게 보살피는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "철이",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "철이는 미친 소로부터 상우를 구해준 인물로, 히어로처럼 몸을 던져 상우를 보호했다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "할아버지",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "할아버지는 지난번 할머니에게 도움을 받았던 노인으로, 할머니가 영양제를 가져다주러 방문한 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "집으로",
+      "entity_type": "MOVIE",
+      "entity_description": "집으로는 2001년 개봉한 가족 영화로, 할머니와 손자 상우의 따뜻한 이야기를 담고 있다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "김을분",
+      "entity_type": "ACTOR",
+      "entity_description": "김을분 할머니는 2001년 당시 75세의 나이로 영화 집으로에서 외할머니 역으로 즉석 캐스팅되어 출연했으며, 2021년 4월 17일 향년 95세로 별세하셨다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "유승호",
+      "entity_type": "ACTOR",
+      "entity_description": "유승호는 영화 집으로에서 상우 역을 맡은 배우로, 김을분 할머니와 2008년 재회하고 이후에도 인연을 이어갔으며 할머니께 소고기를 사드리기도 했다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "상우",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "집으로",
+      "target_type": "MOVIE",
+      "relationship_description": "상우는 영화 집으로의 주인공이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "할머니",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "집으로",
+      "target_type": "MOVIE",
+      "relationship_description": "할머니는 영화 집으로의 주요 인물이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "상우",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "혜연",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "상우는 혜연을 좋아하여 데이트를 준비하고 만나러 간다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "상우",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "할머니",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "상우는 할머니와 함께 지내며 할머니에게 글을 가르쳐준다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "할머니",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "할아버지",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "할머니는 지난번 도움을 받았던 할아버지에게 영양제를 가져다준다",
+      "relationship_strength": 6
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "철이",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "상우",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "철이는 미친 소로부터 상우를 구해주었다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "철이",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "집으로",
+      "target_type": "MOVIE",
+      "relationship_description": "철이는 영화 집으로의 등장인물이다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "혜연",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "집으로",
+      "target_type": "MOVIE",
+      "relationship_description": "혜연은 영화 집으로의 등장인물이다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "김을분",
+      "source_type": "ACTOR",
+      "target_entity": "할머니",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "김을분 할머니는 영화 집으로에서 외할머니 역을 연기했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "유승호",
+      "source_type": "ACTOR",
+      "target_entity": "상우",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "유승호는 영화 집으로에서 상우 역을 연기했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "김을분",
+      "source_type": "ACTOR",
+      "target_entity": "집으로",
+      "target_type": "MOVIE",
+      "relationship_description": "김을분 할머니는 영화 집으로에 즉석 캐스팅되어 출연했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "유승호",
+      "source_type": "ACTOR",
+      "target_entity": "집으로",
+      "target_type": "MOVIE",
+      "relationship_description": "유승호는 영화 집으로에 출연했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "김을분",
+      "source_type": "ACTOR",
+      "target_entity": "유승호",
+      "target_type": "ACTOR",
+      "relationship_description": "김을분 할머니와 유승호는 영화 집으로 촬영 이후에도 인연을 이어갔으며, 2008년 재회하고 2016년까지도 가끔 만났다",
+      "relationship_strength": 9
+    }
+  ],
+  "entity_resolution": {
+    "혜연": {
+      "description": "혜연 -> 혜연",
+      "resolved_name": "혜연",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "상우": {
+      "description": "상우 -> 상우",
+      "resolved_name": "상우",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "할머니": {
+      "description": "할머니 -> 할머니",
+      "resolved_name": "할머니",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "철이": {
+      "description": "철이 -> 민철",
+      "resolved_name": "민철",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "할아버지": {
+      "description": "할아버지 -> 다도 할아버지",
+      "resolved_name": "다도 할아버지",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "집으로": {
+      "description": "집으로 -> 집으로...",
+      "resolved_name": "집으로...",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "김을분": {
+      "description": "김을분 -> 김을분",
+      "resolved_name": "김을분",
+      "entity_type": "ACTOR",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "유승호": {
+      "description": "유승호 -> 유승호",
+      "resolved_name": "유승호",
+      "entity_type": "ACTOR",
+      "matched": true,
+      "match_type": "name_exact"
+    }
+  }
+}

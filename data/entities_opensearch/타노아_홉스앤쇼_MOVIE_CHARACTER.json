@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "타노아",
+    "synonym": [
+      "Sefina",
+      "Tanoa",
+      "Tanoai",
+      "세피나",
+      "타노아",
+      "타노아 홉스",
+      "타노아이",
+      "타노아홉스",
+      "홉스 가족"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "타노아은 영화 '홉스앤쇼'의 등장인물로, 존 토이이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

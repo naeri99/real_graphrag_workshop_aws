@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "수연 친구3",
+    "synonym": [
+      "Sooyeon friend 3",
+      "고나영 캐릭터",
+      "딸",
+      "성진의 아내",
+      "수 연",
+      "수연 친구 3",
+      "수연 친구3",
+      "수연의 친구3",
+      "수연이 친구3",
+      "수연친구3",
+      "해연의 딸"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "수연 친구3은 영화 '히든페이스'의 등장인물로, 고나영이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "entity": {
+    "name": "Awesomemay",
+    "synonym": [
+      "Awesomemay"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "Awesomemay은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

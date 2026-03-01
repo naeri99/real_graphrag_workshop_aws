@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "스티븐스",
+    "synonym": [
+      "Detective Stephens",
+      "Stephens",
+      "Stevens",
+      "경관 스티븐스",
+      "스테판스",
+      "스티븐",
+      "스티븐스",
+      "스티븐스 경관",
+      "스티븐스 형사",
+      "스티븐즈"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "스티븐스은 영화 '다크나이트'의 등장인물로, 키스 섬머빌이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

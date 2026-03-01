@@ -1,0 +1,74 @@
+{
+  "movie_title": "택시운전사",
+  "director": [
+    {
+      "name": "장훈",
+      "name_en": "Jang Hoon"
+    }
+  ],
+  "cast": [
+    {
+      "actor": "송강호",
+      "actor_en": "Song Kang-ho",
+      "character": "김만섭"
+    },
+    {
+      "actor": "토마스 크레취만",
+      "actor_en": "Thomas Kretschmann",
+      "character": "한츠페터"
+    },
+    {
+      "actor": "유해진",
+      "actor_en": "Yoo Hai-jin",
+      "character": "황태술"
+    },
+    {
+      "actor": "류준열",
+      "actor_en": "Ryu Jun-yeol",
+      "character": "구재식"
+    },
+    {
+      "actor": "엄태구",
+      "actor_en": "Eom Tae-goo",
+      "character": "박성학 중사"
+    },
+    {
+      "actor": "차순배",
+      "actor_en": "Cha Soon-bae",
+      "character": "차 기사"
+    },
+    {
+      "actor": "신담수",
+      "actor_en": "Shin Dam-soo",
+      "character": "신 기사"
+    },
+    {
+      "actor": "류성현",
+      "actor_en": "Ryu Sung-hyun",
+      "character": "류 기사"
+    },
+    {
+      "actor": "박민희",
+      "actor_en": "Park Min-hee",
+      "character": "권 중령"
+    },
+    {
+      "actor": "권순준",
+      "actor_en": "Kwon Soon-joon",
+      "character": "강상구"
+    },
+    {
+      "actor": "윤석호",
+      "actor_en": "Yoon Seok-ho",
+      "character": "황태술 아들"
+    }
+  ],
+  "review": [
+    "./data/review/택시운전사/택시운전사_C06DaGElako.json",
+    "./data/review/택시운전사/택시운전사_DffaUQpYPiE.json",
+    "./data/review/택시운전사/택시운전사_GAaApQg-gEg.json",
+    "./data/review/택시운전사/택시운전사_mPE9Kzbr-Ds.json",
+    "./data/review/택시운전사/택시운전사_mz6RgKTM7FA.json",
+    "./data/review/택시운전사/택시운전사_q43jndTvzxE.json"
+  ]
+}

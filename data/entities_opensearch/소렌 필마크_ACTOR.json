@@ -1,0 +1,23 @@
+{
+  "entity": {
+    "name": "소렌 필마크",
+    "synonym": [
+      "Pilmark",
+      "Soren",
+      "Soren Pilmark",
+      "소렌",
+      "소렌 필마르크",
+      "소렌 필마크",
+      "소렌 필막",
+      "소렌필마크",
+      "쇠렌 필마크",
+      "쇠렌필마크",
+      "필마르크",
+      "필마크"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "소렌 필마크은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

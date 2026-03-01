@@ -1,0 +1,25 @@
+{
+  "entity": {
+    "name": "딜런",
+    "synonym": [
+      "Dillon",
+      "Dinkley",
+      "Dylan",
+      "Dylan Thomas",
+      "딘클리",
+      "딜",
+      "딜란",
+      "딜런",
+      "딜런 요원",
+      "딜런토머스",
+      "딜렌",
+      "딜론",
+      "딜린",
+      "토머스"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "딜런은 영화 '홉스앤쇼'의 등장인물로, 롭 델라니이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

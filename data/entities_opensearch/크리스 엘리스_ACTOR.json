@@ -1,0 +1,18 @@
+{
+  "entity": {
+    "name": "크리스 엘리스",
+    "synonym": [
+      "Chris Ellis",
+      "Christopher Ellis",
+      "엘리스",
+      "크리스",
+      "크리스 엘리스",
+      "크리스엘리스",
+      "크리스토퍼 엘리스"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "크리스 엘리스은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

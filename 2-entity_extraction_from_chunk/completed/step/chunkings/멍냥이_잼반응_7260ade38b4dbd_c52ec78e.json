@@ -1,0 +1,80 @@
+{
+  "chunk_hash": "7260ade38b4dbd",
+  "chunk_id": "멍냥이_잼반응_7260ade38b4dbd_c52ec78e",
+  "user_query": "No way. Oh. >> Oh, she dipped. >> What the [ __ ] That's so insane. >> Oh my god, these guys are amazing. >> This is adorable, >> dude. This is crazy. >> They all following. [Music] See, that's crazy. They smuggled her in, dude. That is wild. Oh my gosh. Sweat more, my guy. Please. Is she going to stay in prison with them for a while? This is wild. >> Papa. >> Papa. >> That's crazy. They smuggled a kid in. That is so wild. >> Oh no. >> Oh. Oh, her little tiny fists are breaking my heart. Now you all get abduction added to your sentence. Yeah. >> Oh, she just wants to stay with daddy. >> I'm good at hiding. Oh my gosh. [Music] A Oh, she won him over. A Damn bro. [Music] Damn, dude. You said this was a school. A [ __ ] We did do that, didn't we? This school is a prison. They're bad people. Uncle wonderful. >> A Uncle Angel [Music] do it now. Get her out. A >> Oh, they do raise her there. >> She got her wish. >> Whoops. do a head count. A >> she's just in prison with them now. Damn. [Music] Oh, e. You hear the [Laughter] They just did it so bad. Oh, they covered her up. Now she's Sailor Moon. [Music] [Laughter] fighting evil by moon. >> Yo, there's a lot of Sailor Moon reference in this dude. [Applause] [Music] I'm in. I'm in. I'm in. I'm in. I'm in. [Laughter] Stay still. >> Yeah. >> Cooling. [Music] >> Nailed it. >> Yo, they quick. [Music] Oh no. Oh no. >> Oh no. >> No. >> That was a good try. Uh-oh. [Music] >> Oh my god. Oh no. Oh no. Dude. >> Well, maybe he didn't kill a",
+  "movie_id": "7번방의 선물",
+  "reviewer": "멍냥이_잼반응",
+  "chunk_index": 4,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "PAPA",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Papa는 감옥에 있는 아버지 캐릭터로, 딸이 그를 만나러 감옥에 잠입한다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "UNCLE WONDERFUL",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Uncle Wonderful은 감옥에 있는 캐릭터로, 아이를 돌보는 것으로 보인다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "UNCLE ANGEL",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Uncle Angel은 감옥에 있는 캐릭터로, 아이의 탈출을 돕는 것으로 보인다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "PAPA",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "UNCLE WONDERFUL",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Papa와 Uncle Wonderful은 같은 감옥에 있는 동료 수감자이다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "PAPA",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "UNCLE ANGEL",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Papa와 Uncle Angel은 같은 감옥에 있는 동료 수감자이다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "UNCLE WONDERFUL",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "UNCLE ANGEL",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Uncle Wonderful과 Uncle Angel은 함께 아이를 감옥에서 키우는 동료 수감자이다",
+      "relationship_strength": 8
+    }
+  ],
+  "entity_resolution": {
+    "PAPA": {
+      "description": "PAPA -> PAPA",
+      "resolved_name": "PAPA",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "UNCLE WONDERFUL": {
+      "description": "UNCLE WONDERFUL -> UNCLE WONDERFUL",
+      "resolved_name": "UNCLE WONDERFUL",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "UNCLE ANGEL": {
+      "description": "UNCLE ANGEL -> UNCLE ANGEL",
+      "resolved_name": "UNCLE ANGEL",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

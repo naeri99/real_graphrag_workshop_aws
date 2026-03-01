@@ -1,0 +1,12 @@
+{
+  "entity": {
+    "name": "조성훈",
+    "synonym": [
+      "조성훈"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "조성훈은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

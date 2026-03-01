@@ -1,0 +1,18 @@
+{
+  "entity": {
+    "name": "런던 하우스키퍼",
+    "synonym": [
+      "London Housekeeper",
+      "가정부",
+      "런던 가정부",
+      "런던 하우스 키퍼",
+      "런던 하우스키퍼",
+      "런던하우스키퍼",
+      "하우스키퍼"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "런던 하우스키퍼은 영화 '팬텀 스레드'의 등장인물로, 줄리 볼로노이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

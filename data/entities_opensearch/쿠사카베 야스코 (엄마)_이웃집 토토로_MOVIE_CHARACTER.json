@@ -1,0 +1,17 @@
+{
+  "entity": {
+    "name": "쿠사카베 야스코 (엄마)",
+    "synonym": [
+      "Yasuko Kusakabe",
+      "草壁靖子",
+      "야스코",
+      "엄마",
+      "쿠사카베 야스코 (엄마)",
+      "쿠사카베야스코"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "쿠사카베 야스코 (엄마)은 영화 '이웃집 토토로'의 등장인물로, 시마모토 스미이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

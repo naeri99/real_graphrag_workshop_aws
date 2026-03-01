@@ -1,0 +1,115 @@
+{
+  "chunk_hash": "4f81efd1948117",
+  "chunk_id": "쭌무비_4f81efd1948117_b3e9a478",
+  "user_query": "Whirlpool tonight foreign no you have to do something with that talent I told you you're special maybe after dinner we play The Crying Game you have one minute go 1979. [Music] Ember wait you're up I have literally never cried it it never did almost out of time when I met you I thought I was drowning but that light that light inside you has made me feel so alive foreign thank you Mrs Ripple I have a friend who runs the best glass making firm for real it's a long way from the city but it wouldn't be any start hold up I'll walk you out hold up what's going on I'm going home fine then I'm going with you water guy I don't think I actually do want to run the shop trapped it's the only way to repay a sacrifice so big is sacrificing your life too from over there you're smelling love on me I prove it come with me and then you must light these with your fire [Music] man come on can I do sure oh my God you have to go wait are we a match what's going on I wake up and nobody upstairs and we um began looking at this door that way I can tell the whole world my daughter take over but after our talk I know now is the time when I left Fireland it is the highest form of respect my father did not return the bow we will lose who we are they never got to see all of this this burden I still carry me you need your rest Ember I have a gift for you you came all the way here to give it to me I think I have something to show you Wade what are we doing here [Music] Gale what's going on do you still",
+  "movie_id": "엘리멘탈",
+  "reviewer": "쭌무비",
+  "chunk_index": 5,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "EMBER",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Ember는 불의 나라(Fireland)에서 온 캐릭터로, 특별한 재능을 가지고 있으며 가게를 운영하는 것에 대해 갈등하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "WADE",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Wade는 물의 속성을 가진 캐릭터로, Ember에게 선물을 가져다주고 함께 여행하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "MRS RIPPLE",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Mrs Ripple은 최고의 유리 제조 회사를 운영하는 친구가 있다고 언급하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "GALE",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Gale은 Wade와 Ember가 방문하는 장소에서 등장하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "EMBER의 아버지",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Ember의 아버지는 Fireland를 떠났으며, 절을 하지 않은 것이 최고의 존경의 표시라고 언급되는 인물이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "WADE",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "EMBER",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Wade와 Ember는 서로 감정적으로 연결되어 있으며, Wade는 Ember에게 선물을 가져다주고 함께 여행한다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "EMBER",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "EMBER의 아버지",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Ember는 아버지의 희생에 대한 부담감을 가지고 있으며, 가게를 물려받는 것에 대해 갈등한다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "MRS RIPPLE",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "EMBER",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Mrs Ripple은 Ember에게 유리 제조 회사 관련 기회를 제안한다",
+      "relationship_strength": 6
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "WADE",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "GALE",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Wade는 Ember를 데리고 Gale이 있는 장소를 방문한다",
+      "relationship_strength": 5
+    }
+  ],
+  "entity_resolution": {
+    "EMBER": {
+      "description": "EMBER -> EMBER",
+      "resolved_name": "EMBER",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "WADE": {
+      "description": "WADE -> WADE",
+      "resolved_name": "WADE",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "MRS RIPPLE": {
+      "description": "MRS RIPPLE -> MRS RIPPLE",
+      "resolved_name": "MRS RIPPLE",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "GALE": {
+      "description": "GALE -> GALE",
+      "resolved_name": "GALE",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "EMBER의 아버지": {
+      "description": "EMBER의 아버지 -> EMBER의 아버지",
+      "resolved_name": "EMBER의 아버지",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

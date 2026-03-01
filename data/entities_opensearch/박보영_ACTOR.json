@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "박보영",
+    "synonym": [
+      "BoYoung Park",
+      "Park Bo Young",
+      "Park Bo-young",
+      "Park Boyoung",
+      "박 보영",
+      "박보영",
+      "박보영 배우",
+      "박보영 씨",
+      "박보영씨",
+      "보영"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "박보영은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

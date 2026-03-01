@@ -1,0 +1,18 @@
+{
+  "entity": {
+    "name": "콤즈",
+    "synonym": [
+      "Combs",
+      "Combs character",
+      "Coombs",
+      "컴즈",
+      "콤브스",
+      "콤스",
+      "콤즈"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "콤즈은 영화 '마션'의 등장인물로, 그레그 루소이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

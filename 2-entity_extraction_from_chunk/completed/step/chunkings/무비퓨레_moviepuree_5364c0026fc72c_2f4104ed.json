@@ -1,0 +1,217 @@
+{
+  "chunk_hash": "5364c0026fc72c",
+  "chunk_id": "무비퓨레_moviepuree_5364c0026fc72c_2f4104ed",
+  "user_query": "창문에 닿기 위해 Murph의 방문을 열어 보는데 먼지가 일정한 간격을 띄우고 천장에서 바닥으로 흘러내리고 있는 것을 발견합니다 Cooper는 바닥에 쌓인 먼지를 밤새 분석하고 골 맥스 먼지가 미국의 특정 장소를 가리키고 있다는 것을 알아냅니다 Cooper는 불가사의한 현상을 해석하기 위해 가족들을 집에 두고 홀로 좌표가 가리키는 곳으로 향하는데요 케차 4 숨어있던 Murph도 같이 떠나게 됩니다 그리고 도착한 곳은 정체모를 쏙쏙 으 그리고 보이는 철창 p Cooper는 차에서 내려 체인 절단기로 철창문을 끊으려 하는데요 그때 총 뭘로 맘으로 봐요 낯선 사람이 나타나 두 팔을 잠재우고 Murph를 데리고 건물 안으로 들어갑니다 정심 1등 Cooper 후 Brand 박사로 불리는 인물의 안내로 회의실로 향하고 오래전에 알고 지냈던 Brand 교수와 만납니다 엘크 이브 더슈 말 Cooper는 회의실 테이블에 앉아있는 사람들에게 여기가 도대체 어디인지 모르겠는데요 원 와 싹 Brand 박사는 이곳이 NASA임을 알려줍니다 쏠라 수 현 때나 4 에서 근무한 적이 있던 Cooper는 NASA가 아직 해체되지 않았으면 올라 0 없이 아직도 NASA가 운영되고 있다는 사실에 기뻐하는 것도 잠시 Brand 교수로부터 쿰 님 더 쑤 듀얼 똥을 출시된 레이스 [음악] 5v 들러 수바 하거나 얼마 안 가 지구가 정말이 맞을 거라는 이야기를 듣게 됩니다 물론 맨 줄 서있고 몰 월매 둘레길 Brand 교수는 인류가 정착할 새로운 행성을 찾기 위해 탐사 대원들을 우주로 보낼 계획을 세우고 있다고 말하고 Cooper가 조종사로써 팀의 함교에 우주선에 탑승해 주기를 부탁합니다 건 닿기를 좋으신 되더라구요 써있던 NASA는 두 개의 계획을 세우고 있습니다 먼저 플랜A는 지구에 있는 많은 사람들을 그대로 우주 정거장으로 옮기는 것입니다 최고의 대안이 줘 다음 플랜B는 5000개 이상의 수정란을 배양해 새로 정착한 행성에서 인류를 키워내는 것입니다 슈퍼와 을 좀 넘어 NASA는 플랜A를 성공시키는 거세요 집중합니다 지구에 남은 시간이 많지 않다는 것을 알게 된 Cooper는 아이들의 미래를 위해 우주로 떠나기로 마음먹고 아이들과 작별 인사를 나누는데요 첫째 Tom은 아빠의 결정을 덤덤하게 또 든든스럽게 다 드리지만 둘째 Murph는 아빠가 떠나는 당일까지 아빠를 붙잡습니다 예 아 들며 왠걸 9시 5 꼴 주도 l9 파는 떠나기 전 Murph에게 자신의 시계를 선물하고 w 너무나 잘 안 돼요 왜 마이미 3 1매 2 to 5 다 한줄 쫙 별로 한목숨 장이 넓게 아이들을 맡긴 뒤 눈물을 머금고 집을 떠납니다 아 우주로 힘차게 날아오릅니다 로봇도 2 태우는데요 TARS와 CASE입니다 out [음악] 우주에서 지구를 바라보며 말합니다 w 막은 or roll 최갑원 말씀들이 my 말 명을 싶어하는 src 급하는 우주선에 오르기도 뭐 그들이 탄 탐사 할 행성에 관한 설명을 들은 적이 있습니다 우리술 비법 & 저희 유도 램프 땐 주에 압을 보고로 좋아할 보다 나위 치트 와우 발표만",
+  "movie_id": "인터스텔라",
+  "reviewer": "무비퓨레_moviepuree",
+  "chunk_index": 2,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "COOPER",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Cooper는 전직 NASA 조종사로, Murph의 방에서 발견한 먼지 패턴을 분석하여 특정 좌표를 발견하고, NASA의 우주 탐사 임무에 조종사로 참여하게 되는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "MURPH",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Murph는 Cooper의 둘째 딸로, 아버지가 우주로 떠나는 것을 끝까지 반대하며 붙잡는 인물이다. Cooper는 떠나기 전 자신의 시계를 Murph에게 선물한다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "TOM",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Tom은 Cooper의 첫째 아들로, 아버지의 우주 탐사 결정을 덤덤하고 든든하게 받아들이는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "BRAND 교수",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Brand 교수는 NASA에서 근무하며 인류가 정착할 새로운 행성을 찾기 위한 탐사 계획을 세우고 있는 인물로, Cooper에게 조종사로 참여해 줄 것을 부탁한다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "BRAND 박사",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Brand 박사는 Cooper를 회의실로 안내하고 이곳이 NASA임을 알려주는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "TARS",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "TARS는 Cooper와 함께 우주선에 탑승하는 로봇이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "CASE",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "CASE는 Cooper와 함께 우주선에 탑승하는 로봇이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "인터스텔라",
+      "entity_type": "MOVIE",
+      "entity_description": "인터스텔라는 지구의 종말이 다가오는 상황에서 인류가 정착할 새로운 행성을 찾기 위해 우주 탐사를 떠나는 내용의 SF 영화이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "COOPER",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "인터스텔라",
+      "target_type": "MOVIE",
+      "relationship_description": "Cooper는 인터스텔라의 주인공으로 우주 탐사 임무를 수행한다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "MURPH",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "인터스텔라",
+      "target_type": "MOVIE",
+      "relationship_description": "Murph는 인터스텔라의 주요 등장인물이다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "COOPER",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "MURPH",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Cooper는 Murph의 아버지이며, 떠나기 전 시계를 선물한다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "COOPER",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "TOM",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Cooper는 Tom의 아버지이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "TOM",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "MURPH",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Tom과 Murph는 남매 관계이다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "BRAND 교수",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "COOPER",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Brand 교수는 Cooper에게 우주 탐사 조종사로 참여해 줄 것을 부탁한다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "BRAND 박사",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "COOPER",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Brand 박사는 Cooper를 NASA 회의실로 안내한다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "BRAND 교수",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "인터스텔라",
+      "target_type": "MOVIE",
+      "relationship_description": "Brand 교수는 인터스텔라에서 NASA의 우주 탐사 계획을 주도하는 인물이다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "TARS",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "COOPER",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "TARS는 Cooper와 함께 우주선에 탑승한다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "CASE",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "COOPER",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "CASE는 Cooper와 함께 우주선에 탑승한다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "TARS",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "CASE",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "TARS와 CASE는 함께 우주 탐사에 참여하는 로봇들이다",
+      "relationship_strength": 7
+    }
+  ],
+  "entity_resolution": {
+    "COOPER": {
+      "description": "COOPER -> COOPER",
+      "resolved_name": "COOPER",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "MURPH": {
+      "description": "MURPH -> Murph (older)",
+      "resolved_name": "Murph (older)",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "TOM": {
+      "description": "TOM -> Tom Howland",
+      "resolved_name": "Tom Howland",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "BRAND 교수": {
+      "description": "BRAND 교수 -> BRAND 교수",
+      "resolved_name": "BRAND 교수",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "BRAND 박사": {
+      "description": "BRAND 박사 -> BRAND 박사",
+      "resolved_name": "BRAND 박사",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "TARS": {
+      "description": "TARS -> 타스",
+      "resolved_name": "타스",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "CASE": {
+      "description": "CASE -> 케이스",
+      "resolved_name": "케이스",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "인터스텔라": {
+      "description": "인터스텔라 -> 인터스텔라",
+      "resolved_name": "인터스텔라",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "name_exact"
+    }
+  }
+}

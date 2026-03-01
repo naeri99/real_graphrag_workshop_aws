@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "에밀리 블런트",
+    "synonym": [
+      "Emily Blunt",
+      "블런트",
+      "에밀리",
+      "에밀리 블런",
+      "에밀리 블런드",
+      "에밀리 블런트",
+      "에밀리블런",
+      "에밀리블런트"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "에밀리 블런트은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

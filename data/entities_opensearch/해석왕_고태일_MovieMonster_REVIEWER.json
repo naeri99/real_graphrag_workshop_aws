@@ -1,0 +1,13 @@
+{
+  "entity": {
+    "name": "해석왕_고태일_MovieMonster",
+    "synonym": [
+      "해석왕_고태일_MovieMonster",
+      "해석왕 고태일 MovieMonster"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "해석왕_고태일_MovieMonster은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

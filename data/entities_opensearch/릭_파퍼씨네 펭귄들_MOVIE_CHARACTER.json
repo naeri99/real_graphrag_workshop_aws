@@ -1,0 +1,18 @@
+{
+  "entity": {
+    "name": "릭",
+    "synonym": [
+      "Rick",
+      "Rick씨",
+      "리크",
+      "릭",
+      "릭 씨",
+      "릭씨",
+      "릭크"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "릭은 영화 '파퍼씨네 펭귄들'의 등장인물로, 제임스 터퍼이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

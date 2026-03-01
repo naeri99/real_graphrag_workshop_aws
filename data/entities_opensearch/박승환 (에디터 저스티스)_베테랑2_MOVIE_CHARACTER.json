@@ -1,0 +1,24 @@
+{
+  "entity": {
+    "name": "박승환 (에디터 저스티스)",
+    "synonym": [
+      "Editor Justice",
+      "Park Seung-hwan",
+      "Seung-hwan",
+      "박 기자",
+      "박 승환",
+      "박승환",
+      "박승환 (에디터 저스티스)",
+      "승환",
+      "에디터 저스티스",
+      "에디터저스티스",
+      "저스티스",
+      "정의 부장",
+      "정의부장"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "박승환 (에디터 저스티스)은 영화 '베테랑2'의 등장인물로, 신승환이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

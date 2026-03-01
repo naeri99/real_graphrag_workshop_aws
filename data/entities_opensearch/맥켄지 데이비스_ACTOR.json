@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "맥켄지 데이비스",
+    "synonym": [
+      "Davis",
+      "Mackenzie",
+      "Mackenzie Davis",
+      "데이비스",
+      "매켄지 데이비스",
+      "매켄지데이비스",
+      "맥켄지",
+      "맥켄지 데이비스",
+      "맥켄지데이비스"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "맥켄지 데이비스은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

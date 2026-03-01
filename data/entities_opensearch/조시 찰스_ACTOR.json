@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "조시 찰스",
+    "synonym": [
+      "Josh",
+      "Josh Charles",
+      "조쉬",
+      "조쉬 찰스",
+      "조쉬찰스",
+      "조시",
+      "조시 찰스",
+      "조시찰스",
+      "찰스"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "조시 찰스은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "entity": {
+    "name": "리나 사와야마",
+    "synonym": [
+      "Rina Sawayama",
+      "澤山璃奈",
+      "리나",
+      "리나 사와야마",
+      "리나사와야마",
+      "사와야마",
+      "사와야마 리나"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "리나 사와야마은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

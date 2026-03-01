@@ -1,0 +1,12 @@
+{
+  "entity": {
+    "name": "약대시네마",
+    "synonym": [
+      "약대시네마"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "약대시네마은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "박민희",
+    "synonym": [
+      "Pak Min-hee",
+      "Pak Min-hui",
+      "Pak Minhee",
+      "Park Min-hee",
+      "Park Minhee",
+      "민희",
+      "박 민희",
+      "박민 희",
+      "박민희",
+      "박민희 배우"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "박민희은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

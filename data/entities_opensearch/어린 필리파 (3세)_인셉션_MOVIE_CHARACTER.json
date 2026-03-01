@@ -1,0 +1,32 @@
+{
+  "entity": {
+    "name": "어린 필리파 (3세)",
+    "synonym": [
+      "3세 필리파",
+      "Baby Phillipa",
+      "Phillipa 3 years",
+      "Phillipa 3 years old",
+      "Toddler Phillipa",
+      "Young Phillipa",
+      "Young Phillipa 3",
+      "세살 필리파",
+      "아기 필리파",
+      "어린 필리빠 3세",
+      "어린 필리파",
+      "어린 필리파 (3세)",
+      "어린 필리파 3세",
+      "어린필리파",
+      "어린필리파3세",
+      "영 필리파 3세",
+      "유년 필리파",
+      "유아 필리파",
+      "필리파 3살",
+      "필리파 3세",
+      "필리파 어린시절"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "어린 필리파 (3세)은 영화 '인셉션'의 등장인물로, 테일러 지엘리스카이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

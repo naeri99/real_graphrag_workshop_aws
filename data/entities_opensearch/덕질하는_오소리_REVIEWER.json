@@ -1,0 +1,13 @@
+{
+  "entity": {
+    "name": "덕질하는_오소리",
+    "synonym": [
+      "덕질하는_오소리",
+      "덕질하는 오소리"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "덕질하는_오소리은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

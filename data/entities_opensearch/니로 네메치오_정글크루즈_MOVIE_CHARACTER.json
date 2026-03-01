@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "니로 네메치오",
+    "synonym": [
+      "Nilo",
+      "Nilo Nemecio",
+      "Nilo Nemolato",
+      "네메치오",
+      "니로",
+      "니로 네메시오",
+      "니로 네메치오",
+      "니로 네몰라토",
+      "니로네메치오",
+      "닐로 네메치오"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "니로 네메치오은 영화 '정글크루즈'의 등장인물로, 폴 지어마티이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

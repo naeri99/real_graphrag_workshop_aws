@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "족장의 딸",
+    "synonym": [
+      "Chief's Daughter",
+      "부족장의 딸",
+      "족장 딸",
+      "족장딸",
+      "족장의 딸",
+      "족장의딸",
+      "추장딸",
+      "추장의 딸"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "족장의 딸은 영화 '정글크루즈'의 등장인물로, 수렘 칼데론이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

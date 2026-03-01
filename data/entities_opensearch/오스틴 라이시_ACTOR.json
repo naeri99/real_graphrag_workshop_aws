@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "오스틴 라이시",
+    "synonym": [
+      "Austin Lysy",
+      "Lysy",
+      "라이시",
+      "어스틴 라이시",
+      "오스틴 라이시",
+      "오스틴 라이씨",
+      "오스틴 라이지",
+      "오스틴 리시",
+      "오스틴라이시"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "오스틴 라이시은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

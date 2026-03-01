@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "차미경",
+    "synonym": [
+      "Cha Mi-kyung",
+      "Cha Mikyeong",
+      "Mi-kyung Cha",
+      "미경",
+      "배우 차미경",
+      "차 미경",
+      "차미경",
+      "차미경 배우"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "차미경은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

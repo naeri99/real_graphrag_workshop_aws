@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "바바라 네델야코바",
+    "synonym": [
+      "Barbara",
+      "Barbara Nedeljakova",
+      "네델야코바",
+      "바르바라 네델야코바",
+      "바바라",
+      "바바라 네델리아코바",
+      "바바라 네델야코바",
+      "바바라네델야코바"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "바바라 네델야코바은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "브리",
+    "synonym": [
+      "Bree",
+      "Bri",
+      "브리",
+      "브리 친구",
+      "브리 캐릭터",
+      "브리야",
+      "브리역",
+      "브리이",
+      "브리캐릭터"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "브리은 영화 '인사이드 아웃 2'의 등장인물로, 수마이야 시드니이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

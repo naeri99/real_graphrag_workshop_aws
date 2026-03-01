@@ -1,0 +1,71 @@
+{
+  "chunk_hash": "50e9e3691d31fc",
+  "chunk_id": "Cody_Leach_50e9e3691d31fc_879111be",
+  "user_query": "memory that we have that is 100% in line with each other so essentially this movie came out I was a freshman in high school and of course I've always been a horror fan but there wasn't really a whole lot coming out and I had heard some chatter of some people around the high school Halls talking about this movie Hostel and I was like that might be worth checking out so it was one of them weekends didn't really have much to do so me and my dad went to go check it out completely blind never watched a trailer never really even knew the premise of it just knew that everybody around school was saying how sick it was and I remember seeing Quentin Tarantino's name on the poster I mean I think Quentin Tarantino's name was even bigger than Eli Roth's back in the day walked into this sat in a dark theater I think we were the only two there maybe one or two other people there watched this movie almost in complete silence walked out of the theater literally feeling like we just watched a group of people get snuffed like we just walked and paid to see these people murdered actual people and walked out out just kind of numb just like emotionally numb I remember not even speaking as we were like walking through the parking lot to the truck and just like like just a highway hypnosis nothing exists we get into the truck and before we had went to the movie theater I went to Best Buy and I had bought a Sevendust greatest hits album because I was starting to get into Sevendust and it was on the",
+  "movie_id": "호스텔",
+  "reviewer": "Cody_Leach",
+  "chunk_index": 2,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "HOSTEL",
+      "entity_type": "MOVIE",
+      "entity_description": "Hostel은 2005년에 개봉한 호러 영화로, 학교에서 얼마나 충격적인지에 대한 소문이 돌았던 작품이다. 관객들에게 실제 살인을 목격한 것 같은 감정적 충격을 주었다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "QUENTIN TARANTINO",
+      "entity_type": "MOVIE_STAFF",
+      "entity_description": "쿠엔틴 타란티노는 Hostel 포스터에 이름이 크게 실린 영화 제작자로, 당시 엘리 로스보다 더 큰 이름으로 표기되었다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "ELI ROTH",
+      "entity_type": "MOVIE_STAFF",
+      "entity_description": "엘리 로스는 Hostel의 감독으로, 당시 쿠엔틴 타란티노보다 덜 알려져 있었다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "QUENTIN TARANTINO",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "HOSTEL",
+      "target_type": "MOVIE",
+      "relationship_description": "쿠엔틴 타란티노는 Hostel의 제작에 참여하여 포스터에 이름이 실렸다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "ELI ROTH",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "HOSTEL",
+      "target_type": "MOVIE",
+      "relationship_description": "엘리 로스는 Hostel을 감독했다",
+      "relationship_strength": 10
+    }
+  ],
+  "entity_resolution": {
+    "HOSTEL": {
+      "description": "HOSTEL -> HOSTEL",
+      "resolved_name": "HOSTEL",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "QUENTIN TARANTINO": {
+      "description": "QUENTIN TARANTINO -> QUENTIN TARANTINO",
+      "resolved_name": "QUENTIN TARANTINO",
+      "entity_type": "MOVIE_STAFF",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "ELI ROTH": {
+      "description": "ELI ROTH -> ELI ROTH",
+      "resolved_name": "ELI ROTH",
+      "entity_type": "MOVIE_STAFF",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

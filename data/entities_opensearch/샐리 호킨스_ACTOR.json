@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "샐리 호킨스",
+    "synonym": [
+      "Hawkins",
+      "Sally Hawkins",
+      "샐리",
+      "샐리 호킨스",
+      "샐리 호킨즈",
+      "샐리호킨스",
+      "셀리 호킨스",
+      "호킨스"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "샐리 호킨스은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "entity": {
+    "name": "구재식",
+    "synonym": [
+      "Goo Jae-sik",
+      "Gu Jae-sik",
+      "Jae-sik",
+      "광주 대학생",
+      "구 재식",
+      "구재 식",
+      "구재식",
+      "기자 재식",
+      "대학생",
+      "대학생 재식",
+      "재식",
+      "재식씨",
+      "재식이"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "구재식은 영화 '택시운전사'의 등장인물로, 류준열이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

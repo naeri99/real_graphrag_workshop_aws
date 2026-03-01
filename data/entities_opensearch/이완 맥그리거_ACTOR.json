@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "이완 맥그리거",
+    "synonym": [
+      "Ewan McGregor",
+      "McGregor",
+      "맥그리거",
+      "유안 맥그리거",
+      "이완",
+      "이완 맥그레거",
+      "이완 맥그리거",
+      "이완맥그리거"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "이완 맥그리거은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

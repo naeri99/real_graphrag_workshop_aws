@@ -1,0 +1,23 @@
+{
+  "entity": {
+    "name": "윌리암 잭슨 하퍼",
+    "synonym": [
+      "William",
+      "William Harper",
+      "William Jackson Harper",
+      "윌리암",
+      "윌리암 잭슨 하퍼",
+      "윌리암잭슨하퍼",
+      "윌리암하퍼",
+      "윌리엄",
+      "윌리엄 잭슨 하퍼",
+      "윌리엄 하퍼",
+      "잭슨 하퍼",
+      "하퍼"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "윌리암 잭슨 하퍼은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

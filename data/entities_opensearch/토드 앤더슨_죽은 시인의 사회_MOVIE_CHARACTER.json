@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "토드 앤더슨",
+    "synonym": [
+      "Anderson",
+      "Todd",
+      "Todd Anderson",
+      "앤더슨",
+      "토드",
+      "토드 앤더선",
+      "토드 앤더슨",
+      "토드앤더슨"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "토드 앤더슨은 영화 '죽은 시인의 사회'의 등장인물로, 이든 호크이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

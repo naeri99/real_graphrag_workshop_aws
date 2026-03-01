@@ -1,0 +1,18 @@
+{
+  "entity": {
+    "name": "미국인 고객",
+    "synonym": [
+      "American Client",
+      "미국 고객",
+      "미국 손님",
+      "미국인 고객",
+      "미국인 손님",
+      "미국인고객",
+      "아메리칸 클라이언트"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "미국인 고객은 영화 '호스텔'의 등장인물로, 릭 호프만이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

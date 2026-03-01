@@ -1,0 +1,23 @@
+{
+  "entity": {
+    "name": "벤 모리스",
+    "synonym": [
+      "Ben",
+      "Ben Maurice",
+      "Ben Moris",
+      "Ben Morris",
+      "모리스",
+      "베니 모리스",
+      "벤 모러스",
+      "벤 모리스",
+      "벤 모리슨",
+      "벤 모리쓰",
+      "벤모리스",
+      "벤모리슨"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "벤 모리스은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

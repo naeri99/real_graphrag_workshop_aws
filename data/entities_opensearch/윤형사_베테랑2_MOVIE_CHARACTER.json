@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "윤형사",
+    "synonym": [
+      "Detective Yoon",
+      "Yoon",
+      "막내 형사",
+      "막내형사",
+      "윤 형사",
+      "윤씨",
+      "윤형 사",
+      "윤형사",
+      "윤형사 캐릭터",
+      "윤형사님",
+      "형사 윤"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "윤형사은 영화 '베테랑2'의 등장인물로, 김시후이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

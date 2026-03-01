@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "버럭이",
+    "synonym": [
+      "Anger",
+      "버럭",
+      "버럭 감정",
+      "버럭 캐릭터",
+      "버럭이",
+      "버럭이 캐릭터",
+      "분노",
+      "앵거"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "버럭이은 영화 '인사이드 아웃 2'의 등장인물로, 루이스 블랙이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

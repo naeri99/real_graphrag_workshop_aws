@@ -1,0 +1,18 @@
+{
+  "entity": {
+    "name": "성",
+    "synonym": [
+      "Sheng",
+      "星",
+      "聖",
+      "성",
+      "성 캐릭터",
+      "성이",
+      "싱"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "성은 영화 '서유기 모험의 시작'의 등장인물로, 유문장이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "entity": {
+    "name": "아버지의 동료",
+    "synonym": [
+      "Father's Colleague",
+      "Father's colleague",
+      "父の同僚",
+      "대학 동료",
+      "동료",
+      "아버지동료",
+      "아버지의 동료",
+      "아빠 동료",
+      "아빠동료",
+      "직장동료",
+      "쿠사카베 동료",
+      "타츠오 동료"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "아버지의 동료은 영화 '이웃집 토토로'의 등장인물로, 미야자키 하야오이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

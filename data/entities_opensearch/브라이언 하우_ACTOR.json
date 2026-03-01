@@ -1,0 +1,18 @@
+{
+  "entity": {
+    "name": "브라이언 하우",
+    "synonym": [
+      "Brian Howe",
+      "브라이언",
+      "브라이언 하우",
+      "브라이언 하우어",
+      "브라이언 호우",
+      "브라이언하우",
+      "하우"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "브라이언 하우은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

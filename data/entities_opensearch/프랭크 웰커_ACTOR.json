@@ -1,0 +1,16 @@
+{
+  "entity": {
+    "name": "프랭크 웰커",
+    "synonym": [
+      "Frank Welker",
+      "웰커",
+      "프랭크",
+      "프랭크 웰커",
+      "프랭크웰커"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "프랭크 웰커은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

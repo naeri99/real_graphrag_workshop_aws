@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "시드니 콜",
+    "synonym": [
+      "Sidney",
+      "Sidney Cole",
+      "Sydney Cole",
+      "시드니",
+      "시드니 코울",
+      "시드니 콜",
+      "시드니콜",
+      "씨드니",
+      "콜"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "시드니 콜은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

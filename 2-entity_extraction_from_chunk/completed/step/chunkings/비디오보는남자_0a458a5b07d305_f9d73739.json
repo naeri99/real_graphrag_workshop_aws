@@ -1,0 +1,164 @@
+{
+  "chunk_hash": "0a458a5b07d305",
+  "chunk_id": "비디오보는남자_0a458a5b07d305_f9d73739",
+  "user_query": "램보 교수와 수학을 증명하는 것도 그가 진정으로 원하는 것은 아니었는데요 [음악] 윌의 재능을 아끼는 램보와 윌의 아픔을 이해하는 쇼는 윌에게 묻습니다 좋은 머리로 어떤 질문에도 대답을 잘하던 윌은 이 질문에는 대답을 할 수가 없었습니다 그도 본인을 모르기 때문이죠 윌은 스카일라가 떠나기 전에 마지막으로 연락했습니다 그녀 혼자 샌프란시스코로 떠났고 공항에서도 윌은 나타나지 않았습니다 윌은 혼란스러웠지만 이내 마음을 정리했죠 쇼와의 상담도 하지 않고 다시 공사장으로 돌아가 평생 건설 노동자로 일하며 살기로 했는데요 그런데 윌의 재능을 아끼는 건 램보 교수만이 아니었죠 남들이 가질 수 없는 재능을 가지고도 공사장에서 일만 한다는 건 모두를 모욕하는 것이라 말하는데요 윌은 쇼를 다시 찾아왔습니다 자신이 학대를 당한 사실을 솔직히 털어놓았고 스카일라와 헤어진 사실도 이야기했습니다 쇼는 학대를 당한 것도 불안함으로 스카일라와 헤어진 것도 이 모든 것들이 다 윌의 잘못이 아니라고 말해주었죠 [웃음] 윌의 사과는 누구에게 용서를 구하는 사과일까요 그는 램보 교수가 추천해준 회사를 다시 찾았고 취직을 하게 되었습니다 쇼와의 상담도 이제 끝이 났죠 윌은 쇼에게 연락처를 주며 언제든 연락하라 말하면서 곧 여행을 떠날 거라 알려줍니다 쇼도 세상을 좀 더 탐험하고 싶었다고 하죠 그리고 마지막으로 윌에게 이렇게 [음악] 이야기합니다 첫 취업 기념으로 친구들에게 차를 선물받은 윌 이제 좋은 회사에서 본인의 천재적인 두뇌를 자랑하며 일을 할 수 있게 되었지만 윌의 마음은 어딘지 모르게 개운치 않았죠 화를 냈던 램보의 말대로 윌은 취직을 했고 쇼의 상담으로 윌은 많은 치유를 얻었으니 두 교수의 지도 덕분에 한 아이의 인생이 변할 수 있었죠 그리고 여행을 떠날 준비를 하는 쇼에게 윌이 찾아옵니다 그런데 그를 직접 만나러 가지 않고 문 앞에 편지만 두고 사라지는데요 집을 방문한 친구도 그를 찾을 수 없습니다 문을 몇 번 두드려 봐도 대답이 없었고 창문 너머로 보이는 윌의 집은 텅텅 비어 있었죠 하지만 당황해 하거나 걱정하지 않았습니다 무언가 짐작을 하는 듯한데요 윌은 회사가 아닌 스카일라를 보기 위해 친구들이 선물한 차를 타고 태어나서 처음으로 보스턴을 떠납니다 누구나 크고 작은 마음의 상처를 가지고 살아가죠 물론 이런 상처가 오랜 시간이 지나도 그 흔적이 남아 우리의 삶에 부정적인 영향을 끼치기도 하는데요 하지만 윌에게는 사랑하는 사람과 진정한 친구 그리고 두 교수가 있었듯이 불완전한 사람들이 만나 서로의 부족함을 채워주다 보면 그냥 그렇게 살아나갈 수 있는 것 아닐까요 지금까지 비디오보는 남자였습니다",
+  "movie_id": "굿윌헌팅",
+  "reviewer": "비디오보는남자",
+  "chunk_index": 3,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "윌",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "윌은 천재적인 두뇌를 가졌지만 어린 시절 학대를 당한 상처를 가진 인물로, 공사장에서 일하다가 램보 교수와 쇼의 도움으로 치유를 받고 스카일라를 찾아 보스턴을 떠나는 주인공이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "램보",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "램보는 윌의 수학적 재능을 발견하고 아끼는 교수로, 윌에게 회사를 추천해주고 취직을 돕는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "쇼",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "쇼는 윌의 아픔을 이해하고 상담을 통해 치유를 도와주는 교수로, 윌에게 학대받은 것이 그의 잘못이 아니라고 말해주는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "스카일라",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "스카일라는 윌의 연인으로, 샌프란시스코로 혼자 떠났다가 영화 마지막에 윌이 찾아가는 대상이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "굿 윌 헌팅",
+      "entity_type": "MOVIE",
+      "entity_description": "굿 윌 헌팅은 천재적인 재능을 가진 청년 윌이 마음의 상처를 치유하고 사랑을 찾아가는 이야기를 다룬 영화이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "비디오보는 남자",
+      "entity_type": "REVIEWER",
+      "entity_description": "비디오보는 남자는 영화 굿 윌 헌팅을 리뷰하는 유튜버 또는 영상 크리에이터이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "윌",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "굿 윌 헌팅",
+      "target_type": "MOVIE",
+      "relationship_description": "윌은 굿 윌 헌팅의 주인공이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "램보",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "굿 윌 헌팅",
+      "target_type": "MOVIE",
+      "relationship_description": "램보는 굿 윌 헌팅에 등장하는 교수 캐릭터이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "쇼",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "굿 윌 헌팅",
+      "target_type": "MOVIE",
+      "relationship_description": "쇼는 굿 윌 헌팅에 등장하는 상담 교수 캐릭터이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "스카일라",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "굿 윌 헌팅",
+      "target_type": "MOVIE",
+      "relationship_description": "스카일라는 굿 윌 헌팅에 등장하는 윌의 연인 캐릭터이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "램보",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "윌",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "램보는 윌의 수학적 재능을 발견하고 아끼며 회사를 추천해준다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "쇼",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "윌",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "쇼는 윌의 상담을 맡아 마음의 상처를 치유하도록 도와준다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "윌",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "스카일라",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "윌과 스카일라는 연인 관계로, 윌은 마지막에 스카일라를 찾아 보스턴을 떠난다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "비디오보는 남자",
+      "source_type": "REVIEWER",
+      "target_entity": "굿 윌 헌팅",
+      "target_type": "MOVIE",
+      "relationship_description": "비디오보는 남자는 굿 윌 헌팅을 리뷰하고 해설한다",
+      "relationship_strength": 7
+    }
+  ],
+  "entity_resolution": {
+    "윌": {
+      "description": "윌 -> 윌 헌팅",
+      "resolved_name": "윌 헌팅",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "램보": {
+      "description": "램보 -> 제랄드 램보",
+      "resolved_name": "제랄드 램보",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "쇼": {
+      "description": "쇼 -> 헤티 쇼",
+      "resolved_name": "헤티 쇼",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "스카일라": {
+      "description": "스카일라 -> Skylar",
+      "resolved_name": "Skylar",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "굿 윌 헌팅": {
+      "description": "굿 윌 헌팅 -> 굿윌헌팅",
+      "resolved_name": "굿윌헌팅",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "비디오보는 남자": {
+      "description": "비디오보는 남자 -> 비디오보는남자",
+      "resolved_name": "비디오보는남자",
+      "entity_type": "REVIEWER",
+      "matched": true,
+      "match_type": "name_exact"
+    }
+  }
+}

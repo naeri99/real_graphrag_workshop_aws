@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "케이코 세이코",
+    "synonym": [
+      "Keiko",
+      "Keiko Seiko",
+      "게이코",
+      "게이코 세이코",
+      "세이코",
+      "케이코",
+      "케이코 세이코",
+      "케이코세이코"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "케이코 세이코은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "빅터 레빈",
+    "synonym": [
+      "Victor Levin",
+      "Victor Levin 감독",
+      "레빈",
+      "빅터",
+      "빅터 레반",
+      "빅터 레번",
+      "빅터 레빈",
+      "빅터 레빈 감독",
+      "빅터레빈",
+      "빅토르 레빈",
+      "빅토르레빈"
+    ],
+    "entity_type": "MOVIE_STAFF",
+    "summary": "빅터 레빈은 영화 감독입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

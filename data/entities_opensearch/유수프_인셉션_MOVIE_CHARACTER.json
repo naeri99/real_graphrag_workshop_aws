@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "유수프",
+    "synonym": [
+      "Yusuf",
+      "유서프",
+      "유셉",
+      "유수프",
+      "유수프 박사",
+      "유수프 화학자",
+      "유숩",
+      "유스프"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "유수프은 영화 '인셉션'의 등장인물로, 딜립 라오이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

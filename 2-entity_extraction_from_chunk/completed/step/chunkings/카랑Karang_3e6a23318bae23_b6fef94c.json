@@ -1,0 +1,133 @@
+{
+  "chunk_hash": "3e6a23318bae23",
+  "chunk_id": "카랑Karang_3e6a23318bae23_b6fef94c",
+  "user_query": "I now own Mainland Bank and we intend to change the bank's policies regarding loans thanks to you a loan bought two new piece of equipment doubled our revenue in three months you knew I was going to start signing off on loans directly to jump start things I haven't seen that many viable applicants in one week since I've worked at this bank where are you finding all these people we're casting a wide net um Florence discovered black loans he's been worrying me from the beginning now he's watching me like a hawk any reason why yeah he had dreams of being the boss not reporting to some guy from California 10 years younger than him you started with them you said they were going to make you a partner yeah and a partner isn't on a salary a partner's an owner isn't that what you always told me you wanted to be and I will be on the next bank we buy what you must be Bernard Garrett you're Joe Morris would you follow me here just trying to understand who really owns my bank you boys are famous that's you and Vice President Johnson if I'm not mistaken images but if this town found out that not only was their bank regularly making loans it was actually owned by two of them there'd be a run on the bank the boys think you're so smart oh we are we're a couple colored boys you couldn't just make a loan here there to your kind you had to make 19 of them right off the bat they're moving our yearly inspection up two quarters that's a month from now because of anonymous reports we're making",
+  "movie_id": "뱅크어택",
+  "reviewer": "카랑Karang",
+  "chunk_index": 10,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "MAINLAND BANK",
+      "entity_type": "MOVIE",
+      "entity_description": "Mainland Bank는 영화에서 주인공들이 소유하게 되는 은행이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "BERNARD GARRETT",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Bernard Garrett은 캘리포니아 출신으로 은행을 소유하고 대출 정책을 변경하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "JOE MORRIS",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Joe Morris는 Bernard Garrett과 함께 은행을 소유한 파트너로, Bernard를 추적해온 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "FLORENCE",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Florence는 흑인 대출 건을 발견하고 Bernard를 매의 눈으로 감시하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "VICE PRESIDENT JOHNSON",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Vice President Johnson은 Bernard Garrett과 함께 사진에 등장하는 부통령이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "BERNARD GARRETT",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "MAINLAND BANK",
+      "target_type": "MOVIE",
+      "relationship_description": "Bernard Garrett은 Mainland Bank를 소유하고 대출 정책을 변경한다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "JOE MORRIS",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "MAINLAND BANK",
+      "target_type": "MOVIE",
+      "relationship_description": "Joe Morris는 Mainland Bank의 공동 소유자이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "BERNARD GARRETT",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "JOE MORRIS",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Bernard Garrett과 Joe Morris는 은행을 함께 소유한 파트너 관계이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "FLORENCE",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "BERNARD GARRETT",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Florence는 흑인 대출 건을 발견하고 Bernard를 감시한다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "FLORENCE",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "MAINLAND BANK",
+      "target_type": "MOVIE",
+      "relationship_description": "Florence는 Mainland Bank에서 일하며 흑인 대출 건을 발견한다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "BERNARD GARRETT",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "VICE PRESIDENT JOHNSON",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Bernard Garrett은 Vice President Johnson과 함께 사진에 등장하여 유명해졌다",
+      "relationship_strength": 6
+    }
+  ],
+  "entity_resolution": {
+    "MAINLAND BANK": {
+      "description": "MAINLAND BANK -> MAINLAND BANK",
+      "resolved_name": "MAINLAND BANK",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "BERNARD GARRETT": {
+      "description": "BERNARD GARRETT -> BERNARD GARRETT",
+      "resolved_name": "BERNARD GARRETT",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "JOE MORRIS": {
+      "description": "JOE MORRIS -> JOE MORRIS",
+      "resolved_name": "JOE MORRIS",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "FLORENCE": {
+      "description": "FLORENCE -> FLORENCE",
+      "resolved_name": "FLORENCE",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "VICE PRESIDENT JOHNSON": {
+      "description": "VICE PRESIDENT JOHNSON -> VICE PRESIDENT JOHNSON",
+      "resolved_name": "VICE PRESIDENT JOHNSON",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

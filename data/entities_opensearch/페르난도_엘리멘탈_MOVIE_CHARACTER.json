@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "페르난도",
+    "synonym": [
+      "Fernanda",
+      "Fernando",
+      "퍼난도",
+      "페르난다",
+      "페르난도",
+      "페르난도 캐릭터",
+      "페르난두",
+      "훼르난도"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "페르난도은 영화 '엘리멘탈'의 등장인물로, 클라라 브라보이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

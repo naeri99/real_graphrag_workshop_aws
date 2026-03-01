@@ -1,0 +1,13 @@
+{
+  "entity": {
+    "name": "딩고_무비_dingo_movie",
+    "synonym": [
+      "딩고_무비_dingo_movie",
+      "딩고 무비 dingo movie"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "딩고_무비_dingo_movie은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

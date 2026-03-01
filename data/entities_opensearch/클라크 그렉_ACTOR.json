@@ -1,0 +1,28 @@
+{
+  "entity": {
+    "name": "클라크 그렉",
+    "synonym": [
+      "Arthur C. Clarke",
+      "Arthur Clarke",
+      "Clark Gregg",
+      "Greg",
+      "그랙",
+      "그레그",
+      "그렉",
+      "아서 C. 클라크",
+      "아서클라크",
+      "클라크",
+      "클라크 그레그",
+      "클라크 그렉",
+      "클라크그렉",
+      "클락 그레그",
+      "클락 그렉",
+      "클락그레그",
+      "클락그렉"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "클라크 그렉은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

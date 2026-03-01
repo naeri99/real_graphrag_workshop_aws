@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "베스 그랜트",
+    "synonym": [
+      "Beth Grande",
+      "Beth Grant",
+      "그랜트",
+      "베스",
+      "베스 그란트",
+      "베스 그랜트",
+      "베스그랜트",
+      "베쓰 그랜트"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "베스 그랜트은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

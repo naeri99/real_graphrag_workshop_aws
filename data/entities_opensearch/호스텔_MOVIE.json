@@ -1,0 +1,25 @@
+{
+  "entity": {
+    "name": "호스텔",
+    "synonym": [
+      "Hostel",
+      "Hostel 2005",
+      "Hostel: Part I",
+      "호스탤",
+      "호스텔",
+      "호스텔 1",
+      "호스텔 2005",
+      "호스텔1",
+      "호스텔: 사냥의 시작",
+      "호스텔: 죽음의 숙소",
+      "호스텔: 지옥의 문",
+      "호스텔: 지옥의 여관",
+      "호스텔: 파트 1",
+      "호스틀"
+    ],
+    "entity_type": "MOVIE",
+    "summary": "호스텔",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

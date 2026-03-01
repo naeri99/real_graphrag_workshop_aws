@@ -1,0 +1,120 @@
+{
+  "chunk_hash": "2c0d525196c817",
+  "chunk_id": "오티티_-_OTT_2c0d525196c817_86509bca",
+  "user_query": "도와줍니다. 그러던 어느 날 밤 야, 이불도 좀 깔아라. 대학생도 없냐? 위층 승이의 방 인터넷 선을 빌려서 하숙집 룸메이트들과 야한 영상을 보던 그때 경찰입니다. 갑자기 경찰이 들이닥치는데요. 너 나랑 같이 좀 가자. 아, 왜 그러시는데요? 우연을 데리고 갑니다. 그리고 우연뿐만이 아니라 승이까지 잡혀가는데요. 진짜 다운로드 걸리는 거구나. 아, 승 선배 IP 추적한겨. 영상 불법 다운로드가 걸린 듯했죠. 저질 괜히 승이만 봉변을 당한 상황. 아저씨 아이고 혈기 왕성한 애들이 호기심에 다가 내 외숙과 한다니까. 솔직히 할 수 그랬잖아요. 경찰을 회유해 보려고 하지만 이 새끼가 경찰을 놀려보고 당연히 소용 없었고. 너네 할아버지 할머니 연락처도 돼. 할아버지 할머니요? 다 돌아가셨는데 갑자기 조부모님에 대해 묻는데요. 내가 방금 봤는데 뭘 돌아가지? 너 그러다 아버지도 모른다고 하겠다. 왜? 저 아빠랑 2년 끊고 살아요. 그 뭐 죄예요? 근데 왜 아빠는 왜 물어보시는데요? 게다가 연을 끊은 아버지까지. 돈 얼마나 받았어? 뭔가 이상합니다. 야, 너 그거 돈 받고 부린 거잖아? 야, 아니야. 아니야. 나 진짜 돈 안 받았어, 이거. 야, 야, 이거. 야, 야, 그거라니. 사실 두 사람은 여기여 여기 돈 받잖아요. 돈 돈. 차 떼기 절도단이여. 저런 노인네들인 줄 누가 알았겠냐? 지난번 도와줬던 노인들이 절도단이라는 사실이 밝혀져 잡혀온 것이었죠. 그렇게 오해가 풀리고 노인네들 지금 잡혀서 호송 중이라니까. 기다려 봐. 넌 여자한테 그렇게 졸 떨어도 즐겁냐? 그리고 모처럼 둘만 있게 된 우연은 윤근이랑 어디가 좋아? 궁금한 것을 물어보는데요. 더 선에게 들어봤어. 승이에게 윤근은 사람을 보고 아이 이 사람이구나 싶은 순간이 3초래. 운명 같은 첫 만남으로 다가왔습니다. 내가 수시 시험 보는 날 수험표를 터트렸는데 아직 입학하기 전 3초 해 봐요. 윤근을 보고 첫눈에 반했던 승이 그때가 딱 3초였어. 그렇게 절망에 빠지게 되는 우연. 마이갓. 오마이갓. 저 금발 누구지? 헬로 헬로. 저것들은 오늘 같은 날 전화는 그냥 부모님께 가야 되니 안 들을 수. 그런데 오늘은 오늘 어버이날이냐? 바로 어버이날 승이의 생일입니다. 교집합이었구나. 선물을 주기 위해 승이를 찾아가는데요. 하지만 어때? 예뻐. 승이는 윤근과 함께 있었죠. 그렇게 우연은 그 뒤로 승이를 찾아가지 않습니다. 아, 저렇게 누워 있을 거면 그냥 서울역에 가든지. 그러던 어느 날 그 얼룩 좀 어떻게 하지? 빨래 잘못 돌린 옷을 매일 입고 다니는 우연이. 야 뭐 마음에 걸렸던 승이는 의상학과의 실력으로 옷을 수선해 줍니다. 그런데 며칠 뒤 하버드랑 런던의 친구들이 좀 있어. 도서관에서 우연히 윤근을 만나 너도 갈래? 근데 유럽 비싸잖아요. 네가 그런 걱정을 왜 하니? 내 게스트데. 그가 쓰레기였다는 사실을 알게 됩니다. 땡 곧 시합이 다가오고 우리 이러다가 진짜 우승하는 거 아니에요? 한국대팀은 승승장구하는데요. 실은 이번 대회 내기 걸었거든. 이 대회에 돈 말고 승이한테 우승하면",
+  "movie_id": "너의 결혼식",
+  "reviewer": "오티티_-_OTT",
+  "chunk_index": 6,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "우연",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "우연은 하숙집에 사는 대학생으로, 승이를 좋아하지만 승이가 윤근과 함께 있는 것을 보고 절망에 빠지는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "승이",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "승이는 의상학과 학생으로, 윤근을 첫눈에 보고 반했으며, 우연의 옷을 수선해주는 등 배려심 있는 인물이다. 어버이날이 생일이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "윤근",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "윤근은 승이가 좋아하는 인물로, 하버드와 런던에 친구들이 있다고 말하며 유럽 여행을 제안하는 등 부유한 척하지만 실제로는 문제가 있는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "더선",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "더선은 승이에 대한 정보를 우연에게 알려주는 인물이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "우연",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "승이",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "우연은 승이를 좋아하며, 승이의 생일에 선물을 주려고 찾아간다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "승이",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "윤근",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "승이는 윤근을 첫눈에 보고 3초 만에 반했으며, 운명적인 만남으로 여긴다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "승이",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "우연",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "승이는 우연의 얼룩진 옷을 의상학과 실력으로 수선해준다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "윤근",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "우연",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "우연은 도서관에서 윤근을 만나 그가 좋지 않은 사람이라는 것을 알게 된다",
+      "relationship_strength": 6
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "더선",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "우연",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "더선은 우연에게 승이가 윤근을 좋아하게 된 계기를 알려준다",
+      "relationship_strength": 5
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "우연",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "승이",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "우연은 승이가 윤근과 함께 있는 것을 본 후 승이를 찾아가지 않는다",
+      "relationship_strength": 7
+    }
+  ],
+  "entity_resolution": {
+    "우연": {
+      "description": "우연 -> 우연",
+      "resolved_name": "우연",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "승이": {
+      "description": "승이 -> 승희",
+      "resolved_name": "승희",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "윤근": {
+      "description": "윤근 -> 옥근남",
+      "resolved_name": "옥근남",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "더선": {
+      "description": "더선 -> 더선",
+      "resolved_name": "더선",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

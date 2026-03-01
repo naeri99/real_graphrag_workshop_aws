@@ -1,0 +1,18 @@
+{
+  "entity": {
+    "name": "케이트 베킨세일",
+    "synonym": [
+      "Beckinsale",
+      "Kate Beckin Sale",
+      "Kate Beckinsale",
+      "베킨세일",
+      "케이트 베킨세일",
+      "케이트베킨세일",
+      "케잇 베킨세일"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "케이트 베킨세일은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "entity": {
+    "name": "첸 수",
+    "synonym": [
+      "Chen",
+      "Chen Shu",
+      "Shu",
+      "수",
+      "진 수",
+      "진 슈",
+      "천 수",
+      "천 슈",
+      "천수",
+      "첸 수",
+      "첸수",
+      "첸슈"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "첸 수은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

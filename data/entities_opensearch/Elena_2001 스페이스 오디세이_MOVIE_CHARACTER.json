@@ -1,0 +1,17 @@
+{
+  "entity": {
+    "name": "Elena",
+    "synonym": [
+      "Elena",
+      "엘라나",
+      "엘레나",
+      "엘레나 박사",
+      "엘렌나",
+      "엘리나"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "Elena은 영화 '2001 스페이스 오디세이'의 등장인물로, 마가렛 타이잭이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

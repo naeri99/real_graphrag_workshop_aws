@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "마이클 키친",
+    "synonym": [
+      "Michael Kitchen",
+      "마이클",
+      "마이클 키첸",
+      "마이클 키친",
+      "마이클 키틴",
+      "마이클키첸",
+      "마이클키친",
+      "키첸",
+      "키친"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "마이클 키친은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

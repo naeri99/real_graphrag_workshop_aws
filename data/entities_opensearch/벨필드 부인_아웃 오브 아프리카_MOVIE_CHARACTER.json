@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "벨필드 부인",
+    "synonym": [
+      "Lady Belfield",
+      "레이디 벨필드",
+      "벨필드",
+      "벨필드 레이디",
+      "벨필드 부인",
+      "벨필드 여사",
+      "벨필드부인",
+      "벨필드여사"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "벨필드 부인은 영화 '아웃 오브 아프리카'의 등장인물로, 레이첼 켐프슨이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

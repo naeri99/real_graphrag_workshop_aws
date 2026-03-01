@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "크림",
+    "synonym": [
+      "Cream",
+      "여주인공 크림",
+      "크리미",
+      "크림",
+      "크림 캐릭터",
+      "크림씨",
+      "크림양",
+      "크림역"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "크림은 영화 '슬픔보다 더 슬픈 이야기'의 등장인물로, 이보영이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

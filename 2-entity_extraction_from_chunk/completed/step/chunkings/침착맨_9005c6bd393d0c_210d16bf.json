@@ -1,0 +1,213 @@
+{
+  "chunk_hash": "9005c6bd393d0c",
+  "chunk_id": "침착맨_9005c6bd393d0c_210d16bf",
+  "user_query": "막 가고일 석상 막 이런 거 있고 홀렁치해 안에는 다 석조로 돼 있어 막 시꺼매 안에가 막 막 다 촛불 키고 다녀 그리고 막 그래가지고 이제 여기서 묵으시면 된다고 이 파티가 3일 동안 열릴 거라고 방을 안내해 줬어요 방도 엄청 고딕풍이야 근데 거울이 없어 거울은 뭐 얼마 전에 깨져 가지고 지금 주문해 놨습니다 막 이래 이상하지 않아요 이상해 이상하죠 거울 없어 어 맨션 주인이 와요 완전 꽃미남이야 엄청난 부를 가지고 있는데 예의도 바라 완전 신사야 젠틀맨 어 악센트가 완전 영국 악센트 너무 매너 있어 그래서 막 주인공하고 처음에 사소한 트러블이 있었는데 밤에 사과를 하러 와요 방에 딱 와 가지고 응 죄송합니다 이 여자애도 약간 좀 마 마음이 누그러지지 그러면서 이제 벌어지는 일이죠 아 예 그러면서 반전이 있구나 그런데 말입니다 아 반전이 있죠 이제 여기까지 또 반전을 말하면 안 되니까 아 그렇죠 그렇죠 그렇죠 뭔가 궁금해진다 저도 그거 그거 봤었어요 그런 비슷한 거 꼬마 남자 여자애가 할머니 댁에 아 방학 봤어 봤어 나도 라이트 샤말란 감독이잖아 어 야 맞아서 야추 더 비지트 너무 재밌잖아 그거 나 너무 기분 나빠 응 그 재밌다고 아 재밌지 재밌는데 너무 기분 나빠 그 친구가 그 상영회 했어 우리 안산 친구들 모여 가지고 우리는 오늘 만났으니까 식사를 하고 영화 상영회가 있으니까 같이 이걸 보고 맥주를 마시고 헤어진다 다 짜 놨어 집 주인이 오늘 내가 준비한 영화는 더 비지트다 처음에는 잘못 헷갈려 가지고 딴 걸 봤어 딴 거 보다가 어 이거 아닌데 이런 장면 있었나 하다가 걔가 어 딴 거 딴 거였다고 그래서 비지트를 봤는데 아 너무 기분 나빠 진짜 불쾌해 엄마가 아들하고 딸이 있어 초딩들이야 살면서 외할머니 외할아버지를 이제 보지 못한 거예요 그래 가지고 초대를 받았어 시골에 외할아버지 집에 엄마는 이제 아빠가 이제 안 계신데 이제 새 남자친구랑 좀 놀러 가고 너희들은 이제 외할머니 댁에서 방학을 좀 보내고 오렴 하고 이제 보냈어 그래 가지고 이상한 일들이 일어나 막 여기까지 막 그게 얘기할 수 없겠네요 예 이런 게 일어나 엄마의 뿌리를 찾아서 그게 학교 숙제일 거야 그래서 엄마의 뿌리를 찾아서 할머니 할아버지를 처음 만난 거지 그래서 거기 할머니 댁에 도착하니까 이렇게 마중 나왔어 너무 그 이쁜 할머니의 잘생긴 할아버지 음식도 막 하고 막 하게 야게 막 다 배려해 주고 해서 계속 촬영을 한단 말이야 왜냐면 기록을 남기려고 숙제가 그래서 딱 했는데 갑자기 할머니가 막 이러면서 쫓아와 응 우리 밑에서 막 이 뭐 빠게 어 깜짝 놀랐어 이거 어떻게 된 거 여기 애들 다 놀랐는데 할아버지가 가끔씩 치매가 있어서 아프다 이해를 해 달라니까 아이 알았어 해 가지고 했는데 저녁이 됐어 막 막 긁는 소리가 들려 살짝 여러분한테 할머니가 나처럼 막 막이 긁고 다니는 거야 애들이 완전 초딩이거든 초딩이 완전 깜짝 놀러 물 닫고 이거 어떻게 해야 되나 이런 상황들이 막 만들어지고 어느 날 이제 할아버지가 막 나와 가지고 막 나오는데 어 뭐야 그래서",
+  "movie_id": "미드소마",
+  "reviewer": "침착맨",
+  "chunk_index": 2,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "더 비지트",
+      "entity_type": "MOVIE",
+      "entity_description": "더 비지트는 초등학생 남매가 외할머니 댁에 방학을 보내러 갔다가 이상한 일들을 겪는 공포/스릴러 영화이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "라이트 샤말란",
+      "entity_type": "MOVIE_STAFF",
+      "entity_description": "라이트 샤말란은 더 비지트의 감독이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "할머니",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "할머니는 더 비지트에서 외손주들을 맞이하는 인물로, 밤에 이상한 행동을 하며 아이들을 놀라게 한다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "할아버지",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "할아버지는 더 비지트에서 할머니와 함께 사는 인물로, 치매가 있다고 설명되며 이상한 행동을 보인다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "엄마",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "엄마는 더 비지트에서 아들과 딸을 외할머니 댁에 보내고 새 남자친구와 여행을 떠나는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "아들",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "아들은 더 비지트에서 누나와 함께 외할머니 댁에 방학을 보내러 간 초등학생이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "딸",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "딸은 더 비지트에서 동생과 함께 외할머니 댁에 가서 엄마의 뿌리를 찾는 숙제를 위해 촬영을 하는 초등학생이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "라이트 샤말란",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "더 비지트",
+      "target_type": "MOVIE",
+      "relationship_description": "라이트 샤말란은 더 비지트를 감독했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "할머니",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "더 비지트",
+      "target_type": "MOVIE",
+      "relationship_description": "할머니는 더 비지트의 주요 등장인물이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "할아버지",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "더 비지트",
+      "target_type": "MOVIE",
+      "relationship_description": "할아버지는 더 비지트의 주요 등장인물이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "엄마",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "더 비지트",
+      "target_type": "MOVIE",
+      "relationship_description": "엄마는 더 비지트의 등장인물이다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "아들",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "더 비지트",
+      "target_type": "MOVIE",
+      "relationship_description": "아들은 더 비지트의 주인공 중 한 명이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "딸",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "더 비지트",
+      "target_type": "MOVIE",
+      "relationship_description": "딸은 더 비지트의 주인공 중 한 명이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "할머니",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "할아버지",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "할머니와 할아버지는 함께 사는 부부이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "아들",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "딸",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "아들과 딸은 남매 관계이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "엄마",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "아들",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "엄마는 아들의 어머니이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "엄마",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "딸",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "엄마는 딸의 어머니이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "엄마",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "할머니",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "할머니는 엄마의 어머니(외할머니)로 설명된다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "엄마",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "할아버지",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "할아버지는 엄마의 아버지(외할아버지)로 설명된다",
+      "relationship_strength": 9
+    }
+  ],
+  "entity_resolution": {
+    "더 비지트": {
+      "description": "더 비지트 -> 더 비지트",
+      "resolved_name": "더 비지트",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "라이트 샤말란": {
+      "description": "라이트 샤말란 -> 라이트 샤말란",
+      "resolved_name": "라이트 샤말란",
+      "entity_type": "MOVIE_STAFF",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "할머니": {
+      "description": "할머니 -> 할머니",
+      "resolved_name": "할머니",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "할아버지": {
+      "description": "할아버지 -> 다도 할아버지",
+      "resolved_name": "다도 할아버지",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "엄마": {
+      "description": "엄마 -> 라일리의 엄마",
+      "resolved_name": "라일리의 엄마",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "아들": {
+      "description": "아들 -> 황태술 아들",
+      "resolved_name": "황태술 아들",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "딸": {
+      "description": "딸 -> 족장의 딸",
+      "resolved_name": "족장의 딸",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    }
+  }
+}

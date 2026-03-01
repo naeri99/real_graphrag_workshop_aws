@@ -1,0 +1,13 @@
+{
+  "entity": {
+    "name": "팟빵_최욱의_매불쇼",
+    "synonym": [
+      "팟빵_최욱의_매불쇼",
+      "팟빵 최욱의 매불쇼"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "팟빵_최욱의_매불쇼은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

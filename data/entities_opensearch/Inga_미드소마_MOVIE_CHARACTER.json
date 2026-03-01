@@ -1,0 +1,17 @@
+{
+  "entity": {
+    "name": "Inga",
+    "synonym": [
+      "Inga",
+      "인가",
+      "잉가",
+      "잉가아",
+      "잉거",
+      "잉아"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "Inga은 영화 '미드소마'의 등장인물로, 줄리아 라그나르손이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "chunk_hash": "a09e848914c894",
+  "chunk_id": "정신과의사_뇌부자들_a09e848914c894_d3922f0f",
+  "user_query": "완벽해야 되는 나라는 존재에 스크래치가 난 거 감히 너들이 나를 자기적 손상인 거죠 그렇죠 최고고 최고여야 하는 강박적이고 통제적인 성향의 사람이다 나르시시스트 같긴 해요 고고하게 살아남기 위해서 더 과대한 자기를 만들어 내고 장신구를 고르듯이 나를 더 빛나게 해줄 하나의 아이템으로서 선택한 거 같은 피해자처럼 이야기를 해서 상대방으로 하여금 나를 더 얻고 싶게 만드는 가장 두껍고 복잡한 가면을 쓰고 있지 않나 아 영화가 평범하지 않아요 아 그러니까 도파민 뿌린다 불쇼 확한 느낌이구나 너 우리 집에 어떻게 들어온 [음악] 거야 나야 성진 씨 나 지금 다시 떠나는 중이야 베를린 우동훈 선생님 히든페이스 영화 재밌게 봤어요 아 재밌었어요 진짜네 도파민의 향연이다 이렇게 좀 말하고 싶었어요 저는 형이랑 둘이 봐서 좀 어색했는데 근데 이제 나오면서 계속 했던 얘기가 지루할 틈이 없다 그러니까 진짜 처음부터 끝까지 잡아준다 스크린에 두 시간 동안 이 정도로 몰입되는 경험을 해본 건 너무 오랜만인 거 같아 정말 자극적인 요소들을 이제 적재적소에 루즈하지 않아 그러니까 끝까지 어 어어 맞아요 이쯤 끝나나 했는데 다시 몰아쳐 하여튼 너무 재밌게 봤는데요 맞습니다네 그래서 오늘 해부자 더 코너에서는 바로 저희가 방금 언급한 작품인 히든 페이스를 가지고 이야기를 나눠 보려고 해요네 저희가 또 워낙 해부자 통해서 굉장히 심도 있고 또 밀도 있는 분석을 해내지 않았습니까 저희가 워낙 잘하다 보니까 영화사에서도 우리 영화를 한번 분석해 달라고 의뢰가 들어오셨어요네 근데 또 때마침 그 작품이 굉장히 재밌고 훌륭한 작품이었어 맞아요 예 음 일단은 이 히든 페이스의 감독이 누구인지가 중요합니다 바로 김대우 감독입니다네 김대우 감독님 작품 보신 적 있나요 본 적 있죠네 어떤 작품을 좋아하죠 뭐 방자전 인간 중독 다 훌륭한 작품들이죠네 허경영 굉장히 즐겨본 작품으로 알고 있는데 어쨌든 이렇게 좀 이 작품들의 공통적인 부분들이 금기된 사랑이라든가 입체적인 관계를 통해서 그려낸 그런 작품들을 주로 하셨던 분입니다네 이번 작품에서도 역시나 예 이 세 사람이 등장을 해요 이 세 사람의 서로 엇갈린 욕망들이 화려하게 도파민을 뿜으면서 펼쳐진다 이게 바로 히든페이스네 나 지금 다시 떠나는 중이야 베를린으로 나도 잘 모르겠어 성진 씨와의 관계가 확신이 없어 이 히든 페이스는 한 여성이 카메라를 보면서 영상 편지를 남기는 장면으로 시작을 합니다 바로 오케스트라의 첼리스트인 수연이 수연은 이 오케스트라의 지휘자인 성진과 약혼 관계 있죠 어머니는 단장이 그렇죠 근데 어떤 이유에선지 영상 편지 속에서 그녀는 아 나는 이제 성진 씨를 더 이상 견디지 못할 것 같아 떠나겠다는 메시지를 남깁니다 내가 원래 있던 유럽으로 돌아가겠어라고 하고 실제로 사라지죠네 흔적도 없이 사라집니다 예 수연이 사라지고 난 다음에 이 성진은 굉장히 좀 괴로워하는데 이 오케스트라의 첼리스트 자리를 계속 비워둘 수는 없잖아요 공연이 다가오고 있으니까 이때 수연의 후배인 미주가 나타납니다 수연에게 소개를 받았다라고",
+  "movie_id": "히든페이스",
+  "reviewer": "정신과의사_뇌부자들",
+  "chunk_index": 1,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "히든페이스",
+      "entity_type": "MOVIE",
+      "entity_description": "히든페이스는 세 사람의 엇갈린 욕망을 화려하게 그려낸 영화로, 오케스트라를 배경으로 금기된 사랑과 입체적인 관계를 다룬 작품이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "김대우",
+      "entity_type": "MOVIE_STAFF",
+      "entity_description": "김대우는 히든페이스의 감독으로, 방자전, 인간중독 등 금기된 사랑과 입체적인 관계를 다룬 작품들을 연출한 감독이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "수연",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "수연은 오케스트라의 첼리스트로 지휘자 성진과 약혼 관계에 있으며, 영상 편지를 남기고 유럽으로 떠나겠다며 사라지는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "성진",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "성진은 오케스트라의 지휘자로 수연과 약혼 관계에 있으며, 수연이 사라진 후 괴로워하는 인물이다. 최고여야 하는 강박적이고 통제적인 성향의 나르시시스트적 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "미주",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "미주는 수연의 후배로, 수연이 사라진 후 오케스트라의 첼리스트 자리를 대신하기 위해 나타나는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "우동훈",
+      "entity_type": "REVIEWER",
+      "entity_description": "우동훈은 히든페이스를 재밌게 봤다고 평가하며 영화를 분석하는 리뷰어이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "김대우",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "히든페이스",
+      "target_type": "MOVIE",
+      "relationship_description": "김대우는 히든페이스를 연출한 감독이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "수연",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "히든페이스",
+      "target_type": "MOVIE",
+      "relationship_description": "수연은 히든페이스의 주요 등장인물이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "성진",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "히든페이스",
+      "target_type": "MOVIE",
+      "relationship_description": "성진은 히든페이스의 주요 등장인물이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "미주",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "히든페이스",
+      "target_type": "MOVIE",
+      "relationship_description": "미주는 히든페이스의 주요 등장인물이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "수연",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "성진",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "수연과 성진은 약혼 관계이며, 수연은 성진과의 관계에 확신이 없어 떠난다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "수연",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "미주",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "미주는 수연의 후배로, 수연에게 소개를 받아 오케스트라에 나타난다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "미주",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "성진",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "미주는 수연이 사라진 후 성진이 있는 오케스트라에 합류한다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "우동훈",
+      "source_type": "REVIEWER",
+      "target_entity": "히든페이스",
+      "target_type": "MOVIE",
+      "relationship_description": "우동훈은 히든페이스를 재밌게 봤다고 평가하며 도파민의 향연이라고 표현했다",
+      "relationship_strength": 8
+    }
+  ],
+  "entity_resolution": {
+    "히든페이스": {
+      "description": "히든페이스 -> 히든페이스",
+      "resolved_name": "히든페이스",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "김대우": {
+      "description": "김대우 -> 김대우",
+      "resolved_name": "김대우",
+      "entity_type": "MOVIE_STAFF",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "수연": {
+      "description": "수연 -> 수연 친구2",
+      "resolved_name": "수연 친구2",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "성진": {
+      "description": "성진 -> 성진의 어머니",
+      "resolved_name": "성진의 어머니",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "미주": {
+      "description": "미주 -> 미주",
+      "resolved_name": "미주",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "우동훈": {
+      "description": "우동훈 -> 우동훈",
+      "resolved_name": "우동훈",
+      "entity_type": "REVIEWER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

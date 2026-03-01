@@ -1,0 +1,18 @@
+{
+  "entity": {
+    "name": "피터 신코다",
+    "synonym": [
+      "Peter Shinkoda",
+      "신코다",
+      "피터",
+      "피터 신코다",
+      "피터 싱코다",
+      "피터신코다",
+      "피터싱코다"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "피터 신코다은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

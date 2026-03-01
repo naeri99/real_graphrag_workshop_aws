@@ -1,0 +1,23 @@
+{
+  "entity": {
+    "name": "마크 펠링톤",
+    "synonym": [
+      "Mark",
+      "Mark Pellington",
+      "마크",
+      "마크 펠린턴",
+      "마크 펠린톤",
+      "마크 펠링턴",
+      "마크 펠링톤",
+      "마크 펠링튼",
+      "마크펠링턴",
+      "마크펠링톤",
+      "막 펠링톤",
+      "펠링톤"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "마크 펠링톤은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

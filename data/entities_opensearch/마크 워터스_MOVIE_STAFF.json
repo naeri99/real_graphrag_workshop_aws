@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "마크 워터스",
+    "synonym": [
+      "Mark S. Waters",
+      "Mark Waters",
+      "마크 워터스",
+      "마크 워터스 감독",
+      "마크 워터즈",
+      "마크워터스",
+      "마크워터즈",
+      "워터스 감독"
+    ],
+    "entity_type": "MOVIE_STAFF",
+    "summary": "마크 워터스은 영화 감독입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

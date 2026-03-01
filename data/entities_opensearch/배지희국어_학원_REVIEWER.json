@@ -1,0 +1,13 @@
+{
+  "entity": {
+    "name": "배지희국어_학원",
+    "synonym": [
+      "배지희국어_학원",
+      "배지희국어 학원"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "배지희국어_학원은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "entity": {
+    "name": "쉴라 켈리",
+    "synonym": [
+      "Sheila Kelley",
+      "Sheila Kelly",
+      "쉴라",
+      "쉴라 켈리",
+      "쉴라켈리",
+      "실라 켈리",
+      "켈리"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "쉴라 켈리은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "chunk_hash": "c040ff777ef3a4",
+  "chunk_id": "무비씨엘로_MOVIE_CIELO_c040ff777ef3a4_635b8c74",
+  "user_query": "it's going to get we need to tell the crew you're bringing this up while Vincent is in Pasadena so he can't argue the other side hi hello hello Mark Watney is still alive we found out two months ago and uh decided not to tell you two months oh my God I was strongly against that decision we're telling you now because we finally have communication with him and a viable rescue plan we'll give you a write-up of of what happened a full write-up of everything but it but it's not your fault Mitch stresses that every time it comes up take some time to absorb this and um send all the questions you want we'll answer them so oh one big bonus to this communication with NASA again is the email I'm getting them again they say that once you grow crops somewhere you've officially colonized it so technically I colonized Mars in your face Neil Armstrong operation I want to announce we're launching some supplies to him next year during the Hohmann transfer window is your team still on schedule it'll be tight but we'll make it nine month travel time that puts the probe to Mars on Sol 868. did we get the box [Music] 912 sols worth of food we get there on 868 that's assuming nothing goes wrong [Music] [Music] [Music] complete loss of pressure boiled off most of the water any bacteria that survived died in the subzero temperatures when exposed to Mars's atmosphere how long does he have rations get him to what Sol 409. potatoes 609. so if it's Sol 868 he'll be long dead we're gonna have to go",
+  "movie_id": "마션",
+  "reviewer": "무비씨엘로_MOVIE_CIELO",
+  "chunk_index": 6,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "MARK WATNEY",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "마크 와트니는 화성에서 생존해 있는 것으로 밝혀진 인물로, 2개월 전에 생존 사실이 확인되었으며 NASA와 통신이 가능해졌다. 화성에서 작물을 재배하여 기술적으로 화성을 식민지화한 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "VINCENT",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "빈센트는 파사데나에 있어서 이 논의에 참여하지 못하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "MITCH",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "미치는 마크 와트니의 상황이 승무원들의 잘못이 아니라고 강조하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "NEIL ARMSTRONG",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "닐 암스트롱은 마크 와트니가 화성 식민지화를 자랑하며 언급한 역사적 우주비행사이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "NASA",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "NASA는 마크 와트니와 통신을 재개하고 구조 계획을 수립하는 우주 기관이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "MARK WATNEY",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "NASA",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "NASA는 마크 와트니와 통신을 재개하고 그를 구조하기 위한 보급품 발사 계획을 세우고 있다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "MITCH",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "MARK WATNEY",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "미치는 마크 와트니의 상황에 대해 승무원들에게 설명하며 그들의 잘못이 아님을 강조한다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "MARK WATNEY",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "NEIL ARMSTRONG",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "마크 와트니는 화성을 식민지화했다며 닐 암스트롱을 농담조로 언급한다",
+      "relationship_strength": 4
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "VINCENT",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "NASA",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "빈센트는 NASA 관련 인물로 파사데나에 있어 논의에 참여하지 못한다",
+      "relationship_strength": 5
+    }
+  ],
+  "entity_resolution": {
+    "MARK WATNEY": {
+      "description": "MARK WATNEY -> MARK WATNEY",
+      "resolved_name": "MARK WATNEY",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "VINCENT": {
+      "description": "VINCENT -> VINCENT",
+      "resolved_name": "VINCENT",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "MITCH": {
+      "description": "MITCH -> Mitch Henderson",
+      "resolved_name": "Mitch Henderson",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "NEIL ARMSTRONG": {
+      "description": "NEIL ARMSTRONG -> NEIL ARMSTRONG",
+      "resolved_name": "NEIL ARMSTRONG",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "NASA": {
+      "description": "NASA -> NASA",
+      "resolved_name": "NASA",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "마이크 허드넛",
+    "synonym": [
+      "Mike",
+      "Mike Hudnut",
+      "마이크",
+      "마이크 허드넛",
+      "마이크허드넛",
+      "마익",
+      "마잌",
+      "허드넛",
+      "허드넛 코치"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "마이크 허드넛은 영화 '아메리칸 언더독'의 등장인물로, 서다리우스 블레인이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

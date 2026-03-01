@@ -1,0 +1,70 @@
+{
+  "movie_title": "그랜 토리노",
+  "director": [
+    {
+      "name": "클린트 이스트우드",
+      "name_en": "Clint Eastwood"
+    }
+  ],
+  "cast": [
+    {
+      "actor": "클린트 이스트우드",
+      "actor_en": "Clint Eastwood",
+      "character": "왈트 코왈스키"
+    },
+    {
+      "actor": "비 방",
+      "actor_en": "Bee Vang",
+      "character": "Thao Vang Lor"
+    },
+    {
+      "actor": "애니 허",
+      "actor_en": "Ahney Her",
+      "character": "Sue Lor"
+    },
+    {
+      "actor": "크리스토퍼 칼리",
+      "actor_en": "Christopher Carley",
+      "character": "Father Janovich"
+    },
+    {
+      "actor": "브라이언 헤일리",
+      "actor_en": "Brian Haley",
+      "character": "미치 코왈스키"
+    },
+    {
+      "actor": "제랄딘 휴즈",
+      "actor_en": "Geraldine Hughes",
+      "character": "카렌 코왈스키"
+    },
+    {
+      "actor": "드리마 워커",
+      "actor_en": "Dreama Walker",
+      "character": "애슐리 코왈스키"
+    },
+    {
+      "actor": "브라이언 하우",
+      "actor_en": "Brian Howe",
+      "character": "스티브 코왈스키"
+    },
+    {
+      "actor": "존 캐럴 린치",
+      "actor_en": "John Carroll Lynch",
+      "character": "마틴"
+    },
+    {
+      "actor": "두아 무아",
+      "actor_en": "Doua Moua",
+      "character": "퐁 스파이더"
+    }
+  ],
+  "review": [
+    "./data/review/그랜 토리노/그랜 토리노_-kP2ar_druw.json",
+    "./data/review/그랜 토리노/그랜 토리노_0biKih2jEIY.json",
+    "./data/review/그랜 토리노/그랜 토리노_LO9Vxm8MCQA.json",
+    "./data/review/그랜 토리노/그랜 토리노__1bnOHm0Q6c.json",
+    "./data/review/그랜 토리노/그랜 토리노__GSZbjDLIVo.json",
+    "./data/review/그랜 토리노/그랜 토리노__ibQ9HuQsyc.json",
+    "./data/review/그랜 토리노/그랜 토리노_j-9USwftM9Q.json"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "수사과장",
+    "synonym": [
+      "Investigation Chief",
+      "과장",
+      "과장님",
+      "수사 과장",
+      "수사과 과장",
+      "수사과장",
+      "수사과장 캐릭터",
+      "수사과장님"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "수사과장은 영화 '극비수사'의 등장인물로, 이윤희이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

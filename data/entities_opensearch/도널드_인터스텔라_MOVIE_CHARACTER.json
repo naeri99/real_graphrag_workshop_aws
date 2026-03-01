@@ -1,0 +1,25 @@
+{
+  "entity": {
+    "name": "도널드",
+    "synonym": [
+      "Don",
+      "Donald",
+      "Donald Cooper",
+      "도날드",
+      "도널드",
+      "도널드 쿠퍼",
+      "도널드 할아버지",
+      "돈",
+      "돈 쿠퍼",
+      "쿠퍼 아버지",
+      "쿠퍼 장인",
+      "쿠퍼의 장인",
+      "할아버지",
+      "할아버지 도널드"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "도널드은 영화 '인터스텔라'의 등장인물로, 존 리스고이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

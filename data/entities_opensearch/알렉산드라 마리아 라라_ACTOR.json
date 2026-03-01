@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "알렉산드라 마리아 라라",
+    "synonym": [
+      "Alexandra Maria Lara",
+      "라라",
+      "알렉산드라",
+      "알렉산드라 라라",
+      "알렉산드라 마리아 라라",
+      "알렉산드라 마리아라라",
+      "알렉산드라라라",
+      "알렉산드라마리아라라"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "알렉산드라 마리아 라라은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

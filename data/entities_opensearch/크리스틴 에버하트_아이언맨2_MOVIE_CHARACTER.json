@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "크리스틴 에버하트",
+    "synonym": [
+      "Christine Everhart",
+      "기자 크리스틴",
+      "에버하트",
+      "에버하트 기자",
+      "크리스틴",
+      "크리스틴 기자",
+      "크리스틴 에버하트",
+      "크리스틴에버하트"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "크리스틴 에버하트은 영화 '아이언맨2'의 등장인물로, 레슬리 빕이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

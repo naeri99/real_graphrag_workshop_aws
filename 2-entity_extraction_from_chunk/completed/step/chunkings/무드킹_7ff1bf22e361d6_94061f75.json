@@ -1,0 +1,124 @@
+{
+  "chunk_hash": "7ff1bf22e361d6",
+  "chunk_id": "무드킹_7ff1bf22e361d6_94061f75",
+  "user_query": "in vegas at ten tomorrow morning okay spend some time with him free tonight and tomorrow but i just can't oh i know god i know he's asking about david [Music] where you hit las vegas let me see your ticket what time you got five through 11. there was a bus at 11 but now is nearly 12. seem like you put your watch back one too many times my friend there's no other bus there's no other boss i lost my husband lost him to drink but it was my fault we got ourselves an epidemic going on out there making up excuses all along the way it's facing up to the truth ain't always easy to get hurt that's my medication [Music] i'm not here at the moment leave a message and i'll call you back david david you're the one that i worry about the most i'm trying dad david tell me when i can see you robert dad wasn't on the bus did you look in the station i mean yeah of course i looked everywhere are you all right frank and i left my bottle of pills right on the edge of the same thing write a new prescription all right i have to come i have to come in although the garden is doing i'm looking right at it looking really good really good hello it's me are you home i'm waiting for you where are you told him not to tell you i was coming i told you [Music] welcome to megan's dad papa loves mambo that's why they call it a stretch big stage is what you always wanted are you happy very happy no this is an elevator very good wow you like it very you very impressive well do you want to see your room sure this",
+  "movie_id": "에브리바디스 파인",
+  "reviewer": "무드킹",
+  "chunk_index": 5,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "DAVID",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "David는 아버지가 가장 걱정하는 인물로, 연락이 잘 되지 않는 것으로 보인다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "ROBERT",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Robert는 David의 형제로 보이며, 아버지가 버스에 없었다고 확인하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "FRANK",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Frank는 약병을 두고 온 인물로, 새 처방전이 필요한 상황이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "MEGAN",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Megan은 아버지를 환영하며 새 집을 보여주는 인물로, 큰 무대를 원했던 것으로 언급된다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "DAD/PAPA",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "아버지는 라스베가스로 가려다 버스를 놓친 인물로, 자녀들을 걱정하며 특히 David를 가장 걱정한다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "DAD/PAPA",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "DAVID",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "아버지는 David를 가장 걱정하며 만나고 싶어한다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "DAD/PAPA",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "ROBERT",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Robert는 아버지의 자녀로, 아버지가 버스역에 없다는 것을 확인한다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "DAD/PAPA",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "MEGAN",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "아버지는 Megan의 아버지이며, Megan이 아버지의 방문을 비밀로 해달라고 요청했다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "DAD/PAPA",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "FRANK",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Frank와 아버지는 함께 있었으며, Frank가 약병을 두고 왔다",
+      "relationship_strength": 6
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "ROBERT",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "DAVID",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Robert와 David는 형제 관계로 보인다",
+      "relationship_strength": 7
+    }
+  ],
+  "entity_resolution": {
+    "DAVID": {
+      "description": "DAVID -> DAVID",
+      "resolved_name": "DAVID",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "ROBERT": {
+      "description": "ROBERT -> Robert",
+      "resolved_name": "Robert",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "FRANK": {
+      "description": "FRANK -> Frank Wolff",
+      "resolved_name": "Frank Wolff",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "MEGAN": {
+      "description": "MEGAN -> MEGAN",
+      "resolved_name": "MEGAN",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "DAD/PAPA": {
+      "description": "DAD/PAPA -> DAD/PAPA",
+      "resolved_name": "DAD/PAPA",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

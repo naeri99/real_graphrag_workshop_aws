@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "비욘",
+    "synonym": [
+      "Bjorn",
+      "Bjorn character",
+      "Bjørn",
+      "비온",
+      "비요른",
+      "비욘",
+      "비욘 에이리언",
+      "비욘 캐러데인",
+      "비욘 캐릭터",
+      "비욘Bjorn"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "비욘은 영화 '에이리언 로물'의 등장인물로, 스파이크 펀이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

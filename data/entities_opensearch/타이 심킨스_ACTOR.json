@@ -1,0 +1,18 @@
+{
+  "entity": {
+    "name": "타이 심킨스",
+    "synonym": [
+      "Ty Simpkins",
+      "심킨스",
+      "타이",
+      "타이 심킨스",
+      "타이 심킨즈",
+      "타이 심프킨스",
+      "타이심킨스"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "타이 심킨스은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "빌 나이",
+    "synonym": [
+      "Bill Nighy",
+      "나이",
+      "빌 나이",
+      "빌 나이이",
+      "빌 나이히",
+      "빌 니",
+      "빌 니기",
+      "빌 니히",
+      "빌나이"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "빌 나이은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

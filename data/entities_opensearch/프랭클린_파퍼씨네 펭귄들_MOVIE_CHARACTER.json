@@ -1,0 +1,15 @@
+{
+  "entity": {
+    "name": "프랭클린",
+    "synonym": [
+      "Franklin",
+      "프랭클린",
+      "프랭클린 씨",
+      "프랭클린씨"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "프랭클린은 영화 '파퍼씨네 펭귄들'의 등장인물로, 필립 베이커 홀이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

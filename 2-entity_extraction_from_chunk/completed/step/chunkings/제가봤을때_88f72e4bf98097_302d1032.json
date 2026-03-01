@@ -1,0 +1,195 @@
+{
+  "chunk_hash": "88f72e4bf98097",
+  "chunk_id": "제가봤을때_88f72e4bf98097_302d1032",
+  "user_query": "코브 그런데 이상한 게 코브는 늙지 않고 사이토만 폭삭 늙어 있는 모습입니다 저는 의문점이 들기 시작했죠 뭐가 어떻게 된 거지 좀 더 자세히 뜯어 봅시다 먼저 이 영화에서 꾸는 꿈의 구조는 총 5단계라고 볼 수 있습니다 현실 1단계 꿈 2단계 꿈 3단계 꿈 림보 꿈을 100단계 천 단계까지 무한정 만들 순 없는 노릇이니 3단계까지만 꾸는 것은 충분히 이해가 갑니다 그리고 생각할수록 사용할 명분이 부족해 보이는 Yusuf가 만든 강력한 진정제를 뭐 어쨌든 사용했기 때문에 꿈속에서 죽는다면 이전처럼 꿈에서 깨는 것이 아니라 림보에 빠져버린다는 추가 설정이 붙은 것 이것도 충분히 이해가 갑니다 그런데 3단계의 꿈에서 한번 더 잤더니 림보로 간다 제가 봤을 때 이거는 설정이 좀 깨진 느낌이 들었습니다 4단계 이상의 꿈은 불안정해서 진입이 어렵다 뭐 이 정도로 끝나는 설정이었으면 좀 더 자연스러웠을 것 같은데 1단계 2단계 딱딱 숫자로 나눠놓고 3단계 다음은 그냥 꿈이 아니라 림보다 뭔가 뚝 끊긴 느낌이었죠 그래도 뭐 이것도 그렇다고 하니까 그냥 받아들입시다 그렇다면 그 림보란 무엇인가 Arthur는 이렇게 설명했습니다 설계되지 않은 무한한 무의식의 공간이고 아무것도 없다 다만 꿈 공유자 중 림보를 경험한 사람이 있다면 그가 남기고 간 것들이 있다라고 말이죠 그랬구나 그래서 코브와 아리아드네가 림보로 갔을 때 과거의 코브가 만든 것들이 남아 있었구나 이제 정말 알겠다 너무 잘 알겠다 뭐가 도대체 어떻게 된 건지 사실 영화 내용만 본다면 설명도 없고 설명할 근거도 제대로 없습니다 그래도 한번 해석해 봅시다 이 장면 연출을 그대로 따라가 보면 1단계 꿈에서 차가 추락한 후 깨어나지 않은 코브가 익사한 것처럼 보이고 이것 때문에 림보로 다시 빠져 해안가에 뚝 떨어진 것처럼 보입니다 이전에 림보에 막 왔을 때처럼요 뭐야 그럼 이미 림보에 있는데 림보로 또 가 생각해보래요 이 이상한 상황에 가능성 있는 해석들을 붙여 봅시다 1번 3단계에서 가는 림보랑 1단계에서 죽어서 가는 림보랑 다르다 근데 이러면 림보가 공유된다는 Arthur의 설명과는 안 맞죠 2번 코브가 Mal과 작별인사를 한 뒤 열심히 헤엄쳐서 사이토가 있는 곳까지 찾아왔다 3번 같은 림보가 맞다 근데 림보가 넓다 보니까 사이토는 왜 딴 데 있었다 그리고 코브가 죽어서 리셋이 되었고 다시 림보로 떨어졌는데 빠른 전개를 위해서 아니 우연히 사이토가 있는 곳 주변으로 떨어진 것이다 하지만 1번 2번 3번 다 맞다고 해도 시간 차이 계산을 아무리 넉넉히 해봐도 최소 수십 년은 더 늙어버린 사이토가 설명이 잘 안 됩니다 오히려 림보에 먼저 간 건 코브니까 코브가 더 늙고 있어야 되는 거 아닌가라고 볼 수도 있죠 그래서 이 문제를 해결하기 위해 어떤 분들은 심리적인 것 때문이다라고 해석합니다 코브는 꿈이라는 걸 인식했기 때문에 늙지 않았다고 말이죠 뭐 충분히 그럴 수도 있겠습니다 그런데 뭐가 맞든지 제가 봤을 때 이 림보라는 설정이 참 와닿지가 않는다는 건 확실히 알겠습니다 그리고 저는 기대가 없기",
+  "movie_id": "인셉션",
+  "reviewer": "제가봤을때",
+  "chunk_index": 7,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "인셉션",
+      "entity_type": "MOVIE",
+      "entity_description": "인셉션은 꿈의 단계와 림보라는 개념을 다루는 영화로, 현실부터 1단계, 2단계, 3단계 꿈, 그리고 림보까지 총 5단계의 꿈 구조를 가진 작품이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "코브",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "코브는 인셉션의 주인공으로, 림보를 경험한 적이 있으며 과거에 림보에서 건물들을 만들었고, 영화에서 늙지 않은 채로 림보에서 발견되는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "사이토",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "사이토는 림보에서 수십 년이 지나 폭삭 늙어버린 모습으로 등장하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "아서",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "아서는 림보에 대해 \"설계되지 않은 무한한 무의식의 공간이고 아무것도 없다\"고 설명하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "아리아드네",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "아리아드네는 코브와 함께 림보로 갔을 때 과거 코브가 만든 것들을 목격하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "맬",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "맬은 코브가 림보에서 작별인사를 한 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "유서프",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "유서프는 강력한 진정제를 만든 인물로, 이 진정제 때문에 꿈속에서 죽으면 깨어나지 못하고 림보에 빠지게 되는 설정이 추가되었다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "코브",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "인셉션",
+      "target_type": "MOVIE",
+      "relationship_description": "코브는 인셉션의 주인공이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "사이토",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "인셉션",
+      "target_type": "MOVIE",
+      "relationship_description": "사이토는 인셉션에 등장하는 인물이다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "아서",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "인셉션",
+      "target_type": "MOVIE",
+      "relationship_description": "아서는 인셉션에서 림보를 설명하는 인물이다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "아리아드네",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "인셉션",
+      "target_type": "MOVIE",
+      "relationship_description": "아리아드네는 인셉션에 등장하는 인물이다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "맬",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "인셉션",
+      "target_type": "MOVIE",
+      "relationship_description": "맬은 인셉션에 등장하는 인물이다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "유서프",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "인셉션",
+      "target_type": "MOVIE",
+      "relationship_description": "유서프는 인셉션에서 강력한 진정제를 만든 인물이다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "코브",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "사이토",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "코브는 림보에서 늙어버린 사이토를 찾아가며, 둘의 나이 차이가 영화의 의문점으로 제시된다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "코브",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "아리아드네",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "코브와 아리아드네는 함께 림보로 갔다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "코브",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "맬",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "코브는 림보에서 맬과 작별인사를 했다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "유서프",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "코브",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "유서프가 만든 진정제 때문에 코브가 꿈에서 죽으면 림보에 빠지게 된다",
+      "relationship_strength": 7
+    }
+  ],
+  "entity_resolution": {
+    "인셉션": {
+      "description": "인셉션 -> 인셉션",
+      "resolved_name": "인셉션",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "코브": {
+      "description": "코브 -> 코브",
+      "resolved_name": "코브",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "사이토": {
+      "description": "사이토 -> 사이토",
+      "resolved_name": "사이토",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "아서": {
+      "description": "아서 -> 아서",
+      "resolved_name": "아서",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "아리아드네": {
+      "description": "아리아드네 -> 아리아드네",
+      "resolved_name": "아리아드네",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "맬": {
+      "description": "맬 -> 맬",
+      "resolved_name": "맬",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "유서프": {
+      "description": "유서프 -> 유수프",
+      "resolved_name": "유수프",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    }
+  }
+}

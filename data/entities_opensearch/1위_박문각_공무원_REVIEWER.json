@@ -1,0 +1,13 @@
+{
+  "entity": {
+    "name": "1위_박문각_공무원",
+    "synonym": [
+      "1위_박문각_공무원",
+      "1위 박문각 공무원"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "1위_박문각_공무원은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

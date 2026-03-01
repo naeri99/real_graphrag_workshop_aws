@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "이동호",
+    "synonym": [
+      "Dong-ho Lee",
+      "Lee Dong Ho",
+      "Lee Dong-ho",
+      "Lee Dongho",
+      "Yi Dong-ho",
+      "동호",
+      "이 동호",
+      "이동 호",
+      "이동호",
+      "이동호 배우",
+      "이동호씨"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "이동호은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

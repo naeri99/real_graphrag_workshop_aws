@@ -1,0 +1,26 @@
+{
+  "entity": {
+    "name": "강림",
+    "synonym": [
+      "3차사의 리더",
+      "Gang-rim",
+      "Ganglim",
+      "Gangrim",
+      "Kang-rim",
+      "강 림",
+      "강림",
+      "강림 도령",
+      "강림 차사",
+      "강림도령",
+      "강림이",
+      "강림차사",
+      "저승사자 강림",
+      "저승차사 강림",
+      "차사 강림"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "강림은 영화 '신과함께-죄와벌'의 등장인물로, 하정우이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

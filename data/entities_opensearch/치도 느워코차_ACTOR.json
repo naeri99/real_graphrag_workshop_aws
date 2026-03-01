@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "치도 느워코차",
+    "synonym": [
+      "Chido",
+      "Chido Nwokocha",
+      "Nwokocha",
+      "느워코차",
+      "치도",
+      "치도 느워코차",
+      "치도 은워코차",
+      "치도느워코차"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "치도 느워코차은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

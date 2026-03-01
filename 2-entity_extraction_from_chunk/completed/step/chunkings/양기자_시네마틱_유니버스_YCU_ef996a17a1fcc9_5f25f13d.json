@@ -1,0 +1,80 @@
+{
+  "chunk_hash": "ef996a17a1fcc9",
+  "chunk_id": "양기자_시네마틱_유니버스_YCU_ef996a17a1fcc9_5f25f13d",
+  "user_query": "쉰세 살이 되니까 이러다 죽는 거 아닌가 싶었다 마라톤처럼 장기적으로 연습을 해야 했다라고 설명했는데요 브라이스 댈러스 하워드는 샘 록웰이 춤을 잘 추다 보니 춤이 충분히 반영된 시퀀스들이 많다라고 덧붙였죠 지금까지 아가일에 관한 열 가지 잡지식이었습니다 구독 좋아요 알람 설정 버튼 꼭 눌러주시고 다음 시간에 만나요 [음악]",
+  "movie_id": "아가일",
+  "reviewer": "양기자_시네마틱_유니버스_YCU",
+  "chunk_index": 4,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "아가일",
+      "entity_type": "MOVIE",
+      "entity_description": "아가일은 춤 시퀀스가 많이 포함된 영화이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "브라이스 댈러스 하워드",
+      "entity_type": "ACTOR",
+      "entity_description": "브라이스 댈러스 하워드는 아가일에 출연한 배우로 샘 록웰의 춤 실력에 대해 언급했다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "샘 록웰",
+      "entity_type": "ACTOR",
+      "entity_description": "샘 록웰은 아가일에 출연한 배우로 춤을 잘 추며 쉰세 살에 마라톤처럼 장기적으로 춤 연습을 했다고 설명했다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "브라이스 댈러스 하워드",
+      "source_type": "ACTOR",
+      "target_entity": "아가일",
+      "target_type": "MOVIE",
+      "relationship_description": "브라이스 댈러스 하워드는 아가일에 출연했다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "샘 록웰",
+      "source_type": "ACTOR",
+      "target_entity": "아가일",
+      "target_type": "MOVIE",
+      "relationship_description": "샘 록웰은 아가일에 출연하여 춤 시퀀스를 소화했다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "브라이스 댈러스 하워드",
+      "source_type": "ACTOR",
+      "target_entity": "샘 록웰",
+      "target_type": "ACTOR",
+      "relationship_description": "브라이스 댈러스 하워드는 샘 록웰의 춤 실력에 대해 언급했다",
+      "relationship_strength": 6
+    }
+  ],
+  "entity_resolution": {
+    "아가일": {
+      "description": "아가일 -> 아가일",
+      "resolved_name": "아가일",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "브라이스 댈러스 하워드": {
+      "description": "브라이스 댈러스 하워드 -> 브라이스 달라스 하워드",
+      "resolved_name": "브라이스 달라스 하워드",
+      "entity_type": "ACTOR",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "샘 록웰": {
+      "description": "샘 록웰 -> 샘 록웰",
+      "resolved_name": "샘 록웰",
+      "entity_type": "ACTOR",
+      "matched": true,
+      "match_type": "name_exact"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "시마즈",
+    "synonym": [
+      "Shimazu",
+      "Shimazu Koji",
+      "島津",
+      "시마주",
+      "시마즈",
+      "시마즈 코지",
+      "시마쯔",
+      "오사카 매니저",
+      "오사카 컨티넨탈 매니저",
+      "오사카 콘티넨탈 매니저",
+      "코지"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "시마즈은 영화 '존 윅 4'의 등장인물로, 사나다 히로유키이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

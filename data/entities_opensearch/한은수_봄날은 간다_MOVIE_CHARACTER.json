@@ -1,0 +1,24 @@
+{
+  "entity": {
+    "name": "한은수",
+    "synonym": [
+      "Eun-su",
+      "Han Eun-su",
+      "Han Eunsu",
+      "라디오 진행자",
+      "은수",
+      "은수 씨",
+      "은수씨",
+      "은수야",
+      "한 은수",
+      "한은수",
+      "한은수 씨",
+      "한은수 캐릭터",
+      "한은수씨"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "한은수은 영화 '봄날은 간다'의 등장인물로, 이영애이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

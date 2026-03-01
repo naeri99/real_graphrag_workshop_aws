@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "손오공",
+    "synonym": [
+      "Monkey King",
+      "Sun Wukong",
+      "孫悟空",
+      "몽키킹",
+      "미후왕",
+      "손 오공",
+      "손오공",
+      "손행자",
+      "오공",
+      "원숭이왕",
+      "제천대성"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "손오공은 영화 '서유기 모험의 시작'의 등장인물로, 황보이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

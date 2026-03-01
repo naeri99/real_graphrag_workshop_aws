@@ -1,0 +1,13 @@
+{
+  "entity": {
+    "name": "안될과학_Unrealscience",
+    "synonym": [
+      "안될과학_Unrealscience",
+      "안될과학 Unrealscience"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "안될과학_Unrealscience은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "chunk_hash": "765294d141e795",
+  "chunk_id": "FriezZaddy_765294d141e795_854eddef",
+  "user_query": "So they're going and they're shooting at them. This time the next thing out, they're free for a moment. The government is chasing them in jeeps and they're getting hit and then they're hitting back. The next, you know, the Gwangju taxi drivers, the weather have been so nice, they're there, they're helping. And oh my, oh yeah, so help. They want him to get out safely. Then I come on. So boom, they're hitting back and forth. One of them, I guess the exhausts are, the car breaks down. Another one, the car flips over. And then you see one of them finally hits one of the cars of the government. It flips and tumbles. And then I want it just died down too. And then you see test, test. One is the last one. He's like, it's not explosion. You heard a crash. They look back. You don't see. That's why I'm like, because there was a part where Tae-sul told him, like, after all this, how about you come here, visit us again with your daughter? I don't know if he made it.",
+  "movie_id": "택시운전사",
+  "reviewer": "FriezZaddy",
+  "chunk_index": 13,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "광주 택시 기사들",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "광주 택시 기사들은 영화에서 주인공들이 안전하게 탈출할 수 있도록 도와주는 인물들이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "태술",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "태술은 영화 속 인물로, 다른 인물에게 나중에 딸과 함께 다시 방문하라고 말하는 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "택시운전사",
+      "entity_type": "MOVIE",
+      "entity_description": "택시운전사는 광주를 배경으로 정부군의 추격과 택시 기사들의 도움을 다룬 한국 영화이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "광주 택시 기사들",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "택시운전사",
+      "target_type": "MOVIE",
+      "relationship_description": "광주 택시 기사들은 택시운전사 영화에서 주인공들을 돕는 역할을 한다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "태술",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "택시운전사",
+      "target_type": "MOVIE",
+      "relationship_description": "태술은 택시운전사 영화의 등장인물이다",
+      "relationship_strength": 10
+    }
+  ],
+  "entity_resolution": {
+    "광주 택시 기사들": {
+      "description": "광주 택시 기사들 -> 광주 택시 기사들",
+      "resolved_name": "광주 택시 기사들",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "태술": {
+      "description": "태술 -> 황태술",
+      "resolved_name": "황태술",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "택시운전사": {
+      "description": "택시운전사 -> 택시운전사",
+      "resolved_name": "택시운전사",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "name_exact"
+    }
+  }
+}

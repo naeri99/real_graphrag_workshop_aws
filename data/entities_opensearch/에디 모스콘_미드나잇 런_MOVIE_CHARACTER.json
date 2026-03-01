@@ -1,0 +1,23 @@
+{
+  "entity": {
+    "name": "에디 모스콘",
+    "synonym": [
+      "Eddie",
+      "Eddie Moscone",
+      "Eddy Ko",
+      "모스콘",
+      "에디",
+      "에디 모스코네",
+      "에디 모스콘",
+      "에디 코",
+      "에디모스콘",
+      "에디코",
+      "에디코이",
+      "코이"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "에디 모스콘은 영화 '미드나잇 런'의 등장인물로, 조 판톨리아노이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

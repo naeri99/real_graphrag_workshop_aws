@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "켈리 코필드",
+    "synonym": [
+      "Kelly",
+      "Kelly Coffield",
+      "Kelly Coffield Park",
+      "캘리 코필드",
+      "켈리",
+      "켈리 코필드",
+      "켈리 코필드 파크",
+      "켈리코필드",
+      "코필드"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "켈리 코필드은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

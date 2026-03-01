@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "펭귄 목소리",
+    "synonym": [
+      "Penguin Voice",
+      "Penguins Voice",
+      "펭귄 목소리",
+      "펭귄 보이스",
+      "펭귄 성우",
+      "펭귄들",
+      "펭귄들 목소리",
+      "펭귄목소리",
+      "펭귄보이스",
+      "펭귄소리"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "펭귄 목소리은 영화 '파퍼씨네 펭귄들'의 등장인물로, 프랭크 웰커이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "햄푸스 할베리",
+    "synonym": [
+      "Hampus",
+      "Hampus Hallberg",
+      "할베리",
+      "함푸스 할베리",
+      "햄퍼스 할베리",
+      "햄푸스",
+      "햄푸스 할베리",
+      "햄푸스할베리"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "햄푸스 할베리은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

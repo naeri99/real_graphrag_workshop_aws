@@ -1,0 +1,69 @@
+{
+  "movie_title": "뱅크어택",
+  "director": [
+    {
+      "name": "볼프강 페터젠",
+      "name_en": "Wolfgang Petersen"
+    }
+  ],
+  "cast": [
+    {
+      "actor": "틸 슈바이거",
+      "actor_en": "Til Schweiger",
+      "character": "크리스"
+    },
+    {
+      "actor": "마치아스 슈바바이어퍼",
+      "actor_en": "Matthias Schweighöfer",
+      "character": "맥스"
+    },
+    {
+      "actor": "얀 요제프 리퍼스",
+      "actor_en": "Jan Josef Liefers",
+      "character": "페터"
+    },
+    {
+      "actor": "안트예 트라우에",
+      "actor_en": "Antje Traue",
+      "character": "엘리자베스 촐너"
+    },
+    {
+      "actor": "알렉산드라 마리아 라라",
+      "actor_en": "Alexandra Maria Lara",
+      "character": "프레디"
+    },
+    {
+      "actor": "클라우디아 미켈센",
+      "actor_en": "Claudia Michelsen",
+      "character": "수잔네 슈마허"
+    },
+    {
+      "actor": "야나 팔라스케",
+      "actor_en": "Jana Pallaske",
+      "character": "하이디"
+    },
+    {
+      "actor": "로스비타 젤레",
+      "actor_en": "Roswitha Selle",
+      "character": "생선 판매원"
+    },
+    {
+      "actor": "야니네 쿤체",
+      "actor_en": "Janine Kunze",
+      "character": "은행 고객"
+    },
+    {
+      "actor": "모니크 랑게",
+      "actor_en": "Monique Lange",
+      "character": "경찰관"
+    }
+  ],
+  "review": [
+    "./data/review/뱅크어택/뱅크어택_QxG6txSLKl0.json",
+    "./data/review/뱅크어택/뱅크어택_XwfySdB27uQ.json",
+    "./data/review/뱅크어택/뱅크어택_abWalmCTYfY.json",
+    "./data/review/뱅크어택/뱅크어택_l4v5h_hcsEk.json",
+    "./data/review/뱅크어택/뱅크어택_mdrZR78YGEw.json",
+    "./data/review/뱅크어택/뱅크어택_qiImmpLG8_g.json"
+  ]
+}

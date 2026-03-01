@@ -1,0 +1,208 @@
+{
+  "chunk_hash": "1105f36dc71afa",
+  "chunk_id": "햄릿_TUBE_1105f36dc71afa_5e46b3b4",
+  "user_query": "뮤지컬을 관람하게 되면서 부모님과 행복한 시간을 보내게 되죠 영화 배트맨 비긴즈가 다른 작품들과 차별된 이유가 있다면 어린 브루스 웨인이 행복한 감정보다 두려운 감정으로 극장을 나오게 된다는 것입니다 부모님과 함께 오페라 극장 뒷골목을 걸어가게 된 브루스 웨인은 조 칠이란 남자를 만나게 되죠 여러 배트맨 세계관에서 조 칠로 불려지는 것으로 유명한 조 칠은 1939년 11월 디텍티브 코믹스 33호에 이름이 없는 웨인 부부 살인범으로 처음 등장하였습니다 브루스 웨인의 어머니에게 총을 겨누고 금품을 요구한 조 칠은 거세게 저항하는 토마스 웨인에게 총을 발사하게 됩니다 여기서 중요한 점이 있다면 디텍티브 코믹스 33호 속에서 조 칠은 단 한 발의 총알로 토마스 웨인과 마사 웨인을 죽였다는 것이죠 조 칠이 토마스 웨인에게 총을 발사하게 되면서 평소 심장이 약했던 마사 웨인도 그 자리에서 사망을 하게 된 것입니다 단 한 발의 총알로 조 칠은 브루스 웨인의 부모님 토마스 웨인과 마사 웨인을 죽이게 된 것이죠 다양한 작품들에서 브루스 웨인의 부모님을 죽인 살인범들은 굳이 조 칠이란 인물로 등장시키지 않습니다 무엇보다 중요한 점이 있다면 어린 브루스 웨인이 성장 과정을 거치면서 부모님을 죽인 진범이 누구였을까에 대한 궁금증이 생긴다는 것이죠 어린 브루스 웨인은 부모님을 죽인 살인범이 잡히지 않고 미제 사건으로 남게 되면서 부모님의 죽음에 대해서 거대한 음모가 있다고 믿게 됩니다 부모님을 죽인 살인범이 차라리 악마 같은 사람이었으면 좋겠다고 생각하지만 진짜 범인을 마주하게 된 브루스 웨인은 자신의 생각보다 너무나도 평범한 모습에 큰 실망감에 빠지기도 하죠 [음악] 팀 버튼 감독의 배트맨에서 웨인 부부를 죽인 진범이 조커라는 사실이 드러나면서 브루스 웨인은 복수를 다짐합니다 1948년 6월 배트맨 47호를 통해 브루스 웨인을 죽인 진범이 밝혀진 최초의 에피소드가 탄생하였습니다 이 만화책 속에는 브루스 웨인이 다른 사건을 조사하던 도중 범인의 얼굴이 담긴 사진을 목격하게 되면서 본능적으로 조 칠이란 남성이 자신의 부모님을 죽인 진범이란 사실을 알게 되죠 그는 부모님을 죽인 진범 조 칠을 찾아가 자신이 배트맨이란 사실을 밝히게 되면서 법정 배심원들에게 조 칠이 진짜 범인임을 증명하는 그날까지 그가 범죄를 저지르면 평생 괴롭혀줄 것이라고 경고하게 됩니다 국내에서도 세월이 오래된 역사적인 오리진 스토리가 담긴 배트맨 47호를 읽어보실 수 있는데 이 부분은 시공사에서 출판한 DC 코믹스 앤솔로지를 읽어보시는 것을 추천드립니다 DC 코믹스 앤솔로지는 다양한 슈퍼히어로들의 역사적인 기원에 대한 내용이 담겨져 있으며 각 시대에 따라 슈퍼히어로 장르가 어떤 식으로 발전하게 되었는지 탐구할 수 있죠 무엇보다 중요한 점은 웨인 부부 살인 사건에 상징적으로 들어가는 장면이 있다면 브루스 웨인의 어머니 마사 웨인이 착용했던 진주 목걸이가 끊어지는 장면일 겁니다 앞서 소개해드린 배트맨의 기원을 다룬 디텍티브 코믹스 33호에 처음으로 묘사된 마사 웨인의 진주 목걸이는 살인 사건이",
+  "movie_id": "다크나이트",
+  "reviewer": "햄릿_TUBE",
+  "chunk_index": 6,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "배트맨 비긴즈",
+      "entity_type": "MOVIE",
+      "entity_description": "배트맨 비긴즈는 어린 브루스 웨인이 부모님과 함께 극장을 나온 후 비극적인 사건을 겪게 되는 내용을 다룬 영화이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "브루스 웨인",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "브루스 웨인은 부모님을 잃은 후 배트맨이 되는 인물로, 어린 시절 부모님의 죽음을 목격하고 성장하면서 진범에 대한 궁금증을 갖게 된다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "조 칠",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "조 칠은 1939년 디텍티브 코믹스 33호에 처음 등장한 웨인 부부 살인범으로, 단 한 발의 총알로 토마스 웨인과 마사 웨인을 죽인 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "토마스 웨인",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "토마스 웨인은 브루스 웨인의 아버지로, 조 칠에게 거세게 저항하다가 총에 맞아 사망한 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "마사 웨인",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "마사 웨인은 브루스 웨인의 어머니로, 평소 심장이 약했으며 남편이 총에 맞는 것을 보고 그 자리에서 사망한 인물이다. 진주 목걸이가 상징적인 아이템이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "조커",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "조커는 팀 버튼 감독의 배트맨에서 웨인 부부를 죽인 진범으로 밝혀진 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "팀 버튼",
+      "entity_type": "MOVIE_STAFF",
+      "entity_description": "팀 버튼은 배트맨 영화의 감독으로, 그의 작품에서 웨인 부부를 죽인 진범이 조커라는 설정을 사용했다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "배트맨",
+      "entity_type": "MOVIE",
+      "entity_description": "팀 버튼 감독이 연출한 배트맨 영화로, 웨인 부부를 죽인 진범이 조커라는 사실이 드러나는 작품이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "브루스 웨인",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "배트맨 비긴즈",
+      "target_type": "MOVIE",
+      "relationship_description": "브루스 웨인은 배트맨 비긴즈의 주인공이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "브루스 웨인",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "토마스 웨인",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "토마스 웨인은 브루스 웨인의 아버지이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "브루스 웨인",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "마사 웨인",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "마사 웨인은 브루스 웨인의 어머니이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "토마스 웨인",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "마사 웨인",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "토마스 웨인과 마사 웨인은 부부이며 함께 조 칠에게 살해당했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "조 칠",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "토마스 웨인",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "조 칠은 토마스 웨인을 총으로 살해했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "조 칠",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "마사 웨인",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "조 칠은 마사 웨인을 살해했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "조 칠",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "브루스 웨인",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "조 칠은 브루스 웨인의 부모님을 죽인 살인범이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "팀 버튼",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "배트맨",
+      "target_type": "MOVIE",
+      "relationship_description": "팀 버튼은 배트맨 영화를 감독했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "조커",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "배트맨",
+      "target_type": "MOVIE",
+      "relationship_description": "조커는 팀 버튼의 배트맨에서 웨인 부부 살인의 진범으로 등장한다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "브루스 웨인",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "조커",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "브루스 웨인은 팀 버튼의 배트맨에서 조커가 부모님을 죽인 진범임을 알고 복수를 다짐한다",
+      "relationship_strength": 8
+    }
+  ],
+  "entity_resolution": {
+    "배트맨 비긴즈": {
+      "description": "배트맨 비긴즈 -> 배트맨 비긴즈",
+      "resolved_name": "배트맨 비긴즈",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "브루스 웨인": {
+      "description": "브루스 웨인 -> 브루스 웨인 / 배트맨",
+      "resolved_name": "브루스 웨인 / 배트맨",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "조 칠": {
+      "description": "조 칠 -> 제니 조",
+      "resolved_name": "제니 조",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "토마스 웨인": {
+      "description": "토마스 웨인 -> 토마스 웨인",
+      "resolved_name": "토마스 웨인",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "마사 웨인": {
+      "description": "마사 웨인 -> 마사 웨인",
+      "resolved_name": "마사 웨인",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "조커": {
+      "description": "조커 -> 조커",
+      "resolved_name": "조커",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "팀 버튼": {
+      "description": "팀 버튼 -> 팀 버튼",
+      "resolved_name": "팀 버튼",
+      "entity_type": "MOVIE_STAFF",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "배트맨": {
+      "description": "배트맨 -> 배트맨",
+      "resolved_name": "배트맨",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

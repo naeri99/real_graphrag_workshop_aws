@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "통근자",
+    "synonym": [
+      "Commuter",
+      "기차 승객",
+      "출퇴근자",
+      "커뮤터",
+      "통근객",
+      "통근인",
+      "통근자",
+      "통근자 역",
+      "통근자역",
+      "통근하는 사람"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "통근자은 영화 '에브리바디스 파인'의 등장인물로, 스티브 안토누치이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

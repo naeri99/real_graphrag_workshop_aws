@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "도로시 블레인",
+    "synonym": [
+      "Dorothy",
+      "Dorothy Blaine",
+      "도러시 블레인",
+      "도로시",
+      "도로시 블레인",
+      "도로시블레인",
+      "도로씨",
+      "블레인"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "도로시 블레인은 영화 '카산드라 드림'의 등장인물로, 클레어 히긴스이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

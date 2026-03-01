@@ -1,0 +1,115 @@
+{
+  "chunk_hash": "226726a839d9e8",
+  "chunk_id": "Chris_Stuckmann_226726a839d9e8_6c13c5f2",
+  "user_query": "happens a lot in his films in a movie like Inception a lot of those characters are intriguing but you know you don't really know that much about them the film just works a little bit better though because there is a central reason for Cobb being there and you understand why he's there you understand why everyone is working towards a goal in this movie Nolan deliberately keeps a lot of that from you until the end and even then once you experience a reveal of sorts it absolutely re-contextualizes the rest of the movie it just doesn't really do it in a way that enhances the people it enhances the plot this is a very plot heavy film it's a a plot over a character movie without a doubt and most of Nolan's films are this one though is held up so much by an incredible amount of visual spectacle that is constantly exciting and different and new it's another intriguing and fascinating film from one of our most daring filmmakers working within the mainstream system and it will likely be enhanced by repeat viewings however I'm not going to a theater a second time right now to see a movie I've already seen I'm going to wait to see it again on Blu-ray which I'm looking forward to doing I'm going to give Tenet a B-plus speaking of new movies uh the New Mutants is apparently actually coming out this weekend they finally did it guys they they released that fucking movie so I'll be seeing that hopefully I'm going to like a public oh showing tomorrow I don't know I don't know before before",
+  "movie_id": "테넷",
+  "reviewer": "Chris_Stuckmann",
+  "chunk_index": 6,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "INCEPTION",
+      "entity_type": "MOVIE",
+      "entity_description": "인셉션은 크리스토퍼 놀란 감독의 영화로, 흥미로운 캐릭터들이 등장하며 코브라는 중심 인물이 목표를 향해 일하는 이유가 명확하게 제시되는 작품이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "COBB",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "코브는 인셉션의 중심 인물로, 영화에서 그가 그곳에 있는 이유와 목표를 향해 일하는 이유가 관객에게 이해되는 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "TENET",
+      "entity_type": "MOVIE",
+      "entity_description": "테넷은 크리스토퍼 놀란 감독의 영화로, 플롯 중심의 영화이며 시각적 스펙터클이 뛰어나고 반복 관람으로 더 향상될 가능성이 있는 작품으로 B-plus 평가를 받았다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "THE NEW MUTANTS",
+      "entity_type": "MOVIE",
+      "entity_description": "뉴 뮤턴츠는 오랜 기간 개봉이 지연되다가 마침내 개봉하게 된 영화이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "NOLAN",
+      "entity_type": "MOVIE_STAFF",
+      "entity_description": "놀란은 주류 시스템 내에서 활동하는 가장 대담한 영화 제작자 중 한 명으로, 플롯 중심의 영화를 만들며 영화 끝까지 많은 정보를 의도적으로 숨기는 연출 스타일을 가진 감독이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "NOLAN",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "INCEPTION",
+      "target_type": "MOVIE",
+      "relationship_description": "놀란은 인셉션을 감독했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "NOLAN",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "TENET",
+      "target_type": "MOVIE",
+      "relationship_description": "놀란은 테넷을 감독했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "COBB",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "INCEPTION",
+      "target_type": "MOVIE",
+      "relationship_description": "코브는 인셉션의 중심 인물이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "INCEPTION",
+      "source_type": "MOVIE",
+      "target_entity": "TENET",
+      "target_type": "MOVIE",
+      "relationship_description": "두 영화 모두 놀란 감독의 작품으로 비교되며, 인셉션은 캐릭터의 동기가 더 명확하게 제시된다는 점에서 테넷과 대조된다",
+      "relationship_strength": 7
+    }
+  ],
+  "entity_resolution": {
+    "INCEPTION": {
+      "description": "INCEPTION -> INCEPTION",
+      "resolved_name": "INCEPTION",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "COBB": {
+      "description": "COBB -> COBB",
+      "resolved_name": "COBB",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "TENET": {
+      "description": "TENET -> 테넷",
+      "resolved_name": "테넷",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "THE NEW MUTANTS": {
+      "description": "THE NEW MUTANTS -> THE NEW MUTANTS",
+      "resolved_name": "THE NEW MUTANTS",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "NOLAN": {
+      "description": "NOLAN -> NOLAN",
+      "resolved_name": "NOLAN",
+      "entity_type": "MOVIE_STAFF",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

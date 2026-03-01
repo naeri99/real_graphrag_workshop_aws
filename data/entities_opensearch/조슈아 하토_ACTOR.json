@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "조슈아 하토",
+    "synonym": [
+      "Joshua",
+      "Joshua Harto",
+      "조쉬아 하토",
+      "조슈아",
+      "조슈아 하르토",
+      "조슈아 하토",
+      "조슈아 하트",
+      "조슈아하르토",
+      "조슈아하토",
+      "하토"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "조슈아 하토은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

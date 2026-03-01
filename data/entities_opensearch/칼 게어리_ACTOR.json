@@ -1,0 +1,25 @@
+{
+  "entity": {
+    "name": "칼 게어리",
+    "synonym": [
+      "Carl Geare",
+      "Carl Gearey",
+      "Carl Geary",
+      "Carl Sagan",
+      "Karl Geary",
+      "게어리",
+      "카를 세이건",
+      "칼",
+      "칼 게리",
+      "칼 게어리",
+      "칼 기어리",
+      "칼 세이건",
+      "칼게어리",
+      "칼세이건"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "칼 게어리은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

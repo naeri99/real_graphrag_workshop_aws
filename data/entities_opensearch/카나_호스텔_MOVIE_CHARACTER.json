@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "카나",
+    "synonym": [
+      "Kana",
+      "가나",
+      "카나",
+      "카나아",
+      "카나에",
+      "카나코",
+      "카아나",
+      "칸나",
+      "캐나"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "카나은 영화 '호스텔'의 등장인물로, 제니퍼 림이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "entity": {
+    "name": "지무비_-_G_Movie",
+    "synonym": [
+      "지무비_-_G_Movie",
+      "지무비 - G Movie"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "지무비_-_G_Movie은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

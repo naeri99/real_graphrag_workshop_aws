@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "승희 모",
+    "synonym": [
+      "Seung-hee's mother",
+      "Seunghee's mother",
+      "배해선 캐릭터",
+      "승이 모",
+      "승이 엄마",
+      "승희 모",
+      "승희 어머니",
+      "승희 엄마",
+      "승희모",
+      "승희어머니",
+      "승희엄마"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "승희 모은 영화 '너의 결혼식'의 등장인물로, 배해선이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

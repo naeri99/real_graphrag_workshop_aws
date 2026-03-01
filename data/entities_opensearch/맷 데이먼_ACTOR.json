@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "맷 데이먼",
+    "synonym": [
+      "Matt",
+      "Matt Damon",
+      "Matthew Damon",
+      "데이먼",
+      "매튜 데이먼",
+      "매트 데이먼",
+      "매트데이먼",
+      "맷",
+      "맷 데이먼",
+      "맷 데이몬",
+      "맷데이먼"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "맷 데이먼은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

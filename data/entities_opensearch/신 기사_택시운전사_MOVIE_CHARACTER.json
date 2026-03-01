@@ -1,0 +1,26 @@
+{
+  "entity": {
+    "name": "신 기사",
+    "synonym": [
+      "Driver Shin",
+      "Mr. Shin",
+      "Shin Driver",
+      "기사 신",
+      "신 기사",
+      "신 기사님",
+      "신 씨",
+      "신 운전사",
+      "신 택시기사",
+      "신기사",
+      "신기사님",
+      "신씨",
+      "신씨 기사",
+      "신운전사",
+      "택시기사 신"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "신 기사은 영화 '택시운전사'의 등장인물로, 신담수이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

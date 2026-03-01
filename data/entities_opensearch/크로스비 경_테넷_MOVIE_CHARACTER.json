@@ -1,0 +1,23 @@
+{
+  "entity": {
+    "name": "크로스비 경",
+    "synonym": [
+      "Crosby",
+      "Sir Crosby",
+      "Sir Michael Crosby",
+      "Sir 크로스비",
+      "마이클 크로스비",
+      "마이클 크로스비 경",
+      "크로스비",
+      "크로스비 경",
+      "크로스비 캐릭터",
+      "크로스비경",
+      "크로즈비",
+      "크로즈비 경"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "크로스비 경은 영화 '테넷'의 등장인물로, 마이클 케인이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

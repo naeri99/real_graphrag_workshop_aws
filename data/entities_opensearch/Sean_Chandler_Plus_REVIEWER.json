@@ -1,0 +1,13 @@
+{
+  "entity": {
+    "name": "Sean_Chandler_Plus",
+    "synonym": [
+      "Sean_Chandler_Plus",
+      "Sean Chandler Plus"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "Sean_Chandler_Plus은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

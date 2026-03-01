@@ -1,0 +1,159 @@
+{
+  "chunk_hash": "1ca4b3a76a1726",
+  "chunk_id": "MUST_SEE_FILMS_1ca4b3a76a1726_f26b37c4",
+  "user_query": "power back and winning against Reynolds habitual behavior we see in both the poisoning scenes which is appropriate but let's look at the first time we hear this and the entire film the first moment where Reynolds gives in to her watch how the music cue starts directly on his answer [Music] so in Act one Reynolds has the power and is introduced to Alma in act two Alma brings him down and tries to take the power back but an act three where Reynolds reverts back to his usual behavior and clings to his past conditioning they wrestle for that position of power he goes as far as to ask Cyril for help he still views her as this mother figure in some ways and his often used and perceived solution doesn't work this is because number one Cyril is the boss number two she has grown to like Alma probably because of her strength of character that matches her own and number three I have a suspicion that just like Reynolds she holds a sacred view of marriage from growing up in the Woodcock household and won't help him break it that easily and just notice that Reynolds doesn't mess with Cyril I mean how could you she is like the Amy Adams character in the master she is the powerful one in the background pulling all the strings we see her assertiveness as she looks straight into the camera which is a technique PTA used as his own cinematographer in this film taken straight from the late Jonathan Demme who this film is in fact and dedicated to this Cyril's role starts to become questioned when",
+  "movie_id": "팬텀 스레드",
+  "reviewer": "MUST_SEE_FILMS",
+  "chunk_index": 6,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "REYNOLDS",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Reynolds는 영화의 주인공으로, 습관적인 행동 패턴을 보이며 권력 관계에서 Alma와 갈등하는 인물이다. 과거의 조건화에 집착하며 Cyril을 어머니 같은 존재로 여긴다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "ALMA",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Alma는 Reynolds를 무너뜨리고 권력을 되찾으려 하는 인물로, 강한 성격의 소유자이다. Reynolds와 결혼 관계에 있다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "CYRIL",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Cyril은 배경에서 모든 것을 조종하는 강력한 인물로, Reynolds가 어머니 같은 존재로 여기는 캐릭터이다. Alma의 강한 성격을 좋아하게 되었으며 결혼에 대한 신성한 관점을 가지고 있다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "PTA",
+      "entity_type": "MOVIE_STAFF",
+      "entity_description": "PTA는 이 영화의 촬영감독으로서 카메라를 직접 바라보는 기법을 사용했다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "JONATHAN DEMME",
+      "entity_type": "MOVIE_STAFF",
+      "entity_description": "Jonathan Demme는 고인이 된 영화감독으로, 이 영화가 그에게 헌정되었다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "AMY ADAMS",
+      "entity_type": "ACTOR",
+      "entity_description": "Amy Adams는 영화 'The Master'에서 배경에서 권력을 행사하는 캐릭터를 연기한 배우이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "THE MASTER",
+      "entity_type": "MOVIE",
+      "entity_description": "The Master는 Amy Adams가 출연한 영화로, 배경에서 권력을 행사하는 캐릭터가 등장한다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "REYNOLDS",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "ALMA",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Reynolds와 Alma는 결혼 관계이며 권력을 두고 갈등한다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "REYNOLDS",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "CYRIL",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Reynolds는 Cyril을 어머니 같은 존재로 여기며 도움을 요청한다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "CYRIL",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "ALMA",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Cyril은 Alma의 강한 성격을 좋아하게 되었다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "PTA",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "JONATHAN DEMME",
+      "target_type": "MOVIE_STAFF",
+      "relationship_description": "PTA는 Jonathan Demme의 촬영 기법을 이 영화에서 사용했으며 영화를 그에게 헌정했다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "CYRIL",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "AMY ADAMS",
+      "target_type": "ACTOR",
+      "relationship_description": "Cyril의 역할은 The Master에서 Amy Adams가 연기한 캐릭터와 비교된다",
+      "relationship_strength": 6
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "AMY ADAMS",
+      "source_type": "ACTOR",
+      "target_entity": "THE MASTER",
+      "target_type": "MOVIE",
+      "relationship_description": "Amy Adams는 The Master에 출연했다",
+      "relationship_strength": 10
+    }
+  ],
+  "entity_resolution": {
+    "REYNOLDS": {
+      "description": "REYNOLDS -> REYNOLDS",
+      "resolved_name": "REYNOLDS",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "ALMA": {
+      "description": "ALMA -> ALMA",
+      "resolved_name": "ALMA",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "CYRIL": {
+      "description": "CYRIL -> CYRIL",
+      "resolved_name": "CYRIL",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "PTA": {
+      "description": "PTA -> 폴 토마스 앤더슨",
+      "resolved_name": "폴 토마스 앤더슨",
+      "entity_type": "MOVIE_STAFF",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "JONATHAN DEMME": {
+      "description": "JONATHAN DEMME -> JONATHAN DEMME",
+      "resolved_name": "JONATHAN DEMME",
+      "entity_type": "MOVIE_STAFF",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "AMY ADAMS": {
+      "description": "AMY ADAMS -> AMY ADAMS",
+      "resolved_name": "AMY ADAMS",
+      "entity_type": "ACTOR",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "THE MASTER": {
+      "description": "THE MASTER -> THE MASTER",
+      "resolved_name": "THE MASTER",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

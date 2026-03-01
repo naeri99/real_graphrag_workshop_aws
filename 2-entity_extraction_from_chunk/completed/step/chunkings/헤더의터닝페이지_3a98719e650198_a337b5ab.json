@@ -1,0 +1,133 @@
+{
+  "chunk_hash": "3a98719e650198",
+  "chunk_id": "헤더의터닝페이지_3a98719e650198_a337b5ab",
+  "user_query": "세 아이들 그리고 자상한 남편과 생일을 맞고 있는 주인공 앨리스입니다 아이비리그 대학 교수인 그녀는 존경받는 삶을 살고 있었죠 하지만 최근 들어 그녀의 건망증이 심해졌습니다 [음악] 애를 먹고 있었거든요 샌프란시스코에서의 초청 강의를 마친 뒤 앨리스는 막내딸 리디아를 찾아갑니다 연극배우인 리디아는 늘 앨리스의 아픈 손가락이었습니다 변호사 언니와 의사 오빠 사이에서 늘 튀었거든요 그래서 앨리스는 늘 리디아가 다른 삶을 살길 원했습니다 대학에 가길 원했고 안정적인 직장을 갖길 원했죠 [음악] 하지만 남편이 몰래 지원하고 있었던 걸 알게 되자 앨리스는 화가 나죠 이후 브루클린으로 돌아와 조깅을 하던 앨리스 무언가가 잘못된 듯 합니다 매일 조깅을 하던 이곳이 어색하게 느껴졌고 어딘지도 모르겠단 느낌을 받았기 때문입니다 마음을 추스르고 집에 도착하자 퇴근을 한 남편이 보입니다 그래서 앨리스는 묻죠 이제 앨리스는 의심스러워졌습니다 내 기억력에 문제가 생긴 건 아닐까 하고 말이죠 불안했지만 별일 아닐 것이라 여기는 앨리스입니다 크리스마스가 찾아왔습니다 가족 모임에 아들의 여자친구도 참석했죠 하지만 앨리스는 이 날도 조금 전 만난 아들의 여자친구를 잊어버린 그녀입니다 그리고 며칠 뒤 의사에게서 이런 말을 듣게 되죠 그날 밤 앨리스는 [웃음] 젊은 나이에 발생하는 조발성 알츠하이머병을 진단받은 앨리스입니다 [음악] [음악] 앨리스는 깊은 슬픔과 고통에 휩싸였지만 여전히 삶을 살아보려 노력합니다 하지만 이는 쉽지 않았습니다 결국 앨리스는 교수직을 내려놓게 되죠 그럼에도 그녀는 일상을 지켜보려 합니다 예전처럼 조깅을 하고 아이스크림도 먹어보죠 하지만 이젠 가족들 특히 남편은 [음악] 앨리스는 짐이 되고 싶지 않았기에 홀로 요양병원을 찾기도 합니다 자신의 어머니가 입원할 병원을 찾고 있던 거짓말과 함께 말이죠 하지만 이곳에 방문한 뒤 앨리스는 다른 방식으로 자신의 마지막을 정리하려 합니다 그래서 기억을 모두 잃어버렸을 미래의 자신에게 영상 편지를 남기죠 [음악] 아이들의 이름이 무엇인지 나는 어디 사는지 내 생일은 언제인지 이 모든 것들이 기억나지 않을 땐 옷장 안에 서랍에서 약을 찾아 스스로를 놓아주라고요 그렇게 시간이 지나고 조금 다른 모습의 앨리스가 보입니다 살던 곳도 바뀌었죠 하지만 사랑하는 사람들은 그녀의 곁에 그대로 있었습니다 그래서 앨리스는 많이 웃고 또 이야기해보려 노력합니다 그러나 이런 가족들 간의 사랑도 알츠하이머를 막지 못했습니다 [음악] 앨리스의 상태가 점점 나빠지고 있었기 때문입니다 이후 앨리스는 막내딸 리디아의 방에서 우연히 일기를 읽게 됩니다 그러던 중 일이 터지고 말죠 [음악] [음악] 기억이 살아있는 척 연기를 하고 싶었던 것이었을까요 딸에게 큰 실수를 한 앨리스입니다 서로를 더 알게 된 두 모녀 그리고 그날 저녁 가족들은 리디아의 무대를 보러 갔습니다 [박수] [음악] 오랫동안 언어학 교수로서 살아왔던 앨리스는 알츠하이머병 환우들을 위한 연설을 맡아달란 제안을 받게 됩니다 준비과정이 쉽지 않았지만 자신을 위해 또 사랑하는",
+  "movie_id": "스틸 앨리스",
+  "reviewer": "헤더의터닝페이지",
+  "chunk_index": 1,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "앨리스",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "앨리스는 아이비리그 대학의 언어학 교수로, 세 자녀와 자상한 남편이 있으며, 젊은 나이에 조발성 알츠하이머병을 진단받아 점점 기억을 잃어가는 주인공이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "리디아",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "리디아는 앨리스의 막내딸로 연극배우이며, 변호사 언니와 의사 오빠와 달리 대학에 가지 않아 앨리스의 아픈 손가락이었던 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "남편",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "앨리스의 자상한 남편으로, 막내딸 리디아를 몰래 지원하고 있었으며 앨리스의 투병 과정을 함께하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "아들",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "앨리스의 아들로 의사이며, 크리스마스 가족 모임에 여자친구를 데려온 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "스틸 앨리스",
+      "entity_type": "MOVIE",
+      "entity_description": "조발성 알츠하이머병을 진단받은 언어학 교수 앨리스가 점점 기억을 잃어가면서도 가족과 함께 삶을 살아가려 노력하는 이야기를 다룬 영화이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "앨리스",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "스틸 앨리스",
+      "target_type": "MOVIE",
+      "relationship_description": "앨리스는 스틸 앨리스의 주인공이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "리디아",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "스틸 앨리스",
+      "target_type": "MOVIE",
+      "relationship_description": "리디아는 스틸 앨리스에 등장하는 앨리스의 막내딸이다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "앨리스",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "리디아",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "앨리스는 리디아의 어머니이며, 리디아가 대학에 가길 원했고 병이 진행되면서 리디아의 일기를 읽는 등 복잡한 모녀 관계를 보여준다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "앨리스",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "남편",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "앨리스와 남편은 부부 관계이며, 남편은 앨리스의 알츠하이머 투병을 함께한다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "리디아",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "남편",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "남편은 리디아의 아버지로, 앨리스 몰래 리디아를 지원하고 있었다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "앨리스",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "아들",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "앨리스는 아들의 어머니이다",
+      "relationship_strength": 7
+    }
+  ],
+  "entity_resolution": {
+    "앨리스": {
+      "description": "앨리스 -> 앨리스 하울랜드",
+      "resolved_name": "앨리스 하울랜드",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "리디아": {
+      "description": "리디아 -> Lydia Howland",
+      "resolved_name": "Lydia Howland",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "남편": {
+      "description": "남편 -> Tomas",
+      "resolved_name": "Tomas",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "아들": {
+      "description": "아들 -> 황태술 아들",
+      "resolved_name": "황태술 아들",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "스틸 앨리스": {
+      "description": "스틸 앨리스 -> 스틸 앨리스",
+      "resolved_name": "스틸 앨리스",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "name_exact"
+    }
+  }
+}

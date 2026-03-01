@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "메릴 스트립",
+    "synonym": [
+      "Meryl Streep",
+      "머릴 스트립",
+      "메릴",
+      "메릴 스트리프",
+      "메릴 스트립",
+      "메릴스트리프",
+      "메릴스트립",
+      "스트리프",
+      "스트립"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "메릴 스트립은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

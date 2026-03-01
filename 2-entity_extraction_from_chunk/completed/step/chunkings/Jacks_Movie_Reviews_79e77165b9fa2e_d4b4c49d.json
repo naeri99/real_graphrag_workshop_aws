@@ -1,0 +1,49 @@
+{
+  "chunk_hash": "79e77165b9fa2e",
+  "chunk_id": "Jacks_Movie_Reviews_79e77165b9fa2e_d4b4c49d",
+  "user_query": "of appearances. When he meets Alma she is immediately able to see through this facade. In many ways she sees herself in him and he sees himself in her. What draws him to her isn't her beauty, it's the mistake that she makes. He sees the humanity in her. It's her imperfections that he is drawn to, and while everyone else may try to hide these, she embraces them. She has a love of self that allows her to accept her flaws, just as Reynolds does. When they meet for the first time his love is blatantly obvious. He first tests her to make sure that she can support him Would you remember? Yes. I'm keeping this. After she passes, so to speak, he shows off his worth by making a dress for her, something he does out of passion, not for financial gain. Perhaps the last person he did this for was his mother. Alma sees the good in him. She sees that he needs someone, but that he isn't able to put this into words. She sees his weaknesses And how uncomfortable he is and giving her a caring nature, chooses to show him the love that she knows that he needs. I think you're only acting strong. When they get back to London, he falls back into his cyclical traits. He needs someone to break him out, which is the reason that he is so drawn to Alma. He thinks that she can change his life. But he doesn't make it easy. The imperfections that he is drawn to simultaneously annoy him. They move him out of his comfort zone, and he needs to choose: either his relationship with Alma or his passion of",
+  "movie_id": "팬텀 스레드",
+  "reviewer": "Jacks_Movie_Reviews",
+  "chunk_index": 2,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "ALMA",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Alma는 Reynolds를 처음 만났을 때 그의 가면을 꿰뚫어 볼 수 있었던 인물로, 자신의 결점을 받아들이는 자기애를 가진 캐릭터이다. Reynolds에게 필요한 사랑을 보여주며, 그의 약점과 불편함을 이해하는 돌봄의 성격을 가졌다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "REYNOLDS",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Reynolds는 외적인 모습 뒤에 가면을 쓰고 있는 인물로, Alma의 불완전함에 끌리며 그녀를 위해 드레스를 만들어준다. 런던으로 돌아오면 순환적인 특성으로 돌아가며, 누군가가 그를 변화시켜주길 필요로 하는 캐릭터이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "ALMA",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "REYNOLDS",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Alma와 Reynolds는 서로에게서 자신을 발견하며, Alma는 Reynolds의 약점을 이해하고 그에게 필요한 사랑을 보여주는 연인 관계이다",
+      "relationship_strength": 10
+    }
+  ],
+  "entity_resolution": {
+    "ALMA": {
+      "description": "ALMA -> ALMA",
+      "resolved_name": "ALMA",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "REYNOLDS": {
+      "description": "REYNOLDS -> REYNOLDS",
+      "resolved_name": "REYNOLDS",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

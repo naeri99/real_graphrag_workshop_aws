@@ -1,0 +1,93 @@
+{
+  "chunk_hash": "c93e630635faed",
+  "chunk_id": "N생작_-_review_c93e630635faed_f67f3532",
+  "user_query": "알. >> 아직 10분 정도 남았는데 얘기 좀 할래요? 내가 불쌍해요? >> 불쌍하긴 뭘. 씨 불쌍. >> 그럼 내가 좋아요? >> 좋긴 뭘. 좋아. >> 내가 어디가 좋아요? 그렇게 서로에 대한 마음을 확인한 두 사람은 뜨거운 연애를 시작합니다. >> 그래 빨리 봐봐. 미쳤어 미쳤어. 어 미쳤어 진짜 미쳤어. >> 이거 아니야? >> 아 네가 원하는 줄 알았지. 알았어. 그로부터 2년 뒤 행복한 시간도 잠시 출소를 하게 된 태일. >> 한태일이 아니야. >> 먹고 여기랑 그리 여기에 라인 나오면 돼. 이상한 주소야. 가봐 형님 저 모범수로 나온 겁니다. 모범수. >> 아직 형이 더 남았지만 어떤 이유에서인지 집행 정지가 되어 일찍 나오게 되죠. >> 믿음이 없어. 믿음이 >> 한편 태일이 수감 생활을 하는 동안 그의 아버지는 치매 증상이 계속 악화되어 가고 있었습니다. >> 할아버지 >> 모시고 가세요. 아버지 이러면 이 새끼야 뭔 생활을 치고 떠들어온 거야? 가요. 빨리 가요. 빨리 가. >> 정신 돌아오면 또 멀쩡하고 괜찮아. >> 야 그래도 그렇지. 아버지 버스를 몰게 하면 어떡하냐? 아버지 그렇게 걱정되면 네가 교도소로 뭐 하러 왔어? 이 모범적인 새끼야. >> 에이 씨 미친 개 돼지 새끼야. >> 어 돼지 이런 빨간 원숭이 같은 새끼. 야 이 새끼야. >> 하지만 그에게 가장 중요한 건 따로 있었죠. >> 여긴 어떻게 알고 온 거야? 여 이거 >> 나한테 이러는 거 미안하지도 않아. 난 네가 죽어버렸으면 좋겠어. 행복했던 2년 전 그때와는 너무나도 달라진 하정. 둘 사이에 어떤 일이 있었던 걸까요? 집에 온 뒤 면도를 하고 있는 태일에게 갑자기 코피가 쏟아지기 시작합니다. >> 그가 집행 정지를 받고 일찍 출소할 수 있었던 이유는 시한부 판정을 받았기 때문이었죠. >> 왜 이러세요 과장님? 나 안 나간다고요. 절대 안 나간다고요. >> 남은 시간 길어야 3개월이야. 나가서 전문적으로 치료도 좀 더 잘 받고 가족이랑도 정리해야 되지 않겠냐? 이야기는 2년 전으로 거슬러 올라갑니다. >> 아, 이런 거 세탁기 돌리면 되지. 손으로 빨고 있냐? 아유, >> 오빠, >> 우리 여기 월명산 올라갈까? >> 월명산? 야, 여기 올라오는 게 등반이다. >> 야, 친드레의 정석 태일. >> 뭐 해? 나가자며. >> 대박 >> 사랑해 [ __ ] 이런 사랑꾼 태일에게도 단점이 하나 있었으니 >> 솔직히 직장도 새로 구했으면 좋겠고 >> 그건 바로 그의 직업이었죠. >> 오빠 우리 아기 갖자. >> 결국 그는 친구이자 사장인 두철을 찾아가 통보를 하게 됩니다. >> 야 회의 시간은 좀 지키자. 지금 몇 시냐? 아이템 죽이는 거 하나 있어. 빨리 앉아 봐. 두철아, 나 이제 일 그만둘란다. >> 무슨 말인지는 알겠어. 알겠는데 그냥 마지막으로 크게 한번 하고 >> 우리 다 같이 은퇴하자니까. >> 마지막 한 탕을 하자는 친구의 꼬득임에도 그는 깔끔하게 하정과의 약속을 지키죠. >> 갈게. 벌려 놓은 일은 내가 마무리 짓고 나갈 테니까 너무",
+  "movie_id": "남자가 사랑할 때",
+  "reviewer": "N생작_-_review",
+  "chunk_index": 3,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "태일",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "태일은 시한부 판정을 받고 집행 정지로 일찍 출소한 인물로, 하정과 연애를 했으며 친구 두철과 함께 일했던 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "하정",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "하정은 태일의 연인으로, 2년 전에는 행복한 연애를 했지만 태일 출소 후에는 달라진 태도를 보이는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "두철",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "두철은 태일의 친구이자 사장으로, 태일에게 마지막 한 탕을 제안하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "태일 아버지",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "태일의 아버지로 치매 증상이 악화되어 버스를 모는 등 문제 행동을 보이는 인물이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "태일",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "하정",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "태일과 하정은 연인 관계로 2년간 연애를 했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "태일",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "두철",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "태일과 두철은 친구이자 사업 동료 관계이다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "태일",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "태일 아버지",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "태일과 태일 아버지는 부자 관계이다",
+      "relationship_strength": 10
+    }
+  ],
+  "entity_resolution": {
+    "태일": {
+      "description": "태일 -> 태일",
+      "resolved_name": "태일",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "하정": {
+      "description": "하정 -> 한송지",
+      "resolved_name": "한송지",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "두철": {
+      "description": "두철 -> 두철",
+      "resolved_name": "두철",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "태일 아버지": {
+      "description": "태일 아버지 -> 태일 아버지",
+      "resolved_name": "태일 아버지",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

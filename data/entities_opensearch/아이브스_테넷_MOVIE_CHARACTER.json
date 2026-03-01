@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "아이브스",
+    "synonym": [
+      "Ives",
+      "Ives 캐릭터",
+      "아이베스",
+      "아이브",
+      "아이브스",
+      "아이브스 대위",
+      "아이브스 캐릭터",
+      "아이브즈",
+      "이브스",
+      "이브즈"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "아이브스은 영화 '테넷'의 등장인물로, 에런 테일러 존슨이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

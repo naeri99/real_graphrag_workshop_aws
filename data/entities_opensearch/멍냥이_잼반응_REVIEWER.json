@@ -1,0 +1,13 @@
+{
+  "entity": {
+    "name": "멍냥이_잼반응",
+    "synonym": [
+      "멍냥이_잼반응",
+      "멍냥이 잼반응"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "멍냥이_잼반응은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

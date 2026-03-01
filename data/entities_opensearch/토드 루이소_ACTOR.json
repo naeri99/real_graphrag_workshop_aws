@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "토드 루이소",
+    "synonym": [
+      "Todd",
+      "Todd Louiso",
+      "루이소",
+      "토드",
+      "토드 루이소",
+      "토드 루이스",
+      "토드 루이쏘",
+      "토드 루이조",
+      "토드루이소",
+      "토드루이조"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "토드 루이소은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "entity": {
+    "name": "Dr. Michaels",
+    "synonym": [
+      "Dr Mann",
+      "Dr Michaels",
+      "Dr. Decker",
+      "Dr. Michaels",
+      "Mann",
+      "Michaels",
+      "닥터 마이클스",
+      "닥터 만",
+      "닥터 하디",
+      "데커 박사",
+      "로버트 하디",
+      "로버트 하디 박사",
+      "마이클",
+      "마이클 박사",
+      "마이클스",
+      "마이클스 박사",
+      "마이클즈",
+      "마이클즈 박사",
+      "만",
+      "만 박사",
+      "에블린 데커",
+      "에블린 박사",
+      "에블린데커",
+      "이블린 데커",
+      "하디 박사"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "Dr. Michaels은 영화 '2001 스페이스 오디세이'의 등장인물로, 숀 설리번이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

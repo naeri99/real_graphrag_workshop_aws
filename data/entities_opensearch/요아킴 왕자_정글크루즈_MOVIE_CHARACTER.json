@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "요아킴 왕자",
+    "synonym": [
+      "Joachim",
+      "Prince Joachim",
+      "왕자",
+      "왕자 요아킴",
+      "요아킴",
+      "요아킴 왕자",
+      "요아킴왕자",
+      "요아힘",
+      "요아힘 왕자",
+      "요아힘왕자"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "요아킴 왕자은 영화 '정글크루즈'의 등장인물로, 제시 플레먼스이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

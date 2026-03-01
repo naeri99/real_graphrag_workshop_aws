@@ -1,0 +1,186 @@
+{
+  "chunk_hash": "96aa2989820318",
+  "chunk_id": "지무비_-_G_Movie_96aa2989820318_9c747dc9",
+  "user_query": "[음악] 자동차의 시동을 끄는 소방관들 그리고 집으로 들어가는데 으 [음악] 자동차의 가스호스가 2층까지 연결되어 있었죠 2층에는 싸늘한 주검이 되어 있는 중년 부부와 방안에서 자동차 가스를 연결한 채 자살한 것으로 보이는 젊은 여성이 보입니다 평소 조울증을 앓고 있던 막내딸이 자살을 시도하면서 부모님과 함께 세상을 떠난 것이었죠 큰딸인 대니는 자취를 하고 있었기에 화는 면했지만 순식간에 모든 가족을 잃어버린 충격은 그녀에게 큰 트라우마를 남겨주었습니다 이런 대니를 위로해 주기 위해서 대니의 남자친구와 그 친구들은 그녀를 데리고 스웨덴으로 여행을 오게 되죠 그들의 최종 목적지는 친구 Pelle의 고향인 스웨덴의 Hälsingland Pelle는 현대 사회에서 쉽게 접할 수 없는 마을 사람들 모두가 한 가족인 독특한 마을공동체 출신입니다 그곳에서 90년에 딱 한 번씩 열리는 마을의 하지 축제를 함께 즐기러 가는 것이었죠 하지만 가도가도 목적지가 나오지 않아서 잠시 휴식을 취하는데 거참 이제 저녁 9시인데 해가 중천에 떠 있는데 저녁 9시라고 말하는 친구 고위도에 위치해 있어서 안 그래도 해가 긴 스웨덴에서 하지 기간에 방문했기 때문에 백야 현상이 일어나고 있는 것이었죠 식후에 조금 더 걸어서 도착한 마을은 보기만 해도 힐링이 될 정도로 평화로워 보입니다 그와 어울리게 스웨덴 전통의상을 갖춰 입은 마을 사람들도 모두가 너무나 친절하죠 곧이어 이어진 하지 축제의 시작을 알리는 행사 다소 괴상한 소리를 내며 율동을 시작으로 축제가 본격적으로 시작됩니다 [음악] 한차례 행사가 끝나고 Pelle는 그들이 머물 숙소를 안내해 주죠 [음악] 사방이 그림들로 가득 차 있고 사생활이라곤 찾아볼 수 없는 전체가 한 방으로 개방되어 있는 구조였죠 이어서 여행 온 호기심 많은 친구에게 마을 사람들의 나이에 따른 역할을 설명해주며 72살이 되면 어떻게 되냐고 물으니 [음악] 그날 새벽 너무나 평화로워 보이던 마을의 분위기와는 상반되게 아기의 울음소리가 그칠 줄 모릅니다 그리고 집안 곳곳에 그려져 있는 그림들도 다시 보니 모두 불길함을 상징하는 그림들이었죠 다음날 아침엔 이해하기 힘든 율동으로 하루를 시작하고 식사시간도 범상치 않습니다 모두가 1cm의 미동도 없이 돌부처처럼 서있다가 [음악] 노인 2명이 등장하고 또 이 둘이 앉고 나서야 모두 착석하죠 이어서 이 둘이 수저를 들자 그제서야 모두 식사를 하기 시작합니다 식사를 마친 뒤에는 체할 것 같은 괴상한 소리를 내죠 괴상망측한 하울링이 끝나자 한 쌍의 노인들이 마치 왕처럼 가마를 타고 어딘가로 출발하고 모두가 약속되어 있듯이 그 뒤를 따라 가기 시작합니다 으 그렇게 도착한 곳은 아주 높고 새하얀 언덕 가마에 탔던 노인들은 손바닥에 깊은 상처를 내어 한 비석에 피를 묻힌 후 [음악] 그리고는 라이온 킹의 한 장면에서처럼 낭떠러지 앞으로 나와 사람들을 쳐다보다가 하늘을 향해 절규를 하기 시작합니다 으 [음악] 갑자기 불안감이 엄습해 오고 설마설마 했지만 그 설마가 현실이 되어 가죠 아까 72살이 되면 어떻게 되냐고",
+  "movie_id": "미드소마",
+  "reviewer": "지무비_-_G_Movie",
+  "chunk_index": 1,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "대니",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "대니는 가족을 잃은 트라우마를 가진 큰딸로, 남자친구와 친구들과 함께 스웨덴으로 여행을 떠나는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "PELLE",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Pelle는 스웨덴 Hälsingland 출신으로, 현대 사회에서 보기 드문 마을공동체에서 자란 인물이며 친구들을 고향의 하지 축제에 초대한다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "미드소마",
+      "entity_type": "MOVIE",
+      "entity_description": "미드소마는 스웨덴의 한 마을공동체에서 벌어지는 하지 축제를 배경으로 한 공포/스릴러 영화이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "대니의 남자친구",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "대니의 남자친구는 트라우마를 겪은 대니를 위로하기 위해 스웨덴 여행에 동행하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "막내딸",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "막내딸은 조울증을 앓고 있었으며 자살을 시도하면서 부모님과 함께 세상을 떠난 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "중년 부부",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "중년 부부는 대니의 부모로, 막내딸의 자살 시도로 인해 함께 사망한 인물들이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "노인들",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "노인들은 마을에서 특별한 지위를 가지며, 72세가 되면 의식에 참여하여 낭떠러지에서 뛰어내리는 인물들이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "대니",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "미드소마",
+      "target_type": "MOVIE",
+      "relationship_description": "대니는 미드소마의 주인공이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "PELLE",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "미드소마",
+      "target_type": "MOVIE",
+      "relationship_description": "Pelle는 미드소마에 등장하는 주요 인물이다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "대니",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "대니의 남자친구",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "대니와 남자친구는 연인 관계이며 함께 스웨덴으로 여행을 간다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "대니",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "PELLE",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "대니는 Pelle의 초대로 스웨덴 마을을 방문한다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "대니",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "막내딸",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "대니와 막내딸은 자매 관계이다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "대니",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "중년 부부",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "대니는 중년 부부의 큰딸이다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "막내딸",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "중년 부부",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "막내딸의 자살 시도로 인해 중년 부부도 함께 사망했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "노인들",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "미드소마",
+      "target_type": "MOVIE",
+      "relationship_description": "노인들은 미드소마에서 72세가 되면 의식적으로 투신하는 마을의 전통을 보여주는 인물들이다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "PELLE",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "노인들",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Pelle는 노인들이 속한 마을공동체 출신이다",
+      "relationship_strength": 7
+    }
+  ],
+  "entity_resolution": {
+    "대니": {
+      "description": "대니 -> Dani",
+      "resolved_name": "Dani",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "PELLE": {
+      "description": "PELLE -> PELLE",
+      "resolved_name": "PELLE",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "미드소마": {
+      "description": "미드소마 -> 미드소마",
+      "resolved_name": "미드소마",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "대니의 남자친구": {
+      "description": "대니의 남자친구 -> 대니의 남자친구",
+      "resolved_name": "대니의 남자친구",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "막내딸": {
+      "description": "막내딸 -> 막내딸",
+      "resolved_name": "막내딸",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "중년 부부": {
+      "description": "중년 부부 -> 중년 부부",
+      "resolved_name": "중년 부부",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "노인들": {
+      "description": "노인들 -> 노인들",
+      "resolved_name": "노인들",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

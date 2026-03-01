@@ -1,0 +1,13 @@
+{
+  "entity": {
+    "name": "JACE_Cinema",
+    "synonym": [
+      "JACE_Cinema",
+      "JACE Cinema"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "JACE_Cinema은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

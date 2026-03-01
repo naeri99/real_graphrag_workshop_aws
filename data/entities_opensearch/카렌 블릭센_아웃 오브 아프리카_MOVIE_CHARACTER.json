@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "카렌 블릭센",
+    "synonym": [
+      "Karen Blixen",
+      "블릭센",
+      "블릭슨",
+      "카렌",
+      "카렌 블릭센",
+      "카렌 블릭슨",
+      "카렌블릭센",
+      "카렌블릭슨",
+      "캐런 블릭센"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "카렌 블릭센은 영화 '아웃 오브 아프리카'의 등장인물로, 메릴 스트립이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

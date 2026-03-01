@@ -1,0 +1,13 @@
+{
+  "entity": {
+    "name": "무비퓨레_moviepuree",
+    "synonym": [
+      "무비퓨레_moviepuree",
+      "무비퓨레 moviepuree"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "무비퓨레_moviepuree은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

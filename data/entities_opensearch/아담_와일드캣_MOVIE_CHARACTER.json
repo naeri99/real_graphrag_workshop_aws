@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "아담",
+    "synonym": [
+      "Adam",
+      "Adam West",
+      "아담",
+      "아담 웨스트",
+      "아담 캐릭터",
+      "아담웨스트",
+      "아담이",
+      "아덤",
+      "애덤",
+      "웨스트"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "아담은 영화 '와일드캣'의 등장인물로, 치도 느워코차이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

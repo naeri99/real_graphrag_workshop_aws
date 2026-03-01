@@ -1,0 +1,43 @@
+{
+  "movie_title": "브릭스비 베어",
+  "director": [
+    {
+      "name": "데이브 맥커리",
+      "name_en": "Dave McCary"
+    }
+  ],
+  "cast": [
+    {
+      "actor": "카일 무니",
+      "actor_en": "Kyle Mooney",
+      "character": "제임스"
+    },
+    {
+      "actor": "맷 월시",
+      "actor_en": "Matt Walsh",
+      "character": "그렉 포프"
+    },
+    {
+      "actor": "미카엘라 왓킨스",
+      "actor_en": "Michaela Watkins",
+      "character": "루이즈 포프"
+    },
+    {
+      "actor": "호르헤 렌데보그 주니어",
+      "actor_en": "Jorge Lendeborg Jr.",
+      "character": "스펜서"
+    },
+    {
+      "actor": "라이언 심킨스",
+      "actor_en": "Ryan Simpkins",
+      "character": "오브리 포프"
+    }
+  ],
+  "review": [
+    "./data/review/브릭스비 베어/브릭스비 베어_7Lg0Br6oBAE.json",
+    "./data/review/브릭스비 베어/브릭스비 베어_XYoO_Z50puI.json",
+    "./data/review/브릭스비 베어/브릭스비 베어_m36kOFwnCMA.json",
+    "./data/review/브릭스비 베어/브릭스비 베어_nHMT1EPskTY.json",
+    "./data/review/브릭스비 베어/브릭스비 베어_uvN-MHxngfs.json"
+  ]
+}

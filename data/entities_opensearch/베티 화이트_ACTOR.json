@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "베티 화이트",
+    "synonym": [
+      "Betty White",
+      "베티",
+      "베티 와이트",
+      "베티 화이트",
+      "베티 화잇",
+      "베티 휘트",
+      "베티와이트",
+      "베티화이트",
+      "베티화잇",
+      "화이트"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "베티 화이트은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "미치코",
+    "synonym": [
+      "Michiko",
+      "みち子",
+      "ミチコ",
+      "미찌코",
+      "미치코",
+      "미치코짱",
+      "미치코쨩",
+      "미티코"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "미치코은 영화 '이웃집 토토로'의 등장인물로, 히라마츠 아키코이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

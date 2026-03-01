@@ -1,0 +1,18 @@
+{
+  "entity": {
+    "name": "애슐리 스프링",
+    "synonym": [
+      "Ashley Spring",
+      "Ashley Springer",
+      "스프링",
+      "애쉴리 스프링",
+      "애슐리",
+      "애슐리 스프링",
+      "애슐리스프링"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "애슐리 스프링은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

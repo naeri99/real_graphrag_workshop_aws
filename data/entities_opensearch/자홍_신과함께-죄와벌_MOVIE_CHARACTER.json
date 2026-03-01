@@ -1,0 +1,28 @@
+{
+  "entity": {
+    "name": "자홍",
+    "synonym": [
+      "Ja-hong",
+      "Jahong",
+      "Kim Ja-hong",
+      "Kim Jahong",
+      "귀인 김자홍",
+      "귀인 자홍",
+      "김 자홍",
+      "김자홍",
+      "김자홍씨",
+      "망자 김자홍",
+      "망자 자홍",
+      "소방관 자홍",
+      "자 홍",
+      "자홍",
+      "자홍씨",
+      "자홍이",
+      "효자 자홍"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "자홍은 영화 '신과함께-죄와벌'의 등장인물로, 차태현이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

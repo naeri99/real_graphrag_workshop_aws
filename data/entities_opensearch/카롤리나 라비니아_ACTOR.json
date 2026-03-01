@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "카롤리나 라비니아",
+    "synonym": [
+      "Carolina Lavinia",
+      "Carolina Ravassa",
+      "Carolina Ravinia",
+      "라비니아",
+      "카롤리나",
+      "카롤리나 라비니아",
+      "카롤리나라비니아",
+      "캐롤리나 라비니아",
+      "캐롤리나라비니아"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "카롤리나 라비니아은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

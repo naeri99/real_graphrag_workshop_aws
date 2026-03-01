@@ -1,0 +1,23 @@
+{
+  "entity": {
+    "name": "요하네스 바 쿤게",
+    "synonym": [
+      "Johannes Bah Kuhnke",
+      "Johannes Kuhnke",
+      "바 쿤게",
+      "요하네스",
+      "요하네스 바 쿤게",
+      "요하네스 바쿤게",
+      "요하네스 바흐 쿤케",
+      "요하네스 반 쿤게",
+      "요하네스 쿤게",
+      "요하네스바쿤게",
+      "요한네스 바 쿤게",
+      "쿤게"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "요하네스 바 쿤게은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

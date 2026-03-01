@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "알레론 루지에로",
+    "synonym": [
+      "Allelon",
+      "Allelon Ruggiero",
+      "루지에로",
+      "루지에르",
+      "알레론",
+      "알레론 루기에로",
+      "알레론 루지로",
+      "알레론 루지에로",
+      "알레론 루지에르",
+      "알레론루지에로",
+      "알레론루지에르"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "알레론 루지에로은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

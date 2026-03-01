@@ -1,0 +1,71 @@
+{
+  "chunk_hash": "68b873e1f210c2",
+  "chunk_id": "Channel_Awesome_68b873e1f210c2_9184c433",
+  "user_query": "moments or twists in the film that make you go wow or dramatic character moments that really make you think there's none of that here but i don't think people wanting to see the jungle cruise movie are really looking for that i almost feel like that's the trap the pirate movies fell in like they were trying to get too serious this isn't serious at all even when it's trying to be serious it's really not there's a couple moments where they go into like backstory and why people did what they did and the actors play it very well they're convincing but what you're really doing is admiring how seriously they're taking it while questioning wait there's a million things about this that don't make sense but you also get the idea that they know that and they're having fun with it okay you remember the expendables movie how in the first one you weren't really sure if it was meant to be a comedy or a legit action film and then the second one it gets a little sillier and by the third one it's just a straight up comedy that's not fun anymore this kind of walks that tightrope you can tell they know it's silly but you can also tell they're aware the joke will work if they treat it seriously honestly it feels like there was just a drop of charm that was in the script and the director and editor and actor said we're gonna do our damnedest to pull out as much of that charm as possible and have it on the surface level because anything under the surface level clearly isn't gonna work and for my",
+  "movie_id": "정글크루즈",
+  "reviewer": "Channel_Awesome",
+  "chunk_index": 3,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "JUNGLE CRUISE",
+      "entity_type": "MOVIE",
+      "entity_description": "정글 크루즈는 진지하지 않은 톤의 영화로, 심각한 순간에도 실제로는 진지하지 않으며 배우들이 백스토리를 설득력 있게 연기하지만 논리적으로 맞지 않는 부분이 많은 영화이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "THE EXPENDABLES",
+      "entity_type": "MOVIE",
+      "entity_description": "익스펜더블즈는 시리즈가 진행될수록 코미디 성향이 강해진 액션 영화로, 첫 번째는 코미디인지 액션인지 불분명했고 세 번째에서는 완전한 코미디가 되었다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "PIRATES OF THE CARIBBEAN",
+      "entity_type": "MOVIE",
+      "entity_description": "캐리비안의 해적 시리즈는 너무 진지해지려다 함정에 빠진 영화로 언급된다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "JUNGLE CRUISE",
+      "source_type": "MOVIE",
+      "target_entity": "THE EXPENDABLES",
+      "target_type": "MOVIE",
+      "relationship_description": "정글 크루즈는 익스펜더블즈처럼 진지함과 코미디 사이의 줄타기를 하는 영화로 비교된다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "JUNGLE CRUISE",
+      "source_type": "MOVIE",
+      "target_entity": "PIRATES OF THE CARIBBEAN",
+      "target_type": "MOVIE",
+      "relationship_description": "정글 크루즈는 캐리비안의 해적이 너무 진지해진 것과 달리 가벼운 톤을 유지한다고 비교된다",
+      "relationship_strength": 6
+    }
+  ],
+  "entity_resolution": {
+    "JUNGLE CRUISE": {
+      "description": "JUNGLE CRUISE -> JUNGLE CRUISE",
+      "resolved_name": "JUNGLE CRUISE",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "THE EXPENDABLES": {
+      "description": "THE EXPENDABLES -> THE EXPENDABLES",
+      "resolved_name": "THE EXPENDABLES",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "PIRATES OF THE CARIBBEAN": {
+      "description": "PIRATES OF THE CARIBBEAN -> PIRATES OF THE CARIBBEAN",
+      "resolved_name": "PIRATES OF THE CARIBBEAN",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "entity": {
+    "name": "리뷰남Review_man",
+    "synonym": [
+      "리뷰남Review_man",
+      "리뷰남Review man"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "리뷰남Review_man은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

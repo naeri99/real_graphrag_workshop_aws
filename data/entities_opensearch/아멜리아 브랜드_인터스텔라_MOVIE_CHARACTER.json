@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "아멜리아 브랜드",
+    "synonym": [
+      "Amelia Brand",
+      "Brand",
+      "브랜드",
+      "브랜드 박사",
+      "아멜리아",
+      "아멜리아 브랜드",
+      "아멜리아 브랜드 박사",
+      "아멜리아브랜드",
+      "아밀리아",
+      "아밀리아 브랜드",
+      "에밀리아 브랜드"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "아멜리아 브랜드은 영화 '인터스텔라'의 등장인물로, 앤 해서웨이이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

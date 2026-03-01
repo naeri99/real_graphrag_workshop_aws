@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "존 벤필드",
+    "synonym": [
+      "Benfield",
+      "John Benfield",
+      "벤필드",
+      "존",
+      "존 밴필드",
+      "존 벤필드",
+      "존벤필드",
+      "죤 벤필드"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "존 벤필드은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

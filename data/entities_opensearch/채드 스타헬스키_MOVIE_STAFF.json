@@ -1,0 +1,24 @@
+{
+  "entity": {
+    "name": "채드 스타헬스키",
+    "synonym": [
+      "Chad",
+      "Chad Stahelski",
+      "스타헬스키",
+      "채드",
+      "채드 감독",
+      "채드 스타엘스키",
+      "채드 스타헬스키",
+      "채드 스타헬스키 감독",
+      "채드스타헬스키",
+      "챠드",
+      "체드",
+      "체드 감독",
+      "체드 스타헬스키"
+    ],
+    "entity_type": "MOVIE_STAFF",
+    "summary": "채드 스타헬스키은 영화 감독입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

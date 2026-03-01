@@ -1,0 +1,52 @@
+{
+  "chunk_hash": "4885f6f8b2eacd",
+  "chunk_id": "유캔프리_UCANFREE_4885f6f8b2eacd_c183f387",
+  "user_query": "at Lottie's to the airport tomorrow and then I can't do this anymore I can't do this anymore I can't do this anymore I can't do this anymore I can't do this anymore I saw you at the travel agency today I saw you at the travel agency today I saw you at the travel agency today I saw you at the travel agency today I saw you at the travel agency today where are you going where are you going where are you going where are you going where are you going Johannesburg business Johannesburg business Johannesburg business Johannesburg business Johannesburg business Samantha Samantha wait please will you please you can't do this to me you can't leave me you can't do this to me you can't leave me you can't do this to me you can't leave me you can't do this to me you can't leave me you can't do this to me you can't leave me what are you saying are you saying that I'll never see you again what are you saying are you saying I'll never see you again what are you saying are you saying I'll never see you again what are you saying are you saying I'll never see you again what are you saying are you saying I'll never see you again in or out my friend it's your choice in or out my friend it's your choice in or out my friend it's your choice in or out my friend it's your choice in or out my friend it's your choice [Music] read one word and I'll kill you read one word and I'll kill you read one word and I'll kill you read one word and I'll kill you read one word and I'll kill you I was just kidding I",
+  "movie_id": "이프 온리",
+  "reviewer": "유캔프리_UCANFREE",
+  "chunk_index": 20,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "LOTTIE",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Lottie는 대화에서 언급된 인물로, 공항으로 이동하는 것과 관련이 있다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "SAMANTHA",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Samantha는 대화에서 언급된 인물로, 떠나려고 하며 다른 인물이 그녀를 붙잡으려 한다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "JOHANNESBURG",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "요하네스버그는 Samantha가 출장으로 가려는 목적지로 언급된 장소이다"
+    }
+  ],
+  "relationships": [],
+  "entity_resolution": {
+    "LOTTIE": {
+      "description": "LOTTIE -> LOTTIE",
+      "resolved_name": "LOTTIE",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "SAMANTHA": {
+      "description": "SAMANTHA -> Samantha Andrews",
+      "resolved_name": "Samantha Andrews",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "JOHANNESBURG": {
+      "description": "JOHANNESBURG -> JOHANNESBURG",
+      "resolved_name": "JOHANNESBURG",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

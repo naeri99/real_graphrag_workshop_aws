@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "라일라",
+    "synonym": [
+      "Laila",
+      "Layla",
+      "Rylla",
+      "Rylla character",
+      "Ryoko",
+      "라이라",
+      "라일라",
+      "라일라 캐릭터",
+      "라일라캐릭터",
+      "라일러",
+      "레일라"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "라일라은 영화 '마션'의 등장인물로, 나오미 스콧이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "리차드 포론지",
+    "synonym": [
+      "Richard",
+      "Richard Foronjy",
+      "Richard Fuld",
+      "리차드 포론지",
+      "리차드포론지",
+      "리차드풀드",
+      "리처드 포론지",
+      "리처드 풀드",
+      "리처드포론지",
+      "포론지",
+      "풀드"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "리차드 포론지은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

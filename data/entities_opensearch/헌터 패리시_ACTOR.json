@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "헌터 패리시",
+    "synonym": [
+      "Hunter Parrish",
+      "Parrish",
+      "패리시",
+      "페리시",
+      "헌터",
+      "헌터 패리쉬",
+      "헌터 패리시",
+      "헌터 페리시",
+      "헌터패리시",
+      "헌터페리시"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "헌터 패리시은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

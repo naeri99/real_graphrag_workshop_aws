@@ -1,0 +1,262 @@
+{
+  "chunk_hash": "53a5c98278fe47",
+  "chunk_id": "리우군의_다락방_53a5c98278fe47_8babf655",
+  "user_query": "과거로 돌아가지 않고 또 다른 세상으로 나아갑니다. Anderson 또한 자신의 신념에 따라 움직이기 시작하는데 그게 방아쇠가 되어 녹스, Pitts, Meeks를 비롯한 Keating의 수업을 들었던 아이들을 움직이게 합니다. 그리고는 선생님에게 존경심을 표하죠. 대학 입시에만 집중하는 것과 세상을 다른 눈으로 바라보게 만드는 것. 선택과 집중. 여기에 정답은 없습니다. 삶을 살아가는 가치관의 차이일 뿐이죠. 누군가는 낭만을 추구하는 Keating을 보고 손가락질을 할지도 모르고, 또 누군가는 아이들을 공부하는 기계로만 취급한다며 교장을 비난할지도 모릅니다. 하지만 중요한 건 그 방법의 차이겠죠. 어찌 됐건 교장은 가해자를 만들어야 했고, 결국 만들어냈고 아이들을 자신에게 굴복시킴으로써 사건을 해결하려 했습니다. 이기기 위해 자신의 왕국을 지키기 위해 아주 비겁한 방법을 쓴 거죠. 그의 모습은 자신의 선택을 합리화하는 Cameron과 맞닿아 있습니다. 반대로 교탁 위에 올라가 세상을 바라보는 방법을 말해주던 Keating은 Anderson과 이어져 있습니다. 권위적이고 강압적인 웰튼 아카데미의 교탁에 올라서는 일은 아이들에게 있을 수 없는 일이었지만 그는 누군가가 제멋대로 정해놓은 아이들의 한계점을 그렇게 부숴줍니다. 교장이 앞에 있음에도 Anderson이 책상 위에 올라설 수 있었던 이유가 바로 그 때문이죠. 자신의 한계치를 만들어 놓고 그 안에 갇혀 있었던 지난날을 뒤로 하고 Anderson은 바로 이 순간 스스로 알을 깨버린 겁니다. 다시 한번 묻겠습니다. Keating의 교육은 실패한 걸까요? 성공한 걸까요? 영화 '죽은 시인의 사회'였습니다.",
+  "movie_id": "죽은 시인의 사회",
+  "reviewer": "리우군의_다락방",
+  "chunk_index": 4,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "ANDERSON",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Anderson은 Keating의 수업을 듣는 학생으로, 자신의 신념에 따라 움직이기 시작하며 결국 교장 앞에서도 책상 위에 올라서는 용기를 보여주는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "KEATING",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Keating은 교탁 위에 올라가 세상을 바라보는 방법을 가르치며, 낭만을 추구하고 아이들의 한계점을 부숴주는 선생님이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "KNOX",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Knox는 Keating의 수업을 들었던 학생 중 한 명으로, Anderson의 행동에 영향을 받아 움직이게 되는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "PITTS",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Pitts는 Keating의 수업을 들었던 학생 중 한 명으로, Anderson의 행동에 영향을 받아 움직이게 되는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "MEEKS",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Meeks는 Keating의 수업을 들었던 학생 중 한 명으로, Anderson의 행동에 영향을 받아 움직이게 되는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "CAMERON",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Cameron은 자신의 선택을 합리화하는 인물로, 교장의 비겁한 방법과 맞닿아 있는 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "교장",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "교장은 권위적이고 강압적인 웰튼 아카데미를 이끄는 인물로, 가해자를 만들어 아이들을 굴복시키려 하는 비겁한 방법을 사용한다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "죽은 시인의 사회",
+      "entity_type": "MOVIE",
+      "entity_description": "죽은 시인의 사회는 웰튼 아카데미를 배경으로 Keating 선생님과 학생들의 이야기를 다룬 영화이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "ANDERSON",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "죽은 시인의 사회",
+      "target_type": "MOVIE",
+      "relationship_description": "Anderson은 죽은 시인의 사회의 주요 등장인물이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "KEATING",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "죽은 시인의 사회",
+      "target_type": "MOVIE",
+      "relationship_description": "Keating은 죽은 시인의 사회의 핵심 인물인 선생님이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "KNOX",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "죽은 시인의 사회",
+      "target_type": "MOVIE",
+      "relationship_description": "Knox는 죽은 시인의 사회의 등장인물이다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "PITTS",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "죽은 시인의 사회",
+      "target_type": "MOVIE",
+      "relationship_description": "Pitts는 죽은 시인의 사회의 등장인물이다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "MEEKS",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "죽은 시인의 사회",
+      "target_type": "MOVIE",
+      "relationship_description": "Meeks는 죽은 시인의 사회의 등장인물이다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "CAMERON",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "죽은 시인의 사회",
+      "target_type": "MOVIE",
+      "relationship_description": "Cameron은 죽은 시인의 사회의 등장인물이다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "교장",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "죽은 시인의 사회",
+      "target_type": "MOVIE",
+      "relationship_description": "교장은 죽은 시인의 사회에서 웰튼 아카데미를 이끄는 인물이다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "ANDERSON",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "KEATING",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Anderson은 Keating의 가르침에 영향을 받아 자신의 한계를 깨고 성장하는 인물이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "KNOX",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "KEATING",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Knox는 Keating의 수업을 들었던 학생이다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "PITTS",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "KEATING",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Pitts는 Keating의 수업을 들었던 학생이다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "MEEKS",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "KEATING",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Meeks는 Keating의 수업을 들었던 학생이다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "CAMERON",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "교장",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Cameron의 합리화하는 모습은 교장의 비겁한 방법과 맞닿아 있다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "교장",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "KEATING",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "교장은 Keating과 대립하는 권위적인 인물로, 서로 다른 교육 철학을 가지고 있다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "ANDERSON",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "KNOX",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Anderson의 행동이 Knox를 포함한 다른 학생들을 움직이게 하는 방아쇠가 되었다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "ANDERSON",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "PITTS",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Anderson의 행동이 Pitts를 포함한 다른 학생들을 움직이게 하는 방아쇠가 되었다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "ANDERSON",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "MEEKS",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Anderson의 행동이 Meeks를 포함한 다른 학생들을 움직이게 하는 방아쇠가 되었다",
+      "relationship_strength": 7
+    }
+  ],
+  "entity_resolution": {
+    "ANDERSON": {
+      "description": "ANDERSON -> ANDERSON",
+      "resolved_name": "ANDERSON",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "KEATING": {
+      "description": "KEATING -> KEATING",
+      "resolved_name": "KEATING",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "KNOX": {
+      "description": "KNOX -> KNOX",
+      "resolved_name": "KNOX",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "PITTS": {
+      "description": "PITTS -> PITTS",
+      "resolved_name": "PITTS",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "MEEKS": {
+      "description": "MEEKS -> MEEKS",
+      "resolved_name": "MEEKS",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "CAMERON": {
+      "description": "CAMERON -> CAMERON",
+      "resolved_name": "CAMERON",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "교장": {
+      "description": "교장 -> 학교 교장",
+      "resolved_name": "학교 교장",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "죽은 시인의 사회": {
+      "description": "죽은 시인의 사회 -> 죽은 시인의 사회",
+      "resolved_name": "죽은 시인의 사회",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "name_exact"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "김무열",
+    "synonym": [
+      "Kim Moo-yul",
+      "Kim Mu-yeol",
+      "Moo-yul Kim",
+      "김 무열",
+      "김무 열",
+      "김무열",
+      "김무열 배우",
+      "김무열씨",
+      "무열"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "김무열은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

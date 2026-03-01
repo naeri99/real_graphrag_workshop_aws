@@ -1,0 +1,186 @@
+{
+  "chunk_hash": "32975d0e038b7d",
+  "chunk_id": "무비씨엘로_MOVIE_CIELO_32975d0e038b7d_ae3a2dd6",
+  "user_query": "what's the intercept distance 312 meters approximately too far Commander distance is too far I'm going out I can do this it's not a debate I'm not risking another crew member Beck suit up Johanssen initiate the bomb five four three brace for deceleration two one activating panel 41. please Bridge still holding lots of damage worry about that later what's the relative velocity 12 meters per second copy hook me up done I have visual on the MAV what's the intercept range I'm checking 312 meters did you say 312 great I'll wave at you guys as I go by Beck you can't get to him Mark you're too far I'm not gonna make it I know Beck unhook me I'm going after him Commander I got this Mark report on my way Commander Beck be safe you handsome man what's my relative velocity to Mark 5.2 meters per second 3.1 meters per second 54 meters 6 meters hold on Mark all right I got you I got you way to go Iron Man [Music] Houston this is Hermes actual we got him Martinez bring us home [Music] hey Houston be advised Hermes crew safely aboard [Music] [Applause] there's a little surprise going on over here I haven't had a shower in a year [Music] [Music] this is space it does not cooperate [Music] [Music] [Music] foreign [Music] [Music]",
+  "movie_id": "마션",
+  "reviewer": "무비씨엘로_MOVIE_CIELO",
+  "chunk_index": 12,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "THE MARTIAN",
+      "entity_type": "MOVIE",
+      "entity_description": "우주에서의 구조 작전을 다룬 영화로, 화성에 고립된 우주비행사를 구출하는 장면이 포함되어 있다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "MARK",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "마크는 구조 대상이 되는 우주비행사로, MAV에서 헤르메스 호로 구출되는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "BECK",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "벡은 헤르메스 호의 승무원으로, 마크를 구출하기 위해 우주 유영을 하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "COMMANDER",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "커맨더는 헤르메스 호의 지휘관으로, 구조 작전을 지휘하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "JOHANSSEN",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "요한센은 헤르메스 호의 승무원으로, 폭탄 기폭을 담당하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "MARTINEZ",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "마르티네즈는 헤르메스 호의 승무원으로, 우주선을 조종하여 귀환하는 역할을 맡은 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "HERMES",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "헤르메스는 구조 임무를 수행하는 우주선의 이름이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "MARK",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "THE MARTIAN",
+      "target_type": "MOVIE",
+      "relationship_description": "마크는 이 영화에서 구출되는 주인공이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "BECK",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "THE MARTIAN",
+      "target_type": "MOVIE",
+      "relationship_description": "벡은 이 영화의 구조 작전에 참여하는 승무원이다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "COMMANDER",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "THE MARTIAN",
+      "target_type": "MOVIE",
+      "relationship_description": "커맨더는 이 영화에서 구조 작전을 지휘하는 인물이다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "JOHANSSEN",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "THE MARTIAN",
+      "target_type": "MOVIE",
+      "relationship_description": "요한센은 이 영화의 헤르메스 호 승무원이다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "MARTINEZ",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "THE MARTIAN",
+      "target_type": "MOVIE",
+      "relationship_description": "마르티네즈는 이 영화의 헤르메스 호 승무원이다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "BECK",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "MARK",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "벡은 우주 유영을 통해 마크를 직접 구출한다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "COMMANDER",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "BECK",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "커맨더는 벡에게 구조 임무를 지시한다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "COMMANDER",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "JOHANSSEN",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "커맨더는 요한센에게 폭탄 기폭을 지시한다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "COMMANDER",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "MARTINEZ",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "커맨더는 마르티네즈에게 귀환을 지시한다",
+      "relationship_strength": 7
+    }
+  ],
+  "entity_resolution": {
+    "THE MARTIAN": {
+      "description": "THE MARTIAN -> THE MARTIAN",
+      "resolved_name": "THE MARTIAN",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "MARK": {
+      "description": "MARK -> Mark",
+      "resolved_name": "Mark",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "BECK": {
+      "description": "BECK -> Chris Beck",
+      "resolved_name": "Chris Beck",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "COMMANDER": {
+      "description": "COMMANDER -> COMMANDER",
+      "resolved_name": "COMMANDER",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "JOHANSSEN": {
+      "description": "JOHANSSEN -> JOHANSSEN",
+      "resolved_name": "JOHANSSEN",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "MARTINEZ": {
+      "description": "MARTINEZ -> Rick Martinez",
+      "resolved_name": "Rick Martinez",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "HERMES": {
+      "description": "HERMES -> HERMES",
+      "resolved_name": "HERMES",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

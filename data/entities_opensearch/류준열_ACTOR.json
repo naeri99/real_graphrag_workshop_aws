@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "류준열",
+    "synonym": [
+      "Ryu Jun-yeol",
+      "Ryu Junyeol",
+      "류 준열",
+      "류준 열",
+      "류준렬",
+      "류준열",
+      "유준열",
+      "준열"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "류준열은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "entity": {
+    "name": "원동연",
+    "synonym": [
+      "Dongyeon",
+      "Dongyon",
+      "Won Dong-yeon",
+      "Won Dongyeon",
+      "김수홍",
+      "김자홍 동생",
+      "동연",
+      "동연이",
+      "수명장자",
+      "수호 대상자",
+      "수호신 원동연",
+      "수홍",
+      "원 동연",
+      "원동연",
+      "원동연 프로듀서",
+      "원일병",
+      "자홍 동생"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "원동연은 영화 '신과함께-죄와벌'의 등장인물로, 도경수이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

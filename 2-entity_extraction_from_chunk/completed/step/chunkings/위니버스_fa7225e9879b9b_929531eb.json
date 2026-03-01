@@ -1,0 +1,49 @@
+{
+  "chunk_hash": "fa7225e9879b9b",
+  "chunk_id": "위니버스_fa7225e9879b9b_929531eb",
+  "user_query": "the world better. This is everyone's goal and Weniverse's goal. Beyond trying to make the present better. each of us has a duty to do more for future generations. As Brand said, it's not just gravity but love that goes beyond spacetime. If you agree that the contents of Weniverse can change the world even a little bit, you can participate in video production with membership. A lot of caffeine is needed for video production.",
+  "movie_id": "인터스텔라",
+  "reviewer": "위니버스",
+  "chunk_index": 16,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "BRAND",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Brand는 영화에서 중력뿐만 아니라 사랑이 시공간을 초월한다고 말한 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "WENIVERSE",
+      "entity_type": "REVIEWER",
+      "entity_description": "Weniverse는 영화 관련 콘텐츠를 제작하는 채널/플랫폼으로, 세상을 더 나은 곳으로 만들고자 하는 목표를 가지고 있다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "WENIVERSE",
+      "source_type": "REVIEWER",
+      "target_entity": "BRAND",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Weniverse가 Brand의 대사를 인용하여 사랑이 시공간을 초월한다는 메시지를 전달했다",
+      "relationship_strength": 5
+    }
+  ],
+  "entity_resolution": {
+    "BRAND": {
+      "description": "BRAND -> BRAND",
+      "resolved_name": "BRAND",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "WENIVERSE": {
+      "description": "WENIVERSE -> WENIVERSE",
+      "resolved_name": "WENIVERSE",
+      "entity_type": "REVIEWER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

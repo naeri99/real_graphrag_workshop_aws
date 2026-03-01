@@ -1,0 +1,13 @@
+{
+  "entity": {
+    "name": "무비인사이드_-_Movie_Inside",
+    "synonym": [
+      "무비인사이드_-_Movie_Inside",
+      "무비인사이드 - Movie Inside"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "무비인사이드_-_Movie_Inside은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

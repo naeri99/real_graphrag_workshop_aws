@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "올리비에 리히터스",
+    "synonym": [
+      "Olivia Munn",
+      "Olivier Richters",
+      "리히터스",
+      "올리버 리히터스",
+      "올리버 릭터스",
+      "올리비어 리히터스",
+      "올리비에",
+      "올리비에 리히터스",
+      "올리비에 릭터스",
+      "올리비에리히터스"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "올리비에 리히터스은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

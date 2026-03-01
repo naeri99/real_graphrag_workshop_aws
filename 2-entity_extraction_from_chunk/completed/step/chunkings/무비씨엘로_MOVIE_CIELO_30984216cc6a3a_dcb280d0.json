@@ -1,0 +1,102 @@
+{
+  "chunk_hash": "30984216cc6a3a",
+  "chunk_id": "무비씨엘로_MOVIE_CIELO_30984216cc6a3a_dcb280d0",
+  "user_query": "give them faces friendly them all up make them look all human these robots are not susceptible to intimidation I guess if you didn't we wouldn't trust them these robots are us our property things are just lights and Clockwork let me ask you something doc just thinking you're the last sane man on the face of the Earth make you crazy because if it does maybe I am um get the hell out of here yes what am I um I am telling you that robot killed and I'm telling you that's impossible and if it is possible it's us better to be in somebody else's Precinct no this is my suspect it's a can opener for Christ's sake five minutes what does this action signify as you entered when you looked at the other human what does it mean you wouldn't understand so why'd you murder him I did not murder Dr Lanning one explained why you were hiding at the crime scene I was frightened robots don't feel fear they don't feel anything they don't get hungry they don't sleep I do I have even had dreams in but emotions don't seem like a very useful simulation for a robot I did not murder him well I don't want him a toaster or my vacuum cleaner appearing emotional I did not murder him foreign that one's called anger ever simulate anger before my name is Sonny Dr Lanning killed himself know why he wanted to die I thought he was happy he asked me for a favor made me promise what favor Petty I was wrong maybe he was scared what are you talking about scared of what you have to do what someone asks you don't you",
+  "movie_id": "아이 로봇",
+  "reviewer": "무비씨엘로_MOVIE_CIELO",
+  "chunk_index": 4,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "DR LANNING",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Dr Lanning은 영화 속에서 사망한 인물로, 로봇에게 부탁을 했으며 자살한 것으로 언급된다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "SONNY",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Sonny는 자신의 이름을 가진 로봇 캐릭터로, 꿈을 꾸고 감정을 느끼며 두려움을 경험한다고 주장하는 특별한 로봇이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "DOC",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Doc은 로봇이 살인을 저지르는 것이 불가능하다고 주장하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "I, ROBOT",
+      "entity_type": "MOVIE",
+      "entity_description": "I, Robot은 로봇과 인간의 관계, 로봇의 감정과 자유의지를 다루는 SF 영화이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "SONNY",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "DR LANNING",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Sonny는 Dr Lanning으로부터 부탁을 받았으며, Dr Lanning의 죽음과 관련된 용의자이다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "SONNY",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "I, ROBOT",
+      "target_type": "MOVIE",
+      "relationship_description": "Sonny는 I, Robot 영화의 주요 로봇 캐릭터이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "DR LANNING",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "I, ROBOT",
+      "target_type": "MOVIE",
+      "relationship_description": "Dr Lanning은 I, Robot 영화에서 사망하는 중요한 인물이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "DOC",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "SONNY",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Doc은 Sonny를 심문하며 로봇이 살인할 수 없다고 주장한다",
+      "relationship_strength": 7
+    }
+  ],
+  "entity_resolution": {
+    "DR LANNING": {
+      "description": "DR LANNING -> Dr. Alfred Lanning",
+      "resolved_name": "Dr. Alfred Lanning",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "SONNY": {
+      "description": "SONNY -> SONNY",
+      "resolved_name": "SONNY",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "DOC": {
+      "description": "DOC -> DOC",
+      "resolved_name": "DOC",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "I, ROBOT": {
+      "description": "I, ROBOT -> I, ROBOT",
+      "resolved_name": "I, ROBOT",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "chunk_hash": "27d48c705c4eec",
+  "chunk_id": "유캔프리_UCANFREE_27d48c705c4eec_8b417392",
+  "user_query": "what happened in the dream that freaked you out so badly alright what happened in the dream that freaked you out so badly alright what happened in the dream that freaked you out so badly alright what happened in the dream that freaked you out so badly all right let's be logical about this all right let's be logical about this all right let's be logical about this all right let's be logical about this all right let's be logical about this one what happens next what happens next what happens next what happens next what happens next that is awful that is awful that is awful that is awful that is awful okay okay so here's what we're gonna do okay okay so here's what we're gonna do okay okay so here's what we're gonna do okay okay so here's what we're gonna do okay okay so here's what we're gonna do we will walk to your office together and if your watch cracks then we'll know that something is going on we will walk to your office together and if your watch cracks then we'll know that something is going on we will walk to your office together and if your watch cracks then we'll know that something is going on we will walk to your office together and if your watch cracks then we'll know that something is going on we will walk to your office together and if your watch cracks then we'll know that something is going on and we'll deal with it okay and we'll deal with it okay and we'll deal with it okay and we'll deal with it okay and we'll deal with it okay Claire can I ask you a",
+  "movie_id": "이프 온리",
+  "reviewer": "유캔프리_UCANFREE",
+  "chunk_index": 24,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "CLAIRE",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Claire는 대화 상대방으로, 꿈과 시계에 관한 대화에서 언급되는 인물이다"
+    }
+  ],
+  "relationships": [],
+  "entity_resolution": {
+    "CLAIRE": {
+      "description": "CLAIRE -> CLAIRE",
+      "resolved_name": "CLAIRE",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

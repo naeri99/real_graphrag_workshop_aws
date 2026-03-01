@@ -1,0 +1,26 @@
+{
+  "entity": {
+    "name": "매튜 본",
+    "synonym": [
+      "Born",
+      "Brooksley Born",
+      "Matthew Vaughn",
+      "마태 본",
+      "매슈 본",
+      "매슈본",
+      "매튜 반",
+      "매튜 보온",
+      "매튜 본",
+      "매튜 본 감독",
+      "매튜본",
+      "본",
+      "본 감독",
+      "브룩슬리 본",
+      "브룩슬리본"
+    ],
+    "entity_type": "MOVIE_STAFF",
+    "summary": "매튜 본은 영화 감독입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

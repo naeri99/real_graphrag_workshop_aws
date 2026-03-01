@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "김영광",
+    "synonym": [
+      "Kim Young Kwang",
+      "Kim Young-kwang",
+      "Kim Youngkwang",
+      "YoungKwang Kim",
+      "김 영광",
+      "김영광",
+      "김영광 배우",
+      "김영광 씨",
+      "김영광씨",
+      "영광"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "김영광은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

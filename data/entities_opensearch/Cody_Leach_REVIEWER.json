@@ -1,0 +1,13 @@
+{
+  "entity": {
+    "name": "Cody_Leach",
+    "synonym": [
+      "Cody_Leach",
+      "Cody Leach"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "Cody_Leach은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

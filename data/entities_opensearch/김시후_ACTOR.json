@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "김시후",
+    "synonym": [
+      "Kim Si-hoo",
+      "Kim Si-hu",
+      "Si-hu Kim",
+      "김 시후",
+      "김시 후",
+      "김시후",
+      "김시후 배우",
+      "김시후씨",
+      "시후"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "김시후은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

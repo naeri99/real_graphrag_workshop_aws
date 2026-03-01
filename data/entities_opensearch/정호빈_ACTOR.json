@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "정호빈",
+    "synonym": [
+      "Jeong Ho-bin",
+      "Jeong Hobin",
+      "Jung Ho-bin",
+      "배우 정호빈",
+      "정 호빈",
+      "정호 빈",
+      "정호빈",
+      "정호빈 배우",
+      "정호빈배우",
+      "정호빈씨",
+      "호빈"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "정호빈은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

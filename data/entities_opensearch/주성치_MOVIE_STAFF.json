@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "주성치",
+    "synonym": [
+      "Stephen Chow",
+      "스테판 차우",
+      "스테판 초우",
+      "스티븐 차우",
+      "저우싱츠",
+      "저우싱츠 감독",
+      "주성치",
+      "주성치 감독"
+    ],
+    "entity_type": "MOVIE_STAFF",
+    "summary": "주성치은 영화 감독입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

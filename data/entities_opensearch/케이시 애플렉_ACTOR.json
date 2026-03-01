@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "케이시 애플렉",
+    "synonym": [
+      "Casey",
+      "Casey Affleck",
+      "애플랙",
+      "애플렉",
+      "케이시",
+      "케이시 아플렉",
+      "케이시 애플랙",
+      "케이시 애플렉",
+      "케이시 에플렉",
+      "케이시애플랙",
+      "케이시애플렉"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "케이시 애플렉은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

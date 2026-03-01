@@ -1,0 +1,17 @@
+{
+  "entity": {
+    "name": "남규리",
+    "synonym": [
+      "Nam Gyu-ri",
+      "규리",
+      "남 규리",
+      "남규리",
+      "남규리 배우",
+      "남규리씨"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "남규리은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

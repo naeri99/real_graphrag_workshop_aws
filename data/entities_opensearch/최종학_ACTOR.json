@@ -1,0 +1,17 @@
+{
+  "entity": {
+    "name": "최종학",
+    "synonym": [
+      "Choi Jong-hak",
+      "종학",
+      "최 종학",
+      "최종학",
+      "최종학 배우",
+      "최종학씨"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "최종학은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

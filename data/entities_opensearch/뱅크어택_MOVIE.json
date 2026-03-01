@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "뱅크어택",
+    "synonym": [
+      "Bank Attack",
+      "뱅크 아탁",
+      "뱅크 아택",
+      "뱅크 어택",
+      "뱅크공격",
+      "뱅크아택",
+      "뱅크어택",
+      "뱅크어택 은행습격 사건",
+      "은행 습격",
+      "은행습격",
+      "은행습격 사건"
+    ],
+    "entity_type": "MOVIE",
+    "summary": "뱅크어택",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

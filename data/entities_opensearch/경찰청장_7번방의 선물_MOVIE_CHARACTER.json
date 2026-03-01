@@ -1,0 +1,23 @@
+{
+  "entity": {
+    "name": "경찰청장",
+    "synonym": [
+      "Commissioner",
+      "Police Chief",
+      "경찰 청장",
+      "경찰서장",
+      "경찰청 장",
+      "경찰청장",
+      "경찰청장 역",
+      "경찰청장관",
+      "경찰청장님",
+      "악역 청장",
+      "청장",
+      "청장님"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "경찰청장은 영화 '7번방의 선물'의 등장인물로, 조덕현이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

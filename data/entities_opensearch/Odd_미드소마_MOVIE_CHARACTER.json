@@ -1,0 +1,17 @@
+{
+  "entity": {
+    "name": "Odd",
+    "synonym": [
+      "Odd",
+      "오드",
+      "오드드",
+      "오트",
+      "옫",
+      "옷드"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "Odd은 영화 '미드소마'의 등장인물로, 마츠 블롬그렌이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

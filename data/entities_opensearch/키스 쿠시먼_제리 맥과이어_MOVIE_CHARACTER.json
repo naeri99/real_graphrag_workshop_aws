@@ -1,0 +1,18 @@
+{
+  "entity": {
+    "name": "키스 쿠시먼",
+    "synonym": [
+      "Keith",
+      "Keith Cushman",
+      "쿠시먼",
+      "키스",
+      "키스 쿠시먼",
+      "키스쿠시먼",
+      "키쓰 쿠시먼"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "키스 쿠시먼은 영화 '제리 맥과이어'의 등장인물로, 벤자민 킴벌이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

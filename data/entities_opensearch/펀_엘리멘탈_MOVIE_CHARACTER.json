@@ -1,0 +1,29 @@
+{
+  "entity": {
+    "name": "펀",
+    "synonym": [
+      "Fern",
+      "Fern Earth",
+      "Fern Groundland",
+      "Furn",
+      "식물",
+      "식물 캐릭터",
+      "퍼른",
+      "퍼언",
+      "펀",
+      "펀 그라운드랜드",
+      "펀 그라운드웰",
+      "펀 그로브먼",
+      "펀 식물",
+      "펀 어스",
+      "펀 캐릭터",
+      "펀그로브먼",
+      "펀어스",
+      "훤"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "펀은 영화 '엘리멘탈'의 등장인물로, 조 페라이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

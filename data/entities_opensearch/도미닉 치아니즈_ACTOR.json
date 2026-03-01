@@ -1,0 +1,23 @@
+{
+  "entity": {
+    "name": "도미닉 치아니즈",
+    "synonym": [
+      "Dom",
+      "Dominic Chianese",
+      "Dominic Toretto",
+      "도미닉",
+      "도미닉 치아네즈",
+      "도미닉 치아니즈",
+      "도미닉 키아네즈",
+      "도미닉치아니즈",
+      "도미닉키아네즈",
+      "돔",
+      "치아니즈",
+      "토레토"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "도미닉 치아니즈은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

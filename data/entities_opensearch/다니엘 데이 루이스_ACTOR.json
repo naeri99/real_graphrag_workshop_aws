@@ -1,0 +1,23 @@
+{
+  "entity": {
+    "name": "다니엘 데이 루이스",
+    "synonym": [
+      "DDL",
+      "Daniel Day Lewis",
+      "Daniel Day-Lewis",
+      "다니엘",
+      "다니엘 데이 루이스",
+      "다니엘 데이-루이스",
+      "다니엘 데이루이스",
+      "다니엘 루이스",
+      "다니엘데이루이스",
+      "대니얼 데이 루이스",
+      "데이 루이스",
+      "데이루이스"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "다니엘 데이 루이스은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

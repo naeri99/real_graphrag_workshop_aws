@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "다니엘 듀클로스",
+    "synonym": [
+      "Danielle",
+      "Danielle DuClos",
+      "다니엘",
+      "다니엘 두클로스",
+      "다니엘 듀클로스",
+      "다니엘두클로스",
+      "다니엘듀클로스",
+      "대니얼 듀클로스",
+      "대니엘 듀클로스",
+      "듀클로스"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "다니엘 듀클로스은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

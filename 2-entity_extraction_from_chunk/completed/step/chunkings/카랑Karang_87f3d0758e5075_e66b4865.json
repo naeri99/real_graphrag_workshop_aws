@@ -1,0 +1,103 @@
+{
+  "chunk_hash": "87f3d0758e5075",
+  "chunk_id": "카랑Karang_87f3d0758e5075_e66b4865",
+  "user_query": "yearly inspection up two quarters that's a month from now because of anonymous reports we're making unsafe loans and you should have known you couldn't keep this a secret very long thank you we're gonna have to stop giving out loans to news until after this inspection we'll Rebecca ones already on the books we should buy another bank okay the bank of Marlin is small you can purchase it outright for 274,000 as president of both banks I can move up the loans are made of Mainland to back of Marlin before Mainland gets inspected it's an interesting idea but Joe and I don't have 274 thousand dollars in cash laying around foreign I just don't think it's the right time for us to pick up a second bank in Texas and I'm here overseeing you in Mainland bank which I can't even get in the front door of you won't have to if you let me run this one is foreign and put it in the contract three months ago you didn't know the first thing about banking I can't become my own man here that I think I need to resign and go back to LA it is now we got a bad kid with 90 days of banking experience his own goddamn banks hey everyone just wanted to say I'm excited to work with all of you we're going to do great things with this bank they're lucky to have you well I'm the lucky one I'm learning from people a lot smarter than I am and they're not smarter than you I mean not my friends Federal Bank examiner just left my office oh I'm at Marlin not Mainland well Joe's not too proud to put on the chauffeur's",
+  "movie_id": "뱅크어택",
+  "reviewer": "카랑Karang",
+  "chunk_index": 11,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "JOE",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Joe는 은행 관련 사업에 관여하는 인물로, 현금 274,000달러가 없다고 언급됨"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "REBECCA",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Rebecca는 이미 장부에 기록된 대출과 관련된 인물"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "BANK OF MARLIN",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Marlin 은행은 274,000달러에 완전 매입 가능한 소규모 은행"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "MAINLAND BANK",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Mainland 은행은 익명의 제보로 인해 검사를 받게 될 은행"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "REBECCA",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Rebecca는 이미 승인된 대출과 관련된 인물"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "FEDERAL BANK EXAMINER",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "연방 은행 검사관으로 사무실을 방문한 인물"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "JOE",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "REBECCA",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Joe와 Rebecca는 은행 대출 관련 업무에서 연관되어 있음",
+      "relationship_strength": 5
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "FEDERAL BANK EXAMINER",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "JOE",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "연방 은행 검사관이 Joe의 사무실을 방문함",
+      "relationship_strength": 6
+    }
+  ],
+  "entity_resolution": {
+    "JOE": {
+      "description": "JOE -> JOE",
+      "resolved_name": "JOE",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "REBECCA": {
+      "description": "REBECCA -> REBECCA",
+      "resolved_name": "REBECCA",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "BANK OF MARLIN": {
+      "description": "BANK OF MARLIN -> BANK OF MARLIN",
+      "resolved_name": "BANK OF MARLIN",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "MAINLAND BANK": {
+      "description": "MAINLAND BANK -> MAINLAND BANK",
+      "resolved_name": "MAINLAND BANK",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "FEDERAL BANK EXAMINER": {
+      "description": "FEDERAL BANK EXAMINER -> FEDERAL BANK EXAMINER",
+      "resolved_name": "FEDERAL BANK EXAMINER",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "진병강",
+    "synonym": [
+      "Chen Bing-qiang",
+      "Chen Bingqiang",
+      "진 병강",
+      "진병강",
+      "진병강 배우",
+      "진병강이",
+      "천 빙창",
+      "천빙강",
+      "천빙창",
+      "첸빙창"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "진병강은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "movie_title": "도그맨",
+  "director": [
+    {
+      "name": "뤽 베송",
+      "name_en": "Luc Besson"
+    }
+  ],
+  "cast": [
+    {
+      "actor": "케일럽 랜드리 존스",
+      "actor_en": "Caleb Landry Jones",
+      "character": "Douglas"
+    },
+    {
+      "actor": "존 찰스 아귈라",
+      "actor_en": "John Charles Aguilar",
+      "character": "엘 베르두고"
+    }
+  ],
+  "review": [
+    "./data/review/도그맨/도그맨_BooCbK2pEr0.json",
+    "./data/review/도그맨/도그맨_Z0de53KyQwk.json",
+    "./data/review/도그맨/도그맨_iHfccqWFogQ.json",
+    "./data/review/도그맨/도그맨_kaDNh_oOksM.json"
+  ]
+}

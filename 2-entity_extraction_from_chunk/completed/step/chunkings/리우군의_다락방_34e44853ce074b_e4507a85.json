@@ -1,0 +1,239 @@
+{
+  "chunk_hash": "34e44853ce074b",
+  "chunk_id": "리우군의_다락방_34e44853ce074b_e4507a85",
+  "user_query": "버리지 않았냐고 가장 결정적인 순간 네 신념이 버려진 거 아니냐고 하비는 너 때문에 괴물이 된 거라고 인간에겐 누구나 양면성이 있고 그 기저엔 추악함이 담겨 있을 뿐이라고 버튼을 누르고 안 누르고는 중요한게 아니라고 그 과정에서 본성을 드러냈다는게 중요한 거라고 조커가 배트맨을 괴롭혔던 이유 배트맨에게 집착했던 이유는 그를 위선자라고 여겼기 때문입니다 선과 악이라는 잣대를 들이대고 봤을 때 무수한 경우 어디까지나 똑같다고 근데 자꾸 신념을 강조하고 깨끗한 척을 하니까 그걸 깨부수고 싶었던 [박수] 거죠 영화 초반 배트맨은 개에게 상처를 입었습니다 그 후 조커가 나타나 그의 멘탈을 흔들어 놨죠 이 장면을 잘 보면 조커가 마치 개처럼 짖어대고 있습니다 빨갛게 그런게 아니라 정말 개가 짖는 소리처럼 들립니다 하비를 찾아간 조커는 자신이 개라며 의미심장한 말을 내뱉기도 했고 영화 후반 개와 함께 등장해 또다시 배트맨을 공격했습니다 결국 배트맨은 개에게 쫓기는 신세가 됐고 선택을 강요받았습니다 조커가 노리던게 바로 이거였습니다 개는 조커를 상징했고 조커는 미친개 그 자체였습니다 영화 초반에 나왔던 배트맨의 이 상처는 그가 조커한테 물리게 될 거라는 걸 암시하고 있었던 거죠 앞서 말했던 대로 조커는 끈질기게 배트맨의 가면을 벗기려 했고 미친개처럼 그 가면을 물어 뜯었습니다 그리고 속삭였죠 상황에 따라 흔들리는 신념은 아무짝에도 쓸모가 없고 누군가를 살리기 위해 둘 중 하나를 선택하는 건 버려진 쪽의 입장에선 살인과 다를게 없다고 말입니다 선과 악이 그렇게 단순히 나눠질 수 없다는 거죠 이 영화는 정의란 무엇인가 이 질문에 대한 답을 찾는 여정이었다고 생각합니다 조커의 관점으로 영화를 바라보게 되면 등장 인물들 대부분이 조커랑 별다를게 없습니다 사회 정의를 외치다 결국엔 사랑하는 여자를 택했던 브루스 웨인 두 남자 모두에게 여지를 주며 마치 양다리를 걸치는 한 태도를 보였던 [음악] 레이첼 선의 신과 정의를 내버렸던 하비 고담시의 평화보다 기존의 시스템을 유지하고 싶어했던 가르시아 시장 사람들이 난리를 치든 말든 범인만 잡아라고 귀찮아했던 워츠 부모의 병원비를 위해 마피아들과 손을 잡았던 라미레즈 자신의 이익을 위해 시도 때도 없이 배신했던 마피아들은 말할 것도 없고 배트맨이 구했던 설한 고담시 시민들 위급 상황 극단적인 이기주의자로 변했습니다 한가지 다른 점이 있다면 이들이 조커처럼 항상 미쳐 있지는 않았다는 거죠 물론 이들 모두가 위선자일 수는 있습니다 하지만 그렇다고 해도 조커와 위선자들을 동일시할 수는 없습니다 물론 뒤통수를 맞는다면 배트맨이나 조커나 다 똑같은 것들이라고 치를 떨 수 있겠지만 그럼에도 나쁜 놈과 위선자는 분명히 구분되어야 합니다 결정적인 차이점이 있기 때문이죠 사회성 위선을 떨기 위해서 타인의 눈치를 보는 사회성이 반드시 포함되어 있습니다 조커 같은 애들은 그런게 결여되어 있는 거고요 심지어 양심도 없고 죄책감도 없습니다 그저 억지를 부릴 뿐입니다 너랑 내가 뭐가 다르냐고 하지만 우린 조커의 궤변에 넘어가면 안 됩니다",
+  "movie_id": "다크나이트",
+  "reviewer": "리우군의_다락방",
+  "chunk_index": 6,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "배트맨",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "배트맨은 선과 악의 잣대를 들이대며 신념을 강조하는 영웅으로, 조커에게 위선자로 여겨지며 괴롭힘을 당하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "조커",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "조커는 배트맨을 위선자라고 여기며 그의 가면을 벗기려 집착하는 미친개 같은 악당으로, 인간의 양면성과 추악함을 드러내려 한다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "하비",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "하비는 조커 때문에 괴물이 되었으며, 선의와 정의를 내버린 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "브루스 웨인",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "브루스 웨인은 사회 정의를 외치다 결국 사랑하는 여자를 택한 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "레이첼",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "레이첼은 두 남자 모두에게 여지를 주며 양다리를 걸치는 듯한 태도를 보인 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "가르시아 시장",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "가르시아 시장은 고담시의 평화보다 기존의 시스템을 유지하고 싶어했던 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "워츠",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "워츠는 사람들이 난리를 치든 말든 범인만 잡으라고 귀찮아했던 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "라미레즈",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "라미레즈는 부모의 병원비를 위해 마피아들과 손을 잡았던 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "다크나이트",
+      "entity_type": "MOVIE",
+      "entity_description": "다크나이트는 정의란 무엇인가라는 질문에 대한 답을 찾는 여정을 담은 영화로, 선과 악의 경계와 인간의 양면성을 다룬다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "조커",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "배트맨",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "조커는 배트맨을 위선자라고 여기며 그의 신념을 깨부수려고 집착하고 괴롭혔다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "조커",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "하비",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "조커는 하비를 괴물로 만들었으며, 하비를 찾아가 자신이 개라며 의미심장한 말을 했다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "배트맨",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "다크나이트",
+      "target_type": "MOVIE",
+      "relationship_description": "배트맨은 다크나이트의 주인공이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "조커",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "다크나이트",
+      "target_type": "MOVIE",
+      "relationship_description": "조커는 다크나이트의 주요 악당이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "하비",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "다크나이트",
+      "target_type": "MOVIE",
+      "relationship_description": "하비는 다크나이트의 주요 등장인물이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "브루스 웨인",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "배트맨",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "브루스 웨인은 배트맨의 정체이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "브루스 웨인",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "레이첼",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "브루스 웨인은 레이첼을 사랑하여 결국 그녀를 택했다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "레이첼",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "다크나이트",
+      "target_type": "MOVIE",
+      "relationship_description": "레이첼은 다크나이트의 등장인물이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "가르시아 시장",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "다크나이트",
+      "target_type": "MOVIE",
+      "relationship_description": "가르시아 시장은 다크나이트의 등장인물이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "워츠",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "다크나이트",
+      "target_type": "MOVIE",
+      "relationship_description": "워츠는 다크나이트의 등장인물이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "라미레즈",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "다크나이트",
+      "target_type": "MOVIE",
+      "relationship_description": "라미레즈는 다크나이트의 등장인물이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "하비",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "레이첼",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "하비는 레이첼에게 관심을 가진 두 남자 중 한 명이다",
+      "relationship_strength": 7
+    }
+  ],
+  "entity_resolution": {
+    "배트맨": {
+      "description": "배트맨 -> 브루스 웨인 / 배트맨",
+      "resolved_name": "브루스 웨인 / 배트맨",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "조커": {
+      "description": "조커 -> 조커",
+      "resolved_name": "조커",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "하비": {
+      "description": "하비 -> Harvey Dent / Two-Face",
+      "resolved_name": "Harvey Dent / Two-Face",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "브루스 웨인": {
+      "description": "브루스 웨인 -> 브루스 웨인 / 배트맨",
+      "resolved_name": "브루스 웨인 / 배트맨",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "레이첼": {
+      "description": "레이첼 -> 레이첼 도스",
+      "resolved_name": "레이첼 도스",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "가르시아 시장": {
+      "description": "가르시아 시장 -> 시장",
+      "resolved_name": "시장",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "워츠": {
+      "description": "워츠 -> 마이클 워츠",
+      "resolved_name": "마이클 워츠",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "라미레즈": {
+      "description": "라미레즈 -> 안나 라미레즈",
+      "resolved_name": "안나 라미레즈",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "다크나이트": {
+      "description": "다크나이트 -> 다크나이트",
+      "resolved_name": "다크나이트",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "name_exact"
+    }
+  }
+}

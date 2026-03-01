@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "리사 로벤 콩슬리",
+    "synonym": [
+      "Lisa Loven Kongsli",
+      "로벤 콩슬리",
+      "리사",
+      "리사 로벤",
+      "리사 로벤 콩슬리",
+      "리사 로벤콩슬리",
+      "리사 콩슬리",
+      "리사로벤콩슬리",
+      "콩슬리"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "리사 로벤 콩슬리은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

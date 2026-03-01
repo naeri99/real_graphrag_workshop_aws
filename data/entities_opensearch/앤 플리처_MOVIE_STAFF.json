@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "앤 플리처",
+    "synonym": [
+      "Anne",
+      "Anne Fletcher",
+      "Anne Fletcher 감독",
+      "앤",
+      "앤 플레처",
+      "앤 플리처",
+      "앤플리처",
+      "플리처",
+      "플리처 감독"
+    ],
+    "entity_type": "MOVIE_STAFF",
+    "summary": "앤 플리처은 영화 감독입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

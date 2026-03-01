@@ -1,0 +1,12 @@
+{
+  "entity": {
+    "name": "머어엉",
+    "synonym": [
+      "머어엉"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "머어엉은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

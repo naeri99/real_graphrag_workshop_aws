@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "아서 해먼드 경",
+    "synonym": [
+      "Sir Arthur Hammond",
+      "아더 해먼드 경",
+      "아서",
+      "아서 경",
+      "아서 해먼드",
+      "아서 해먼드 경",
+      "아서경",
+      "아서해먼드경",
+      "해먼드 경",
+      "해먼드경"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "아서 해먼드 경은 영화 '콘스탄트 가드너'의 등장인물로, 시드니 콜이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

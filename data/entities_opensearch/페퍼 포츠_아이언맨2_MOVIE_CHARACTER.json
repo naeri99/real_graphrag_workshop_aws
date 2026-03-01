@@ -1,0 +1,17 @@
+{
+  "entity": {
+    "name": "페퍼 포츠",
+    "synonym": [
+      "Pepper Potts",
+      "버지니아 포츠",
+      "페퍼",
+      "페퍼 포츠",
+      "페퍼포츠",
+      "포츠"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "페퍼 포츠은 영화 '아이언맨2'의 등장인물로, 기네스 팰트로이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "chunk_hash": "0b295d3f5e033e",
+  "chunk_id": "띵만리_띵작찾아삼만리_0b295d3f5e033e_62c854bc",
+  "user_query": "up knowing how to play only by himself. In their tiny room, they revolve around each other like the Earth and the Moon. Grandma's vision is fading. She struggles to see the needle's eye, so she asks for help. Sang-woo threads the needle for her. Then he goes right back to his game. Suddenly, a beetle appears. \"Aah! A bug!\" \"Kill it! Hurry!\" To Sang-woo, it was a frightening intruder. \"It's crawling away! Get it!\" \"I said kill it! Why won't you?\" Without saying a word, Grandma shows Sang-woo how to treat life. She mends her worn-out rubber shoes. Once again, she asks Sang-woo to thread the needle. \"Ugh, this is so annoying...\" But now he threads it with ease. Then, disaster: the batteries in his game device run out. \"Why's it not working? That's weird...\" \"I need new batteries. I need them! Give me money!\" But her pockets only hold dust. \"I'll pay you back double when Mom comes.\" \"What's that? I don't even know what that is.\" Sang-woo searches the house but finds no money anywhere. He begins to express his anxiety and frustration in a childish way \"Stupid.\" \"Rock paper scissors!\" \"Rock.\" While Grandma naps, Sang-woo steals her hairpin and dashes off excitedly. \"Battery! Battery! Hey, batteries!\" He plans to trade the hairpin for some batteries. But this is a remote mountain village. \"Batteries?\" Finding a shop that sells them isn't easy. After wandering for what felt like forever, he finally finds a hardware store. But they don't carry batteries that fit his game. While",
+  "movie_id": "집으로...",
+  "reviewer": "띵만리_띵작찾아삼만리",
+  "chunk_index": 3,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "상우",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "상우는 도시에서 온 어린 소년으로, 할머니와 함께 작은 방에서 지내며 혼자 게임하는 것에 익숙한 아이이다. 처음에는 벌레를 무서워하고 할머니에게 짜증을 내지만, 점차 변화해가는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "할머니",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "할머니는 시력이 나빠져 바늘귀에 실을 꿰기 어려워하는 노인으로, 낡은 고무신을 수선하며 살아가고 돈이 없는 가난한 상황이다. 말없이 상우에게 생명을 대하는 방법을 가르쳐준다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "엄마",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "엄마는 상우의 어머니로, 상우를 할머니에게 맡기고 떠난 인물이다. 상우가 돈을 빌리며 엄마가 오면 갚겠다고 언급한다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "상우",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "할머니",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "상우는 할머니와 작은 방에서 함께 생활하며, 할머니의 바늘에 실을 꿰어주는 등 서로 의지하는 관계이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "상우",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "엄마",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "상우는 엄마의 아들이며, 엄마가 돌아오면 돈을 갚겠다고 말하는 것으로 보아 엄마를 기다리고 있다",
+      "relationship_strength": 7
+    }
+  ],
+  "entity_resolution": {
+    "상우": {
+      "description": "상우 -> 상우",
+      "resolved_name": "상우",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "할머니": {
+      "description": "할머니 -> 할머니",
+      "resolved_name": "할머니",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "엄마": {
+      "description": "엄마 -> 라일리의 엄마",
+      "resolved_name": "라일리의 엄마",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    }
+  }
+}

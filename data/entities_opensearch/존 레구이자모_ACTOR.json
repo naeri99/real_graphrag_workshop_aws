@@ -1,0 +1,18 @@
+{
+  "entity": {
+    "name": "존 레구이자모",
+    "synonym": [
+      "John Leguizamo",
+      "레구이자모",
+      "존",
+      "존 레구이자모",
+      "존 레귀자모",
+      "존 레기자모",
+      "존레구이자모"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "존 레구이자모은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

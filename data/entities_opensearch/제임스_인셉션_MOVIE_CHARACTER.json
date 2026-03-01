@@ -1,0 +1,30 @@
+{
+  "entity": {
+    "name": "제임스",
+    "synonym": [
+      "Grady Lee James Allen",
+      "James",
+      "James Cameron",
+      "James Cobb",
+      "Jim Cameron",
+      "그래디 앨런",
+      "앨런",
+      "제이",
+      "제임",
+      "제임스",
+      "제임스 앨런",
+      "제임스 캐머런",
+      "제임스 코브",
+      "제임스 포프",
+      "제임스카메론",
+      "제임쓰",
+      "제임즈",
+      "짐",
+      "짐 카메론"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "제임스은 영화 '인셉션'의 등장인물로, 타이 심킨스이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

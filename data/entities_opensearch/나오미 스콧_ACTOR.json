@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "나오미 스콧",
+    "synonym": [
+      "Naomi",
+      "Naomi Scott",
+      "Scott",
+      "나오미",
+      "나오미 스캇",
+      "나오미 스콧",
+      "나오미스캇",
+      "나오미스콧",
+      "스캇",
+      "스콧"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "나오미 스콧은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

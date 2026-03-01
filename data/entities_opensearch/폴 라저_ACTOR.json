@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "폴 라저",
+    "synonym": [
+      "Lazar",
+      "Paul",
+      "Paul Lazar",
+      "Paul Lazer",
+      "Paul Lazor",
+      "라저",
+      "폴 라저",
+      "폴 래저",
+      "폴 레이저",
+      "폴라저",
+      "폴래저"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "폴 라저은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

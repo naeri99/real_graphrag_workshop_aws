@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "빌 스카스가드",
+    "synonym": [
+      "Bill Skarsgard",
+      "Bill Skarsgård",
+      "빌 스카르스가드",
+      "빌 스카르스가르드",
+      "빌 스카르스고르드",
+      "빌 스카스가드",
+      "빌 스카스가르드",
+      "빌 스카스고드",
+      "빌스카스가드",
+      "빌스카스고드",
+      "스카스가드"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "빌 스카스가드은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

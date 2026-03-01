@@ -1,0 +1,13 @@
+{
+  "entity": {
+    "name": "양쟈까의_La_View",
+    "synonym": [
+      "양쟈까의_La_View",
+      "양쟈까의 La View"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "양쟈까의_La_View은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

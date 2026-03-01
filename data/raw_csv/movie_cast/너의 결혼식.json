@@ -1,0 +1,69 @@
+{
+  "movie_title": "너의 결혼식",
+  "director": [
+    {
+      "name": "이석근",
+      "name_en": "Lee Seok-geun"
+    }
+  ],
+  "cast": [
+    {
+      "actor": "박보영",
+      "actor_en": "Park Bo-young",
+      "character": "승희"
+    },
+    {
+      "actor": "김영광",
+      "actor_en": "Kim Young-kwang",
+      "character": "우연"
+    },
+    {
+      "actor": "강기영",
+      "actor_en": "Kang Ki-young",
+      "character": "옥근남"
+    },
+    {
+      "actor": "고규필",
+      "actor_en": "Ko Kyu-pil",
+      "character": "구공자"
+    },
+    {
+      "actor": "장성범",
+      "actor_en": "Jang Sung-bum",
+      "character": "최수표"
+    },
+    {
+      "actor": "차엽",
+      "actor_en": "Cha Yup",
+      "character": "이택기"
+    },
+    {
+      "actor": "서은수",
+      "actor_en": "Seo Eun-su",
+      "character": "박민경"
+    },
+    {
+      "actor": "배해선",
+      "actor_en": "Bae Hae-sun",
+      "character": "승희 모"
+    },
+    {
+      "actor": "전배수",
+      "actor_en": "Jeon Bae-soo",
+      "character": "승희 부"
+    },
+    {
+      "actor": "서윤아",
+      "actor_en": "Seo Yoon-ah",
+      "character": "수표 처"
+    }
+  ],
+  "review": [
+    "./data/review/너의 결혼식/너의 결혼식_-CWBvgOBhdM.json",
+    "./data/review/너의 결혼식/너의 결혼식_86ozBlm-fh4.json",
+    "./data/review/너의 결혼식/너의 결혼식_BAxXSJQiGnU.json",
+    "./data/review/너의 결혼식/너의 결혼식_XAcW6sQbk8g.json",
+    "./data/review/너의 결혼식/너의 결혼식_lfq1GmmlZ_M.json",
+    "./data/review/너의 결혼식/너의 결혼식_vUvc1xrO3Jg.json"
+  ]
+}

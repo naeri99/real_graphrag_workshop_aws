@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "김대우",
+    "synonym": [
+      "Director Kim",
+      "Kim Dae-woo",
+      "Kim Daewoo",
+      "감독 김대우",
+      "김 감독",
+      "김 대우",
+      "김대우",
+      "김대우 감독",
+      "김대우감독",
+      "대우"
+    ],
+    "entity_type": "MOVIE_STAFF",
+    "summary": "김대우은 영화 감독입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

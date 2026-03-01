@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "로렌스 피시번",
+    "synonym": [
+      "Laurence Fishburne",
+      "래리 피시번",
+      "로렌스",
+      "로렌스 피쉬번",
+      "로렌스 피시번",
+      "로렌스 피시본",
+      "로렌스피쉬번",
+      "로렌스피시번",
+      "피시번"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "로렌스 피시번은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

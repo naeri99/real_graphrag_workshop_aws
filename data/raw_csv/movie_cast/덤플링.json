@@ -1,0 +1,68 @@
+{
+  "movie_title": "덤플링",
+  "director": [
+    {
+      "name": "앤 플리처",
+      "name_en": "Anne Fletcher"
+    }
+  ],
+  "cast": [
+    {
+      "actor": "다니엘 맥도날드",
+      "actor_en": "Danielle Macdonald",
+      "character": "Willowdean 'Dumplin'"
+    },
+    {
+      "actor": "제니퍼 애니스톤",
+      "actor_en": "Jennifer Aniston",
+      "character": "Rosie"
+    },
+    {
+      "actor": "오데야 러쉬",
+      "actor_en": "Odeya Rush",
+      "character": "엘렌 드라이버"
+    },
+    {
+      "actor": "루크 벤워드",
+      "actor_en": "Luke Benward",
+      "character": "보 라슨"
+    },
+    {
+      "actor": "도브 카메론",
+      "actor_en": "Dove Cameron",
+      "character": "베카 코터"
+    },
+    {
+      "actor": "해롤드 페리노",
+      "actor_en": "Harold Perrineau",
+      "character": "리 웨인"
+    },
+    {
+      "actor": "맥디 베일리오",
+      "actor_en": "Maddie Baillio",
+      "character": "Millie"
+    },
+    {
+      "actor": "벡스 테일러 클라우스",
+      "actor_en": "Bex Taylor-Klaus",
+      "character": "Ellen"
+    },
+    {
+      "actor": "조지 플로레스",
+      "actor_en": "Georgie Flores",
+      "character": "칼리 레예스"
+    },
+    {
+      "actor": "캐시 나지미",
+      "actor_en": "Kathy Najimy",
+      "character": "미칼척 부인"
+    }
+  ],
+  "review": [
+    "./data/review/덤플링/덤플링_3vJ2lqkVrnU.json",
+    "./data/review/덤플링/덤플링_WUKZ6S7hPRE.json",
+    "./data/review/덤플링/덤플링_hi8UmO2zwjs.json",
+    "./data/review/덤플링/덤플링_ruC41IAkmxg.json",
+    "./data/review/덤플링/덤플링_w2YwxIxcq8w.json"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "호텔 직원",
+    "synonym": [
+      "Hotel Concierge",
+      "Hotel Employee",
+      "Hotel Staff",
+      "프론트 직원",
+      "호텔 스태프",
+      "호텔 종업원",
+      "호텔 직원",
+      "호텔원",
+      "호텔종업원",
+      "호텔직원"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "호텔 직원은 영화 '이프 온리'의 등장인물로, 케빈 무어이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

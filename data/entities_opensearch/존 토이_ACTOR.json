@@ -1,0 +1,17 @@
+{
+  "entity": {
+    "name": "존 토이",
+    "synonym": [
+      "John Tui",
+      "존",
+      "존 토이",
+      "존 투이",
+      "존토이",
+      "토이"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "존 토이은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

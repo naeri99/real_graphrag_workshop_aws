@@ -1,0 +1,18 @@
+{
+  "entity": {
+    "name": "사이토",
+    "synonym": [
+      "Mr. Saito",
+      "Saito",
+      "사이또",
+      "사이토",
+      "사이토 씨",
+      "사이토씨",
+      "사이토우"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "사이토은 영화 '인셉션'의 등장인물로, 와타나베 겐이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

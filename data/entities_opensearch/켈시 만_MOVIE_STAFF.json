@@ -1,0 +1,23 @@
+{
+  "entity": {
+    "name": "켈시 만",
+    "synonym": [
+      "Kelsey",
+      "Kelsey Man",
+      "Kelsey Mann",
+      "Kelsey Mann 감독",
+      "감독 켈시 만",
+      "만",
+      "만 감독",
+      "켈시",
+      "켈시 만",
+      "켈시 만 감독",
+      "켈시 맨",
+      "켈시만"
+    ],
+    "entity_type": "MOVIE_STAFF",
+    "summary": "켈시 만은 영화 감독입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

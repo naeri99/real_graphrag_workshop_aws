@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "송영창",
+    "synonym": [
+      "Song Yeongchang",
+      "Song Young-chang",
+      "배우 송영창",
+      "송 영창",
+      "송영 창",
+      "송영창",
+      "송영창 배우",
+      "송영창배우",
+      "송영창씨",
+      "영창"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "송영창은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

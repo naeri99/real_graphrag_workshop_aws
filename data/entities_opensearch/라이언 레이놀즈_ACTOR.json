@@ -1,0 +1,18 @@
+{
+  "entity": {
+    "name": "라이언 레이놀즈",
+    "synonym": [
+      "Ryan Reynolds",
+      "라이언",
+      "라이언 레이널즈",
+      "라이언 레이놀드",
+      "라이언 레이놀즈",
+      "라이언레이놀즈",
+      "레이놀즈"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "라이언 레이놀즈은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

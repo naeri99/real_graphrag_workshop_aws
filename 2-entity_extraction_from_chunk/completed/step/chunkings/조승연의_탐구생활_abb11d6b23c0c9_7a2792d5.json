@@ -1,0 +1,203 @@
+{
+  "chunk_hash": "abb11d6b23c0c9",
+  "chunk_id": "조승연의_탐구생활_abb11d6b23c0c9_7a2792d5",
+  "user_query": "지배하고 있는 시대 사이에 무슨 일이 있었는지 한번 쭉 훑어 보면 재밌을 것 같아요 일단 글래디에이터 1에서 코모두스가 죽는 장면이 나오는데요 코모두스는 실제로 글래디에이터 경기장에서 검투를 좋아했다는 기록이 있습니다 그리고 자기가 싸움을 잘하는 것을 굉장한 프라이드로 여겨서 헤라클레스처럼 머리에 사자 가죽을 쓰고 있는 모습의 코모두스 조각을 여기저기 자기가 직접 세우기도 했다는 얘기가 있어요 어쨌든 코모두스를 근위대인 프레토리안 가드 즉 황실 근위대가 코모두스를 죽입니다 그다음에 프레토리안 가드들이 자기네가 다루기 꽤 쉬울 거라고 생각을 했는지 당시 로마 시장이었던 페르티낙스라는 사람을 데려다가 황위에 앉혀요 근데 페르티낙스는 묘하게도 똑바른 사람이었던 거예요 그래서 근위대의 힘을 좀 꺾어서 황실의 권위를 다시 세우고 일부 권력을 상원 의원한테 돌려주고 또 로마의 꿈이라고 얘기하는 마르쿠스 아우렐리우스의 복지 정책을 펴려고 합니다 그러니까 근위대는 꼭두각시를 앉힌 줄 알았는데 자꾸 페르티낙스가 정책을 펴고 근위대의 힘을 꺾으려고 하니까 페르티낙스도 죽여 버립니다 그러니까 근위 대장들이 진짜 힘은 우리한테 있지 황제는 꼭두각시일 뿐이라는 걸 마치 전 세계에 보여주고 싶기도 했던 듯이 황제자리를 돈을 받고 경매에 붙여 버립니다 그래서 디디우스 율리아누스라는 부자가 잠시 황제가 돼요 이 꼴을 보고 있지 못했던 원정 군대의 대장 중에 한 명이었던 셉티미우스 세베루스라는 북아프리카 출신의 장군이 자기의 원정대를 몰고 로마로 쳐들어와서 쿠데타에 성공하면서 셉티미우스 세베루스가 황제가 되죠 이 영화에서도 그렇고 글래디에이터 1에서도 그렇고 빨간 망토를 입은 친구들 원정대와 보라색 망토를 입은 친구들 프레토리안 가드들이 끊임없이 다른 정치 라이벌을 지지하면서 싸워 버리는 장면이 자주 나오는데요 이게 로마의 멸망의 직접적 원인이 아니었나라는 정도로 이쪽에서 황제를 세우면 원정군 대장이 쳐들어와 가지고 얘네를 몰아내고 다른 황제를 세우고 이런 일이 이때부터 계속 반복됩니다 아래로 조금 더 내려가 볼게요 셉티미우스 세베루스 황제가 두 명의 아들을 낳는데 그 아들이 바로 글래디에이터 2에서 쌍둥이 황제로 나오는 카라칼라와 게타입니다 카라칼라와 게타는 사이가 굉장히 안 좋았고요 카라칼라를 지지하는 일부 원정대 군인들이 게타를 죽이면서 카라칼라가 황제가 돼요 카라칼라가 게타를 얼마나 싫어했는지 보여 주는 것 중에 하나가 로마에서 가장 잔혹한 벌 중에 하나가 담나티오 메모리아에라는 벌입니다 기억 자체를 형벌을 내리다라는 뜻이에요 로마인들은 역사 속에 자기 이름이 어떻게 나올는지가 인생에서 가장 중요한 사람들이었습니다 근데 담나티오 메모리아에 처하게 되면 그 사람의 얼굴이 새겨진 모든 그림과 책 안에 있는 일러스트레이션 등을 다 지워 버리고요 그 사람의 이름을 어떤 책이나 대화에서도 언급하는 걸 금지해서 한 두 세대 정도 담나티오 메모리아에가 계속되다 보면 그 사람의 존재 자체가 역사 속에서 완전히 사라지는 거를 얘기를 하는데 카라칼라가 게타를 담나티오",
+  "movie_id": "글래디에이터 2",
+  "reviewer": "조승연의_탐구생활",
+  "chunk_index": 5,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "글래디에이터 1",
+      "entity_type": "MOVIE",
+      "entity_description": "글래디에이터 1은 코모두스가 죽는 장면이 나오는 영화로, 로마 시대를 배경으로 한 작품이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "글래디에이터 2",
+      "entity_type": "MOVIE",
+      "entity_description": "글래디에이터 2는 쌍둥이 황제 카라칼라와 게타가 등장하는 영화로, 로마 시대의 권력 다툼을 다룬 작품이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "코모두스",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "코모두스는 글래디에이터 1에서 죽는 인물로, 실제 역사에서 검투를 좋아하고 헤라클레스처럼 사자 가죽을 쓴 조각상을 세웠던 로마 황제이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "카라칼라",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "카라칼라는 글래디에이터 2에서 쌍둥이 황제 중 한 명으로 등장하며, 셉티미우스 세베루스의 아들로 게타와 사이가 매우 나빴고 결국 게타를 죽이고 황제가 된 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "게타",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "게타는 글래디에이터 2에서 쌍둥이 황제 중 한 명으로 등장하며, 셉티미우스 세베루스의 아들로 카라칼라에 의해 죽임을 당하고 담나티오 메모리아에 처해진 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "마르쿠스 아우렐리우스",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "마르쿠스 아우렐리우스는 로마의 꿈이라 불리며 복지 정책을 펼쳤던 로마 황제로 언급되는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "페르티낙스",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "페르티낙스는 코모두스 사후 로마 시장에서 황제가 된 인물로, 근위대의 힘을 꺾고 마르쿠스 아우렐리우스의 복지 정책을 펴려다 근위대에 의해 죽임을 당한 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "디디우스 율리아누스",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "디디우스 율리아누스는 근위대가 황제 자리를 경매에 붙였을 때 돈을 주고 잠시 황제가 된 부자이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "셉티미우스 세베루스",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "셉티미우스 세베루스는 북아프리카 출신의 장군으로 원정대를 이끌고 로마로 쳐들어와 쿠데타에 성공하여 황제가 되었으며, 카라칼라와 게타의 아버지이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "코모두스",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "글래디에이터 1",
+      "target_type": "MOVIE",
+      "relationship_description": "코모두스는 글래디에이터 1에서 죽는 장면이 나오는 주요 인물이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "카라칼라",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "글래디에이터 2",
+      "target_type": "MOVIE",
+      "relationship_description": "카라칼라는 글래디에이터 2에서 쌍둥이 황제 중 한 명으로 등장한다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "게타",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "글래디에이터 2",
+      "target_type": "MOVIE",
+      "relationship_description": "게타는 글래디에이터 2에서 쌍둥이 황제 중 한 명으로 등장한다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "카라칼라",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "게타",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "카라칼라와 게타는 형제이자 쌍둥이 황제로 사이가 매우 나빴으며, 카라칼라가 게타를 죽였다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "셉티미우스 세베루스",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "카라칼라",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "셉티미우스 세베루스는 카라칼라의 아버지이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "셉티미우스 세베루스",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "게타",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "셉티미우스 세베루스는 게타의 아버지이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "글래디에이터 1",
+      "source_type": "MOVIE",
+      "target_entity": "글래디에이터 2",
+      "target_type": "MOVIE",
+      "relationship_description": "글래디에이터 1과 2는 같은 시리즈의 영화로 로마 시대를 배경으로 한다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "페르티낙스",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "마르쿠스 아우렐리우스",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "페르티낙스는 마르쿠스 아우렐리우스의 복지 정책을 다시 펴려고 했다",
+      "relationship_strength": 7
+    }
+  ],
+  "entity_resolution": {
+    "글래디에이터 1": {
+      "description": "글래디에이터 1 -> 글래디에이터 2",
+      "resolved_name": "글래디에이터 2",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "글래디에이터 2": {
+      "description": "글래디에이터 2 -> 글래디에이터 2",
+      "resolved_name": "글래디에이터 2",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "코모두스": {
+      "description": "코모두스 -> 코모두스",
+      "resolved_name": "코모두스",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "카라칼라": {
+      "description": "카라칼라 -> Emperor Caracalla",
+      "resolved_name": "Emperor Caracalla",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "게타": {
+      "description": "게타 -> Emperor Geta",
+      "resolved_name": "Emperor Geta",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "마르쿠스 아우렐리우스": {
+      "description": "마르쿠스 아우렐리우스 -> 마르쿠스 달",
+      "resolved_name": "마르쿠스 달",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "페르티낙스": {
+      "description": "페르티낙스 -> 페르티낙스",
+      "resolved_name": "페르티낙스",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "디디우스 율리아누스": {
+      "description": "디디우스 율리아누스 -> 디디우스 율리아누스",
+      "resolved_name": "디디우스 율리아누스",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "셉티미우스 세베루스": {
+      "description": "셉티미우스 세베루스 -> 셉티미우스 세베루스",
+      "resolved_name": "셉티미우스 세베루스",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

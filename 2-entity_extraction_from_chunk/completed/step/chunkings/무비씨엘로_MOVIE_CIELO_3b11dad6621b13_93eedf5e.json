@@ -1,0 +1,124 @@
+{
+  "chunk_hash": "3b11dad6621b13",
+  "chunk_id": "무비씨엘로_MOVIE_CIELO_3b11dad6621b13_93eedf5e",
+  "user_query": "foreign [Music] Central Computer provides this state-of-the-art robot with new programs daily the Nestor class 5 is tomorrow's robot today foreign [Music] [Music] relax relax I'm a police officer all right ma'am is that your purse of course it's my purse I left my inhaler at home he was running it out to me I'm sorry for this misunderstanding officer don't apologize you're doing what you're supposed to be doing but what do you do homicide Spooner okay [Music] good to see you again son hello doctor everything that follows as a result of what you see here is there something you want to tell me I'm sorry my responses are limited must ask the right questions why did you call me I trust your judgment normally these circumstances wouldn't require a homicide detective but then our interactions have never been entirely normal in jukri at that right is there something you want to say to me I'm sorry my responses are limited you must ask the right questions why would you kill yourself that Detective is the right question program terminated [Music] NADA those security locked from the inside Wham splat guys a jumper for sure Robertson I don't think anyone saw this coming you know and I should have I suppose I knew him 20 years and Alfred practically invented robotics he wrote The Three Laws but hell as soon as that you got one maybe I'll look around ask a few questions and do the whole cop thing you know I'll send someone to escort you thank you very much possible really okay so would",
+  "movie_id": "아이 로봇",
+  "reviewer": "무비씨엘로_MOVIE_CIELO",
+  "chunk_index": 1,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "SPOONER",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "스푸너는 살인 사건을 담당하는 형사로, 알프레드 박사의 죽음을 조사한다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "NESTOR CLASS 5",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "네스터 클래스 5는 중앙 컴퓨터로부터 매일 새로운 프로그램을 받는 최첨단 로봇이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "ALFRED",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "알프레드는 로봇공학을 실질적으로 발명한 인물로, 삼원칙을 작성했으며 20년간 알려진 인물이다. 의문의 죽음을 맞이했다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "ROBERTSON",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "로버트슨은 알프레드의 죽음에 대해 스푸너와 대화하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "DOCTOR",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "박사는 스푸너에게 메시지를 남긴 인물로, 홀로그램 형태로 등장하며 제한된 응답만 할 수 있다고 말한다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "SPOONER",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "ALFRED",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "스푸너는 알프레드의 죽음을 조사하는 형사이다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "SPOONER",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "ROBERTSON",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "로버트슨은 스푸너에게 알프레드에 대해 설명하고 에스코트를 보내겠다고 한다",
+      "relationship_strength": 6
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "SPOONER",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "DOCTOR",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "박사는 스푸너를 불러 메시지를 전달하며 그의 판단을 신뢰한다고 말한다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "ALFRED",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "DOCTOR",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "알프레드와 박사는 동일 인물로 추정되며, 로봇공학의 삼원칙을 만든 인물이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "NESTOR CLASS 5",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "ALFRED",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "알프레드는 로봇공학을 발명한 인물로 네스터 클래스 5와 같은 로봇 개발에 기여했다",
+      "relationship_strength": 7
+    }
+  ],
+  "entity_resolution": {
+    "SPOONER": {
+      "description": "SPOONER -> SPOONER",
+      "resolved_name": "SPOONER",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "NESTOR CLASS 5": {
+      "description": "NESTOR CLASS 5 -> NESTOR CLASS 5",
+      "resolved_name": "NESTOR CLASS 5",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "ALFRED": {
+      "description": "ALFRED -> Dr. Alfred Lanning",
+      "resolved_name": "Dr. Alfred Lanning",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "ROBERTSON": {
+      "description": "ROBERTSON -> Lawrence Robertson",
+      "resolved_name": "Lawrence Robertson",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "DOCTOR": {
+      "description": "DOCTOR -> DOCTOR",
+      "resolved_name": "DOCTOR",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

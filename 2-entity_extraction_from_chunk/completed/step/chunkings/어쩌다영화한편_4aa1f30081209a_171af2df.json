@@ -1,0 +1,39 @@
+{
+  "chunk_hash": "4aa1f30081209a",
+  "chunk_id": "어쩌다영화한편_4aa1f30081209a_171af2df",
+  "user_query": "all I'm saying why are you asking me these questions it's an ongoing love interest not that I'm advocating that this isn't going to be ongoing but you just I don't get to say no you have terrible judgment in this regard my head is finally clear thanks to you you I think I finally have closure you don't just jump from one love object to another this is an interlude a weekend there actually is something to the idea of a destination wedding but what if our real destination was each other what if you never say that again Maybe maybe saved each other Frank come here think about it like that why do people need the dangled carrot of a future because we do well didn't say anything about permanence I was speaking of it but when it's over you're right back at square zero oh wow that's if you can or won't then you know you simply can't or well you might want to shake out the Pringles fragments you eat like a raccoon you're [ __ ] up come on let's find out who the nephrologist is sleeping with no Sac prize it's freeze surprise [Music] huh [Music] how do I wind up in this position oh where's my nose bleeding do you feel pregnant I don't feel any different if that's what you mean good we tried okay we did why do we live Frank oh Jesus Christ meaning is a myth like you've said so why do we live because if you don't like your top bodies they believe they can do anything they can laugh cry whine in the screw top will always carry the chintiness you ever see it on a wall or in the heels of an",
+  "movie_id": "데스티네이션 웨딩",
+  "reviewer": "어쩌다영화한편",
+  "chunk_index": 7,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "DESTINATION WEDDING",
+      "entity_type": "MOVIE",
+      "entity_description": "Destination Wedding은 두 사람이 결혼식에서 만나 대화를 나누는 로맨틱 코미디 영화이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "FRANK",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Frank는 영화 속 남성 주인공으로, 여성 캐릭터와 철학적인 대화를 나누며 관계를 발전시키는 인물이다"
+    }
+  ],
+  "relationships": [],
+  "entity_resolution": {
+    "DESTINATION WEDDING": {
+      "description": "DESTINATION WEDDING -> DESTINATION WEDDING",
+      "resolved_name": "DESTINATION WEDDING",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "FRANK": {
+      "description": "FRANK -> Frank Wolff",
+      "resolved_name": "Frank Wolff",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    }
+  }
+}

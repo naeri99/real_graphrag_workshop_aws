@@ -1,0 +1,17 @@
+{
+  "entity": {
+    "name": "줄리엣 오브리",
+    "synonym": [
+      "Juliet Aubrey",
+      "오브리",
+      "줄리엣",
+      "줄리엣 오브레이",
+      "줄리엣 오브리",
+      "줄리엣오브리"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "줄리엣 오브리은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

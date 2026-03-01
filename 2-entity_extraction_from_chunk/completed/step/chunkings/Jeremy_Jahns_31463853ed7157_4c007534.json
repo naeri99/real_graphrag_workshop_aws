@@ -1,0 +1,49 @@
+{
+  "chunk_hash": "31463853ed7157",
+  "chunk_id": "Jeremy_Jahns_31463853ed7157_4c007534",
+  "user_query": "movie that's not the case for the bulk of this movie you gotta go into this movie being like okay it's a spy movie and as a spy movie it was it was fine for a spy movie bit convoluted in the beginning like the setup of a movie you know it's establishing the world the characters character building my head was spinning and no it's not because of inversion funny enough like this movie has this high concept of something called inversion where things go backwards and it's like Nolan took that he was like all right I gotta make that accessible for people watching this movie and he makes it very understandable and then simple things like world building character relations he's like I'm gonna make that so fucking complex it's a tangled web of this person deals with that person but we gotta get to that person we gotta get to that person to get to that person but to get to that person I have to go through this you gotta break into this place so it kind of feels like a heist movie slash spy movie all in the name of getting to the bad guy it is possible that the setup of this movie felt like a choppy convoluted mess because there was supposed to be more information in there because it felt like he got the nuggets of setup and it was just moving fast like it wanted to just move on if I found out that this two and a half hour long movie was supposed to be a three and a half hour long movie most of which was in the setup I wouldn't be too surprised the second half of this movie that's",
+  "movie_id": "테넷",
+  "reviewer": "Jeremy_Jahns",
+  "chunk_index": 2,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "TENET",
+      "entity_type": "MOVIE",
+      "entity_description": "테넷은 크리스토퍼 놀란이 만든 스파이 영화로, '인버전'이라는 시간이 거꾸로 가는 고차원적 개념을 다루며, 하이스트 무비와 스파이 무비의 요소를 결합한 2시간 30분 길이의 영화이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "NOLAN",
+      "entity_type": "MOVIE_STAFF",
+      "entity_description": "놀란은 테넷의 감독으로, 인버전이라는 복잡한 개념을 관객이 이해하기 쉽게 만들었지만 세계관 구축과 캐릭터 관계는 매우 복잡하게 설정했다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "NOLAN",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "TENET",
+      "target_type": "MOVIE",
+      "relationship_description": "놀란은 테넷을 감독하고 영화의 고차원적 개념과 복잡한 서사 구조를 설계했다",
+      "relationship_strength": 10
+    }
+  ],
+  "entity_resolution": {
+    "TENET": {
+      "description": "TENET -> 테넷",
+      "resolved_name": "테넷",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "NOLAN": {
+      "description": "NOLAN -> NOLAN",
+      "resolved_name": "NOLAN",
+      "entity_type": "MOVIE_STAFF",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

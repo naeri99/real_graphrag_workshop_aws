@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "전석우",
+    "synonym": [
+      "Jeon Seok-woo",
+      "Seok-woo",
+      "석우",
+      "석우 형사",
+      "석우씨",
+      "전 석우",
+      "전서구",
+      "전석 우",
+      "전석우",
+      "전석우 캐릭터",
+      "전석우씨"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "전석우은 영화 '베테랑2'의 등장인물로, 정만식이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "엘로라 토르치아",
+    "synonym": [
+      "Ellora",
+      "Ellora Torchia",
+      "Elora Torchia",
+      "엘로라",
+      "엘로라 토르치아",
+      "엘로라 토르키아",
+      "엘로라 토치아",
+      "엘로라 토키아",
+      "엘로라토르치아",
+      "토르치아"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "엘로라 토르치아은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

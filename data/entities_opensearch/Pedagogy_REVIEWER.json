@@ -1,0 +1,12 @@
+{
+  "entity": {
+    "name": "Pedagogy",
+    "synonym": [
+      "Pedagogy"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "Pedagogy은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

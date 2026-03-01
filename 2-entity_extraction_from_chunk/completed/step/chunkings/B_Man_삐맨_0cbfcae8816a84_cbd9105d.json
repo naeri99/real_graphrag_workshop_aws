@@ -1,0 +1,261 @@
+{
+  "chunk_hash": "0cbfcae8816a84",
+  "chunk_id": "B_Man_삐맨_0cbfcae8816a84_cbd9105d",
+  "user_query": "그 순간 모두가 먼지가 되고 타노스는 원하는 바를 이룹니다 아들 같던 스파이더맨을 잃고 연료가 떨어진 우주선에서 죽기만을 기다리던 토니 그는 캡틴 마블의 도움으로 목숨을 구했지만 [음악] 지구에 돌아오고 난 후에 모든 것을 포기합니다 인구가 절반이 된 세상에서 순응하며 살기로 5년 53세의 토니 스타크는 딸을 갖게 됩니다 애석하지만 평화로운 시간을 보내고 있을 때 그를 찾아온 것은 캡틴 아메리카 양자 터널을 통해 과거로 가 인피니티 스톤을 다시 모아보자는 것이었습니다 하지만 자신이 평화를 위해 한 행동들의 결과에는 비극이 따랐다고 생각한 토니 그리고 그날 밤 토니는 시간 여행이 가능하다는 것을 알아냈고 [음악] 애써 외면해 왔던 자신의 마음속 진실을 마주합니다 결국 5년 만에 다시 모인 어벤져스 그들은 인피니티 스톤이 존재했던 2012년 2013년 2014년 그리고 1970년으로 향합니다 공교롭게도 토니가 도착한 1970년은 그가 태어나기 한 달 전 인피니티 스톤 하나를 회수하는 데 성공한 그가 마주친 것은 하워드 스타크 32년 만에 다시 만난 아버지는 그와 동갑인 53세 하워드는 아버지로서의 조언을 토니에게 구하고 아버지가 손수 만든 토니는 그리웠던 아버지에게 못다 한 말을 건네고 [음악] 무사히 현재로 돌아옵니다 [음악] 토니는 자신의 나노 테크를 이용해 새로운 인피니티 건틀렛을 제작했고 헐크는 자신의 오른팔을 희생해 우주의 절반을 되돌리는 데 성공합니다 그런데 2014년에 타노스가 2023년으로 넘어와 완성된 건틀렛을 빼앗으려 하고 다시 한번 타노스와의 전투가 시작됩니다 하지만 이번엔 어벤져스와 그들의 조력자들도 한자리에 모인 상황 [음악] 모두의 화력으로 전쟁은 승리에 가까워지고 있었는데 캡틴 마블이 직접 양자 터널을 통과해 스톤을 되돌려놓으려 했지만 [음악] 모두가 달려들어 그녀를 막고 있을 때 [음악] 순식간에 타노스의 손에 들어간 건틀렛 닥터 스트레인지는 토니를 응시하기 시작합니다 1,400만 605개 중 그들이 승리하는 단 한 개의 시나리오는 토니가 완성해야 했던 겁니다 모든 스톤을 자신의 나노 슈트로 이동시킨 토니는 한마디를 남깁니다 [음악] 아이 엠 아이언맨 [음악] 그의 희생으로 드디어 끝이 난 타노스와의 전쟁 하지만 인간의 육체로는 인피니티 스톤의 힘을 이겨낼 수 없었고 그가 지키고자 했던 동료들 그리고 연인 페퍼가 한평생 불안 속에 살았던 그를 안심시킵니다 이렇게 한 순간도 낭비하지 않은 토니 짧고 굵은 인생이 끝났지만 그가 남긴 유산은 마블 유니버스 전체의 뿌리에 있고 앞으로도 그 영향은 지대할 거라 생각합니다",
+  "movie_id": "아이언맨2",
+  "reviewer": "B_Man_삐맨",
+  "chunk_index": 6,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "타노스",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "타노스는 인피니티 스톤을 모아 우주 인구의 절반을 소멸시킨 빌런으로, 2014년에서 2023년으로 넘어와 건틀렛을 빼앗으려 한다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "토니 스타크",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "토니 스타크는 아이언맨으로, 스파이더맨을 잃고 5년간 딸과 평화로운 삶을 살다가 시간 여행을 통해 인피니티 스톤을 모으는 작전에 참여하며, 최종 전투에서 자신을 희생하여 타노스를 물리친다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "스파이더맨",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "스파이더맨은 토니에게 아들 같은 존재였으나 타노스의 핑거 스냅으로 먼지가 되어 사라진 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "캡틴 마블",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "캡틴 마블은 우주선에서 죽기를 기다리던 토니를 구해주고, 최종 전투에서 양자 터널을 통해 스톤을 되돌려놓으려 시도한 히어로이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "캡틴 아메리카",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "캡틴 아메리카는 양자 터널을 통해 과거로 가서 인피니티 스톤을 다시 모으자는 계획을 토니에게 제안한 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "하워드 스타크",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "하워드 스타크는 토니 스타크의 아버지로, 1970년에 53세였으며 토니가 태어나기 한 달 전에 시간 여행을 온 토니와 만나 아버지로서의 조언을 구한다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "헐크",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "헐크는 자신의 오른팔을 희생하여 새로운 인피니티 건틀렛을 사용해 우주의 절반을 되돌리는 데 성공한 어벤져스 멤버이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "닥터 스트레인지",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "닥터 스트레인지는 1,400만 605개의 시나리오 중 승리하는 단 하나의 시나리오를 알고 있었으며, 최종 전투에서 토니를 응시하며 그가 해야 할 일을 암시한다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "페퍼",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "페퍼는 토니 스타크의 연인으로, 희생하는 토니를 마지막까지 안심시켜주는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "어벤져스",
+      "entity_type": "MOVIE",
+      "entity_description": "어벤져스는 마블 유니버스의 히어로들이 타노스와 싸우는 내용을 담은 영화 시리즈이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "토니 스타크",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "스파이더맨",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "토니 스타크에게 스파이더맨은 아들 같은 존재였다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "토니 스타크",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "캡틴 마블",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "캡틴 마블이 우주선에서 죽기를 기다리던 토니를 구해주었다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "토니 스타크",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "캡틴 아메리카",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "캡틴 아메리카가 토니에게 시간 여행을 통한 인피니티 스톤 수집 계획을 제안했다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "토니 스타크",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "하워드 스타크",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "하워드 스타크는 토니 스타크의 아버지이며, 1970년에서 32년 만에 재회했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "토니 스타크",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "페퍼",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "페퍼는 토니 스타크의 연인으로 그의 마지막을 함께했다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "토니 스타크",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "타노스",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "토니 스타크는 자신을 희생하여 타노스를 물리쳤다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "토니 스타크",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "닥터 스트레인지",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "닥터 스트레인지는 토니가 승리의 열쇠임을 알고 그를 응시하며 암시했다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "토니 스타크",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "어벤져스",
+      "target_type": "MOVIE",
+      "relationship_description": "토니 스타크는 어벤져스의 핵심 멤버로 마블 유니버스 전체에 지대한 영향을 남겼다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "헐크",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "어벤져스",
+      "target_type": "MOVIE",
+      "relationship_description": "헐크는 어벤져스의 멤버로 인피니티 건틀렛을 사용해 우주의 절반을 되돌렸다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "캡틴 아메리카",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "어벤져스",
+      "target_type": "MOVIE",
+      "relationship_description": "캡틴 아메리카는 어벤져스의 리더로 시간 여행 작전을 주도했다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "캡틴 마블",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "어벤져스",
+      "target_type": "MOVIE",
+      "relationship_description": "캡틴 마블은 어벤져스의 조력자로 최종 전투에 참여했다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "닥터 스트레인지",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "어벤져스",
+      "target_type": "MOVIE",
+      "relationship_description": "닥터 스트레인지는 어벤져스와 함께 타노스와의 전투에 참여했다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "타노스",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "어벤져스",
+      "target_type": "MOVIE",
+      "relationship_description": "타노스는 어벤져스 시리즈의 주요 빌런으로 히어로들과 대립한다",
+      "relationship_strength": 10
+    }
+  ],
+  "entity_resolution": {
+    "타노스": {
+      "description": "타노스 -> 타노스",
+      "resolved_name": "타노스",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "토니 스타크": {
+      "description": "토니 스타크 -> 토니 스타크 / 아이언맨",
+      "resolved_name": "토니 스타크 / 아이언맨",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "스파이더맨": {
+      "description": "스파이더맨 -> 스파이더맨",
+      "resolved_name": "스파이더맨",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "캡틴 마블": {
+      "description": "캡틴 마블 -> 캡틴 마블",
+      "resolved_name": "캡틴 마블",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "캡틴 아메리카": {
+      "description": "캡틴 아메리카 -> 캡틴 아메리카",
+      "resolved_name": "캡틴 아메리카",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "하워드 스타크": {
+      "description": "하워드 스타크 -> 하워드 스타크",
+      "resolved_name": "하워드 스타크",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "헐크": {
+      "description": "헐크 -> 헐크",
+      "resolved_name": "헐크",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "닥터 스트레인지": {
+      "description": "닥터 스트레인지 -> 닥터 스트레인지",
+      "resolved_name": "닥터 스트레인지",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "페퍼": {
+      "description": "페퍼 -> 페퍼 포츠",
+      "resolved_name": "페퍼 포츠",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "어벤져스": {
+      "description": "어벤져스 -> 어벤져스",
+      "resolved_name": "어벤져스",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

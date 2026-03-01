@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "존 애시턴",
+    "synonym": [
+      "John",
+      "John Ashton",
+      "애시턴",
+      "존 애쉬턴",
+      "존 애시턴",
+      "존애쉬턴",
+      "존애시턴",
+      "죤 애쉬턴"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "존 애시턴은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

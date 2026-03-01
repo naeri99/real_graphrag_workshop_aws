@@ -1,0 +1,24 @@
+{
+  "entity": {
+    "name": "알렉 우트고프",
+    "synonym": [
+      "Alec Gillis",
+      "Alec Utgoff",
+      "길리스",
+      "알렉",
+      "알렉 길리스",
+      "알렉 우트고프",
+      "알렉 웃고프",
+      "알렉길리스",
+      "알렉우트고프",
+      "알렉웃고프",
+      "우트고프",
+      "웃고프",
+      "특수효과 전문가"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "알렉 우트고프은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

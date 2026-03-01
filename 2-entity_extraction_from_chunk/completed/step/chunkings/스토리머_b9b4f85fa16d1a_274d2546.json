@@ -1,0 +1,71 @@
+{
+  "chunk_hash": "b9b4f85fa16d1a",
+  "chunk_id": "스토리머_b9b4f85fa16d1a_274d2546",
+  "user_query": "[박수] 여기 경기장을 가득 채운 66천 관객의 기대 속에서 심장이 뛰는 NFL 데뷔전을 30 가까이 되고서 치르게 된 이 남성의 이름은 커트 워너 Got back no matter what happens [박수] [박수] [음악] [박수] >> 그는 몇 년 전까지만 해도 [박수] 대학리그 하위권을 전전하는 무명 대학에서 4년간이나 벤치 멤버 신세였던 미래가 어두운 선수였습니다. 대학에서의 마지막 해를 맞아 이제 곧 졸업과 동시에 프로리그 드래프트를 앞뒀음에도 아직 이렇다 할 성과를 내지 못한 커트. >> 그는 초조함 속에서도 간간히 주어지는 기회를 잡기 위해 최선을 다하지만 이 >> 또한 쉽지만은 않았죠. 간신히 코치를 설득해 마지막 기회를 얻게 된 커트. 지금껏 위협적인 상대의 돌진을 피하는데 급급했던 그는 >> 코칭의 착실히 따르며 어떻게든 공을 지켜내는 새로운 스타일을 익히기 시작했고 [박수] 마침내 공격적인 주전 쿼터백으로 매 경기 출전하며 대학 리그에서의 유망한 기록을 세우기 시작하죠. [음악] >> 결국 에이전트까지 확보하며 가족들과 애인의 기대 속에서 드래프트를 직관하는 커트. [음악] 7라운드 이틀에 걸쳐서 선수를 뽑는 NFL 드래프트 특성상 유명하지 않은 선수인 커트는 뽑혀도 둘째 날에 뽑힐 가능성이 컸는데요. 대학리그 막판에 좋은 성적을 냈지만 결국 드래프트에서 지명받지는 못한 커트. 그리고 그날 저녁 쓸쓸한 마음을 달래며 가족들과 식사 자리를 가지는데 >> 프로팀 패커스에서 훈련 선수 제안이 온 것이었죠. 부푼 마음을 붙잡은 채 가족들과 인사를 나누고 마침내 꿈에 그리던 프로팀에 도착하는데 [음악] >> 지금껏 보지 못한 체계적인 훈련에 살짝 압도된 것처럼 보였습니다. 결국 어필다운 어필은 하지 못한 채 훈련이 끝나버리고 >> 나름 신중하게 행동한다는 것이 간신히 얻은 단 한 번의 기회를 제발로 걷어차는 결과를 내고 말았죠. [박수] 그렇게 모든 NFL 팀에서 거절당하며 커트는 평생 꿈꿔왔던 미래를 한 번에 잃게 됐습니다. 결국 애인의 집에 얹혀 살며 이 새로운 가족들과 생계를 이어가기 위해 커트는 마트에서 일자리를 구하기로 하고 >> 그렇게 아침부터 저녁까지는 마트에서 일을 하고 새벽에는 풋볼 연습을 이어가며 언젠가 다시 찾아올 기회를 기다렸죠. 그리고 그런 그에게 기회는 어느 날 갑자기 찾아왔습니다. >> 반갑다는 듯이 그를 찾아온 이 남성은 짐 포스터 풋볼을 변형해 만든 마이너한 종목인 아레나 풋볼의 관계자였죠. 프로 풋볼 선수가 꿈인 커트는 당연히 이 제안에 시원찮게 반응했지만 >> 여전히 앞이 보이지 않는 프로 선수로의 길과 강추위가 한창인데도 보일러조차 켜지 못할 정도의 생활고에 시달리는 상황에 결국 커트는 가장으로서 또 한 번의 선택을 내리죠. 그렇게 아레나 풋볼 리그에 참가하게 된 커트. 그는 대학 시절 친구와도 재회하며 신생 아레나팀의 주전 쿼터백으로서 프로리그와는 다소 다른 템포의 경기 스타일을 익혀가는데 [박수] >> NFL 경기에 비해 훨씬 좁은 경기장에서 훨씬 폭력적이고 훨씬 빠른 템포로",
+  "movie_id": "아메리칸 언더독",
+  "reviewer": "스토리머",
+  "chunk_index": 1,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "커트 워너",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "커트 워너는 대학리그 하위권 무명 대학에서 4년간 벤치 멤버였다가 NFL 데뷔전을 30세 가까이 되어서 치르게 된 인물이다. 마트에서 일하며 생계를 이어가다가 아레나 풋볼 리그를 거쳐 프로 선수의 꿈을 향해 나아간다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "짐 포스터",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "짐 포스터는 아레나 풋볼의 관계자로 커트 워너에게 아레나 풋볼 리그 참가를 제안한 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "패커스",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "패커스는 커트 워너에게 훈련 선수 제안을 한 프로팀이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "커트 워너",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "짐 포스터",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "짐 포스터가 커트 워너에게 아레나 풋볼 리그 참가를 제안했다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "커트 워너",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "패커스",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "패커스가 커트 워너에게 훈련 선수 제안을 했으나 커트는 어필하지 못하고 기회를 잃었다",
+      "relationship_strength": 6
+    }
+  ],
+  "entity_resolution": {
+    "커트 워너": {
+      "description": "커트 워너 -> 커트 워너",
+      "resolved_name": "커트 워너",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "짐 포스터": {
+      "description": "짐 포스터 -> 짐 포스터",
+      "resolved_name": "짐 포스터",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "패커스": {
+      "description": "패커스 -> 패커스",
+      "resolved_name": "패커스",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

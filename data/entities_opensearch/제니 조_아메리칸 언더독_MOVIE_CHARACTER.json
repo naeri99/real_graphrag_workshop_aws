@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "제니 조",
+    "synonym": [
+      "Jenny Jo",
+      "Joe Chill",
+      "웨인 부부 살인범",
+      "제니",
+      "제니 조",
+      "제니 죠",
+      "제니조",
+      "조",
+      "조 칠",
+      "조칠",
+      "칠"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "제니 조은 영화 '아메리칸 언더독'의 등장인물로, 모르가나 쇼이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

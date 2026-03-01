@@ -1,0 +1,17 @@
+{
+  "entity": {
+    "name": "클랜시 브라운",
+    "synonym": [
+      "Clancy Brown",
+      "브라운",
+      "클랜시",
+      "클랜시 브라운",
+      "클랜시브라운",
+      "클랜씨 브라운"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "클랜시 브라운은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

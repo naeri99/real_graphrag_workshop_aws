@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "세스 길리엄",
+    "synonym": [
+      "Gilliam",
+      "Seth Gilliam",
+      "길리암",
+      "길리엄",
+      "세스",
+      "세스 길리암",
+      "세스 길리엄",
+      "세스길리암",
+      "세스길리엄",
+      "세쓰 길리엄"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "세스 길리엄은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

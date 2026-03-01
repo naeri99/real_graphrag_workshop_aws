@@ -1,0 +1,195 @@
+{
+  "chunk_hash": "a4203c3b748902",
+  "chunk_id": "부귀영화_a4203c3b748902_b2a5599f",
+  "user_query": "Rain은 기지를 발휘해 산성을 피하고 사다리로 올라가려던 순간 제노모프가 발목을 붙잡고 용액으로 입구가 막히게 됩니다 Rain은 소총까지 놓치게 되죠 중력 시스템이 가동되고 Andy가 승강기를 작동시켜 제노모프가 갈려 나갑니다 사다리를 타고 코라노 호에 도착한 Rain 그리고 Andy는 조종실에 있는 Kay를 보고 그녀를 탈출시킵니다 그때 정거장이 소행성벨트와 격렬하게 충돌합니다 그리고 식민지에 도착해 치료를 받을 때까지 Kay를 냉동수면 포드에 눕힙니다 Rain은 원격 모드를 작동시킵니다 Rook은 정거장과 함께 박살나고 Rain은 무슨 일이 생기든 Andy와 함께 이바가로 가겠다고 다짐합니다 Andy를 코라노 호와 연결시킨 뒤 자신도 냉동 포드에 들어가려던 찰나 Kay가 들어 있던 포드에서 경고음이 울립니다 갑작스레 Kay의 출산이 시작되죠 Rain이 고치를 들고 뛰어가는데 고치가 벌어지며 산성액이 흘러 나왔죠 그 속에서 아기와 얼굴을 마주합니다 고치가 바닥을 뚫고 화물칸으로 떨어지죠 Rain은 서둘러 화물칸으로 내려가 보는데 아기가 보이지 않았죠 천천히 흔적을 따라가자 발자국은 점점 커졌습니다 화물칸에 이상을 감지하자 화물선은 수동 조정으로 바뀝니다 그리고 Andy가 뛰어내려오죠 아기가 엄마를 찾아오고 손톱으로 Andy를 찌르고 버리죠 괴물의 이중턱으로 Kay를 죽입니다 공격에 냉각제가 뿌려지고 냉기를 피하기 위해 서둘러 우주복을 입죠 화물칸에 분리하라는 경고음이 울립니다 Rain은 네개의 레버 중 세개를 해제합니다 마지막 레버를 당기던 찰나 괴물에 붙잡히죠 한편 코라노 호는 점점 소행성 벨트로 빨려들어갑니다 Rain은 고치를 뒤집어 괴물에 구멍을 내죠 꼬리로 매달려 있는 괴물 Rain은 브레이크를 이용해 마지막 레버를 당깁니다 괴물은 화물칸과 함께 소행성 벨트에 갈려버리죠 그녀는 Andy를 고치기로 다짐하고 냉동 수면에 들어갑니다 코라노 호는 이바가 행성으로 향하죠",
+  "movie_id": "에이리언 로물",
+  "reviewer": "부귀영화",
+  "chunk_index": 4,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "RAIN",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Rain은 제노모프와 싸우며 생존하는 주인공으로, 기지를 발휘해 위기를 극복하고 Andy와 함께 이바가 행성으로 향하기로 다짐하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "ANDY",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Andy는 Rain의 동료로, 승강기를 작동시켜 제노모프를 처치하고 코라노 호와 연결되어 함께 이바가로 향하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "KAY",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Kay는 조종실에 있다가 탈출하고 냉동수면 포드에 들어갔으나, 갑작스러운 출산 후 괴물의 이중턱에 의해 죽임을 당하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "ROOK",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Rook은 정거장과 함께 박살나는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "제노모프",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "제노모프는 Rain의 발목을 붙잡고 공격하다가 승강기에 갈려 나가는 외계 생명체이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "코라노 호",
+      "entity_type": "MOVIE",
+      "entity_description": "코라노 호는 Rain과 Andy가 탑승하여 이바가 행성으로 향하는 우주선이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "이바가",
+      "entity_type": "MOVIE",
+      "entity_description": "이바가는 Rain과 Andy가 도착하려는 목적지 행성이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "RAIN",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "ANDY",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Rain과 Andy는 함께 생존하며 이바가로 가기로 다짐한 동료 관계이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "RAIN",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "KAY",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Rain은 Kay를 탈출시키고 냉동수면 포드에 눕히며 돌보았다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "RAIN",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "제노모프",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Rain은 제노모프와 싸우며 생존을 위해 대결한다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "ANDY",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "제노모프",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Andy는 승강기를 작동시켜 제노모프를 처치했다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "ANDY",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "KAY",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Andy는 Rain과 함께 Kay를 탈출시켰다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "KAY",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "코라노 호",
+      "target_type": "MOVIE",
+      "relationship_description": "Kay는 코라노 호의 조종실에 있었다",
+      "relationship_strength": 6
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "RAIN",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "코라노 호",
+      "target_type": "MOVIE",
+      "relationship_description": "Rain은 코라노 호에 탑승하여 이바가 행성으로 향한다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "ANDY",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "코라노 호",
+      "target_type": "MOVIE",
+      "relationship_description": "Andy는 코라노 호와 연결되어 함께 이동한다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "코라노 호",
+      "source_type": "MOVIE",
+      "target_entity": "이바가",
+      "target_type": "MOVIE",
+      "relationship_description": "코라노 호는 이바가 행성을 목적지로 향하고 있다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "ROOK",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "RAIN",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Rook은 정거장과 함께 박살났고 Rain은 그와 별개로 생존했다",
+      "relationship_strength": 5
+    }
+  ],
+  "entity_resolution": {
+    "RAIN": {
+      "description": "RAIN -> RAIN",
+      "resolved_name": "RAIN",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "ANDY": {
+      "description": "ANDY -> ANDY",
+      "resolved_name": "ANDY",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "KAY": {
+      "description": "KAY -> KAY",
+      "resolved_name": "KAY",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "ROOK": {
+      "description": "ROOK -> ROOK",
+      "resolved_name": "ROOK",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "제노모프": {
+      "description": "제노모프 -> 제노모프",
+      "resolved_name": "제노모프",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "코라노 호": {
+      "description": "코라노 호 -> 코라노 호",
+      "resolved_name": "코라노 호",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "이바가": {
+      "description": "이바가 -> 이바가",
+      "resolved_name": "이바가",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

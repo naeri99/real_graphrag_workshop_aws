@@ -1,0 +1,24 @@
+{
+  "entity": {
+    "name": "마르키스",
+    "synonym": [
+      "Marquis",
+      "Marquis de Gramont",
+      "그라몽",
+      "그라몽 후작",
+      "그라몽후작",
+      "마르퀴스",
+      "마르키",
+      "마르키스",
+      "마르키스 드 그라몽",
+      "마퀴스",
+      "마키스",
+      "빈센트 드 그라몽",
+      "후작"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "마르키스은 영화 '존 윅 4'의 등장인물로, 빌 스카스가드이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

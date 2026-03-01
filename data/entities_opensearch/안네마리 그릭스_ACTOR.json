@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "안네마리 그릭스",
+    "synonym": [
+      "Anne Marie Griggs",
+      "Annemarie",
+      "Annemarie Griggs",
+      "그릭스",
+      "아네마리 그릭스",
+      "안네마리",
+      "안네마리 그릭스",
+      "안네마리그릭스",
+      "안마리 그릭스"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "안네마리 그릭스은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

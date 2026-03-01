@@ -1,0 +1,27 @@
+{
+  "entity": {
+    "name": "톰 루니",
+    "synonym": [
+      "Tom Lister Jr",
+      "Tom Lister Jr.",
+      "Tommy Lister",
+      "Tommy Lister Jr.",
+      "Tommy Tiny Lister",
+      "루니",
+      "타이니 리스터",
+      "토미 루니",
+      "토미 리스터",
+      "톰",
+      "톰 루니",
+      "톰 루니 주니어",
+      "톰 리스터",
+      "톰 리스터 주니어",
+      "톰루니",
+      "톰리스터"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "톰 루니은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

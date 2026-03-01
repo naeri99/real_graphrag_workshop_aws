@@ -1,0 +1,23 @@
+{
+  "entity": {
+    "name": "악셀 헤니",
+    "synonym": [
+      "Aksel",
+      "Aksel Hennie",
+      "Hennie",
+      "아크셀 헤니",
+      "악셀",
+      "악셀 헤네",
+      "악셀 헤니",
+      "악셀헤네",
+      "악셀헤니",
+      "액셀 헤니",
+      "헤네",
+      "헤니"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "악셀 헤니은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

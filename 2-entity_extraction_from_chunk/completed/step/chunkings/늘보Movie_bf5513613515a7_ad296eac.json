@@ -1,0 +1,106 @@
+{
+  "chunk_hash": "bf5513613515a7",
+  "chunk_id": "늘보Movie_bf5513613515a7_ad296eac",
+  "user_query": "if we blow the you want to open the vehicular air? Itl give us a good kick. Yeah, but also the off the ship and all the air would leave and we need air to not die. We would seal the bridge and the reactor room. Every el go back. Go ahead, commander. I need you to come inside and make a bomb. Baving ack Martin close the door Johanon time toow after initiate 15 seconds to cut it close commander distance is [음악] too far I'm going out I can do this not a debat not risking another crew member returned initiate the bomb 10 seconds Strap in 5 3 for deceleration 2 one activating panel 41 holding damage worry about that later velocity 12 Cy hook me up. What [음악] the range? I'm checking. 312. Did you say 312? Great. I'll wave it you guys as I go by. Can't get to you, Mark. You're too far. I'm not going to make it. I know. Unhook me. I'm going after commander. I got this. Mark report. On my way, commander. 5.2 [음악] 2 met per copy adjusting [음악] distance target 24 m 11 m to [음악] target 그렇게 드디어 우주 한복판에서 재회하게 된 사람들 this actual we got in space with a very long time they have done what many people was handsome close the hatch hey guys anything you do There's a little smell going on over there. I haven had a shower in a year. Hey there. Welcome to the astron candidate program. This is space. It does not cooperate. At some point, everything's going to go south on you. Everything's going to go south and you're going to say, \"This is it. This is how I end.\" Now, you can either accept that or",
+  "movie_id": "마션",
+  "reviewer": "늘보Movie",
+  "chunk_index": 7,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "MARK",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "마크는 우주에서 구조를 기다리는 인물로, 다른 승무원들이 그를 구하러 간다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "COMMANDER",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "커맨더는 우주선의 지휘관으로, 마크를 구하기 위해 위험을 감수하고 우주로 나간다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "JOHANSON",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "요한슨은 우주선 승무원 중 한 명이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "MARTIN",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "마틴은 우주선 승무원으로, 문을 닫는 역할을 수행한다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "ASTRONAUT CANDIDATE PROGRAM",
+      "entity_type": "MOVIE",
+      "entity_description": "우주비행사 후보 프로그램에 대한 언급이 있으며, 우주에서의 생존과 위기 상황을 다루는 내용이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "COMMANDER",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "MARK",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "커맨더가 마크를 구하기 위해 우주로 나간다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "MARTIN",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "COMMANDER",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "마틴은 커맨더의 명령에 따라 문을 닫는다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "JOHANSON",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "COMMANDER",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "요한슨은 커맨더와 같은 우주선 승무원이다",
+      "relationship_strength": 7
+    }
+  ],
+  "entity_resolution": {
+    "MARK": {
+      "description": "MARK -> Mark",
+      "resolved_name": "Mark",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "COMMANDER": {
+      "description": "COMMANDER -> COMMANDER",
+      "resolved_name": "COMMANDER",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "JOHANSON": {
+      "description": "JOHANSON -> JOHANSON",
+      "resolved_name": "JOHANSON",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "MARTIN": {
+      "description": "MARTIN -> MARTIN",
+      "resolved_name": "MARTIN",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "ASTRONAUT CANDIDATE PROGRAM": {
+      "description": "ASTRONAUT CANDIDATE PROGRAM -> ASTRONAUT CANDIDATE PROGRAM",
+      "resolved_name": "ASTRONAUT CANDIDATE PROGRAM",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

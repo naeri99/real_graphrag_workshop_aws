@@ -1,0 +1,25 @@
+{
+  "entity": {
+    "name": "존 윅",
+    "synonym": [
+      "Baba Yaga",
+      "John Wick",
+      "미스터 윅",
+      "바바야가",
+      "부기맨",
+      "윅",
+      "조나단 윅",
+      "조니 윅",
+      "존",
+      "존 위크",
+      "존 윅",
+      "존위크",
+      "존윅",
+      "죤 윅"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "존 윅은 영화 '존 윅 4'의 등장인물로, 키아누 리브스이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "entity": {
+    "name": "모건 프리먼",
+    "synonym": [
+      "Morgan",
+      "Morgan Freeman",
+      "Morgan Porterfield Freeman",
+      "모간 프리먼",
+      "모간프리먼",
+      "모건",
+      "모건 프리만",
+      "모건 프리맨",
+      "모건 프리먼",
+      "모건프리맨",
+      "모건프리먼",
+      "프리먼"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "모건 프리먼은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

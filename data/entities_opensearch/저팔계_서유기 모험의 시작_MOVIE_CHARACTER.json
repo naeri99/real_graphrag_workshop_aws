@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "저팔계",
+    "synonym": [
+      "Zhu Bajie",
+      "猪八戒",
+      "돼지",
+      "돼지요괴",
+      "저 팔계",
+      "저팔게",
+      "저팔계",
+      "천봉원수",
+      "팔계"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "저팔계은 영화 '서유기 모험의 시작'의 등장인물로, 진병강이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

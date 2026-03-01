@@ -1,0 +1,23 @@
+{
+  "entity": {
+    "name": "헨리 카빌",
+    "synonym": [
+      "Hank Paulson",
+      "Henry Cavill",
+      "Henry Paulson",
+      "카빌",
+      "폴슨",
+      "헨리",
+      "헨리 카빌",
+      "헨리 캐빌",
+      "헨리 케빌",
+      "헨리카빌",
+      "헨리캐빌",
+      "헨리폴슨"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "헨리 카빌은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

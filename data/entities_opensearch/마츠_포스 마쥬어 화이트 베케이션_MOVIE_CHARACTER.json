@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "마츠",
+    "synonym": [
+      "Mats",
+      "마쓰",
+      "마쯔",
+      "마츠",
+      "마츠 역",
+      "맛츠",
+      "매츠",
+      "맷츠"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "마츠은 영화 '포스 마쥬어 화이트 베케이션'의 등장인물로, 크리스토퍼 히뷰이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

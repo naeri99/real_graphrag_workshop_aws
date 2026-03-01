@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "그렉 루시",
+    "synonym": [
+      "Greg Lucey",
+      "그랙 루시",
+      "그레그 루시",
+      "그레그루시",
+      "그렉",
+      "그렉 루시",
+      "그렉 루씨",
+      "그렉루시",
+      "루시"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "그렉 루시은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

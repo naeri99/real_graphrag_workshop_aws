@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "전 여자친구",
+    "synonym": [
+      "Ex-Girlfriend",
+      "Ex-girlfriend",
+      "엑스 걸프렌드",
+      "엑스 여자친구",
+      "옛 여자친구",
+      "전 애인",
+      "전 여자친구",
+      "전 여친",
+      "전여자친구",
+      "전여친"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "전 여자친구은 영화 '제리 맥과이어'의 등장인물로, 루시 리우이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

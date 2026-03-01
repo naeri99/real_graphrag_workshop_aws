@@ -1,0 +1,102 @@
+{
+  "chunk_hash": "a83716d9e8a3e3",
+  "chunk_id": "드라마의기술_a83716d9e8a3e3_665c8943",
+  "user_query": "즐거워하자 만석도 활짝 웃는다. 통명스러운 만석의 따뜻한 마음을 느끼는 송씨. >> 이쁘네. >> 절리 났네. 비싸 보이는데 딴 데로 가요. >> 아지게 비싸 10만 원어 20만 원어 아이씨 뭔 놈이 밥값이 그렇게 비싸 이딴거나 먹기려고 나오라고 그러면 아니야 드셔 보세요. 만석에게 약점이 잡힌 덕배는 우유각 놓여야 되고 만석은 송씨에게 부지런히 우유각을 전해준다. >> 앞이나 잘 봐. >> 우와, 이런게 진짜 알짜배기거든. 우와. 우유 안 드시죠? >> 아니요. 내가 마실 거예요. >> 따라와. >> 할아버지, 여기 어떤 일이세요? >> 응? 뭐저 혼자 사는 노인들한테 돈 나온다고 그랬지. >> 독거노인 보상급여요? 어? 얼마나 나와? 아, 대충 >> 아, 10만 원. >> 어, >> 많아서 15만 원. >> 그걸로 코에 붙여. >> 그렇게 많은 돈을 준다고요? >> 네. >> 한 달 꼬박 모아도 힘든 돈인데. >> 고맙습니다. >> 정말 고맙습니다. >> 아유, 제가 드리는게 아니고 국가에서 드리는 거라. >> 독거노인 자금 혜택자료 뽑아 놨나? >> 여기 있어. 여기. >> 너무 적다. >> 아, 나도 더 드리고 싶지. >> 네. 주민증이 없어요? >> 만들어. 당장 만들면 되잖아. 안 그래? 그렇게 억지 부리지 마세요. 나도 일 하시는 바쁜 분들이잖아요. >> 연아 씨 급행으로 해 드려. >> 아 아네 아 그럼 주민증 먼저 만들게요. 할머니 성함이 어떻게 되세요? >> 송씨요. >> 송 >> 다음은요? 그 그게 >> 이쁜이야. 네 >> 이쁜이요? 왜 말걸 모르더라? 송 이쁜 저거 아니야 그저 이쁘다 할 때 이쁜이 말고 송 이쁜이다 했을 때뿐 송 이쁜 자 누님 자 저를 살짝 보시는 척 하다가 외면하시면서 하나 둘 셋 아 좋습니다 표정이 너무 예쁘다 너무 좋아요. >> 조금만 더 웃어 봐 >> 영정 사진수록 환하게 >> 이게 이거 그냥 주민증였을 거야 마 >> 여기 보세요. 난생 처음 받아둔 주민 등록증. 다음 달부터 지원금이 나온대요. 다들 할아버지 무서워하는데 할머니는 할아버지 안 무서우세요? 겉에서 그렇지 속 순한 데가 있지 않아요. >> 아무래도 할아버지가 할머니 진짜 좋아하는 거 같아요. 그쵸? >> 만들어 놓고 >> 가게 보증금 뭐 어쩌자 안 되겠나? 엄마한테도 들러봐야 하는데 식당 일이 바빠서요. 죄송해요. >> 아버지 너무 걱정은 마세요. 아 저랑 형이랑 아들이 둘씩이나 있는데 뭘 걱정하세요? >> 아 제가 돈 많이 벌어서 꼭 모시겠습니다. >> 많이 벌어라 제발. >> 든든하다. 든든해. >> 직장도 너무 멀고 해서 결혼하면 생각입니다. >> 그렇게 큰 아들이 떠났다. 가라앉. >> 예. 자주 찾아뵙겠습니다. >> 자주 올 것도 없어. 엄마 건강도 안 좋은데 결혼 서질러서 죄송해요. 자주 찾아뵐게요. >> 그렇게 우리는 말으로 자주 찾아봐야 하는 사람이 됐다. 가족이었는데 다시 부부다. >> 송씨 할머니를 찾아온 만석. >> 아 깜짝 얼마 송씨 못 봤냐? >> 송씨 할머니 왜요? >> 물으면 대답이 날 것이지.",
+  "movie_id": "그대를사랑합니다",
+  "reviewer": "드라마의기술",
+  "chunk_index": 4,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "만석",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "만석은 통명스럽지만 따뜻한 마음을 가진 인물로, 송씨 할머니에게 우유를 전해주고 관심을 보이는 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "송씨",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "송씨는 '송이쁜'이라는 이름을 가진 독거노인 할머니로, 난생 처음 주민등록증을 받고 독거노인 지원금 혜택을 받게 되는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "덕배",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "덕배는 만석에게 약점이 잡혀 우유를 가져다 놓아야 하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "연아",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "연아는 주민센터에서 일하며 송씨 할머니의 주민등록증 발급을 급행으로 처리해주는 직원이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "만석",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "송씨",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "만석은 송씨 할머니에게 우유를 전해주고 관심을 보이며 좋아하는 것으로 보인다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "만석",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "덕배",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "만석은 덕배의 약점을 잡고 있어 덕배가 우유를 가져다 놓게 한다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "덕배",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "송씨",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "덕배는 만석의 지시로 송씨 할머니에게 우유를 전달하는 역할을 한다",
+      "relationship_strength": 5
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "연아",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "송씨",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "연아는 송씨 할머니의 주민등록증 발급 업무를 급행으로 처리해준다",
+      "relationship_strength": 6
+    }
+  ],
+  "entity_resolution": {
+    "만석": {
+      "description": "만석 -> 김만석",
+      "resolved_name": "김만석",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "송씨": {
+      "description": "송씨 -> 송이뿐",
+      "resolved_name": "송이뿐",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "덕배": {
+      "description": "덕배 -> 덕배",
+      "resolved_name": "덕배",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "연아": {
+      "description": "연아 -> 연아",
+      "resolved_name": "연아",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

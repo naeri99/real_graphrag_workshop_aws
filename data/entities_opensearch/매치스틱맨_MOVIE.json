@@ -1,0 +1,18 @@
+{
+  "entity": {
+    "name": "매치스틱맨",
+    "synonym": [
+      "Matchstick Man",
+      "Matchstick Men",
+      "매치스틱 맨",
+      "매치스틱 멘",
+      "매치스틱맨",
+      "사기꾼들",
+      "성냥팔이"
+    ],
+    "entity_type": "MOVIE",
+    "summary": "매치스틱맨",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

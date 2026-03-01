@@ -1,0 +1,109 @@
+{
+  "movie_title": "홉스앤쇼",
+  "director": [
+    {
+      "name": "데이빗 레이치",
+      "name_en": "David Leitch"
+    }
+  ],
+  "cast": [
+    {
+      "actor": "드웨인 존슨",
+      "actor_en": "Dwayne Johnson",
+      "character": "루크 홉스"
+    },
+    {
+      "actor": "제이슨 스테이섬",
+      "actor_en": "Jason Statham",
+      "character": "데커드 쇼"
+    },
+    {
+      "actor": "이드리스 엘바",
+      "actor_en": "Idris Elba",
+      "character": "브릭스턴 로어"
+    },
+    {
+      "actor": "바네사 커비",
+      "actor_en": "Vanessa Kirby",
+      "character": "헤티 쇼"
+    },
+    {
+      "actor": "에이사 곤살레스",
+      "actor_en": "Eiza González",
+      "character": "마담 M"
+    },
+    {
+      "actor": "헬렌 미렌",
+      "actor_en": "Helen Mirren",
+      "character": "막달레나 퀸 쇼"
+    },
+    {
+      "actor": "에디 마산",
+      "actor_en": "Eddie Marsan",
+      "character": "안드레이코"
+    },
+    {
+      "actor": "클리프 커티스",
+      "actor_en": "Cliff Curtis",
+      "character": "조나 홉스"
+    },
+    {
+      "actor": "로만 레인즈",
+      "actor_en": "Roman Reigns",
+      "character": "마테오 홉스"
+    },
+    {
+      "actor": "엘리아나 수아",
+      "actor_en": "Eliana Sua",
+      "character": "사만다 홉스"
+    },
+    {
+      "actor": "라이언 레이놀즈",
+      "actor_en": "Ryan Reynolds",
+      "character": "로크웰"
+    },
+    {
+      "actor": "롭 델라니",
+      "actor_en": "Rob Delaney",
+      "character": "딜런"
+    },
+    {
+      "actor": "레니 제임스",
+      "actor_en": "Lenny James",
+      "character": "프로페서 파트"
+    },
+    {
+      "actor": "존 토이",
+      "actor_en": "John Tui",
+      "character": "타노아"
+    },
+    {
+      "actor": "조 아노아이",
+      "actor_en": "Joe Anoa'i",
+      "character": "마테오"
+    },
+    {
+      "actor": "케빈 하트",
+      "actor_en": "Kevin Hart",
+      "character": "에어 마샬 딜런"
+    },
+    {
+      "actor": "미셸 로드리게스",
+      "actor_en": "Michelle Rodriguez",
+      "character": "레티 오르티즈"
+    },
+    {
+      "actor": "루크 에반스",
+      "actor_en": "Luke Evans",
+      "character": "오웬 쇼"
+    }
+  ],
+  "review": [
+    "./data/review/홉스앤쇼/홉스앤쇼_-E1nxYTk-Uo.json",
+    "./data/review/홉스앤쇼/홉스앤쇼_JDxa4fOI2hw.json",
+    "./data/review/홉스앤쇼/홉스앤쇼_VPSeNlnt65o.json",
+    "./data/review/홉스앤쇼/홉스앤쇼_bHUfJgRc6NY.json",
+    "./data/review/홉스앤쇼/홉스앤쇼_f5g4DntAKOg.json",
+    "./data/review/홉스앤쇼/홉스앤쇼_m3y_OfCyA_Y.json"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "조셉 고든 레빗",
+    "synonym": [
+      "JGL",
+      "Joseph Gordon-Levitt",
+      "고든 레빗",
+      "조셉",
+      "조셉 고든 래빗",
+      "조셉 고든 레비트",
+      "조셉 고든 레빗",
+      "조셉 고든레빗",
+      "조셉 레빗",
+      "조셉고든레빗"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "조셉 고든 레빗은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

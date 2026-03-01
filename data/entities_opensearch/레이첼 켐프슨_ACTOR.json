@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "레이첼 켐프슨",
+    "synonym": [
+      "Rachel Kempson",
+      "레이첼",
+      "레이첼 켐슨",
+      "레이첼 켐프슨",
+      "레이첼켐슨",
+      "레이첼켐프슨",
+      "켐슨",
+      "켐프슨"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "레이첼 켐프슨은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

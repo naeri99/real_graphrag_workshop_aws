@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "유예린",
+    "synonym": [
+      "Ye-rin Yoo",
+      "Yoo Ye-rin",
+      "Yu Yerin",
+      "배우 유예린",
+      "예린",
+      "유 예린",
+      "유예린",
+      "유예린 배우"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "유예린은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

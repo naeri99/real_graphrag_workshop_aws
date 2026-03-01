@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "길피 조에가",
+    "synonym": [
+      "Gylfi Zoega",
+      "Gylfi Zoëga",
+      "Gylfi Þorsteinsson Zoëga",
+      "길피 조가",
+      "길피 조에가",
+      "길피 조에거",
+      "길피 죄가",
+      "길피조에가",
+      "조에가"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "길피 조에가은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

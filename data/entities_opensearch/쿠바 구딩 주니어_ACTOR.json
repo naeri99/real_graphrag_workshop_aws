@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "쿠바 구딩 주니어",
+    "synonym": [
+      "Cuba Gooding",
+      "Cuba Gooding Jr.",
+      "구딩 주니어",
+      "쿠바 구딩",
+      "쿠바 구딩 Jr",
+      "쿠바 구딩 주니어",
+      "쿠바 굿딩",
+      "쿠바 굿딩 주니어",
+      "쿠바구딩",
+      "쿠바구딩주니어",
+      "큐바 구딩 주니어"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "쿠바 구딩 주니어은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

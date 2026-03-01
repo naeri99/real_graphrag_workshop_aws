@@ -1,0 +1,18 @@
+{
+  "entity": {
+    "name": "브라이언 헤일리",
+    "synonym": [
+      "Brian Hailey",
+      "Brian Haley",
+      "브라이언",
+      "브라이언 해일리",
+      "브라이언 헤일리",
+      "브라이언헤일리",
+      "헤일리"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "브라이언 헤일리은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

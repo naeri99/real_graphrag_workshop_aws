@@ -1,0 +1,24 @@
+{
+  "entity": {
+    "name": "롭 델라니",
+    "synonym": [
+      "Rob Delaney",
+      "Rob Zombie",
+      "델라니",
+      "로버트 델라니",
+      "로브 델라니",
+      "로브 좀비",
+      "롭",
+      "롭 델라니",
+      "롭 딜레이니",
+      "롭 좀비",
+      "롭델라니",
+      "롭좀비",
+      "좀비"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "롭 델라니은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

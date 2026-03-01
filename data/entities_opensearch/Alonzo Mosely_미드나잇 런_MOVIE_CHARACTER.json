@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "Alonzo Mosely",
+    "synonym": [
+      "Alonzo",
+      "Alonzo Mosely",
+      "Mosely",
+      "모슬리",
+      "모즐리",
+      "모질리",
+      "알론조",
+      "알론조 모슬리",
+      "알론조 모즐리",
+      "알론조모슬리",
+      "알론조모즐리"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "Alonzo Mosely은 영화 '미드나잇 런'의 등장인물로, 야페트 코토이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

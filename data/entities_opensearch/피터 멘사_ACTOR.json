@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "피터 멘사",
+    "synonym": [
+      "Peter Mensah",
+      "멘사",
+      "피터",
+      "피터 멘사",
+      "피터 멘사흐",
+      "피터 멘자",
+      "피터멘사",
+      "피터멘자"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "피터 멘사은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

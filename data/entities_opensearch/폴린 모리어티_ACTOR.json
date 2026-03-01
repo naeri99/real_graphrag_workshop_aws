@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "폴린 모리어티",
+    "synonym": [
+      "Pauline Moriarity",
+      "Pauline Moriarty",
+      "모리어티",
+      "폴린",
+      "폴린 모리아티",
+      "폴린 모리어리",
+      "폴린 모리어티",
+      "폴린모리아티",
+      "폴린모리어티"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "폴린 모리어티은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

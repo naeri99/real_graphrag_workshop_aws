@@ -1,0 +1,16 @@
+{
+  "entity": {
+    "name": "잭 태거트",
+    "synonym": [
+      "Jack Taggart",
+      "잭",
+      "잭 태거트",
+      "잭태거트",
+      "태거트"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "잭 태거트은 영화 '아이언맨2'의 등장인물로, 에본 모스-바크라흐이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

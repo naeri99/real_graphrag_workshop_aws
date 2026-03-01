@@ -1,0 +1,12 @@
+{
+  "entity": {
+    "name": "필름캐내기",
+    "synonym": [
+      "필름캐내기"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "필름캐내기은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

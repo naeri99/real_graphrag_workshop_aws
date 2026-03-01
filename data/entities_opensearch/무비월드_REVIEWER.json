@@ -1,0 +1,12 @@
+{
+  "entity": {
+    "name": "무비월드",
+    "synonym": [
+      "무비월드"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "무비월드은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

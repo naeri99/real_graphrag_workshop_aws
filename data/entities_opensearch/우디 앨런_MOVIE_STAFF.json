@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "우디 앨런",
+    "synonym": [
+      "Allen",
+      "Woody",
+      "Woody Allen",
+      "알렌",
+      "앨런",
+      "우디",
+      "우디 알렌",
+      "우디 앨런",
+      "우디알렌",
+      "우디앨런"
+    ],
+    "entity_type": "MOVIE_STAFF",
+    "summary": "우디 앨런은 영화 감독입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

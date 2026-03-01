@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "로버트 숀 레오나드",
+    "synonym": [
+      "Robert Leonard",
+      "Robert Sean Leonard",
+      "레오나드",
+      "로버트 레오나드",
+      "로버트 션 레오나드",
+      "로버트 숀 레오나드",
+      "로버트숀레오나드",
+      "숀 레오나드"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "로버트 숀 레오나드은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

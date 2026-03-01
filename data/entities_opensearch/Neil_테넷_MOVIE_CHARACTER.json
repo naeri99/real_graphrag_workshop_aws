@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "Neil",
+    "synonym": [
+      "Neil",
+      "Neil 캐릭터",
+      "네일",
+      "넬",
+      "니일",
+      "닐",
+      "닐 캐릭터",
+      "닐 페리",
+      "닐페리",
+      "페리"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "Neil은 영화 '테넷'의 등장인물로, 로버트 패틴슨이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

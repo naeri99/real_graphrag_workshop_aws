@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "노먼 로이드",
+    "synonym": [
+      "Norman",
+      "Norman Lloyd",
+      "노만",
+      "노만 로이드",
+      "노만로이드",
+      "노먼",
+      "노먼 로이드",
+      "노먼로이드",
+      "로이드"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "노먼 로이드은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

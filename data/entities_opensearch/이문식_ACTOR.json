@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "이문식",
+    "synonym": [
+      "Lee Moon-sik",
+      "Lee Moonsik",
+      "문식",
+      "문식이",
+      "이 문식",
+      "이문식",
+      "이문식 배우",
+      "이문식 씨",
+      "이문식씨"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "이문식은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

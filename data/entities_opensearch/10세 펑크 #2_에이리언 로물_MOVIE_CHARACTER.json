@@ -1,0 +1,27 @@
+{
+  "entity": {
+    "name": "10세 펑크 #2",
+    "synonym": [
+      "10-Year-Old Punk #2",
+      "10대 펑크 2",
+      "10세 펑크 #2",
+      "10세펑크2",
+      "Teen Punk #2",
+      "Teen Punk 2",
+      "Young Punk #2",
+      "Young Punk 2",
+      "십대 펑크 2",
+      "십세 펑크 2",
+      "어린 펑크 2",
+      "열살 펑크 2",
+      "영 펑크 2",
+      "영펑크2",
+      "틴 펑크 2",
+      "펑크2"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "10세 펑크 #2은 영화 '에이리언 로물'의 등장인물로, 벤스 오케케이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

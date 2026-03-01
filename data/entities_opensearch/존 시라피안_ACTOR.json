@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "존 시라피안",
+    "synonym": [
+      "John Sirapian",
+      "John Sirapyan",
+      "시라피안",
+      "존",
+      "존 시라피안",
+      "존 시라피얀",
+      "존 시라피언",
+      "존시라피안"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "존 시라피안은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

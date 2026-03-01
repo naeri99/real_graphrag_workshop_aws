@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "엘렌 드라이버",
+    "synonym": [
+      "Ellen",
+      "Ellen Dryver",
+      "드라이버",
+      "엘런",
+      "엘런 드라이버",
+      "엘렌",
+      "엘렌 드라이버",
+      "엘렌드라이버"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "엘렌 드라이버은 영화 '덤플링'의 등장인물로, 오데야 러쉬이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

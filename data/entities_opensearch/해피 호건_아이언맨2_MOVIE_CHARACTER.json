@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "해피 호건",
+    "synonym": [
+      "Happy Hogan",
+      "Harold Hogan",
+      "해롤드 호건",
+      "해피",
+      "해피 호간",
+      "해피 호건",
+      "해피호건",
+      "호건"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "해피 호건은 영화 '아이언맨2'의 등장인물로, 존 패브로이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

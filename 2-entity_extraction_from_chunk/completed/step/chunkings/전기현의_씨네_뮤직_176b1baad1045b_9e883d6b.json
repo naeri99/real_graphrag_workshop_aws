@@ -1,0 +1,406 @@
+{
+  "chunk_hash": "176b1baad1045b",
+  "chunk_id": "전기현의_씨네_뮤직_176b1baad1045b_9e883d6b",
+  "user_query": "성난황소 이후 1990년대까지 로버트 드니로와 마틴 스코세이지 콤비는 그야말로 파죽지세였습니다. 코미디의 왕 좋은 친구들 케이프 피어, 카지노 등 로버트 드니로는 독보적인 카리스마를 뽐내며 20세기 최고의 배우로 우뚝 섰습니다. 주로 무겁고 진중한 영화에서 돋보였던 배우지만 가벼운 코미디물이나 드라마에도 출연하며 자신의 커리어를 단단하게 채워 나갔습니다. 미트 페어런츠 실버라이닝 플레이북 같은 영화를 통해 남다른 연기력의 폭과 깊이를 증명해 보였죠. 2009년작 Everybody's Fine 역시 로버트 드니로의 온화하고 인간적인 면모를 엿볼 수 있는 드라마인데요. 시네마 천국을 연출한 주세페 토르나토레 감독의 이탈리아 영화 모두 잘 지내고 있다오를 리메이크했습니다. 삶을 지탱하는 이유이면서 때론 벗어나고 싶은 굴레처럼 느껴지는 가족. 하지만 그런 고통조차 토닥토닥 끌어안는 게 바로 가족임을 다시금 깨닫습니다. 로버트 드니로를 따라 떠나는 아버지의 여정 Everybody's Fine 이어서 다리오 마리아넬리의 푸근한 오리지널 스코어 크리스마스 투게더까지 감상해 보시죠. [음악] [음악] 아내가 병으로 세상을 떠난 지 8개월째 프랭크는 자식들을 만나지 못했습니다. 그래서 가족 모임을 앞두고 더 들떠 있었건만 다들 사정이 생겨 못 온다는 연락을 해옵니다. Robert. Oh, well that's a shame. That's a real shame. Dad, hi. I can't stop right now. I'm back on stage in a few minutes. The producers are flying in from Paris and to see the original cast. So, I just can't get away this weekend. Jack's sick with a fever. [음악] 바빠서 그렇다니 어쩌겠나 싶으면서도 서운하고 속상한 마음은 감출 길이 없습니다. [음악] 폐 건강을 염려하는 의사의 만류에도 불구하고 찾아오지 않는 자식들을 직접 찾아나섭니다. [음악] 무려 40년간 수천 마일의 전선 코팅 작업을 해온 프랭크. 자신의 피땀이 든 전선처럼 가족과 연결되고 싶었습니다. 그런데 어째 데이빗을 만나러 온 뉴욕에서부터 불길한 기운이 감돕니다. 대화는 커녕 연락조차 되지 않는 아들을 기다리고 기다리다 쓸쓸히 돌아섭니다. [음악] 갤러리 한 구석에 걸린 아들의 그림 한 점이 아쉬움을 달래 줄 [음악] 뿐이었죠. painter and do my pictures. Not a painter. Christ painters paint walls and dogs peon walls. You're going to be an artist. Artist paint pictures that change people's lives. You make me proudy. Dad. [음악] 시카고에 사는 맏딸 에이미를 만나자 한결 마음이 놓입니다. 겉으로론 크게 달라진 게 없지만 어딘가 어색한 기류가 감돕니다. 옷을 입은 사위를",
+  "movie_id": "에브리바디스 파인",
+  "reviewer": "전기현의_씨네_뮤직",
+  "chunk_index": 1,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "로버트 드니로",
+      "entity_type": "ACTOR",
+      "entity_description": "로버트 드니로는 20세기 최고의 배우로 평가받으며, 무겁고 진중한 영화부터 가벼운 코미디물까지 폭넓은 연기력을 보여준 배우이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "마틴 스코세이지",
+      "entity_type": "MOVIE_STAFF",
+      "entity_description": "마틴 스코세이지는 로버트 드니로와 오랜 협업을 해온 감독이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "주세페 토르나토레",
+      "entity_type": "MOVIE_STAFF",
+      "entity_description": "주세페 토르나토레는 시네마 천국을 연출한 이탈리아 감독이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "다리오 마리아넬리",
+      "entity_type": "MOVIE_STAFF",
+      "entity_description": "다리오 마리아넬리는 Everybody's Fine의 오리지널 스코어를 작곡한 음악가이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "성난황소",
+      "entity_type": "MOVIE",
+      "entity_description": "성난황소는 로버트 드니로와 마틴 스코세이지가 협업한 영화이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "코미디의 왕",
+      "entity_type": "MOVIE",
+      "entity_description": "코미디의 왕은 로버트 드니로가 출연한 영화이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "좋은 친구들",
+      "entity_type": "MOVIE",
+      "entity_description": "좋은 친구들은 로버트 드니로가 출연한 영화이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "케이프 피어",
+      "entity_type": "MOVIE",
+      "entity_description": "케이프 피어는 로버트 드니로가 출연한 영화이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "카지노",
+      "entity_type": "MOVIE",
+      "entity_description": "카지노는 로버트 드니로가 출연한 영화이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "미트 페어런츠",
+      "entity_type": "MOVIE",
+      "entity_description": "미트 페어런츠는 로버트 드니로가 출연한 코미디 영화이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "실버라이닝 플레이북",
+      "entity_type": "MOVIE",
+      "entity_description": "실버라이닝 플레이북은 로버트 드니로가 출연하여 연기력의 폭과 깊이를 증명한 영화이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "EVERYBODY'S FINE",
+      "entity_type": "MOVIE",
+      "entity_description": "Everybody's Fine은 2009년작으로 로버트 드니로의 온화하고 인간적인 면모를 볼 수 있는 드라마이며, 이탈리아 영화 '모두 잘 지내고 있다오'를 리메이크한 작품이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "모두 잘 지내고 있다오",
+      "entity_type": "MOVIE",
+      "entity_description": "모두 잘 지내고 있다오는 주세페 토르나토레 감독의 이탈리아 원작 영화이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "시네마 천국",
+      "entity_type": "MOVIE",
+      "entity_description": "시네마 천국은 주세페 토르나토레 감독이 연출한 영화이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "프랭크",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "프랭크는 Everybody's Fine의 주인공으로, 아내를 잃고 8개월째 자식들을 만나지 못한 아버지이며, 40년간 전선 코팅 작업을 해온 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "데이빗",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "데이빗은 프랭크의 아들로 뉴욕에 살며 그림을 그리는 예술가이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "에이미",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "에이미는 프랭크의 맏딸로 시카고에 살고 있다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "로버트 드니로",
+      "source_type": "ACTOR",
+      "target_entity": "마틴 스코세이지",
+      "target_type": "MOVIE_STAFF",
+      "relationship_description": "로버트 드니로와 마틴 스코세이지는 1990년대까지 파죽지세의 협업을 이어온 콤비이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "로버트 드니로",
+      "source_type": "ACTOR",
+      "target_entity": "성난황소",
+      "target_type": "MOVIE",
+      "relationship_description": "로버트 드니로는 성난황소에 출연했다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "로버트 드니로",
+      "source_type": "ACTOR",
+      "target_entity": "코미디의 왕",
+      "target_type": "MOVIE",
+      "relationship_description": "로버트 드니로는 코미디의 왕에 출연했다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "로버트 드니로",
+      "source_type": "ACTOR",
+      "target_entity": "좋은 친구들",
+      "target_type": "MOVIE",
+      "relationship_description": "로버트 드니로는 좋은 친구들에 출연했다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "로버트 드니로",
+      "source_type": "ACTOR",
+      "target_entity": "케이프 피어",
+      "target_type": "MOVIE",
+      "relationship_description": "로버트 드니로는 케이프 피어에 출연했다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "로버트 드니로",
+      "source_type": "ACTOR",
+      "target_entity": "카지노",
+      "target_type": "MOVIE",
+      "relationship_description": "로버트 드니로는 카지노에 출연했다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "로버트 드니로",
+      "source_type": "ACTOR",
+      "target_entity": "미트 페어런츠",
+      "target_type": "MOVIE",
+      "relationship_description": "로버트 드니로는 미트 페어런츠에 출연했다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "로버트 드니로",
+      "source_type": "ACTOR",
+      "target_entity": "실버라이닝 플레이북",
+      "target_type": "MOVIE",
+      "relationship_description": "로버트 드니로는 실버라이닝 플레이북에 출연하여 연기력을 증명했다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "로버트 드니로",
+      "source_type": "ACTOR",
+      "target_entity": "EVERYBODY'S FINE",
+      "target_type": "MOVIE",
+      "relationship_description": "로버트 드니로는 Everybody's Fine에 출연하여 온화하고 인간적인 면모를 보여주었다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "로버트 드니로",
+      "source_type": "ACTOR",
+      "target_entity": "프랭크",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "로버트 드니로는 Everybody's Fine에서 프랭크 역을 연기했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "주세페 토르나토레",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "모두 잘 지내고 있다오",
+      "target_type": "MOVIE",
+      "relationship_description": "주세페 토르나토레는 모두 잘 지내고 있다오를 연출했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "주세페 토르나토레",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "시네마 천국",
+      "target_type": "MOVIE",
+      "relationship_description": "주세페 토르나토레는 시네마 천국을 연출했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "다리오 마리아넬리",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "EVERYBODY'S FINE",
+      "target_type": "MOVIE",
+      "relationship_description": "다리오 마리아넬리는 Everybody's Fine의 오리지널 스코어를 작곡했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "EVERYBODY'S FINE",
+      "source_type": "MOVIE",
+      "target_entity": "모두 잘 지내고 있다오",
+      "target_type": "MOVIE",
+      "relationship_description": "Everybody's Fine은 모두 잘 지내고 있다오를 리메이크한 작품이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "프랭크",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "EVERYBODY'S FINE",
+      "target_type": "MOVIE",
+      "relationship_description": "프랭크는 Everybody's Fine의 주인공이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "프랭크",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "데이빗",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "프랭크는 데이빗의 아버지이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "프랭크",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "에이미",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "프랭크는 에이미의 아버지이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "데이빗",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "EVERYBODY'S FINE",
+      "target_type": "MOVIE",
+      "relationship_description": "데이빗은 Everybody's Fine에 등장하는 프랭크의 아들이다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "에이미",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "EVERYBODY'S FINE",
+      "target_type": "MOVIE",
+      "relationship_description": "에이미는 Everybody's Fine에 등장하는 프랭크의 맏딸이다",
+      "relationship_strength": 9
+    }
+  ],
+  "entity_resolution": {
+    "로버트 드니로": {
+      "description": "로버트 드니로 -> 로버트 드니로",
+      "resolved_name": "로버트 드니로",
+      "entity_type": "ACTOR",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "마틴 스코세이지": {
+      "description": "마틴 스코세이지 -> 마틴 스코세이지",
+      "resolved_name": "마틴 스코세이지",
+      "entity_type": "MOVIE_STAFF",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "주세페 토르나토레": {
+      "description": "주세페 토르나토레 -> 주세페 토르나토레",
+      "resolved_name": "주세페 토르나토레",
+      "entity_type": "MOVIE_STAFF",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "다리오 마리아넬리": {
+      "description": "다리오 마리아넬리 -> 다리오 마리아넬리",
+      "resolved_name": "다리오 마리아넬리",
+      "entity_type": "MOVIE_STAFF",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "성난황소": {
+      "description": "성난황소 -> 성난황소",
+      "resolved_name": "성난황소",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "코미디의 왕": {
+      "description": "코미디의 왕 -> 코미디의 왕",
+      "resolved_name": "코미디의 왕",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "좋은 친구들": {
+      "description": "좋은 친구들 -> 좋은 친구들",
+      "resolved_name": "좋은 친구들",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "케이프 피어": {
+      "description": "케이프 피어 -> 케이프 피어",
+      "resolved_name": "케이프 피어",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "카지노": {
+      "description": "카지노 -> 카지노",
+      "resolved_name": "카지노",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "미트 페어런츠": {
+      "description": "미트 페어런츠 -> 미트 페어런츠",
+      "resolved_name": "미트 페어런츠",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "실버라이닝 플레이북": {
+      "description": "실버라이닝 플레이북 -> 실버라이닝 플레이북",
+      "resolved_name": "실버라이닝 플레이북",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "EVERYBODY'S FINE": {
+      "description": "EVERYBODY'S FINE -> EVERYBODY'S FINE",
+      "resolved_name": "EVERYBODY'S FINE",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "모두 잘 지내고 있다오": {
+      "description": "모두 잘 지내고 있다오 -> 에브리바디스 파인",
+      "resolved_name": "에브리바디스 파인",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "시네마 천국": {
+      "description": "시네마 천국 -> 시네마 천국",
+      "resolved_name": "시네마 천국",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "프랭크": {
+      "description": "프랭크 -> 프랭크",
+      "resolved_name": "프랭크",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "데이빗": {
+      "description": "데이빗 -> 데이비드",
+      "resolved_name": "데이비드",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "에이미": {
+      "description": "에이미 -> 어린 에이미",
+      "resolved_name": "어린 에이미",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    }
+  }
+}

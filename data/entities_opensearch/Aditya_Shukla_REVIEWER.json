@@ -1,0 +1,13 @@
+{
+  "entity": {
+    "name": "Aditya_Shukla",
+    "synonym": [
+      "Aditya_Shukla",
+      "Aditya Shukla"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "Aditya_Shukla은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "타일러",
+    "synonym": [
+      "Tayler",
+      "Tyler",
+      "Tyler character",
+      "타일라",
+      "타일러",
+      "타일러 로물루스",
+      "타일러 카라딘",
+      "타일러 캐러데인",
+      "타일러 캐릭터",
+      "타일러Tyler"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "타일러은 영화 '에이리언 로물'의 등장인물로, 아치 르노이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

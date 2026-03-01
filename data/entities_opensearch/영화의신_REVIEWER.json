@@ -1,0 +1,12 @@
+{
+  "entity": {
+    "name": "영화의신",
+    "synonym": [
+      "영화의신"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "영화의신은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "chunk_hash": "a7e1018be4fa94",
+  "chunk_id": "B_Man_삐맨_a7e1018be4fa94_e76248f2",
+  "user_query": "커버넌트의 신화를 좀 더 고려했기 때문이라고 밝혔고 자신은 검은 액체를 제노모프의 정액이라고 생각하기 때문에 만약 인간과 제노모프의 자손이 있다면 어떻게 생겼을지를 생각하다 보니 탄생한 녀석이라고 밝혔습니다. 이후 Rain은 혼자서 싸움을 이어나가게 되고 결과적으로 에이리언 4와 유사한 방식으로 전투가 끝이 나긴 하는데 약간 다른 점은 에이리언 4에선 우주선에 난 작은 구멍으로 혼혈 에이리언이 찢겨져 나가듯 빨려가고 이번 영화에선 구멍의 크기가 좀 거대해졌다는 것입니다. 그리고 대망의 결말부에선 유일한 생존자인 Rain이 여느 에이리언 시리즈의 결말부와 같이 동면에 들며 메시지를 남기고 끝이 납니다. 여기까지가 제가 발견할 수 있었던 에이리언 로물루스에 담겨 있는 떡밥과 비하인드 오늘의 영상도 재밌거나 도움이 되셨다면 좋아요 댓글 그리고 구독도 부탁드립니다. 감사합니다. 지금까지 삐맨이었습니다.",
+  "movie_id": "에이리언 로물",
+  "reviewer": "B_Man_삐맨",
+  "chunk_index": 6,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "에이리언: 로물루스",
+      "entity_type": "MOVIE",
+      "entity_description": "에이리언: 로물루스는 에이리언 시리즈의 영화로, 제노모프와 인간의 혼혈 생명체가 등장하며 우주선에서의 전투를 다룬다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "에이리언 4",
+      "entity_type": "MOVIE",
+      "entity_description": "에이리언 4는 에이리언 시리즈의 영화로, 혼혈 에이리언이 우주선의 작은 구멍으로 빨려나가는 장면이 있다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "커버넌트",
+      "entity_type": "MOVIE",
+      "entity_description": "커버넌트는 에이리언 시리즈의 영화로, 검은 액체와 제노모프의 신화가 다뤄진다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "RAIN",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Rain은 에이리언: 로물루스의 유일한 생존자로, 혼자서 에이리언과 싸움을 이어나가고 결말부에서 동면에 들며 메시지를 남긴다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "혼혈 에이리언",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "혼혈 에이리언은 인간과 제노모프의 자손으로, 검은 액체를 제노모프의 정액으로 생각한 결과 탄생한 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "제노모프",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "제노모프는 에이리언 시리즈에 등장하는 외계 생명체로, 검은 액체와 관련이 있다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "삐맨",
+      "entity_type": "REVIEWER",
+      "entity_description": "삐맨은 에이리언: 로물루스의 떡밥과 비하인드를 분석하는 영상을 제작한 유튜버이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "RAIN",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "에이리언: 로물루스",
+      "target_type": "MOVIE",
+      "relationship_description": "Rain은 에이리언: 로물루스의 주인공이자 유일한 생존자이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "혼혈 에이리언",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "에이리언: 로물루스",
+      "target_type": "MOVIE",
+      "relationship_description": "혼혈 에이리언은 에이리언: 로물루스에 등장하는 캐릭터이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "혼혈 에이리언",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "제노모프",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "혼혈 에이리언은 제노모프와 인간의 자손이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "혼혈 에이리언",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "에이리언 4",
+      "target_type": "MOVIE",
+      "relationship_description": "에이리언 4에서도 혼혈 에이리언이 등장하며 유사한 방식으로 죽음을 맞이한다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "에이리언: 로물루스",
+      "source_type": "MOVIE",
+      "target_entity": "에이리언 4",
+      "target_type": "MOVIE",
+      "relationship_description": "에이리언: 로물루스는 에이리언 4와 유사한 방식의 전투 결말을 가지고 있다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "에이리언: 로물루스",
+      "source_type": "MOVIE",
+      "target_entity": "커버넌트",
+      "target_type": "MOVIE",
+      "relationship_description": "에이리언: 로물루스는 커버넌트의 신화를 고려하여 제작되었다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "삐맨",
+      "source_type": "REVIEWER",
+      "target_entity": "에이리언: 로물루스",
+      "target_type": "MOVIE",
+      "relationship_description": "삐맨은 에이리언: 로물루스의 떡밥과 비하인드를 분석하는 영상을 제작했다",
+      "relationship_strength": 8
+    }
+  ],
+  "entity_resolution": {
+    "에이리언: 로물루스": {
+      "description": "에이리언: 로물루스 -> 에이리언 로물",
+      "resolved_name": "에이리언 로물",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "에이리언 4": {
+      "description": "에이리언 4 -> 에이리언 4",
+      "resolved_name": "에이리언 4",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "커버넌트": {
+      "description": "커버넌트 -> 커버넌트",
+      "resolved_name": "커버넌트",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "RAIN": {
+      "description": "RAIN -> RAIN",
+      "resolved_name": "RAIN",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "혼혈 에이리언": {
+      "description": "혼혈 에이리언 -> 혼혈 에이리언",
+      "resolved_name": "혼혈 에이리언",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "제노모프": {
+      "description": "제노모프 -> 제노모프",
+      "resolved_name": "제노모프",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "삐맨": {
+      "description": "삐맨 -> B_Man_삐맨",
+      "resolved_name": "B_Man_삐맨",
+      "entity_type": "REVIEWER",
+      "matched": true,
+      "match_type": "name_exact"
+    }
+  }
+}

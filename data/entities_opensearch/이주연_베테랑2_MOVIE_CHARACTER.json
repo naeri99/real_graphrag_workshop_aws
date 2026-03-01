@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "이주연",
+    "synonym": [
+      "Ju-yeon",
+      "Lee Joo-yeon",
+      "Lee Ju-yeon",
+      "이 주연",
+      "이주 연",
+      "이주연",
+      "이주연 캐릭터",
+      "이주연씨",
+      "주연",
+      "주연씨",
+      "주연이"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "이주연은 영화 '베테랑2'의 등장인물로, 진경이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "시실",
+    "synonym": [
+      "Cyril",
+      "Cyril Woodcock",
+      "사이릴",
+      "시릴",
+      "시실",
+      "시실 우드콕",
+      "씨릴",
+      "씨실"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "시실은 영화 '팬텀 스레드'의 등장인물로, 레슬리 맨빌이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

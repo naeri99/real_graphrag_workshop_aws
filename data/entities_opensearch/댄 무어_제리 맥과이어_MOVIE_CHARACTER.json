@@ -1,0 +1,27 @@
+{
+  "entity": {
+    "name": "댄 무어",
+    "synonym": [
+      "Dan",
+      "Dan Moore",
+      "Dan O'Bannon",
+      "Dan Scanlon",
+      "단 무어",
+      "단 스캔론",
+      "단 오배넌",
+      "댄",
+      "댄 무어",
+      "댄 오배논",
+      "댄무어",
+      "댄스캔론",
+      "댄오배넌",
+      "무어",
+      "스캔론",
+      "오배넌"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "댄 무어은 영화 '제리 맥과이어'의 등장인물로, 글렌 모샤워이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

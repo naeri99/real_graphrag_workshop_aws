@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "비요른 안드레센",
+    "synonym": [
+      "Bjorn Andresen",
+      "Björn",
+      "Björn Andrésen",
+      "비요른",
+      "비요른 안드레센",
+      "비요른 안드레슨",
+      "비요른안드레센",
+      "비욘 안드레센",
+      "안드레센"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "비요른 안드레센은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

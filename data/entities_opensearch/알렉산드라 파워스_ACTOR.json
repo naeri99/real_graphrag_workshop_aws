@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "알렉산드라 파워스",
+    "synonym": [
+      "Alexandra",
+      "Alexandra Powers",
+      "알렉산드라",
+      "알렉산드라 파워스",
+      "알렉산드라 파워즈",
+      "알렉산드라파워스",
+      "알렉산드라파워즈",
+      "파워스",
+      "파워즈"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "알렉산드라 파워스은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

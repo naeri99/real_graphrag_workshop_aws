@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "숀 빈",
+    "synonym": [
+      "Sean",
+      "Sean Bean",
+      "Vin Diesel",
+      "디젤",
+      "빈",
+      "빈 디젤",
+      "빈디젤",
+      "션 빈",
+      "션빈",
+      "숀 빈",
+      "숀빈"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "숀 빈은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

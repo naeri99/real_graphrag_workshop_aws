@@ -1,0 +1,28 @@
+{
+  "entity": {
+    "name": "클로드",
+    "synonym": [
+      "Clod",
+      "Clod Earth",
+      "Clod Lumen",
+      "클라드",
+      "클라우드",
+      "클랏",
+      "클로드",
+      "클로드 루멘",
+      "클로드 어스",
+      "클로드 캐릭터",
+      "클로드루멘",
+      "클로우드",
+      "클롯",
+      "흙",
+      "흙 소녀",
+      "흙 소년",
+      "흙 캐릭터"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "클로드은 영화 '엘리멘탈'의 등장인물로, 메이슨 베르타이머이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

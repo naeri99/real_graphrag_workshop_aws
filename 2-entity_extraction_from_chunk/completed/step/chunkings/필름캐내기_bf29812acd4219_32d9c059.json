@@ -1,0 +1,196 @@
+{
+  "chunk_hash": "bf29812acd4219",
+  "chunk_id": "필름캐내기_bf29812acd4219_32d9c059",
+  "user_query": "이렇게 하는 거 마모 인텔의 파요 5파이 생보업계 5 max rider ooo on you 아 아직까지는 모든 게 순조롭게 있는데 과연 더 그는 무사히 일을 마치고 찰스 타운을 벗어날 수 있는 걸까요 범죄 마저 대물림되는 도시 타운이었습니다 오늘 소개해드린 것은 벤 애플렉 감독 벤 애플렉 주연의 타운을 지난 2010년 개봉한 미국의 범죄 드라마 0 합니다 9 덜 헌팅 곤 베이비 곤 등 줄곧 본인의 고향 보스턴을 배경으로 잡든 벤 애플렉 그런 그가 역시 보스턴이 배경인 이 작품에선 각본과 연출 주연까지 무려 3가지 역할을 해내며 마이클 맨의 히트 이후 가장 불만 1 은행 강도 영화를 만들어 냈죠 범죄 105 삶의 방식인 도시 그 안에서 태어나 가업처럼 물려받는 범죄자의 삶 그 삶을 당연하게 살아가는 이들의 모습과 이제는 떠나고픈 한 남자의 꿈을 담은 이 작품은 화려한 액션보단 지난 드라마적 요소가 더 훌륭한 영화입니다 게다가 이 영화는 어벤져스 의혹 파이로 잘 알려진 제레미 레너를 아카데미 주연상 후보에 올린 작품이기도 하니 보스턴 현지 범죄자의 핑 위한 그의 연기가 궁금하신 분들은 꼭 한번 관람해 보시기 바랍니다 자 그럼 오늘 소개해드린 영화 타운 추천드리며 지금까지 얼른 켄에게 해결되었습니다 안녕 5",
+  "movie_id": "뱅크어택",
+  "reviewer": "필름캐내기",
+  "chunk_index": 3,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "타운",
+      "entity_type": "MOVIE",
+      "entity_description": "타운은 2010년 개봉한 미국의 범죄 드라마 영화로, 보스턴을 배경으로 범죄가 대물림되는 도시에서 태어나 범죄자의 삶을 살아가는 이들의 모습과 그 삶을 떠나고 싶은 한 남자의 꿈을 담은 작품이다. 화려한 액션보다 드라마적 요소가 훌륭한 영화로 평가받는다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "벤 애플렉",
+      "entity_type": "MOVIE_STAFF",
+      "entity_description": "벤 애플렉은 타운의 감독이자 각본가로, 굿 윌 헌팅, 곤 베이비 곤 등 줄곧 본인의 고향 보스턴을 배경으로 작품을 만들어왔으며, 이 작품에서 각본과 연출, 주연까지 3가지 역할을 해냈다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "벤 애플렉",
+      "entity_type": "ACTOR",
+      "entity_description": "벤 애플렉은 타운에서 주연을 맡아 범죄자의 삶을 떠나고 싶은 남자 역할을 연기했다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "제레미 레너",
+      "entity_type": "ACTOR",
+      "entity_description": "제레미 레너는 어벤져스의 호크아이로 잘 알려진 배우로, 타운에서 보스턴 현지 범죄자 역할을 연기하여 아카데미 주연상 후보에 올랐다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "마이클 맨",
+      "entity_type": "MOVIE_STAFF",
+      "entity_description": "마이클 맨은 히트를 만든 감독으로, 타운이 히트 이후 가장 훌륭한 은행 강도 영화라는 평가의 비교 대상이 된다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "히트",
+      "entity_type": "MOVIE",
+      "entity_description": "히트는 마이클 맨 감독의 은행 강도 영화로, 타운과 비교되는 작품이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "굿 윌 헌팅",
+      "entity_type": "MOVIE",
+      "entity_description": "굿 윌 헌팅은 벤 애플렉이 참여한 보스턴 배경의 영화이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "곤 베이비 곤",
+      "entity_type": "MOVIE",
+      "entity_description": "곤 베이비 곤은 벤 애플렉이 만든 보스턴 배경의 영화이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "어벤져스",
+      "entity_type": "MOVIE",
+      "entity_description": "어벤져스는 제레미 레너가 호크아이 역으로 출연한 영화이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "벤 애플렉",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "타운",
+      "target_type": "MOVIE",
+      "relationship_description": "벤 애플렉은 타운의 감독이자 각본가이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "벤 애플렉",
+      "source_type": "ACTOR",
+      "target_entity": "타운",
+      "target_type": "MOVIE",
+      "relationship_description": "벤 애플렉은 타운에서 주연을 맡아 연기했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "제레미 레너",
+      "source_type": "ACTOR",
+      "target_entity": "타운",
+      "target_type": "MOVIE",
+      "relationship_description": "제레미 레너는 타운에서 보스턴 범죄자 역할을 연기하여 아카데미 주연상 후보에 올랐다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "마이클 맨",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "히트",
+      "target_type": "MOVIE",
+      "relationship_description": "마이클 맨은 히트를 감독했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "타운",
+      "source_type": "MOVIE",
+      "target_entity": "히트",
+      "target_type": "MOVIE",
+      "relationship_description": "타운은 히트 이후 가장 훌륭한 은행 강도 영화로 평가받는다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "벤 애플렉",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "굿 윌 헌팅",
+      "target_type": "MOVIE",
+      "relationship_description": "벤 애플렉은 굿 윌 헌팅에 참여했다",
+      "relationship_strength": 6
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "벤 애플렉",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "곤 베이비 곤",
+      "target_type": "MOVIE",
+      "relationship_description": "벤 애플렉은 곤 베이비 곤을 만들었다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "제레미 레너",
+      "source_type": "ACTOR",
+      "target_entity": "어벤져스",
+      "target_type": "MOVIE",
+      "relationship_description": "제레미 레너는 어벤져스에서 호크아이 역으로 출연했다",
+      "relationship_strength": 8
+    }
+  ],
+  "entity_resolution": {
+    "타운": {
+      "description": "타운 -> 타운",
+      "resolved_name": "타운",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "벤 애플렉": {
+      "description": "벤 애플렉 -> 벤 애플렉",
+      "resolved_name": "벤 애플렉",
+      "entity_type": "ACTOR",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "제레미 레너": {
+      "description": "제레미 레너 -> 제레미 레너",
+      "resolved_name": "제레미 레너",
+      "entity_type": "ACTOR",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "마이클 맨": {
+      "description": "마이클 맨 -> 마이클 맨",
+      "resolved_name": "마이클 맨",
+      "entity_type": "MOVIE_STAFF",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "히트": {
+      "description": "히트 -> 히트",
+      "resolved_name": "히트",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "굿 윌 헌팅": {
+      "description": "굿 윌 헌팅 -> 굿윌헌팅",
+      "resolved_name": "굿윌헌팅",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "곤 베이비 곤": {
+      "description": "곤 베이비 곤 -> 곤 베이비 곤",
+      "resolved_name": "곤 베이비 곤",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "어벤져스": {
+      "description": "어벤져스 -> 어벤져스",
+      "resolved_name": "어벤져스",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

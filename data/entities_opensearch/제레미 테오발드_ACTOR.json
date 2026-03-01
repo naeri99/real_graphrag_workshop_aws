@@ -1,0 +1,25 @@
+{
+  "entity": {
+    "name": "제레미 테오발드",
+    "synonym": [
+      "J. 테오발드",
+      "Jeremy Renner",
+      "Jeremy Theobald",
+      "Theobald",
+      "레너",
+      "제러미 레너",
+      "제러미 시어볼드",
+      "제러미 테오발드",
+      "제레미 래너",
+      "제레미 시어볼드",
+      "제레미 테오발드",
+      "제레미레너",
+      "제레미테오발드",
+      "테오발드"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "제레미 테오발드은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

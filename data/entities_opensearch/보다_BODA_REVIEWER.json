@@ -1,0 +1,13 @@
+{
+  "entity": {
+    "name": "보다_BODA",
+    "synonym": [
+      "보다_BODA",
+      "보다 BODA"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "보다_BODA은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

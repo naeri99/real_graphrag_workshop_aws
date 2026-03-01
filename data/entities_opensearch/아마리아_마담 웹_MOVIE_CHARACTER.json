@@ -1,0 +1,14 @@
+{
+  "entity": {
+    "name": "아마리아",
+    "synonym": [
+      "Amaria",
+      "아마리아",
+      "아말리아"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "아마리아은 영화 '마담 웹'의 등장인물로, 조시아 마멧이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

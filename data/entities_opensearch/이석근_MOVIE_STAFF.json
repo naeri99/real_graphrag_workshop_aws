@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "이석근",
+    "synonym": [
+      "Lee Seok Geun",
+      "Lee Seok-geun",
+      "Lee Seokgeun",
+      "감독 이석근",
+      "석근",
+      "이 석근",
+      "이석근",
+      "이석근 감독",
+      "이석훈",
+      "이석훈 감독"
+    ],
+    "entity_type": "MOVIE_STAFF",
+    "summary": "이석근은 영화 감독입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

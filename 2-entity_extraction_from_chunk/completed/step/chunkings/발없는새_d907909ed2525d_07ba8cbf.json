@@ -1,0 +1,133 @@
+{
+  "chunk_hash": "d907909ed2525d",
+  "chunk_id": "발없는새_d907909ed2525d_07ba8cbf",
+  "user_query": "왜 집어넣은 거냐고요 스파이더맨 뉴 유니버스가 개봉했을 때만 해도 소니가 드디어 정신을 차린 줄 알았는데 아쉬움이 적지 않았던 베놈 2와 그럴 줄 알았지로 끝난 모비우스에 이어 마담 웹까지 이 모양 이 꼴로 만든 걸 보면 그냥 스파이더맨 애니메이션이 최선이라고 보는 게 맞겠네요 과연 베놈 라스트 댄스는 제대로 만들었을지 벌써부터 회의적인 의문이 듭니다",
+  "movie_id": "마담 웹",
+  "reviewer": "발없는새",
+  "chunk_index": 4,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "스파이더맨 뉴 유니버스",
+      "entity_type": "MOVIE",
+      "entity_description": "스파이더맨 뉴 유니버스는 소니에서 제작한 스파이더맨 애니메이션 영화로, 개봉 당시 긍정적인 평가를 받았다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "베놈 2",
+      "entity_type": "MOVIE",
+      "entity_description": "베놈 2는 소니에서 제작한 영화로, 아쉬움이 적지 않았다는 평가를 받은 작품이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "모비우스",
+      "entity_type": "MOVIE",
+      "entity_description": "모비우스는 소니에서 제작한 영화로, 기대에 미치지 못했다는 평가를 받은 작품이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "마담 웹",
+      "entity_type": "MOVIE",
+      "entity_description": "마담 웹은 소니에서 제작한 영화로, 좋지 않은 평가를 받은 작품이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "베놈 라스트 댄스",
+      "entity_type": "MOVIE",
+      "entity_description": "베놈 라스트 댄스는 소니에서 제작 예정인 베놈 시리즈의 후속작으로, 품질에 대한 회의적인 시선이 있다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "베놈 2",
+      "source_type": "MOVIE",
+      "target_entity": "베놈 라스트 댄스",
+      "target_type": "MOVIE",
+      "relationship_description": "베놈 2와 베놈 라스트 댄스는 같은 베놈 시리즈의 영화들이다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "스파이더맨 뉴 유니버스",
+      "source_type": "MOVIE",
+      "target_entity": "베놈 2",
+      "target_type": "MOVIE",
+      "relationship_description": "둘 다 소니에서 제작한 스파이더맨 관련 영화이다",
+      "relationship_strength": 5
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "스파이더맨 뉴 유니버스",
+      "source_type": "MOVIE",
+      "target_entity": "모비우스",
+      "target_type": "MOVIE",
+      "relationship_description": "둘 다 소니에서 제작한 스파이더맨 관련 영화이다",
+      "relationship_strength": 5
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "스파이더맨 뉴 유니버스",
+      "source_type": "MOVIE",
+      "target_entity": "마담 웹",
+      "target_type": "MOVIE",
+      "relationship_description": "둘 다 소니에서 제작한 스파이더맨 관련 영화이다",
+      "relationship_strength": 5
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "베놈 2",
+      "source_type": "MOVIE",
+      "target_entity": "모비우스",
+      "target_type": "MOVIE",
+      "relationship_description": "둘 다 소니에서 제작한 스파이더맨 유니버스 영화로 비슷한 시기에 부정적 평가를 받았다",
+      "relationship_strength": 6
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "모비우스",
+      "source_type": "MOVIE",
+      "target_entity": "마담 웹",
+      "target_type": "MOVIE",
+      "relationship_description": "둘 다 소니에서 제작한 스파이더맨 유니버스 영화로 좋지 않은 평가를 받았다",
+      "relationship_strength": 7
+    }
+  ],
+  "entity_resolution": {
+    "스파이더맨 뉴 유니버스": {
+      "description": "스파이더맨 뉴 유니버스 -> 스파이더맨 뉴 유니버스",
+      "resolved_name": "스파이더맨 뉴 유니버스",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "베놈 2": {
+      "description": "베놈 2 -> 베놈 2",
+      "resolved_name": "베놈 2",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "모비우스": {
+      "description": "모비우스 -> 모비우스",
+      "resolved_name": "모비우스",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "마담 웹": {
+      "description": "마담 웹 -> 마담 웹",
+      "resolved_name": "마담 웹",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "베놈 라스트 댄스": {
+      "description": "베놈 라스트 댄스 -> 베놈 라스트 댄스",
+      "resolved_name": "베놈 라스트 댄스",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

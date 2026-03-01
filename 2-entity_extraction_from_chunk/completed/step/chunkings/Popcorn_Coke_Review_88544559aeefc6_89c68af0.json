@@ -1,0 +1,106 @@
+{
+  "chunk_hash": "88544559aeefc6",
+  "chunk_id": "Popcorn_Coke_Review_88544559aeefc6_89c68af0",
+  "user_query": "we're gonna hurt each other you don't know that your dream's just not with me okay we just ended now just be done with [Music] face of somebody that just made the finals we broke up winning doesn't always feel like winning huh doesn't mean anything you don't have something to share it with you love her i thought you didn't like her i didn't want you to struggle the way that i struggled [Music] hello [Music] [Music] i just miss him easy man sorry i didn't mean to wake you up come here i've defined myself through sport what i could accomplish how many games none of that matters because winning isn't winning everything i could ever want is right here okay so i'm sorry who are you i'm with the and frankly he's beneath the standards of this franchise i like him [Music] packers called you up once don't get too comfortable [Music] pop warner that's you let's go and you don't have the dignity to hold on to the damn ball what are you thinking how do you drop that that's my mistake it won't happen again the offensive coordinator hates me i mean i can't prove myself he won't let me i'm not getting any snaps coach [Music] 14 years out of coaching when i did come back they said i was has been too old that they're going to say about you a year off turned out to be a decade and a half what they didn't know was all that experience who i am and i see that in you currently [Music] [Music] and green went down hard and is not you're too old to be a rookie you don't have what it takes so why in",
+  "movie_id": "아메리칸 언더독",
+  "reviewer": "Popcorn_Coke_Review",
+  "chunk_index": 4,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "POP WARNER",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Pop Warner는 영화 속에서 언급되는 인물로, 주인공의 과거와 관련된 것으로 보인다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "PACKERS",
+      "entity_type": "MOVIE",
+      "entity_description": "Packers는 NFL 팀 그린베이 패커스를 지칭하며, 영화 속 배경이 되는 프랜차이즈이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "COACH",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Coach는 14년간 코칭을 떠났다가 복귀한 인물로, 주인공에게 조언을 해주는 멘토 역할의 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "OFFENSIVE COORDINATOR",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Offensive Coordinator는 주인공을 싫어하고 기회를 주지 않는 코치 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "GREEN",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Green은 부상을 당한 선수 캐릭터이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "COACH",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "PACKERS",
+      "target_type": "MOVIE",
+      "relationship_description": "Coach는 Packers 프랜차이즈와 관련된 코칭 스태프이다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "OFFENSIVE COORDINATOR",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "COACH",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Offensive Coordinator와 Coach는 같은 팀의 코칭 스태프로 관계가 있다",
+      "relationship_strength": 6
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "GREEN",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "PACKERS",
+      "target_type": "MOVIE",
+      "relationship_description": "Green은 Packers 팀의 선수로 부상을 당했다",
+      "relationship_strength": 7
+    }
+  ],
+  "entity_resolution": {
+    "POP WARNER": {
+      "description": "POP WARNER -> POP WARNER",
+      "resolved_name": "POP WARNER",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "PACKERS": {
+      "description": "PACKERS -> PACKERS",
+      "resolved_name": "PACKERS",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "COACH": {
+      "description": "COACH -> COACH",
+      "resolved_name": "COACH",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "OFFENSIVE COORDINATOR": {
+      "description": "OFFENSIVE COORDINATOR -> OFFENSIVE COORDINATOR",
+      "resolved_name": "OFFENSIVE COORDINATOR",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "GREEN": {
+      "description": "GREEN -> GREEN",
+      "resolved_name": "GREEN",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

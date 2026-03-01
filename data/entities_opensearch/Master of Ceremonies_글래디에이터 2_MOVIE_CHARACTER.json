@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "Master of Ceremonies",
+    "synonym": [
+      "MC",
+      "Master of Ceremonies",
+      "마스터 오브 세레모니",
+      "사회자",
+      "의식 진행자",
+      "의전관",
+      "진행자",
+      "행사 진행자"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "Master of Ceremonies은 영화 '글래디에이터 2'의 등장인물로, 맷 루카스이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

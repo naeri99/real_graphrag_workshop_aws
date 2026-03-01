@@ -1,0 +1,23 @@
+{
+  "entity": {
+    "name": "제시카 차스테인",
+    "synonym": [
+      "Jessica",
+      "Jessica Chastain",
+      "제시카",
+      "제시카 차스테인",
+      "제시카 채스테인",
+      "제시카 체스테인",
+      "제시카차스테인",
+      "제시카채스테인",
+      "제씨카",
+      "차스테인",
+      "채스테인",
+      "체스테인"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "제시카 차스테인은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "entity": {
+    "name": "빌리 파퍼",
+    "synonym": [
+      "Billy",
+      "Billy Popper",
+      "빌리",
+      "빌리 파퍼",
+      "빌리 포퍼",
+      "빌리파퍼",
+      "파퍼 아들"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "빌리 파퍼은 영화 '파퍼씨네 펭귄들'의 등장인물로, 맥스웰 페리 코튼이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "이연우",
+    "synonym": [
+      "Lee Yeon Woo",
+      "Lee Yeon-woo",
+      "Lee Yeonwoo",
+      "감독 이연우",
+      "연우",
+      "이 연우",
+      "이연우",
+      "이연우 감독"
+    ],
+    "entity_type": "MOVIE_STAFF",
+    "summary": "이연우은 영화 감독입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

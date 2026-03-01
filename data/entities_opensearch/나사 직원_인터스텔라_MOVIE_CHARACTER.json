@@ -1,0 +1,23 @@
+{
+  "entity": {
+    "name": "나사 직원",
+    "synonym": [
+      "NASA Employee",
+      "NASA Staff",
+      "NASA Worker",
+      "NASA 요원",
+      "NASA 직원",
+      "NASA직원",
+      "나사 스태프",
+      "나사 연구원",
+      "나사 요원",
+      "나사 직원",
+      "나사 직원 캐릭터",
+      "나사직원"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "나사 직원은 영화 '인터스텔라'의 등장인물로, 맷 맥콜이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

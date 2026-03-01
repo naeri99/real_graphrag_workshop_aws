@@ -1,0 +1,23 @@
+{
+  "entity": {
+    "name": "브루스 그린우드",
+    "synonym": [
+      "Bruce Greenwood",
+      "Johnny Greenwood",
+      "Jonny Greenwood",
+      "그린 우드",
+      "그린우드",
+      "브루스",
+      "브루스 그린우드",
+      "브루스 그린웃",
+      "브루스그린우드",
+      "브루스그린웃",
+      "자니 그린우드",
+      "조니그린우드"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "브루스 그린우드은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "entity": {
+    "name": "니크 리딩",
+    "synonym": [
+      "Nick Reding",
+      "니크 리딩",
+      "니크리딩",
+      "닉",
+      "닉 리딩",
+      "닉리딩",
+      "리딩"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "니크 리딩은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

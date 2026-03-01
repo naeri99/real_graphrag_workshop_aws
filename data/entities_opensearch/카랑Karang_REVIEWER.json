@@ -1,0 +1,12 @@
+{
+  "entity": {
+    "name": "카랑Karang",
+    "synonym": [
+      "카랑Karang"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "카랑Karang은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

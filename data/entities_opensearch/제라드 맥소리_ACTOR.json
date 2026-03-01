@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "제라드 맥소리",
+    "synonym": [
+      "Gerard McSorley",
+      "맥소리",
+      "제라드",
+      "제라드 맥소리",
+      "제라드 맥솔리",
+      "제라드맥소리",
+      "제랄드 맥소리",
+      "제러드 맥소리",
+      "제럴드 맥소리"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "제라드 맥소리은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

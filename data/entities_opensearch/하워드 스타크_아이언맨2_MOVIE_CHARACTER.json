@@ -1,0 +1,23 @@
+{
+  "entity": {
+    "name": "하워드 스타크",
+    "synonym": [
+      "Cheryl Howard",
+      "Howard Stark",
+      "셰릴 하워드",
+      "셰릴하워드",
+      "쉐릴 하워드",
+      "스타크",
+      "스타크 시니어",
+      "스타크 아버지",
+      "토니 아버지",
+      "하워드",
+      "하워드 스타크",
+      "하워드스타크"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "하워드 스타크은 영화 '아이언맨2'의 등장인물로, 존 슬래터리이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

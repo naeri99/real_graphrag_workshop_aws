@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "이정은",
+    "synonym": [
+      "Lee Jeong-eun",
+      "Lee Jeongeun",
+      "Lee Jung-eun",
+      "배우 이정은",
+      "이 정은",
+      "이정 은",
+      "이정은",
+      "이정은 배우",
+      "이정은배우",
+      "이정은씨",
+      "정은"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "이정은은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

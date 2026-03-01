@@ -1,0 +1,29 @@
+{
+  "entity": {
+    "name": "Sue Lor",
+    "synonym": [
+      "Sue",
+      "Sue Clark",
+      "Sue Lor",
+      "로르",
+      "수",
+      "수 로",
+      "수 로르",
+      "수 로어",
+      "수 클라크",
+      "수 클락",
+      "수로",
+      "수로르",
+      "수이",
+      "수이 로르",
+      "수클라크",
+      "슈",
+      "슈 로르",
+      "클라크"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "Sue Lor은 영화 '그랜 토리노'의 등장인물로, 애니 허이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

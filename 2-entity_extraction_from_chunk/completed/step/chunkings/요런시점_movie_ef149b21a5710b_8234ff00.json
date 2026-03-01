@@ -1,0 +1,204 @@
+{
+  "chunk_hash": "ef149b21a5710b",
+  "chunk_id": "요런시점_movie_ef149b21a5710b_8234ff00",
+  "user_query": "밖으로 나온 주인공은 혼자 달려가서\n구급차를 탈취한 뒤 적당한 곳에\n대기하러 갑니다 이때 비행기의 엔진이 폭발해서 역행 중인 주인공은\n빨려나가게 되고 과거의 주인공 닐은\n원래 있던 보관실로 급히 돌아가게 됩니다 그리고 계속 어딘가에서\n대기하고 있던 닐과 캣은 주인공의 소방차에 탑승하여\n공항을 빠져나오게 됩니다 이제부터는 미래에서 역행해 온\n주인공 일행의 시점입니다 이들이 공항에 도착했을 때 회전문을 통과한\n순행의 주인공이 소방차에서 대기하고 있는 것을\n지나치게 됩니다 그리고 비행기 엔진이 폭발하면서 주인공은 안으로\n빨려 들어가게 되죠 닐과 캣은\n여기서 계속 기다리다가 회전문을 통과한 주인공이 거꾸로 안으로\n들어가는 것을 보고 나서야 뒤따라 들어가기 시작합니다 그래야 주인공과 동선이\n겹치지 않기 때문이겠죠 이들은 과거의 자신과\n마주치지 않게 회전문 방 주위를\n삥 돌아서 들어갑니다 그러다 여기서\n조심조심 다가가는데 이는 과거의 주인공과 닐이 회전문 방에서\n거꾸로 나가기를 기다리는 것입니다 이때 본 것이\n바로 이 장면인 것이죠 이들이 방을 비우자\n닐과 캣은 회전문으로 들어갔고 그렇게 순방향으로\n나오게 된 것입니다 이제 시간이 순행이 되었으니 곧 과거의 자신이\n다시 여기로 돌아올 테고 그래서 이들은 서둘러서\n방 밖으로 빠져나가는 것입니다 이 다음은\n앞에서 설명했던 그대로입니다 이번에는\n탈린 회전문입니다 사토르가\n먼저 회전문에 들어갔고 파란 방에 있는 총에 맞은 캣을\n빨강 방으로 옮긴 후 주인공 일행은\n나중에 들어갔기 때문에 주인공 일행이 이 파란 방에서\n이야기를 하며 시간을 보내다 보면 회전문에서 튀어나오는\n사토르와 마주쳐야만 합니다 하지만 그런 일은\n일어나지 않았습니다 우선 주인공은 사토르가\n아직 회전문에서 나오지 않은 줄도 모른 채 사토르를 쫓아서\n밖으로 튀어나갔습니다 그리고 닐과 캣은\n옆의 컨테이너 안에 들어가 있었죠 주인공이 먼저 튀어나간 것은\n충분히 그럴 수 있습니다 주인공은 이 시점에서\n관객과 마찬가지로 회전문과 인버전에 대해서\n익숙하지 않은 상태였습니다 그래서 사토르가\n먼저 나갔다고 생각하고 뒤쫓아 가는 것도\n충분히 있을 수 있는 일입니다 문제는\n닐과 아이브스입니다 이들은 인버전의 전문가들인데 왜 나중에 나오는 사토르를\n잡지 않았느냐 하는 것입니다 이는 프리야의 대사에서\n단서를 얻을 수 있습니다 프리야의 말에 따르면\n이 탈린 작전의 궁극적인 목적은 사토르에게서\n알고리즘을 빼앗는 것이 아니고 반대로 알고리즘을\n넘기는 것이었다고 말합니다 사토르가\n마지막 알고리즘을 획득해서 9개 알고리즘을\n스탈스크 12 한 곳에 모아 놓았을 때 이를 한꺼번에 빼앗겠다는 것이 바로 프리야와 테넷의\n진짜 목적이었던 것입니다 그러니 닐과 아이브스는 사토르를 지금 여기서 붙잡아서는\n안 되었던 것입니다 그래서 둘은\n사토르가 나오기 전에 파란 방을 급하게 비웠던 것 같고 영화에서도\n주인공이 밖으로 나갈 때 이들이 컨테이너 안으로 들어가는 장면이\n살짝 나오기도 합니다 이들이\n파란 방을 비우고 나서 다친 순행의 캣은\n다시 파란 방으로 돌아갔고 사토르는 회전문에서",
+  "movie_id": "테넷",
+  "reviewer": "요런시점_movie",
+  "chunk_index": 6,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "주인공",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "주인공은 회전문을 통해 시간을 역행하며 임무를 수행하는 인물로, 인버전에 익숙하지 않은 상태에서 사토르를 추적한다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "닐",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "닐은 인버전의 전문가로 주인공과 함께 임무를 수행하며, 캣과 함께 회전문을 통과하고 소방차에 탑승하여 공항을 빠져나온다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "캣",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "캣은 총에 맞아 다친 인물로, 닐과 함께 주인공의 소방차에 탑승하여 공항을 빠져나오며 회전문을 통과한다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "사토르",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "사토르는 알고리즘을 획득하려는 적대적 인물로, 회전문에 먼저 들어가 역행하며 스탈스크 12에 9개 알고리즘을 모으려 한다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "아이브스",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "아이브스는 인버전의 전문가로, 닐과 함께 사토르를 붙잡지 않고 파란 방을 비우는 작전에 참여한다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "프리야",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "프리야는 테넷 조직의 인물로, 탈린 작전의 진짜 목적이 사토르에게 알고리즘을 넘겨 한 곳에 모은 후 빼앗는 것이라고 설명한다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "테넷",
+      "entity_type": "MOVIE",
+      "entity_description": "테넷은 시간 역행(인버전)과 회전문을 소재로 한 영화로, 복잡한 시간 구조와 알고리즘을 둘러싼 작전을 다룬다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "주인공",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "테넷",
+      "target_type": "MOVIE",
+      "relationship_description": "주인공은 테넷의 중심 인물로 시간 역행 임무를 수행한다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "닐",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "테넷",
+      "target_type": "MOVIE",
+      "relationship_description": "닐은 테넷에서 인버전 전문가로 등장하는 주요 인물이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "캣",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "테넷",
+      "target_type": "MOVIE",
+      "relationship_description": "캣은 테넷에서 총에 맞아 다치는 중요한 인물이다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "사토르",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "테넷",
+      "target_type": "MOVIE",
+      "relationship_description": "사토르는 테넷의 주요 적대자로 알고리즘을 모으려 한다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "아이브스",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "테넷",
+      "target_type": "MOVIE",
+      "relationship_description": "아이브스는 테넷에서 인버전 전문가로 작전에 참여한다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "프리야",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "테넷",
+      "target_type": "MOVIE",
+      "relationship_description": "프리야는 테넷 조직의 인물로 작전의 진짜 목적을 설명한다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "주인공",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "닐",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "주인공과 닐은 함께 임무를 수행하며 회전문을 통과한다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "닐",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "캣",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "닐과 캣은 함께 소방차에 탑승하여 공항을 빠져나온다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "주인공",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "사토르",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "주인공은 사토르를 추적하며 대립한다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "닐",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "아이브스",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "닐과 아이브스는 인버전 전문가로서 함께 작전을 수행하며 사토르를 붙잡지 않는다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "프리야",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "사토르",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "프리야는 사토르가 알고리즘을 모으도록 유도하는 작전을 계획한다",
+      "relationship_strength": 7
+    }
+  ],
+  "entity_resolution": {
+    "주인공": {
+      "description": "주인공 -> 레인",
+      "resolved_name": "레인",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "닐": {
+      "description": "닐 -> 닐 페리",
+      "resolved_name": "닐 페리",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "캣": {
+      "description": "캣 -> 캣걸",
+      "resolved_name": "캣걸",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "사토르": {
+      "description": "사토르 -> Andrei Sator",
+      "resolved_name": "Andrei Sator",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "아이브스": {
+      "description": "아이브스 -> 아이브스",
+      "resolved_name": "아이브스",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "프리야": {
+      "description": "프리야 -> 프리야",
+      "resolved_name": "프리야",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "테넷": {
+      "description": "테넷 -> 테넷",
+      "resolved_name": "테넷",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "name_exact"
+    }
+  }
+}

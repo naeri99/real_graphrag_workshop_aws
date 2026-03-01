@@ -1,0 +1,24 @@
+{
+  "entity": {
+    "name": "죄수",
+    "synonym": [
+      "Convict",
+      "Ferry Prisoner",
+      "Prisoner",
+      "Tattooed Prisoner",
+      "배 죄수",
+      "수감자",
+      "재소자",
+      "죄수",
+      "큰 죄수",
+      "타투 죄수",
+      "페리 죄수",
+      "페리선 죄수",
+      "프리즈너"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "죄수은 영화 '다크나이트'의 등장인물로, 톰 루니이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

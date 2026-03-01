@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "모르가나 쇼",
+    "synonym": [
+      "Morgana Shaw",
+      "모가나 쇼",
+      "모르가나",
+      "모르가나 샤",
+      "모르가나 샤우",
+      "모르가나 쇼",
+      "모르가나쇼",
+      "쇼"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "모르가나 쇼은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

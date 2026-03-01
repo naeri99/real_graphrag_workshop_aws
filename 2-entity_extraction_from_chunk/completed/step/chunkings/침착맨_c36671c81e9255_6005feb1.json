@@ -1,0 +1,142 @@
+{
+  "chunk_hash": "c36671c81e9255",
+  "chunk_id": "침착맨_c36671c81e9255_6005feb1",
+  "user_query": "버려진 집을 개조해서 가족들이 오랫동안 살던 데라 수도관이 막혀 있었는데 어떤 이유 때문에 수도관을 통해서 저 물 아들이 들어와요 근데 이제 물 아들이 도시에서 일하는 공무원이야 조사관이야 근데 이제 뭐 물에 뭐가 자꾸 누수 현상이 있어 가지고 그거 알아보다가 저 불 딸이 막 도발대발 화내는 타이밍에 그 수도관이 막혀 있는게 터져 가지고 거기를 타고 이제 빨려 들어온 거지 그래서 만났는데 이러쿵저러쿵 하다가 자꾸 불 잡화점에 물이 자꾸 새 들어오니까 그거 이제 문제를 해결하려고 하는 거예요 같이 행동하는 이유는 물 아들이 불 잡화점이 들어오면서 불 잡화점이 이제 폐 건물에 자수성가 했으니까 구청에 신고를 안 하고 그냥 자기 맘대로 막 다 뚫어버린게 많거든 위반한게 너무 많아 가지고 폐업할 위기에 처해진 거야 그래서 누수 현상이 일어나는 거기를 막으면은 없던 일로 있겠다고 허락을 받고 종횡무진 고군분투 둘만의 여행이 시작된 모험이 시작되죠 픽사식으로 그래서 겨우 잘 마무리 짓고 하는 와중에 물 아들이 사는 이제 집에 초청을 받아서 가족들을 만나면서 이제 자기가 불이니까 깨진 유리를 불로 이제 녹여가지고 유리 공예를 할 수 있는 능력이 있거든요 불 딸은 근데 그걸 너무 이제 미적 감각이 좋아가지고 이쁘게 만드니까 다 사람들이 이제 막 와 너 정말 대단한 능력이다 내가 아는 이런 아트 하는 사장님이 있는데 소개를 해줄게 굉장히 큰 회사인데 그러니까 금수저지 물 아들 집안은 금수저야 인맥이 유리공예하고 이런 회사 오너 알고 있으니까 그래서 연결을 해 준다고 했는데 갑자기 애가 우울해졌어요 개빡도는 상황이야 아니 뭐 좀 빡도는 상황을 좀 공유해 가지고 같이 좀 이렇게 좀 고민하면 되는 건데 자기 혼자 또 괜히 혼자 빡돌아 설명도 안 해 그러니까 이제 저 물 아들이 굉장히 성격이 좋거든요 왜 그래 너 대체 왜 그래 또 받아 줘요 어찌저찌 해가지고 하는데 저 불 딸은 여기서 이제 자기의 문제 파악한 거야 뭐냐면은 어렸을 때부터 아빠랑 같이 지내다 보니까 아빠가 어떻게 어떻게 어렵게 불 잡화점을 운영하는지도 알고 있고 그게 자부심을 느끼는 것도 알고 그렇기 때문에 그 영향을 받아서 아빠에게 인정받고 싶고 아빠의 잡화점을 당연히 이어갈 거라고 생각했는데 자기가 진짜 하고 싶은 거에 대해서 생각을 안 해본 거야 그래서 당연히 그냥 아빠가 나는 아빠를 좋아하고 아빠는 이걸 좋아하니까 당연히 나는 아빠가 좋아하는 이걸 하려고 했어 했었던 거지 근데 금수저들을 만나고 보니까 어 할 수 있는게 되게 많네 되게 많아 생각해보니까 이거 해보고 싶어진 거야 근데 이미 자기는 이제 아빠의 가게를 물려받는 날짜가 거의 다가왔고 아빠의 기대를 저버리기도 그렇고 너무 효녀니까 거기서 충돌이 일어나는 거지 그러니까 이제 너무 그 과정이 좀 잘 이해가 되게 잘 해준 거 같아요 물려받기 싫은게 아니야 좋아 좋은데 더 좋은 걸 발견했을 뿐이야 자기가 더 하고 싶은 걸 분명히 고민해 볼 만한 부분이 있고 그리고 거기 집안이 불 집안이 굉장히 배타적이에요 불만 만나게 다른 원소들은",
+  "movie_id": "엘리멘탈",
+  "reviewer": "침착맨",
+  "chunk_index": 3,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "엘리멘탈",
+      "entity_type": "MOVIE",
+      "entity_description": "엘리멘탈은 불, 물 등 원소들이 의인화된 캐릭터로 등장하는 픽사 애니메이션 영화로, 버려진 집을 개조한 불 잡화점을 배경으로 불 딸과 물 아들의 모험과 성장을 다룬다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "불 딸",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "불 딸은 불 잡화점 주인의 딸로, 유리 공예 능력이 있고 미적 감각이 뛰어나다. 아빠의 가게를 물려받을 예정이었으나 자신이 진짜 하고 싶은 것에 대해 고민하게 되는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "물 아들",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "물 아들은 도시에서 일하는 공무원 조사관으로, 누수 현상을 조사하다가 수도관을 통해 불 잡화점에 들어오게 된다. 성격이 좋고 금수저 집안 출신이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "불 아빠",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "불 아빠는 불 잡화점을 어렵게 운영하며 자수성가한 인물로, 딸이 가게를 물려받기를 기대하고 있다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "물 아들 가족",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "물 아들의 가족으로 금수저 집안이며, 아트 회사 오너와 인맥이 있는 부유한 가정이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "불 딸",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "엘리멘탈",
+      "target_type": "MOVIE",
+      "relationship_description": "불 딸은 엘리멘탈의 주인공 중 한 명이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "물 아들",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "엘리멘탈",
+      "target_type": "MOVIE",
+      "relationship_description": "물 아들은 엘리멘탈의 주인공 중 한 명이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "불 아빠",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "엘리멘탈",
+      "target_type": "MOVIE",
+      "relationship_description": "불 아빠는 엘리멘탈에 등장하는 인물이다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "불 딸",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "물 아들",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "불 딸과 물 아들은 누수 문제를 해결하기 위해 함께 모험을 떠나는 관계이다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "불 딸",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "불 아빠",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "불 딸은 불 아빠의 딸이며, 아빠의 가게를 물려받을 예정이었다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "물 아들",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "물 아들 가족",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "물 아들은 금수저 가족의 일원이다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "불 딸",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "물 아들 가족",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "불 딸은 물 아들 가족의 초청을 받아 방문하여 유리 공예 능력을 인정받았다",
+      "relationship_strength": 7
+    }
+  ],
+  "entity_resolution": {
+    "엘리멘탈": {
+      "description": "엘리멘탈 -> 엘리멘탈",
+      "resolved_name": "엘리멘탈",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "불 딸": {
+      "description": "불 딸 -> 엠버",
+      "resolved_name": "엠버",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "물 아들": {
+      "description": "물 아들 -> 웨이드",
+      "resolved_name": "웨이드",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "불 아빠": {
+      "description": "불 아빠 -> 불 아빠",
+      "resolved_name": "불 아빠",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "물 아들 가족": {
+      "description": "물 아들 가족 -> 물 아들 가족",
+      "resolved_name": "물 아들 가족",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "Klaus",
+    "synonym": [
+      "Klaus",
+      "Klaus 캐릭터",
+      "크라우스",
+      "클라스",
+      "클라오스",
+      "클라우스",
+      "클라우스 캐릭터",
+      "클라우쓰",
+      "클라우즈",
+      "클로스"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "Klaus은 영화 '테넷'의 등장인물로, 잭 커틀모어이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

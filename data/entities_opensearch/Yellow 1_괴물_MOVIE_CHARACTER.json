@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "Yellow 1",
+    "synonym": [
+      "Yellow 1",
+      "Yellow One",
+      "Yellow1",
+      "옐로 1",
+      "옐로 원",
+      "옐로우 1",
+      "옐로우 원",
+      "옐로우1",
+      "옐로우원"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "Yellow 1은 영화 '괴물'의 등장인물로, 김뢰하이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

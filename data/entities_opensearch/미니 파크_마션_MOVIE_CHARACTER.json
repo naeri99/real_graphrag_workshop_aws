@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "미니 파크",
+    "synonym": [
+      "Mindy",
+      "Mindy Park",
+      "Park",
+      "미니",
+      "미니 파크",
+      "미니파크",
+      "민디 파크",
+      "파크"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "미니 파크은 영화 '마션'의 등장인물로, 맥켄지 데이비스이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

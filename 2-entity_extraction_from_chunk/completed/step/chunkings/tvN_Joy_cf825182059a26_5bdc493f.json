@@ -1,0 +1,221 @@
+{
+  "chunk_hash": "cf825182059a26",
+  "chunk_id": "tvN_Joy_cf825182059a26_5bdc493f",
+  "user_query": "[박수] 그녀에게 강의란 자존감의 발현이자 언어학 교수로서의 자부심이었죠 그런데 오늘은 자꾸만 제동이 걸립니다 나이 [음악] 50을 넘기면서 찾아온 건망증이려니 무던히 넘기면서 며칠을 보냈습니다 얼마 후 크리스마스를 맞아서 가족 파티가 열리던 날 [음악] 이번엔 [음악] 웬일로 아들 톰이 여자친구까지 데리고 왔는데요 그런데 그날 앨리스는 뚝딱 만들어 내던 요리의 레시피가 도통 기억이 나지 않았죠 [음악] 게다가 마치 지금 처음 본 듯 아들의 여자친구와 또 한번 인사를 나누고 맙니다 타인이 보기에도 그리고 앨리스 본인이 느끼기에도 이상했던 그간의 증상들 결국 혹시나 싶은 마음에 앨리스 홀로 병원을 찾는데요 아닐 거라고 마음을 다잡아 보려고 했지만 밤새 뒤척이던 그 밤에 [음악] 앨리스 역시 거짓이라고 부정하고 싶었습니다 하지만 절규를 토하면서 바라던 희망은 이내 비껴갔죠 I'm sorry 게다가 아이들에게 유전될 수 있는 병이라니 앨리스의 마음이 또 한번 무너지고 말았습니다 결국 며칠 후 아이들에게 나 하나로 인해서 아이들 모두 아플 수 있다는 사실 앨리스의 마음은 죄책감과 슬픔으로 가득 차버렸죠 그로부터 얼마 후 아직 초기이기에 앨리스는 최대한 그녀다운 일상을 지켜가 보기로 했는데요 [음악] [음악] 결국 모든 일상을 내려두고 남편과 함께 별장을 찾은 앨리스 모처럼 여유롭게 일상을 만끽하던 시간이었죠 그런데 그날 예상하지 못한 사고가 벌어지고 맙니다 한순간 앨리스가 화장실을 찾지 못해서 당황하게 된 건데요 이건 단어 하나를 잊어버리는 것과는 전혀 다른 너무나 수치스럽고 또 잔인한 일이었죠 [음악] [음악] 누구보다 완벽했던 아내였고 엄마였고 또 교수였던 앨리스 그녀가 길을 잃어가고 있습니다 [음악] 이 영화도 소설을 원작으로 가고 있다고 하네 그렇습니다 사실은 감독이 읽자마자 아 이것은 영화가 된다라고 생각을 해서 그렇게 영화로 옮긴 작품이라고 하는데 사실은 감독 뒷얘기에 굉장히 슬픈 사연들 같은 것도 있어요 영화를 만든 사람이 리처드라는 감독인데요 Richard Glatzer가 루게릭병을 앓고 있었다는 거죠 연출 자체가 굉장히 어려웠을 것이고요 근데 알렉 볼드윈이 챌린지 했을 때 크리스천 모드를 했는데 스스로가 이 감독의 쾌유를 비는 그런 의미로서 그것을 하기도 했었고요 결국은 줄리앤 무어가 아카데미에서 여우주연상까지 받았잖아요 그리고 이제 수상 연설할 때도 감독을 기렸고 바로 다음 달에 세상을 떠났어요 [음악] [음악] [박수] 같이 연기한 여자 배우들이 다 여우주연상을 탔다고 재밌는 것이 그게 연달아 였어요 그 전해의 블루 재스민으로 케이트 블란쳇이 받았고 다음에는 또 이걸로 이제 받았는데요 상대가 빛날 수 있도록 그렇게 옆에서 제대로 받쳐주는 연기를 했다고 보면 알렉 볼드윈도 또 굉장한 공이 있다고 했을 때 동진 선생님께서 그런 말씀을 하셨다고 하더라고요 줄리앤 무어 오스카 수상 그러나 줄리앤 무어는 늦어도 2003년엔 받았어야 했다 특히 한 2003년 정도로 보면 그 해에 굉장히 뛰어난 두 편 영화를 했어요 하나가 이제 파 프롬",
+  "movie_id": "스틸 앨리스",
+  "reviewer": "tvN_Joy",
+  "chunk_index": 1,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "앨리스",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "앨리스는 언어학 교수로서 자부심을 가지고 있었으나 50세를 넘기면서 건망증 증상이 시작되고, 결국 알츠하이머 진단을 받게 되는 인물이다. 완벽했던 아내, 엄마, 교수였던 그녀가 점점 기억을 잃어가는 과정을 겪는다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "톰",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "톰은 앨리스의 아들로, 크리스마스 가족 파티에 여자친구를 데리고 온 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "줄리앤 무어",
+      "entity_type": "ACTOR",
+      "entity_description": "줄리앤 무어는 앨리스 역을 연기한 배우로, 이 영화로 아카데미 여우주연상을 수상했다. 2003년에 이미 받았어야 했다는 평가를 받을 정도로 뛰어난 연기력을 가진 배우이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "알렉 볼드윈",
+      "entity_type": "ACTOR",
+      "entity_description": "알렉 볼드윈은 영화에서 앨리스의 남편 역을 연기한 배우로, 상대 배우가 빛날 수 있도록 받쳐주는 연기를 했다는 평가를 받았다. 아이스버킷 챌린지 때 감독의 쾌유를 빌기도 했다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "케이트 블란쳇",
+      "entity_type": "ACTOR",
+      "entity_description": "케이트 블란쳇은 블루 재스민으로 아카데미 여우주연상을 받은 배우로, 알렉 볼드윈과 함께 연기했다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "리처드 글래처",
+      "entity_type": "MOVIE_STAFF",
+      "entity_description": "리처드 글래처(Richard Glatzer)는 이 영화의 감독으로, 원작 소설을 읽자마자 영화화를 결심했다. 루게릭병을 앓으면서 연출을 했으며, 줄리앤 무어의 아카데미 수상 다음 달에 세상을 떠났다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "스틸 앨리스",
+      "entity_type": "MOVIE",
+      "entity_description": "스틸 앨리스는 소설을 원작으로 한 영화로, 언어학 교수인 앨리스가 알츠하이머 진단을 받고 기억을 잃어가는 과정을 다룬 작품이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "블루 재스민",
+      "entity_type": "MOVIE",
+      "entity_description": "블루 재스민은 케이트 블란쳇이 여우주연상을 수상한 영화이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "동진",
+      "entity_type": "REVIEWER",
+      "entity_description": "동진 선생님은 영화 평론가로, 줄리앤 무어가 2003년에 이미 오스카를 받았어야 했다고 평가했다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "앨리스",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "스틸 앨리스",
+      "target_type": "MOVIE",
+      "relationship_description": "앨리스는 스틸 앨리스의 주인공이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "톰",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "앨리스",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "톰은 앨리스의 아들이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "줄리앤 무어",
+      "source_type": "ACTOR",
+      "target_entity": "앨리스",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "줄리앤 무어는 앨리스 역을 연기했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "줄리앤 무어",
+      "source_type": "ACTOR",
+      "target_entity": "스틸 앨리스",
+      "target_type": "MOVIE",
+      "relationship_description": "줄리앤 무어는 스틸 앨리스에서 주연을 맡아 아카데미 여우주연상을 수상했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "알렉 볼드윈",
+      "source_type": "ACTOR",
+      "target_entity": "스틸 앨리스",
+      "target_type": "MOVIE",
+      "relationship_description": "알렉 볼드윈은 스틸 앨리스에서 앨리스의 남편 역을 연기했다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "알렉 볼드윈",
+      "source_type": "ACTOR",
+      "target_entity": "줄리앤 무어",
+      "target_type": "ACTOR",
+      "relationship_description": "알렉 볼드윈은 줄리앤 무어의 상대역으로 그녀가 빛날 수 있도록 받쳐주는 연기를 했다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "리처드 글래처",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "스틸 앨리스",
+      "target_type": "MOVIE",
+      "relationship_description": "리처드 글래처는 스틸 앨리스를 감독했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "케이트 블란쳇",
+      "source_type": "ACTOR",
+      "target_entity": "블루 재스민",
+      "target_type": "MOVIE",
+      "relationship_description": "케이트 블란쳇은 블루 재스민으로 아카데미 여우주연상을 수상했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "알렉 볼드윈",
+      "source_type": "ACTOR",
+      "target_entity": "케이트 블란쳇",
+      "target_type": "ACTOR",
+      "relationship_description": "알렉 볼드윈과 케이트 블란쳇은 블루 재스민에서 함께 연기했으며, 케이트 블란쳇이 여우주연상을 수상했다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "동진",
+      "source_type": "REVIEWER",
+      "target_entity": "줄리앤 무어",
+      "target_type": "ACTOR",
+      "relationship_description": "동진 선생님은 줄리앤 무어의 연기력을 높이 평가하며 2003년에 오스카를 받았어야 했다고 언급했다",
+      "relationship_strength": 7
+    }
+  ],
+  "entity_resolution": {
+    "앨리스": {
+      "description": "앨리스 -> 앨리스 하울랜드",
+      "resolved_name": "앨리스 하울랜드",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "톰": {
+      "description": "톰 -> 톰",
+      "resolved_name": "톰",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "줄리앤 무어": {
+      "description": "줄리앤 무어 -> 줄리안 무어",
+      "resolved_name": "줄리안 무어",
+      "entity_type": "ACTOR",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "알렉 볼드윈": {
+      "description": "알렉 볼드윈 -> 알렉 볼드윈",
+      "resolved_name": "알렉 볼드윈",
+      "entity_type": "ACTOR",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "케이트 블란쳇": {
+      "description": "케이트 블란쳇 -> 케이트 블란쳇",
+      "resolved_name": "케이트 블란쳇",
+      "entity_type": "ACTOR",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "리처드 글래처": {
+      "description": "리처드 글래처 -> 리처드 글랫저",
+      "resolved_name": "리처드 글랫저",
+      "entity_type": "MOVIE_STAFF",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "스틸 앨리스": {
+      "description": "스틸 앨리스 -> 스틸 앨리스",
+      "resolved_name": "스틸 앨리스",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "블루 재스민": {
+      "description": "블루 재스민 -> 블루 재스민",
+      "resolved_name": "블루 재스민",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "동진": {
+      "description": "동진 -> 동진",
+      "resolved_name": "동진",
+      "entity_type": "REVIEWER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

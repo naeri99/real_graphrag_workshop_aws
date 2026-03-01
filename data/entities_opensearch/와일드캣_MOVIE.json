@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "와일드캣",
+    "synonym": [
+      "The Wildcat",
+      "Wild Cat",
+      "Wildcat",
+      "더 와일드캣",
+      "와일드 캣",
+      "와일드캣",
+      "와일드캣 영화",
+      "와일드켓"
+    ],
+    "entity_type": "MOVIE",
+    "summary": "와일드캣",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

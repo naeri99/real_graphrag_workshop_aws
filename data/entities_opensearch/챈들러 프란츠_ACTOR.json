@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "챈들러 프란츠",
+    "synonym": [
+      "Chandler Frantz",
+      "Chandler Franz",
+      "Frantz",
+      "챈들러 프란쯔",
+      "챈들러 프란츠",
+      "챈들러 프랜츠",
+      "챈들러프란츠",
+      "프란츠"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "챈들러 프란츠은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

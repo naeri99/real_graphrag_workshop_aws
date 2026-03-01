@@ -1,0 +1,57 @@
+{
+  "movie_title": "토토로",
+  "director": [
+    {
+      "name": "미야자키 하야오",
+      "name_en": "Hayao Miyazaki"
+    }
+  ],
+  "cast": [
+    {
+      "actor": "히다카 노리코",
+      "actor_en": "Noriko Hidaka",
+      "character": "사츠키"
+    },
+    {
+      "actor": "사카모토 치카",
+      "actor_en": "Chika Sakamoto",
+      "character": "메이"
+    },
+    {
+      "actor": "시마모토 스미",
+      "actor_en": "Sumi Shimamoto",
+      "character": "쿠사카베 야스코 (엄마)"
+    },
+    {
+      "actor": "타나카 나오키",
+      "actor_en": "Naoki Tanaka",
+      "character": "칸타"
+    },
+    {
+      "actor": "타카기 히토시",
+      "actor_en": "Hitoshi Takagi",
+      "character": "토토로"
+    },
+    {
+      "actor": "이토이 시게사토",
+      "actor_en": "Shigesato Itoi",
+      "character": "쿠사카베 타츠오"
+    },
+    {
+      "actor": "키타바야시 타니에",
+      "actor_en": "Tanie Kitabayashi",
+      "character": "칸타의 할머니"
+    },
+    {
+      "actor": "와시오 마치코",
+      "actor_en": "Machiko Washio",
+      "character": "학교 선생님"
+    }
+  ],
+  "review": [
+    "./data/review/토토로/토토로_GHc8aa13ZSE.json",
+    "./data/review/토토로/토토로_OKQARAyckqY.json",
+    "./data/review/토토로/토토로_X1ahGg9dqW8.json",
+    "./data/review/토토로/토토로_nS_AtsC-t4Q.json"
+  ]
+}

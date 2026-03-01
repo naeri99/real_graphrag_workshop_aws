@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "와시오 마치코",
+    "synonym": [
+      "Machiko Washio",
+      "鷲尾真知子",
+      "마치코",
+      "마치코 와시오",
+      "와시오",
+      "와시오 마찌꼬",
+      "와시오 마치코",
+      "와시오마치코"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "와시오 마치코은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "entity": {
+    "name": "막달레나 퀸 쇼",
+    "synonym": [
+      "Magdalene Queen Shaw",
+      "Magdalene Queenie Shaw",
+      "Magdalene Shaw",
+      "Queenie",
+      "Queenie Shaw",
+      "막달레나",
+      "막달레나 쇼",
+      "막달레나 퀸 쇼",
+      "막달레나쇼",
+      "막달레나퀸쇼",
+      "쇼 부인",
+      "쇼 어머니",
+      "쇼 엄마",
+      "쇼의 어머니",
+      "퀴니 쇼",
+      "퀸",
+      "퀸 쇼",
+      "퀸쇼"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "막달레나 퀸 쇼은 영화 '홉스앤쇼'의 등장인물로, 헬렌 미렌이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

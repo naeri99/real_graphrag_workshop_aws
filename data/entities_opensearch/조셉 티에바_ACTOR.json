@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "조셉 티에바",
+    "synonym": [
+      "Joseph Thiaka",
+      "조셉",
+      "조셉 시아카",
+      "조셉 티아카",
+      "조셉 티에바",
+      "조셉티아카",
+      "조셉티에바",
+      "티아카",
+      "티에바"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "조셉 티에바은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

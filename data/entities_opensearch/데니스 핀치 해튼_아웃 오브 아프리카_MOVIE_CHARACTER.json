@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "데니스 핀치 해튼",
+    "synonym": [
+      "Denys Finch Hatton",
+      "데니스",
+      "데니스 핀치 해튼",
+      "데니스 핀치해튼",
+      "데니스 해튼",
+      "데니스핀치해튼",
+      "핀치 해튼",
+      "핀치해튼"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "데니스 핀치 해튼은 영화 '아웃 오브 아프리카'의 등장인물로, 로버트 레드포드이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

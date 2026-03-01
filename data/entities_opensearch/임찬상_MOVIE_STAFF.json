@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "임찬상",
+    "synonym": [
+      "Im Chan-sang",
+      "Im Chansang",
+      "Lim Chan-sang",
+      "감독 임찬상",
+      "임 찬상",
+      "임찬 상",
+      "임찬상",
+      "찬상"
+    ],
+    "entity_type": "MOVIE_STAFF",
+    "summary": "임찬상은 영화 감독입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

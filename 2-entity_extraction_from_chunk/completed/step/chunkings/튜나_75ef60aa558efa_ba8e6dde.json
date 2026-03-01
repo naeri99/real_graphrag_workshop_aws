@@ -1,0 +1,216 @@
+{
+  "chunk_hash": "75ef60aa558efa",
+  "chunk_id": "튜나_75ef60aa558efa_ba8e6dde",
+  "user_query": "이어서 등장하는 것은 범죄 현장에 총을 들고 덤벼드는 가짜 배트맨들 진짜가 나타나 상황을 정리하고 가짜 배트맨들은 배트맨에게 묻습니다 아재 개그를 치고 사라지는 느낌이지만 연이어 비추는 개에 물린 자리를 보는 모습은 배트맨 역시 인간에 지나지 않는다는 것을 보여줍니다\n\n아이언맨과 비교해보면 이 부분이 재미있는데 토니 스타크 역시 체력과의 초능력 없이 기술을 이용해 싸우고 고독한 억만장자 캐릭터지만 브루스 웨인과는 완전히 다른 캐릭터가 되는 게 이 한 가지 차이 때문입니다 토니 스타크는 슈트 없이는 제2의 톰 크루즈가 아니냐와 비교하면 명백히 스펙 차이가 존재합니다 말하자면 슈트가 크립토나이트인 셈이죠 하지만 이걸 사람들 사이에서 간과하기 쉬운 사실은 크립토나이트가 없는 인간 중에선 제일 강한 한겁니다 토니 스타크는 이런 점에서 대체할 수 없는 인물로서 그가 영웅이 되는 과정 역시 직업에서 오는 죄책감과 뛰어난 천재성에서 오는 책임감이 주를 이룹니다 이에 대한 자세한 이야기는 앤트맨 리뷰를 참고하시고요\n\n하지만 배트맨 정확히는 영화 다크 나이트가 다루는 이야기는 훨씬 근본적인 문제입니다 우리는 사회인에겐 아크 원자로 없어요 우리가 자경단 활동에 적합하다는 자격증이 없다는 겁니다 미스터리한 무술도 배우고 돈도 많긴 합니다 하지만 무술을 배웠다 봐야 물리치료사한테 척추 교정을 받는 수준이고 우리는 저커버그나 트럼프가 돈이 많다고 영웅이라고 그러진 않습니다 그리고 조커는 시간과 예산만 충분하다면 경찰도 처리할 수 있는 평범한 인간입니다\n\n왜 브루스 웨인이어야 하는가 다크 나이트 전체를 관통하는 질문이 바로 이 점이고 MCU가 11년간 23편의 영화로도 뛰어넘지 못한 다크 나이트의 아성이 여기에 있다고 생각합니다\n\n자 그럼 우리는 이제 인간 배트맨과 인간 조커의 싸움을 지켜보게 됩니다 눈에서 빔을 쏘지도 않고 재생 능력도 없으며 탱크를 던지는 괴력도 없죠 도시를 뒤엎는 이 둘은 고작 평범한 인간에 지나지 않습니다 물론 한쪽은 막대한 재력으로 무장하고 다른 한쪽은 미친 광기로 무장하긴 했지만 말이죠\n\n이렇게 다크 나이트가 주목한 점은 그들이 구하고 죽이는 사람들과 하등 다를 게 없는 지극히 인간적인 대결입니다 자 그럼 제가 왜 이렇게 인간을 강조하는지 전작들과 잠시 비교해 보죠\n\n영화를 보고 나면 포에버 이후 만 생각나는 영어학습 영화 그 외에 슈마커의 배트맨은 사회적으로 영웅입니다 대부분의 사람들이 구역에 열광하며 그를 고담의 영웅으로 추대하죠 심지어는 배트맨 신용카드를 가지고 배트맨 신용카드와 함께라면 무기가 떨어진 비상 상황 외에도 안심 그것도 모자라 여자들을 경매로 뽑는 이벤트도 벌이며 낄낄 낙낙하게 지냅니다 사실상 그가 가면을 벗어도 전혀 문제가 없는 상황이죠\n\n거기에 찡찡대는 로빈과 엄청난 암호를 풀어낸 여고생까지 합쳐 고담 시의 영웅은 무려 셋입니다 그는 고독한 배트맨이 아닌 고담 시의 위대한 영웅 배트맨이죠",
+  "movie_id": "다크나이트",
+  "reviewer": "튜나",
+  "chunk_index": 2,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "다크 나이트",
+      "entity_type": "MOVIE",
+      "entity_description": "다크 나이트는 배트맨과 조커의 대결을 다룬 영화로, 인간적인 영웅의 정당성에 대한 근본적인 질문을 던지는 작품이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "배트맨",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "배트맨은 브루스 웨인의 영웅 페르소나로, 초능력 없이 기술과 재력으로 싸우는 인간 영웅이며 개에 물리는 등 인간적 한계를 보여주는 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "브루스 웨인",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "브루스 웨인은 배트맨의 정체로, 막대한 재력을 가진 억만장자이며 무술을 배운 인간 영웅이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "조커",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "조커는 다크 나이트의 악당으로, 초능력 없이 미친 광기로 무장한 평범한 인간이며 시간과 예산만 충분하다면 경찰도 처리할 수 있는 존재이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "토니 스타크",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "토니 스타크는 아이언맨의 정체로, 슈트 없이는 싸울 수 없지만 뛰어난 천재성과 직업에서 오는 죄책감으로 영웅이 된 고독한 억만장자 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "아이언맨",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "아이언맨은 토니 스타크의 영웅 페르소나로, 기술을 이용해 싸우는 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "로빈",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "로빈은 슈마커의 배트맨 영화에 등장하는 캐릭터로, 찡찡대는 모습으로 묘사된다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "앤트맨",
+      "entity_type": "MOVIE",
+      "entity_description": "앤트맨은 MCU 영화로, 토니 스타크의 영웅이 되는 과정에 대한 자세한 이야기가 담긴 리뷰가 언급된 작품이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "MCU",
+      "entity_type": "MOVIE",
+      "entity_description": "MCU는 마블 시네마틱 유니버스로, 11년간 23편의 영화를 제작했으나 다크 나이트의 아성을 뛰어넘지 못했다고 평가받는다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "톰 크루즈",
+      "entity_type": "ACTOR",
+      "entity_description": "톰 크루즈는 토니 스타크가 슈트 없이는 비교될 수 있는 인물로 언급된 배우이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "배트맨",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "다크 나이트",
+      "target_type": "MOVIE",
+      "relationship_description": "배트맨은 다크 나이트의 주인공이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "브루스 웨인",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "배트맨",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "브루스 웨인은 배트맨의 정체이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "조커",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "다크 나이트",
+      "target_type": "MOVIE",
+      "relationship_description": "조커는 다크 나이트의 주요 악당이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "배트맨",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "조커",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "배트맨과 조커는 다크 나이트에서 대결하는 인간 대 인간의 관계이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "브루스 웨인",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "토니 스타크",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "브루스 웨인과 토니 스타크는 둘 다 고독한 억만장자이지만 완전히 다른 캐릭터로 비교된다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "토니 스타크",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "아이언맨",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "토니 스타크는 아이언맨의 정체이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "다크 나이트",
+      "source_type": "MOVIE",
+      "target_entity": "MCU",
+      "target_type": "MOVIE",
+      "relationship_description": "다크 나이트는 MCU가 11년간 23편의 영화로도 뛰어넘지 못한 아성을 가진 작품으로 비교된다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "로빈",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "배트맨",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "로빈은 슈마커의 배트맨 영화에서 배트맨과 함께 고담 시의 영웅으로 활동한다",
+      "relationship_strength": 7
+    }
+  ],
+  "entity_resolution": {
+    "다크 나이트": {
+      "description": "다크 나이트 -> 다크나이트",
+      "resolved_name": "다크나이트",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "배트맨": {
+      "description": "배트맨 -> 브루스 웨인 / 배트맨",
+      "resolved_name": "브루스 웨인 / 배트맨",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "브루스 웨인": {
+      "description": "브루스 웨인 -> 브루스 웨인 / 배트맨",
+      "resolved_name": "브루스 웨인 / 배트맨",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "조커": {
+      "description": "조커 -> 조커",
+      "resolved_name": "조커",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "토니 스타크": {
+      "description": "토니 스타크 -> 토니 스타크 / 아이언맨",
+      "resolved_name": "토니 스타크 / 아이언맨",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "아이언맨": {
+      "description": "아이언맨 -> 토니 스타크 / 아이언맨",
+      "resolved_name": "토니 스타크 / 아이언맨",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "로빈": {
+      "description": "로빈 -> 로빈",
+      "resolved_name": "로빈",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "앤트맨": {
+      "description": "앤트맨 -> 앤트맨",
+      "resolved_name": "앤트맨",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "MCU": {
+      "description": "MCU -> MCU",
+      "resolved_name": "MCU",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "톰 크루즈": {
+      "description": "톰 크루즈 -> 톰 크루즈",
+      "resolved_name": "톰 크루즈",
+      "entity_type": "ACTOR",
+      "matched": true,
+      "match_type": "name_exact"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "이순재",
+    "synonym": [
+      "Lee Soon-jae",
+      "Lee Soonjae",
+      "순재",
+      "이 순재",
+      "이선생님",
+      "이순재",
+      "이순재 배우",
+      "이순재 선생님",
+      "이순재님",
+      "이순재씨"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "이순재은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

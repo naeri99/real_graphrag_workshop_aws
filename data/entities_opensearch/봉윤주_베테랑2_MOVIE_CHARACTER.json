@@ -1,0 +1,25 @@
+{
+  "entity": {
+    "name": "봉윤주",
+    "synonym": [
+      "Bong Yoon-ju",
+      "Bong Yun-ju",
+      "Yoon-ju",
+      "Yun-ju",
+      "미스 봉",
+      "미스봉",
+      "봉 윤주",
+      "봉윤 주",
+      "봉윤주",
+      "봉윤주 캐릭터",
+      "봉윤주씨",
+      "윤주",
+      "윤주 형사",
+      "윤주씨"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "봉윤주은 영화 '베테랑2'의 등장인물로, 장윤주이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

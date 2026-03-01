@@ -1,0 +1,106 @@
+{
+  "chunk_hash": "a658a40d757c78",
+  "chunk_id": "멍웃겨_리액션_a658a40d757c78_b0f40868",
+  "user_query": "adorable dude this is crazy oh my gosh sweat more my guy please is she going to stay in prison with them for a while this is wild they did it they did it oh oh no oh her little tiny fists are breaking my heart now you all get abduction added to your she just wants to stay with Daddy I'm good at hiding oh my gosh [Music] four promise sir like do it now get her out she got her wish whoops do a head count like oh she's back wa she's just in prison with them now stay still yeah cool W nailed it if he's that suspicious why doesn't he just go inside yo they quick oh no oh no oh no no that was a good try oh they tied him up too she's scared he's going to help him dude he really is such a good guy not many people would have done that [Music] wow oh poor guy you mean you didn't hear the news I feel like that's one of those things that kind of rips through the town like wildfire and her teacher doesn't know either you have ID right she's so smart the look on her face this is not where I thought I'd be doing parent consultation very very smart she pays bills herself I haven't cried yet but this movie is like trying very hard to make me man this is how you give a kid trauma yeah like let him say goodbye at least come on like come on you can't just let him say goodbye dang is this going to be a movie that's going to make me [Applause] cry yeah he's like this can't be the type of guy who would do something like that this is going to be one of those it's going to make me cry I'm on the",
+  "movie_id": "7번방의 선물",
+  "reviewer": "멍웃겨_리액션",
+  "chunk_index": 3,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "DADDY",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "영화 속에서 아이의 아버지로, 감옥에 있는 것으로 보이며 아이와 함께 있고 싶어하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "아이",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "영화 속 어린 소녀로, 아버지와 함께 있고 싶어하며 숨기를 잘한다고 말하는 캐릭터이다. 작은 주먹으로 감정을 표현하고, 스스로 청구서를 내는 등 매우 똑똑한 아이로 묘사된다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "선생님",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "아이의 선생님으로, 마을에서 일어난 소식을 모르고 있는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "의심하는 남자",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "누군가를 의심하지만 안으로 들어가지 않는 인물로, 나중에 묶이게 되는 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "좋은 남자",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "다른 사람을 도와주는 인물로, 많은 사람들이 하지 않을 일을 하는 선한 캐릭터로 묘사된다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "아이",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "DADDY",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "아이는 Daddy의 딸이며, 아버지와 함께 있고 싶어한다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "선생님",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "아이",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "선생님은 아이의 학교 선생님으로, 부모 상담을 진행한다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "좋은 남자",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "의심하는 남자",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "좋은 남자가 의심하는 남자를 도와주려 한다",
+      "relationship_strength": 6
+    }
+  ],
+  "entity_resolution": {
+    "DADDY": {
+      "description": "DADDY -> DADDY",
+      "resolved_name": "DADDY",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "아이": {
+      "description": "아이 -> 아이",
+      "resolved_name": "아이",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "선생님": {
+      "description": "선생님 -> 선생님",
+      "resolved_name": "선생님",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "의심하는 남자": {
+      "description": "의심하는 남자 -> 의심하는 남자",
+      "resolved_name": "의심하는 남자",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "좋은 남자": {
+      "description": "좋은 남자 -> 좋은 남자",
+      "resolved_name": "좋은 남자",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "김흥국",
+    "synonym": [
+      "Kim Heung-gook",
+      "Kim Heung-guk",
+      "Kim Heung-kook",
+      "가수 김흥국",
+      "김 흥국",
+      "김흥국",
+      "김흥국 배우",
+      "김흥국씨",
+      "흥국"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "김흥국은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

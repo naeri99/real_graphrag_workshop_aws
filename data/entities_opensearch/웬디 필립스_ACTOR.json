@@ -1,0 +1,18 @@
+{
+  "entity": {
+    "name": "웬디 필립스",
+    "synonym": [
+      "Wendy",
+      "Wendy Phillips",
+      "웬디 필립",
+      "웬디 필립스",
+      "웬디필립",
+      "웬디필립스",
+      "필립스"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "웬디 필립스은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

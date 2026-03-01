@@ -1,0 +1,23 @@
+{
+  "entity": {
+    "name": "집으로...",
+    "synonym": [
+      "2002 집으로",
+      "The Way Home",
+      "Way Home",
+      "jibeuro",
+      "더 웨이 홈",
+      "웨이 홈",
+      "웨이홈",
+      "집으로",
+      "집으로 2002",
+      "집으로 가는 길",
+      "집으로 영화",
+      "집으로..."
+    ],
+    "entity_type": "MOVIE",
+    "summary": "집으로...",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

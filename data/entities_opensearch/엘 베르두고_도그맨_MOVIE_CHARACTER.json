@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "엘 베르두고",
+    "synonym": [
+      "El Berdugo",
+      "El Verdugo",
+      "El verdugo",
+      "El 베르두고",
+      "The Executioner",
+      "베르두고",
+      "사형집행인",
+      "엘 베르두고",
+      "엘베르두고",
+      "처형자"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "엘 베르두고은 영화 '도그맨'의 등장인물로, 존 찰스 아귈라이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

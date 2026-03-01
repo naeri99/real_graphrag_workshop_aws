@@ -1,0 +1,24 @@
+{
+  "entity": {
+    "name": "조커",
+    "synonym": [
+      "Joker",
+      "The Joker",
+      "광대",
+      "더 조커",
+      "미치광이",
+      "미친개",
+      "어릿광대",
+      "조우커",
+      "조커",
+      "조커 캐릭터",
+      "조커님",
+      "죠커",
+      "클라운 프린스 오브 크라임"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "조커은 영화 '다크나이트'의 등장인물로, 히스 레저이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

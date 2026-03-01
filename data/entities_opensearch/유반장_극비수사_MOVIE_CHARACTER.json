@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "유반장",
+    "synonym": [
+      "Yu Ban-jang",
+      "반장",
+      "반장 유",
+      "유 반장",
+      "유 반장님",
+      "유반장",
+      "유반장 캐릭터",
+      "유반장 형사",
+      "유반장님",
+      "유반장형사",
+      "유형사"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "유반장은 영화 '극비수사'의 등장인물로, 장명갑이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "chunk_hash": "13b080a0a409d7",
+  "chunk_id": "Thirst_for_Film_13b080a0a409d7_66a4fc93",
+  "user_query": "'Dream' is a sports drama comedy about a professional footballer who gets a bit of bad publicity and following the advice from his agency he decides to coach a team of homeless men and lead them to victory in the Homeless World Cup while a documentary filmmaker comes on board to document the whole thing and spin it into a heartfelt story It recently came to Netflix so I was eager to check it out as I quite like a few of the actors involved and I think Lee Byung-hun is a pretty consistent director when it comes to making entertaining movies however he does something here that makes this movie so... uninteresting to watch because the core idea should sound like a solid foundation for a feel-good movie but it's presented in a way that feels so disingenuous as the footballer is only involved because he wants to clean up his image and the filmmaker is similarly doing this to benefit her career so for the majority of the movie I never really got the feeling like either of them actually cared or wanted to help these people in need unless it could be beneficial in some way and one of the biggest issues that comes from this self-centred characterization essentially boils down to this documentary filmmaker taking advantage of the situation to manufacture a touching story for example, when this footballer is putting together the team the filmmaker is telling him who to pick based on how their struggles will draw sympathy from an audience within the movie rather than director Lee",
+  "movie_id": "카산드라 드림",
+  "reviewer": "Thirst_for_Film",
+  "chunk_index": 1,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "DREAM",
+      "entity_type": "MOVIE",
+      "entity_description": "Dream은 프로 축구선수가 홍보 문제로 인해 노숙자 팀을 코치하여 노숙자 월드컵에서 승리로 이끄는 내용의 스포츠 드라마 코미디 영화이다. 다큐멘터리 감독이 이 과정을 기록하며 감동적인 이야기로 만들려 한다. 넷플릭스에 공개되었다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "LEE BYUNG-HUN",
+      "entity_type": "MOVIE_STAFF",
+      "entity_description": "Lee Byung-hun은 Dream의 감독으로, 재미있는 영화를 만드는 데 일관성 있는 감독이라는 평가를 받지만 이 영화에서는 흥미롭지 않은 방식으로 연출했다는 비평을 받았다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "축구선수",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "프로 축구선수로 나쁜 홍보 문제 후 에이전시의 조언에 따라 노숙자 팀을 코치하게 되는 인물이다. 자신의 이미지 개선을 위해서만 참여하며 진정으로 도움을 주려는 마음이 없는 것으로 묘사된다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "다큐멘터리 감독",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "축구선수의 노숙자 팀 코칭 과정을 기록하는 다큐멘터리 제작자이다. 자신의 커리어를 위해 이 프로젝트에 참여하며, 관객의 동정심을 유발할 수 있는 사람들을 선택하도록 조언하는 등 감동적인 이야기를 인위적으로 만들어내려 한다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "노숙자 월드컵",
+      "entity_type": "MOVIE",
+      "entity_description": "영화 내에서 축구선수가 노숙자 팀을 이끌고 참가하는 대회이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "LEE BYUNG-HUN",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "DREAM",
+      "target_type": "MOVIE",
+      "relationship_description": "Lee Byung-hun은 Dream을 감독했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "축구선수",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "DREAM",
+      "target_type": "MOVIE",
+      "relationship_description": "축구선수는 Dream의 주인공이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "다큐멘터리 감독",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "DREAM",
+      "target_type": "MOVIE",
+      "relationship_description": "다큐멘터리 감독은 Dream의 주요 등장인물이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "축구선수",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "다큐멘터리 감독",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "축구선수와 다큐멘터리 감독은 함께 노숙자 팀 프로젝트를 진행하며, 둘 다 자기 이익을 위해 참여한다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "축구선수",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "노숙자 월드컵",
+      "target_type": "MOVIE",
+      "relationship_description": "축구선수는 노숙자 팀을 이끌고 노숙자 월드컵에 참가한다",
+      "relationship_strength": 9
+    }
+  ],
+  "entity_resolution": {
+    "DREAM": {
+      "description": "DREAM -> DREAM",
+      "resolved_name": "DREAM",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "LEE BYUNG-HUN": {
+      "description": "LEE BYUNG-HUN -> LEE BYUNG-HUN",
+      "resolved_name": "LEE BYUNG-HUN",
+      "entity_type": "MOVIE_STAFF",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "축구선수": {
+      "description": "축구선수 -> 축구선수",
+      "resolved_name": "축구선수",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "다큐멘터리 감독": {
+      "description": "다큐멘터리 감독 -> 다큐멘터리 감독",
+      "resolved_name": "다큐멘터리 감독",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "노숙자 월드컵": {
+      "description": "노숙자 월드컵 -> 노숙자 월드컵",
+      "resolved_name": "노숙자 월드컵",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

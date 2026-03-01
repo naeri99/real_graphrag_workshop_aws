@@ -1,0 +1,230 @@
+{
+  "chunk_hash": "b7d7cc83d8ecc1",
+  "chunk_id": "Chris_Stuckmann_b7d7cc83d8ecc1_eb4f29b1",
+  "user_query": "them no, I know you like that thing but just wait a second, we'll get back to that but here's this other thing, watch this for a while. For some audience members they might find themselves watching Barbarian wondering when the barbarian is going to show up and at the end of the film they might still be wondering that, but maybe those people weren't quite paying attention because there's a lot of great clues. Georgina Campbell as Tess and Bill Skarsgård as Keith are both fantastic in the movie and Zach Cregger does a really good job of playing with the tropes that you might expect to see when there's a woman in danger in a horror film. When you realize your Airbnb is double booked and you're sitting in there with a stranger in the middle of Detroit in a very bad neighborhood, something as simple as a cup of tea suddenly feels very threatening and Cregger does an excellent job building that tension throughout the first act. I found myself genuinely on the edge of my seat wanting to know what was going on inside this house. The trailer as well as the poster shows that Justin Long is in this movie. I'm not going to get into details. I thought he was great in the film. I have loved him in horror films for a long time. Jeepers Creepers, Tusk, he always picks very interesting projects that feel kind of out of the box and this is no different. He's really good here and he plays a character that also is going to challenge the audience. This movie exists in stark opposition to the",
+  "movie_id": "덤플링",
+  "reviewer": "Chris_Stuckmann",
+  "chunk_index": 2,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "BARBARIAN",
+      "entity_type": "MOVIE",
+      "entity_description": "Barbarian은 호러 영화로, 에어비앤비 이중 예약 상황에서 시작되는 긴장감 있는 스토리를 다룬다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "GEORGINA CAMPBELL",
+      "entity_type": "ACTOR",
+      "entity_description": "Georgina Campbell은 Barbarian에서 Tess 역을 맡은 배우로 훌륭한 연기를 보여주었다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "BILL SKARSGÅRD",
+      "entity_type": "ACTOR",
+      "entity_description": "Bill Skarsgård는 Barbarian에서 Keith 역을 맡은 배우로 훌륭한 연기를 보여주었다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "JUSTIN LONG",
+      "entity_type": "ACTOR",
+      "entity_description": "Justin Long은 Barbarian에 출연한 배우로, Jeepers Creepers, Tusk 등 호러 영화에서 오랫동안 활동해왔으며 독특한 프로젝트를 선택하는 것으로 알려져 있다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "ZACH CREGGER",
+      "entity_type": "MOVIE_STAFF",
+      "entity_description": "Zach Cregger는 Barbarian의 감독으로, 호러 영화의 전형적인 트로프를 잘 활용하고 첫 번째 막에서 긴장감을 훌륭하게 구축했다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "TESS",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Tess는 Barbarian의 등장인물로, 에어비앤비 이중 예약 상황에 처한 여성이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "KEITH",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Keith는 Barbarian의 등장인물로, Tess와 함께 에어비앤비에 있는 낯선 사람이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "JEEPERS CREEPERS",
+      "entity_type": "MOVIE",
+      "entity_description": "Jeepers Creepers는 Justin Long이 출연한 호러 영화이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "TUSK",
+      "entity_type": "MOVIE",
+      "entity_description": "Tusk는 Justin Long이 출연한 호러 영화로, 독특한 프로젝트 중 하나이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "GEORGINA CAMPBELL",
+      "source_type": "ACTOR",
+      "target_entity": "TESS",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Georgina Campbell은 Tess 역을 연기했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "BILL SKARSGÅRD",
+      "source_type": "ACTOR",
+      "target_entity": "KEITH",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Bill Skarsgård는 Keith 역을 연기했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "GEORGINA CAMPBELL",
+      "source_type": "ACTOR",
+      "target_entity": "BARBARIAN",
+      "target_type": "MOVIE",
+      "relationship_description": "Georgina Campbell은 Barbarian에 출연했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "BILL SKARSGÅRD",
+      "source_type": "ACTOR",
+      "target_entity": "BARBARIAN",
+      "target_type": "MOVIE",
+      "relationship_description": "Bill Skarsgård는 Barbarian에 출연했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "JUSTIN LONG",
+      "source_type": "ACTOR",
+      "target_entity": "BARBARIAN",
+      "target_type": "MOVIE",
+      "relationship_description": "Justin Long은 Barbarian에 출연했으며 관객에게 도전적인 캐릭터를 연기했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "ZACH CREGGER",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "BARBARIAN",
+      "target_type": "MOVIE",
+      "relationship_description": "Zach Cregger는 Barbarian을 감독했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "TESS",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "BARBARIAN",
+      "target_type": "MOVIE",
+      "relationship_description": "Tess는 Barbarian의 주요 등장인물이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "KEITH",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "BARBARIAN",
+      "target_type": "MOVIE",
+      "relationship_description": "Keith는 Barbarian의 등장인물이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "TESS",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "KEITH",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Tess와 Keith는 에어비앤비 이중 예약으로 인해 같은 집에 있게 된 낯선 사이이다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "JUSTIN LONG",
+      "source_type": "ACTOR",
+      "target_entity": "JEEPERS CREEPERS",
+      "target_type": "MOVIE",
+      "relationship_description": "Justin Long은 Jeepers Creepers에 출연했다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "JUSTIN LONG",
+      "source_type": "ACTOR",
+      "target_entity": "TUSK",
+      "target_type": "MOVIE",
+      "relationship_description": "Justin Long은 Tusk에 출연했다",
+      "relationship_strength": 8
+    }
+  ],
+  "entity_resolution": {
+    "BARBARIAN": {
+      "description": "BARBARIAN -> BARBARIAN",
+      "resolved_name": "BARBARIAN",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "GEORGINA CAMPBELL": {
+      "description": "GEORGINA CAMPBELL -> GEORGINA CAMPBELL",
+      "resolved_name": "GEORGINA CAMPBELL",
+      "entity_type": "ACTOR",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "BILL SKARSGÅRD": {
+      "description": "BILL SKARSGÅRD -> BILL SKARSGÅRD",
+      "resolved_name": "BILL SKARSGÅRD",
+      "entity_type": "ACTOR",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "JUSTIN LONG": {
+      "description": "JUSTIN LONG -> JUSTIN LONG",
+      "resolved_name": "JUSTIN LONG",
+      "entity_type": "ACTOR",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "ZACH CREGGER": {
+      "description": "ZACH CREGGER -> ZACH CREGGER",
+      "resolved_name": "ZACH CREGGER",
+      "entity_type": "MOVIE_STAFF",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "TESS": {
+      "description": "TESS -> TESS",
+      "resolved_name": "TESS",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "KEITH": {
+      "description": "KEITH -> KEITH",
+      "resolved_name": "KEITH",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "JEEPERS CREEPERS": {
+      "description": "JEEPERS CREEPERS -> JEEPERS CREEPERS",
+      "resolved_name": "JEEPERS CREEPERS",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "TUSK": {
+      "description": "TUSK -> TUSK",
+      "resolved_name": "TUSK",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

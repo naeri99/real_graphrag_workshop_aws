@@ -1,0 +1,115 @@
+{
+  "chunk_hash": "d6811087d48b43",
+  "chunk_id": "Movie_Trailers_Source_d6811087d48b43_4f36aa1c",
+  "user_query": "Your little girl is coming with me, Adah. 6:00 a.m. tomorrow. Bring half a million in cash. You really don't want to be late. >> Why, Charlotte? >> They know what you are. >> They've taken Charlotte. >> I'm going to fix it. Brought some backup. Curtis, you've all heard about this war between Mahoney and Mrs. Vine. >> Two biggest gangsters in London fighting for the number one spot. >> Only needs a spark and there'll be fireworks. >> So, if we take down Vine's jewelry store, make it look like it was Mahoney. >> They'll be busy fighting a war. >> Not looking for us. 3 2 1 Everybody down on the floor. So, which one of you bellies is going to explain to me what is going on here? There's a lot going on in London tonight.",
+  "movie_id": "와일드캣",
+  "reviewer": "Movie_Trailers_Source",
+  "chunk_index": 1,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "CHARLOTTE",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Charlotte는 납치된 인물로, 누군가의 어린 딸이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "ADAH",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Adah는 Charlotte의 관계자로, 50만 달러의 몸값을 요구받는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "CURTIS",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Curtis는 작전에 참여하는 인물로, 백업으로 합류했다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "MAHONEY",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Mahoney는 런던의 거대 갱스터 중 한 명으로, Mrs. Vine과 1위 자리를 두고 전쟁 중이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "MRS. VINE",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Mrs. Vine은 런던의 거대 갱스터 중 한 명으로, Mahoney와 1위 자리를 두고 전쟁 중이며 보석 가게를 소유하고 있다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "CHARLOTTE",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "ADAH",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Charlotte가 납치되어 Adah에게 몸값이 요구되었다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "CURTIS",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "MAHONEY",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Curtis는 Mahoney와 Mrs. Vine의 전쟁을 이용한 작전에 참여한다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "CURTIS",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "MRS. VINE",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Curtis의 팀은 Mrs. Vine의 보석 가게를 털어 Mahoney의 소행으로 위장하려 한다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "MAHONEY",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "MRS. VINE",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Mahoney와 Mrs. Vine은 런던 최고의 갱스터 자리를 두고 전쟁 중이다",
+      "relationship_strength": 10
+    }
+  ],
+  "entity_resolution": {
+    "CHARLOTTE": {
+      "description": "CHARLOTTE -> CHARLOTTE",
+      "resolved_name": "CHARLOTTE",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "ADAH": {
+      "description": "ADAH -> ADAH",
+      "resolved_name": "ADAH",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "CURTIS": {
+      "description": "CURTIS -> CURTIS",
+      "resolved_name": "CURTIS",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "MAHONEY": {
+      "description": "MAHONEY -> MAHONEY",
+      "resolved_name": "MAHONEY",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "MRS. VINE": {
+      "description": "MRS. VINE -> MRS. VINE",
+      "resolved_name": "MRS. VINE",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

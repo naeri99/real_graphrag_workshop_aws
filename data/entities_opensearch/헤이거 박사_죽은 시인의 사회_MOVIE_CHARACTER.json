@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "헤이거 박사",
+    "synonym": [
+      "Dr Hager",
+      "Dr. Hager",
+      "Hager",
+      "닥터 헤이거",
+      "해거 박사",
+      "헤이거",
+      "헤이거 박사",
+      "헤이거 선생",
+      "헤이거 선생님",
+      "헤이거박사"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "헤이거 박사은 영화 '죽은 시인의 사회'의 등장인물로, 조지 마틴이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

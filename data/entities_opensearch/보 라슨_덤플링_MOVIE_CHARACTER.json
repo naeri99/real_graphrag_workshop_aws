@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "보 라슨",
+    "synonym": [
+      "Bo",
+      "Bo Larson",
+      "라슨",
+      "보",
+      "보 라르손",
+      "보 라손",
+      "보 라슨",
+      "보라슨"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "보 라슨은 영화 '덤플링'의 등장인물로, 루크 벤워드이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

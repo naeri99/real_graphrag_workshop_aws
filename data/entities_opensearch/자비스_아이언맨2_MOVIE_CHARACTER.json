@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "자비스",
+    "synonym": [
+      "AI 자비스",
+      "J.A.R.V.I.S.",
+      "JARVIS",
+      "에드윈 자비스",
+      "인공지능 비서",
+      "인공지능 자비스",
+      "자르비스",
+      "자비스",
+      "자비스 AI",
+      "쟈비스",
+      "저비스"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "자비스은 영화 '아이언맨2'의 등장인물로, 폴 베타니이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

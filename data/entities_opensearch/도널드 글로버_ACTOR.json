@@ -1,0 +1,27 @@
+{
+  "entity": {
+    "name": "도널드 글로버",
+    "synonym": [
+      "Don",
+      "Donald",
+      "Donald Cooper",
+      "Donald Glover",
+      "Glover",
+      "글로버",
+      "도날드",
+      "도날드 글로버",
+      "도날드글로버",
+      "도널드 글로버",
+      "도널드글로버",
+      "돈",
+      "차일디쉬 감비노",
+      "차일디시 감비노",
+      "쿠퍼 장인",
+      "할아버지"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "도널드 글로버은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

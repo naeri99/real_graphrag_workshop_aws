@@ -1,0 +1,23 @@
+{
+  "entity": {
+    "name": "윌 폴터",
+    "synonym": [
+      "Will",
+      "Will Poulter",
+      "Will 폴터",
+      "William Poulter",
+      "월 폴터",
+      "윌",
+      "윌 포울터",
+      "윌 폴타",
+      "윌 폴터",
+      "윌 풀터",
+      "윌폴터",
+      "폴터"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "윌 폴터은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

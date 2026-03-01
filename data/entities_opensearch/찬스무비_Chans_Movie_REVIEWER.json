@@ -1,0 +1,13 @@
+{
+  "entity": {
+    "name": "찬스무비_Chans_Movie",
+    "synonym": [
+      "찬스무비_Chans_Movie",
+      "찬스무비 Chans Movie"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "찬스무비_Chans_Movie은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

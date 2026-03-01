@@ -1,0 +1,186 @@
+{
+  "chunk_hash": "883638b622b953",
+  "chunk_id": "Chris_Stuckmann_883638b622b953_e1f38a6b",
+  "user_query": "take leisurely strolls through very picturesque environments and they usually give expository dialogue during these scenes it happens a lot in Inception happens quite often in Tenet and often times that score which as I said is wonderful is often blaring during these sequences which makes dialogue a little difficult to hear also characters are speaking very fast and very quick Tenet is technically marvelous and conceptually fascinating but it is however emotionally distant we know so little about each character particularly our lead that Nolan seems to be deliberately keeping them at arm's length so while I was always amazed by what he was accomplishing within a frame I didn't really care that much about the people that were filling that frame Elizabeth Debicki's character is easily the most emotionally resonant of the entire film there's a subplot that I won't spoil for you but basically she's the heart and soul of the movie and she's really all that John David Washington's character which is just called the Protagonist he doesn't even have a name she's really all that that he's feeling for in the movie and and his real motivation for being in the movie seems wrapped up into helping her and so as a lead the Protagonist isn't a particularly interesting character he feels like an object that's used to communicate Nolan's story to us and less like a person this is something that happens a lot in his films in a movie like Inception a lot of those characters are intriguing but",
+  "movie_id": "테넷",
+  "reviewer": "Chris_Stuckmann",
+  "chunk_index": 5,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "INCEPTION",
+      "entity_type": "MOVIE",
+      "entity_description": "Inception은 크리스토퍼 놀란 감독의 영화로, 등장인물들이 그림 같은 환경에서 산책하며 설명적 대화를 나누는 장면이 많이 등장하며, 흥미로운 캐릭터들이 많은 영화이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "TENET",
+      "entity_type": "MOVIE",
+      "entity_description": "Tenet은 기술적으로 놀랍고 개념적으로 매혹적이지만 감정적으로는 거리감이 있는 영화로, 캐릭터들에 대해 알 수 있는 정보가 적고 대사가 빠르며 음악이 크게 나와 대사를 듣기 어려운 경우가 있다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "NOLAN",
+      "entity_type": "MOVIE_STAFF",
+      "entity_description": "Nolan은 Inception과 Tenet의 감독으로, 프레임 안에서 놀라운 것을 성취하지만 캐릭터들을 의도적으로 거리감 있게 유지하는 경향이 있으며, 그의 영화들에서 캐릭터가 이야기를 전달하는 도구처럼 느껴지는 경우가 많다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "ELIZABETH DEBICKI",
+      "entity_type": "ACTOR",
+      "entity_description": "Elizabeth Debicki는 Tenet에서 가장 감정적으로 공감되는 캐릭터를 연기한 배우로, 영화의 심장이자 영혼 역할을 맡았다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "JOHN DAVID WASHINGTON",
+      "entity_type": "ACTOR",
+      "entity_description": "John David Washington은 Tenet에서 주인공(the Protagonist) 역을 맡은 배우이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "THE PROTAGONIST",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "The Protagonist는 Tenet의 주인공으로, 이름조차 없으며 특별히 흥미로운 캐릭터가 아니고, Elizabeth Debicki의 캐릭터를 돕는 것이 주요 동기이며, 놀란의 이야기를 전달하는 도구처럼 느껴지는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "ELIZABETH DEBICKI'S CHARACTER",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Elizabeth Debicki가 연기한 캐릭터로, Tenet에서 가장 감정적으로 공감되는 인물이며 영화의 심장이자 영혼으로, 주인공이 돕고자 하는 대상이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "NOLAN",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "INCEPTION",
+      "target_type": "MOVIE",
+      "relationship_description": "Nolan은 Inception을 감독했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "NOLAN",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "TENET",
+      "target_type": "MOVIE",
+      "relationship_description": "Nolan은 Tenet을 감독했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "ELIZABETH DEBICKI",
+      "source_type": "ACTOR",
+      "target_entity": "TENET",
+      "target_type": "MOVIE",
+      "relationship_description": "Elizabeth Debicki는 Tenet에 출연했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "ELIZABETH DEBICKI",
+      "source_type": "ACTOR",
+      "target_entity": "ELIZABETH DEBICKI'S CHARACTER",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Elizabeth Debicki는 Tenet에서 해당 캐릭터를 연기했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "JOHN DAVID WASHINGTON",
+      "source_type": "ACTOR",
+      "target_entity": "TENET",
+      "target_type": "MOVIE",
+      "relationship_description": "John David Washington은 Tenet에 출연했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "JOHN DAVID WASHINGTON",
+      "source_type": "ACTOR",
+      "target_entity": "THE PROTAGONIST",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "John David Washington은 Tenet에서 주인공 역을 연기했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "THE PROTAGONIST",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "TENET",
+      "target_type": "MOVIE",
+      "relationship_description": "The Protagonist는 Tenet의 주인공이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "ELIZABETH DEBICKI'S CHARACTER",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "TENET",
+      "target_type": "MOVIE",
+      "relationship_description": "Elizabeth Debicki의 캐릭터는 Tenet의 핵심 인물이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "THE PROTAGONIST",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "ELIZABETH DEBICKI'S CHARACTER",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "The Protagonist의 주요 동기는 Elizabeth Debicki의 캐릭터를 돕는 것이다",
+      "relationship_strength": 9
+    }
+  ],
+  "entity_resolution": {
+    "INCEPTION": {
+      "description": "INCEPTION -> INCEPTION",
+      "resolved_name": "INCEPTION",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "TENET": {
+      "description": "TENET -> 테넷",
+      "resolved_name": "테넷",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "NOLAN": {
+      "description": "NOLAN -> NOLAN",
+      "resolved_name": "NOLAN",
+      "entity_type": "MOVIE_STAFF",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "ELIZABETH DEBICKI": {
+      "description": "ELIZABETH DEBICKI -> ELIZABETH DEBICKI",
+      "resolved_name": "ELIZABETH DEBICKI",
+      "entity_type": "ACTOR",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "JOHN DAVID WASHINGTON": {
+      "description": "JOHN DAVID WASHINGTON -> JOHN DAVID WASHINGTON",
+      "resolved_name": "JOHN DAVID WASHINGTON",
+      "entity_type": "ACTOR",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "THE PROTAGONIST": {
+      "description": "THE PROTAGONIST -> The Protagonist",
+      "resolved_name": "The Protagonist",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "ELIZABETH DEBICKI'S CHARACTER": {
+      "description": "ELIZABETH DEBICKI'S CHARACTER -> ELIZABETH DEBICKI'S CHARACTER",
+      "resolved_name": "ELIZABETH DEBICKI'S CHARACTER",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

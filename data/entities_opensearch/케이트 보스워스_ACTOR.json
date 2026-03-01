@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "케이트 보스워스",
+    "synonym": [
+      "Bosworth",
+      "Kate Bosworth",
+      "보스워스",
+      "케이트",
+      "케이트 보스워드",
+      "케이트 보스워스",
+      "케이트 보스워쓰",
+      "케이트보스워드",
+      "케이트보스워스",
+      "케이트보스워쓰",
+      "케잇 보스워스"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "케이트 보스워스은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

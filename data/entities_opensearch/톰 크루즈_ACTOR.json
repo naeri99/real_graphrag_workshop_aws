@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "톰 크루즈",
+    "synonym": [
+      "Tom",
+      "Tom Cruise",
+      "크루즈",
+      "탐 크루즈",
+      "탐크루즈",
+      "토마스 크루즈",
+      "톰 크루스",
+      "톰 크루즈",
+      "톰크루즈"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "톰 크루즈은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

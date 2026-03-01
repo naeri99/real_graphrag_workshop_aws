@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "헤티 쇼",
+    "synonym": [
+      "Hattie",
+      "Hattie Shaw",
+      "MI6 요원",
+      "쇼",
+      "쇼의 여동생",
+      "해티",
+      "해티 상",
+      "해티 쇼",
+      "헤티",
+      "헤티 쇼",
+      "헤티쇼"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "헤티 쇼은 영화 '홉스앤쇼'의 등장인물로, 바네사 커비이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

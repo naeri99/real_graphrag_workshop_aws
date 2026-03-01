@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "조지 게오기우",
+    "synonym": [
+      "George Georgiou",
+      "게오기우",
+      "조지",
+      "조지 게오기우",
+      "조지 게오르기우",
+      "조지 게오르지우",
+      "조지 조르지오우",
+      "조지게오기우"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "조지 게오기우은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

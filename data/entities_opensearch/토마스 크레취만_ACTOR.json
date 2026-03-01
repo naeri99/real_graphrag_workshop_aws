@@ -1,0 +1,27 @@
+{
+  "entity": {
+    "name": "토마스 크레취만",
+    "synonym": [
+      "Dr. Wayne",
+      "Thomas Kretschmann",
+      "Thomas Wayne",
+      "브루스 아버지",
+      "브루스 웨인 아버지",
+      "웨인 박사",
+      "웨인 아버지",
+      "크레취만",
+      "크레치만",
+      "토마스",
+      "토마스 크레취만",
+      "토마스 크레츠만",
+      "토마스 크레치만",
+      "토마스 크렛츠만",
+      "토마스웨인",
+      "토마스크레취만"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "토마스 크레취만은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

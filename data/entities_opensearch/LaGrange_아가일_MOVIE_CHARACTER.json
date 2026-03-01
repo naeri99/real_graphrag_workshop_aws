@@ -1,0 +1,18 @@
+{
+  "entity": {
+    "name": "LaGrange",
+    "synonym": [
+      "LaGrange",
+      "라 그랑주",
+      "라그란지",
+      "라그랑주",
+      "라그랑쥬",
+      "라그랑지",
+      "라그레인지"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "LaGrange은 영화 '아가일'의 등장인물로, 두아 리파이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "entity": {
+    "name": "모니크 커넌",
+    "synonym": [
+      "Monique",
+      "Monique Curnen",
+      "Monique Gabriela Curnen",
+      "모니크",
+      "모니크 가브리엘",
+      "모니크 가브리엘라",
+      "모니크 가브리엘라 커넌",
+      "모니크 커난",
+      "모니크 커넌",
+      "모니크 커넨",
+      "모니크 컬넌",
+      "모니크커난",
+      "모니크커넌",
+      "모니크커넨",
+      "모닉 커넌",
+      "커넌"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "모니크 커넌은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "카린 뮈렌베리 파베르",
+    "synonym": [
+      "Karin Myrenberg Faber",
+      "뮈렌베리",
+      "뮈렌베리 파베르",
+      "카린",
+      "카린 뮈렌베리",
+      "카린 뮈렌베리 파베르",
+      "카린 뮐렌베리",
+      "카린 파베르",
+      "카린뮈렌베리파베르",
+      "카린파베르",
+      "파베르"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "카린 뮈렌베리 파베르은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "entity": {
+    "name": "리우군의_다락방",
+    "synonym": [
+      "리우군의_다락방",
+      "리우군의 다락방"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "리우군의_다락방은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

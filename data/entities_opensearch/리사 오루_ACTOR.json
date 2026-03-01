@@ -1,0 +1,23 @@
+{
+  "entity": {
+    "name": "리사 오루",
+    "synonym": [
+      "Lisa Genova",
+      "Lisa Oru",
+      "Lisa Orue",
+      "리사",
+      "리사 오루",
+      "리사 오르",
+      "리사 제노바",
+      "리사 지노바",
+      "리사오루",
+      "리사제노바",
+      "오루",
+      "제노바"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "리사 오루은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

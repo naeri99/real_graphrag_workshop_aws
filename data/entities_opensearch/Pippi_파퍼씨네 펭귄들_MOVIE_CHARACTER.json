@@ -1,0 +1,18 @@
+{
+  "entity": {
+    "name": "Pippi",
+    "synonym": [
+      "Pippi",
+      "비서 피피",
+      "삐삐",
+      "피삐",
+      "피피",
+      "피피 비서",
+      "핍피"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "Pippi은 영화 '파퍼씨네 펭귄들'의 등장인물로, 오필리아 로비본드이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

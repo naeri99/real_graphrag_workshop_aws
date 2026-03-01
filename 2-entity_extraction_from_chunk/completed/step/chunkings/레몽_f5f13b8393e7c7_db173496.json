@@ -1,0 +1,80 @@
+{
+  "chunk_hash": "f5f13b8393e7c7",
+  "chunk_id": "레몽_f5f13b8393e7c7_db173496",
+  "user_query": "여자는 남자의 방을 보고 놀랄 수밖에 없었습니다. 그런데 그 책 맞아 졌잖아. 4년 동안 책 몇 권 그때부터 했는지 뭐 그냥 이름만 쓰여 있는 것보다 더 쩔어. 책 사 떠날 기억도 나고 이곳엔 생각지 못한 낭만과 게임성이 컬러풀하게 있었기 때문이죠. 떨다가 왜 그러니까 당황해 그때 야 양건 없냐. 남자와 여자가 같이 양건 보면 무슨 일이나는 자신이까 몰라줘도 아무튼 최대한 자연스럽게 넘어가려고 해보지만 그녀의 진짜 질문이 시작했습니다. 아 예 지 궁금해서 그러는데 남자들은 자연건강 [음악] 남자는 순수함으로 무장한 호기심에 가득 찬 눈을 외면할 수 없었습니다. 언제 파? 1Q? 고로의 우쭈쭈 메시아 [음악] 아 절대 따라서 좀 나죠. 아세요? 정의 주먹이 당신의 뚝배기를 노리고 있습니다. 라이트 우~ 좀 해주면 더 이렇게 뚝배기가 말려운. 그녀의 장난에도 아 따 소녀를 되게 좋아한다. 기분이 울적할 때 유튜브 키고 저는 한 번 반복해서 듣는 거야 그런 기분이 좀 아직. 그녀의 모습은 사랑스럽습니다. 그녀는 이제 모텔, 우연의 첫사랑입니다. 때는 고원 1학년. 매월 키가 10cm씩 자라는 성장통을 주체할 수 없던 의원은 오늘도 쌈박질하고 있습니다. 그렇게 엉덩이 찜질로 마무리하고 있던 어느 때와 똑같은 어느 날 처음 그녀를 만나게 되었습니다. 그녀의 이름은 박영숙. 전주에서 강릉 학교로 전학 온 영숙의 등장은 전교생 남학생들의 관심의 쓰였습니다. 사진만 이런 관심 속 영숙의 대답은 항상 같았습니다. 쪼개. 야 우리 저의 들어보죠 맘. 그렇게 영숙의 남친이 되고자 하는 택배의 무차별 고백이 점점 심해져 가고 있었을 때쯤 아 좀 뭐냐. 어 그 내가 의원에게 먼저 말을 걸게 되는데 같은 전학생끼리 빠구리. 나처럼 말로? 5빵? 우리 합성 먹다를 뜻하는 일본어 빡으로에서 발생된 성 관계를 뜻하는 언어. 혼란스러워 한다. 게 도대체 무엇이 그카. 그렇게 영숙이 지에 따라 움직이기로 한 후에야 8개가. 쓰나? 아냐 쭝아. 영숙의 모든 행동은 우연을 긴장하게 하지만 우연은 만반의 준비를 끝냈습니다. 또 뭐 샀냐? 투거? 아 그거 아 땡댕이 야 또 근데 언제 빠울이 처음이냐? 아 5총 3회 동영상 놈즉 말야. 무슨 달라진 4. 그렇게 뭐가 날라리냐 며 주섬주섬하다 듯하다 싸늘하다. 그게 뭔데 그게 뭐. 인생이 치는지 [음악] 땡기야가 무한. 약속해? 수업을 빼먹고 놀러가는 행위를 전국민이 땡이라고 부르는데 도대체 왜 [음악] 전라도만 빠구리라고 부르는지 아직도 비밀입니다. 그래서 저도 이게 사실인지 너무 궁금해서 친구에게 귀찮아서 물었습니다. 빵. 울나라? 그렇게 쓴 이만우 연의 ltd 에피소드가 생겨나는 반면 택배의 개수작 또 들어가고 있었습니다. 뭐 수료? 한편 영숙이는 오늘도 빠고서 아 아니 땡땡이를 치려고 하는데 택배 걔들은 찼던데. 안녕 나랑 사귄다고 하면 더 이상 그렇지 않을까. 구미가 당기는 제 아니긴 했지만 하루 종일 싸움만 하는 우연도 새끼와 다를 게 없다고 생각한 영숙이. 인건전. 그때 바뀌는 눈빛. 내가 다시 써 말 하겠다면 프리게",
+  "movie_id": "피끓는 청춘",
+  "reviewer": "레몽",
+  "chunk_index": 1,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "우연",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "우연은 고등학교 1학년 남학생으로, 성장통을 겪으며 영숙을 만나게 되는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "박영숙",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "박영숙은 전주에서 강릉 학교로 전학 온 여학생으로, 전교 남학생들의 관심을 받는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "택배",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "택배는 영숙에게 무차별적으로 고백하며 그녀의 남자친구가 되고자 하는 남학생이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "우연",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "박영숙",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "우연과 영숙은 같은 전학생으로서 서로 알게 되어 가까워지는 관계이다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "택배",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "박영숙",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "택배는 영숙에게 계속 고백하며 그녀를 괴롭히는 관계이다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "택배",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "우연",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "택배와 우연은 영숙을 사이에 두고 경쟁 관계에 있다",
+      "relationship_strength": 6
+    }
+  ],
+  "entity_resolution": {
+    "우연": {
+      "description": "우연 -> 우연",
+      "resolved_name": "우연",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "박영숙": {
+      "description": "박영숙 -> 영숙",
+      "resolved_name": "영숙",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "택배": {
+      "description": "택배 -> 택배",
+      "resolved_name": "택배",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

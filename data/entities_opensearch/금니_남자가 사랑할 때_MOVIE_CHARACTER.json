@@ -1,0 +1,27 @@
+{
+  "entity": {
+    "name": "금니",
+    "synonym": [
+      "Geum-ni",
+      "Geumni",
+      "Gold Tooth",
+      "금 니",
+      "금니",
+      "금니 캐릭터",
+      "금니 형",
+      "금니씨",
+      "금니야",
+      "금니역",
+      "금니형",
+      "금리",
+      "금이",
+      "박지환 금니",
+      "박지환 캐릭터",
+      "부하 금니"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "금니은 영화 '남자가 사랑할 때'의 등장인물로, 박지환이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

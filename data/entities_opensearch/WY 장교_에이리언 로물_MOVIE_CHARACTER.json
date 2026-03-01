@@ -1,0 +1,23 @@
+{
+  "entity": {
+    "name": "WY 장교",
+    "synonym": [
+      "WY Officer",
+      "WY Officer character",
+      "WY 오피서",
+      "WY 장교",
+      "WY장교",
+      "Weyland-Yutani Officer",
+      "더블유와이 장교",
+      "웨이랜드 유타니 장교",
+      "웨이랜드유타니 장교",
+      "웨일랜드 유타니 장교",
+      "웨일랜드유타니 장교",
+      "장교"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "WY 장교은 영화 '에이리언 로물'의 등장인물로, 로지 에드이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

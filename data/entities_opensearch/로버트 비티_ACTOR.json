@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "로버트 비티",
+    "synonym": [
+      "Beatty",
+      "Robert Beatty",
+      "로버트",
+      "로버트 베티",
+      "로버트 비티",
+      "로버트베티",
+      "로버트비티",
+      "밥 비티",
+      "베티",
+      "비티"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "로버트 비티은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

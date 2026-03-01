@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "수연 친구1",
+    "synonym": [
+      "Sooyeon friend 1",
+      "수 연",
+      "수연",
+      "수연 친구 1",
+      "수연 친구1",
+      "수연씨",
+      "수연의 친구1",
+      "수연이 친구1",
+      "수연친구1",
+      "주예린 캐릭터",
+      "친구1"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "수연 친구1은 영화 '히든페이스'의 등장인물로, 주예린이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

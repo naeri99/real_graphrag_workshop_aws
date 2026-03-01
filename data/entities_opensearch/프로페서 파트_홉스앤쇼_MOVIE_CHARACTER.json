@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "프로페서 파트",
+    "synonym": [
+      "Professor",
+      "Professor Andreiko",
+      "Professor Fassbinder",
+      "교수",
+      "교수 파트",
+      "박사",
+      "파트",
+      "파트 교수",
+      "프로페서",
+      "프로페서 파트",
+      "프로페서파트"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "프로페서 파트은 영화 '홉스앤쇼'의 등장인물로, 레니 제임스이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

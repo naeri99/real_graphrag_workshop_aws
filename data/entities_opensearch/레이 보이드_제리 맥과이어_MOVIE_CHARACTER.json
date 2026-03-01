@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "레이 보이드",
+    "synonym": [
+      "Ray",
+      "Ray Boyd",
+      "도로시 아들",
+      "래이 보이드",
+      "레이",
+      "레이 보이드",
+      "레이보이드",
+      "보이드"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "레이 보이드은 영화 '제리 맥과이어'의 등장인물로, 조나단 립니키이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

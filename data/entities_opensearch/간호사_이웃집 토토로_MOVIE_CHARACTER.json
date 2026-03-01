@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "간호사",
+    "synonym": [
+      "Nurse",
+      "看護婦",
+      "看護師",
+      "간호사",
+      "간호원",
+      "병원 간호사",
+      "병원간호사",
+      "야스코 간호사",
+      "요양원 간호사"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "간호사은 영화 '이웃집 토토로'의 등장인물로, 이치하라 유리코이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

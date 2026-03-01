@@ -1,0 +1,26 @@
+{
+  "entity": {
+    "name": "케이트 마라",
+    "synonym": [
+      "Cate Blanchett",
+      "Kate",
+      "Kate Mara",
+      "Mara",
+      "마라",
+      "블란쳇",
+      "케이트",
+      "케이트 마라",
+      "케이트 마러",
+      "케이트 블란셋",
+      "케이트 블랑쉐",
+      "케이트마라",
+      "케이트블란쳇",
+      "케잇 마라",
+      "케잇마라"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "케이트 마라은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

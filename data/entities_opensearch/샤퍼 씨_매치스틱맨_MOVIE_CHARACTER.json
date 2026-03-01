@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "샤퍼 씨",
+    "synonym": [
+      "Mr Schaffer",
+      "Mr. Schaffer",
+      "미스터 샤퍼",
+      "샤퍼",
+      "샤퍼 남편",
+      "샤퍼 미스터",
+      "샤퍼 선생",
+      "샤퍼 씨",
+      "샤퍼씨",
+      "쉐퍼 씨"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "샤퍼 씨은 영화 '매치스틱맨'의 등장인물로, 스티브 이스틴이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

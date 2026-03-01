@@ -1,0 +1,17 @@
+{
+  "entity": {
+    "name": "자기 자신",
+    "synonym": [
+      "Himself",
+      "본인",
+      "셀프",
+      "자기 자신",
+      "자기자신",
+      "자신"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "자기 자신은 영화 '제리 맥과이어'의 등장인물로, 잰 웨너이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

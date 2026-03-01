@@ -1,0 +1,85 @@
+{
+  "movie_title": "테넷",
+  "director": [
+    {
+      "name": "크리스토퍼 놀란",
+      "name_en": "Christopher Nolan"
+    }
+  ],
+  "cast": [
+    {
+      "actor": "존 데이비드 워싱턴",
+      "actor_en": "John David Washington",
+      "character": "The Protagonist"
+    },
+    {
+      "actor": "로버트 패틴슨",
+      "actor_en": "Robert Pattinson",
+      "character": "Neil"
+    },
+    {
+      "actor": "엘리자베스 데비키",
+      "actor_en": "Elizabeth Debicki",
+      "character": "Kat"
+    },
+    {
+      "actor": "케네스 브래너",
+      "actor_en": "Kenneth Branagh",
+      "character": "Andrei Sator"
+    },
+    {
+      "actor": "딤플 카파디아",
+      "actor_en": "Dimple Kapadia",
+      "character": "프리야"
+    },
+    {
+      "actor": "에런 테일러 존슨",
+      "actor_en": "Aaron Taylor-Johnson",
+      "character": "아이브스"
+    },
+    {
+      "actor": "클레망스 포에지",
+      "actor_en": "Clémence Poésy",
+      "character": "바바라"
+    },
+    {
+      "actor": "마이클 케인",
+      "actor_en": "Michael Caine",
+      "character": "크로스비 경"
+    },
+    {
+      "actor": "마틴 도노반",
+      "actor_en": "Martin Donovan",
+      "character": "Fay"
+    },
+    {
+      "actor": "힘시 파텔",
+      "actor_en": "Himesh Patel",
+      "character": "마히르"
+    },
+    {
+      "actor": "요나스 스타우브",
+      "actor_en": "Yuri Kolokolnikov",
+      "character": "볼코프"
+    },
+    {
+      "actor": "잭 커틀모어",
+      "actor_en": "Jack Cutmore-Scott",
+      "character": "Klaus"
+    },
+    {
+      "actor": "제레미 테오발드",
+      "actor_en": "Jeremy Theobald",
+      "character": "Steward"
+    }
+  ],
+  "review": [
+    "./data/review/테넷/테넷_-Qtk3nValm4.json",
+    "./data/review/테넷/테넷_8gXQsAea26I.json",
+    "./data/review/테넷/테넷_Q27Ulalxwbw.json",
+    "./data/review/테넷/테넷_Z_ab-6Gr6lo.json",
+    "./data/review/테넷/테넷_i358Rws1SV0.json",
+    "./data/review/테넷/테넷_t6yb8x-XBlE.json",
+    "./data/review/테넷/테넷_tRxsB9MBhnQ.json"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "사만다 홉스",
+    "synonym": [
+      "Sam",
+      "Samantha Hobbs",
+      "딸랑구",
+      "사만다",
+      "사만다 홉스",
+      "사만다홉스",
+      "샘",
+      "샘 홉스",
+      "홉스",
+      "홉스 딸",
+      "홉스의 딸"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "사만다 홉스은 영화 '홉스앤쇼'의 등장인물로, 엘리아나 수아이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

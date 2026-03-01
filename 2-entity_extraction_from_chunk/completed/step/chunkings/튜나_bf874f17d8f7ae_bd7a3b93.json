@@ -1,0 +1,217 @@
+{
+  "chunk_hash": "bf874f17d8f7ae",
+  "chunk_id": "튜나_bf874f17d8f7ae_bd7a3b93",
+  "user_query": "영화를 방불케 하는 스타일의 추격전 뒤에 체포가 거의 확실시되는 상황에서 박선우가 아주 과격하게 해치를 체포하는 모습을 보입니다 이미 무력화에 가까운 상태인 해치를 머리가 부딪힐 정도로 과하게 다시 제압하는 모습이 담기는데 사실 이게 아드레날린이 과하게 분비돼서 순간적인 흥분을 주체하지 못한 것일 수도 있잖아요 그래서 그런지 서도철이 아주 잠깐 갸웃하는 정도로 지나갑니다 이때 조금 더 의심하는 모습을 보였다면 후에 전개가 더 매끄러웠을 텐데 아무튼 이 해치 사건으로 인해서 서도철 팀의 관심이 해치에 쏠린 찰나 해치를 체포한 박선우는 치료를 위해 먼저 퇴장하고 그 사이 전서구에 전화를 걸어 열쇠의 위치를 알려주고 전서구를 바깥으로 빼냅니다 신변의 위협을 느끼고 경찰의 보호를 받고 있는 전서구를 무슨 내용으로 깨워내는지는 안 나와요 모릅니다 영화상에선 전화를 받은 직후 잠깐의 멈칫거림조차 없이 전화를 받은 전서구가 어머니의 전화라도 받은 양 너스레를 떨며 열쇠의 위치를 확인하더니 그대로 탈주하는 것으로 그려집니다 모르는 사람이 보기엔 거의 사전에 협의가 된 연락처럼 보일 정도죠 그러고는 사라지더니 아침에 시체로 발견돼 이런 면에선 클리셰인 디테일도 부족해요 그렇게 전서구가 시체로 발견되고 부검하는 사이 팀은 다시 바쁘게 움직입니다 이전에 잡은 해치는 가짜로 밝혀지는데 이 과정도 전혀 수사하는 느낌 없이 그냥 서도철이 정의 부장 찾아가서 자작극이라고 찔러보는 것으로 해결되어 자작극이라고 의심하는 정황조차 거의 형사의 감 이외엔 설명이 안 되는 수준입니다 정의 부장은 원래 그런 놈이니까 그런 중에 이런 정황이 보이니까 시간을 아끼기 위해서라는 말 이외에는 설명이 안 될 정도로 전서구의 살해 과정과 해치의 진실이 밝혀지는 과정이 짧고 얕습니다 베테랑 1편이 서도철이 사건을 재구성하며 진실을 파헤치는 등 수사물의 재미도 중요시했음을 생각하면 좀 의아한 부분이에요 이렇게 절약한 시간으로 무얼 하는가 억울하게 나쁜 사람으로 몰린 투이와 서도철 아들 이야기가 전개되는데 이 영화 까지가 많아도 너무 많습니다 투이의 이야기와 서도철 아들 이야기가 사족 같다고 느끼신 분들이 있으실 텐데 두 서브 플롯 모두 메인 플롯에 융화되지 못한 어떤 시도의 흔적 같은 느낌이 강하기 때문입니다 어떤 시도란 서도철 박선우의 캐릭터를 입체적으로 만드는 시도인데 아마도 투이와 서도철의 아들 이야기가 쓰여진 시기에 쓰인 각본과 최종 결과물을 비교해 내면 큰 차이가 있으리라 봅니다 투이는 박선우가 정당성을 잃게 만드는 요소이자 서도철의 한계를 보여주는 장치입니다 해치 사건을 쫓느라 너무 바빴던 서도철이 투이에게 약속했던 스마트워치나 방법을 세우지 못했고 그 결과로 투이가 납치되었다는 점이 서도철의 한계를 그려내며 누명을 쓴 것에 불과한 투이 가지고 직쏘 빙의를 하는 박선우의 모습은 그가 옳은 신념을 가진 사적 제재자 쉽게 말해 배트맨 같은 존재가 아님을 보여주는 장치이기도 하죠 서도철의 아들 역시 마찬가지입니다 서도철이 형사로서 가진 카리스마의 이면에 담긴 부족한 가장으로서의",
+  "movie_id": "베테랑2",
+  "reviewer": "튜나",
+  "chunk_index": 4,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "박선우",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "박선우는 해치를 과격하게 체포하고, 전서구에게 전화를 걸어 열쇠 위치를 알려주는 인물로, 투이를 이용해 직쏘처럼 행동하는 사적 제재자이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "서도철",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "서도철은 형사 팀의 리더로, 해치 사건을 수사하며 투이에게 약속을 지키지 못해 한계를 보여주는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "해치",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "해치는 추격전 끝에 체포되는 인물로, 나중에 가짜로 밝혀지며 자작극의 일부였던 것으로 드러난다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "전서구",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "전서구는 경찰의 보호를 받다가 박선우의 전화를 받고 열쇠 위치를 확인한 뒤 탈주하여 다음 날 아침 시체로 발견되는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "투이",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "투이는 억울하게 나쁜 사람으로 몰린 인물로, 서도철이 약속을 지키지 못해 납치되며 박선우의 정당성을 잃게 만드는 요소이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "서도철 아들",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "서도철의 아들로, 서도철이 형사로서의 카리스마 이면에 부족한 가장임을 보여주는 서브 플롯의 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "정의 부장",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "정의 부장은 서도철이 찾아가 자작극 여부를 확인하는 대상이 되는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "베테랑",
+      "entity_type": "MOVIE",
+      "entity_description": "베테랑은 서도철이 주인공인 영화 시리즈로, 1편에서는 사건 재구성과 수사물의 재미를 중요시했다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "박선우",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "해치",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "박선우가 해치를 과격하게 체포했다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "박선우",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "전서구",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "박선우가 전서구에게 전화를 걸어 열쇠 위치를 알려주고 탈출시켰다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "박선우",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "투이",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "박선우가 투이를 이용해 직쏘처럼 사적 제재를 가한다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "서도철",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "해치",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "서도철 팀이 해치 사건을 수사했다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "서도철",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "투이",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "서도철이 투이에게 약속을 지키지 못해 투이가 납치되었다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "서도철",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "서도철 아들",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "서도철 아들은 서도철의 부족한 가장으로서의 면모를 보여주는 인물이다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "서도철",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "정의 부장",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "서도철이 정의 부장을 찾아가 자작극 여부를 확인했다",
+      "relationship_strength": 6
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "서도철",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "베테랑",
+      "target_type": "MOVIE",
+      "relationship_description": "서도철은 베테랑 시리즈의 주인공이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "박선우",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "베테랑",
+      "target_type": "MOVIE",
+      "relationship_description": "박선우는 베테랑 영화의 등장인물이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "투이",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "베테랑",
+      "target_type": "MOVIE",
+      "relationship_description": "투이는 베테랑 영화의 서브 플롯 인물이다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "전서구",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "베테랑",
+      "target_type": "MOVIE",
+      "relationship_description": "전서구는 베테랑 영화의 등장인물이다",
+      "relationship_strength": 8
+    }
+  ],
+  "entity_resolution": {
+    "박선우": {
+      "description": "박선우 -> 박선우",
+      "resolved_name": "박선우",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "서도철": {
+      "description": "서도철 -> 서도철",
+      "resolved_name": "서도철",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "해치": {
+      "description": "해치 -> 박선우",
+      "resolved_name": "박선우",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "전서구": {
+      "description": "전서구 -> 전석우",
+      "resolved_name": "전석우",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "투이": {
+      "description": "투이 -> 투이",
+      "resolved_name": "투이",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "서도철 아들": {
+      "description": "서도철 아들 -> 서도철 아들",
+      "resolved_name": "서도철 아들",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "정의 부장": {
+      "description": "정의 부장 -> 박승환 (에디터 저스티스)",
+      "resolved_name": "박승환 (에디터 저스티스)",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "베테랑": {
+      "description": "베테랑 -> 베테랑2",
+      "resolved_name": "베테랑2",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "name_exact"
+    }
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "chunk_hash": "cf92d9bb23e743",
+  "chunk_id": "무드킹_cf92d9bb23e743_75413bd1",
+  "user_query": "know I'm involved in certain business ventures. I told you it was just alone. Your hotel deals have been delayed. Well, this is an advance. We just take it. Look, soon this place will be back on its feet and you won't be so dependent on me. Who's going to run things? Oh, Dad, give me a break. I mean, I've stuck it out here all these years even though it's not from me. But this one is different, Dad. And I'm just mad about the girl. 한편 테리가 하워드로부터 스포츠 매장 사업에 투자받기로 한 이야기를 전하자 케이트는 크게 기뻐하죠. 그리고 잠시 뒤 마틴을 제거하기 위해 출발하는 형제. Just do it, brother, before I change my mind. Are you too drunk to handle this? Terry, I said I'm fine. Can you handle this? The state you're in. Worry about yourself. You got the address? Yeah, got it. Don't worry about the restaurant. Drinked about the boys last night again when they were younger. There he is. You don't let him see his m for the last time. You're drunk, Terry. Look, we've probably missed our last opportunity now. We're getting when he comes out. You're not a big shot. Small stakes player. You don't care about anyone in this world except yourself. What are you shut up? K. [음악] Mr. Burns. Oh, that's right. I remember you. Howard's nephew. That's right. Do it now. Do it now. [음악] What you thinking? Then was then and now is now. We've done it and it's over. much 그러나 테리는 쉽게 잠들지 못하고 하워드는 이들에게 보상을 제시하지만 테리가 괜찮다며 거절합니다. 얼마 뒤 이안은 안젤라의 부모님을 만나고 very hope so 이안은 새로운 삶이 펼쳐질 기대감에 한껏 들떠 있었지만 테리는 그렇지 않았는데 >> 이후에도 테리는 항상 신경이 곤두서 있었고 Someone den it need with",
+  "movie_id": "카산드라 드림",
+  "reviewer": "무드킹",
+  "chunk_index": 4,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "테리",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "테리는 하워드로부터 스포츠 매장 사업 투자를 받기로 한 인물로, 마틴을 제거하는 임무에 참여하며 이후 쉽게 잠들지 못하고 항상 신경이 곤두서 있는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "하워드",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "하워드는 스포츠 매장 사업에 투자하는 인물로, 테리와 그의 형제에게 보상을 제시하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "케이트",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "케이트는 테리가 하워드로부터 투자받기로 한 소식을 듣고 크게 기뻐하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "이안",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "이안은 테리의 형제로, 마틴 제거에 참여하며 안젤라의 부모님을 만나고 새로운 삶에 대한 기대감에 들떠 있는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "마틴",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "마틴은 테리와 이안 형제가 제거하려는 대상 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "안젤라",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "안젤라는 이안이 좋아하는 여성으로, 이안이 그녀의 부모님을 만나게 되는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "MR. BURNS",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Mr. Burns는 하워드의 조카를 기억하는 인물로, 테리와 이안이 마주치는 인물이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "테리",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "하워드",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "테리는 하워드로부터 스포츠 매장 사업 투자를 받기로 했다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "테리",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "케이트",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "케이트는 테리의 투자 소식을 듣고 기뻐한다",
+      "relationship_strength": 6
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "테리",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "이안",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "테리와 이안은 형제로서 함께 마틴을 제거하러 간다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "테리",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "마틴",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "테리는 마틴을 제거하기 위해 출발한다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "이안",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "마틴",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "이안은 테리와 함께 마틴을 제거하는 임무에 참여한다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "이안",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "안젤라",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "이안은 안젤라를 좋아하며 그녀의 부모님을 만난다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "하워드",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "MR. BURNS",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Mr. Burns는 하워드의 조카를 알아본다",
+      "relationship_strength": 5
+    }
+  ],
+  "entity_resolution": {
+    "테리": {
+      "description": "테리 -> 테리",
+      "resolved_name": "테리",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "하워드": {
+      "description": "하워드 -> 하워드 스타크",
+      "resolved_name": "하워드 스타크",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "케이트": {
+      "description": "케이트 -> Kat",
+      "resolved_name": "Kat",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "이안": {
+      "description": "이안 -> 이안",
+      "resolved_name": "이안",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "마틴": {
+      "description": "마틴 -> 마틴",
+      "resolved_name": "마틴",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "안젤라": {
+      "description": "안젤라 -> 안젤라",
+      "resolved_name": "안젤라",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "MR. BURNS": {
+      "description": "MR. BURNS -> MR. BURNS",
+      "resolved_name": "MR. BURNS",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

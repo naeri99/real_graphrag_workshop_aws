@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "테리 첸",
+    "synonym": [
+      "Terry Chen",
+      "첸",
+      "테리",
+      "테리 챈",
+      "테리 천",
+      "테리 첸",
+      "테리 쳰",
+      "테리천",
+      "테리첸",
+      "테리쳰"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "테리 첸은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

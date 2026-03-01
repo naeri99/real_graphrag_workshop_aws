@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "필리스 맥마혼",
+    "synonym": [
+      "Phyllis MacMahon",
+      "Phyllis McMahon",
+      "맥마혼",
+      "필리스",
+      "필리스 맥마온",
+      "필리스 맥마혼",
+      "필리스 맥마흔",
+      "필리스맥마혼",
+      "필리스맥마흔"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "필리스 맥마혼은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

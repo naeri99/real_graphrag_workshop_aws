@@ -1,0 +1,29 @@
+{
+  "entity": {
+    "name": "캐시 웹 / 마담 웹",
+    "synonym": [
+      "Cassandra",
+      "Cassandra Webb",
+      "Cassie Webb",
+      "Madame Web",
+      "마담 웹",
+      "마담웹",
+      "웹",
+      "카산드라",
+      "카산드라 웹",
+      "카시 웹",
+      "캐산드라",
+      "캐산드라 웹",
+      "캐시",
+      "캐시 웨브",
+      "캐시 웹",
+      "캐시 웹 / 마담 웹",
+      "캐시웹",
+      "캐씨 웹"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "캐시 웹 / 마담 웹은 영화 '마담 웹'의 등장인물로, 다코타 존슨이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

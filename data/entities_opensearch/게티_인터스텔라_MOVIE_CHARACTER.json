@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "게티",
+    "synonym": [
+      "Dr. Getty",
+      "Getty",
+      "게디",
+      "게티",
+      "게티 박사",
+      "게티의사",
+      "겟티",
+      "닥터 게티"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "게티은 영화 '인터스텔라'의 등장인물로, 토퍼 그레이스이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

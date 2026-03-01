@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "아이 로봇",
+    "synonym": [
+      "I",
+      "I Robot",
+      "Robot",
+      "로봇",
+      "아이",
+      "아이 로보트",
+      "아이 로봇",
+      "아이로보트",
+      "아이로봇"
+    ],
+    "entity_type": "MOVIE",
+    "summary": "아이 로봇",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

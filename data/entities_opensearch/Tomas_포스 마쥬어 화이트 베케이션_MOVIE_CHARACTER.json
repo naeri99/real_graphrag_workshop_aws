@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "Tomas",
+    "synonym": [
+      "Tomas",
+      "가장",
+      "남편",
+      "아빠",
+      "토마",
+      "토마스",
+      "토마스 역",
+      "토머스"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "Tomas은 영화 '포스 마쥬어 화이트 베케이션'의 등장인물로, 요하네스 바 쿤게이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "entity": {
+    "name": "톰",
+    "synonym": [
+      "Thomas",
+      "Tom",
+      "Tom Goode",
+      "Tom Holland",
+      "탐",
+      "토마스",
+      "토미",
+      "톰",
+      "톰 구드",
+      "톰 굿",
+      "톰구드",
+      "톰홀랜드",
+      "홀랜드"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "톰은 영화 '에브리바디스 파인'의 등장인물로, 제임스 프레인이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

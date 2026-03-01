@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "맥켄지 밀론",
+    "synonym": [
+      "Mackenzie Millon",
+      "Mackenzie Milone",
+      "Milone",
+      "매켄지 밀론",
+      "맥켄지 마일론",
+      "맥켄지 밀런",
+      "맥켄지 밀론",
+      "맥켄지밀론",
+      "밀론"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "맥켄지 밀론은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

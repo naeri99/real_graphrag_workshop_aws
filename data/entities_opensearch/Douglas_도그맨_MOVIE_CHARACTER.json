@@ -1,0 +1,23 @@
+{
+  "entity": {
+    "name": "Douglas",
+    "synonym": [
+      "Dog Man",
+      "Doug",
+      "Douglas",
+      "더그",
+      "더글라스",
+      "더글러스",
+      "덕",
+      "덕글라스",
+      "덕라스",
+      "도그",
+      "도그맨",
+      "도글라스"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "Douglas은 영화 '도그맨'의 등장인물로, 케일럽 랜드리 존스이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

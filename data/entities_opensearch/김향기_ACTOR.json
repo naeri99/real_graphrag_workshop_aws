@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "김향기",
+    "synonym": [
+      "Kim Hyang-gi",
+      "Kim Hyanggi",
+      "김 냄새",
+      "김 향기",
+      "김냄새",
+      "김향 기",
+      "김향기",
+      "김향기 배우",
+      "김향기 양",
+      "향기"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "김향기은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

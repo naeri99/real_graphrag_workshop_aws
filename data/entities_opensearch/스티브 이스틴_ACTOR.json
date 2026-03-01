@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "스티브 이스틴",
+    "synonym": [
+      "Steve Eastin",
+      "Steve Easton",
+      "Steve McQueen",
+      "맥퀸",
+      "스티브",
+      "스티브 맥퀸",
+      "스티브 이스틴",
+      "스티브맥퀸",
+      "스티브이스틴",
+      "이스틴"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "스티브 이스틴은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

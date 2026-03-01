@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "부러움",
+    "synonym": [
+      "Envy",
+      "부러움",
+      "부러움 감정",
+      "부러움 캐릭터",
+      "부러움이",
+      "부럽이",
+      "엔비",
+      "질투"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "부러움은 영화 '인사이드 아웃 2'의 등장인물로, 아요 에데비리이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

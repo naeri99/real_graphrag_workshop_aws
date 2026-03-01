@@ -1,0 +1,13 @@
+{
+  "entity": {
+    "name": "무빕체인_블랙",
+    "synonym": [
+      "무빕체인_블랙",
+      "무빕체인 블랙"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "무빕체인_블랙은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

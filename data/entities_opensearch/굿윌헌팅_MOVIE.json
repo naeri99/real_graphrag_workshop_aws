@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "굿윌헌팅",
+    "synonym": [
+      "Good Will Hunting",
+      "굿 윌 헌팅",
+      "굿 윌헌팅",
+      "굿월헌팅",
+      "굿윌 헌팅",
+      "굿윌헌팅",
+      "윌헌팅",
+      "좋은 윌 헌팅"
+    ],
+    "entity_type": "MOVIE",
+    "summary": "굿윌헌팅",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

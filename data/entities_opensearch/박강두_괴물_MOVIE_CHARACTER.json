@@ -1,0 +1,23 @@
+{
+  "entity": {
+    "name": "박강두",
+    "synonym": [
+      "Gang-du",
+      "Gangdu",
+      "Park Gang-du",
+      "강두",
+      "강두씨",
+      "강두아빠",
+      "강두야",
+      "강두형",
+      "박 강두",
+      "박강 두",
+      "박강두",
+      "박강두 캐릭터"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "박강두은 영화 '괴물'의 등장인물로, 송강호이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "entity": {
+    "name": "케빈 킬러",
+    "synonym": [
+      "Kevin",
+      "Kevin Keeler",
+      "Kevin Keelor",
+      "케빈",
+      "케빈 킬러",
+      "케빈킬러",
+      "킬러"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "케빈 킬러은 영화 '더 기프트'의 등장인물로, 팀 그리핀이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

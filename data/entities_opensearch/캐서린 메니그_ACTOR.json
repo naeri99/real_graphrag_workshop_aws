@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "캐서린 메니그",
+    "synonym": [
+      "Katherine Moenig",
+      "Katherine Moennig",
+      "Moennig",
+      "메니그",
+      "캐더린 메니그",
+      "캐서린 메니그",
+      "캐서린 메닉",
+      "캐서린 모닉",
+      "캐서린 모에닉",
+      "캐서린메니그",
+      "케서린 메니그"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "캐서린 메니그은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

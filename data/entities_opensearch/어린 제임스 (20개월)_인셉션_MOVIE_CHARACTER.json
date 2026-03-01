@@ -1,0 +1,24 @@
+{
+  "entity": {
+    "name": "어린 제임스 (20개월)",
+    "synonym": [
+      "20개월 제임스",
+      "Baby James",
+      "James 20 months",
+      "Young James 20months",
+      "아기 제임스",
+      "어린 제임스",
+      "어린 제임스 (20개월)",
+      "어린 제임스 20개월",
+      "어린 제임즈 20개월",
+      "어린제임스20개월",
+      "영 제임스 20개월",
+      "유아 제임스",
+      "제임스 20개월"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "어린 제임스 (20개월)은 영화 '인셉션'의 등장인물로, 조나단 기어만이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

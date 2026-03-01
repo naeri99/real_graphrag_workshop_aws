@@ -1,0 +1,93 @@
+{
+  "chunk_hash": "a2ca72f5aa7238",
+  "chunk_id": "어쩌다영화한편_a2ca72f5aa7238_d81ca479",
+  "user_query": "my friend Suzanne how's that [Music] [Music] it'd be so ironic if I strangled [Music] Lindsay hey why her God's sake was good because you don't have the first clue what you were doing because I'm an idiot could have died don't tell me your secretly Noble I'm not and I didn't want to feel guilty for the rest of my life about not having saved you I don't want to think of myself as selfish foreign I'm sorry I don't know what that was what the [ __ ] come on oh I'm sorry it makes me think about how long I've gone without it which makes me want to kill myself how long it's been since I've been touched with affection by another human being I don't have protection why would you have a condom today what if you got pregnant I'm sure my womb is awesome well who cares I mean how much worse can things get okay yeah okay [Applause] why don't we go to your room and crack open your mini bar [Music] don't you think it just starts to look a little ridiculous just wondered why they give you two glasses even when you're traveling alone here's to what is when you've said before that I was an attractive woman what did you mean your facial features subscribe to the golden ratio one to the quantity one half times radical five plus one and you have the faults of Aphrodite graceful way that the cheeks of beautiful women arrange themselves when they smile aesthetically drilling I've never heard the term fold some Aphrodite I Googled around and there was no name for it so I coined it it's established",
+  "movie_id": "데스티네이션 웨딩",
+  "reviewer": "어쩌다영화한편",
+  "chunk_index": 5,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "SUZANNE",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Suzanne는 대화에서 언급되는 친구 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "LINDSAY",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Lindsay는 장면에서 언급되는 여성 캐릭터로, 다른 인물이 목 졸라 죽이고 싶다고 농담하는 대상이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "UNNAMED MALE CHARACTER",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "이름이 밝혀지지 않은 남성 캐릭터로, 여성을 구했으며 자신이 이기적이지 않다고 말하고, \"아프로디테의 주름\"이라는 용어를 만들어낸 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "UNNAMED FEMALE CHARACTER",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "이름이 밝혀지지 않은 여성 캐릭터로, 오랫동안 애정 어린 접촉을 받지 못했다고 언급하며, 황금비율의 얼굴 특징을 가진 매력적인 여성으로 묘사된다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "UNNAMED MALE CHARACTER",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "LINDSAY",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "남성 캐릭터가 Lindsay를 구했으며 그녀의 행동이 위험했다고 꾸짖는다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "UNNAMED MALE CHARACTER",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "UNNAMED FEMALE CHARACTER",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "두 캐릭터는 친밀한 대화를 나누며 신체적 관계를 갖고 미니바에서 함께 술을 마신다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "UNNAMED FEMALE CHARACTER",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "SUZANNE",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "여성 캐릭터가 Suzanne를 자신의 친구로 언급한다",
+      "relationship_strength": 5
+    }
+  ],
+  "entity_resolution": {
+    "SUZANNE": {
+      "description": "SUZANNE -> SUZANNE",
+      "resolved_name": "SUZANNE",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "LINDSAY": {
+      "description": "LINDSAY -> LINDSAY",
+      "resolved_name": "LINDSAY",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "UNNAMED MALE CHARACTER": {
+      "description": "UNNAMED MALE CHARACTER -> UNNAMED MALE CHARACTER",
+      "resolved_name": "UNNAMED MALE CHARACTER",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "UNNAMED FEMALE CHARACTER": {
+      "description": "UNNAMED FEMALE CHARACTER -> UNNAMED FEMALE CHARACTER",
+      "resolved_name": "UNNAMED FEMALE CHARACTER",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "chunk_hash": "654e9a54e4edc5",
+  "chunk_id": "구불_654e9a54e4edc5_9c3bb816",
+  "user_query": "지 하지만 한결같은 우연의 모습에 결국 승희도 마음을 열게 됩니다 이제 두 사람은 알콩달콩한 행복한 커플이 되는데요 뭐야 아우 먹여주는 남자친구 옷 해주려 [음악] 그러지 옷도 3초 만에 갈아입습니다 그러나 행복도 잠시 우연은 거듭되는 취업 실패로 똥줄이 타는데요 여기가 그렇게 갑자기 오고 싶었어 항상 그대로 있을 곳이잖아 하지만 이미 멘탈이 박살난 우연은 난 몇십 년 후까지 걱정할 여유가 없어서 더 이상 승희의 마음을 헤아려 주지 못해요 그리고 승희는 어렵게 말을 꺼내는데 나 회사에서 연수 가래 벨기에 얼마나 길면 한 3년 다 갔다 오면 가지 말라면 안 갈 거야 어차피 갈 거잖아 결국 승희 역시 달라진 우연의 태도에 점점 지쳐만 갑니다 얼마 뒤 승희의 아버지가 돌아가시고 혼자 남게 된 승희가 의지할 곳이라곤 잠은 좀 잤어 우연 밖에 없었어요 오 아들이야 당연히 아들이지 인마 그러나 우연 역시 잘 나가는 친구들 사이에서 너 요새 왜 그래 초라한 자신의 모습에 자격지심을 느낍니다 결국 우연은 해서는 안 될 말을 꺼내고 나 승희 안 만났으면 어떻게 됐을까 그때 안 만났으면 안 다쳤을 거고 그럼 자격증 따서 취직 잘했을 거 아니야 내가 나중에 힘들 때마다 승희 만난 거 후회할까 봐 그게 겁나 그런데 하필 취했다고 나 때문에 승희가 이 대화를 듣고 있었던 거예요 그리고 승희는 근데 내가 그렇게 해 달랬어 다친 것도 다시 만난 것도 다 네가 선택한 거잖아 더 이상 우연을 믿을 수도 사랑할 수도 없게 됩니다 진짜 믿을 수가 없다 아빠가 꼭 그랬어 하는 일마다 안 되고 부도 난 걸 다 엄마 탓을 했어 그래서 승희는 우리 헤어지자 안 그럼 내가 후회할 거 같거든 우연에게 이별을 [음악] 고해요 며칠 뒤 우연은 승희를 찾아갑니다 그거 아직도 잘 되나 보네 그런데 승희는 우연이 선물해 줬던 MP3를 간직하고 있었어요 아빠가 술 취할 때마다 도망 나와서 이걸 들었어 엄마가 다 끝났다고 전화할 때까지 우연은 뒤늦게 승희에게 사과를 하지만 내가 정말 잘못했어 나 벨기에 그거 가기로 했어 잘됐네 어 난 기다리지 뭐 반성하는 셈 치면서 그러나 승희의 마음은 이미 우연을 떠난 뒤였죠 이것도 이제 약효가 다 됐나 보다 면접 잘 [음악] 봐 시간은 흘러 2018년이 되고 체육교사가 된 우연에게 누군가 찾아오는데 그것은 바로 승희였다 어색하게 안부를 물어요 야 너 그 정규직 됐다며 잘됐다 축하한다 대신 승희는 계속 머뭇거리고 무슨 얘기를 하려고 그 뜸을 들이냐 시집이라도 가냐 하지만 우연은 애써 태연한 척을 하죠 야 결혼해서 어 아들딸 쑥쑥 낳고 어 잘 살면 되겠다 어 고맙다 그렇습니다 영화 제목인 너의 결혼식은 바로 승희의 결혼식이었던 겁니다 그거 보내라 그 청첩장 이렇게 우연은 승희의 청첩장을 앞에 두고 보내란다고 이걸 진짜 보내냐 한없이 술만 합니다 직접 만나서 보고 청해 주는 게 예의인 거 같아서 웃기 싫네 이거 계획적 그렇죠 승희가 우연을 찾아온 이유는 앞으로 자기 앞에 얼씬도 하지 마라 눈앞에 나타나지 마라 어 그런 거 아니야 우연과의 관계를 확실히 정리하기",
+  "movie_id": "피끓는 청춘",
+  "reviewer": "구불",
+  "chunk_index": 6,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "우연",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "우연은 취업 실패로 힘들어하며 승희와 연인 관계였다가 헤어지고, 이후 체육교사가 된 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "승희",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "승희는 우연의 연인이었으나 우연의 상처주는 말에 이별을 고하고, 벨기에 연수를 다녀온 후 다른 사람과 결혼하게 되는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "너의 결혼식",
+      "entity_type": "MOVIE",
+      "entity_description": "너의 결혼식은 우연과 승희의 사랑과 이별, 그리고 승희의 결혼을 다룬 로맨스 영화이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "승희 아버지",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "승희의 아버지는 술에 취하면 엄마 탓을 하던 인물로, 작중에서 돌아가신다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "우연",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "너의 결혼식",
+      "target_type": "MOVIE",
+      "relationship_description": "우연은 너의 결혼식의 남자 주인공이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "승희",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "너의 결혼식",
+      "target_type": "MOVIE",
+      "relationship_description": "승희는 너의 결혼식의 여자 주인공이며 영화 제목의 '결혼식'의 주인공이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "우연",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "승희",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "우연과 승희는 연인 관계였다가 헤어지고, 승희는 다른 사람과 결혼하게 된다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "승희",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "승희 아버지",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "승희 아버지는 승희의 아버지로, 돌아가신 후 승희는 혼자 남게 된다",
+      "relationship_strength": 8
+    }
+  ],
+  "entity_resolution": {
+    "우연": {
+      "description": "우연 -> 우연",
+      "resolved_name": "우연",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "승희": {
+      "description": "승희 -> 승희",
+      "resolved_name": "승희",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "너의 결혼식": {
+      "description": "너의 결혼식 -> 너의 결혼식",
+      "resolved_name": "너의 결혼식",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "승희 아버지": {
+      "description": "승희 아버지 -> 승희 부",
+      "resolved_name": "승희 부",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    }
+  }
+}

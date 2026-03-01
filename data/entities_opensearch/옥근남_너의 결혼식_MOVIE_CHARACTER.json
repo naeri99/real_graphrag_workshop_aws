@@ -1,0 +1,25 @@
+{
+  "entity": {
+    "name": "옥근남",
+    "synonym": [
+      "Geun-nam",
+      "Geunnam",
+      "Ok Geun-nam",
+      "Ok Geunnam",
+      "OkGeunNam",
+      "Okgeunnam",
+      "강기영 캐릭터",
+      "근남",
+      "근남이",
+      "옥 근남",
+      "옥근남",
+      "윤근",
+      "윤근이",
+      "윤근이 형"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "옥근남은 영화 '너의 결혼식'의 등장인물로, 강기영이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

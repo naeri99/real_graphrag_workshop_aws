@@ -1,0 +1,30 @@
+{
+  "entity": {
+    "name": "우연",
+    "synonym": [
+      "Woo Yeon",
+      "Woo-yeon",
+      "Wooyeon",
+      "wooyeon",
+      "구현",
+      "김영광 우연",
+      "김영광 캐릭터",
+      "남자 주인공",
+      "남주인공",
+      "우 연",
+      "우연",
+      "우연 역",
+      "우연 캐릭터",
+      "우연씨",
+      "우연이",
+      "의경",
+      "의원",
+      "황우연",
+      "후연"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "우연은 영화 '너의 결혼식'의 등장인물로, 김영광이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

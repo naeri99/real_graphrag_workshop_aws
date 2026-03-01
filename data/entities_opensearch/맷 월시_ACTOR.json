@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "맷 월시",
+    "synonym": [
+      "Matt",
+      "Matt Walsh",
+      "Matthew Walsh",
+      "Walsh",
+      "매트 월시",
+      "매트월시",
+      "맷 월시",
+      "맷월시",
+      "월시"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "맷 월시은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

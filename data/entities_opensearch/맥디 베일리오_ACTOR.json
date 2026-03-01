@@ -1,0 +1,18 @@
+{
+  "entity": {
+    "name": "맥디 베일리오",
+    "synonym": [
+      "Maddie Baillio",
+      "매디",
+      "매디 베일리오",
+      "맥디",
+      "맥디 베일리오",
+      "맥디베일리오",
+      "베일리오"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "맥디 베일리오은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

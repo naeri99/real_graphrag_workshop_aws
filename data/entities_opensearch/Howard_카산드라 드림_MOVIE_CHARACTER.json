@@ -1,0 +1,27 @@
+{
+  "entity": {
+    "name": "Howard",
+    "synonym": [
+      "Bryce Dallas Howard",
+      "Howard",
+      "Uncle Howard",
+      "달라스 하워드",
+      "브라이스 달라스 하워드",
+      "브라이스 하워드",
+      "브라이스달라스하워드",
+      "스타크",
+      "외삼촌 하워드",
+      "하와드",
+      "하워드",
+      "하워드 삼촌",
+      "하워드 스타크",
+      "하워드스타크",
+      "하워어드",
+      "호워드"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "Howard은 영화 '카산드라 드림'의 등장인물로, 톰 윌킨슨이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

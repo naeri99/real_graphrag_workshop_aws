@@ -1,0 +1,150 @@
+{
+  "chunk_hash": "24ab32e85602f5",
+  "chunk_id": "김단군_24ab32e85602f5_6be97303",
+  "user_query": "대한 서사가 좀 더 있었어야 되고 아무튼 그래요 그래서 저는 개인적으로 좀 아쉬웠습니다 영화가 좀 많이 아쉬웠어요 이게 시간이 상영 시간이 2시간 27분이 꽤 길어요 속도감 있어요 그래서 지루하진 않아 보면 쭉 보여져 근데 이게 그냥 넘어가는 거지 사실 아 너무 허술합니다 내용이 너무 허술하고 지도 많이 나오고 그 로마의 어떤 분위기라든지 그 당시 로마의 상황 전투신 이런 건 뭐 화려해 화려해 보이는데 솔직히 말하면 뽕맛이 없습니다 글래디에이터 1의 그 뽕맛이 없어 그래서 마지막에 얘가 결국에는 남자 주인공이 어찌저찌 다 해결하고 막 연설 같은 거 하잖아 마지막에 이제 저쪽 군대랑 이쪽 군대랑 대치하고 있단 말이야 막 대치하고 있는데 거기서 막 나와 함께 로마의 재건을 뭐 하면서 그 뽕맛 차는 그 연설 있죠 영화에 나오는 그 연설 있잖아 뭔지 알지 예를 들면 뭐 브레이브하트 같은 데서 막 연설하고 나 아니면은 뭐 반지의 제왕 같은 데서 장군이 앞에 나와가지고 막 나 따르라고 연설하는 거 있지 여기도 한단 말이야 여기서도 연설을 해 비슷한 걸 하거든 사실 거기서는 막 뽕맛이 차야 돼 약간 뽕맛이 올라와야 되는데 이 내용이 이렇게 허술하니까음 약간 아 그 뽕맛이 안 차요 뭔가 싹 끌어오르는 그게 없어 그러다 보니까 뭐 여기 뭐 해상 전투신도 나오고 이상한 동물들 코뿔소 막 싸우고 해 콜로세움에서 눈은 즐거워 뭐 눈도 즐겁고 볼거리도 있고 좋은데 아 저는 이 주인공의 어떤 이야기나 감정 변화가 설득력이 전혀 없다 그러다 보니까 덩달아서 이 배우가 맡은 이 주인공 역할도 포스가 없어 매력적이지가 않다 그리고 황제들도 사이코네스 사이코 뿐이야 여러분들 글래디에이터 1 보면은 호아킨 피닉스 또 빌런인데 쩔잖아 느낌 있잖아 뭔지 알지 러셀 크로우랑 딱 대적하는 인물 근데 여기는 황제가 그냥 그냥 미친 애들이라 별로 포스도 없고 나머지도 그렇게 눈에 띄는 조연은 없었어요 어 어이 얘 좀 매력적인데 없어요 제가 보기엔 그냥 덴젤 워싱턴 정도밖에 없어요 원숭이 그래 원숭이 매력적이다 어 원숭이 좀 매력적이야 난 솔직히 기대가 좀 내려놓고 봤어 왜냐면 글래디에이터 1이 워낙 띵작이라 그거를 뛰어넘을 거라고 기대도 안 했고요 조금 언저리만 가도 어 그냥 언저리만 가도 괜찮지 않을까 싶었는데 초반은 좀 그런 느낌 났거든 어 내 생각보다 좀 괜찮은데 얘가 처음에 노예로 잡혀와서 이제 전투하고 이럴 때까진 괜찮은데 그리고 나는 얘가 얘 아들인지도 몰랐어 솔직히 말하면 나는 아예 시놉시스 보도자료 같은 거 아예 안 봤기 때문에 얘가 얘 아들일 거라고 생각 못 하다가 어 얘 아들인 거야 그래서 오 이거 좀 흥미진진한데 어 약간 아침 드라마 느낌 나는데 했는데 거기서 갑자기 주인공이 확 아무 얘기 없이 확 돌변하는 거 보고 어씨 뭐야 왜 이렇게 어스레 영화가 너무 실망했어 했어요 그래서 솔직히 말하면 여기 전투신들도 화려하긴 화려한데 뽕맛이 없어요 막 코뿔소랑 싸우는 것도 화려하고 그 해상에서 싸우는 거 있죠 콜로세움 물 채워 놓고 그 상어 돌아다니고 거기서 막",
+  "movie_id": "글래디에이터 2",
+  "reviewer": "김단군",
+  "chunk_index": 5,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "글래디에이터 1",
+      "entity_type": "MOVIE",
+      "entity_description": "글래디에이터 1은 리들리 스콧 감독의 2000년 작품으로, 띵작으로 평가받는 영화이다. 강렬한 연설 장면과 뽕맛 있는 전투신으로 유명하다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "글래디에이터 2",
+      "entity_type": "MOVIE",
+      "entity_description": "글래디에이터 2는 상영 시간 2시간 27분의 속편으로, 로마 배경의 전투신, 해상 전투, 콜로세움에서 코뿔소와 싸우는 장면 등 화려한 볼거리가 있으나 스토리가 허술하다는 평가를 받는다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "호아킨 피닉스",
+      "entity_type": "ACTOR",
+      "entity_description": "호아킨 피닉스는 글래디에이터 1에서 빌런 역할을 맡아 포스 있는 연기를 보여준 배우이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "러셀 크로우",
+      "entity_type": "ACTOR",
+      "entity_description": "러셀 크로우는 글래디에이터 1의 주인공으로, 호아킨 피닉스와 대적하는 인물을 연기했다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "덴젤 워싱턴",
+      "entity_type": "ACTOR",
+      "entity_description": "덴젤 워싱턴은 글래디에이터 2에서 눈에 띄는 조연으로 유일하게 매력적인 배우로 언급되었다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "브레이브하트",
+      "entity_type": "MOVIE",
+      "entity_description": "브레이브하트는 뽕맛 있는 연설 장면으로 유명한 영화로 언급되었다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "반지의 제왕",
+      "entity_type": "MOVIE",
+      "entity_description": "반지의 제왕은 장군이 앞에 나와서 연설하는 뽕맛 있는 장면으로 유명한 영화로 언급되었다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "글래디에이터 2",
+      "source_type": "MOVIE",
+      "target_entity": "글래디에이터 1",
+      "target_type": "MOVIE",
+      "relationship_description": "글래디에이터 2는 글래디에이터 1의 속편이며, 1편의 뽕맛을 따라가지 못한다는 평가를 받는다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "호아킨 피닉스",
+      "source_type": "ACTOR",
+      "target_entity": "글래디에이터 1",
+      "target_type": "MOVIE",
+      "relationship_description": "호아킨 피닉스는 글래디에이터 1에서 빌런 역할을 연기했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "러셀 크로우",
+      "source_type": "ACTOR",
+      "target_entity": "글래디에이터 1",
+      "target_type": "MOVIE",
+      "relationship_description": "러셀 크로우는 글래디에이터 1의 주인공을 연기했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "호아킨 피닉스",
+      "source_type": "ACTOR",
+      "target_entity": "러셀 크로우",
+      "target_type": "ACTOR",
+      "relationship_description": "호아킨 피닉스와 러셀 크로우는 글래디에이터 1에서 대적하는 관계로 연기했다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "덴젤 워싱턴",
+      "source_type": "ACTOR",
+      "target_entity": "글래디에이터 2",
+      "target_type": "MOVIE",
+      "relationship_description": "덴젤 워싱턴은 글래디에이터 2에서 유일하게 매력적인 조연으로 출연했다",
+      "relationship_strength": 8
+    }
+  ],
+  "entity_resolution": {
+    "글래디에이터 1": {
+      "description": "글래디에이터 1 -> 글래디에이터 2",
+      "resolved_name": "글래디에이터 2",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "글래디에이터 2": {
+      "description": "글래디에이터 2 -> 글래디에이터 2",
+      "resolved_name": "글래디에이터 2",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "호아킨 피닉스": {
+      "description": "호아킨 피닉스 -> 호아킨 피닉스",
+      "resolved_name": "호아킨 피닉스",
+      "entity_type": "ACTOR",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "러셀 크로우": {
+      "description": "러셀 크로우 -> 러셀 크로우",
+      "resolved_name": "러셀 크로우",
+      "entity_type": "ACTOR",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "덴젤 워싱턴": {
+      "description": "덴젤 워싱턴 -> 덴젤 워싱턴",
+      "resolved_name": "덴젤 워싱턴",
+      "entity_type": "ACTOR",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "브레이브하트": {
+      "description": "브레이브하트 -> 브레이브하트",
+      "resolved_name": "브레이브하트",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "반지의 제왕": {
+      "description": "반지의 제왕 -> 반지의 제왕",
+      "resolved_name": "반지의 제왕",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

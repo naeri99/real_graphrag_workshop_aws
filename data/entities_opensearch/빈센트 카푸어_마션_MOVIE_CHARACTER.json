@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "빈센트 카푸어",
+    "synonym": [
+      "Kapoor",
+      "Venkat Kapoor",
+      "Vincent",
+      "Vincent Kapoor",
+      "벤캇 카푸어",
+      "빈센트",
+      "빈센트 카푸르",
+      "빈센트 카푸어",
+      "빈센트카푸어",
+      "카푸어",
+      "카푸어 박사"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "빈센트 카푸어은 영화 '마션'의 등장인물로, 치웨텔 에지오포이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

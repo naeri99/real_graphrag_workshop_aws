@@ -1,0 +1,208 @@
+{
+  "chunk_hash": "753a591bf691cb",
+  "chunk_id": "무드킹_753a591bf691cb_e0e1a741",
+  "user_query": "[음악] 워싱턴 DC 경찰국 범죄심리학 전문가인 알렉스 크로스 박사가 연쇄 살인마를 잡기 위해 동료 형사와 함정수사를 펼칩니다 그런데 범인이 형사에게 손을 대는 순간 무기를 발견합니다 함정수사 발각 급하게 범인을 추격하는 경찰들 때 난간에 차가 매달리고 급하게 알렉스와 동료들이 뛰어갑니다 [음악] 결국 차는 추락하고 알렉스는 큰 충격을 받습니다 영화 스파이더 게임 시작합니다 손지 선생님이 학생들에게 찰스 린드버그에 대해 인터넷으로 조사해 보라고 이야기합니다 이 학교에는 상원의원의 딸 메건이 다니고 있었고 선생님 몰래 친구 드미트리와 암호화된 메신저 채팅을 합니다 손지 선생님은 메건과 드미트리가 커닝을 한 것을 안다고 말하는데 메건은 메신저만 했을 뿐이라며 부인합니다 그때 선생님이 메건에게 마취주사를 놓습니다 그때 학교 경호원인 제지 플래니건 메건이 없어진 것을 눈치채고 교사를 뒤쫓아 하고 메건을 납치합니다 [음악] 다른 경호원들도 긴급히 달려 나왔으나 간발의 차이로 손지를 놓치고 맙니다 한편 알렉스는 자신의 실수로 동료를 잃은 것에 대해 아직까지 죄책감을 갖고 있습니다 선생님으로 위장한 자가 메건에게 다가갑니다 [음악] 보트 안 상원의원에게 전화가 걸려옵니다 [음악] 전화를 건 사람은 손지고 알렉스를 사건에 끌어들입니다 [박수] [음악] 요구 사항이 들어 있습니다 이후 알렉스는 상원의원의 집으로 향하고 동료 경찰에게 설명을 듣고 학교 경호원인 제지 플래니건과 담당 FBI 요원 메건을 소개받습니다 [음악] 상원의원 로즈는 크게 화를 냅니다 [음악] 알렉스는 프로파일링을 하기 위해 제지에게 손지 어떤 사람이었는지 묻지만 손지는 너무나 평범한 선생님이었다고 말합니다 그리고 자신을 이번 사건 수사 파트너로 넣어달라고 부탁합니다 조제카 수사는 메건이 키보드를 칠 때마다 손지가 그걸 기록했다고 [음악] 말해줍니다 화면을 보던 알렉스는 뭔가를 발견합니다 메건 컴퓨터로 돌아와 과거 CCTV 기록을 보는데 교실에서 없어진 찰스 린드버그 사진을 발견합니다 [음악] [음악] 사진을 클릭하자 어떤 장소에 실시간 CCTV가 연결됩니다 [음악] 영상의 장소에는 수많은 증거들이 즐비했는데 알렉스는 이 상황이 거미처럼 잘 짜진 것 같다는 느낌을 받습니다 [음악] 대서양 횡단으로 유명한 찰스 린드버그는 한때 아들이 납치 당했었는데 당시의 납치범이 크게 유명해졌고 손지도 그것처럼 자신도 유명해지기 위해 메건을 납치한 것 같다고 말합니다 한편 인터폰에 건전지를 보고 뭔가를 떠올린 메건 메건은 싱크대에 컵을 놓는 척하고 가스레인지에 건전지를 놓습니다 그런데 손지가 누군가와 채팅을 [음악] 합니다 손지가 불을 끄는 사이 메건은 도망칩니다 [박수] [음악] 결국 메건은 다시 붙잡히게 되고 알렉스는 손지의 진짜 계획을 알아냅니다 손지의 목적은 바로 드미트리 드미트리는 러시아 대통령의 아들이었고 손지는 드미트리를 유인하기 위해 메건을 이용한 것이었습니다 [음악] 드미트리는 경호원의 감시를 피해 몰래 집 밖으로 빠져나갑니다 근처를 순찰하던 경찰을 손지가 불러세워 살해합니다 그때",
+  "movie_id": "카산드라 드림",
+  "reviewer": "무드킹",
+  "chunk_index": 1,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "알렉스 크로스",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "알렉스 크로스는 워싱턴 DC 경찰국 범죄심리학 전문가이자 박사로, 연쇄 살인마를 추적하고 프로파일링을 수행하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "스파이더 게임",
+      "entity_type": "MOVIE",
+      "entity_description": "스파이더 게임은 범죄심리학 전문가 알렉스 크로스가 납치 사건을 수사하는 내용의 영화이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "메건",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "메건은 상원의원의 딸로 학교에 다니다가 손지에게 납치당하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "손지",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "손지는 선생님으로 위장하여 메건을 납치한 범인으로, 찰스 린드버그 납치범처럼 유명해지려는 목적을 가진 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "드미트리",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "드미트리는 러시아 대통령의 아들로 메건의 친구이며, 손지의 진짜 목표물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "제지 플래니건",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "제지 플래니건은 학교 경호원으로 메건 납치 사건을 목격하고 알렉스의 수사 파트너가 되기를 원하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "상원의원 로즈",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "상원의원 로즈는 메건의 부모로 딸의 납치 소식에 크게 화를 내는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "조제카",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "조제카는 수사에 참여하여 손지가 메건의 키보드 입력을 기록했다는 정보를 알려주는 인물이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "알렉스 크로스",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "스파이더 게임",
+      "target_type": "MOVIE",
+      "relationship_description": "알렉스 크로스는 스파이더 게임의 주인공이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "메건",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "스파이더 게임",
+      "target_type": "MOVIE",
+      "relationship_description": "메건은 스파이더 게임에서 납치당하는 핵심 인물이다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "손지",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "스파이더 게임",
+      "target_type": "MOVIE",
+      "relationship_description": "손지는 스파이더 게임의 범인 역할이다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "손지",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "메건",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "손지는 메건을 납치하여 드미트리를 유인하려 했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "손지",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "드미트리",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "손지의 진짜 목표는 러시아 대통령의 아들인 드미트리였다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "메건",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "드미트리",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "메건과 드미트리는 암호화된 메신저로 채팅하는 친구 사이이다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "메건",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "상원의원 로즈",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "메건은 상원의원 로즈의 딸이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "제지 플래니건",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "메건",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "제지 플래니건은 메건의 학교 경호원으로 납치를 목격했다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "알렉스 크로스",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "손지",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "알렉스 크로스는 손지의 범행을 프로파일링하고 진짜 계획을 알아낸다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "알렉스 크로스",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "제지 플래니건",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "알렉스 크로스는 제지 플래니건에게 손지에 대해 질문하며 수사한다",
+      "relationship_strength": 7
+    }
+  ],
+  "entity_resolution": {
+    "알렉스 크로스": {
+      "description": "알렉스 크로스 -> 알렉스 크로스",
+      "resolved_name": "알렉스 크로스",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "스파이더 게임": {
+      "description": "스파이더 게임 -> 스파이더 게임",
+      "resolved_name": "스파이더 게임",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "메건": {
+      "description": "메건 -> 메건",
+      "resolved_name": "메건",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "손지": {
+      "description": "손지 -> 손지",
+      "resolved_name": "손지",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "드미트리": {
+      "description": "드미트리 -> 드미트리",
+      "resolved_name": "드미트리",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "제지 플래니건": {
+      "description": "제지 플래니건 -> 제지 플래니건",
+      "resolved_name": "제지 플래니건",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "상원의원 로즈": {
+      "description": "상원의원 로즈 -> 상원의원 로즈",
+      "resolved_name": "상원의원 로즈",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "조제카": {
+      "description": "조제카 -> 조제카",
+      "resolved_name": "조제카",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

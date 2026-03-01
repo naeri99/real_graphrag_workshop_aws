@@ -1,0 +1,26 @@
+{
+  "entity": {
+    "name": "앤드류 어윈",
+    "synonym": [
+      "Andrew",
+      "Andrew Erwin",
+      "Andrew Garfield",
+      "가필드",
+      "앤드루 어윈",
+      "앤드류",
+      "앤드류 감독",
+      "앤드류 어윈",
+      "앤드류 어윈 감독",
+      "앤드류 얼윈",
+      "앤드류 에르윈",
+      "앤드류가필드",
+      "앤드류어윈",
+      "어윈",
+      "어윈 감독"
+    ],
+    "entity_type": "MOVIE_STAFF",
+    "summary": "앤드류 어윈은 영화 감독입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

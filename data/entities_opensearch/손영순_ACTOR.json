@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "손영순",
+    "synonym": [
+      "Son Young-soon",
+      "Son Youngsoon",
+      "손 영순",
+      "손영순",
+      "손영순 배우",
+      "손영순 씨",
+      "손영순씨",
+      "영순"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "손영순은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "배두나",
+    "synonym": [
+      "Bae Doo-na",
+      "Bae Doona",
+      "Bae Du-na",
+      "Doona Bae",
+      "두나",
+      "배 두나",
+      "배두 나",
+      "배두나",
+      "배두나 배우",
+      "배두나씨"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "배두나은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

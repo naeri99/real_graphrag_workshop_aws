@@ -1,0 +1,13 @@
+{
+  "entity": {
+    "name": "Channel_Awesome",
+    "synonym": [
+      "Channel_Awesome",
+      "Channel Awesome"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "Channel_Awesome은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

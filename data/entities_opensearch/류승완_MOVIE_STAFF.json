@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "류승완",
+    "synonym": [
+      "Ryoo Seung-wan",
+      "Seung-wan Ryoo",
+      "감독 류승완",
+      "류 승완",
+      "류감독",
+      "류승 완",
+      "류승완",
+      "류승완 감독",
+      "류승완표",
+      "승완",
+      "액션 키드 류승완"
+    ],
+    "entity_type": "MOVIE_STAFF",
+    "summary": "류승완은 영화 감독입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

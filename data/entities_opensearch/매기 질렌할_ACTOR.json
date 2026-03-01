@@ -1,0 +1,23 @@
+{
+  "entity": {
+    "name": "매기 질렌할",
+    "synonym": [
+      "Maggie",
+      "Maggie Gyllenhaal",
+      "Maggie Ruth Gyllenhaal",
+      "마기 질렌할",
+      "매기",
+      "매기 길렌할",
+      "매기 길렌홀",
+      "매기 질렌할",
+      "매기 질렌홀",
+      "매기질렌할",
+      "매기질렌홀",
+      "질렌할"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "매기 질렌할은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

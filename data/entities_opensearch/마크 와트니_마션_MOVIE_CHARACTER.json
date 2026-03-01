@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "마크 와트니",
+    "synonym": [
+      "Mark Watney",
+      "Watney",
+      "마크",
+      "마크 와트니",
+      "마크 왓니",
+      "마크 워트니",
+      "마크와트니",
+      "마크왓니",
+      "와트니",
+      "왓니",
+      "워트니"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "마크 와트니은 영화 '마션'의 등장인물로, 맷 데이먼이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "chunk_hash": "bf3eba14d35b62",
+  "chunk_id": "리뷰엉이-_Owls_Review_bf3eba14d35b62_77d915ab",
+  "user_query": "제이슨 본의 도킹 실패로 우주선은 터져 버렸고 폭발의 여파로 제이슨 본은 그대로 화성까지 날아갔습니다 이때 제이슨 본은 생명체가 자랄 수 없는 척박한 화성에서 어떻게든 살아남아야 하는데요 그는 물을 만들고 온실을 만들고 화성의 토양 관리로 감자를 키워 냈습니다 그렇게 제이슨 본은 1년 이상을 화성에서 생존할 수 있었죠 과연 이게 어떻게 가능한 일일까 감자를 키워 내려면 여러 가지 조건이 필요하죠 땅도 필요하고요 적절한 상태의 퇴비도 필요하고 물도 필요합니다 와트니에게 가장 시급했던 일은 충분한 양의 산소를 확보하는 것이었습니다 산소가 있어야 숨도 가능하고 물도 만들 수 있거든요 그런데 화성에서 산소를 찾는 일은 와트니에게 생각보다 어려운 일은 아니었습니다 화성의 대기는 95%가 CO2 즉 이산화탄소 화성 기지에는 이산화탄소에서 산소를 분리하는 산소 발생기가 있는데 이것만 거치면 손쉽게 산소를 얻을 수 있죠 하지만 한 가지 문제는 화성의 공기가 너무 얇다는 것 화성의 기압은 지구 기압의 1% 수준에 불과하기 때문에 이산화탄소를 모으는 건 쉬운 일이 아닙니다 밖에서 공기를 들여오는 일도 거의 불가능하죠 그런데 마침 타이밍 좋게도 이산화탄소를 구형 용기에 저장해 놓은 게 있었고 마크 와트니는 이걸 막사에 연결해 가지고 이산화탄소를 시간당 0.5L씩 10화성일 동안 125L를 만들었습니다 이 이산화탄소를 산소발생기에 넣으면 산소 125L를 발생시킬 수 있는 거죠 이처럼 마크 와트니는 산소 공급 문제를 생각보다 쉽게 풀어 버렸습니다 재미있는 사실은 실제 우주정거장에서 산소를 공급하는 방법도 크게 다르지 않다는 점입니다 현재 국제 우주 정거장은 물을 전기 분해를 이용해서 산소와 수소로 분해하고 이산화탄소를 이용해서 다시 물을 만드는 순환 과정을 반복합니다 이렇게 자원들을 우주비행사들에게 끊임없이 순환하면서 공급하게 되죠 산소를 확보한 와트니는 이제 진짜 물을 만들기 시작합니다 마크 와트니가 물을 만드는 데 사용하는 방식은 로켓의 연료 하이드라진과 이리듐 촉매를 이용하는 방법 많은 분들이 이미 알고 계시듯이 물의 화학식은 H2O 수소 원자 2개 산소 원자 하나가 결합되어 있는 꼴이죠 하이드라진의 화학식은 N2H4 2개의 질소가 서로 마주보고 각 질소가 2개 수소를 갖고 있는 원소 구조를 갖고 있습니다 마크 와트니는 이리듐 촉매 위에 하이드라진을 분사했고 그렇게 하이드라진의 질소와 수소의 결합을 끊고 4개의 수소 원자를 발생시켰습니다 이제 4개의 수소 원자가 생겼고 산소발생기로 만든 산소와 결합시켜서 물을 만든 겁니다 영화에서 마크 와트니는 이 공식대로 물을 만들었는데요 말만 들으면 되게 쉬운 작업 같지만은 실제로는 상당한 어려움이 따르는 작업입니다 촉매로 사용했던 이리듐은 애초에 1200도 이상의 고온에서 가공이 가능한 물질이라서 영화처럼 조그만한 불로 만들어내는 것은 어림도 없고요 추가적으로 영화처럼 감자를 재배하기 위해서는 300에서 600L 정도의 수분이 필요한데 마크가 사용한 방법을 따르면 감자를 키우기 위한 충분한 양의 물을 얻기는 힘듭니다",
+  "movie_id": "마션",
+  "reviewer": "리뷰엉이-_Owls_Review",
+  "chunk_index": 1,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "제이슨 본",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "제이슨 본은 도킹 실패로 화성에 홀로 남겨져 척박한 환경에서 생존해야 하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "마크 와트니",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "마크 와트니는 화성에서 산소 발생기를 이용해 산소를 확보하고, 하이드라진과 이리듐 촉매를 이용해 물을 만들어 감자를 재배하며 생존하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "마션",
+      "entity_type": "MOVIE",
+      "entity_description": "마션은 화성에 홀로 남겨진 우주비행사가 과학적 방법으로 생존하는 내용을 다룬 SF 영화이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "제이슨 본",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "마션",
+      "target_type": "MOVIE",
+      "relationship_description": "제이슨 본은 마션의 등장인물로 화성에서 생존하는 주인공이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "마크 와트니",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "마션",
+      "target_type": "MOVIE",
+      "relationship_description": "마크 와트니는 마션의 주인공으로 화성에서 과학적 방법으로 생존한다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "제이슨 본",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "마크 와트니",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "제이슨 본과 마크 와트니는 동일 인물을 지칭하는 것으로 보이며, 화성에서 생존하는 주인공 캐릭터이다",
+      "relationship_strength": 10
+    }
+  ],
+  "entity_resolution": {
+    "제이슨 본": {
+      "description": "제이슨 본 -> 제이슨 본",
+      "resolved_name": "제이슨 본",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "마크 와트니": {
+      "description": "마크 와트니 -> 마크 와트니",
+      "resolved_name": "마크 와트니",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "마션": {
+      "description": "마션 -> 마션",
+      "resolved_name": "마션",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "name_exact"
+    }
+  }
+}

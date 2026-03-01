@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "Amanda Popper",
+    "synonym": [
+      "Amanda",
+      "Amanda Popper",
+      "아만다",
+      "아만다 파퍼",
+      "아만다 포퍼",
+      "아만다파퍼",
+      "아맨다 파퍼",
+      "어맨다",
+      "어맨다 파퍼",
+      "어맨다파퍼"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "Amanda Popper은 영화 '파퍼씨네 펭귄들'의 등장인물로, 칼라 구기노이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

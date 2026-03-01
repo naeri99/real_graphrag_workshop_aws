@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "에릭 스톨츠",
+    "synonym": [
+      "Eric",
+      "Eric Stoltz",
+      "스톨츠",
+      "에릭",
+      "에릭 스톨즈",
+      "에릭 스톨쯔",
+      "에릭 스톨츠",
+      "에릭스톨쯔",
+      "에릭스톨츠"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "에릭 스톨츠은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

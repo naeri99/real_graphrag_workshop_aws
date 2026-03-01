@@ -1,0 +1,15 @@
+{
+  "entity": {
+    "name": "김민자",
+    "synonym": [
+      "김 민자",
+      "김민 자",
+      "김민자",
+      "민자"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "김민자은 영화 '효자동이발사'의 등장인물로, 문소리이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

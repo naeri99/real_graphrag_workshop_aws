@@ -1,0 +1,115 @@
+{
+  "chunk_hash": "69cb335cc23c01",
+  "chunk_id": "무드킹_69cb335cc23c01_b483a267",
+  "user_query": "need anything I'm to me you have you put in one waste everybody's time That's you let go see some happy let watch Warner you got to hit inride kur wrong 그 어느 날 커트가 실수를 하는데 [음악] I don't much I I Love You To Yes How long out that doesn't me I don't know out I come back [음악] [음악] 정식으로 계약을 하게 된 커트는 세인트루이스로 이사를 왔고 [박수] [음악] 그런데 팀의 쿼터백인 그린이 쓰러지고 [음악] Thank you coach stand why team 00 million Put you the too old to be R to green to be a Pro you don't belong here If you give me a chance I will prove That To You make US a laughing st in LE You don't have what it takes so why in the world would I give you this shot because This is my because I know who I am and I know why I'm here it finally [음악] 버밀은 커트를 중심으로 팀을 운영하겠다고 수많은 기자들 앞에서 선언합니다 그리고 얼마 뒤 1999년 NFL 개막전이 열리고 get in here need hear this Before You Went out that field to my daddy kur you walk to the gas station In The snow you fix All my radios you Never give up on me you Never give up I drive my truck you play your football game that little boy hased all and so Will you [음악] [박수] [음악] this is the opp of for this the cer could be over green in the pocket all Warner finally makes a mist Hey Warner coach mar talk to you you know So hard on you I had to know you and guess what back sir And coach you can do this man we got this Let's get to [박수] work under [박수] pressure of the [박수] ouf Touch [박수] [박수] There's only minutes left in this game and he throws and goes Look at this got on the [박수] [음악] [박수] perfect got [음악] done The Old coach",
+  "movie_id": "아메리칸 언더독",
+  "reviewer": "무드킹",
+  "chunk_index": 5,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "커트",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "커트는 실수를 하기도 하지만 포기하지 않고 세인트루이스로 이사하여 정식 계약을 맺은 풋볼 선수 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "그린",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "그린은 팀의 쿼터백으로 경기 중 쓰러지는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "버밀",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "버밀은 커트를 중심으로 팀을 운영하겠다고 기자들 앞에서 선언하는 코치 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "워너",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "워너는 풋볼 경기에서 활약하는 쿼터백 선수 캐릭터로, 커트 워너를 지칭한다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "마이크 마츠",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "마츠 코치는 워너에게 엄격했지만 나중에 그를 인정하는 코치 캐릭터이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "커트",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "그린",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "그린이 쓰러진 후 커트가 팀의 쿼터백 역할을 맡게 된다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "버밀",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "커트",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "버밀은 커트를 중심으로 팀을 운영하겠다고 선언했다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "커트",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "워너",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "커트와 워너는 동일 인물(커트 워너)을 지칭한다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "마이크 마츠",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "워너",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "마츠 코치는 워너에게 엄격했지만 결국 그를 인정하게 된다",
+      "relationship_strength": 7
+    }
+  ],
+  "entity_resolution": {
+    "커트": {
+      "description": "커트 -> 커트 워너",
+      "resolved_name": "커트 워너",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "그린": {
+      "description": "그린 -> 그린",
+      "resolved_name": "그린",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "버밀": {
+      "description": "버밀 -> 딕 버마일",
+      "resolved_name": "딕 버마일",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "워너": {
+      "description": "워너 -> 수 워너",
+      "resolved_name": "수 워너",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "마이크 마츠": {
+      "description": "마이크 마츠 -> 마이크 마츠 코치",
+      "resolved_name": "마이크 마츠 코치",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "윤진하",
+    "synonym": [
+      "Yoon Jin-ha",
+      "Yun Jin-ha",
+      "Yun Jinha",
+      "배우 윤진하",
+      "윤 진하",
+      "윤진 하",
+      "윤진하",
+      "윤진하 배우",
+      "윤진하배우",
+      "윤진하씨",
+      "진하"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "윤진하은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

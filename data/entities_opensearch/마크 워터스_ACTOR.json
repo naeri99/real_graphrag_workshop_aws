@@ -1,0 +1,27 @@
+{
+  "entity": {
+    "name": "마크 워터스",
+    "synonym": [
+      "J.M. Robinson",
+      "Jeremy Mark Robinson",
+      "Mark Hamill",
+      "Mark Waters",
+      "로빈슨",
+      "루크 스카이워커 배우",
+      "마크 워터스",
+      "마크 워터스 감독",
+      "마크 워터즈",
+      "마크 해밀",
+      "마크워터스",
+      "마크해밀",
+      "워터스",
+      "제러미 마크 로빈슨",
+      "제레미 로빈슨",
+      "해밀"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "마크 워터스은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

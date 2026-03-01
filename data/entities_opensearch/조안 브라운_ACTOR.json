@@ -1,0 +1,18 @@
+{
+  "entity": {
+    "name": "조안 브라운",
+    "synonym": [
+      "Joan Brown",
+      "브라운",
+      "조안",
+      "조안 브라운",
+      "조안브라운",
+      "조앤 브라운",
+      "조앤브라운"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "조안 브라운은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

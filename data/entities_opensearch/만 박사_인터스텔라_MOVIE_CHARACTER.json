@@ -1,0 +1,26 @@
+{
+  "entity": {
+    "name": "만 박사",
+    "synonym": [
+      "Dr. Chandra",
+      "Dr. Mann",
+      "Hugh Mann",
+      "Mann",
+      "Mann 박사",
+      "닥터 만",
+      "닥터 찬드라",
+      "만",
+      "만 박사",
+      "만 박사님",
+      "만박사",
+      "맨 박사",
+      "찬드라",
+      "찬드라 박사",
+      "휴 만"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "만 박사은 영화 '인터스텔라'의 등장인물로, 맷 데이먼이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

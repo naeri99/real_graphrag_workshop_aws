@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "카일 무니",
+    "synonym": [
+      "Kyle",
+      "Kyle Mooney",
+      "무니",
+      "카일",
+      "카일 무네",
+      "카일 무네이",
+      "카일 무니",
+      "카일무니"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "카일 무니은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

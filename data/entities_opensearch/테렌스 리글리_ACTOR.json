@@ -1,0 +1,17 @@
+{
+  "entity": {
+    "name": "테렌스 리글리",
+    "synonym": [
+      "Terence Rigby",
+      "리글리",
+      "테런스 리글리",
+      "테렌스",
+      "테렌스 리글리",
+      "테렌스리글리"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "테렌스 리글리은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

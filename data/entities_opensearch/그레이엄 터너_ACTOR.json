@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "그레이엄 터너",
+    "synonym": [
+      "Graham",
+      "Graham Turner",
+      "Graham Turnner",
+      "그레이엄",
+      "그레이엄 터나",
+      "그레이엄 터너",
+      "그레이엄 터어너",
+      "그레이엄터너",
+      "그레이험 터너",
+      "터너"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "그레이엄 터너은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,257 @@
+{
+  "chunk_hash": "baf0413e247e68",
+  "chunk_id": "서삐삐의_영화리뷰_baf0413e247e68_9de2ad4f",
+  "user_query": "어떻게 죽었는지 한번 알아볼게요. 9명은 외부인에서 4명 마을사람에서 4명 그리고 로또같은 뽑기를 통해 뽑힌 마을 주민과 Christian 중에서 Dani가 한 명을 고르게 됩니다. 일단 외부인 4명은 Ingemar 친구인 \"Connie, Simon\" 그리고 Pelle가 데리고 온 Josh Mark입니다. Connie와 Simon은 절벽 투신을 보고\n충격을 먹은 뒤, 마을을 떠나려고 했습니다. Simon은 '블러드 이글'이라는 형태로 되었었고, Connie는 물에 빠져서 죽임을 당했습니다. Pelle가 한 시체를 뜰채에 들고 오는데\n그 시체는 물에 불려져 있는데다가 머리가 젖어서 물이 뚝뚝 흘러요. 그리고 Mark는 '광대 가죽 벗기기'라는 \n놀이에 행해져서 피부가 벗겨지고 광대로 분장이 되었고, Josh는 경전을 몰래 찍다가 걸려서 죽임을 당했었죠. 이렇게 외부인 4명이 준비됩니다. 그리고 마을 사람 4명은 \n투신 절벽에서 삶을 마감한 노인 2명, 이들은 시신이 화장이 되었기 때문에 \n꽃과 과일, 나무 등으로 만들어진 인형으로 대체가 됩니다. 그리고 마을 사람들 중 지원한 2명 Ingemar와 또 다른 마을 사람 이렇게 네 명으로 구성이 됩니다. 마지막으로 로또 추첨으로 뽑힌 또 다른 마을 사람과 Dani의 남자친구 Christian 중에서 Dani가 선택을 하게 되는데요. 이중 Dani는 Christian을 고르게 됩니다. Dani의 선택으로 지목된 \nChristian은 곰 가죽에 씌워져서 산 채로 화형을 당하게 됩니다. 일단 영상이 너무 길어져서 \n1부, 2부로 나누게 되었어요. 2부 영상에서는 Simon이 당했던 '블러드 이글'과 호 하의 의미 그리고 Dani가 왜 그런 선택을 내렸고 또 영화 미드소마의 엔딩의 의미 등을 \n알아보는 시간이 될 테니까요! 2부에서도 함께 해요 그럼 영상이 도움이 되셨다면 \n\"좋아요, 구독, 알람 설정\" 눌러주시고 미드소마 내용 해석 영상 2부에서도 바로\n만나요!",
+  "movie_id": "미드소마",
+  "reviewer": "서삐삐의_영화리뷰",
+  "chunk_index": 4,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "DANI",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Dani는 영화의 주인공으로, 마지막에 Christian과 마을 사람 중 한 명을 선택해야 하는 상황에서 Christian을 선택한다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "CHRISTIAN",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Christian은 Dani의 남자친구로, Dani의 선택으로 지목되어 곰 가죽에 씌워져 산 채로 화형을 당한다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "INGEMAR",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Ingemar는 마을 사람으로, Connie와 Simon을 마을에 데려온 인물이며 희생자로 지원한 4명의 마을 사람 중 한 명이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "CONNIE",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Connie는 Ingemar의 친구로, 절벽 투신을 보고 충격을 받아 마을을 떠나려다 물에 빠져 죽임을 당한 외부인이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "SIMON",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Simon은 Ingemar의 친구로, 절벽 투신을 보고 마을을 떠나려다 '블러드 이글'이라는 형태로 죽임을 당한 외부인이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "PELLE",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Pelle는 Josh와 Mark를 마을에 데려온 인물로, 물에 불려진 시체를 뜰채에 들고 오는 장면이 있다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "JOSH",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Josh는 Pelle가 데려온 외부인으로, 경전을 몰래 찍다가 걸려서 죽임을 당했다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "MARK",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Mark는 Pelle가 데려온 외부인으로, '광대 가죽 벗기기'라는 놀이로 피부가 벗겨지고 광대로 분장되어 죽임을 당했다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "미드소마",
+      "entity_type": "MOVIE",
+      "entity_description": "미드소마는 스웨덴 마을의 축제를 배경으로 한 공포 영화로, 9명의 희생자가 다양한 방식으로 죽임을 당하는 내용을 담고 있다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "DANI",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "미드소마",
+      "target_type": "MOVIE",
+      "relationship_description": "Dani는 미드소마의 주인공이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "CHRISTIAN",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "미드소마",
+      "target_type": "MOVIE",
+      "relationship_description": "Christian은 미드소마에 등장하는 주요 인물이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "DANI",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "CHRISTIAN",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Dani는 Christian의 여자친구이며, 마지막에 그를 희생자로 선택한다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "INGEMAR",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "CONNIE",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Ingemar는 Connie를 마을에 데려온 친구이다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "INGEMAR",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "SIMON",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Ingemar는 Simon을 마을에 데려온 친구이다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "PELLE",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "JOSH",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Pelle는 Josh를 마을에 데려온 인물이다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "PELLE",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "MARK",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Pelle는 Mark를 마을에 데려온 인물이다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "CONNIE",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "SIMON",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Connie와 Simon은 함께 마을을 떠나려 했던 동행자이다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "INGEMAR",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "미드소마",
+      "target_type": "MOVIE",
+      "relationship_description": "Ingemar는 미드소마에 등장하는 마을 사람이자 희생자 중 한 명이다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "CONNIE",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "미드소마",
+      "target_type": "MOVIE",
+      "relationship_description": "Connie는 미드소마에서 물에 빠져 죽임을 당한 외부인 희생자이다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "SIMON",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "미드소마",
+      "target_type": "MOVIE",
+      "relationship_description": "Simon은 미드소마에서 블러드 이글로 죽임을 당한 외부인 희생자이다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "JOSH",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "미드소마",
+      "target_type": "MOVIE",
+      "relationship_description": "Josh는 미드소마에서 경전을 찍다가 죽임을 당한 외부인 희생자이다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "MARK",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "미드소마",
+      "target_type": "MOVIE",
+      "relationship_description": "Mark는 미드소마에서 광대 가죽 벗기기로 죽임을 당한 외부인 희생자이다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "PELLE",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "미드소마",
+      "target_type": "MOVIE",
+      "relationship_description": "Pelle는 미드소마에 등장하는 마을 사람이다",
+      "relationship_strength": 9
+    }
+  ],
+  "entity_resolution": {
+    "DANI": {
+      "description": "DANI -> Dani",
+      "resolved_name": "Dani",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "CHRISTIAN": {
+      "description": "CHRISTIAN -> Christian",
+      "resolved_name": "Christian",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "INGEMAR": {
+      "description": "INGEMAR -> Ingemar",
+      "resolved_name": "Ingemar",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "CONNIE": {
+      "description": "CONNIE -> CONNIE",
+      "resolved_name": "CONNIE",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "SIMON": {
+      "description": "SIMON -> SIMON",
+      "resolved_name": "SIMON",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "PELLE": {
+      "description": "PELLE -> PELLE",
+      "resolved_name": "PELLE",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "JOSH": {
+      "description": "JOSH -> Josh",
+      "resolved_name": "Josh",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "MARK": {
+      "description": "MARK -> Mark",
+      "resolved_name": "Mark",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "미드소마": {
+      "description": "미드소마 -> 미드소마",
+      "resolved_name": "미드소마",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "name_exact"
+    }
+  }
+}

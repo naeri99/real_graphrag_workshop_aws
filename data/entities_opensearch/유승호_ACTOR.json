@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "유승호",
+    "synonym": [
+      "Yoo Seung-ho",
+      "승호",
+      "아역 유승호",
+      "아역배우 유승호",
+      "어린 유승호",
+      "유 승호",
+      "유승호",
+      "유승호 배우",
+      "유승호씨"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "유승호은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "조나 홉스",
+    "synonym": [
+      "Jonah",
+      "Jonah Hobbs",
+      "요나 홉스",
+      "조나",
+      "조나 홉스",
+      "조나홉스",
+      "홉스",
+      "홉스 형제",
+      "홉스의 형제"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "조나 홉스은 영화 '홉스앤쇼'의 등장인물로, 클리프 커티스이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

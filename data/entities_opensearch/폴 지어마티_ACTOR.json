@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "폴 지어마티",
+    "synonym": [
+      "Paul Giamatti",
+      "지어마티",
+      "폴",
+      "폴 기아마티",
+      "폴 지아마티",
+      "폴 지어마티",
+      "폴지아마티",
+      "폴지어마티"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "폴 지어마티은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

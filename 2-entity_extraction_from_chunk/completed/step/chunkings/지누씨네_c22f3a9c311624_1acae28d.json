@@ -1,0 +1,111 @@
+{
+  "chunk_hash": "c22f3a9c311624",
+  "chunk_id": "지누씨네_c22f3a9c311624_1acae28d",
+  "user_query": "# 정제된 Transcript\n\n2000년 2월 9일 용산 미군기지 4 영안실 미국 직원이 한국 직원에게 말합니다 시체 방부제라는 독성 강한 포름알데히드를 여과 없이 하수구에 버리라고 말이죠 그 이유라는 게 또 궁금한 게 물이 담긴 병에 먼지가 많다는 것 부하직원이 반론을 던져 보지만 결국 상관의 명령을 거역하지 못하고 실행에 옮깁니다 꼭 그 상관의 궤변에 체제 맞춰 병의 먼지를 닦으며 엄청난 양을 그대로 방류합니다 이 독극물은 대한민국을 상징한다는 한강으로 직행 그렇게 괴물의 시작된",
+  "movie_id": "괴물",
+  "reviewer": "지누씨네",
+  "chunk_index": 1,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "괴물",
+      "entity_type": "MOVIE",
+      "entity_description": "괴물은 2000년 용산 미군기지에서 포름알데히드가 한강에 방류되면서 시작되는 이야기를 다룬 영화이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "용산 미군기지",
+      "entity_type": "MOVIE",
+      "entity_description": "영화 괴물에서 독극물 방류 사건이 발생한 장소로, 2000년 2월 9일 포름알데히드가 하수구로 방류된 곳이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "미국 직원",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "용산 미군기지 영안실에서 한국 직원에게 포름알데히드를 하수구에 버리라고 명령한 상관이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "한국 직원",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "용산 미군기지 영안실에서 상관의 명령을 거역하지 못하고 포름알데히드를 방류한 부하직원이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "괴물",
+      "source_type": "MOVIE",
+      "target_entity": "용산 미군기지",
+      "target_type": "MOVIE",
+      "relationship_description": "용산 미군기지에서의 독극물 방류 사건이 괴물 이야기의 시작점이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "미국 직원",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "괴물",
+      "target_type": "MOVIE",
+      "relationship_description": "미국 직원은 괴물의 도입부에 등장하는 인물이다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "한국 직원",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "괴물",
+      "target_type": "MOVIE",
+      "relationship_description": "한국 직원은 괴물의 도입부에 등장하는 인물이다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "미국 직원",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "한국 직원",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "미국 직원은 한국 직원의 상관으로 포름알데히드 방류를 명령했다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "한국 직원",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "미국 직원",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "한국 직원은 미국 직원의 명령에 따라 독극물을 방류했다",
+      "relationship_strength": 9
+    }
+  ],
+  "entity_resolution": {
+    "괴물": {
+      "description": "괴물 -> 괴물",
+      "resolved_name": "괴물",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "용산 미군기지": {
+      "description": "용산 미군기지 -> 용산 미군기지",
+      "resolved_name": "용산 미군기지",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "미국 직원": {
+      "description": "미국 직원 -> 미국 직원",
+      "resolved_name": "미국 직원",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "한국 직원": {
+      "description": "한국 직원 -> 한국 직원",
+      "resolved_name": "한국 직원",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "Oli",
+    "synonym": [
+      "Oli",
+      "Ollie",
+      "오리",
+      "올라",
+      "올라이",
+      "올라프",
+      "올리",
+      "올리 킹오브스윙",
+      "올리버",
+      "올리이"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "Oli은 영화 '호스텔'의 등장인물로, 에이텔 베르코비치이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

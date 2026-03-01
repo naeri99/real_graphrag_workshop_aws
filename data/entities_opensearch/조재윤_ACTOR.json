@@ -1,0 +1,23 @@
+{
+  "entity": {
+    "name": "조재윤",
+    "synonym": [
+      "Cho Jae-yoon",
+      "Jo Jae Yun",
+      "Jo Jae-yoon",
+      "Jo Jae-yun",
+      "재윤",
+      "조 재윤",
+      "조재연",
+      "조재윤",
+      "조재윤 배우",
+      "조재윤 씨",
+      "조재윤배우",
+      "조재윤씨"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "조재윤은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

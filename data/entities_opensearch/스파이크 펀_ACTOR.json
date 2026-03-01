@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "스파이크 펀",
+    "synonym": [
+      "Spike",
+      "Spike Fearn",
+      "Spike Fern",
+      "스파이크",
+      "스파이크 퍼른",
+      "스파이크 펀",
+      "스파이크 피언",
+      "스파이크펀",
+      "펀"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "스파이크 펀은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

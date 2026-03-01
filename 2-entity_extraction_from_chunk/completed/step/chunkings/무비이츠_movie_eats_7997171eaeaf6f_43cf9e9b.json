@@ -1,0 +1,270 @@
+{
+  "chunk_hash": "7997171eaeaf6f",
+  "chunk_id": "무비이츠_movie_eats_7997171eaeaf6f_43cf9e9b",
+  "user_query": "진정제를 약속하고 설계는 착착 진행됩니다 그리고 아리아드네가 설계한 꿈에서 회의를 이어 나가죠 1단계에서는 아버지 길을 따르지 않겠다 2단계에서는 나 스스로 일어서겠다 그리고 3단계에서 아버지는 회사를 쪼개는 것을 바라신다는 인셉션을 하기로 하죠 또한 각 단계에서 깰 때는 킥을 사용하기로 하죠 이미 일전에도 쓴 적이 있었던 것이었는데 꿈꾸는 사람을 넘어뜨려 낙하하는 감각으로 깨우는 것이었죠 그리고 각 단계에서 킥을 줄 신호로 음악을 들려주기로 합니다 이제 남은 건 로버트를 10시간 동안 붙잡을 방법이 필요한데 사이토는 시드니에서 LA 2주에 한 번씩 다니는 로버트의 전용기를 고장내고 시드니에서 LA 가는 항공편이 있는 항공사를 그냥 사 버립니다 그렇게 시간도 벌면서 이제 모든 준비를 마쳤습니다 한편 아리아드네는 매일밤 작업실에서 꿈을 꾸는 코브의 꿈에 몰래 접속하는데 코브는 이곳에서 멜과 대화 중이었죠 멜에게 발각되고 코브는 급히 데리고 나가는데 유일하게 아내를 볼 수 있는 곳이 꿈이었기 때문에 매일밤 꿈을 꾸고 있었죠 코브는 아이들이 살고 있는 집으로 이동하는데 그는 아이들의 얼굴을 보면 이곳에서 머물고 싶은 마음이 두려워 더 이상 다가가지 않았죠 아리아드네는 코브가 아이들 생각에 잠겨 있는 틈을 타서 최하층으로 이동합니다 무섭게 달리는 기차를 보고 신나서 도착한 곳은 한 호텔이었는데 도둑이라도 들었는지 난장판이었는데 그리고 그곳에는 멜이 있었죠 멜이 다가가고 그녀의 칼에 죽어본 아리아드네 온몸이 얼어붙습니다 그리고 깨진 유리잔을 집어드는데 코브는 그녀를 데리고 급히 도망치고 멜은 함께 늙어 가자고 약속했으면서 자신을 가뒀다고 코브를 원망하죠 꿈에서 깬 둘 그때 모리스 피셔가 사망하면서 이제 카운트다운이 시작되었습니다 아리아드네는 자신도 함께 가겠다고 하는데 코브의 문제를 아는 사람이 필요해 보였기 때문이었습니다 코브는 임무를 성공시키면 약속을 시켜 달라고 하고 사이토는 자신을 믿으라 하죠 그렇게 탑승구로 탑승하는 팀원들 로버트는 아무것도 모르고 탑승하고 임스는 그틈에 로버트의 여권을 훔치고 코브는 여권을 확인한 뒤 비행기가 이륙하자 로버트의 여권을 주운 척을 하며 다가가고 승무원에게 물을 달라한 뒤 은근슬쩍 로버트의 아버지 이야기를 꺼내며 그의 경계심을 허물고 진정제를 탄 물을 먹이죠 그리고 로버트는 깊은 잠에 빠지고 매수한 승무원은 이곳을 통제하고 미리 챙긴 패시브 박스를 꺼내죠 그리고 다같이 연결합니다 긴장이 되는지 샴페인을 마셔대는 유서프 마지막으로 로버트에게 연결하고 승무원은 그들의 안전한 비행을 시작합니다 꿈에 도착하는 팀 아리아드네가 설계한 도시 유서프는 샴페인을 너무 마셔대며 방광이 터질 지경이었죠 그리고 도착하는 구형 벤츠 첫 번째 계획은 택시를 탈취한 뒤 로버트를 태워 납치하는 것이었는데 그러기 위해 우선 사고를 내고 빡친 기사를 유서프가 처리하면 됐죠 아서와 사이토는 빠르게 택시에 타고 로버트를 발견하고 태우죠 그때 임스가 뒤에서 달려와 함께 탑승하고 내리겠다는 로버트 그러나 넌 납치된 거야 라며 놀래키고",
+  "movie_id": "인셉션",
+  "reviewer": "무비이츠_movie_eats",
+  "chunk_index": 5,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "인셉션",
+      "entity_type": "MOVIE",
+      "entity_description": "인셉션은 꿈 속에서 아이디어를 심는 작전을 다룬 영화로, 여러 단계의 꿈을 통해 타겟의 잠재의식에 접근하는 내용이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "코브",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "코브는 인셉션 작전의 리더로, 아내 멜을 잃은 후 매일 밤 꿈에서 그녀를 만나며, 아이들을 보고 싶어하지만 두려움에 다가가지 못하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "아리아드네",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "아리아드네는 꿈의 설계를 담당하는 인물로, 코브의 꿈에 몰래 접속하여 그의 문제를 알게 되고 함께 임무에 참여하게 된다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "멜",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "멜은 코브의 아내로, 코브의 꿈 속에 나타나며 함께 늙어가자는 약속을 했지만 자신을 가뒀다고 코브를 원망하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "로버트",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "로버트은 인셉션의 타겟으로, 아버지 모리스 피셔가 사망한 후 시드니에서 LA로 가는 전용기를 타다가 납치되어 꿈 속에서 인셉션을 당하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "사이토",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "사이토는 인셉션 작전의 의뢰인으로, 로버트의 전용기를 고장내고 항공사를 사버리며, 코브에게 임무 성공 시 약속을 지키겠다고 하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "임스",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "임스는 인셉션 팀의 일원으로, 로버트의 여권을 훔치고 납치 작전에 참여하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "유서프",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "유서프는 인셉션 팀의 일원으로, 샴페인을 많이 마셔 방광이 터질 지경이었으며 택시 기사를 처리하는 역할을 맡은 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "아서",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "아서는 인셉션 팀의 일원으로, 사이토와 함께 택시에 타서 로버트를 태우는 역할을 하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "모리스 피셔",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "모리스 피셔는 로버트의 아버지로, 사망하면서 인셉션 작전의 카운트다운이 시작되는 계기가 된 인물이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "코브",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "인셉션",
+      "target_type": "MOVIE",
+      "relationship_description": "코브는 인셉션의 주인공이자 작전 리더이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "아리아드네",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "인셉션",
+      "target_type": "MOVIE",
+      "relationship_description": "아리아드네는 인셉션에서 꿈의 설계를 담당하는 인물이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "멜",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "인셉션",
+      "target_type": "MOVIE",
+      "relationship_description": "멜은 인셉션에 등장하는 코브의 아내이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "로버트",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "인셉션",
+      "target_type": "MOVIE",
+      "relationship_description": "로버트은 인셉션 작전의 타겟이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "사이토",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "인셉션",
+      "target_type": "MOVIE",
+      "relationship_description": "사이토는 인셉션 작전의 의뢰인이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "임스",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "인셉션",
+      "target_type": "MOVIE",
+      "relationship_description": "임스는 인셉션 팀의 일원이다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "유서프",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "인셉션",
+      "target_type": "MOVIE",
+      "relationship_description": "유서프는 인셉션 팀의 일원이다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "아서",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "인셉션",
+      "target_type": "MOVIE",
+      "relationship_description": "아서는 인셉션 팀의 일원이다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "코브",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "멜",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "코브와 멜은 부부 관계이며, 코브는 매일 밤 꿈에서 멜을 만난다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "코브",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "아리아드네",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "아리아드네는 코브의 꿈에 몰래 접속하여 그의 문제를 알게 되었다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "로버트",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "모리스 피셔",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "모리스 피셔는 로버트의 아버지이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "사이토",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "코브",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "사이토는 코브에게 임무 성공 시 약속을 지키겠다고 한다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "사이토",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "로버트",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "사이토는 로버트을 납치하기 위해 전용기를 고장내고 항공사를 샀다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "멜",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "아리아드네",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "멜은 코브의 꿈에서 아리아드네를 칼로 찔렀다",
+      "relationship_strength": 7
+    }
+  ],
+  "entity_resolution": {
+    "인셉션": {
+      "description": "인셉션 -> 인셉션",
+      "resolved_name": "인셉션",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "코브": {
+      "description": "코브 -> 코브",
+      "resolved_name": "코브",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "아리아드네": {
+      "description": "아리아드네 -> 아리아드네",
+      "resolved_name": "아리아드네",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "멜": {
+      "description": "멜 -> 맬",
+      "resolved_name": "맬",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "로버트": {
+      "description": "로버트 -> 로버트 피셔",
+      "resolved_name": "로버트 피셔",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "사이토": {
+      "description": "사이토 -> 사이토",
+      "resolved_name": "사이토",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "임스": {
+      "description": "임스 -> 임스",
+      "resolved_name": "임스",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "유서프": {
+      "description": "유서프 -> 유수프",
+      "resolved_name": "유수프",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "아서": {
+      "description": "아서 -> 아서",
+      "resolved_name": "아서",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "모리스 피셔": {
+      "description": "모리스 피셔 -> 모리스",
+      "resolved_name": "모리스",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    }
+  }
+}

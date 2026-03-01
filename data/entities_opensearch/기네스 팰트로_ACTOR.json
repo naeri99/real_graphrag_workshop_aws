@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "기네스 팰트로",
+    "synonym": [
+      "Gwyneth Paltrow",
+      "귀네스 팰트로",
+      "귀네스펠트로",
+      "그위네스 팰트로",
+      "기네스",
+      "기네스 팰트로",
+      "기네스 팰트로우",
+      "기네스 펠트로",
+      "기네스팰트로",
+      "팰트로",
+      "펠트로"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "기네스 팰트로은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

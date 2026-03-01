@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "레온 포날",
+    "synonym": [
+      "Leon",
+      "Leon Pownall",
+      "레온",
+      "레온 포날",
+      "레온 포널",
+      "레온포날",
+      "레온포널",
+      "리온 포날",
+      "포날",
+      "포널"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "레온 포날은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

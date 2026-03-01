@@ -1,0 +1,24 @@
+{
+  "entity": {
+    "name": "알란",
+    "synonym": [
+      "Alan",
+      "Allan",
+      "Allan Sloan",
+      "Allen",
+      "슬로안",
+      "알란",
+      "알란 리플",
+      "알란 캐릭터",
+      "알란슬로안",
+      "알렌",
+      "앨란",
+      "앨런",
+      "앨런 슬로안"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "알란은 영화 '엘리멘탈'의 등장인물로, 잭 호프만이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

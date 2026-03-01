@@ -1,0 +1,32 @@
+{
+  "entity": {
+    "name": "Murph (older)",
+    "synonym": [
+      "Murph",
+      "Murph (older)",
+      "Murph older",
+      "Old Murph",
+      "Older Murph",
+      "Young Murph",
+      "나이든 머프",
+      "노년 머프",
+      "노인 머피",
+      "늙은 머프",
+      "머프",
+      "머프 노년",
+      "머프 쿠퍼",
+      "머프 할머니",
+      "머피",
+      "머피 노년",
+      "성인 머프",
+      "소녀 머프",
+      "어린 머프",
+      "어린머프",
+      "올드 머프"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "Murph (older)은 영화 '인터스텔라'의 등장인물로, 엘런 버스틴이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

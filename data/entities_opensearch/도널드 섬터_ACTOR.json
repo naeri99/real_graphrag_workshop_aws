@@ -1,0 +1,27 @@
+{
+  "entity": {
+    "name": "도널드 섬터",
+    "synonym": [
+      "Don",
+      "Donald",
+      "Donald Cooper",
+      "Donald Sumpter",
+      "도날드",
+      "도날드 섬터",
+      "도널드",
+      "도널드 섬터",
+      "도널드 섬프터",
+      "도널드 썸터",
+      "도널드 쿠퍼",
+      "도널드섬터",
+      "돈",
+      "섬터",
+      "쿠퍼의 장인",
+      "할아버지 도널드"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "도널드 섬터은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "맬",
+    "synonym": [
+      "Mal",
+      "Mal Cobb",
+      "말",
+      "말 코브",
+      "말로리",
+      "맬",
+      "맬 코브",
+      "멜"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "맬은 영화 '인셉션'의 등장인물로, 마리옹 코티야르이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

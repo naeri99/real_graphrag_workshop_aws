@@ -1,0 +1,239 @@
+{
+  "chunk_hash": "e5f62c0581e7da",
+  "chunk_id": "머어엉_e5f62c0581e7da_125baab3",
+  "user_query": "where he gives flowers to Ember and becomes close to a girl at the end But the reason why Clod was forced to be an Elemental poster character is because he has the largest portion of the other earth elements characters Gale Cumulus is Wade's boss and the main character of the air element The name Gale means gusts, and the surname Cumulus means clouds The production crew who implemented the Gale paid a lot of attention to the size of the smoke, saying, \"We worked on it after setting guidelines on how big the cloud smoke should be in the mouth.\" In order to express how it breaks and forms again, it uses several layers to show the density of the Gale character. Gale, like Clod, didn't get a lot of water and fire, but fortunately, he's at the beginning of the leak story He appears in a position where he supports Ember and Wade's story, so he has a higher proportion than Clod In Elemental, Wade from Buzz Lightyear It was drawn on a water bottle. The Pixar production right before Elemental came out was Buzz Lightyear I think I put it in an Easter egg. If you go to see Elemental, you can see another short film It's Up's spin-off, Doug's daily special, Carl's date. In fact, Carl's date was originally scheduled to be released on Disney Plus in February, The plan was changed, so it was decided to screen the movie theater with Elemental. In addition to Carl's date, Elemental also said, It's not the intro that comes out in Disney movies There's a special intro to celebrate Walt Disney's",
+  "movie_id": "엘리멘탈",
+  "reviewer": "머어엉",
+  "chunk_index": 10,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "EMBER",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Ember는 Elemental의 주인공으로 불의 원소 캐릭터이며, Clod에게 꽃을 받고 Wade와의 이야기를 이끌어가는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "CLOD",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Clod는 Elemental의 흙 원소 캐릭터로, Ember에게 꽃을 주며 다른 흙 원소 캐릭터들 중 가장 큰 비중을 차지하여 포스터 캐릭터가 되었다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "GALE CUMULUS",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Gale Cumulus는 Wade의 상사이자 공기 원소의 주요 캐릭터로, 이름 Gale은 돌풍을, 성 Cumulus는 구름을 의미하며, 누수 이야기 초반에 등장하여 Ember와 Wade의 이야기를 지원하는 역할을 한다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "WADE",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Wade는 Elemental의 물 원소 캐릭터로, Ember와 함께 주요 스토리를 이끌어가며 Gale Cumulus의 부하이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "ELEMENTAL",
+      "entity_type": "MOVIE",
+      "entity_description": "Elemental은 픽사에서 제작한 애니메이션 영화로, 불, 물, 흙, 공기 등 다양한 원소 캐릭터들이 등장하며, 버즈 라이트이어 다음으로 개봉한 작품이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "BUZZ LIGHTYEAR",
+      "entity_type": "MOVIE",
+      "entity_description": "Buzz Lightyear는 Elemental 직전에 개봉한 픽사 제작 영화로, Elemental에서 물병에 Wade가 그려진 이스터에그로 등장한다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "CARL'S DATE",
+      "entity_type": "MOVIE",
+      "entity_description": "Carl's Date는 Up의 스핀오프 단편 영화로, 원래 2월에 디즈니 플러스에서 공개될 예정이었으나 계획이 변경되어 Elemental과 함께 극장에서 상영되었다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "DOUG'S DAILY SPECIAL",
+      "entity_type": "MOVIE",
+      "entity_description": "Doug's Daily Special은 Up의 스핀오프 단편 영화이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "UP",
+      "entity_type": "MOVIE",
+      "entity_description": "Up은 픽사 애니메이션 영화로, Carl's Date와 Doug's Daily Special의 원작이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "CLOD",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "EMBER",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Clod는 Ember에게 꽃을 주며 영화 끝에서 가까워진다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "CLOD",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "ELEMENTAL",
+      "target_type": "MOVIE",
+      "relationship_description": "Clod는 Elemental의 흙 원소 포스터 캐릭터이다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "GALE CUMULUS",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "WADE",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Gale Cumulus는 Wade의 상사이다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "GALE CUMULUS",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "ELEMENTAL",
+      "target_type": "MOVIE",
+      "relationship_description": "Gale Cumulus는 Elemental의 공기 원소 주요 캐릭터이다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "GALE CUMULUS",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "EMBER",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Gale Cumulus는 Ember와 Wade의 이야기를 지원하는 역할을 한다",
+      "relationship_strength": 6
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "WADE",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "EMBER",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Wade는 Ember와 함께 Elemental의 주요 스토리를 이끌어간다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "WADE",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "ELEMENTAL",
+      "target_type": "MOVIE",
+      "relationship_description": "Wade는 Elemental의 물 원소 주인공이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "EMBER",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "ELEMENTAL",
+      "target_type": "MOVIE",
+      "relationship_description": "Ember는 Elemental의 불 원소 주인공이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "ELEMENTAL",
+      "source_type": "MOVIE",
+      "target_entity": "BUZZ LIGHTYEAR",
+      "target_type": "MOVIE",
+      "relationship_description": "Elemental은 Buzz Lightyear 다음으로 개봉한 픽사 영화이며, Buzz Lightyear 관련 이스터에그가 포함되어 있다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "CARL'S DATE",
+      "source_type": "MOVIE",
+      "target_entity": "ELEMENTAL",
+      "target_type": "MOVIE",
+      "relationship_description": "Carl's Date는 Elemental과 함께 극장에서 상영된 단편 영화이다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "CARL'S DATE",
+      "source_type": "MOVIE",
+      "target_entity": "UP",
+      "target_type": "MOVIE",
+      "relationship_description": "Carl's Date는 Up의 스핀오프 작품이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "DOUG'S DAILY SPECIAL",
+      "source_type": "MOVIE",
+      "target_entity": "UP",
+      "target_type": "MOVIE",
+      "relationship_description": "Doug's Daily Special은 Up의 스핀오프 작품이다",
+      "relationship_strength": 10
+    }
+  ],
+  "entity_resolution": {
+    "EMBER": {
+      "description": "EMBER -> EMBER",
+      "resolved_name": "EMBER",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "CLOD": {
+      "description": "CLOD -> CLOD",
+      "resolved_name": "CLOD",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "GALE CUMULUS": {
+      "description": "GALE CUMULUS -> GALE CUMULUS",
+      "resolved_name": "GALE CUMULUS",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "WADE": {
+      "description": "WADE -> WADE",
+      "resolved_name": "WADE",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "ELEMENTAL": {
+      "description": "ELEMENTAL -> ELEMENTAL",
+      "resolved_name": "ELEMENTAL",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "BUZZ LIGHTYEAR": {
+      "description": "BUZZ LIGHTYEAR -> BUZZ LIGHTYEAR",
+      "resolved_name": "BUZZ LIGHTYEAR",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "CARL'S DATE": {
+      "description": "CARL'S DATE -> CARL'S DATE",
+      "resolved_name": "CARL'S DATE",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "DOUG'S DAILY SPECIAL": {
+      "description": "DOUG'S DAILY SPECIAL -> DOUG'S DAILY SPECIAL",
+      "resolved_name": "DOUG'S DAILY SPECIAL",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "UP": {
+      "description": "UP -> UP",
+      "resolved_name": "UP",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

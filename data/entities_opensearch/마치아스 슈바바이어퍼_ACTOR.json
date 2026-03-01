@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "마치아스 슈바바이어퍼",
+    "synonym": [
+      "Matthias Schweighöfer",
+      "마치아스",
+      "마치아스 슈바바이어퍼",
+      "마치아스슈바바이어퍼",
+      "마티아스 슈바이거",
+      "마티아스 슈바이거호퍼",
+      "마티아스 슈바이크호퍼",
+      "슈바바이어퍼"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "마치아스 슈바바이어퍼은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

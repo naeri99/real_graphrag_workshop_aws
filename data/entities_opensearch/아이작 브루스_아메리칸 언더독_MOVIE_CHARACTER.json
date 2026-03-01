@@ -1,0 +1,32 @@
+{
+  "entity": {
+    "name": "아이작 브루스",
+    "synonym": [
+      "Batman",
+      "Bruce Wayne",
+      "Isaac Asimov",
+      "Isaac Bruce",
+      "Isak Dinesen",
+      "다크나이트",
+      "디네센",
+      "배트맨",
+      "브루스",
+      "브루스웨인",
+      "아시모브",
+      "아시모프",
+      "아이삭 브루스",
+      "아이작",
+      "아이작 브루스",
+      "아이작 아시모브",
+      "아이작디네센",
+      "아이작브루스",
+      "아이작아시모프",
+      "웨인",
+      "이삭 디네센"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "아이작 브루스은 영화 '아메리칸 언더독'의 등장인물로, 시메온 카스틸이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

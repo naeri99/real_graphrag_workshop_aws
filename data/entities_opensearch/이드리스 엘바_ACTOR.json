@@ -1,0 +1,18 @@
+{
+  "entity": {
+    "name": "이드리스 엘바",
+    "synonym": [
+      "Idris Elba",
+      "아이드리스 엘바",
+      "엘바",
+      "이드리스",
+      "이드리스 앨바",
+      "이드리스 엘바",
+      "이드리스엘바"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "이드리스 엘바은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

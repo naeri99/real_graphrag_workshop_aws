@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "샤론",
+    "synonym": [
+      "Charon",
+      "샤론",
+      "샤론 캐릭터",
+      "샤론느",
+      "샤롱",
+      "채런",
+      "채론",
+      "카론",
+      "컨시어지",
+      "케이론"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "샤론은 영화 '존 윅 4'의 등장인물로, 랜스 레딕이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

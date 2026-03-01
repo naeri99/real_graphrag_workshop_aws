@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "어린 로지",
+    "synonym": [
+      "Young Rosie",
+      "꼬마 로지",
+      "어린 Rosie",
+      "어린 로시",
+      "어린 로우지",
+      "어린 로즈",
+      "어린 로지",
+      "어린로지",
+      "영 로지",
+      "유년 로지"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "어린 로지은 영화 '에브리바디스 파인'의 등장인물로, 맥켄지 밀론이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

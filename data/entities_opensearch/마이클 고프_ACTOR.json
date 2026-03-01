@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "마이클 고프",
+    "synonym": [
+      "Michael Gough",
+      "고우",
+      "고우프",
+      "고프",
+      "마이클",
+      "마이클 가프",
+      "마이클 고우",
+      "마이클 고우프",
+      "마이클 고프",
+      "마이클고우프",
+      "마이클고프"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "마이클 고프은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

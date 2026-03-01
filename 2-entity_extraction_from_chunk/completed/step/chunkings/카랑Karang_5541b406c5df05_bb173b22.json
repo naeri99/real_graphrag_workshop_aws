@@ -1,0 +1,93 @@
+{
+  "chunk_hash": "5541b406c5df05",
+  "chunk_id": "카랑Karang_5541b406c5df05_bb173b22",
+  "user_query": "been playing your whole life oh it looks like I got my ass swing lower great thanks keep your head Steve 300,000 equals 30,000 times m m equals 10 years maybe we should start with a math review that'd be great sorry sorry and you want to swing about this Hall what else you gonna do keep my effing head down okay 432,000. yeah that's right you got it right man you're getting this is I want to buy a building it has a hundred thousand dollar annual gross income eight percent vacancy rate twelve thousand dollar annual operating cost and I require a 10 cap rate plus the maximum purchase amount I can offer no I ain't never hit a ball that far it's 800,000 he's right you're right he's right we have created a monster they made the algebra easy the bankers building is owned by Charles Renault and is still the tallest commercial building downtown and generally considered the crown jewel of downtown architecture and that's his office a converted ballroom holy how rich is this guy Mr. Steiner welcome thank you we are so far be waiting on the premises I'll be just outside the gate foreign how do you know that you think I got where I am in life without being able to spot talent yes enjoying playing dress-up you should try it sometimes it's thrilling oh so you okay with having a white boy do your business for you but you're not okay putting on a cap so you can keep an eye on him while he does it it's the only job I've been able to avoid my entire life remember keep my effing head down he's",
+  "movie_id": "뱅크어택",
+  "reviewer": "카랑Karang",
+  "chunk_index": 6,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "CHARLES RENAULT",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Charles Renault는 은행가 건물의 소유주이며, 다운타운에서 가장 높은 상업용 건물을 소유한 부유한 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "STEINER",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Steiner는 Charles Renault를 만나러 온 인물로, \"Mr. Steiner\"로 불린다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "STEVE",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Steve는 수학 계산을 배우고 있으며, 골프를 치는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "BANKERS BUILDING",
+      "entity_type": "MOVIE",
+      "entity_description": "Bankers Building은 Charles Renault가 소유한 다운타운에서 가장 높은 상업용 건물로, 다운타운 건축의 보석으로 여겨진다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "CHARLES RENAULT",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "BANKERS BUILDING",
+      "target_type": "MOVIE",
+      "relationship_description": "Charles Renault는 Bankers Building의 소유주이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "STEINER",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "CHARLES RENAULT",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Steiner는 Charles Renault를 만나기 위해 그의 사무실을 방문했다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "STEVE",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "STEINER",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Steve와 Steiner는 함께 수학/부동산 계산을 연습하며, Steiner가 Steve를 대신해 사업을 진행하는 관계이다",
+      "relationship_strength": 7
+    }
+  ],
+  "entity_resolution": {
+    "CHARLES RENAULT": {
+      "description": "CHARLES RENAULT -> CHARLES RENAULT",
+      "resolved_name": "CHARLES RENAULT",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "STEINER": {
+      "description": "STEINER -> STEINER",
+      "resolved_name": "STEINER",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "STEVE": {
+      "description": "STEVE -> STEVE",
+      "resolved_name": "STEVE",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "BANKERS BUILDING": {
+      "description": "BANKERS BUILDING -> BANKERS BUILDING",
+      "resolved_name": "BANKERS BUILDING",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

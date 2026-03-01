@@ -1,0 +1,106 @@
+{
+  "chunk_hash": "020b888dc2a4e3",
+  "chunk_id": "멍웃겨_리액션_020b888dc2a4e3_0cccf094",
+  "user_query": "that oh was holding down the tarps oh poor guy man and they're just really abusing the crap out of him he's like I'm going to keep this guy in prison for as long as I can yeah in fact I have he knows Two Dads who lost [Music] children oh she's in a little jumpsuit oh don't give him advice just say nothing dang dude this is a dingus I mean the worst part is knowing it's like it's not going to work out for him right cuz his daughter is like an adult when they're doing this trial no that's so messed up wow like dude and the sad thing is like he doesn't even have the intelligence to realize that this is like coercion [Music] I say no no this guy he's [Music] evil yeah he is I I love that someone's still on his side [Applause] God I can't I can't this bull this bull crap oh see he's nice and now see see what happens when you let him say goodbye he gets up and leaves real easy come [Music] on so cute so cute damn man no that's messed up that's his daughter's birthday that's her birthday that's messed up oh no the hot air balloon oh oh no [Music] a the chief I'd just full look the other way on any Escape attempt today I don't care just leave dude I'm like so nervous about this I don't know why my heart's racing right now oh come on hurry up oh the kids are walking everybody out oh is that's a heck wow go go go go in a hot air [Applause] [Music] balloon no one's concerned except for that one guard wouldn't they just shoot it down just I'm genuinely surprised that the guy is shooting",
+  "movie_id": "7번방의 선물",
+  "reviewer": "멍웃겨_리액션",
+  "chunk_index": 5,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "HOT AIR BALLOON ESCAPE SCENE",
+      "entity_type": "MOVIE",
+      "entity_description": "아버지가 딸의 생일에 열기구를 이용해 탈출을 시도하는 장면이 있는 영화로, 재판과 강압적인 상황을 다루고 있다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "아버지 캐릭터",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "딸과 헤어져야 하는 상황에 처한 인물로, 재판을 받고 있으며 강압에 의해 조종당하고 있다. 탈출을 시도하는 것으로 보인다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "딸 캐릭터",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "아버지의 딸로, 재판 당시 이미 성인이 되어 있으며 생일에 아버지의 탈출 시도가 이루어진다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "악역 캐릭터",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "아버지를 최대한 오래 감옥에 가두려 하고 강압적인 방법을 사용하는 악한 인물"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "CHIEF",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "탈출 시도에 대해 눈을 감아주려는 것으로 보이는 인물"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "아버지 캐릭터",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "딸 캐릭터",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "아버지와 딸의 관계이며, 아버지는 딸의 생일에 탈출을 시도한다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "악역 캐릭터",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "아버지 캐릭터",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "악역은 아버지를 감옥에 가두고 강압적으로 대하며 학대한다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "CHIEF",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "아버지 캐릭터",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Chief는 아버지의 탈출 시도에 눈을 감아주려 한다",
+      "relationship_strength": 7
+    }
+  ],
+  "entity_resolution": {
+    "HOT AIR BALLOON ESCAPE SCENE": {
+      "description": "HOT AIR BALLOON ESCAPE SCENE -> HOT AIR BALLOON ESCAPE SCENE",
+      "resolved_name": "HOT AIR BALLOON ESCAPE SCENE",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "아버지 캐릭터": {
+      "description": "아버지 캐릭터 -> 아버지",
+      "resolved_name": "아버지",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "딸 캐릭터": {
+      "description": "딸 캐릭터 -> 딸 캐릭터",
+      "resolved_name": "딸 캐릭터",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "악역 캐릭터": {
+      "description": "악역 캐릭터 -> 악역 캐릭터",
+      "resolved_name": "악역 캐릭터",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "CHIEF": {
+      "description": "CHIEF -> CHIEF",
+      "resolved_name": "CHIEF",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

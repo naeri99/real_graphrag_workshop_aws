@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "너의 결혼식",
+    "synonym": [
+      "On Your Wedding Day",
+      "너결",
+      "너의 결혼",
+      "너의 결혼식",
+      "너의 웨딩",
+      "너의 웨딩데이",
+      "너의결혼식",
+      "널 결혼식",
+      "네 결혼식",
+      "온 유어 웨딩 데이"
+    ],
+    "entity_type": "MOVIE",
+    "summary": "너의 결혼식",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

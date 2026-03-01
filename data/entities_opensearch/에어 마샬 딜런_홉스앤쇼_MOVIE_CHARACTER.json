@@ -1,0 +1,24 @@
+{
+  "entity": {
+    "name": "에어 마샬 딜런",
+    "synonym": [
+      "Air Marshal",
+      "Air Marshal Dillon",
+      "Air Marshal Dinkley",
+      "딜런",
+      "딜런 요원",
+      "딩클리",
+      "비행기 보안관",
+      "에어 마샬",
+      "에어 마샬 딜런",
+      "에어마샬",
+      "에어마샬 딜런",
+      "에어마샬딜런",
+      "항공 보안관"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "에어 마샬 딜런은 영화 '홉스앤쇼'의 등장인물로, 케빈 하트이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

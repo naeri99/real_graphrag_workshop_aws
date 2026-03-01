@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "필리파",
+    "synonym": [
+      "Phillipa",
+      "Phillipa Cobb",
+      "필",
+      "필리빠",
+      "필리파",
+      "필리파 코브",
+      "필리파씨",
+      "필리퍼",
+      "필립파"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "필리파은 영화 '인셉션'의 등장인물로, 소피아 지엘리스카이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "entity": {
+    "name": "파룩 아미레",
+    "synonym": [
+      "Farouk",
+      "Farouk Amire",
+      "Farouk Amirei",
+      "Farouk Amiré",
+      "Faruk",
+      "Faruk Amire",
+      "Faruk Amireh",
+      "아미레",
+      "파루크 아미레",
+      "파루크 아미르",
+      "파룩",
+      "파룩 아미레",
+      "파룩아미레"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "파룩 아미레은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "movie_title": "아이언맨2",
+  "director": [
+    {
+      "name": "존 파브로",
+      "name_en": "Jon Favreau"
+    }
+  ],
+  "cast": [
+    {
+      "actor": "로버트 다우니 주니어",
+      "actor_en": "Robert Downey Jr.",
+      "character": "토니 스타크 / 아이언맨"
+    },
+    {
+      "actor": "기네스 팰트로",
+      "actor_en": "Gwyneth Paltrow",
+      "character": "페퍼 포츠"
+    },
+    {
+      "actor": "돈 치들",
+      "actor_en": "Don Cheadle",
+      "character": "제임스 로즈"
+    },
+    {
+      "actor": "스칼릿 요한슨",
+      "actor_en": "Scarlett Johansson",
+      "character": "나타샤 로마노프 / 블랙 위도우"
+    },
+    {
+      "actor": "미키 루크",
+      "actor_en": "Mickey Rourke",
+      "character": "이반 반코 / 위플래시"
+    },
+    {
+      "actor": "샘 록웰",
+      "actor_en": "Sam Rockwell",
+      "character": "저스틴 해머"
+    },
+    {
+      "actor": "사무엘 L. 잭슨",
+      "actor_en": "Samuel L. Jackson",
+      "character": "닉 퓨리"
+    },
+    {
+      "actor": "클라크 그레그",
+      "actor_en": "Clark Gregg",
+      "character": "필 콜슨"
+    },
+    {
+      "actor": "존 패브로",
+      "actor_en": "Jon Favreau",
+      "character": "해피 호건"
+    },
+    {
+      "actor": "존 슬래터리",
+      "actor_en": "John Slattery",
+      "character": "하워드 스타크"
+    },
+    {
+      "actor": "게리 샨들링",
+      "actor_en": "Garry Shandling",
+      "character": "스턴 의원"
+    },
+    {
+      "actor": "폴 베타니",
+      "actor_en": "Paul Bettany",
+      "character": "자비스"
+    },
+    {
+      "actor": "케이트 마라",
+      "actor_en": "Kate Mara",
+      "character": "U.S. 마샬"
+    },
+    {
+      "actor": "올리비에 리히터스",
+      "actor_en": "Olivia Munn",
+      "character": "체스 로버츠"
+    },
+    {
+      "actor": "레슬리 빕",
+      "actor_en": "Leslie Bibb",
+      "character": "크리스틴 에버하트"
+    },
+    {
+      "actor": "스탠 리",
+      "actor_en": "Stan Lee",
+      "character": "래리 킹으로 착각받는 남자"
+    },
+    {
+      "actor": "에본 모스-바크라흐",
+      "actor_en": "Ebon Moss-Bachrach",
+      "character": "잭 태거트"
+    }
+  ],
+  "review": [
+    "./data/review/아이언맨2/아이언맨2_8lgPI4NekvQ.json",
+    "./data/review/아이언맨2/아이언맨2_8tDwMmTKlW0.json",
+    "./data/review/아이언맨2/아이언맨2_FEd05IrdRhE.json",
+    "./data/review/아이언맨2/아이언맨2_TfFEJ05cW0o.json",
+    "./data/review/아이언맨2/아이언맨2_YoOtMV6nETo.json",
+    "./data/review/아이언맨2/아이언맨2_enO5fkGpVI0.json"
+  ]
+}

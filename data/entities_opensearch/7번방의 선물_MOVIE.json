@@ -1,0 +1,24 @@
+{
+  "entity": {
+    "name": "7번방의 선물",
+    "synonym": [
+      "7번방",
+      "7번방 선물",
+      "7번방선물",
+      "7번방의 선물",
+      "7번방의선물",
+      "Miracle in Cell No. 7",
+      "Miracle in Cell No.7",
+      "미라클 인 셀 넘버 7",
+      "미라클 인 셀 넘버 세븐",
+      "일곱번방의 선물",
+      "칠번방",
+      "칠번방의 선물",
+      "칠번방의선물"
+    ],
+    "entity_type": "MOVIE",
+    "summary": "7번방의 선물",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

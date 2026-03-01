@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "송강호",
+    "synonym": [
+      "Kang-ho Song",
+      "Song Kang Ho",
+      "Song Kang-ho",
+      "Song Kangho",
+      "강호",
+      "송 강호",
+      "송강 호",
+      "송강호",
+      "송강호 배우",
+      "송강호씨",
+      "송캉호"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "송강호은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

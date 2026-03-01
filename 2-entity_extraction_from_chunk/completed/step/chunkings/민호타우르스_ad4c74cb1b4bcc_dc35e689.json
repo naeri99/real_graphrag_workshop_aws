@@ -1,0 +1,213 @@
+{
+  "chunk_hash": "ad4c74cb1b4bcc",
+  "chunk_id": "민호타우르스_ad4c74cb1b4bcc_dc35e689",
+  "user_query": "때 Kat과 아들 Max는 보트를 타고 다른 곳을 다녀 오고 남편 Sator 역시 자리를 비웁니다 미래에서 Sator의 빠른 죽음을 막기 위해 온 배에 총상 있는 Kat은 몰래 배에 올라 Sator를 맞을 준비를 한다 이때 헬기를 타고 나타난 Sator는 도착하자마자 Kat에게 굉장히 미안한 표정을 짓고 전에 했던 과한 말은 농담이었다고 하는데요 여기서 Sator는 영화 극 초반부 주인공이 삼켰던 CIA의 독약을 Kat에게 보이며 모든 것을 끝내는 이야기라고 합니다 그 독약을 챙겨온 점 그리고 아내에게 미안한 표정을 지으며 사과하고 또 금방 나간 아들을 다시 오라고 하는 점 이는 죽기 직전 생애 마지막은 사랑하는 가족들과 보내려 하는 알고리즘을 다 모은 미래에서 온 Sator인 걸 알 수 있게 하는 부분이죠 하지만 스탈스크 12에서의 과거와 미래 인버전된 레드팀 블루팀의 화력으로 알고리즘 탈취는 성공합니다 이 부분 미래 행보에서 헷갈리시는 분들이 많으실 것 같은데 블루팀인 Neil은 작전 도중 적이 동굴 입구에 폭탄을 설치하는 것을 보고 여기 주인공이 들어오면 위험해질 것을 알고 중간에 한 번 더 인버전을 지도한다 그리고 나서 차를 몰고 주인공의 동굴 진입 전 클락션을 울리고 막아보려 하지만 주인공과 Ives는 동굴에 지니 타고 바로 동굴은 무너지죠 Neil은 기다렸다가 결정적인 순간 줄을 내려 주인공과 Ives 그리고 알고리즘을 바깥으로 꺼내는 데 성공합니다 같은 시각 주인공이 알고리즘 회수를 마친 타이밍에 아슬아슬하게 Kat은 남편 Sator를 총으로 쏘아 죽인다 그리고 그 시신을 바다에 던지고 자신도 배에서 다이빙을 하죠 테넷 초반부 남편에게서 벗어날 수 없는 자신의 처지를 비관하며 베트남 여행 때 배에서 뛰어 내리는 자유로워 보이는 여성의 모습을 동경하게 되었다는 Kat의 대사가 있었는데요 이건 남편 Sator가 아들 Max를 데려오라는 호출을 받고 다시 돌아오는 Kat이 남편을 죽이고 진정한 자유를 얻은 미래의 Kat 자신의 모습을 목격한 것이었죠 이 역시 일어난 일은 반드시 일어난다는 걸 보여주는 장면입니다 알고리즘의 존재를 아는 자는 존재해서는 안 된다는 것이 바로 Ives의 입장입니다 Ives는 알고리즘을 3등분하여 각자 숨기고 각자 알아서 원하는 때에 자결을 하자고 하죠 Neil은 자신의 알고리즘을 주인공에게 맡깁니다 그리고 떠나며 말하죠 미래의 자신을 테넷 요원으로 뽑은 사람이 바로 주인공이라고요 주인공에게 Neil과의 우정은 이제 시작이지만 미래인 Neil에게 있어 주인공과의 우정은 오늘 여기까지가 마지막이라고 말합니다 그때 주인공은 슬픈 표정을 짓고 있고 Neil은 그런 주인공을 보며 애써 밝게 웃어 보이는데요 그렇게 떠나가는 Neil의 등에 맨 가방의 붉은 끈과 동그란 금속으로 된 장치가 보이는데 이는 스탈스크 12 그라운드 제로에서 위기의 순간 갑자기 나타나 주인공 대신 총을 맞았던 얼굴을 가린 누군가의 가방에 있던 장식과 같습니다 아마 이 이별 직후 Neil은 시간을 역행하여 주인공을 구하고 죽었을 걸로",
+  "movie_id": "테넷",
+  "reviewer": "민호타우르스",
+  "chunk_index": 5,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "KAT",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Kat은 Sator의 아내이자 Max의 어머니로, 남편으로부터 벗어나고 싶어하며 결국 남편을 총으로 쏘아 죽이고 자유를 얻는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "SATOR",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Sator는 Kat의 남편이자 Max의 아버지로, 미래에서 온 인물이며 알고리즘을 모으려 하고 마지막에 Kat에게 총에 맞아 죽는다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "MAX",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Max는 Kat과 Sator의 아들이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "NEIL",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Neil은 테넷 요원으로 블루팀 소속이며, 인버전을 통해 주인공을 구하고 알고리즘 탈취 작전에 참여하며, 결국 주인공을 구하기 위해 희생하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "주인공",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "주인공은 테넷의 중심 인물로 알고리즘 회수 작전을 수행하며, 미래에 Neil을 테넷 요원으로 뽑은 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "IVES",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Ives는 알고리즘 탈취 작전에 참여하며, 알고리즘을 3등분하여 각자 숨기자고 제안하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "테넷",
+      "entity_type": "MOVIE",
+      "entity_description": "테넷은 시간 역행과 인버전을 다루는 영화로, 알고리즘을 둘러싼 작전과 캐릭터들의 관계를 그린다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "KAT",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "SATOR",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Kat은 Sator의 아내이며 결국 그를 총으로 쏘아 죽인다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "KAT",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "MAX",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Kat은 Max의 어머니이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "SATOR",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "MAX",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Sator는 Max의 아버지이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "NEIL",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "주인공",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Neil은 주인공과 우정을 나누며, 주인공을 구하기 위해 희생한다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "주인공",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "NEIL",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "주인공은 미래에 Neil을 테넷 요원으로 뽑은 인물이다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "IVES",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "주인공",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Ives는 주인공과 함께 동굴에서 알고리즘 탈취 작전을 수행한다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "NEIL",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "IVES",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Neil은 Ives와 주인공을 동굴에서 구출한다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "KAT",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "테넷",
+      "target_type": "MOVIE",
+      "relationship_description": "Kat은 테넷의 주요 등장인물이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "SATOR",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "테넷",
+      "target_type": "MOVIE",
+      "relationship_description": "Sator는 테넷의 주요 악역 캐릭터이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "NEIL",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "테넷",
+      "target_type": "MOVIE",
+      "relationship_description": "Neil은 테넷의 핵심 등장인물이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "주인공",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "테넷",
+      "target_type": "MOVIE",
+      "relationship_description": "주인공은 테넷의 중심 인물이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "IVES",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "테넷",
+      "target_type": "MOVIE",
+      "relationship_description": "Ives는 테넷의 등장인물이다",
+      "relationship_strength": 8
+    }
+  ],
+  "entity_resolution": {
+    "KAT": {
+      "description": "KAT -> Kat",
+      "resolved_name": "Kat",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "SATOR": {
+      "description": "SATOR -> Andrei Sator",
+      "resolved_name": "Andrei Sator",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "MAX": {
+      "description": "MAX -> MAX",
+      "resolved_name": "MAX",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "NEIL": {
+      "description": "NEIL -> Neil",
+      "resolved_name": "Neil",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "주인공": {
+      "description": "주인공 -> 레인",
+      "resolved_name": "레인",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "IVES": {
+      "description": "IVES -> IVES",
+      "resolved_name": "IVES",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "테넷": {
+      "description": "테넷 -> 테넷",
+      "resolved_name": "테넷",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "name_exact"
+    }
+  }
+}

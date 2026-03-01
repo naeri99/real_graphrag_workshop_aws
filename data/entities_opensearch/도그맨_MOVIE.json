@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "도그맨",
+    "synonym": [
+      "Dog Man",
+      "DogMan",
+      "Dogman",
+      "dogman",
+      "강아지맨",
+      "개남자",
+      "도그 맨",
+      "도그맨",
+      "도그맨 영화",
+      "독맨"
+    ],
+    "entity_type": "MOVIE",
+    "summary": "도그맨",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -40,9 +40,12 @@ def get_secret(secret_name: str, region_name: str = "us-west-2") -> dict:
 def get_neptune_config() -> dict:
     """Secrets Manager에서 Neptune 설정을 가져옵니다."""
     secrets = get_secret("opensearch-credentials", region_name = AWS_REGION)
+    # Neptune Analytics는 포트 443 사용
+    endpoint = secrets.get('neptune_endpoint', '')
+    is_analytics = 'neptune-graph' in endpoint
     return {
-        'endpoint': secrets.get('neptune_endpoint', ''),
-        'port': secrets.get('neptune_port', '8182'),
+        'endpoint': endpoint,
+        'port': secrets.get('neptune_port', '443'),
         'read_endpoint': secrets.get('neptune_read_endpoint', '')
     }
 
@@ -68,7 +71,7 @@ def get_neptune_session():
 def sign_request(method: str, url: str, data: str = None) -> dict:
     """Sign request with SigV4 for IAM authentication."""
     session = get_neptune_session()
-    credentials = session.get_credentials()
+    credentials = session.get_credentials().get_frozen_credentials()
     
     if not credentials:
         raise ValueError("AWS credentials not found. Configure credentials using AWS CLI or environment variables.")
@@ -76,7 +79,7 @@ def sign_request(method: str, url: str, data: str = None) -> dict:
     headers = {'Content-Type': 'application/json'}
     request = AWSRequest(method=method, url=url, data=data, headers=headers)
     
-    signer = SigV4Auth(credentials, 'neptune-db', AWS_REGION)
+    signer = SigV4Auth(credentials, 'neptune-graph', AWS_REGION)
     signer.add_auth(request)
     
     return dict(request.headers)
@@ -84,52 +87,33 @@ def sign_request(method: str, url: str, data: str = None) -> dict:
 
 def execute_cypher(query: str, parameters: dict = None, **kwargs) -> dict:
     """
-    Execute a Cypher query against Neptune.
-    
-    Args:
-        query: Cypher query string
-        parameters: Optional dict of query parameters
-        **kwargs: Additional parameters (neo4j style) - will be merged with parameters
-    
-    Returns:
-        Query result as dict
-    
-    Examples:
-        # Style 1: dict parameters
-        execute_cypher(query, parameters={"data": nodes, "movie_id": "inception"})
-        
-        # Style 2: neo4j style kwargs
-        execute_cypher(query, data=nodes, movie_id="inception", chunk_id=1)
+    Execute a Cypher query against Neptune Analytics via SDK.
     """
-    url = f"https://{NEPTUNE_ENDPOINT}:{NEPTUNE_PORT}/openCypher"
-    
-    # Merge parameters dict with kwargs (neo4j style support)
+    # Merge parameters dict with kwargs
     all_params = {}
     if parameters:
         all_params.update(parameters)
     if kwargs:
         all_params.update(kwargs)
     
-    payload = {'query': query}
-    if all_params:
-        payload['parameters'] = json.dumps(all_params)
-    
-    headers = sign_request('POST', url, json.dumps(payload))
+    session = get_neptune_session()
+    client = session.client('neptune-graph', region_name=AWS_REGION)
     
     try:
-        response = requests.post(
-            url,
-            headers=headers,
-            json=payload,
-            verify=True
-        )
-        if response.status_code != 200:
-            print(f"Error {response.status_code}: {response.text}")
-            print(f"Query: {query[:300]}")
-            return None
-        return response.json()
+        query_kwargs = {
+            'graphIdentifier': NEPTUNE_ENDPOINT.split('.')[0],  # g-ha4s00hi48
+            'queryString': query,
+            'language': 'OPEN_CYPHER'
+        }
+        if all_params:
+            query_kwargs['parameters'] = all_params
+        
+        response = client.execute_query(**query_kwargs)
+        result = json.loads(response['payload'].read())
+        return result
     except Exception as e:
-        print(f"Exception: {e}")
+        print(f"Error: {e}")
+        print(f"Query: {query[:300]}")
         return None
 
 

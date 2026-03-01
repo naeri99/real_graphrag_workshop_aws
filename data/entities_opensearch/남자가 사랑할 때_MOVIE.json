@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "남자가 사랑할 때",
+    "synonym": [
+      "Man in Love",
+      "When A Man Loves A Woman",
+      "When a Man Loves",
+      "남사때",
+      "남사사",
+      "남자가 사랑 할 때",
+      "남자가 사랑할 때",
+      "남자가 사랑할때",
+      "남자가사랑할때",
+      "맨 인 러브"
+    ],
+    "entity_type": "MOVIE",
+    "summary": "남자가 사랑할 때",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

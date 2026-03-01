@@ -1,0 +1,18 @@
+{
+  "entity": {
+    "name": "워시 웨스트모어랜드",
+    "synonym": [
+      "Wash Westmoreland",
+      "워시",
+      "워시 웨스트모어랜드",
+      "워시웨스트랜드",
+      "워시웨스트모어랜드",
+      "웨스트랜드",
+      "웨스트모어랜드"
+    ],
+    "entity_type": "MOVIE_STAFF",
+    "summary": "워시 웨스트모어랜드은 영화 감독입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

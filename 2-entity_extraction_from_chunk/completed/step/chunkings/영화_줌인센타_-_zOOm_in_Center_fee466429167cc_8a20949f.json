@@ -1,0 +1,428 @@
+{
+  "chunk_hash": "fee466429167cc",
+  "chunk_id": "영화_줌인센타_-_zOOm_in_Center_fee466429167cc_8a20949f",
+  "user_query": "아 주민 여러분 안녕하세요 주민센터 센터장입니다 한국 영화사에 길이 남을 형사가 셋 있습니다 괴물형사 마석도 혼자야 어 아직 싱글이야 강동구 강력반 강중 형이 돈이 없다 그래서고 말 안 듣는다 그래서고 그은대 번 연병장 두 바퀴다 그리고 우리가 돈이 없지 가오가 없어 어 돈은 없지만 가오 만빵 사이다 형사 서도철 판 뒤집혔다 드디어 기다리고 기다리던 올해 최고의 기대작 베테랑 2 눈썹이 휘날리게 달려가서 보고 왔습니다 결론부터 말하자면 이래서 액션 키드 류승완이라고 하는구나 감독님 1편이 밀크 초콜릿이라면 2편은 다크 초콜릿 같다는 말을 하던데 이게 무슨 뜻일까요 스포 없는 개봉작 리뷰 베테랑 2 지금 주민 시작합니다 지금부터 판 뒤집혔다 대박난 영화의 후속편이 나오면 전 항상 기대하는 게 있습니다 바로 전편과의 연결성인데요 개봉 전부터 1편의 서도철 팀 그 멤버 그대로 나온다는 소식을 듣고 진짜 기대 많이 했죠 야 이 새끼 미스터봉 나이스 시간은 조태오 검거 후 몇 년 정도 지난 것 같습니다 야 애들을 다 때리면서 크는 거지 뭐 맞고만 다니지 마라 때려서 깽값 뜯는 건 참아도 저 터져서 병원비 내는 건 못 참는다 아빠는 아 아버지의 주옥같은 가르침을 받았던 도철의 초딩 아들이 고등학생이 되어 이번 사건에 피해자 중 한 명이 되는데요 애가 큰 걸 보니 대략 8, 9년 정도 지난 후인 것 같네요 정민 형님은 9년 만에 나온 속편이지만 관객들이 세월의 흐름을 느끼지 못하길 원해서 1편에서 입었던 본인의 그 점퍼를 다시 꺼내 입었다고 합니다 쪽팔리게 살진 말자 쪽팔리게 살지 말자던 정의로운 진경 누님은 그 미모 그대로 유지하고 있고요 음악도 빼놓을 수 없죠 음악 감독을 맡은 장영규 님은 방준석 음악감독이 작곡한 1편의 테마곡을 그대로 가져와 관객의 향수를 자극했습니다 조금 달라진 게 있다면 서울 지방 경찰청 광역수사대 강력 2팀이었던 서도철 팀 전원이 서울 경찰청 강력범죄 수사대 2계 2팀으로 옮겨졌습니다 사무실도 엄청 좋아졌던 여기 책임자 되십니까 아니 대국 경이러시면 안 되지 아니 법이 없어 여기는가 1편에서는 윗사람들 챙기던 강정식 총경을 맡았는데요 이번에는 팀장과 동기인 최한기 총경을 권해효 배우가 맡았네요 영화는 전편과 마찬가지로 미스터봉이 잠입하고 잔챙이들 일망타진하는 개그 시퀀스로 시작하는데요 오 팀장 미스터봉 왕형사 윤형사 모두 여전해서 너무 신납니다 형사는 몸으로 역사를 만드는 거 힘들게 잡아 쳐넣으면 뭐 하냐고요 증거까지 맞아가면서 겨우 잡아 넣었다가 금방 나오는 거 보면 허탈하지만 그래도 사건 해결할 때만큼은 신나기도 하고 반갑기도 하고 그런데 어허 개인적으로 개그 코드는 내 스타일이 아니었습니다 미스터봉의 쌍코피 같은 느낌 그리고 팀원들의 역할이 전편에 비해 너무 많이 줄었습니다 쫄지마 쫄지마 늙은이 안 죽어 전편과 마찬가지로 팀장은 여전히 가족 걱정 많이 하는 캐릭터인데요 애 대학 갈 때까지는 벌어야지 전편보다 더 걱정이 많아진 우리의 가장의 모습을 보는 것 같아 좀 짠하기도 했네요 조태오도 막말로 예 우리 형님",
+  "movie_id": "베테랑2",
+  "reviewer": "영화_줌인센타_-_zOOm_in_Center",
+  "chunk_index": 1,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "베테랑 2",
+      "entity_type": "MOVIE",
+      "entity_description": "베테랑 2는 2024년 개봉한 한국 액션 영화로, 베테랑 1편의 후속작이며 서도철 팀의 활약을 다룬 작품이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "베테랑",
+      "entity_type": "MOVIE",
+      "entity_description": "베테랑은 베테랑 2의 전편으로, 조태오 검거 사건을 다룬 한국 액션 영화이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "류승완",
+      "entity_type": "MOVIE_STAFF",
+      "entity_description": "류승완은 베테랑 2의 감독으로, 액션 키드라는 별명을 가진 감독이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "장영규",
+      "entity_type": "MOVIE_STAFF",
+      "entity_description": "장영규는 베테랑 2의 음악 감독으로, 1편의 테마곡을 활용하여 관객의 향수를 자극했다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "방준석",
+      "entity_type": "MOVIE_STAFF",
+      "entity_description": "방준석은 베테랑 1편의 음악감독으로, 테마곡을 작곡했다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "서도철",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "서도철은 베테랑 시리즈의 주인공으로, 돈은 없지만 가오 만빵인 사이다 형사이며 서울 경찰청 강력범죄 수사대 2계 2팀 팀장이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "마석도",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "마석도는 한국 영화사에 길이 남을 형사 중 한 명으로, 괴물형사라 불리며 아직 싱글인 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "강중",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "강중은 한국 영화사에 길이 남을 형사 중 한 명으로, 강동구 강력반 소속이며 돈이 없고 말 안 듣는 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "조태오",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "조태오는 베테랑 1편에서 서도철 팀에 의해 검거된 악역 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "미스터봉",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "미스터봉은 서도철 팀의 팀원으로, 잠입 수사와 개그 시퀀스를 담당하며 쌍코피 개그를 보여주는 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "진경",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "진경은 서도철 팀의 팀원으로, 쪽팔리게 살지 말자는 정의로운 누님 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "왕형사",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "왕형사는 서도철 팀의 팀원이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "윤형사",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "윤형사는 서도철 팀의 팀원이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "강정식",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "강정식은 베테랑 1편에서 윗사람들 챙기던 총경 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "최한기",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "최한기는 베테랑 2에서 서도철 팀장과 동기인 총경 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "권해효",
+      "entity_type": "ACTOR",
+      "entity_description": "권해효는 베테랑 2에서 최한기 총경 역을 맡은 배우이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "정민",
+      "entity_type": "ACTOR",
+      "entity_description": "정민은 베테랑 시리즈에 출연한 배우로, 9년 만에 나온 속편에서 1편에서 입었던 점퍼를 다시 입었다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "주민",
+      "entity_type": "REVIEWER",
+      "entity_description": "주민은 베테랑 2를 리뷰하는 유튜버/리뷰어로, 주민센터 센터장이라 자칭하며 스포 없는 개봉작 리뷰를 진행한다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "류승완",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "베테랑 2",
+      "target_type": "MOVIE",
+      "relationship_description": "류승완은 베테랑 2의 감독이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "장영규",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "베테랑 2",
+      "target_type": "MOVIE",
+      "relationship_description": "장영규는 베테랑 2의 음악 감독을 맡았다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "방준석",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "베테랑",
+      "target_type": "MOVIE",
+      "relationship_description": "방준석은 베테랑 1편의 테마곡을 작곡했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "서도철",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "베테랑 2",
+      "target_type": "MOVIE",
+      "relationship_description": "서도철은 베테랑 2의 주인공이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "서도철",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "베테랑",
+      "target_type": "MOVIE",
+      "relationship_description": "서도철은 베테랑 1편의 주인공이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "미스터봉",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "베테랑 2",
+      "target_type": "MOVIE",
+      "relationship_description": "미스터봉은 베테랑 2에 등장하는 서도철 팀의 팀원이다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "미스터봉",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "서도철",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "미스터봉은 서도철 팀의 팀원이다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "진경",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "서도철",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "진경은 서도철 팀의 팀원이다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "왕형사",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "서도철",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "왕형사는 서도철 팀의 팀원이다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "윤형사",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "서도철",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "윤형사는 서도철 팀의 팀원이다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "조태오",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "베테랑",
+      "target_type": "MOVIE",
+      "relationship_description": "조태오는 베테랑 1편에서 검거된 악역이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "조태오",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "서도철",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "조태오는 서도철 팀에 의해 검거되었다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "최한기",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "베테랑 2",
+      "target_type": "MOVIE",
+      "relationship_description": "최한기는 베테랑 2에 등장하는 총경 캐릭터이다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "최한기",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "서도철",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "최한기는 서도철 팀장과 동기이다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "권해효",
+      "source_type": "ACTOR",
+      "target_entity": "최한기",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "권해효는 최한기 총경 역을 연기했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "강정식",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "베테랑",
+      "target_type": "MOVIE",
+      "relationship_description": "강정식은 베테랑 1편에 등장하는 총경 캐릭터이다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "정민",
+      "source_type": "ACTOR",
+      "target_entity": "베테랑 2",
+      "target_type": "MOVIE",
+      "relationship_description": "정민은 베테랑 2에 출연한 배우이다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "정민",
+      "source_type": "ACTOR",
+      "target_entity": "베테랑",
+      "target_type": "MOVIE",
+      "relationship_description": "정민은 베테랑 1편에 출연한 배우이다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "베테랑 2",
+      "source_type": "MOVIE",
+      "target_entity": "베테랑",
+      "target_type": "MOVIE",
+      "relationship_description": "베테랑 2는 베테랑의 후속편이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "주민",
+      "source_type": "REVIEWER",
+      "target_entity": "베테랑 2",
+      "target_type": "MOVIE",
+      "relationship_description": "주민은 베테랑 2를 리뷰했다",
+      "relationship_strength": 8
+    }
+  ],
+  "entity_resolution": {
+    "베테랑 2": {
+      "description": "베테랑 2 -> 베테랑2",
+      "resolved_name": "베테랑2",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "베테랑": {
+      "description": "베테랑 -> 베테랑2",
+      "resolved_name": "베테랑2",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "류승완": {
+      "description": "류승완 -> 류승완",
+      "resolved_name": "류승완",
+      "entity_type": "MOVIE_STAFF",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "장영규": {
+      "description": "장영규 -> 장영규",
+      "resolved_name": "장영규",
+      "entity_type": "MOVIE_STAFF",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "방준석": {
+      "description": "방준석 -> 방준석",
+      "resolved_name": "방준석",
+      "entity_type": "MOVIE_STAFF",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "서도철": {
+      "description": "서도철 -> 서도철",
+      "resolved_name": "서도철",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "마석도": {
+      "description": "마석도 -> 마석도",
+      "resolved_name": "마석도",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "강중": {
+      "description": "강중 -> 강중",
+      "resolved_name": "강중",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "조태오": {
+      "description": "조태오 -> 조태오",
+      "resolved_name": "조태오",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "미스터봉": {
+      "description": "미스터봉 -> 오재평",
+      "resolved_name": "오재평",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "진경": {
+      "description": "진경 -> 진경",
+      "resolved_name": "진경",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "왕형사": {
+      "description": "왕형사 -> 왕동현",
+      "resolved_name": "왕동현",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "윤형사": {
+      "description": "윤형사 -> 윤형사",
+      "resolved_name": "윤형사",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "강정식": {
+      "description": "강정식 -> 강정식",
+      "resolved_name": "강정식",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "최한기": {
+      "description": "최한기 -> 최한기",
+      "resolved_name": "최한기",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "권해효": {
+      "description": "권해효 -> 권해효",
+      "resolved_name": "권해효",
+      "entity_type": "ACTOR",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "정민": {
+      "description": "정민 -> 박정민",
+      "resolved_name": "박정민",
+      "entity_type": "ACTOR",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "주민": {
+      "description": "주민 -> 주민",
+      "resolved_name": "주민",
+      "entity_type": "REVIEWER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

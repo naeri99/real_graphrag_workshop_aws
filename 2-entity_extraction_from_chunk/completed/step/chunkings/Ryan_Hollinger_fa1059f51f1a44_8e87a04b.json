@@ -1,0 +1,146 @@
+{
+  "chunk_hash": "fa1059f51f1a44",
+  "chunk_id": "Ryan_Hollinger_fa1059f51f1a44_8e87a04b",
+  "user_query": "that gordo is seeking retribution for simon's bullying and the distressing lies that led gordo to nearly being murdered by his own father for allegedly being homosexual resulting in gordo's traumatized childhood and the arrest of his father gordo's intent is to emotionally manipulate the couple against each other he turns robin against simon as she becomes gradually disillusioned by simon's increasingly sinister behavior earlier in the film simon tells robin that while everyone changed gordo stayed to see him yet later while blaming gordo for being stuck in a moment feeling sorry for himself the reality becomes clear that simon hasn't changed either you're a bully you are then and you still are now he's still a bully and this becomes realized in his pressure towards his wife cheating dany out of a job through fabrication and forcing gordo to accept an insincere apology in fact simon's school friend greg summarizes the entire point of the conflict it's amazing how an idea can take a hold really bring a person down that line best encapsulates the thematics of the film there is this emphasis on how looks can be deceiving but fundamentally we have this natural tendency to generalize assumptions without knowing the full picture we see this in both simon and gordo's performances jason bateman does make us sympathetic of simon initially but there is a constant stress that begins to overwhelm his character as the film progresses and simon's attempts to maintain his mature composure",
+  "movie_id": "더 기프트",
+  "reviewer": "Ryan_Hollinger",
+  "chunk_index": 3,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "GORDO",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Gordo는 Simon의 학교 폭력과 거짓말로 인해 아버지에게 동성애자로 오해받아 거의 살해당할 뻔했고, 아버지의 체포와 트라우마적 어린 시절을 겪은 인물이다. 그는 부부를 감정적으로 조종하여 서로 대립하게 만들려는 의도를 가지고 있다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "SIMON",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Simon은 과거 학교에서 Gordo를 괴롭힌 불리이며, 현재도 변하지 않은 불리로 묘사된다. 아내에게 압박을 가하고, Dany의 직장을 조작으로 빼앗으며, Gordo에게 진심 없는 사과를 강요하는 등 점점 더 사악한 행동을 보인다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "ROBIN",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Robin은 Simon의 아내로, Gordo의 조종에 의해 점차 Simon의 사악한 행동에 환멸을 느끼게 되는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "GREG",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Greg는 Simon의 학교 친구로, 영화의 갈등 핵심을 요약하는 대사를 전달하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "DANY",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Dany는 Simon의 조작으로 인해 직장을 빼앗긴 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "JASON BATEMAN",
+      "entity_type": "ACTOR",
+      "entity_description": "Jason Bateman은 Simon 역을 맡은 배우로, 처음에는 관객이 Simon에게 동정심을 느끼게 하지만 영화가 진행되면서 캐릭터를 압도하는 스트레스와 성숙한 태도를 유지하려는 시도를 연기했다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "GORDO",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "SIMON",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Gordo는 Simon의 과거 학교 폭력 피해자이며, Simon에게 복수를 추구한다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "GORDO",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "ROBIN",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Gordo는 Robin을 감정적으로 조종하여 Simon에게 등을 돌리게 만든다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "SIMON",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "ROBIN",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Simon은 Robin의 남편이며, Robin은 Simon의 사악한 행동에 점차 환멸을 느낀다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "SIMON",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "DANY",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Simon은 조작을 통해 Dany의 직장을 빼앗았다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "GREG",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "SIMON",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Greg는 Simon의 학교 친구이며 영화의 갈등을 요약하는 역할을 한다",
+      "relationship_strength": 6
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "JASON BATEMAN",
+      "source_type": "ACTOR",
+      "target_entity": "SIMON",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Jason Bateman은 Simon 역을 연기했다",
+      "relationship_strength": 10
+    }
+  ],
+  "entity_resolution": {
+    "GORDO": {
+      "description": "GORDO -> GORDO",
+      "resolved_name": "GORDO",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "SIMON": {
+      "description": "SIMON -> SIMON",
+      "resolved_name": "SIMON",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "ROBIN": {
+      "description": "ROBIN -> ROBIN",
+      "resolved_name": "ROBIN",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "GREG": {
+      "description": "GREG -> GREG",
+      "resolved_name": "GREG",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "DANY": {
+      "description": "DANY -> DANY",
+      "resolved_name": "DANY",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "JASON BATEMAN": {
+      "description": "JASON BATEMAN -> JASON BATEMAN",
+      "resolved_name": "JASON BATEMAN",
+      "entity_type": "ACTOR",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

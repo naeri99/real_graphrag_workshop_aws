@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "마이클 하버드",
+    "synonym": [
+      "Michael Havers",
+      "Michael Hubbard",
+      "마이클",
+      "마이클 하버드",
+      "마이클 허버드",
+      "마이클하버드",
+      "마이클허버드",
+      "하버드",
+      "허버드"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "마이클 하버드은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

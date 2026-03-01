@@ -1,0 +1,25 @@
+{
+  "entity": {
+    "name": "Kate",
+    "synonym": [
+      "Beckinsale",
+      "Kate",
+      "마라",
+      "베킨세일",
+      "캐이트",
+      "케이트",
+      "케이트 마라",
+      "케이트 베킨세일",
+      "케이트 블레인",
+      "케이트마라",
+      "케이트베킨세일",
+      "케잇",
+      "케잇 마라",
+      "케잇 베킨세일"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "Kate은 영화 '카산드라 드림'의 등장인물로, 해일리 엣웰이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

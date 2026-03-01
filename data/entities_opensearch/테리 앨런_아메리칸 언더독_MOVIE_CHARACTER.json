@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "테리 앨런",
+    "synonym": [
+      "Alan Greenspan",
+      "Greenspan",
+      "Terry Allen",
+      "그린스펀",
+      "알란 그린스펀",
+      "앨런",
+      "앨런그린스펀",
+      "테리",
+      "테리 알렌",
+      "테리 앨런",
+      "테리앨런"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "테리 앨런은 영화 '아메리칸 언더독'의 등장인물로, 아담 볼드윈이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

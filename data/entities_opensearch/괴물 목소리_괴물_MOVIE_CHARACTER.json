@@ -1,0 +1,23 @@
+{
+  "entity": {
+    "name": "괴물 목소리",
+    "synonym": [
+      "Monster Voice",
+      "괴물",
+      "괴물 목소리",
+      "괴물 보이스",
+      "괴물 소리",
+      "괴물목소리",
+      "괴물소리",
+      "괴물음성",
+      "괴물의 목소리",
+      "괴수 목소리",
+      "몬스터",
+      "크리처 목소리"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "괴물 목소리은 영화 '괴물'의 등장인물로, 오달수이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

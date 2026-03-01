@@ -1,0 +1,104 @@
+{
+  "movie_title": "미드소마",
+  "director": [
+    {
+      "name": "아리 에스터",
+      "name_en": "Ari Aster"
+    }
+  ],
+  "cast": [
+    {
+      "actor": "플로렌스 퓨",
+      "actor_en": "Florence Pugh",
+      "character": "Dani"
+    },
+    {
+      "actor": "잭 레이너",
+      "actor_en": "Jack Reynor",
+      "character": "Christian"
+    },
+    {
+      "actor": "윌 폴터",
+      "actor_en": "Will Poulter",
+      "character": "Mark"
+    },
+    {
+      "actor": "윌리암 잭슨 하퍼",
+      "actor_en": "William Jackson Harper",
+      "character": "Josh"
+    },
+    {
+      "actor": "빌헬름 브롬그렌",
+      "actor_en": "Vilhelm Blomgren",
+      "character": "펠레"
+    },
+    {
+      "actor": "이사벨 그릴",
+      "actor_en": "Isabelle Grill",
+      "character": "시브"
+    },
+    {
+      "actor": "아치 마데크웨",
+      "actor_en": "Archie Madekwe",
+      "character": "사이먼"
+    },
+    {
+      "actor": "엘로라 토르치아",
+      "actor_en": "Ellora Torchia",
+      "character": "코니"
+    },
+    {
+      "actor": "구넬 프레드",
+      "actor_en": "Gunnel Fred",
+      "character": "Siv"
+    },
+    {
+      "actor": "헨릭 노를렌",
+      "actor_en": "Henrik Norlén",
+      "character": "Ulf"
+    },
+    {
+      "actor": "햄푸스 할베리",
+      "actor_en": "Hampus Hallberg",
+      "character": "Ingemar"
+    },
+    {
+      "actor": "안나 아스트롬",
+      "actor_en": "Anna Åström",
+      "character": "Karin"
+    },
+    {
+      "actor": "라르스 바스트룹",
+      "actor_en": "Lars Väringer",
+      "character": "Stev"
+    },
+    {
+      "actor": "줄리아 라그나르손",
+      "actor_en": "Julia Ragnarsson",
+      "character": "Inga"
+    },
+    {
+      "actor": "마츠 블롬그렌",
+      "actor_en": "Mats Blomgren",
+      "character": "Odd"
+    },
+    {
+      "actor": "비요른 안드레센",
+      "actor_en": "Björn Andrésen",
+      "character": "Dan"
+    },
+    {
+      "actor": "리브 미엘",
+      "actor_en": "Liv Mjönes",
+      "character": "Ulla"
+    }
+  ],
+  "review": [
+    "./data/review/미드소마/미드소마_-ve0O5B1Ens.json",
+    "./data/review/미드소마/미드소마_K4Lb4RCTP3g.json",
+    "./data/review/미드소마/미드소마_LE-oAu30LFI.json",
+    "./data/review/미드소마/미드소마_NVGzD85a5yc.json",
+    "./data/review/미드소마/미드소마_nkDCo0cpZ4Y.json",
+    "./data/review/미드소마/미드소마_rDUQDoJcu5E.json"
+  ]
+}

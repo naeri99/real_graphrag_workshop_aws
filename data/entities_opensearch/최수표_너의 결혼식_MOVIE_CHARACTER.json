@@ -1,0 +1,28 @@
+{
+  "entity": {
+    "name": "최수표",
+    "synonym": [
+      "Choi Su-pyo",
+      "Choi Supyo",
+      "ChoiSuPyo",
+      "Choisupyo",
+      "Su-pyo",
+      "Supyo",
+      "수표",
+      "수표 역",
+      "수표 캐릭터",
+      "수표 형",
+      "수표씨",
+      "수표야",
+      "수표형",
+      "장성범 캐릭터",
+      "채수표",
+      "최 수표",
+      "최수표"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "최수표은 영화 '너의 결혼식'의 등장인물로, 장성범이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

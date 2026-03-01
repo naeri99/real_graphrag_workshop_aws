@@ -1,0 +1,159 @@
+{
+  "chunk_hash": "bf714e1a473138",
+  "chunk_id": "무드킹_bf714e1a473138_d0527fc0",
+  "user_query": "very good wow you like it very you very impressive well do you want to see your room sure this is my room look at that television i know what's the matter [Music] you want me to get that no dad just leave it it's fine please leave me a message look i need the apartment back sooner than i thought so call me yeah you look tired would you be okay with that yeah i'm thinking of flying you never fly remember when your mother taught you how to eat spaghetti yep sometimes i pick up the phone to dial her number and then i remember the number's still the same and i'm still on the other end yes i don't know what it is with you kids i'd say hello you'd say hi dad mom there she was a good listener you were a good talker you pushed us pretty hard that's not true i i didn't all feel that way did you david felt it the most he so never wanted to leave down couldn't have said it you turned out okay i don't know dad look at you you were gifted nobody pushed you what did you want to be when you were my age i just wanted to hold down a job but when you guys came along things were different all i want to do is just be a good father that's all i'll come visit you wanna go seoul around the same table i have to give it to each of you i will bring keep asking myself why you all lied to me amy jeff wore the same shirt to work he doesn't live with you anymore does he there's another woman that's why jack hates me man tom came over to me at this they want to make an impression didn't he i want to know",
+  "movie_id": "에브리바디스 파인",
+  "reviewer": "무드킹",
+  "chunk_index": 6,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "DAD",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "아버지 캐릭터로, 자녀들과의 관계에서 좋은 아버지가 되고 싶어했던 인물이다. 아내를 잃었으며 자녀들을 엄하게 키웠다는 이야기를 나눈다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "DAVID",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "아버지의 아들 중 한 명으로, 아버지의 엄격한 양육을 가장 많이 느꼈던 인물이다. 떠나고 싶어하지 않았다고 언급된다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "AMY",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "아버지의 자녀 중 한 명으로, 제프와 관련된 거짓말에 연루된 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "JEFF",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "에이미와 관련된 인물로, 같은 셔츠를 입고 출근했으며 더 이상 함께 살지 않는 것으로 언급된다. 다른 여자가 있다고 암시된다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "JACK",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "아버지를 미워하는 것으로 언급되는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "TOM",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "인상을 주고 싶어서 다가왔다고 언급되는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "MOTHER",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "아버지의 아내이자 자녀들의 어머니로, 스파게티 먹는 법을 가르쳐주었고 좋은 경청자였다고 회상된다. 이미 세상을 떠난 것으로 보인다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "DAD",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "DAVID",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "아버지와 데이비드는 부자 관계이며, 데이비드는 아버지의 엄격한 양육을 가장 많이 느꼈다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "DAD",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "MOTHER",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "아버지와 어머니는 부부 관계였으며, 아버지는 여전히 어머니에게 전화하려고 할 때가 있다고 회상한다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "DAD",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "AMY",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "아버지와 에이미는 부녀 관계이며, 에이미가 거짓말을 한 것에 대해 아버지가 의문을 품고 있다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "DAD",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "JACK",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "아버지와 잭의 관계로, 잭이 아버지를 미워한다고 언급된다",
+      "relationship_strength": 6
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "AMY",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "JEFF",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "에이미와 제프는 함께 살았던 관계였으나 현재는 함께 살지 않으며, 제프에게 다른 여자가 있다고 암시된다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "MOTHER",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "DAVID",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "어머니는 데이비드의 어머니로, 스파게티 먹는 법을 가르쳐주는 등 자녀들을 돌보았다",
+      "relationship_strength": 7
+    }
+  ],
+  "entity_resolution": {
+    "DAD": {
+      "description": "DAD -> DAD",
+      "resolved_name": "DAD",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "DAVID": {
+      "description": "DAVID -> DAVID",
+      "resolved_name": "DAVID",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "AMY": {
+      "description": "AMY -> Amy",
+      "resolved_name": "Amy",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "JEFF": {
+      "description": "JEFF -> JEFF",
+      "resolved_name": "JEFF",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "JACK": {
+      "description": "JACK -> JACK",
+      "resolved_name": "JACK",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "TOM": {
+      "description": "TOM -> Tom Howland",
+      "resolved_name": "Tom Howland",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "MOTHER": {
+      "description": "MOTHER -> MOTHER",
+      "resolved_name": "MOTHER",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

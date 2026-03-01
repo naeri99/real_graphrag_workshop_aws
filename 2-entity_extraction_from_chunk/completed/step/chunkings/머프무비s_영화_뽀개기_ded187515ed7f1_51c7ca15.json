@@ -1,0 +1,177 @@
+{
+  "chunk_hash": "ded187515ed7f1",
+  "chunk_id": "머프무비s_영화_뽀개기_ded187515ed7f1_51c7ca15",
+  "user_query": "km지만 알기 쉽게 여기선 시속 900킬로라 정하고 다시 Murph B가 묻습니다 빛의 속도가 얼마야 뭐 Murph B는 천 킬로라고 대답합니다 구라 치지 말라고 Murph A가 소리칩니다 틀렸을까요 아닙니다 이번에도 정답입니다 빛의 속도는 이상하게도 우주선을 탄 Murph A가 봐도 구백 Murph B가 봐도 구백 우리 같으면 구라 치지 말라고 했을 상황이지만 아인슈타인은 이렇게 생각했죠 빛의 속도는 관측자의 운동의 상관없이 고정된 것 아닐까 4 이것이 광속 불변의 원리고 아인슈타인은 이런 사실을 머리속 실험으로만 이끌어냈죠 그럼 광속이 불변이라면 변하는 건 무엇일까요 그건 바로 시간입니다 우리가 익히 알고 있는 속도라는 단위시간당 이동 거리인데 우주선이 이동한 만큼 거리가 늘었는데도 속도는 그대로다 그런 변하는 건 시간 즉 다시 말해 빠르게 움직이는 물체의 시간은 느리게 흐른다 라는 특수 상대성 이론이 만들어집니다 이는 기존의 시간과 공간이 절대적이라는 보전 물리학을 뒤집으며 특정 공간에서 시간이 상대적으로 달라진다는 시공간의 표현 또 이때부터 생겨난 것이죠 여기에 보통 물체는 등속도보다 가속도 운동을 하게 이런 상황을 또 생각해 볼 수 있습니다 우주선을 타고 있는 Murph A는 무중력 상태인데 우주선이 일정하게 속도를 높이게 되면 관성에 의해 몸이 바닥에 붙게 되죠 그런데 지구에 착륙한 Murph B 역시 마찬가지로 몸이 바닥에 붙게 됩니다 만약 우주선 밖을 볼 수 없다고 한다면 Murph A와 B는 어떤 차이도 없습니다 여기서 우리는 아무 생각이 없겠지만 아인슈타인은 달랐죠 가속도에 의해 생기는 힘과 중력이 사실 같은 게 아닐까 라고 생각하게 됩니다 4 왜 이것이 아인슈타인 스스로 인생에서 가장 행복한 상상이라 말한 중력은 가속도와 같다는 등가 원리입니다 다시 말해 중력이 높다면 가속도가 높은 것이고 가속도가 높은 시공간에선 시간이 느리게 흐르죠 즉 중력이 높은 곳에선 시간은 느리다가 성립합니다 그리고 더 나아가 질량을 가진 물체는 주변 시공간에 영향을 미치기에 휜 공간과 휜 시간을 만들게 되는데 중력이 극도로 높아져 빛마저 빠져나올 수 없을 정도로 휘어버린 시공간이 바로 블랙홀이죠 인터스텔라에선 그 무엇보다 블랙홀인 가르강튀아 표현에 공을 들였고 영화 개봉 후 2019년 실제 발견된 블랙홀과 비교해도 매우 유사한 형태를 보여주었습니다 하지만 아인슈타인 로젠 다리로도 불리는 웜홀 시공간을 가로지른다는 개념은 이론적으로는 가능하다고 하지만 아직 존재 자체도 불투명하고 영화처럼 인류 미래가 인위적으로 만들 수 있는지 여부도 현재로썬 미지수입니다 하지만 블랙홀도 처음엔 미지수였다는 뜻 미래에는 어떻게 바뀔지 또 모를 일이죠 영화에서 Brand 박사와 Murph가 풀려고 했던 중력 방정식 좀 더 정확하게는 아인슈타인의 중력 방정식을 제어하는 방법을 찾아 플랜A를 실현하는 것이 목적 즉 한번에 살아남은 인류를 데리고 우주로 나아가려면 수없이 많은 우주선을 만들던가 혹은 중력을 거스르는 방법을 찾아야 했습니다 하지만 일반 상대성 이론에서",
+  "movie_id": "인터스텔라",
+  "reviewer": "머프무비s_영화_뽀개기",
+  "chunk_index": 7,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "MURPH A",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Murph A는 우주선을 타고 있는 인물로, 무중력 상태에서 가속도 운동과 시간 지연을 경험하는 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "MURPH B",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Murph B는 지구에 있는 인물로, 중력과 시간의 관계를 설명하는 데 사용되는 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "MURPH",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Murph는 Brand 박사와 함께 중력 방정식을 풀려고 했던 인물로, 플랜A 실현을 위해 노력한 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "BRAND 박사",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Brand 박사는 Murph와 함께 중력 방정식을 풀려고 했던 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "인터스텔라",
+      "entity_type": "MOVIE",
+      "entity_description": "인터스텔라는 블랙홀인 가르강튀아 표현에 공을 들인 SF 영화로, 상대성 이론과 중력, 시간 지연 등의 과학적 개념을 다룬 작품이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "아인슈타인",
+      "entity_type": "MOVIE_STAFF",
+      "entity_description": "아인슈타인은 광속 불변의 원리, 특수 상대성 이론, 등가 원리, 일반 상대성 이론을 정립한 물리학자로, 영화의 과학적 기반이 되는 이론들을 만든 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "가르강튀아",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "가르강튀아는 인터스텔라에 등장하는 블랙홀로, 2019년 실제 발견된 블랙홀과 매우 유사한 형태로 표현되었다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "MURPH A",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "인터스텔라",
+      "target_type": "MOVIE",
+      "relationship_description": "Murph A는 인터스텔라에서 상대성 이론을 설명하는 데 등장하는 캐릭터이다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "MURPH B",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "인터스텔라",
+      "target_type": "MOVIE",
+      "relationship_description": "Murph B는 인터스텔라에서 상대성 이론을 설명하는 데 등장하는 캐릭터이다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "MURPH A",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "MURPH B",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Murph A와 Murph B는 빛의 속도와 시간 지연을 설명하기 위해 비교되는 두 인물이다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "MURPH",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "인터스텔라",
+      "target_type": "MOVIE",
+      "relationship_description": "Murph는 인터스텔라에서 중력 방정식을 풀려고 노력하는 주요 캐릭터이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "BRAND 박사",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "인터스텔라",
+      "target_type": "MOVIE",
+      "relationship_description": "Brand 박사는 인터스텔라에서 중력 방정식 연구를 하는 캐릭터이다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "MURPH",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "BRAND 박사",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Murph와 Brand 박사는 함께 중력 방정식을 풀려고 협력한 관계이다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "가르강튀아",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "인터스텔라",
+      "target_type": "MOVIE",
+      "relationship_description": "가르강튀아는 인터스텔라에 등장하는 블랙홀로, 영화에서 중요한 시각적 요소이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "아인슈타인",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "인터스텔라",
+      "target_type": "MOVIE",
+      "relationship_description": "아인슈타인의 상대성 이론은 인터스텔라의 과학적 기반이 되었다",
+      "relationship_strength": 7
+    }
+  ],
+  "entity_resolution": {
+    "MURPH A": {
+      "description": "MURPH A -> MURPH A",
+      "resolved_name": "MURPH A",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "MURPH B": {
+      "description": "MURPH B -> MURPH B",
+      "resolved_name": "MURPH B",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "MURPH": {
+      "description": "MURPH -> Murph (older)",
+      "resolved_name": "Murph (older)",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "BRAND 박사": {
+      "description": "BRAND 박사 -> BRAND 박사",
+      "resolved_name": "BRAND 박사",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "인터스텔라": {
+      "description": "인터스텔라 -> 인터스텔라",
+      "resolved_name": "인터스텔라",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "아인슈타인": {
+      "description": "아인슈타인 -> 아인슈타인",
+      "resolved_name": "아인슈타인",
+      "entity_type": "MOVIE_STAFF",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "가르강튀아": {
+      "description": "가르강튀아 -> 가르강튀아",
+      "resolved_name": "가르강튀아",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

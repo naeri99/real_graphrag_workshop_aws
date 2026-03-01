@@ -1,0 +1,13 @@
+{
+  "entity": {
+    "name": "Eugene_Kim_Photography",
+    "synonym": [
+      "Eugene_Kim_Photography",
+      "Eugene Kim Photography"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "Eugene_Kim_Photography은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

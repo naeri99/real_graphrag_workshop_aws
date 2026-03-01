@@ -1,0 +1,84 @@
+{
+  "chunk_hash": "cd7cfef28246b7",
+  "chunk_id": "Sound_Sound_다니엘_cd7cfef28246b7_3c1b32b6",
+  "user_query": "거 없어 대부분의 남자들에게는 그게 일상이거든 나도 이러는 거 굉장히 속상해요 나도 속상해 아 죄송합니다 처음부터 너무 또 상처 주는 이야기를 했네요 제가 여자분들한테 상처를 너무 많이 주는 거 같습니다 보니 아니게 현실에서도 그렇고 방송에서도 그렇고 그래 천국은 못 갈 것 같다 자 이제부터 좀 본론을 이야기하고 하고 싶은데 여러분 있잖아요 관계를 잘하려면 뭐부터 배워야 될까 관계를 진짜 잘하고 싶으면 어떤 학문을 배워야 될까요 도덕 아 도덕 심리 나 자신을 알아야 자기에 대한 학문 아 다 좋은 말입니다 요즘 제 생각은 뭐냐면 아동 교육 아동 교육을 공부해야 됩니다 그리고 연애는 특히 더 그래 연애를 잘하려면 아동 심리를 더 공부해야 된다니까 아이를 다룰 줄 아는 사람은 모든 성인을 마음대로 다룰 수 있고 이해할 수 있다고 생각을 해요 근데 이게 당연한 이야기가 관계에서 갈등이 생길 때 서로 상처를 주고받을 때 그리고 어떤 성인이 미성숙한 행동을 하는 이유는 아이 같은 모습이 나와서거든요 아무리 성인군자 같은 사람이라도 살다 보면 애 같은 모습이 튀어나온다고 그게 당연한 거고 그 여러분 그 갑자기 튀어나오는 그 내면 아이라고 해야 될까요 내면 아이 그러니까 아이는 사람들한테 어떻게 해요 모든 어른들이 다 부모님이라고 생각을 하고 생때를 쓴단 말이야 근데 이런 느낌의 세계관은 이런 맥락의 세계관은 정말 많은 문인들이 자기 작품의 세계관에 담습니다 예를 들어서 김영하 작가라고 아실 거예요 작별 인사 쓰신 분 김영하 작가도 방송에서 이런 이야기를 하죠 연인이 된다는 것은 서로 새로운 부모님을 찾는 것과 비슷한 여정이 그러니까 남자는 새로운 어머니를 찾고 여자는 새로운 아버지를 찾는다는 거죠 성인이 되면 친아빠 친엄마한테 독립을 하니까 육아의 목적이 독립이잖아 근데 그러면 어떻게 돼 분리 불안이 생기지 그리고 그걸 채우기 위해서는 남자는 엄마 같은 여자 여자는 아빠 같은 남자를 찾게 되는 거고 그러니까 이 세계관이 굉장히 지극히 정신분석학적인 세계관이에요 그 프로이트 이원론 이런 세계관을 채택하지 않은 문인들은 거의 없다고 보시면 됩니다 그래서 칼 융이 엄청 대단한 사람이거든요 물론 과학적이지 않고 표현이 너무 추상적이고 직관적이다 보니까 컬트적인 느낌이 있는데 해석하고 들어 보면은 엄청 설득력이 있으니까 아직도 쓰이는 거죠 근데 현실은 어때 내 남자 친구는 엄마를 원하는 거 같아 어우 피곤해 혹은 남자분들은 요즘 막 여자들은 왜 이렇게 아빠를 원하는 거 같냐 이렇게 욕을 엄청 하잖아 근데 욕할 게 없다고 왜냐면 누구나 다 그러니까 실제로 모두 아이 같은 구석이 있고요 부모에게서 독립을 했지만 무의식에는 이런 분리 불안이 있기 때문에 여자는 아빠 같은 남자한테 끌리고 남자는 엄마 같은 여자한테 끌립니다 물론 이거는 그냥 우리 엄마 우리 아빠가 아니라 보편적으로 생각하는 이상적인 어머니상 그리고 보편적으로 생각하는 이상적인 아버지상 이거에 영향을 받는 거죠 이게 정신분석학에서 말하는 어머니 이마고하고 그리고 아버지 이마고 개념인데 그러니까",
+  "movie_id": "남자가 사랑할 때",
+  "reviewer": "Sound_Sound_다니엘",
+  "chunk_index": 2,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "김영하",
+      "entity_type": "MOVIE_STAFF",
+      "entity_description": "김영하는 '작별 인사'를 쓴 작가로, 연인 관계에 대해 \"연인이 된다는 것은 서로 새로운 부모님을 찾는 것과 비슷한 여정\"이라는 견해를 방송에서 밝힌 문인이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "작별 인사",
+      "entity_type": "MOVIE",
+      "entity_description": "작별 인사는 김영하 작가가 쓴 작품이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "프로이트",
+      "entity_type": "MOVIE_STAFF",
+      "entity_description": "프로이트는 정신분석학의 창시자로, 이원론적 세계관을 제시하여 많은 문인들에게 영향을 준 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "칼 융",
+      "entity_type": "MOVIE_STAFF",
+      "entity_description": "칼 융은 정신분석학의 대가로, 과학적이지 않고 추상적이며 직관적인 표현을 사용하지만 설득력 있는 이론으로 아직도 영향력을 가진 인물이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "김영하",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "작별 인사",
+      "target_type": "MOVIE",
+      "relationship_description": "김영하는 작별 인사의 저자이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "칼 융",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "프로이트",
+      "target_type": "MOVIE_STAFF",
+      "relationship_description": "칼 융과 프로이트는 모두 정신분석학 분야의 주요 인물로, 문인들의 세계관에 영향을 준 학자들이다",
+      "relationship_strength": 7
+    }
+  ],
+  "entity_resolution": {
+    "김영하": {
+      "description": "김영하 -> 김영하",
+      "resolved_name": "김영하",
+      "entity_type": "MOVIE_STAFF",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "작별 인사": {
+      "description": "작별 인사 -> 작별 인사",
+      "resolved_name": "작별 인사",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "프로이트": {
+      "description": "프로이트 -> 프로이트",
+      "resolved_name": "프로이트",
+      "entity_type": "MOVIE_STAFF",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "칼 융": {
+      "description": "칼 융 -> 칼 융",
+      "resolved_name": "칼 융",
+      "entity_type": "MOVIE_STAFF",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "entity": {
+    "name": "나단 갬블",
+    "synonym": [
+      "Nathan",
+      "Nathan Andrew Gamble",
+      "Nathan Gamble",
+      "갬블",
+      "나단",
+      "나단 갬블",
+      "나단 겜블",
+      "나단갬블",
+      "나탄 갬블",
+      "네이단 갬블",
+      "네이든 갬블",
+      "네이선 갬블",
+      "네이선갬블"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "나단 갬블은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "entity": {
+    "name": "제니퍼 러브 휴잇",
+    "synonym": [
+      "J.L. Hewitt",
+      "J.L. 휴잇",
+      "Jennifer Hewitt",
+      "Jennifer Love Hewitt",
+      "러브 휴잇",
+      "제니퍼",
+      "제니퍼 러브 휴잇",
+      "제니퍼 러브휴잇",
+      "제니퍼 휴잇",
+      "제니퍼러브휴잇",
+      "제니퍼휴잇",
+      "휴잇"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "제니퍼 러브 휴잇은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

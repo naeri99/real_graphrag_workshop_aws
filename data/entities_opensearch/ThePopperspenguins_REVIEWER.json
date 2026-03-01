@@ -1,0 +1,12 @@
+{
+  "entity": {
+    "name": "ThePopperspenguins",
+    "synonym": [
+      "ThePopperspenguins"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "ThePopperspenguins은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

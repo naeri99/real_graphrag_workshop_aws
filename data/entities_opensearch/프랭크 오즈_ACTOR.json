@@ -1,0 +1,24 @@
+{
+  "entity": {
+    "name": "프랭크 오즈",
+    "synonym": [
+      "Frank",
+      "Frank Osz",
+      "Frank Oz",
+      "Frank Ozz",
+      "오즈",
+      "프랜크",
+      "프랭크",
+      "프랭크 오스",
+      "프랭크 오즈",
+      "프랭크 오즈역",
+      "프랭크 오즈이",
+      "프랭크오즈",
+      "후랭크"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "프랭크 오즈은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

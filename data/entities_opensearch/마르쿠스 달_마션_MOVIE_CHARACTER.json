@@ -1,0 +1,27 @@
+{
+  "entity": {
+    "name": "마르쿠스 달",
+    "synonym": [
+      "Dahl",
+      "Marcus Aurelius",
+      "Marcus Dahl",
+      "Marcus Dall",
+      "Markus",
+      "Markus Dahl",
+      "달",
+      "마르쿠스",
+      "마르쿠스 달",
+      "마르쿠스 아우렐리우스",
+      "마르쿠스 황제",
+      "마르쿠스달",
+      "마르쿠스아우렐리우스",
+      "마커스 달",
+      "마커스 아우렐리우스",
+      "아우렐리우스"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "마르쿠스 달은 영화 '마션'의 등장인물로, 소렌 필마크이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

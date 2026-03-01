@@ -1,0 +1,224 @@
+{
+  "chunk_hash": "51d95800c0e54e",
+  "chunk_id": "민호타우르스_51d95800c0e54e_a7e93a7f",
+  "user_query": "봐도 비겁한 변명 아닙니까. 두 빡빡이 없어서 참 그럴싸하게 돌려 말합니다. 그리고 데드풀 2 감독이라는 것에서 느낌이 오셨죠. 솔직히 저는 액션만 기대하고 갔는데 이 작품은 액션보다도 이 두 빡빡머리 아저씨들의 화려한 드립 배틀이 더 꿀잼인 영화였습니다. 엄청 맛있다고 소문난 피자집에 갔는데 기대하지 않았던 떡볶이랑 핫바가 엄청 맛있어서 놀란 느낌이랄까. 이 사이 나쁜 빡빡이들이 주고받는 인신공격의 한계를 모르는 그립은 쓸데기 어마어마합니다. 욕은 우리나라가 최고라고 생각했는데 우리나라의 방식과는 또 다르게 인신공격을 저렇게도 할 수 있구나라는 걸 새삼 깨닫게 됩니다. 인신공격의 표현이 정말 이렇게 창의적이고 청춘할 수 있구나 싶더라고요. 특히 이 빡빡이 아저씨들은 슈퍼히어로에 대한 그립을 많이 칩니다. 전 세계적으로 슈퍼히어로 무비 붐이기도 하고 감독의 필모그래피 중 슈퍼히어로 영화가 있어서인지도 모르겠지만 저는 이런 슈퍼히어로들이 그저 웃기려고만 나온 것이 아니라 이 영화에서 계속적으로 보여지는 비현실적 액션 연출들에 대한 일종의 완충 에어백 역할도 한 게 아닌가 싶었습니다. 다른 영화에서 나왔다면 이건 너무 아니야 싶은 말도 안 되는 장면들이 계속해서 나오는데 이 빡빡이 아저씨들이 계속해서 치는 슈퍼히어로 드립들이 이 영화는 슈퍼히어로물 같은 비현실적 장르라는 사실을 계속해서 상기시켜 주는 역할을 알게 모르게 준 것 같습니다. 보면서 좀 너무한 거 아니냐고 싶다가도 아 이건 원래 이런 영화지 아 저들은 뭐 슈퍼히어로야 하면서 그냥 마음 편하게 막 타면서 보게 되었습니다. 어떤 장면은 대놓고 캡틴 아메리카를 떠올리기도 하고 그 시빌 워를 연상시키기도 합니다. 오마주의 성격으로 넣은 장면들이 아닌가 싶어요. 그리고 당연히 슈퍼히어로가 떠오를 수밖에 없는 큰 요인이 있는데 바로 악당으로 등장하는 브릭스톤이라는 존재입니다. 이드리스 엘바가 연기한 브릭스톤은 외형은 블랙 팬서, 캐릭터의 능력과 아이덴티티는 윈터솔져 여기에 아이언맨 한 스푼 정도. 악당이 된 동기나 목적 역시 여타 히어로물에서 흔하게 보았던 설정들입니다. 이 영화에서 가장 아쉬웠던 부분이 바로 이 악당 브릭스톤. 다른 캐릭터들에 비해 매력적이지 않았다는 점입니다. 어디서나 볼 수 있었던 전형적인 악당이었습니다. 카리스마도 없었고요. 아깝게도 브릭스톤이 애매하게 까까머리인데 완전 빡빡 밀었다면 좀 달랐을까. 반면에 이 작품의 여주인공 쇼의 여동생 해티가 너무나 매력적인 캐릭터로 등장합니다. 정말 개성 강한 두 빡빡이들 사이에서 존재감을 분명히 드러냈죠. 속편을 암시하는 악당의 대사에서 두 빡빡이 형들과 여주인공 해티가 다시 등장할 여지를 남기는데 후속작에서 해티를 다시 만날 수 있다는 이 복선이 정말 반가웠습니다. 아 그리고 이 작품에서 특히나 미드 왕좌의 게임 드립이 많이 나오는데요. 왕좌의 게임을 안 보신 분들은 이 작품에는 라니스터 가문은 언제나 빚을 갚는다, 넌 아무것도 몰라 존 스노우라는 명대사가 있으며 얼마 전 완결된 마지막 시즌의 결말이 최악이었다는 점만",
+  "movie_id": "홉스앤쇼",
+  "reviewer": "민호타우르스",
+  "chunk_index": 2,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "데드풀 2",
+      "entity_type": "MOVIE",
+      "entity_description": "데드풀 2는 슈퍼히어로 영화로, 이 작품의 감독이 본 영화를 연출했다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "브릭스톤",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "브릭스톤은 영화의 악당으로, 외형은 블랙 팬서, 능력과 아이덴티티는 윈터솔져, 아이언맨의 요소를 가진 캐릭터이다. 전형적인 악당으로 카리스마가 부족하다는 평가를 받았다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "이드리스 엘바",
+      "entity_type": "ACTOR",
+      "entity_description": "이드리스 엘바는 악당 브릭스톤 역을 연기한 배우이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "해티",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "해티는 쇼의 여동생으로, 영화의 여주인공이다. 개성 강한 두 주인공 사이에서 존재감을 분명히 드러낸 매력적인 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "쇼",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "쇼는 영화의 주인공 중 한 명으로, 해티의 오빠이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "캡틴 아메리카",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "캡틴 아메리카는 마블 슈퍼히어로 캐릭터로, 영화에서 오마주되는 장면이 있다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "시빌 워",
+      "entity_type": "MOVIE",
+      "entity_description": "시빌 워는 마블 슈퍼히어로 영화로, 본 영화에서 연상시키는 장면들이 있다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "블랙 팬서",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "블랙 팬서는 마블 슈퍼히어로 캐릭터로, 브릭스톤의 외형이 이 캐릭터를 연상시킨다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "윈터솔져",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "윈터솔져는 마블 캐릭터로, 브릭스톤의 능력과 아이덴티티가 이 캐릭터를 연상시킨다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "아이언맨",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "아이언맨은 마블 슈퍼히어로 캐릭터로, 브릭스톤 캐릭터에 일부 요소가 반영되었다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "왕좌의 게임",
+      "entity_type": "MOVIE",
+      "entity_description": "왕좌의 게임은 미국 드라마로, 영화에서 관련 드립이 많이 등장한다. 마지막 시즌의 결말이 최악이었다는 평가가 있다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "존 스노우",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "존 스노우는 왕좌의 게임의 캐릭터로, \"넌 아무것도 몰라 존 스노우\"라는 명대사로 유명하다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "이드리스 엘바",
+      "source_type": "ACTOR",
+      "target_entity": "브릭스톤",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "이드리스 엘바는 브릭스톤 역을 연기했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "해티",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "쇼",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "해티는 쇼의 여동생이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "브릭스톤",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "블랙 팬서",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "브릭스톤의 외형이 블랙 팬서를 연상시킨다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "브릭스톤",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "윈터솔져",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "브릭스톤의 능력과 아이덴티티가 윈터솔져를 연상시킨다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "브릭스톤",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "아이언맨",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "브릭스톤 캐릭터에 아이언맨의 요소가 일부 반영되었다",
+      "relationship_strength": 5
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "존 스노우",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "왕좌의 게임",
+      "target_type": "MOVIE",
+      "relationship_description": "존 스노우는 왕좌의 게임의 등장인물이다",
+      "relationship_strength": 10
+    }
+  ],
+  "entity_resolution": {
+    "데드풀 2": {
+      "description": "데드풀 2 -> 데드풀 2",
+      "resolved_name": "데드풀 2",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "브릭스톤": {
+      "description": "브릭스톤 -> 브릭스턴 로어",
+      "resolved_name": "브릭스턴 로어",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "이드리스 엘바": {
+      "description": "이드리스 엘바 -> 이드리스 엘바",
+      "resolved_name": "이드리스 엘바",
+      "entity_type": "ACTOR",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "해티": {
+      "description": "해티 -> 헤티 쇼",
+      "resolved_name": "헤티 쇼",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "쇼": {
+      "description": "쇼 -> 헤티 쇼",
+      "resolved_name": "헤티 쇼",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "캡틴 아메리카": {
+      "description": "캡틴 아메리카 -> 캡틴 아메리카",
+      "resolved_name": "캡틴 아메리카",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "시빌 워": {
+      "description": "시빌 워 -> 시빌 워",
+      "resolved_name": "시빌 워",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "블랙 팬서": {
+      "description": "블랙 팬서 -> 블랙 팬서",
+      "resolved_name": "블랙 팬서",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "윈터솔져": {
+      "description": "윈터솔져 -> 윈터솔져",
+      "resolved_name": "윈터솔져",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "아이언맨": {
+      "description": "아이언맨 -> 토니 스타크 / 아이언맨",
+      "resolved_name": "토니 스타크 / 아이언맨",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "왕좌의 게임": {
+      "description": "왕좌의 게임 -> 왕좌의 게임",
+      "resolved_name": "왕좌의 게임",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "존 스노우": {
+      "description": "존 스노우 -> 존 스노우",
+      "resolved_name": "존 스노우",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "레이놀즈 우드콕",
+    "synonym": [
+      "Reynolds",
+      "Reynolds Woodcock",
+      "레이널즈 우드콕",
+      "레이놀드 우드콕",
+      "레이놀드우드콕",
+      "레이놀스 우드콕",
+      "레이놀즈",
+      "레이놀즈 우드콕",
+      "레이놀즈우드콕",
+      "우드콕"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "레이놀즈 우드콕은 영화 '팬텀 스레드'의 등장인물로, 다니엘 데이 루이스이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

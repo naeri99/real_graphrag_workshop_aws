@@ -1,0 +1,13 @@
+{
+  "entity": {
+    "name": "영화_줌인센타_-_zOOm_in_Center",
+    "synonym": [
+      "영화_줌인센타_-_zOOm_in_Center",
+      "영화 줌인센타 - zOOm in Center"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "영화_줌인센타_-_zOOm_in_Center은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

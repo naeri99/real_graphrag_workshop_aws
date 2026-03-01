@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "맥스",
+    "synonym": [
+      "Max",
+      "Max Tegmark",
+      "막스",
+      "막스 테그마크",
+      "맥스",
+      "맥스테그마크",
+      "맥시",
+      "맥쓰",
+      "테그마크"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "맥스은 영화 '뱅크어택'의 등장인물로, 마치아스 슈바바이어퍼이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

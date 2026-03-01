@@ -1,0 +1,23 @@
+{
+  "entity": {
+    "name": "케네스 브래너",
+    "synonym": [
+      "Branagh",
+      "K. 브래너",
+      "Kenneth Branagh",
+      "브라나",
+      "브래나",
+      "브래너",
+      "케네스 브라나",
+      "케네스 브래나",
+      "케네스 브래너",
+      "케네스브래너",
+      "케네쓰 브래너",
+      "케니스 브래너"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "케네스 브래너은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

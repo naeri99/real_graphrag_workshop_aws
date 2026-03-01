@@ -1,0 +1,115 @@
+{
+  "chunk_hash": "9bb485c48795b4",
+  "chunk_id": "Jeremy_Jahns_9bb485c48795b4_74472cb7",
+  "user_query": "with the audience is one of action but it's done so well it's a communication that still does hit it's it's a language all its own that they absolutely nail in John Wick but the support characters in this film I thought were great Bill Skarsgard I will use the word magnificent because that's that's the kind of character he is he's a magnificent character absolute douche total prick in that John Wick kind of world it's a world of fashion and Flair big Cathedrals huge art galleries amazing suits and that's why we watch it and he's the guy who wears the most expensive [ __ ] but doesn't have one tenth the class I thought he was great Donnie Yen and his character I felt lend some complexity but also amazing physicality because it's Donnie Yen and in a John Wick movie of course you're going to use his physicality different characters giving different fight Styles the movie never feels redundant and that's saying something 2 hour 45 minute action film a two hour 45 minute action film that's the fourth film in the franchise also Donnie Yen plays a blind badass like in Rogue one this is kind of funny to me and it totally works it's like oh blind Donnie Yen so he's gonna [ __ ] everyone up everyone knows that they're about to shed their mortal coil great as long as I know it totally works for former Jedi and John Wick characters that's kind of that's the realm John Wick's playing with here ever since the first John Wick when we got to the Continental in the first John Wick I was like",
+  "movie_id": "존 윅 4",
+  "reviewer": "Jeremy_Jahns",
+  "chunk_index": 2,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "JOHN WICK",
+      "entity_type": "MOVIE",
+      "entity_description": "John Wick은 액션 영화 시리즈로, 독특한 액션 언어와 스타일리시한 세계관을 가진 프랜차이즈이다. 4번째 영화는 2시간 45분 길이의 액션 영화이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "BILL SKARSGARD",
+      "entity_type": "ACTOR",
+      "entity_description": "Bill Skarsgard는 John Wick에서 화려하지만 품위 없는 악역 캐릭터를 연기한 배우로, 매우 훌륭한 연기를 보여주었다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "DONNIE YEN",
+      "entity_type": "ACTOR",
+      "entity_description": "Donnie Yen은 John Wick에서 맹인 캐릭터를 연기한 배우로, 뛰어난 신체 능력과 독특한 격투 스타일을 보여주었다. Rogue One에서도 맹인 역할을 맡은 바 있다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "ROGUE ONE",
+      "entity_type": "MOVIE",
+      "entity_description": "Rogue One은 Donnie Yen이 맹인 캐릭터를 연기한 영화이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "THE CONTINENTAL",
+      "entity_type": "MOVIE",
+      "entity_description": "The Continental은 John Wick 시리즈의 첫 번째 영화에서 등장한 장소/세계관의 일부이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "BILL SKARSGARD",
+      "source_type": "ACTOR",
+      "target_entity": "JOHN WICK",
+      "target_type": "MOVIE",
+      "relationship_description": "Bill Skarsgard는 John Wick에서 화려하지만 품위 없는 악역을 연기했다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "DONNIE YEN",
+      "source_type": "ACTOR",
+      "target_entity": "JOHN WICK",
+      "target_type": "MOVIE",
+      "relationship_description": "Donnie Yen은 John Wick에서 맹인 캐릭터를 연기하며 뛰어난 액션을 선보였다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "DONNIE YEN",
+      "source_type": "ACTOR",
+      "target_entity": "ROGUE ONE",
+      "target_type": "MOVIE",
+      "relationship_description": "Donnie Yen은 Rogue One에서도 맹인 캐릭터를 연기했다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "THE CONTINENTAL",
+      "source_type": "MOVIE",
+      "target_entity": "JOHN WICK",
+      "target_type": "MOVIE",
+      "relationship_description": "The Continental은 첫 번째 John Wick 영화에서 등장한 중요한 장소이다",
+      "relationship_strength": 7
+    }
+  ],
+  "entity_resolution": {
+    "JOHN WICK": {
+      "description": "JOHN WICK -> JOHN WICK",
+      "resolved_name": "JOHN WICK",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "BILL SKARSGARD": {
+      "description": "BILL SKARSGARD -> BILL SKARSGARD",
+      "resolved_name": "BILL SKARSGARD",
+      "entity_type": "ACTOR",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "DONNIE YEN": {
+      "description": "DONNIE YEN -> DONNIE YEN",
+      "resolved_name": "DONNIE YEN",
+      "entity_type": "ACTOR",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "ROGUE ONE": {
+      "description": "ROGUE ONE -> ROGUE ONE",
+      "resolved_name": "ROGUE ONE",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "THE CONTINENTAL": {
+      "description": "THE CONTINENTAL -> THE CONTINENTAL",
+      "resolved_name": "THE CONTINENTAL",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

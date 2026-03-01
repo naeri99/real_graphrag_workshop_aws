@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "애덤 스콧",
+    "synonym": [
+      "Adam",
+      "Adam Scott",
+      "스콧",
+      "아담 스콧",
+      "아담스콧",
+      "애담 스캇",
+      "애덤",
+      "애덤 스콧",
+      "애덤스콧",
+      "에덤 스콧"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "애덤 스콧은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

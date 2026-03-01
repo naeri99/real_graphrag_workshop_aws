@@ -1,0 +1,18 @@
+{
+  "entity": {
+    "name": "닐 페리",
+    "synonym": [
+      "Neil",
+      "Neil Perry",
+      "닐",
+      "닐 패리",
+      "닐 페리",
+      "닐페리",
+      "페리"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "닐 페리은 영화 '죽은 시인의 사회'의 등장인물로, 로버트 숀 레오나드이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

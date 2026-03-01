@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "샤미어 앤더슨",
+    "synonym": [
+      "Shamier Anderson",
+      "샤미르 앤더슨",
+      "샤미어",
+      "샤미어 앤더선",
+      "샤미어 앤더슨",
+      "샤미어앤더슨",
+      "샤미에 앤더슨",
+      "샤미에르 앤더슨",
+      "앤더슨"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "샤미어 앤더슨은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

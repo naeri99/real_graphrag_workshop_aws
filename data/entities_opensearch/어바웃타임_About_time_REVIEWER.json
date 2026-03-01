@@ -1,0 +1,13 @@
+{
+  "entity": {
+    "name": "어바웃타임_About_time",
+    "synonym": [
+      "어바웃타임_About_time",
+      "어바웃타임 About time"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "어바웃타임_About_time은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

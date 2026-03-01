@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "토니 다르보",
+    "synonym": [
+      "Tony",
+      "Tony Darvo",
+      "다르보",
+      "토니",
+      "토니 다르보",
+      "토니 다보",
+      "토니 달보",
+      "토니다르보"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "토니 다르보은 영화 '미드나잇 런'의 등장인물로, 리차드 포론지이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

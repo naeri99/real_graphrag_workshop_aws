@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "게일 한센",
+    "synonym": [
+      "Gale",
+      "Gale Hansen",
+      "Gale Hanson",
+      "게일",
+      "게일 한센",
+      "게일 핸슨",
+      "게일한센",
+      "게일핸슨",
+      "겔 한센",
+      "한센",
+      "핸슨"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "게일 한센은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

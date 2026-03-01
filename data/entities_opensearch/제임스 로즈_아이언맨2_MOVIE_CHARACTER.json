@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "제임스 로즈",
+    "synonym": [
+      "James Rhodes",
+      "War Machine",
+      "로드",
+      "로디",
+      "로즈",
+      "로즈 중령",
+      "워머신",
+      "제임스 로즈",
+      "제임스로즈"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "제임스 로즈은 영화 '아이언맨2'의 등장인물로, 돈 치들이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

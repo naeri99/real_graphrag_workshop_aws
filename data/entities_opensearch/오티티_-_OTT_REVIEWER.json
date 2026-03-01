@@ -1,0 +1,13 @@
+{
+  "entity": {
+    "name": "오티티_-_OTT",
+    "synonym": [
+      "오티티_-_OTT",
+      "오티티 - OTT"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "오티티_-_OTT은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

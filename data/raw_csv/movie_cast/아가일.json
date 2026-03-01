@@ -1,0 +1,70 @@
+{
+  "movie_title": "아가일",
+  "director": [
+    {
+      "name": "매튜 본",
+      "name_en": "Matthew Vaughn"
+    }
+  ],
+  "cast": [
+    {
+      "actor": "헨리 카빌",
+      "actor_en": "Henry Cavill",
+      "character": "Agent Argylle"
+    },
+    {
+      "actor": "브라이스 달라스 하워드",
+      "actor_en": "Bryce Dallas Howard",
+      "character": "Elly Conway"
+    },
+    {
+      "actor": "샘 록웰",
+      "actor_en": "Sam Rockwell",
+      "character": "Aidan Wilde"
+    },
+    {
+      "actor": "두아 리파",
+      "actor_en": "Dua Lipa",
+      "character": "LaGrange"
+    },
+    {
+      "actor": "존 시나",
+      "actor_en": "John Cena",
+      "character": "와이어트"
+    },
+    {
+      "actor": "사무엘 L. 잭슨",
+      "actor_en": "Samuel L. Jackson",
+      "character": "알피"
+    },
+    {
+      "actor": "브라이언 크랜스턴",
+      "actor_en": "Bryan Cranston",
+      "character": "리터"
+    },
+    {
+      "actor": "캐서린 오하라",
+      "actor_en": "Catherine O'Hara",
+      "character": "루스"
+    },
+    {
+      "actor": "아리아나 드보즈",
+      "actor_en": "Ariana DeBose",
+      "character": "키라"
+    },
+    {
+      "actor": "리차드 E. 그랜트",
+      "actor_en": "Richard E. Grant",
+      "character": "파울러 감독"
+    }
+  ],
+  "review": [
+    "./data/review/아가일/아가일_W-0pYH4oUMk.json",
+    "./data/review/아가일/아가일__m7q6heLq-k.json",
+    "./data/review/아가일/아가일_g7A9pLdYd6g.json",
+    "./data/review/아가일/아가일_kelItBMPfCQ.json",
+    "./data/review/아가일/아가일_qPjHEJBrpqI.json",
+    "./data/review/아가일/아가일_xzuzemLj8f0.json",
+    "./data/review/아가일/아가일_yRGEo73zgeo.json"
+  ]
+}

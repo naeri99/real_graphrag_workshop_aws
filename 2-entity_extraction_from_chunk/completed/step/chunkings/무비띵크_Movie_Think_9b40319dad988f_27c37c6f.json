@@ -1,0 +1,322 @@
+{
+  "chunk_hash": "9b40319dad988f",
+  "chunk_id": "무비띵크_Movie_Think_9b40319dad988f_27c37c6f",
+  "user_query": "스파이더맨 베놈의 실사 영화도 논의되었지만 지금은 한 줌의 재가 돼 버렸고 그 밖에 블랙 캣 앤 실버 세이블 잭팟 솔로 스파이더우먼 시니스터 식스 미스테리오 나이트워치 등등 최종 예정이었던 모든 작품들이 캔슬됩니다. 다른 건 몰라도 블랙 캣은 살려내라 이 새끼들아. 이 아, 이 작품도 10년 가까이 여러 차례 리부트 시도가 있었지만 결국 구체화된 적은 한 번도 없었고 블랙 캣은 감독까지 정해졌음에도 불구하고 우린 결국 못 보게 됐다는 거. 이런 흐름 속에서 소니가 선택할 수 있는 유일한 돌파구. 바로 마일즈 모랄레스의 실사화인데 지난 스파이더버스 3부작으로 유일하게 신뢰를 얻었고 세대 교체 측면에서 트렌드에 부합하는 카드이기도 한데 이들이 결국 리부트를 진행함에 따라 마일즈만큼은 MCU와의 연결 가능성을 열어주지 않을까? 어쨌든 이들의 유일한 황금을 낳는 거위이기 때문에 다시 한번 세계관을 확장해 나갈 것으로 보입니다. 또 니콜라스 케이지의 새 작품 스파이더맨 누아르 또한 공개를 앞둔 상황인데 이제 더 이상 스파이더맨이라는 광맥을 어떻게 캐낼 것인가를 고민하는 단계가 아니라 이 광맥을 어디에 팔아야 할 것인가 어떻게 팔아야 손해를 줄일 수 있을까라는 현실적인 고민이 필요한 상황이며 IP 자체의 가치는 여전히 막강하지만 그것을 활용하는 전략. 스토리텔링의 역량이 따라주지 못한다면 더 이상 팬들은 스파이더맨이라는 이름만으로 극장을 찾지 않을 것이라 생각됩니다. 자, 스파팅카의 소식은 계속되고요. 재밌게 보셨다면 구독, 좋아요까지 부탁드리겠습니다. [음악] 끝. [음악] [박수] [음악] [박수] [음악] [박수] [음악]",
+  "movie_id": "마담 웹",
+  "reviewer": "무비띵크_Movie_Think",
+  "chunk_index": 3,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "스파이더맨",
+      "entity_type": "MOVIE",
+      "entity_description": "스파이더맨은 소니가 보유한 IP로 다양한 실사 영화 및 스핀오프 작품이 제작되거나 논의된 프랜차이즈이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "베놈",
+      "entity_type": "MOVIE",
+      "entity_description": "베놈은 스파이더맨 유니버스의 실사 영화로 논의되었던 작품이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "블랙 캣 앤 실버 세이블",
+      "entity_type": "MOVIE",
+      "entity_description": "블랙 캣 앤 실버 세이블은 소니에서 예정되었으나 캔슬된 스파이더맨 스핀오프 영화이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "잭팟",
+      "entity_type": "MOVIE",
+      "entity_description": "잭팟은 소니에서 예정되었으나 캔슬된 스파이더맨 스핀오프 영화이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "스파이더우먼",
+      "entity_type": "MOVIE",
+      "entity_description": "스파이더우먼은 소니에서 예정되었으나 캔슬된 스파이더맨 스핀오프 영화이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "시니스터 식스",
+      "entity_type": "MOVIE",
+      "entity_description": "시니스터 식스는 소니에서 예정되었으나 캔슬된 스파이더맨 스핀오프 영화이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "미스테리오",
+      "entity_type": "MOVIE",
+      "entity_description": "미스테리오는 소니에서 예정되었으나 캔슬된 스파이더맨 스핀오프 영화이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "나이트워치",
+      "entity_type": "MOVIE",
+      "entity_description": "나이트워치는 소니에서 예정되었으나 캔슬된 스파이더맨 스핀오프 영화이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "블랙 캣",
+      "entity_type": "MOVIE",
+      "entity_description": "블랙 캣은 감독까지 정해졌음에도 불구하고 결국 제작되지 못한 스파이더맨 스핀오프 영화이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "스파이더버스",
+      "entity_type": "MOVIE",
+      "entity_description": "스파이더버스는 마일즈 모랄레스를 주인공으로 한 3부작 애니메이션 영화로 소니가 유일하게 신뢰를 얻은 작품이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "스파이더맨 누아르",
+      "entity_type": "MOVIE",
+      "entity_description": "스파이더맨 누아르는 니콜라스 케이지가 출연하는 새 스파이더맨 작품으로 공개를 앞두고 있다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "마일즈 모랄레스",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "마일즈 모랄레스는 스파이더버스의 주인공으로 소니의 실사화 계획이 있으며 MCU와의 연결 가능성이 논의되는 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "니콜라스 케이지",
+      "entity_type": "ACTOR",
+      "entity_description": "니콜라스 케이지는 스파이더맨 누아르에 출연하는 배우이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "스파팅카",
+      "entity_type": "REVIEWER",
+      "entity_description": "스파팅카는 스파이더맨 관련 소식을 전하는 유튜브 채널 또는 리뷰어이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "베놈",
+      "source_type": "MOVIE",
+      "target_entity": "스파이더맨",
+      "target_type": "MOVIE",
+      "relationship_description": "베놈은 스파이더맨 유니버스의 스핀오프 작품이다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "블랙 캣 앤 실버 세이블",
+      "source_type": "MOVIE",
+      "target_entity": "스파이더맨",
+      "target_type": "MOVIE",
+      "relationship_description": "블랙 캣 앤 실버 세이블은 스파이더맨 유니버스의 스핀오프 작품이다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "잭팟",
+      "source_type": "MOVIE",
+      "target_entity": "스파이더맨",
+      "target_type": "MOVIE",
+      "relationship_description": "잭팟은 스파이더맨 유니버스의 스핀오프 작품이다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "스파이더우먼",
+      "source_type": "MOVIE",
+      "target_entity": "스파이더맨",
+      "target_type": "MOVIE",
+      "relationship_description": "스파이더우먼은 스파이더맨 유니버스의 스핀오프 작품이다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "시니스터 식스",
+      "source_type": "MOVIE",
+      "target_entity": "스파이더맨",
+      "target_type": "MOVIE",
+      "relationship_description": "시니스터 식스는 스파이더맨 유니버스의 스핀오프 작품이다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "미스테리오",
+      "source_type": "MOVIE",
+      "target_entity": "스파이더맨",
+      "target_type": "MOVIE",
+      "relationship_description": "미스테리오는 스파이더맨 유니버스의 스핀오프 작품이다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "나이트워치",
+      "source_type": "MOVIE",
+      "target_entity": "스파이더맨",
+      "target_type": "MOVIE",
+      "relationship_description": "나이트워치는 스파이더맨 유니버스의 스핀오프 작품이다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "블랙 캣",
+      "source_type": "MOVIE",
+      "target_entity": "스파이더맨",
+      "target_type": "MOVIE",
+      "relationship_description": "블랙 캣은 스파이더맨 유니버스의 스핀오프 작품이다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "스파이더버스",
+      "source_type": "MOVIE",
+      "target_entity": "스파이더맨",
+      "target_type": "MOVIE",
+      "relationship_description": "스파이더버스는 스파이더맨 유니버스의 애니메이션 영화이다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "스파이더맨 누아르",
+      "source_type": "MOVIE",
+      "target_entity": "스파이더맨",
+      "target_type": "MOVIE",
+      "relationship_description": "스파이더맨 누아르는 스파이더맨 유니버스의 새 작품이다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "마일즈 모랄레스",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "스파이더버스",
+      "target_type": "MOVIE",
+      "relationship_description": "마일즈 모랄레스는 스파이더버스 3부작의 주인공이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "마일즈 모랄레스",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "스파이더맨",
+      "target_type": "MOVIE",
+      "relationship_description": "마일즈 모랄레스는 스파이더맨 유니버스의 실사화 후보 캐릭터이다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "니콜라스 케이지",
+      "source_type": "ACTOR",
+      "target_entity": "스파이더맨 누아르",
+      "target_type": "MOVIE",
+      "relationship_description": "니콜라스 케이지는 스파이더맨 누아르에 출연한다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "스파팅카",
+      "source_type": "REVIEWER",
+      "target_entity": "스파이더맨",
+      "target_type": "MOVIE",
+      "relationship_description": "스파팅카는 스파이더맨 관련 소식을 전달하고 리뷰한다",
+      "relationship_strength": 6
+    }
+  ],
+  "entity_resolution": {
+    "스파이더맨": {
+      "description": "스파이더맨 -> 스파이더맨",
+      "resolved_name": "스파이더맨",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "베놈": {
+      "description": "베놈 -> 베놈",
+      "resolved_name": "베놈",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "블랙 캣 앤 실버 세이블": {
+      "description": "블랙 캣 앤 실버 세이블 -> 블랙 캣 앤 실버 세이블",
+      "resolved_name": "블랙 캣 앤 실버 세이블",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "잭팟": {
+      "description": "잭팟 -> 잭팟",
+      "resolved_name": "잭팟",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "스파이더우먼": {
+      "description": "스파이더우먼 -> 스파이더우먼",
+      "resolved_name": "스파이더우먼",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "시니스터 식스": {
+      "description": "시니스터 식스 -> 시니스터 식스",
+      "resolved_name": "시니스터 식스",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "미스테리오": {
+      "description": "미스테리오 -> 미스테리오",
+      "resolved_name": "미스테리오",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "나이트워치": {
+      "description": "나이트워치 -> 나이트워치",
+      "resolved_name": "나이트워치",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "블랙 캣": {
+      "description": "블랙 캣 -> 블랙 캣",
+      "resolved_name": "블랙 캣",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "스파이더버스": {
+      "description": "스파이더버스 -> 스파이더버스",
+      "resolved_name": "스파이더버스",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "스파이더맨 누아르": {
+      "description": "스파이더맨 누아르 -> 스파이더맨 누아르",
+      "resolved_name": "스파이더맨 누아르",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "마일즈 모랄레스": {
+      "description": "마일즈 모랄레스 -> 마일즈 모랄레스",
+      "resolved_name": "마일즈 모랄레스",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "니콜라스 케이지": {
+      "description": "니콜라스 케이지 -> 니콜라스 케이지",
+      "resolved_name": "니콜라스 케이지",
+      "entity_type": "ACTOR",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "스파팅카": {
+      "description": "스파팅카 -> 스파팅카",
+      "resolved_name": "스파팅카",
+      "entity_type": "REVIEWER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

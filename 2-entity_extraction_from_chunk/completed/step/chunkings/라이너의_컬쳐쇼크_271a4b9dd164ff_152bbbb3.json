@@ -1,0 +1,164 @@
+{
+  "chunk_hash": "271a4b9dd164ff",
+  "chunk_id": "라이너의_컬쳐쇼크_271a4b9dd164ff_152bbbb3",
+  "user_query": "기사식당에서 주워들은 이야기 즉 광주로 가려는 외국인이 10만 원이나 주기로 했다는 소리에 서둘러 달려가 그 외국인 손님을 가로챕니다 이렇게 이야기는 시작되죠 가볍고 경쾌하고 알기 쉬운 흐름입니다 영화의 앞부분은 긍정적인 에너지로 가득 차 있습니다 저는 이 부분이 좋았습니다 80년 5월에 서울은 학생들이 쉬지 않고 데모를 하고 잡혀 가곤 해도 택시기사 김만섭 씨 같은 사람에게는 그저 즐거운 일상이든 김만섭 씨는 지식인 계급도 아니고 학생들이 왜 데모를 하는지 잘 이해하지도 못하는 소시민입니다 오히려 전형적인 당시 기성세대의 사고를 보여주는 인물이죠 저는 이 긍정적이고 밝은 분위기가 좋았습니다 왜냐면 바로 이 순간에도 광주는 처절할 테니까요 이 영화의 가장 무서운 부분은 오히려 김만섭 씨가 평범한 일상을 즐겁게 살아가는 영화의 초반부입니다 영화에서는 5월 20일에 위르겐 힌츠페터와 광주에 들어가게 되니 우리가 영화에서 보는 일상은 5월 19일인 셈입니다 생각해 보면 소름 끼치는 장면들이 그 시간에도 광주에서는 시위가 벌어지고 계엄군에 의해 시민들이 목숨을 잃고 있을 테니까요 위르겐 힌츠페터의 이야기는 실화입니다 이 영화가 가지고 있는 가장 강력한 힘이기도 합니다 물론 위르겐 힌츠페터는 혼자서 오지 않았습니다 헤닝 루머라는 녹음 담당 기자가 있었습니다 이 둘을 태운 것이 김만섭 씨 다른 이름은 김사복 씨인 것이고요 작중 힌츠페터는 독일인 기자이면서 무척 직감이 뛰어나며 지적인 인물로 묘사됩니다 그러면서 자존심도 있고 성격도 강인합니다 그렇게 영어가 서툰 택시 만섭과 티격태격하는 부분은 사실 자칫하면 어색하고 유치해질 수도 있는 부분입니다 하지만 송강호의 능숙한 연기력이 이를 보완해 주죠 송강호가 넉살 좋게 대사를 치는 모습을 보면 왜 이 배우가 높은 자리에 있는지 알 수 있습니다 그리고 택시가 서울을 나오고 잠시 힌츠페터가 눈을 붙인 사이 어느덧 택시는 광주에 도착합니다 그리고 이 순간부터 영화는 달라집니다 마치 다른 사람이 된 것처럼 영화가 모습을 바꾸기 시작합니다 모두가 아는 바와 같이 광주는 통제된 상태였습니다 어떻게든 둘러서 검문을 통과한 택시가 광주 시내로 들어가는 장면부터 숨을 쉬기가 어렵습니다 이는 두 가지인데요 하나는 텅 빈 광주의 처참하고 쓸쓸한 그 모습 때문에 다른 하나는 송강호 때문입니다 광주시의 분위기는 거의 포스트 아포칼립스 물을 떠올리게 합니다 거리의 황량함과 고요한 정적 쓸쓸한 분위기는 그야말로 전쟁터에서 볼 수 있는 장면입니다 28일 후라거나 던 라이즈라거나 혹은 전쟁영화에서 시가전 벌이는 도시들과는 또 다른 미묘한 느낌 택시가 광주 시내로 들어가고 송강호가 이해할 수 없다는 표정으로 주위를 둘러볼 때 이미 왈칵 눈물이 터지는 소리가 들립니다 모두가 알고 있기 때문에 그 참사를 상상할 수 있기 때문에 벌써부터 흐느끼게 되는 것이죠 저는 이런 부분이 좋았습니다 감독은 여기에서 그 당시의 분위기를 재연하는데 힘을 쏟은 것 같습니다 그리고 이러한 간접적인 분위기는 세련된 것이죠 무엇보다 송강호의 연기가 사람의 마음을",
+  "movie_id": "택시운전사",
+  "reviewer": "라이너의_컬쳐쇼크",
+  "chunk_index": 3,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "택시운전사",
+      "entity_type": "MOVIE",
+      "entity_description": "택시운전사는 1980년 5월 광주민주화운동을 배경으로 한 영화로, 서울 택시기사가 독일인 기자를 광주로 태워다주는 실화를 바탕으로 한다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "김만섭",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "김만섭은 서울의 택시기사로, 10만 원을 받고 외국인 손님을 광주로 태워다주는 소시민적 인물이다. 김사복이라는 실제 인물을 바탕으로 한 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "위르겐 힌츠페터",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "위르겐 힌츠페터는 독일인 기자로, 직감이 뛰어나고 지적이며 자존심과 강인한 성격을 가진 인물로 묘사된다. 실존 인물을 바탕으로 한 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "헤닝 루머",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "헤닝 루머는 위르겐 힌츠페터와 함께 광주에 온 녹음 담당 기자이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "송강호",
+      "entity_type": "ACTOR",
+      "entity_description": "송강호는 김만섭 역을 맡은 배우로, 능숙한 연기력으로 자칫 어색해질 수 있는 장면들을 보완하며 넉살 좋은 대사 처리로 높은 평가를 받는다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "김사복",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "김사복은 김만섭의 실제 이름으로, 위르겐 힌츠페터와 헤닝 루머를 광주로 태운 실존 인물이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "김만섭",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "택시운전사",
+      "target_type": "MOVIE",
+      "relationship_description": "김만섭은 택시운전사의 주인공이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "위르겐 힌츠페터",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "택시운전사",
+      "target_type": "MOVIE",
+      "relationship_description": "위르겐 힌츠페터는 택시운전사의 주요 등장인물이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "헤닝 루머",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "택시운전사",
+      "target_type": "MOVIE",
+      "relationship_description": "헤닝 루머는 택시운전사에 등장하는 인물이다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "송강호",
+      "source_type": "ACTOR",
+      "target_entity": "김만섭",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "송강호는 김만섭 역을 연기했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "송강호",
+      "source_type": "ACTOR",
+      "target_entity": "택시운전사",
+      "target_type": "MOVIE",
+      "relationship_description": "송강호는 택시운전사에서 주연을 맡아 능숙한 연기력을 보여주었다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "김만섭",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "위르겐 힌츠페터",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "김만섭은 위르겐 힌츠페터를 택시에 태워 광주로 데려다준다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "위르겐 힌츠페터",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "헤닝 루머",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "위르겐 힌츠페터와 헤닝 루머는 함께 광주에 온 동료 기자이다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "김만섭",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "김사복",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "김만섭은 실존 인물 김사복을 바탕으로 한 캐릭터이다",
+      "relationship_strength": 10
+    }
+  ],
+  "entity_resolution": {
+    "택시운전사": {
+      "description": "택시운전사 -> 택시운전사",
+      "resolved_name": "택시운전사",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "김만섭": {
+      "description": "김만섭 -> 김만섭",
+      "resolved_name": "김만섭",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "위르겐 힌츠페터": {
+      "description": "위르겐 힌츠페터 -> 한츠페터",
+      "resolved_name": "한츠페터",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "헤닝 루머": {
+      "description": "헤닝 루머 -> 헤닝 루머",
+      "resolved_name": "헤닝 루머",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "송강호": {
+      "description": "송강호 -> 송강호",
+      "resolved_name": "송강호",
+      "entity_type": "ACTOR",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "김사복": {
+      "description": "김사복 -> 김만섭",
+      "resolved_name": "김만섭",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    }
+  }
+}

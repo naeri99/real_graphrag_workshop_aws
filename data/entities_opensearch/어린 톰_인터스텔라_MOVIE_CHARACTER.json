@@ -1,0 +1,25 @@
+{
+  "entity": {
+    "name": "어린 톰",
+    "synonym": [
+      "Tom 어린시절",
+      "Young Thomas",
+      "Young Tom",
+      "Young Tom Cooper",
+      "꼬마 톰",
+      "소년 톰",
+      "아이 톰",
+      "어린 토마스",
+      "어린 톰",
+      "어린 톰 쿠퍼",
+      "어린톰",
+      "영 톰",
+      "유년 톰",
+      "톰 어린시절"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "어린 톰은 영화 '인터스텔라'의 등장인물로, 티모시 샬라메이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

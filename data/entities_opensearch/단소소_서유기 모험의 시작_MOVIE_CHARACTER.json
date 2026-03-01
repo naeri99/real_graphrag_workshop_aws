@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "단소소",
+    "synonym": [
+      "Duan",
+      "Duan Xiaoxiao",
+      "Miss Duan",
+      "단 소소",
+      "단샤오샤오",
+      "단소",
+      "단소소",
+      "단소저",
+      "소소",
+      "소저"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "단소소은 영화 '서유기 모험의 시작'의 등장인물로, 서기이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "entity": {
+    "name": "리처드",
+    "synonym": [
+      "Richard",
+      "Richard Atwater",
+      "리차드",
+      "리차드 앳워터",
+      "리챠드",
+      "리처드",
+      "리처드 앳워터",
+      "리처드 캐릭터",
+      "리처드 형사",
+      "리처드앳워터",
+      "리쳐드",
+      "릭",
+      "릿차드"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "리처드은 영화 '이프 온리'의 등장인물로, 그레이엄 터너이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "마이클 비에른",
+    "synonym": [
+      "Michael",
+      "Michael Vieau",
+      "마이클",
+      "마이클 비언",
+      "마이클 비에른",
+      "마이클 비오",
+      "마이클비에른",
+      "마이클비오",
+      "비에른"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "마이클 비에른은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

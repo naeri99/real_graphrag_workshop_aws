@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "안보현",
+    "synonym": [
+      "Ahn Bo-hyun",
+      "Bo-hyun Ahn",
+      "보현",
+      "안 보현",
+      "안보 현",
+      "안보현",
+      "안보현 배우",
+      "안보현씨"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "안보현은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

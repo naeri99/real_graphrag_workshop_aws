@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "Fay",
+    "synonym": [
+      "Fay",
+      "Fay 선장",
+      "Fay 캐릭터",
+      "Faye",
+      "파이",
+      "패이",
+      "페이",
+      "페이 선장",
+      "페이 캐릭터",
+      "페이이",
+      "훼이"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "Fay은 영화 '테넷'의 등장인물로, 마틴 도노반이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

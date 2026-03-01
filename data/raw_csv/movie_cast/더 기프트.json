@@ -1,0 +1,43 @@
+{
+  "movie_title": "더 기프트",
+  "director": [
+    {
+      "name": "조엘 에저턴",
+      "name_en": "Joel Edgerton"
+    }
+  ],
+  "cast": [
+    {
+      "actor": "조엘 에저턴",
+      "actor_en": "Joel Edgerton",
+      "character": "고르도"
+    },
+    {
+      "actor": "제이슨 베이트먼",
+      "actor_en": "Jason Bateman",
+      "character": "사이먼"
+    },
+    {
+      "actor": "레베카 홀",
+      "actor_en": "Rebecca Hall",
+      "character": "로빈"
+    },
+    {
+      "actor": "팀 그리핀",
+      "actor_en": "Tim Griffin",
+      "character": "케빈 킬러"
+    },
+    {
+      "actor": "비지 필립스",
+      "actor_en": "Busy Philipps",
+      "character": "더피"
+    }
+  ],
+  "review": [
+    "./data/review/더 기프트/더 기프트_8CUUh7GNpLk.json",
+    "./data/review/더 기프트/더 기프트_CwPYttR89_U.json",
+    "./data/review/더 기프트/더 기프트_JtoOOxXqkJU.json",
+    "./data/review/더 기프트/더 기프트_PG9KkMH5MuA.json",
+    "./data/review/더 기프트/더 기프트_Zez-pZrAjmY.json"
+  ]
+}

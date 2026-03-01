@@ -1,0 +1,18 @@
+{
+  "entity": {
+    "name": "루스",
+    "synonym": [
+      "Ruth",
+      "러스",
+      "루드",
+      "루스",
+      "루스이",
+      "루쓰",
+      "룻"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "루스은 영화 '아가일'의 등장인물로, 캐서린 오하라이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

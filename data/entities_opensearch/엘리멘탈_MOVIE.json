@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "엘리멘탈",
+    "synonym": [
+      "Elemental",
+      "엘러멘탈",
+      "엘레멘탈",
+      "엘레멘털",
+      "엘리멘탈",
+      "엘리멘털",
+      "엘리멘트",
+      "원소들의 세계"
+    ],
+    "entity_type": "MOVIE",
+    "summary": "엘리멘탈",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

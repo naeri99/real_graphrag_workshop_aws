@@ -1,0 +1,80 @@
+{
+  "chunk_hash": "4dbad7eb405393",
+  "chunk_id": "빨강도깨비_4dbad7eb405393_7ac9684f",
+  "user_query": "같은 방향으로 순행하는 타임라인에서 하나의 지점에서 출발해서 다른 지점에 도착합니다 시간여행 이후에는 또 순차적으로 시간이 흐르죠 테넷의 개념은 엄밀하게 따지면 시간여행의 개념은 아닙니다 다만 시간이 거꾸로 가는 개념이 있습니다 이걸 영화상에서는 이렇게 설명하고 있는데요 뭐.. 설명이 그리 도움이 되진 않지만 특정 물건이나 사람이 인버전 되었을 때 그 물건 혹은 그 사람의 시간만 거꾸로 흐릅니다 제가 이런 가정을 한번 해보겠습니다 여기 시간을 거꾸로 흐르게 하는 스위치가 하나 있습니다 이 스위치를 켜면 시간이 거꾸로 흐르기 시작합니다 이 스위치를 끄면 시간은 다시 정상으로 흘러가고요 제가 만약 저녁 9시에 이 스위치를 켜고 한 3시간 동안 있으면 세상의 시간은 거꾸로 흘러서 저녁 6시로 돌아갑니다 이때 이 스위치를 끄게 되면 그때부터는 세상의 시간도 정상으로 흘러가겠죠? 그럼 저는 스위치를 켰던 시점보다 3시간 전으로 거슬러 올라간 겁니다 테넷에 등장하는 시간여행의 개념은 지금 말씀드린 것과 같습니다 타임머신을 통해서 특정 시간으로 뿅~ 하고 이동하는 것이 아니라 엔트로피가 거꾸로 흘러서 시간이 역행하는 인버전을 만들어내는 회전문이 등장합니다 이 회전문으로 들어가서 반대 방향으로 나오면 그때부터는 시간이 거꾸로 흐릅니다 이 회전문을 지나간 다음 한 시간이 지나면, 한 시간 전으로 거슬러 올라갑니다 시간이 거꾸로 흐르니까요 만약 10일 전으로 돌아가려면, 이 상태로 10일을 기다려야 하는 거죠 시간여행의 개념은 아니지만, 그 결과가 시간여행처럼 나타납니다 이 영화에서 시간의 흐름은 생각보다 복잡하고 구분하기가 어렵습니다 모든 인물들이 다 같이 순방향으로 가거나 역방향으로 가거나 이런 게 아니라 누구는 순방향으로, 누구는 역방향으로 가는 데다가 이를 보는 관점에 따라서 시간의 방향이 달라 보이기 때문인데요 예를 들어서 주인공이 알 수 없는 괴한과 싸우는 이 장면에서 주인공의 관점에서 보면 괴한의 시간이 거꾸로 흘러서 총을 쏘는 것이 아니라 벽에 있는 총알이 총으로 다시 들어갑니다 하지만 같은 사건을 괴한의 관점에서 보면 자신은 그냥 총을 쏘고 있고 주인공이 거꾸로 움직이고 있죠 그래서 이 영화에는 시간의 정방향과 역방향을 암시하는 일종의 코드가 있습니다 바로 빨강과 파랑의 색깔 구분입니다 지금 보시는 장면에서 보이는 두 개의 문에는 가운데 색깔이 표시되어 있습니다 오른쪽이 빨간색, 왼쪽이 파란색이죠 이 영화에서 빨간색은 시간이 정상적으로 흐르고 파란색은 시간이 거꾸로 흐른다는 표시입니다 주인공이 파란색으로 표시된 문을 열고 들어가니까 연기가 거꾸로 역류하고 있죠 이 빨간색과 파란색의 시간 구분은 상대성 이론에 등장하는 도플러 효과에서 착안한 것으로 알려져 있습니다 도플러 효과는 빛을 내는 물체가 관측자에게서 멀어질 때 즉, 정방향으로 순행할 때 빨간색 파장으로 보이고 관측자에게 다가올 때, 즉 역방향으로 올 때 파란색 파장으로 편이 되는 현상인데요 이런 특성에서 착안해서 순방향의 시간 흐름은 빨간색 역방향은 파란색이라는 암시를 지속적으로",
+  "movie_id": "테넷",
+  "reviewer": "빨강도깨비",
+  "chunk_index": 2,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "테넷",
+      "entity_type": "MOVIE",
+      "entity_description": "테넷은 시간이 거꾸로 흐르는 '인버전' 개념을 다룬 영화로, 회전문을 통해 시간을 역행할 수 있는 설정을 가지고 있다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "주인공",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "테넷의 주인공으로, 알 수 없는 괴한과 싸우는 장면에서 시간의 정방향에서 행동하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "괴한",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "테넷에서 주인공과 싸우는 인물로, 인버전 상태에서 시간이 거꾸로 흘러 총알이 총으로 다시 들어가는 것처럼 보이는 캐릭터이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "주인공",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "테넷",
+      "target_type": "MOVIE",
+      "relationship_description": "주인공은 테넷의 중심 인물이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "괴한",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "테넷",
+      "target_type": "MOVIE",
+      "relationship_description": "괴한은 테넷에 등장하는 인물이다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "주인공",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "괴한",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "주인공과 괴한은 테넷에서 서로 싸우는 관계이며, 서로 다른 시간 방향에서 대립한다",
+      "relationship_strength": 9
+    }
+  ],
+  "entity_resolution": {
+    "테넷": {
+      "description": "테넷 -> 테넷",
+      "resolved_name": "테넷",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "주인공": {
+      "description": "주인공 -> 레인",
+      "resolved_name": "레인",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "괴한": {
+      "description": "괴한 -> 괴한",
+      "resolved_name": "괴한",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

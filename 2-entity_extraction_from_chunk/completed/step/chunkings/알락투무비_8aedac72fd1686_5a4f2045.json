@@ -1,0 +1,195 @@
+{
+  "chunk_hash": "8aedac72fd1686",
+  "chunk_id": "알락투무비_8aedac72fd1686_5a4f2045",
+  "user_query": "걸 알게 되고 [음악] 추출 시간이 가까워지자 해티는 빠져나갈 곳을 찾게 되죠 두 사람의 합동 공격이 먹히게 되고 해티는 헬기를 폭파시킵니다 홉스의 전문 기술에 나가떨어지는 브릭스톤 쇼는 그의 무기를 접속하죠 [음악] 한편 적들이 또 다른 바이러스에 출현을 알리게 됩니다 이 영화는 분노의 질주 시리즈 중 스핀오프 영화로 팀업을 보여주며 두 사람의 케미를 다룹니다 위기의 순간 우수한 팀워크를 보여주며 세상을 구하려 하죠 분노의 질주 시리즈답게 현란하고 스피드한 차들의 추격전과 다양한 차들이 빠지지 않고 등장합니다 마지막 3화에서 자동차와 헬기 간의 전쟁은 영화의 거대한 스케일을 보여주기도 하죠 데드풀의 감독으로 라이언 레이놀즈가 카메오이지만 많은 비중을 차지하며 위트 넘치는 연기를 보여주기도 했습니다 [박수] 감사합니다",
+  "movie_id": "홉스앤쇼",
+  "reviewer": "알락투무비",
+  "chunk_index": 3,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "홉스",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "홉스는 전문 기술로 브릭스톤을 제압하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "해티",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "해티는 헬기를 폭파시키고 탈출구를 찾는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "브릭스톤",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "브릭스톤은 홉스의 공격에 나가떨어지는 적대적 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "쇼",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "쇼는 브릭스톤의 무기를 접속하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "분노의 질주: 홉스 앤 쇼",
+      "entity_type": "MOVIE",
+      "entity_description": "분노의 질주 시리즈의 스핀오프 영화로 홉스와 쇼의 팀업과 케미를 다루며 현란한 추격전과 거대한 스케일의 액션을 보여주는 작품이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "라이언 레이놀즈",
+      "entity_type": "ACTOR",
+      "entity_description": "라이언 레이놀즈는 카메오로 출연하여 많은 비중을 차지하며 위트 넘치는 연기를 보여준 배우이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "데드풀",
+      "entity_type": "MOVIE",
+      "entity_description": "데드풀은 라이언 레이놀즈가 카메오로 출연한 영화의 감독이 연출한 작품이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "홉스",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "분노의 질주: 홉스 앤 쇼",
+      "target_type": "MOVIE",
+      "relationship_description": "홉스는 분노의 질주: 홉스 앤 쇼의 주인공이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "쇼",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "분노의 질주: 홉스 앤 쇼",
+      "target_type": "MOVIE",
+      "relationship_description": "쇼는 분노의 질주: 홉스 앤 쇼의 주인공이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "해티",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "분노의 질주: 홉스 앤 쇼",
+      "target_type": "MOVIE",
+      "relationship_description": "해티는 분노의 질주: 홉스 앤 쇼의 등장인물이다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "브릭스톤",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "분노의 질주: 홉스 앤 쇼",
+      "target_type": "MOVIE",
+      "relationship_description": "브릭스톤은 분노의 질주: 홉스 앤 쇼의 악역이다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "홉스",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "해티",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "홉스와 해티는 합동 공격을 펼치는 협력 관계이다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "홉스",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "쇼",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "홉스와 쇼는 팀업을 이루어 우수한 팀워크를 보여주는 파트너이다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "홉스",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "브릭스톤",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "홉스는 전문 기술로 브릭스톤을 제압한다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "쇼",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "브릭스톤",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "쇼는 브릭스톤의 무기를 접속한다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "라이언 레이놀즈",
+      "source_type": "ACTOR",
+      "target_entity": "분노의 질주: 홉스 앤 쇼",
+      "target_type": "MOVIE",
+      "relationship_description": "라이언 레이놀즈는 분노의 질주: 홉스 앤 쇼에 카메오로 출연했다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "라이언 레이놀즈",
+      "source_type": "ACTOR",
+      "target_entity": "데드풀",
+      "target_type": "MOVIE",
+      "relationship_description": "라이언 레이놀즈는 데드풀의 주연 배우이다",
+      "relationship_strength": 8
+    }
+  ],
+  "entity_resolution": {
+    "홉스": {
+      "description": "홉스 -> 루크 홉스",
+      "resolved_name": "루크 홉스",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "해티": {
+      "description": "해티 -> 헤티 쇼",
+      "resolved_name": "헤티 쇼",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "브릭스톤": {
+      "description": "브릭스톤 -> 브릭스턴 로어",
+      "resolved_name": "브릭스턴 로어",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "쇼": {
+      "description": "쇼 -> 헤티 쇼",
+      "resolved_name": "헤티 쇼",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "분노의 질주: 홉스 앤 쇼": {
+      "description": "분노의 질주: 홉스 앤 쇼 -> 홉스앤쇼",
+      "resolved_name": "홉스앤쇼",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "라이언 레이놀즈": {
+      "description": "라이언 레이놀즈 -> 라이언 레이놀즈",
+      "resolved_name": "라이언 레이놀즈",
+      "entity_type": "ACTOR",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "데드풀": {
+      "description": "데드풀 -> 데드풀",
+      "resolved_name": "데드풀",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

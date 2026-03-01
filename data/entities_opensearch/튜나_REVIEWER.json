@@ -1,0 +1,12 @@
+{
+  "entity": {
+    "name": "튜나",
+    "synonym": [
+      "튜나"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "튜나은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

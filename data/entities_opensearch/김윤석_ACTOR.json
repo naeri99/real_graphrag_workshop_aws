@@ -1,0 +1,26 @@
+{
+  "entity": {
+    "name": "김윤석",
+    "synonym": [
+      "Kim Yoon-seok",
+      "Kim Yun-seok",
+      "Kim Yunseok",
+      "김 윤석",
+      "김윤 석",
+      "김윤석",
+      "김윤석 배우",
+      "김윤석씨",
+      "김윤석형님",
+      "배우 김윤석",
+      "윤석",
+      "윤석 선배",
+      "윤석 형님",
+      "윤석씨",
+      "윤석이"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "김윤석은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

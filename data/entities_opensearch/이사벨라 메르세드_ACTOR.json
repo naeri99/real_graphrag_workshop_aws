@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "이사벨라 메르세드",
+    "synonym": [
+      "Isabela",
+      "Isabela Merced",
+      "Isabela Moner",
+      "Isabella Merced",
+      "메르세드",
+      "이사벨라",
+      "이사벨라 머르세드",
+      "이사벨라 머세드",
+      "이사벨라 메르세드",
+      "이사벨라메르세드",
+      "이자벨라 메르세드"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "이사벨라 메르세드은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

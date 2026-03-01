@@ -1,0 +1,26 @@
+{
+  "chunk_hash": "784145394ac5d0",
+  "chunk_id": "유캔프리_UCANFREE_784145394ac5d0_72144a80",
+  "user_query": "open I have to go in excuse me for interrupting Mr. Wyndham excuse me for interrupting Mr. Wyndham excuse me for interrupting Mr. Wyndham excuse me for interrupting Mr. Wyndham excuse me for interrupting Mr. Wyndham uh this is for you I just thought that you might need the exact same folder you already have uh this is for you I just thought that you might need the exact same folder you already have uh this is for you I just thought that you might need the exact same folder you already have uh this is for you I just thought that you might need the exact same folder you already have uh this is for you I just thought that you might need the exact same folder you already have because he worked so hard on it because he worked so hard on it because he worked so hard on it because he worked so hard on it because he works so hard on it I mean really dedicated and he deserves for this to go perfectly I mean really dedicated and he deserves for this to go perfectly I mean really dedicated and he deserves for this to go perfectly I mean really dedicated and he deserves for this to go perfectly I mean really dedicated and he deserves for this to go perfectly not like this this is my fault not like this this is my fault not like this this is my fault not like this this is my fault not like this this is my fault really nice to meet all of you really nice to meet all of you really nice to meet all of you really nice to meet all of you really nice to meet all of you you're right they really",
+  "movie_id": "이프 온리",
+  "reviewer": "유캔프리_UCANFREE",
+  "chunk_index": 9,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "MR. WYNDHAM",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Mr. Wyndham은 대화 중 언급되는 인물로, 누군가가 그에게 폴더를 전달하며 방해한 것에 대해 사과하는 장면의 대상이다"
+    }
+  ],
+  "relationships": [],
+  "entity_resolution": {
+    "MR. WYNDHAM": {
+      "description": "MR. WYNDHAM -> MR. WYNDHAM",
+      "resolved_name": "MR. WYNDHAM",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

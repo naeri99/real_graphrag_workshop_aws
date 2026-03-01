@@ -1,0 +1,26 @@
+{
+  "entity": {
+    "name": "톰 하디",
+    "synonym": [
+      "Thomas Hardy",
+      "Tom",
+      "Tom Hardy",
+      "Tom Schulman",
+      "슐먼",
+      "탐",
+      "탐 하디",
+      "토마스",
+      "토마스 하디",
+      "톰",
+      "톰 슐만",
+      "톰 하디",
+      "톰슐먼",
+      "톰하디",
+      "하디"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "톰 하디은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

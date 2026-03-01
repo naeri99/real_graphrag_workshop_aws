@@ -1,0 +1,24 @@
+{
+  "entity": {
+    "name": "아서",
+    "synonym": [
+      "Arthur",
+      "Arthur C. Clarke",
+      "Arthur Clarke",
+      "아더",
+      "아더 클라크",
+      "아르투르",
+      "아서",
+      "아서 C. 클라크",
+      "아서 클락",
+      "아서클라크",
+      "아써",
+      "아터",
+      "클라크"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "아서은 영화 '인셉션'의 등장인물로, 조셉 고든 레빗이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

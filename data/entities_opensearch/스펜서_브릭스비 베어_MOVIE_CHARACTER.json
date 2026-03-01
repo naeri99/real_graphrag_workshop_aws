@@ -1,0 +1,17 @@
+{
+  "entity": {
+    "name": "스펜서",
+    "synonym": [
+      "Spence",
+      "Spencer",
+      "스팬서",
+      "스펜서",
+      "스펜스",
+      "스펜써"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "스펜서은 영화 '브릭스비 베어'의 등장인물로, 호르헤 렌데보그 주니어이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

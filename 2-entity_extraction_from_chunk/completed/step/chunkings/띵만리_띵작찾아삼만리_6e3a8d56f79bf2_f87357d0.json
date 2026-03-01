@@ -1,0 +1,80 @@
+{
+  "chunk_hash": "6e3a8d56f79bf2",
+  "chunk_id": "띵만리_띵작찾아삼만리_6e3a8d56f79bf2_f87357d0",
+  "user_query": "yes. Bok bok! Chicken!\" Grandma sets off, carrying wild ferns to trade for chicken. \"Come back soon!\" While she's gone, Sang-woo hides the traces of what he did and falls asleep. Outside, heavy rain pours down. Grandma returns, carrying a live chicken. She prepares a traditional Korean boiled chicken, baeksuk, and offers Sang-woo a tender drumstick. \"This isn't Kentucky Chicken.\" \"I said chicken. Who told you to drown it in water?\" \"I don't want it. I'm not eating.\" The boiled chicken feels strange to him, and he sulks and goes to sleep. \"Ugh, I'm hungry.\" Sang-woo didn't expect 'baeksuk' to be this delicious. But Grandma caught a cold from the rain the day before. Feeling the warmth of the food, Sang-woo starts to act more caring. \"I made something. Might be breakfast... or lunch.\" Now, he begins to explore the world outside the house. He watches a wild chase with the neighbor kid and a mad cow. \"Oppa, just run a little faster!\" \"You did great. You really did!\" Sang-woo pulls a cart loaded with pumpkins. It's market day. They wait for the bus into town. \"Is the bus really coming?\" For Grandma, who has no watch, time always moves a little slower. Sang-woo and Grandma arrive at the market. Shy Sang-woo watches her sell goods from behind a wall. Even if she sells everything, it'll only make a few thousand won. \"They fit perfectly!\" Still, she uses that money to buy her grandson new shoes... And even treats him to a bowl of jjajangmyeon. \"2,300 won, please.\" Looking back and",
+  "movie_id": "집으로...",
+  "reviewer": "띵만리_띵작찾아삼만리",
+  "chunk_index": 5,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "할머니",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "할머니는 손자 상우를 돌보는 인물로, 고사리를 팔아 닭을 사오고 백숙을 만들어주며, 시장에서 물건을 팔아 손자에게 새 신발과 짜장면을 사주는 헌신적인 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "상우",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "상우는 할머니 집에 맡겨진 도시 소년으로, 처음에는 시골 음식과 생활에 적응하지 못하고 투정을 부리지만 점차 할머니의 사랑을 느끼며 변화해가는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "이웃 아이",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "이웃 아이는 상우와 함께 미친 소를 쫓는 장면에 등장하는 동네 아이이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "상우",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "할머니",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "상우는 할머니의 손자이며 할머니의 보살핌을 받는다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "할머니",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "상우",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "할머니는 상우를 위해 백숙을 만들어주고 새 신발과 짜장면을 사주는 등 헌신적으로 돌본다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "상우",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "이웃 아이",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "상우는 이웃 아이와 함께 미친 소를 쫓는 모험을 한다",
+      "relationship_strength": 5
+    }
+  ],
+  "entity_resolution": {
+    "할머니": {
+      "description": "할머니 -> 할머니",
+      "resolved_name": "할머니",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "상우": {
+      "description": "상우 -> 상우",
+      "resolved_name": "상우",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "이웃 아이": {
+      "description": "이웃 아이 -> 이웃 아이",
+      "resolved_name": "이웃 아이",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

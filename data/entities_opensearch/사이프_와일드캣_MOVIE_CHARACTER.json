@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "사이프",
+    "synonym": [
+      "Saif",
+      "Sayf",
+      "사이프",
+      "사이프 캐릭터",
+      "사이프르",
+      "사이프리",
+      "세이프",
+      "싸이프"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "사이프은 영화 '와일드캣'의 등장인물로, 알리 올로미이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

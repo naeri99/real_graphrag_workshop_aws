@@ -1,0 +1,23 @@
+{
+  "entity": {
+    "name": "박남주",
+    "synonym": [
+      "Nam-joo",
+      "Namjoo",
+      "Park Nam-joo",
+      "고모",
+      "남주",
+      "남주씨",
+      "남주야",
+      "박 남주",
+      "박남 주",
+      "박남주",
+      "박남주 캐릭터",
+      "양궁선수"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "박남주은 영화 '괴물'의 등장인물로, 배두나이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "entity": {
+    "name": "이프 온리",
+    "synonym": [
+      "If Only",
+      "If only",
+      "만약에",
+      "이프 오늘리",
+      "이프 오운리",
+      "이프 온니",
+      "이프 온리",
+      "이프 온리 2004",
+      "이프 온리 영화",
+      "이프오늘리",
+      "이프온니",
+      "이프온리"
+    ],
+    "entity_type": "MOVIE",
+    "summary": "이프 온리",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

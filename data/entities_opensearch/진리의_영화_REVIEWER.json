@@ -1,0 +1,13 @@
+{
+  "entity": {
+    "name": "진리의_영화",
+    "synonym": [
+      "진리의_영화",
+      "진리의 영화"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "진리의_영화은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

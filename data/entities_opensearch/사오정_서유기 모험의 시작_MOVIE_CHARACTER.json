@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "사오정",
+    "synonym": [
+      "Sha Wujing",
+      "沙悟淨",
+      "모래승려",
+      "모래요괴",
+      "사 오정",
+      "사승",
+      "사오정",
+      "사오정이",
+      "사화상",
+      "오정"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "사오정은 영화 '서유기 모험의 시작'의 등장인물로, 나지상이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "chunk_hash": "a6da98808c613b",
+  "chunk_id": "쭌무비_a6da98808c613b_0e097f62",
+  "user_query": "you with me in my life forever I knew it my nose always knows can't believe I was gonna shut this place down tired [Music] hey Ember it's time [Music] I'm sorry the internship is so far away go start new life your mother and I will be here [Music] foreign",
+  "movie_id": "엘리멘탈",
+  "reviewer": "쭌무비",
+  "chunk_index": 7,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "EMBER",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Ember는 영화에서 인턴십을 위해 멀리 떠나야 하는 상황에 처한 인물이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "EMBER",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "EMBER",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Ember의 부모가 Ember에게 새로운 삶을 시작하라고 격려한다",
+      "relationship_strength": 7
+    }
+  ],
+  "entity_resolution": {
+    "EMBER": {
+      "description": "EMBER -> EMBER",
+      "resolved_name": "EMBER",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

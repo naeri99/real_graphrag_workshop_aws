@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "제이 모어",
+    "synonym": [
+      "Jay",
+      "Jay Mohr",
+      "모어",
+      "제이 모",
+      "제이 모르",
+      "제이 모어",
+      "제이 모허",
+      "제이모어"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "제이 모어은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

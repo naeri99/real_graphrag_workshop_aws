@@ -1,0 +1,24 @@
+{
+  "entity": {
+    "name": "애니 허",
+    "synonym": [
+      "Ahney Her",
+      "Annie",
+      "Annie Her",
+      "Her",
+      "아니 허",
+      "아니허",
+      "애니",
+      "애니 허",
+      "애니 헤르",
+      "애니허",
+      "앤",
+      "앤니",
+      "허"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "애니 허은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

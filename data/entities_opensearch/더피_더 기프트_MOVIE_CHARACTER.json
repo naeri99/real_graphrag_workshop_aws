@@ -1,0 +1,15 @@
+{
+  "entity": {
+    "name": "더피",
+    "synonym": [
+      "Duffy",
+      "더피",
+      "더피 캐릭터",
+      "듀피"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "더피은 영화 '더 기프트'의 등장인물로, 비지 필립스이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

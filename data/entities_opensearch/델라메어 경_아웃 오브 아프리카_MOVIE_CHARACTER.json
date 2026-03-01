@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "델라메어 경",
+    "synonym": [
+      "Lord Delamere",
+      "델라메어",
+      "델라메어 경",
+      "델라메어경",
+      "델라미어",
+      "델라미어 경",
+      "델러메어 경",
+      "로드 델라메어"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "델라메어 경은 영화 '아웃 오브 아프리카'의 등장인물로, 마이클 고프이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

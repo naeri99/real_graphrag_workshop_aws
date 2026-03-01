@@ -1,0 +1,17 @@
+{
+  "entity": {
+    "name": "음완가 은구기",
+    "synonym": [
+      "Mwanga Ngugi",
+      "무완가 응구기",
+      "은구기",
+      "음완가",
+      "음완가 은구기",
+      "음완가은구기"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "음완가 은구기은 영화 '콘스탄트 가드너'의 등장인물로, 존 카니이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

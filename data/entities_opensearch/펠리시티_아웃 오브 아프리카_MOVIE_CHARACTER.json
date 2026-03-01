@@ -1,0 +1,18 @@
+{
+  "entity": {
+    "name": "펠리시티",
+    "synonym": [
+      "Felicity",
+      "펠리서티",
+      "펠리시타",
+      "펠리시티",
+      "펠리시티씨",
+      "펠리씨티",
+      "필리시티"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "펠리시티은 영화 '아웃 오브 아프리카'의 등장인물로, 수잔 해밀턴이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "entity": {
+    "name": "레니 제임스",
+    "synonym": [
+      "Lennie James",
+      "Lenny James",
+      "레니",
+      "레니 제임스",
+      "레니 제임즈",
+      "레니제임스",
+      "제임스"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "레니 제임스은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

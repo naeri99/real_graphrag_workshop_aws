@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "셰인 리머",
+    "synonym": [
+      "Shane Rimmer",
+      "리머",
+      "림머",
+      "셰인",
+      "셰인 리머",
+      "셰인 림머",
+      "셰인리머",
+      "셰인림머",
+      "쉐인 리머"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "셰인 리머은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

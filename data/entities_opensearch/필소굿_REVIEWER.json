@@ -1,0 +1,12 @@
+{
+  "entity": {
+    "name": "필소굿",
+    "synonym": [
+      "필소굿"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "필소굿은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

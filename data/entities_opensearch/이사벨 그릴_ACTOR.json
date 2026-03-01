@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "이사벨 그릴",
+    "synonym": [
+      "Isabella Grill",
+      "Isabelle",
+      "Isabelle Grill",
+      "그릴",
+      "이사벨",
+      "이사벨 그릴",
+      "이사벨그릴",
+      "이자벨 그릴"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "이사벨 그릴은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

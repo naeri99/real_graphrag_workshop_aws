@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "맥그리거 하우톤",
+    "synonym": [
+      "MacGregor",
+      "MacGregor Houghton",
+      "McGregor",
+      "McGregor Houghton",
+      "맥그레거",
+      "맥그레거 하우톤",
+      "맥그리거",
+      "맥그리거 하우톤",
+      "맥그리거 호튼",
+      "맥그리거하우톤",
+      "하우톤"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "맥그리거 하우톤은 영화 '정글크루즈'의 등장인물로, 잭 화이트홀이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

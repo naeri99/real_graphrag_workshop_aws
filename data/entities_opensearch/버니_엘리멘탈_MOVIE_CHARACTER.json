@@ -1,0 +1,26 @@
+{
+  "entity": {
+    "name": "버니",
+    "synonym": [
+      "Bernie",
+      "Bernie Lumen",
+      "바니",
+      "버니",
+      "버니 루먼",
+      "버니 루멘",
+      "버니루멘",
+      "버니아빠",
+      "버어니",
+      "베르니",
+      "불 아버지",
+      "불아빠",
+      "아빠",
+      "앰버 아빠",
+      "엠버 아빠"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "버니은 영화 '엘리멘탈'의 등장인물로, 로니 델 카르멘이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

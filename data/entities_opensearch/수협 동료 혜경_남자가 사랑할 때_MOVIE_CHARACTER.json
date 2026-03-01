@@ -1,0 +1,24 @@
+{
+  "entity": {
+    "name": "수협 동료 혜경",
+    "synonym": [
+      "Hye-kyung",
+      "Hyekyung",
+      "동료 혜경",
+      "수협 동료 혜경",
+      "수협 혜경",
+      "수협동료 혜경",
+      "수협동료혜경",
+      "수협혜경",
+      "해경",
+      "혜경",
+      "혜경 씨",
+      "혜경씨",
+      "혜경이"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "수협 동료 혜경은 영화 '남자가 사랑할 때'의 등장인물로, 손세빈이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

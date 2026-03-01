@@ -1,0 +1,39 @@
+{
+  "chunk_hash": "1adef8c091e720",
+  "chunk_id": "Sean_Chandler_Plus_1adef8c091e720_40650f0a",
+  "user_query": "feel that way but I think it does go so far that it it makes for a like unpleasantness. If you like these kind of movies I definitely recommend checking it out. I'd say overall I give this movie a B. It's a seven out of 10 on the entertainment scale and it's worth streaming if you're into these kinds of movies. Like it is a solid action film that makes you care about the characters, makes you laugh a little bit, and you're invested [music] in the journey along the way. So, I really dug it as someone that enjoys the category. If you're not someone super into [music] direct to video action movies, it's maybe not the one that would win you over. >> [music]",
+  "movie_id": "와일드캣",
+  "reviewer": "Sean_Chandler_Plus",
+  "chunk_index": 6,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "UNKNOWN ACTION MOVIE",
+      "entity_type": "MOVIE",
+      "entity_description": "리뷰어가 B등급을 주고 10점 만점에 7점을 부여한 액션 영화로, 캐릭터에 감정이입하게 만들고 웃음을 주며 여정에 몰입하게 하는 솔리드한 액션 영화이다. 직접 비디오 액션 영화 장르에 속하며 스트리밍으로 볼 만한 가치가 있다고 평가받았다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "REVIEWER",
+      "entity_type": "REVIEWER",
+      "entity_description": "이 액션 영화를 리뷰하는 사람으로, 영화에 B등급과 10점 만점에 7점을 부여하고 액션 영화 장르를 즐기는 팬으로서 영화를 추천하고 있다"
+    }
+  ],
+  "relationships": [],
+  "entity_resolution": {
+    "UNKNOWN ACTION MOVIE": {
+      "description": "UNKNOWN ACTION MOVIE -> UNKNOWN ACTION MOVIE",
+      "resolved_name": "UNKNOWN ACTION MOVIE",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "REVIEWER": {
+      "description": "REVIEWER -> REVIEWER",
+      "resolved_name": "REVIEWER",
+      "entity_type": "REVIEWER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

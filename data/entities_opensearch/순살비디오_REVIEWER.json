@@ -1,0 +1,12 @@
+{
+  "entity": {
+    "name": "순살비디오",
+    "synonym": [
+      "순살비디오"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "순살비디오은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

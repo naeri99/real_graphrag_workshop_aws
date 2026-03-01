@@ -1,0 +1,18 @@
+{
+  "entity": {
+    "name": "시드니",
+    "synonym": [
+      "Sid",
+      "Sidney",
+      "Sydney",
+      "시드니",
+      "시드니이",
+      "싯니",
+      "씨드니"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "시드니은 영화 '미드나잇 런'의 등장인물로, 필립 베이커 홀이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

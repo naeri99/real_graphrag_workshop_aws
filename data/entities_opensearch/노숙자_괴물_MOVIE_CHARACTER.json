@@ -1,0 +1,24 @@
+{
+  "entity": {
+    "name": "노숙자",
+    "synonym": [
+      "Homeless",
+      "Homeless Man",
+      "Homeless man",
+      "homeless",
+      "거리의 남자",
+      "거지",
+      "노숙 자",
+      "노숙인",
+      "노숙자",
+      "노숙자 캐릭터",
+      "노숙자씨",
+      "부랑자",
+      "홈리스"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "노숙자은 영화 '괴물'의 등장인물로, 윤제문이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

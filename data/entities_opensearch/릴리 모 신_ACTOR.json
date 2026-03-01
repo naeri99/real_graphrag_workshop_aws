@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "릴리 모 신",
+    "synonym": [
+      "Lily Mo Sheen",
+      "Lily Sheen",
+      "Sheen",
+      "릴리 모 쉰",
+      "릴리 모 신",
+      "릴리 모신",
+      "릴리 신",
+      "릴리모 신",
+      "릴리모쉰",
+      "릴리모신",
+      "신"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "릴리 모 신은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "데니스 파리나",
+    "synonym": [
+      "Dennis",
+      "Dennis Farina",
+      "데니스 파리나",
+      "데니스 패리나",
+      "데니스 페리나",
+      "데니스파리나",
+      "데니스페리나",
+      "파리나"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "데니스 파리나은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

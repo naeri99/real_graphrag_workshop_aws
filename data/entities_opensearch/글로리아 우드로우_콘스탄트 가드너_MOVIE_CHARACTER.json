@@ -1,0 +1,17 @@
+{
+  "entity": {
+    "name": "글로리아 우드로우",
+    "synonym": [
+      "Gloria Woodrow",
+      "글로리아",
+      "글로리아 우드로",
+      "글로리아 우드로우",
+      "글로리아우드로우",
+      "우드로우"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "글로리아 우드로우은 영화 '콘스탄트 가드너'의 등장인물로, 줄리엣 오브리이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "entity": {
+    "name": "이종석",
+    "synonym": [
+      "Lee Jong Suk",
+      "Lee Jong-suk",
+      "Lee Jongsuk",
+      "이 종석",
+      "이종석",
+      "이종석 배우",
+      "종석"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "이종석은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

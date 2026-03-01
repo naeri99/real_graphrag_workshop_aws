@@ -1,0 +1,13 @@
+{
+  "entity": {
+    "name": "SK브로드밴드_B_tv",
+    "synonym": [
+      "SK브로드밴드_B_tv",
+      "SK브로드밴드 B tv"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "SK브로드밴드_B_tv은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

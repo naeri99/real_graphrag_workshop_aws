@@ -1,0 +1,142 @@
+{
+  "chunk_hash": "60e0df55b7ea76",
+  "chunk_id": "CGN_NEWS_60e0df55b7ea76_a2a72e0d",
+  "user_query": "미국 풋볼 프로 리그 NFL 명예의 전당에 이름을 올린 커트 워너의 삶은 기적의 연속이었습니다 커트 워너의 인생을 이야기 할 때 빼놓을 수 없는 두 가지는 예수님과 그의 아내인 브렌다를 향한 사랑 인데요 그의 이야기를 배경으로 만든 영화 아메리칸 언더독 이 미국에서 개봉 됐습니다 너무 감사했고 마세요 교와 대박 야 썰어요 이 영화 아메리칸 언더독은 미국 풋볼 프로리그에서 쿼터백으로 활약했던 커트 워너의 감동 실화입니다 슈퍼마켓 직원에서 사람들을 열광시키는 슈퍼볼 챔피언 이 되기까지 그의 인생 여정은 꿈 같았습니다 깔 아닌 될 화학적 마음을 시대라고 하는 어머 언어와의 오남 3리 이렇게 하락의 뛰어 와 middle 이루고 아버지 유지 5인 and seven 아 배우 서성민 이어 얻어올 수 마음은 택할 봉사란 올지 감싸 휴보 2 너무 뜨거워요 바랄 low 2 예 아 왜 늘 무비 4 닫은 뒤 이 내내 우리도 안되겠네 예 커트 워너를 연기한 재커리 레비 는 역할을 위해 태어났다는 평가를 받는 등 많은 호평을 받았습니다 isla de tu 아첨하고 지금 감사 열정 레어 2 뭐 처의 까 트림 가파른 죄와벌 짜 빠이 브레이크 이르던 zi xin 얘기 나올 fs 서 8회말 지원이 스페인 법원 등의 쌀 버스폰 그대 스스로 아카데미 수상자인 안나 패퀸 이 워너의 아내 브렌다 역을 맡았습니다 그녀는 브렌다가 누구보다 강인한 사람 이라고 표현했습니다 인데 가이 4 젠스 이런 머스마 베인 힘은 시엘 차 앞에서 데카 움 언 의학 사이 등 퀸 무 센 도모와 된 머신은 b 이렇게 헴 x 또 깨라 푸키 까인 브렌다 워너는 그 강인함이 믿음에서 비롯됐다 고 설명합니다 5a 데크 30 하암 my place 이 나와야 version date fiery 옛날 한마음 안 발 에 ma 생간 워너 부부는 하나님의 사랑에 의지 하며 모든 역경을 이겨냈습니다 니스 지와 때 입시가 등록을 우리도 품이 나누어 검스 맺히고 되었어요 4 hour 뉴스 * 달로 영화 아메리칸 언더독은 믿음과 가족 그리고 풋볼의 약자가 승리하는 이야기를 전하며 많은 감동을 선사하고 있습니다",
+  "movie_id": "아메리칸 언더독",
+  "reviewer": "CGN_NEWS",
+  "chunk_index": 1,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "아메리칸 언더독",
+      "entity_type": "MOVIE",
+      "entity_description": "아메리칸 언더독은 미국 풋볼 프로리그 쿼터백 커트 워너의 감동 실화를 바탕으로 만든 영화로, 믿음과 가족 그리고 풋볼의 약자가 승리하는 이야기를 전한다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "커트 워너",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "커트 워너는 NFL 명예의 전당에 오른 실존 인물로, 슈퍼마켓 직원에서 슈퍼볼 챔피언이 되기까지의 기적 같은 인생 여정을 가진 쿼터백이다. 예수님과 아내 브렌다를 향한 사랑이 그의 삶의 핵심이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "브렌다 워너",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "브렌다 워너는 커트 워너의 아내로, 누구보다 강인한 사람이며 그 강인함이 믿음에서 비롯되었다. 남편과 함께 하나님의 사랑에 의지하며 모든 역경을 이겨냈다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "재커리 레비",
+      "entity_type": "ACTOR",
+      "entity_description": "재커리 레비는 커트 워너 역을 연기한 배우로, 역할을 위해 태어났다는 평가를 받는 등 많은 호평을 받았다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "안나 패퀸",
+      "entity_type": "ACTOR",
+      "entity_description": "안나 패퀸은 아카데미 수상자로, 영화에서 커트 워너의 아내 브렌다 역을 맡았다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "커트 워너",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "아메리칸 언더독",
+      "target_type": "MOVIE",
+      "relationship_description": "커트 워너는 아메리칸 언더독의 주인공이며 영화는 그의 실화를 바탕으로 제작되었다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "브렌다 워너",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "아메리칸 언더독",
+      "target_type": "MOVIE",
+      "relationship_description": "브렌다 워너는 아메리칸 언더독에 등장하는 주요 인물이다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "커트 워너",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "브렌다 워너",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "커트 워너와 브렌다 워너는 부부 관계로, 함께 하나님의 사랑에 의지하며 역경을 이겨냈다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "재커리 레비",
+      "source_type": "ACTOR",
+      "target_entity": "커트 워너",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "재커리 레비는 커트 워너 역을 연기했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "재커리 레비",
+      "source_type": "ACTOR",
+      "target_entity": "아메리칸 언더독",
+      "target_type": "MOVIE",
+      "relationship_description": "재커리 레비는 아메리칸 언더독에서 주연을 맡았다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "안나 패퀸",
+      "source_type": "ACTOR",
+      "target_entity": "브렌다 워너",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "안나 패퀸은 브렌다 워너 역을 연기했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "안나 패퀸",
+      "source_type": "ACTOR",
+      "target_entity": "아메리칸 언더독",
+      "target_type": "MOVIE",
+      "relationship_description": "안나 패퀸은 아메리칸 언더독에 출연했다",
+      "relationship_strength": 9
+    }
+  ],
+  "entity_resolution": {
+    "아메리칸 언더독": {
+      "description": "아메리칸 언더독 -> 아메리칸 언더독",
+      "resolved_name": "아메리칸 언더독",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "커트 워너": {
+      "description": "커트 워너 -> 커트 워너",
+      "resolved_name": "커트 워너",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "브렌다 워너": {
+      "description": "브렌다 워너 -> 브렌다 메오니",
+      "resolved_name": "브렌다 메오니",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "재커리 레비": {
+      "description": "재커리 레비 -> 재커리 리바이",
+      "resolved_name": "재커리 리바이",
+      "entity_type": "ACTOR",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "안나 패퀸": {
+      "description": "안나 패퀸 -> 안나 파킨",
+      "resolved_name": "안나 파킨",
+      "entity_type": "ACTOR",
+      "matched": true,
+      "match_type": "synonym_exact"
+    }
+  }
+}

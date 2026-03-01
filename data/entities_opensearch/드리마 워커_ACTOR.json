@@ -1,0 +1,18 @@
+{
+  "entity": {
+    "name": "드리마 워커",
+    "synonym": [
+      "Dreama Walker",
+      "드리마",
+      "드리마 워커",
+      "드리마 월커",
+      "드리마워커",
+      "드리머 워커",
+      "워커"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "드리마 워커은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

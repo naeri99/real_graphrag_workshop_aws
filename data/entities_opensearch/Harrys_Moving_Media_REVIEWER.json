@@ -1,0 +1,13 @@
+{
+  "entity": {
+    "name": "Harrys_Moving_Media",
+    "synonym": [
+      "Harrys_Moving_Media",
+      "Harrys Moving Media"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "Harrys_Moving_Media은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

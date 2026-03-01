@@ -1,0 +1,71 @@
+{
+  "chunk_hash": "b14c8c67c553c5",
+  "chunk_id": "Chris_Stuckmann_b14c8c67c553c5_c5d3251c",
+  "user_query": "seen in the trailers and I also really liked that the overly dramatic heightened world of Elly Conway's book started to sort of seep into the real world where people were saying and doing things that felt like they were in a spy novel and you understood why those two worlds were sort of starting to overlap and it's a really unique way of approaching how a person might imagine a world and then being faced with having to deal with that actual world in real life and what elements of both would coalesce and also be sure to stay for the end credits because there's something in there that could make for very interesting developments in the future I'm also very excited to say that I was able to interview Matthew Vaughn on my pre-production podcast and that episode is going to go up on Friday he was a joy and a pleasure to talk to and I can't wait to share that with you guys thank you so much as always for watching look forward to more videos very soon and if you like this you can click right here and get stuck minized [Music] oh",
+  "movie_id": "아가일",
+  "reviewer": "Chris_Stuckmann",
+  "chunk_index": 4,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "ARGYLLE",
+      "entity_type": "MOVIE",
+      "entity_description": "Argylle는 Elly Conway의 소설 속 스파이 세계와 현실 세계가 겹쳐지는 독특한 접근 방식을 가진 영화이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "ELLY CONWAY",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Elly Conway는 스파이 소설을 쓰는 작가 캐릭터로, 자신이 상상한 세계와 실제 세계를 마주하게 된다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "MATTHEW VAUGHN",
+      "entity_type": "MOVIE_STAFF",
+      "entity_description": "Matthew Vaughn은 Argylle의 감독으로, 팟캐스트 인터뷰에 참여했다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "ELLY CONWAY",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "ARGYLLE",
+      "target_type": "MOVIE",
+      "relationship_description": "Elly Conway는 Argylle 영화의 주요 캐릭터이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "MATTHEW VAUGHN",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "ARGYLLE",
+      "target_type": "MOVIE",
+      "relationship_description": "Matthew Vaughn은 Argylle를 감독했다",
+      "relationship_strength": 10
+    }
+  ],
+  "entity_resolution": {
+    "ARGYLLE": {
+      "description": "ARGYLLE -> ARGYLLE",
+      "resolved_name": "ARGYLLE",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "ELLY CONWAY": {
+      "description": "ELLY CONWAY -> Elly Conway",
+      "resolved_name": "Elly Conway",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "MATTHEW VAUGHN": {
+      "description": "MATTHEW VAUGHN -> MATTHEW VAUGHN",
+      "resolved_name": "MATTHEW VAUGHN",
+      "entity_type": "MOVIE_STAFF",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

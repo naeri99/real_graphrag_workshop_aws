@@ -1,0 +1,159 @@
+{
+  "chunk_hash": "3e59b161d0618a",
+  "chunk_id": "김준표_3e59b161d0618a_42033f7a",
+  "user_query": "저 같은 리뷰어한테는 진짜 비극 같은 하나의 선물이었다고 볼 수 있죠 그래서 일단 주인공의 어머니 입장을 일단 먼저 우리가 좀 배경 지식으로 알고 갈 필요가 있는데 주인공 엄마가 임신을 했어 어쨌든 그래서 이제 병원에 가서 검사를 해 보니까 애가 근육 무력증이 병이 있어요 그래서 애가 태어나도 평생 아픈 상태로 살아야 된다 현대 의학으로 치료가 불가능하다는 거야 그래서 애 엄마가 내 사전에 불가능이란 없어요 하고 페루에 있는 무슨 특수 거미가 있대 근데 그 거미 독에 쏘이면 이제 뭐가 자연적으로 초능력이 생기고 그런 병이 낫는 기적을 경험할 수 있다는 그것에 이제 올인을 해서 애를 밴 상태로 페루로 날아가요 그래서 거기서 경호원을 구해서 결국에는 이제 그 여자의 능력으로 거미를 찾아요 근데 그 거미를 찾자마자 경호원이었던 Ezekiel이랑 얘가 이제 이 작품의 메인 빌런이거든 얘가 바로 총 권총 들고 히히 권총은 너도 한 방 나도 한 방 그리고 이제 주변에 있는 연구원들을 다 죽인 다음에 엄마한테 거미 줘 거미를 뺏어 근데 또 애 엄마가 안 돼 줄 수 없어 그러다가 결국에 총을 맞아요 그래서 이제 총을 맞은 상태로 그냥 영화가 끝났으면 다행이었을 것 같아 그렇게 끝났어야 돼요 영화가 그래서 이제 쓰러져 있는 그 어머니를 이 페루에 아라냐 애들이 있는데 얘네가 뭐냐면 이 거미에 쏘여서 초능력이 생긴 사람들의 집단이라고 생각하면 돼요 그래서 걔네가 갑자기 쏴 이러고 존나 와 가지고 애 엄마를 데려가서 걔한테 거미 독을 딱 쏘게 해 쏘여 그래서 엄마가 그래서 엄마랑 애 둘 다 살릴 수 있을 줄 알았는데 어머니는 이제 너무 늦게 이제 이렇게 돼서 사망하고 가버리고 애만 이제 딱 이렇게 나와요 그리고 이제 장면이 전환이 돼서 몇십 년 뒤 이제 애가 커 가지고 이제 미래 지향적으로 갑니다 여기까지가 오프닝이 근데 여러분 영화가 여러분 공포 영화보다도 더 점프 스케어가 많아요 확확 튀어나오는 거 있잖아 그러니까 얘네가 진짜 뭔 생각을 했는지는 모르겠는데 장면이 전환될 때마다 지루하면 안 된다고 생각을 해서 이렇게 한 거 같은데 진짜 소리부터 시작해서 깜짝깜짝 놀래요 진짜 이렇게 놀라 그래서 결과적으로 애가 이제 몇십 년이 지나서 결국에는 119 구급대원이 됐어요 그래서 그러니까 이제 응급차를 운전하고 병원으로 가는 이제 그 모습이 이렇게 나오는데 그때 갑자기 스케이트보드를 탄 미친 흑인 년이 갑자기 응급차 앞을 가로막아요 그래서 그 브레이크 쭉 밟은 다음에 어 뭐야 했더니 이 블랙 걸 매직이 그 운전자인 주인공한테 펑 이러고 학교로 들어가 그래서 오호 응급차에 뻑큐를 날리는 미친년이 이 세상에 존재를 하는구나 인상적으로 나옵니다 그리고 이제 일정을 끝내고 집으로 이제 돌아와 보니까 1층에 사는 미친년은 또 집세가 밀려 가지고 집주인이랑 싸우고 있는 걸 보고 그걸 일상적으로 전환이 돼요 그래서 이제 아 주인공의 직업이 119고 지금 나왔던 그 흑인 미친 년하고 1층의 집세 밀린 년하고 뭐 이제 나오겠구나 뭐 이 정도의 이제 복선으로 보여집니다 그다음에",
+  "movie_id": "마담 웹",
+  "reviewer": "김준표",
+  "chunk_index": 1,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "EZEKIEL",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Ezekiel은 작품의 메인 빌런으로, 경호원이었다가 주인공의 어머니를 총으로 쏘고 거미를 빼앗은 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "주인공 어머니",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "주인공의 어머니로, 임신 중 아이의 근육 무력증을 치료하기 위해 페루로 가서 특수 거미를 찾았으나 Ezekiel에게 총을 맞고 사망한 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "주인공",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "근육 무력증을 가지고 태어났으나 거미 독으로 살아남았고, 성장 후 119 구급대원이 된 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "아라냐",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "페루에 있는 집단으로, 거미에 쏘여서 초능력이 생긴 사람들의 집단이며 주인공 어머니를 구하려 했다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "흑인 소녀",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "스케이트보드를 타고 응급차 앞을 가로막으며 주인공에게 손가락 욕을 하고 학교로 들어간 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "1층 여성",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "주인공이 사는 건물 1층에 거주하며 집세가 밀려 집주인과 싸우고 있는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "리뷰어",
+      "entity_type": "REVIEWER",
+      "entity_description": "이 영화를 리뷰하며 비극 같은 선물이라고 평가한 리뷰어이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "EZEKIEL",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "주인공 어머니",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Ezekiel은 경호원이었다가 주인공 어머니를 배신하고 총으로 쏴서 거미를 빼앗았다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "주인공 어머니",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "주인공",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "주인공 어머니는 주인공의 어머니로, 아이를 살리기 위해 페루까지 갔다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "아라냐",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "주인공 어머니",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "아라냐는 쓰러진 주인공 어머니를 데려가 거미 독을 쏘게 해 구하려 했다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "아라냐",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "주인공",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "아라냐가 거미 독을 쏘게 해서 주인공이 살아남을 수 있었다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "흑인 소녀",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "주인공",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "흑인 소녀는 주인공이 운전하는 응급차 앞을 가로막고 손가락 욕을 날렸다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "1층 여성",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "주인공",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "1층 여성은 주인공이 사는 건물의 1층에 거주하는 이웃이다",
+      "relationship_strength": 5
+    }
+  ],
+  "entity_resolution": {
+    "EZEKIEL": {
+      "description": "EZEKIEL -> EZEKIEL",
+      "resolved_name": "EZEKIEL",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "주인공 어머니": {
+      "description": "주인공 어머니 -> 주인공 어머니",
+      "resolved_name": "주인공 어머니",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "주인공": {
+      "description": "주인공 -> 레인",
+      "resolved_name": "레인",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "아라냐": {
+      "description": "아라냐 -> 아냐 코라존",
+      "resolved_name": "아냐 코라존",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "흑인 소녀": {
+      "description": "흑인 소녀 -> 흑인 소녀",
+      "resolved_name": "흑인 소녀",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "1층 여성": {
+      "description": "1층 여성 -> 1층 여성",
+      "resolved_name": "1층 여성",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "리뷰어": {
+      "description": "리뷰어 -> 리뷰어",
+      "resolved_name": "리뷰어",
+      "entity_type": "REVIEWER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "entity": {
+    "name": "미란다 놀란",
+    "synonym": [
+      "Miranda Nolan",
+      "놀란",
+      "미란다",
+      "미란다 노란",
+      "미란다 놀란",
+      "미란다 놀런",
+      "미란다놀란"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "미란다 놀란은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

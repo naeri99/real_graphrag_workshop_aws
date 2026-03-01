@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "릭 호프만",
+    "synonym": [
+      "Rick",
+      "Rick Hoffman",
+      "리크 호프만",
+      "릭",
+      "릭 호프만",
+      "릭 호프맨",
+      "릭 호프먼",
+      "릭호프만",
+      "호프만"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "릭 호프만은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

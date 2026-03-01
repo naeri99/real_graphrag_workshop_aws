@@ -1,0 +1,34 @@
+{
+  "entity": {
+    "name": "로버트 패틴슨",
+    "synonym": [
+      "R-Patz",
+      "R-패츠",
+      "R. 패틴슨",
+      "Rob Pattinson",
+      "Robert",
+      "Robert Pattinson",
+      "Robert Rubin",
+      "Rubin",
+      "R패츠",
+      "R패틴슨",
+      "로버트",
+      "로버트 패틴선",
+      "로버트 패틴손",
+      "로버트 패틴슨",
+      "로버트루빈",
+      "로버트패틴슨",
+      "롭 패틴슨",
+      "롭패틴슨",
+      "루빈",
+      "밥",
+      "밥 루빈",
+      "밥 패틴슨",
+      "패틴슨"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "로버트 패틴슨은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

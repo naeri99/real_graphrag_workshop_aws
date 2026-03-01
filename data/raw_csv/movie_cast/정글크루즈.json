@@ -1,0 +1,94 @@
+{
+  "movie_title": "정글크루즈",
+  "director": [
+    {
+      "name": "자움 콜렛 세라",
+      "name_en": "Jaume Collet-Serra"
+    }
+  ],
+  "cast": [
+    {
+      "actor": "드웨인 존슨",
+      "actor_en": "Dwayne Johnson",
+      "character": "Frank Wolff"
+    },
+    {
+      "actor": "에밀리 블런트",
+      "actor_en": "Emily Blunt",
+      "character": "Lily Houghton"
+    },
+    {
+      "actor": "잭 화이트홀",
+      "actor_en": "Jack Whitehall",
+      "character": "맥그리거 하우톤"
+    },
+    {
+      "actor": "에드가르 라미레스",
+      "actor_en": "Edgar Ramírez",
+      "character": "아기레"
+    },
+    {
+      "actor": "제시 플레먼스",
+      "actor_en": "Jesse Plemons",
+      "character": "요아킴 왕자"
+    },
+    {
+      "actor": "폴 지어마티",
+      "actor_en": "Paul Giamatti",
+      "character": "니로 네메치오"
+    },
+    {
+      "actor": "베로니카 팔콘",
+      "actor_en": "Veronica Falcón",
+      "character": "트레이더 샘"
+    },
+    {
+      "actor": "다니 로비라",
+      "actor_en": "Dani Rovira",
+      "character": "산초"
+    },
+    {
+      "actor": "쿠임 구티에레즈",
+      "actor_en": "Quim Gutiérrez",
+      "character": "멜초르"
+    },
+    {
+      "actor": "댄 다르간",
+      "actor_en": "Dan Dargan Carter",
+      "character": "곤잘로"
+    },
+    {
+      "actor": "앤디 나이먼",
+      "actor_en": "Andy Nyman",
+      "character": "서 제임스 홉스"
+    },
+    {
+      "actor": "라파엘 페티트",
+      "actor_en": "Raphael Petardi",
+      "character": "로시토"
+    },
+    {
+      "actor": "수렘 칼데론",
+      "actor_en": "Sulem Calderon",
+      "character": "족장의 딸"
+    },
+    {
+      "actor": "시몬 친",
+      "actor_en": "Simone Lockhart",
+      "character": "프록시마"
+    },
+    {
+      "actor": "카롤리나 라비니아",
+      "actor_en": "Carolina Ravassa",
+      "character": "프록시마"
+    }
+  ],
+  "review": [
+    "./data/review/정글크루즈/정글크루즈_L0wsiTv1wsE.json",
+    "./data/review/정글크루즈/정글크루즈_LAe-w8yYCsU.json",
+    "./data/review/정글크루즈/정글크루즈__tuCWeizzjs.json",
+    "./data/review/정글크루즈/정글크루즈_qvXPMpzkuMY.json",
+    "./data/review/정글크루즈/정글크루즈_x_1hzsAkuCE.json",
+    "./data/review/정글크루즈/정글크루즈_xlwB3GMRqoA.json"
+  ]
+}

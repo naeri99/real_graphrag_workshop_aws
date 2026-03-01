@@ -1,0 +1,23 @@
+{
+  "entity": {
+    "name": "카일 맥라클란",
+    "synonym": [
+      "Kyle",
+      "Kyle MacLachlan",
+      "Kyle Maclachlan",
+      "맥라클란",
+      "카일",
+      "카일 맥라클란",
+      "카일 맥라클런",
+      "카일 맥라클렌",
+      "카일 맥라흘란",
+      "카일 맥라흘런",
+      "카일 맥클라클란",
+      "카일맥라클란"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "카일 맥라클란은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

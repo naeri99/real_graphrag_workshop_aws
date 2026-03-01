@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "세바스찬 스탠",
+    "synonym": [
+      "Sebastian",
+      "Sebastian Stan",
+      "세바스찬 스탠",
+      "세바스찬스탠",
+      "세바스챤 스탠",
+      "세바스티안 스탠",
+      "세바스티안스탠",
+      "스탠"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "세바스찬 스탠은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

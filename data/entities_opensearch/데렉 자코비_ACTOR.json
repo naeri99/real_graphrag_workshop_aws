@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "데렉 자코비",
+    "synonym": [
+      "Derek Jacobi",
+      "데렉",
+      "데렉 자코비",
+      "데렉 제이코비",
+      "데렉자코비",
+      "데릭 자코비",
+      "데릭 제커비",
+      "데릭자코비",
+      "자코비"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "데렉 자코비은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "칼 로즈",
+    "synonym": [
+      "Carl",
+      "Carl Rose",
+      "로즈",
+      "카를 로즈",
+      "칼",
+      "칼 로스",
+      "칼 로즈",
+      "칼로즈"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "칼 로즈은 영화 '팬텀 스레드'의 등장인물로, 에릭 시그문드슨이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

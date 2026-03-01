@@ -1,0 +1,25 @@
+{
+  "entity": {
+    "name": "Moon-Watcher",
+    "synonym": [
+      "Moon Watcher",
+      "Moon-Watcher",
+      "Moonwatcher",
+      "달 감시자",
+      "달을 바라보는 자",
+      "달을 보는 자",
+      "달지기",
+      "문 와처",
+      "문 워처",
+      "문와처",
+      "문왓처",
+      "문워처",
+      "문워쳐",
+      "원시인"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "Moon-Watcher은 영화 '2001 스페이스 오디세이'의 등장인물로, 대니얼 리히터이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

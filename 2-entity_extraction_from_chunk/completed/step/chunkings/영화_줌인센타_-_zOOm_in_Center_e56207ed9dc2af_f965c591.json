@@ -1,0 +1,335 @@
+{
+  "chunk_hash": "e56207ed9dc2af",
+  "chunk_id": "영화_줌인센타_-_zOOm_in_Center_e56207ed9dc2af_f965c591",
+  "user_query": "눈을 떼지 못하는 태일 퇴근하는 그녀에게 접근합니다 술전 하게 할 얘기도 좀 있고 사채업자 이런 얼굴로 막 들이대면 너무 무섭잖아 그 얼굴 얼마나 무시무시한 건지 알아 술이 쭉쭉 들어가게 생긴 이곳은 군산의 노포 해성 식당입니다 반지회 무침을 강추합니다 아 술 냄새 자고 있는 삼촌을 발로 차서 깨우는 조카 송지 누가 들으면 내가 삥 뜯는 줄 알겠네 이후 영화 박하사탕의 출연에 인상 깊은 연기를 선보인 강민아 배우입니다 엄마가 진짜 진짜 진 우리 엄마 할래 뭐라냐 야 너 그런데 진짜 좋이 생겼다 얼굴 철에 어 이도 마 주조연으로 출연하며 활발한 활동을 이어가고 있습니다 밥을 먹고 다니는 거야 아버지가 운행하는 마을버스를 타고 이동하는 태일 앞에 그 병원 앞에 좀 세워줘 봐봐 이게 택시인 줄 아냐 버스를 레카에 매달아 끌고 다니면서 촬영하고 레카는 프레임 밖으로 잘랐습니다 태일의 교통수단은 군산에 다니는 모든 차들입니다 그냥 지나가는 차를 세워서 타고 다닌다는 설정입니다 차가 서기도 전에 문을 여는 황정민의 디테일 수고했다 쪽 해망동 쪽 태일이 일하는 사무실 역시 마치 세트 같지만 군산 해망동 공판장 로케이션 촬영입니다 장님 이거 내 추석 보너스로 넘겨 주시죠 주철의 헤어스타일은 붙인 머리로 캐릭터를 완성했습니다 황정민의 촌스러운 뒷머리도 붙인 머리고 65번 고객님 66번 고객님 그러니까 몇 시에 퇴근 하냐고 진짜 공밥 한번 먹어볼래 하지만 생각지도 못한 경찰의 반응 아가씨가 잘못했네 고 남문철 배우는 황정민과 연극판 동기의 연으로 캐스팅됐습니다 아 쪽팔려 진짜 스테디캠 없이 촬영 감독이 카메라를 들고 뒤로 걸으며 촬영했다고 합니다 흔들리는 건 나중에 잡으려고 했지만 실패했다고 하네요 너 또 경찰서 갔다 왔다 마 황정민보다 네 살 어리지만 형 역할을 맡은 곽도원 이후 곡성에서 놈은 그냥 미끼를 던져본 것이고 네 딸내미는 그걸 확 물어본 것이요 그리고 아수라에서 다시 만나게 됩니다 절대 믿으면 안 되는 그런 눈을 가셨다 우리 시작해 이 각서를 무효화할 수 있는 또 다른 각서 호정을 꼬시기 위해 귀여운 각서를 준비한 태일 하루에 한 시간씩 네가 나 만나줄 때마다 이 네모칸의 색깔을 칠할 거야 할 말 다 하셨으면 가세요 하얀 배경에 하얀 한혜진과 함께 있으니 황정민 피부가 너무 까맣게 보이는데요 얼굴이 아예 무채색이면 그나마 하기 수월한데 황정민은 얼굴이 빨갛기로 유명하죠 얼굴에 채도가 높아서 색보정 하기가 더 어렵다고 합니다 피부톤을 다 싱크 맞춰야 하니까요 너 나 사랑하냐 사랑은 무슨 지금 일하고 있잖아 나름 태일의 사랑의 카운슬링을 해주는 역할인 술집녀 미선 왜 그래 오늘 무슨 일 있어 2003년 그리스로 데뷔한 뮤지컬 배우 최우리입니다 눈앞에 아른거리고 자꾸 생각나면 그게 사랑 아니냐 내 생각하지 마 냉정과 열정이란 컨셉으로 태일 쪽은 뜨거운 빨간색으로 미선 쪽은 차가운 푸른 빛으로 조명을 세팅했습니다 이어지는 장면도 태일 쪽은 차가운 톤으로 호정 쪽은 따뜻한 톤으로 설정했습니다 저기요 나 좋아해요 그렇게 시작된 태일과 호정의 데이트",
+  "movie_id": "남자가 사랑할 때",
+  "reviewer": "영화_줌인센타_-_zOOm_in_Center",
+  "chunk_index": 2,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "태일",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "태일은 사채업자로 일하며 호정에게 접근하여 사랑을 고백하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "호정",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "호정은 태일이 좋아하는 여성으로 은행에서 일하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "송지",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "송지는 태일의 조카로 삼촌을 발로 차서 깨우는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "주철",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "주철은 태일의 사무실에서 함께 일하는 인물로 붙인 머리 헤어스타일이 특징이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "미선",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "미선은 술집에서 일하며 태일에게 사랑 카운슬링을 해주는 역할의 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "황정민",
+      "entity_type": "ACTOR",
+      "entity_description": "황정민은 태일 역을 맡은 배우로 촌스러운 뒷머리(붙인 머리)와 빨간 피부톤이 특징이며 연극판 출신이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "곽도원",
+      "entity_type": "ACTOR",
+      "entity_description": "곽도원은 황정민보다 네 살 어리지만 형 역할을 맡은 배우로 이후 곡성과 아수라에서도 활동했다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "한혜진",
+      "entity_type": "ACTOR",
+      "entity_description": "한혜진은 호정 역을 맡은 배우로 하얀 피부가 특징이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "강민아",
+      "entity_type": "ACTOR",
+      "entity_description": "강민아는 송지 역을 맡은 배우로 영화 박하사탕에서 인상 깊은 연기를 선보였으며 주조연으로 활발히 활동 중이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "남문철",
+      "entity_type": "ACTOR",
+      "entity_description": "남문철은 경찰 역할을 맡은 배우로 황정민과 연극판 동기의 연으로 캐스팅됐다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "최우리",
+      "entity_type": "ACTOR",
+      "entity_description": "최우리는 미선 역을 맡은 배우로 2003년 그리스로 데뷔한 뮤지컬 배우이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "박하사탕",
+      "entity_type": "MOVIE",
+      "entity_description": "박하사탕은 강민아 배우가 출연하여 인상 깊은 연기를 선보인 영화이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "곡성",
+      "entity_type": "MOVIE",
+      "entity_description": "곡성은 곽도원이 출연한 영화이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "아수라",
+      "entity_type": "MOVIE",
+      "entity_description": "아수라는 황정민과 곽도원이 다시 만나게 된 영화이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "해성식당",
+      "entity_type": "MOVIE",
+      "entity_description": "해성식당은 군산의 노포로 반지회 무침을 강추하는 촬영 장소이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "황정민",
+      "source_type": "ACTOR",
+      "target_entity": "태일",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "황정민은 태일 역을 연기했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "한혜진",
+      "source_type": "ACTOR",
+      "target_entity": "호정",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "한혜진은 호정 역을 연기했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "곽도원",
+      "source_type": "ACTOR",
+      "target_entity": "태일",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "곽도원은 태일의 형 역할을 맡았다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "강민아",
+      "source_type": "ACTOR",
+      "target_entity": "송지",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "강민아는 송지 역을 연기했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "최우리",
+      "source_type": "ACTOR",
+      "target_entity": "미선",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "최우리는 미선 역을 연기했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "태일",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "호정",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "태일은 호정을 좋아하여 데이트를 시작한다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "태일",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "송지",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "태일은 송지의 삼촌이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "태일",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "미선",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "태일은 미선에게 사랑 카운슬링을 받는다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "황정민",
+      "source_type": "ACTOR",
+      "target_entity": "남문철",
+      "target_type": "ACTOR",
+      "relationship_description": "황정민과 남문철은 연극판 동기이다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "황정민",
+      "source_type": "ACTOR",
+      "target_entity": "곽도원",
+      "target_type": "ACTOR",
+      "relationship_description": "황정민과 곽도원은 같은 영화에서 함께 출연했으며 이후 아수라에서 다시 만났다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "곽도원",
+      "source_type": "ACTOR",
+      "target_entity": "곡성",
+      "target_type": "MOVIE",
+      "relationship_description": "곽도원은 곡성에 출연했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "곽도원",
+      "source_type": "ACTOR",
+      "target_entity": "아수라",
+      "target_type": "MOVIE",
+      "relationship_description": "곽도원은 아수라에 출연했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "황정민",
+      "source_type": "ACTOR",
+      "target_entity": "아수라",
+      "target_type": "MOVIE",
+      "relationship_description": "황정민은 아수라에 출연했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "강민아",
+      "source_type": "ACTOR",
+      "target_entity": "박하사탕",
+      "target_type": "MOVIE",
+      "relationship_description": "강민아는 박하사탕에 출연하여 인상 깊은 연기를 선보였다",
+      "relationship_strength": 10
+    }
+  ],
+  "entity_resolution": {
+    "태일": {
+      "description": "태일 -> 태일",
+      "resolved_name": "태일",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "호정": {
+      "description": "호정 -> 한송지",
+      "resolved_name": "한송지",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "송지": {
+      "description": "송지 -> 한송지",
+      "resolved_name": "한송지",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "주철": {
+      "description": "주철 -> 주철",
+      "resolved_name": "주철",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "미선": {
+      "description": "미선 -> 술집녀 미선",
+      "resolved_name": "술집녀 미선",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "황정민": {
+      "description": "황정민 -> 황정민",
+      "resolved_name": "황정민",
+      "entity_type": "ACTOR",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "곽도원": {
+      "description": "곽도원 -> 곽도원",
+      "resolved_name": "곽도원",
+      "entity_type": "ACTOR",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "한혜진": {
+      "description": "한혜진 -> 한혜진",
+      "resolved_name": "한혜진",
+      "entity_type": "ACTOR",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "강민아": {
+      "description": "강민아 -> 강민아",
+      "resolved_name": "강민아",
+      "entity_type": "ACTOR",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "남문철": {
+      "description": "남문철 -> 남문철",
+      "resolved_name": "남문철",
+      "entity_type": "ACTOR",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "최우리": {
+      "description": "최우리 -> 최우리",
+      "resolved_name": "최우리",
+      "entity_type": "ACTOR",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "박하사탕": {
+      "description": "박하사탕 -> 박하사탕",
+      "resolved_name": "박하사탕",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "곡성": {
+      "description": "곡성 -> 곡성",
+      "resolved_name": "곡성",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "아수라": {
+      "description": "아수라 -> 아수라",
+      "resolved_name": "아수라",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "해성식당": {
+      "description": "해성식당 -> 해성식당",
+      "resolved_name": "해성식당",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

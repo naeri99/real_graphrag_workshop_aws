@@ -1,0 +1,203 @@
+{
+  "chunk_hash": "3ce9600edaf80b",
+  "chunk_id": "발없는새_3ce9600edaf80b_e6368ef8",
+  "user_query": "브라이언이 보여줬던 호흡과는 다르게 홉스와 쇼는 끊임없이 서로를 못 잡아먹어 안달하면서도 팀을 이룰 수밖에 없는 상황에 놓이게 되고 더 나아가 사건을 해결하는 과정에는 두 사람의 특이한 관계를 중심에 두면 자연스레 불협화음과 유머가 따라옵니다 홉스 앤 쇼가 초반부에서 보여주고 있는 게 바로 이건데 혹시 여러분이 이것 자체를 받아들이지 못하시면 홉스 앤 쇼는 그냥 황당하고 멍청해서 짜증만 나는 영화로 남을 겁니다 다시 한번 강조하지만 분노의 질주와는 크게 다른 겁니다 코미디의 요소가 대대적으로 더해진 것도 그렇고 자동차로 보여주는 액션의 비중도 한결 적어졌습니다 무엇보다도 분노의 질주와 연결하는 그러니까 두 캐릭터의 관계를 제외하면 전혀 없다시피 합니다 이 바람에 불만 색 하신다면 네 모 충분히 있는 측이지만 전 이게 스핀오프의 모범이자 미덕이라고 생각합니다 뭐 이를테면 마블 시네마틱 유니버스의 중심에 어벤져스가 있지만 그 어벤져스의 멤버들을 다룬 단독 영화는 저마다의 개성을 지킨 것처럼 홉스 앤 쇼도 분노의 질주와는 확실하게 선을 그으면서 다른 색깔을 보여주는 게 관계의 폭을 넓히려는 측면에서도 좋은 전략입니다 만들어 홉스 앤 쇼 초반부를 즐길 수 있으신 분들이라면 제가 그랬던 것처럼 황당무계에 가까운 액션과 유치한 유머마저 재밌게 보시지 않을까 합니다 분노의 질주가 속편을 거듭하면서 현실 감각을 완전히 무시한 액션을 남발하는 경향이 있었지만 홉스 앤 쇼는 한술 더 뜹니다 솔직하게 말씀드리고요 이 영화는 뭐 물리적으로 성립될 수 있는 액션이 단 하나라도 있긴 있나 하는 의문이 절로 들 정도로 막 나갑니다 뭐 예를 들어 이런 장면은 애교죠 [음악] 홉스는 무슨 슈퍼 솔저 세럼이라도 맞은 건지 캡틴 아메리카 흉내까지 냅니다 저런 장면을 보면서 에 아무리 영화라도 너무 하잖아라며 거북함을 드러내도 이상할 게 없고 저도 그랬었지만 딱히 감상에 지장을 받지 않을 수 있었던 건 아무래도 유머의 덕이 크다고 생각합니다 진지한 영화와는 달리 처음부터 유머로 경계를 풀면 볼수록 관객들이 허용해줄 수 있는 간도가 커지거든요 이게 코미디 영화의 특권이라는 걸 잘 알았던 건지 홉스 앤 쇼는 지속적으로 유머를 전달하면서 약효를 유지합니다 아울러 데이빗 리치 감독의 공도 무시할 수 없는데 비록 다른 영화들에서 보여줬던 것처럼 절도 있는 액션은 아니지만 스케일을 한창 키운 와중에 때때로 유머와 슬로 모션을 적절하게 살려가면서 다양한 볼거리를 아낌없이 선사합니다 특히 데드풀을 연출했던 경험에서 온 건지 사실상 슈퍼히어로 영화의 악당에 가까운 브릭스톤의 존재를 적극적으로 활용하면서 좋게 말하면 상식을 초월한 액션을 수시로 보여주며 눈길을 사로잡는 데 성공합니다 근데 다른 걸 다 떠나서 그렇게 황당한 액션과 멍청한 이야기에도 불구하고 재밌게 볼 수 있었던 가장 큰 이유는 처음에 말씀드렸던 그대로 예고편을 보면서 기대하고 바랐던 영화와 똑같았기 때문입니다 심지어 홉스와 쇼의 관계에 초점을 맞추기 위해 두어 차례 과도하게 길면서도 실상 별말 없이 넘는 대화가 오간 탓에",
+  "movie_id": "홉스앤쇼",
+  "reviewer": "발없는새",
+  "chunk_index": 2,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "홉스",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "홉스는 홉스 앤 쇼의 주인공 중 한 명으로, 쇼와 끊임없이 대립하면서도 팀을 이루어 사건을 해결하는 캐릭터이다. 캡틴 아메리카 같은 초인적인 액션을 보여준다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "쇼",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "쇼는 홉스 앤 쇼의 주인공 중 한 명으로, 홉스와 불협화음을 일으키면서도 함께 사건을 해결하는 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "브라이언",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "브라이언은 분노의 질주 시리즈의 캐릭터로, 홉스와 쇼와는 다른 호흡을 보여줬던 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "브릭스톤",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "브릭스톤은 홉스 앤 쇼의 악당 캐릭터로, 슈퍼히어로 영화의 악당에 가까운 존재이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "홉스 앤 쇼",
+      "entity_type": "MOVIE",
+      "entity_description": "홉스 앤 쇼는 분노의 질주 시리즈의 스핀오프 영화로, 코미디 요소가 대대적으로 더해지고 황당무계한 액션과 유머가 특징인 작품이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "분노의 질주",
+      "entity_type": "MOVIE",
+      "entity_description": "분노의 질주는 자동차 액션이 중심인 시리즈 영화로, 홉스 앤 쇼의 원작 시리즈이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "데이빗 리치",
+      "entity_type": "MOVIE_STAFF",
+      "entity_description": "데이빗 리치는 홉스 앤 쇼의 감독으로, 데드풀 연출 경험을 바탕으로 스케일 큰 액션과 유머, 슬로 모션을 적절히 활용했다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "어벤져스",
+      "entity_type": "MOVIE",
+      "entity_description": "어벤져스는 마블 시네마틱 유니버스의 중심 영화로, 스핀오프 비교 대상으로 언급되었다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "데드풀",
+      "entity_type": "MOVIE",
+      "entity_description": "데드풀은 데이빗 리치 감독이 연출했던 영화로 언급되었다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "홉스",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "홉스 앤 쇼",
+      "target_type": "MOVIE",
+      "relationship_description": "홉스는 홉스 앤 쇼의 주인공이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "쇼",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "홉스 앤 쇼",
+      "target_type": "MOVIE",
+      "relationship_description": "쇼는 홉스 앤 쇼의 주인공이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "홉스",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "쇼",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "홉스와 쇼는 서로 대립하면서도 팀을 이루어 사건을 해결하는 관계이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "브릭스톤",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "홉스 앤 쇼",
+      "target_type": "MOVIE",
+      "relationship_description": "브릭스톤은 홉스 앤 쇼의 악당 캐릭터이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "데이빗 리치",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "홉스 앤 쇼",
+      "target_type": "MOVIE",
+      "relationship_description": "데이빗 리치는 홉스 앤 쇼를 감독했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "데이빗 리치",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "데드풀",
+      "target_type": "MOVIE",
+      "relationship_description": "데이빗 리치는 데드풀을 연출한 경험이 있다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "홉스 앤 쇼",
+      "source_type": "MOVIE",
+      "target_entity": "분노의 질주",
+      "target_type": "MOVIE",
+      "relationship_description": "홉스 앤 쇼는 분노의 질주 시리즈의 스핀오프 영화이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "브라이언",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "분노의 질주",
+      "target_type": "MOVIE",
+      "relationship_description": "브라이언은 분노의 질주 시리즈의 캐릭터이다",
+      "relationship_strength": 8
+    }
+  ],
+  "entity_resolution": {
+    "홉스": {
+      "description": "홉스 -> 루크 홉스",
+      "resolved_name": "루크 홉스",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "쇼": {
+      "description": "쇼 -> 헤티 쇼",
+      "resolved_name": "헤티 쇼",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "브라이언": {
+      "description": "브라이언 -> 브라이언 블레인",
+      "resolved_name": "브라이언 블레인",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "브릭스톤": {
+      "description": "브릭스톤 -> 브릭스턴 로어",
+      "resolved_name": "브릭스턴 로어",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "홉스 앤 쇼": {
+      "description": "홉스 앤 쇼 -> 홉스앤쇼",
+      "resolved_name": "홉스앤쇼",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "분노의 질주": {
+      "description": "분노의 질주 -> 분노의 질주",
+      "resolved_name": "분노의 질주",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "데이빗 리치": {
+      "description": "데이빗 리치 -> 데이빗 레이치",
+      "resolved_name": "데이빗 레이치",
+      "entity_type": "MOVIE_STAFF",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "어벤져스": {
+      "description": "어벤져스 -> 어벤져스",
+      "resolved_name": "어벤져스",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "데드풀": {
+      "description": "데드풀 -> 데드풀",
+      "resolved_name": "데드풀",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

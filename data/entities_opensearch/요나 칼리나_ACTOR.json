@@ -1,0 +1,25 @@
+{
+  "entity": {
+    "name": "요나 칼리나",
+    "synonym": [
+      "Yona Kalina",
+      "Yong Yea",
+      "Yvette Nicole Brown",
+      "Yvonne Orji",
+      "Yvonne Strahovski",
+      "Yvonne Villareal",
+      "요나",
+      "요나 칼리나",
+      "요나 칼리나역",
+      "요나 칼리나이",
+      "요나 칼리너",
+      "요나 칼리아",
+      "요나칼리나",
+      "칼리나"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "요나 칼리나은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

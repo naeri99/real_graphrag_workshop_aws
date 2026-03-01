@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "앨리슨 로먼",
+    "synonym": [
+      "Alison Lohman",
+      "Alison Loman",
+      "로먼",
+      "앨리슨",
+      "앨리슨 로만",
+      "앨리슨 로먼",
+      "앨리슨 로흐만",
+      "앨리슨로먼",
+      "엘리슨 로먼"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "앨리슨 로먼은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

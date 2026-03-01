@@ -1,0 +1,27 @@
+{
+  "entity": {
+    "name": "피터 손",
+    "synonym": [
+      "Kip S. Thorne",
+      "Kip Thorne",
+      "Pete Sohn",
+      "Peter",
+      "Peter Sohn",
+      "Peter Son",
+      "손 감독",
+      "킵 쏜",
+      "킵 토른",
+      "킵손",
+      "피터 선",
+      "피터 손",
+      "피터 손 감독",
+      "피터 쏜",
+      "피터선",
+      "피터손"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "피터 손은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

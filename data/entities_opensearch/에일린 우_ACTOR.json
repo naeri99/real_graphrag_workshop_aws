@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "에일린 우",
+    "synonym": [
+      "Aileen",
+      "Aileen Woo",
+      "Aileen Wu",
+      "Eileen Wu",
+      "아일린 우",
+      "아일린우",
+      "에일린",
+      "에일린 우",
+      "에일린우",
+      "우"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "에일린 우은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "entity": {
+    "name": "빈센트 베테르그렌",
+    "synonym": [
+      "Vincent Wettergren",
+      "베테르그렌",
+      "빈센트",
+      "빈센트 베테르그렌",
+      "빈센트 웨테르그렌",
+      "빈센트베테르그렌"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "빈센트 베테르그렌은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

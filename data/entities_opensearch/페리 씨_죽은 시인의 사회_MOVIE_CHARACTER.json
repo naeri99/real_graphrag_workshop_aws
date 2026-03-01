@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "페리 씨",
+    "synonym": [
+      "Mr Perry",
+      "Mr. Perry",
+      "Perry",
+      "닐 아버지",
+      "닐의 아버지",
+      "미스터 페리",
+      "페리",
+      "페리 씨",
+      "페리 아버지",
+      "페리씨",
+      "페리아버지"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "페리 씨은 영화 '죽은 시인의 사회'의 등장인물로, 커트우드 스미스이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

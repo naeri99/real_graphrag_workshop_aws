@@ -1,0 +1,12 @@
+{
+  "entity": {
+    "name": "지독한줄거리요약러",
+    "synonym": [
+      "지독한줄거리요약러"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "지독한줄거리요약러은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

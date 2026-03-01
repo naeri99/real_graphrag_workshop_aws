@@ -1,0 +1,111 @@
+{
+  "chunk_hash": "135c726153ae14",
+  "chunk_id": "무드킹_135c726153ae14_b910d559",
+  "user_query": "[음악] love 아 or either we cooperate 파퍼는 어릴 적 세계를 여행 중인 아버지와 무전기로 교신하면서 추억을 만들었습니다 거의 전이죠 채움 안 신체는 군모 말씀합니다 말겠어 약실 그걸 마디 아버지의 연락이 때문에 제자 파퍼는 매일 무전기 반을 바라봅니다 over 아 티비 저를 바우데 이거 싸움 너가 마주 서 패킹 1 아마 g 에게 할 명화 3 시간은 언더 30년이 를 넣고 파퍼는 뛰어난 언변으로 건물주에게 건물을 팔도록 하는 일을 하고 있습니다 홀의 패 베이 떠 저의 호감 말씀은 5005 모래 시죠 싸이 웨스턴 하는 걸 어 점수만 막을 썹 cower 아스터 오오 예 오 유엔이 세운 내실 건물주가 건물을 팔지 않겠다고 하자 파퍼는 건물주에게 그가 꿈꿔왔던 항의 꿈을 다시 일깨워 줍니다 왼손 포스 하셨소 우에다 70번 연구가 보자기 throw 아아 어 어 마이 아아 얼 kp ex 부품 be so eee pc 트레이너 were too 오워 여기라고 썸 4 호흡을 결국 건물주의 마음을 돌린 파퍼 영화 파퍼씨네 펭귄들 시작합니다 무엇보다 예술 음악 기울이게 될 와서 어디야 free * 갸 짧으면 그 대만 홈데코 잉 정말 알아봐 들어오는데 of its site 에 패스 업무라는 건대 en que si f2 멧 않던 파퍼는 오나 넘 어맨다의 집에 아이들을 보러 찾아갔고 그곳에서 어맨다의 남자친구 릭을 만납니다 하와이 v 형 크다 3 활용했고 이하 b 솔 등을 적혀 마음은 성상납 못함 but i've 보여주십시오 # 4 cd 나크 부팅 아 아 헤비 2 금수 lad 파이프 엘프 본 순회 책을 우리 리우 by 3월 입어 떼러 가지 말 이런 이건희 급매 외부 니 건물주들에게는 언변이 뛰어난 파퍼였지만 아이들과는 소통이 잘 되지 않았죠 그때 아버지의 변호사에게서 전화가 걸려옵니다 오라고 가서 이 그렇죠 알바 그 너나 수백 명 짤 쓰면 뜯자 만 스파 다시 2 말해도 좀 해 발상 q 볼수 분이에요 쏘아 외에 아이코드 받을 수 없는 주요국 엔별 신보 리그오브 나 그리고 얼마 뒤 아버지의 기념품이 집에 도착합니다 아 씁 은 이에요 아 씨 답해 군 요즘에 해 놓으셔야 볼 때 라 잉 키우 tree 쥰 해볼 맹 간디 roles of 취했어요 어디 얹을 뛰며 4 뭐랄 pu 5월 아 살아있는 펭귄을 보고 놀란 파퍼 파카 200 업체 yz 아 무겁다 4 were 아 으 파퍼는 일단 펭귄을 욕조에 넣어 둔 뒤 출근을 합니다 우리게 얻었네 또 자재 1 2 태권 온 더 그린 건물주를 만나러 급하게 나가려다가 탕자가 부서지고 안에 있던 편지를 미처 보지 못한 파퍼 5 판초 r&d sportscasters 특수 대풍수 된 건데 blaq 처음 퍼프 stop 아 약은 아오 기업의 이렇게 네 to expel 그런데 파퍼가 창가쪽 자리를 꺼려합니다 pets for 미 세로로 [음악] 아 아 아 아 유 마 이 너 from a detour 뭘 좀 못했어요 a 와 벌써 밥을 으 이것은 어젯밤 이 거 같아요 계속되는 아버지의 질문에 파퍼는 주제를 돌려 부인을 설득하지만 그녀는",
+  "movie_id": "파퍼씨네 펭귄들",
+  "reviewer": "무드킹",
+  "chunk_index": 1,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "파퍼씨네 펭귄들",
+      "entity_type": "MOVIE",
+      "entity_description": "파퍼씨네 펭귄들은 파퍼라는 인물이 아버지로부터 펭귄을 받게 되면서 벌어지는 이야기를 다룬 영화이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "파퍼",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "파퍼는 어릴 적 아버지와 무전기로 교신하며 추억을 만들었고, 현재는 뛰어난 언변으로 건물주에게 건물을 팔도록 설득하는 일을 하는 인물이다. 아버지로부터 살아있는 펭귄을 받게 된다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "어맨다",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "어맨다는 파퍼의 전 부인으로 추정되며, 아이들과 함께 살고 있는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "릭",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "릭은 어맨다의 남자친구이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "파퍼",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "파퍼씨네 펭귄들",
+      "target_type": "MOVIE",
+      "relationship_description": "파퍼는 파퍼씨네 펭귄들의 주인공이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "어맨다",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "파퍼씨네 펭귄들",
+      "target_type": "MOVIE",
+      "relationship_description": "어맨다는 파퍼씨네 펭귄들에 등장하는 인물이다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "릭",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "파퍼씨네 펭귄들",
+      "target_type": "MOVIE",
+      "relationship_description": "릭은 파퍼씨네 펭귄들에 등장하는 인물이다",
+      "relationship_strength": 6
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "파퍼",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "어맨다",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "파퍼와 어맨다는 전 부부 관계로 추정되며, 파퍼가 어맨다의 집에 아이들을 보러 방문한다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "릭",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "어맨다",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "릭은 어맨다의 남자친구이다",
+      "relationship_strength": 9
+    }
+  ],
+  "entity_resolution": {
+    "파퍼씨네 펭귄들": {
+      "description": "파퍼씨네 펭귄들 -> 파퍼씨네 펭귄들",
+      "resolved_name": "파퍼씨네 펭귄들",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "파퍼": {
+      "description": "파퍼 -> 파퍼",
+      "resolved_name": "파퍼",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "어맨다": {
+      "description": "어맨다 -> Amanda Popper",
+      "resolved_name": "Amanda Popper",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "릭": {
+      "description": "릭 -> 릭",
+      "resolved_name": "릭",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "써니",
+    "synonym": [
+      "NS5 써니",
+      "Sonny",
+      "Sunny",
+      "서니",
+      "선니",
+      "선이",
+      "소니",
+      "써니",
+      "써니 로봇",
+      "썬이"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "써니은 영화 '아이 로봇'의 등장인물로, 앨런 튜딕이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

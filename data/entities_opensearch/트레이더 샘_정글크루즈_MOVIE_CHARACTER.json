@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "트레이더 샘",
+    "synonym": [
+      "Sam",
+      "Trader Sam",
+      "샘",
+      "트레이더",
+      "트레이더 샘",
+      "트레이더 쌤",
+      "트레이더샘",
+      "트레이더쌤"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "트레이더 샘은 영화 '정글크루즈'의 등장인물로, 베로니카 팔콘이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

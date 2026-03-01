@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "친 한",
+    "synonym": [
+      "Chin",
+      "Chin Han",
+      "Chin Han Ng",
+      "진 한",
+      "진한",
+      "첸 한",
+      "친",
+      "친 한",
+      "친한",
+      "칭 한",
+      "한"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "친 한은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "entity": {
+    "name": "치디",
+    "synonym": [
+      "Chidi",
+      "마르키스 부하",
+      "치디",
+      "치디 캐릭터",
+      "키디"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "치디은 영화 '존 윅 4'의 등장인물로, 마르코 자로르이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

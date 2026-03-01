@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "체첸",
+    "synonym": [
+      "Chechen",
+      "The Chechen",
+      "더 체첸",
+      "러시아 마피아",
+      "체첸",
+      "체첸 보스",
+      "체첸인",
+      "체쳰"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "체첸은 영화 '다크나이트'의 등장인물로, 리치 코스터이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

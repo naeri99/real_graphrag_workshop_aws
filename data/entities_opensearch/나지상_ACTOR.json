@@ -1,0 +1,24 @@
+{
+  "entity": {
+    "name": "나지상",
+    "synonym": [
+      "Lo Chi-leung",
+      "Lo Chi-sang",
+      "Show Lo",
+      "나 지상",
+      "나지상",
+      "나지상 배우",
+      "나지상이",
+      "나지샹",
+      "라지상",
+      "로지상",
+      "로치량",
+      "뤄즈샹",
+      "쇼로"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "나지상은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

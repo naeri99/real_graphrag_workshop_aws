@@ -1,0 +1,28 @@
+{
+  "entity": {
+    "name": "조형사",
+    "synonym": [
+      "Detective Jo",
+      "Jo Hyung-sa",
+      "Sculptor",
+      "경찰",
+      "남문철 조형사",
+      "남문철 캐릭터",
+      "조 형사",
+      "조각가",
+      "조형 선생",
+      "조형사",
+      "조형사 선생",
+      "조형사 씨",
+      "조형사 캐릭터",
+      "조형사님",
+      "조형사씨",
+      "형사",
+      "형사님"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "조형사은 영화 '남자가 사랑할 때'의 등장인물로, 남문철이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "chunk_hash": "6e6c47b40d1ebf",
+  "chunk_id": "JACE_Cinema_6e6c47b40d1ebf_094c8b00",
+  "user_query": "좀 방 이때부터 야동 [음악] 제 할아버지 그때 손녀 연아가 2층에서 내려오고 일이요 그래 자 어떡하냐 그럼 약수터도 좀 다녀 오시던가 같이 갈래 연아의 거절로 혼자 산책을 하러 나온 만석 그곳에서 장군봉의 아내를 만납니다 야 방 안에서 신발 좀 벗고 다녀라 이런 아 정신 나간 노인네 그만 아이고 떨 왜 흙을 파먹어 완전히 나사가 빠졌구만 빠졌어 결국 그녀를 데려다 주기로 한 만석 왜 그래 애들한테 걸려면 창피하니까 여기 조용히 있어 알았지 응 말 계속 여기 있어 응 문을까 빨가 집을 찾다 화장실에 들리는데 똥도 흙살 먹는 거 아니지 그거 진짜 아니다 뒤에서 이쁜이 다가옵니다 그 대답이 없어 이거 봐 그 옆에 휴지 있지 휴지를 꼭 닦아 오새 똥을 심면 나 진짜 화낸다 이봐요 아 보긴 뭘 봐 빨리 똥이다 싸고 나와 거기서 뭐 하세요 아니 저 그게 아니 씨 야 야 너 야 내 양산 주고가이 도둑놈아 이 씨이 광경을 본 이쁜은 장군봉에게 연락해 장군봉의 와이프를 인계합니다 [음악] 괜찮아 어자 안 춥나 괜찮아 당신 어디 갔다 왔어 다도 없나 주 집에가 우리 [음악] 집에가 어디 갔다 왔지 나 리 빨리지 야에 빨리 [음악] 가자 참 고맙 야 아 그럼 인사 안해도 된 얼른 가라고 얼른가 [음악] 다 난 만만의 밝은 만석이야 이름이 뭐야 이쁜이요 만석은 이제야 통성명을 합니다 씨 성이 없어요 이름이 없어 웹툰을 영화화한 영화 그레이 로맨스가 아름답게 그려진 영화 영화 그대를 사랑합니다였습니다 [음악] 아낌없이 k [음악] [음악] 오늘도 여러분의 귀한 시간을 내어 영상을 봐주셔서 감사합니다였습니다 [음악]",
+  "movie_id": "그대를사랑합니다",
+  "reviewer": "JACE_Cinema",
+  "chunk_index": 2,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "그대를 사랑합니다",
+      "entity_type": "MOVIE",
+      "entity_description": "웹툰을 영화화한 작품으로 그레이 로맨스가 아름답게 그려진 영화이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "만석",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "만석은 손녀 연아와 함께 사는 노인으로, 산책 중 장군봉의 아내를 만나 도와주고 이쁜이와 통성명을 하게 되는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "연아",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "연아는 만석의 손녀로 2층에서 내려오며, 할아버지의 산책 제안을 거절하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "장군봉",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "장군봉은 치매를 앓는 아내를 둔 인물로, 이쁜이의 연락을 받고 아내를 인계받는다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "장군봉의 아내",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "장군봉의 아내로 치매를 앓고 있어 흙을 파먹는 등 정신이 혼미한 상태의 노인이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "이쁜이",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "이쁜이는 만석이 장군봉의 아내를 돌보는 것을 목격하고 장군봉에게 연락해 아내를 인계해주는 인물이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "만석",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "그대를 사랑합니다",
+      "target_type": "MOVIE",
+      "relationship_description": "만석은 그대를 사랑합니다의 주요 등장인물이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "연아",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "그대를 사랑합니다",
+      "target_type": "MOVIE",
+      "relationship_description": "연아는 그대를 사랑합니다에 등장하는 만석의 손녀이다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "만석",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "연아",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "만석은 연아의 할아버지이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "장군봉",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "그대를 사랑합니다",
+      "target_type": "MOVIE",
+      "relationship_description": "장군봉은 그대를 사랑합니다에 등장하는 인물이다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "장군봉의 아내",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "그대를 사랑합니다",
+      "target_type": "MOVIE",
+      "relationship_description": "장군봉의 아내는 그대를 사랑합니다에 등장하는 치매 노인이다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "장군봉",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "장군봉의 아내",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "장군봉과 장군봉의 아내는 부부 관계이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "이쁜이",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "그대를 사랑합니다",
+      "target_type": "MOVIE",
+      "relationship_description": "이쁜이는 그대를 사랑합니다에 등장하는 인물이다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "만석",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "장군봉의 아내",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "만석은 길을 잃은 장군봉의 아내를 발견하고 돌봐주었다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "만석",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "이쁜이",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "만석과 이쁜이는 장군봉의 아내를 돌보는 과정에서 만나 통성명을 하게 된다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "이쁜이",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "장군봉",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "이쁜이는 장군봉에게 연락하여 그의 아내를 인계해주었다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "이쁜이",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "장군봉의 아내",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "이쁜이는 장군봉의 아내가 만석과 있는 것을 목격하고 장군봉에게 연락했다",
+      "relationship_strength": 7
+    }
+  ],
+  "entity_resolution": {
+    "그대를 사랑합니다": {
+      "description": "그대를 사랑합니다 -> 그대를사랑합니다",
+      "resolved_name": "그대를사랑합니다",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "만석": {
+      "description": "만석 -> 김만석",
+      "resolved_name": "김만석",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "연아": {
+      "description": "연아 -> 연아",
+      "resolved_name": "연아",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "장군봉": {
+      "description": "장군봉 -> 장군봉",
+      "resolved_name": "장군봉",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "장군봉의 아내": {
+      "description": "장군봉의 아내 -> 장군봉의 아내",
+      "resolved_name": "장군봉의 아내",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "이쁜이": {
+      "description": "이쁜이 -> 송이뿐",
+      "resolved_name": "송이뿐",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    }
+  }
+}

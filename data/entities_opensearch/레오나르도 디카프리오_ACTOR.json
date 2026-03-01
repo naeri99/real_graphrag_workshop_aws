@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "레오나르도 디카프리오",
+    "synonym": [
+      "Leo DiCaprio",
+      "Leonardo DiCaprio",
+      "디카프리오",
+      "디캐프리오",
+      "레오",
+      "레오 디카프리오",
+      "레오나르도",
+      "레오나르도 디카프리오",
+      "레오나르도 디캐프리오",
+      "레오나르도디카프리오",
+      "리오나르도 디카프리오"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "레오나르도 디카프리오은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

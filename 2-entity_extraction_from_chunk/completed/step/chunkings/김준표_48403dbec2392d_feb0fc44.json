@@ -1,0 +1,93 @@
+{
+  "chunk_hash": "48403dbec2392d",
+  "chunk_id": "김준표_48403dbec2392d_feb0fc44",
+  "user_query": "주인공 그 세 명 나머지를 죽이려는 그 장면에서 갑자기 차로 이제 빌런을 들이받고 이제 여기서부터 막 어 진짜 개 지랄이 납니다 그래서 애들 구급차에 태워 가지고 막 도망가면서 주인공이 미래를 보고 빌런이 어느 타이밍에 천장에 닿을 걸 알기 때문에 제세동기라고 심장마비 할 때 이거 전기 충격 주는 걸 천장에다 대서 막 어 빌런이 감전되지 않니 난단 말이야 결과적으로 빌런이랑 싸우다가 이제 주인공이 미래를 원해서 여기에 이제 간판이 곧 떨어질 테니까 빌런 선생님 여기 가만히 서 계셔야 돼요 왜냐하면 간판이 떨어질 때 네가 간판에 치지 않으면 우리는 너를 이길 수 있는 방법이 없거든요 그랬더니 이제 빌런이 병신같이 빌런이 또 거기 이렇게 가서 여기서 있으면 되죠 하고 간판 쓰러지는 거 맞고 뒤진 다음에 주인공도 당연히 떨어질 줄 알았으나 주인공은 또 강으로 떨어져 그래서 강으로 떨어져 가지고 그 밑에 있는 애새끼 세 명이 주인공 데려와 가지고 심폐소생술로 살리고 보니까 주인공 이렇게 싸우다가 다친 것도 아니고 그 물에 빠졌을 때 있잖아 폭발물 중에 하나가 눈가에 갑자기 이렇게 확 들어오는 장면이 있거든 그래서 주인공 눈이 멀고 결국 살아서 가족이 되고 우리는 인종도 다르고 모든 것들이 다르지만 어쨌든 가족이야 알아들어 들라 하고 끝납니다 진짜 좆됐습니다 여러분 이 영화는 더 마블스 비교하면 뭐가 더 차한 그러니까 여러분 더 마블스는 약간 이런 느낌이야 어 이것도 별로고 저것도 별로고 저것도 별로고 와 얘들 진짜 씨발 됐구나 였는데 이번 영화는 와 에 진짜 하나하나 짚을 수도 없어 평점을 매기면 이거는 아마 지금까지는 마블 영화 중에 이게 최하점인 거예요 가장 저점 있습니다 제가 봤을 때 장점 있냐고 생각해 보자 잠깐만 내가 생각해 볼게요 장점 정말 모르겠다 잘 모르겠어요 정말 어 그래서 깔끔한 한 줄 평으로 제가 이야기를 좀 드리자면 이제 제기가 안 될 거 같아 아마 사람들이 이제 기억도 안 할 거야 그리고 이슈화도 이제 안 될 겁니다 절대로",
+  "movie_id": "마담 웹",
+  "reviewer": "김준표",
+  "chunk_index": 5,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "더 마블스",
+      "entity_type": "MOVIE",
+      "entity_description": "더 마블스는 마블 영화 중 하나로, 리뷰어가 비교 대상으로 언급한 영화이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "주인공",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "주인공은 미래를 볼 수 있는 능력을 가진 인물로, 빌런과 싸우다가 강으로 떨어지고 눈이 멀게 되지만 살아남아 다른 인물들과 가족이 된다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "빌런",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "빌런은 주인공과 대립하는 악역으로, 주인공의 미래 예지 능력에 의해 간판에 맞아 죽게 된다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "애새끼 세 명",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "세 명의 인물로, 빌런에게 죽임을 당할 뻔했으나 구출되고, 나중에 강에 빠진 주인공을 심폐소생술로 살려낸다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "주인공",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "빌런",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "주인공은 빌런과 대립하며 싸우고, 미래 예지 능력을 이용해 빌런을 물리친다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "주인공",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "애새끼 세 명",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "주인공은 세 명을 구급차에 태워 구출하고, 나중에 세 명이 주인공을 심폐소생술로 살려내며 결국 가족이 된다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "빌런",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "애새끼 세 명",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "빌런은 세 명을 죽이려고 했으나 주인공의 개입으로 실패한다",
+      "relationship_strength": 7
+    }
+  ],
+  "entity_resolution": {
+    "더 마블스": {
+      "description": "더 마블스 -> 더 마블스",
+      "resolved_name": "더 마블스",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "주인공": {
+      "description": "주인공 -> 레인",
+      "resolved_name": "레인",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "빌런": {
+      "description": "빌런 -> 에제키엘 심스",
+      "resolved_name": "에제키엘 심스",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "애새끼 세 명": {
+      "description": "애새끼 세 명 -> 애새끼 세 명",
+      "resolved_name": "애새끼 세 명",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "알마",
+    "synonym": [
+      "Alma",
+      "뮤즈 알마",
+      "아르마",
+      "알마",
+      "알마 엘슨",
+      "알마엘슨",
+      "알머",
+      "앨마",
+      "우드콕 부인"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "알마은 영화 '팬텀 스레드'의 등장인물로, 비키 크리프스이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "entity": {
+    "name": "도일",
+    "synonym": [
+      "Doyle",
+      "Doyle 박사",
+      "Dr. Doyle",
+      "닥터 도일",
+      "대원 도일",
+      "도이일",
+      "도일",
+      "도일 대원",
+      "도일 박사",
+      "도일대원",
+      "도일러",
+      "도일리",
+      "도일우주비행사",
+      "우주비행사 도일"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "도일은 영화 '인터스텔라'의 등장인물로, 웨스 벤틀리이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

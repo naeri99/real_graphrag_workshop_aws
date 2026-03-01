@@ -1,0 +1,155 @@
+{
+  "chunk_hash": "5951406a586ea7",
+  "chunk_id": "코믹온_5951406a586ea7_fa9e4d88",
+  "user_query": "인터넷 거미의 자료를 구할 수 있는 유일한 곳 Constance의 유품을 뒤져보기 시작하죠 이내 숲속으로 돌아가 보지만 제자리를 지킬 리 없었던 사춘기 소녀들 심지어 그 장소에서 아이들을 추적한 Ezekiel Sims까지 이곳을 찾아오는데 무력으로는 이길 수 없었기 때문에 아이들을 데리고 도망치는 전략을 세웁니다 하지만 아이들을 안전한 곳으로 데려다주는 Cassandra 문제 해결 방법이 보이지 않는 상황에 결국 도망치기로 결정하는데 짧은 시간에 엉망진창이 되어버린 식당 이곳에서 아이들을 쫓던 남성의 환영을 보게 되고 우연으로 된 이 사건이 Constance가 연구한 거미와 연관이 있다는 것을 확신하게 되죠 결국 직접 사건을 파헤치기로 결정한 Cassandra 심장에 직접으로 부담을 주는 신경독의 대비책을 알려준 뒤 Ezekiel Sims과 Constance가 연구하던 거미 그리고 라스 아라냐스 부족에 관한 이야기를 꺼내는데 결국 페루로 직접 방문해야만 하는 상황 아이들을 Mary Parker에게 맡긴 후 바로 엄마가 마지막으로 연구하던 그 숲으로 떠나게 됩니다 그리고 Cassandra를 알아본 라스 아라냐스 부족의 남성 Santiago Cassandra가 가진 능력의 모든 것을 알고 있었고 그 기억을 전부 보여주는데 그 진심에서 엄마의 사랑을 알게 됐고 이길 능력에 대한 확신까지 알아내 돌아오는데 예상보다 늦어버린 때문에 병원으로 향하기 시작합니다 하지만 한발 빨랐던 Ezekiel Sims 다행히 Cassandra 역시 교통을 무시한 채 달려왔고 아이들을 데리고 서둘러 빠져나가는데 뛰어넘을 수 없었던 것은 Ezekiel Sims 마찬가지 과학의 힘으로 쫓아내고 이번엔 불꽃놀이 폭죽을 이용해 그고 Ezekiel Sims를 잡을 덫을 만든 뒤 아이들과 도망치는 Cassandra 이때 마지막 기억을 읽은 그녀는 진정한 책임의 뜻을 알게 됐고 드디어 시공간의 능력을 발휘하기 시작합니다 하지만 그만 같이 추락해버린 Cassandra 결국 기절해버린 사이 이번엔 그녀를 구해주는 아이들 그렇게 네 명의 여자들은 서로의 목숨을 구해주게 되고 이내 새로운 가족이 탄생하게 되죠",
+  "movie_id": "마담 웹",
+  "reviewer": "코믹온",
+  "chunk_index": 2,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "CASSANDRA",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Cassandra는 Constance의 유품을 조사하고, 아이들을 보호하며 Ezekiel Sims로부터 도망치는 인물로, 시공간의 능력을 발휘하게 되며 진정한 책임의 뜻을 깨닫는 주인공이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "EZEKIEL SIMS",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Ezekiel Sims는 아이들을 추적하고 쫓는 적대적 인물로, Constance가 연구하던 거미와 연관이 있다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "CONSTANCE",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Constance는 거미와 라스 아라냐스 부족에 관해 연구했던 인물로, Cassandra의 엄마이며 이미 사망한 것으로 보인다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "MARY PARKER",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Mary Parker는 Cassandra가 페루로 떠날 때 아이들을 맡긴 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "SANTIAGO",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Santiago는 라스 아라냐스 부족의 남성으로, Cassandra를 알아보고 그녀의 능력에 대한 모든 것을 알고 있으며 기억을 보여주는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "라스 아라냐스 부족",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "라스 아라냐스 부족은 페루 숲에 거주하며 거미와 관련된 연구 및 Cassandra의 능력과 연관된 부족이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "CASSANDRA",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "CONSTANCE",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Cassandra는 Constance의 딸이며, Constance의 유품을 조사하고 엄마의 연구를 추적한다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "CASSANDRA",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "EZEKIEL SIMS",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Cassandra는 Ezekiel Sims로부터 아이들을 보호하며 도망치고 대립한다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "EZEKIEL SIMS",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "CONSTANCE",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Ezekiel Sims는 Constance가 연구하던 거미와 연관이 있다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "CASSANDRA",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "MARY PARKER",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Cassandra는 페루로 떠나기 전 아이들을 Mary Parker에게 맡겼다",
+      "relationship_strength": 6
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "CASSANDRA",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "SANTIAGO",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Santiago는 Cassandra를 알아보고 그녀의 능력에 대한 기억을 보여주었다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "SANTIAGO",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "라스 아라냐스 부족",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Santiago는 라스 아라냐스 부족의 일원이다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "CONSTANCE",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "라스 아라냐스 부족",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Constance는 라스 아라냐스 부족과 거미에 관해 연구했다",
+      "relationship_strength": 8
+    }
+  ],
+  "entity_resolution": {
+    "CASSANDRA": {
+      "description": "CASSANDRA -> CASSANDRA",
+      "resolved_name": "CASSANDRA",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "EZEKIEL SIMS": {
+      "description": "EZEKIEL SIMS -> EZEKIEL SIMS",
+      "resolved_name": "EZEKIEL SIMS",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "CONSTANCE": {
+      "description": "CONSTANCE -> CONSTANCE",
+      "resolved_name": "CONSTANCE",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "MARY PARKER": {
+      "description": "MARY PARKER -> MARY PARKER",
+      "resolved_name": "MARY PARKER",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "SANTIAGO": {
+      "description": "SANTIAGO -> SANTIAGO",
+      "resolved_name": "SANTIAGO",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "라스 아라냐스 부족": {
+      "description": "라스 아라냐스 부족 -> 라스 아라냐스 부족",
+      "resolved_name": "라스 아라냐스 부족",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

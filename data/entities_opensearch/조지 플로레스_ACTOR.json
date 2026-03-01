@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "조지 플로레스",
+    "synonym": [
+      "Georgie Flores",
+      "조르지 플로레스",
+      "조지",
+      "조지 플로레스",
+      "조지 플로레즈",
+      "조지 플로리스",
+      "조지플로레스",
+      "플로레스"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "조지 플로레스은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "chunk_hash": "2c599c95e2bb47",
+  "chunk_id": "명영화_2c599c95e2bb47_2f011c05",
+  "user_query": "he do I don't know what he did my friends in Long Island told me he got picked up in some shopping mall he got locked up by wait wait did wait wait did you say a shopping fat piece of [ __ ] I'm going to go [ __ ] talk to right now listen to me don't go listen to me that guy Denham that FBI agent guy somebody told me he's got your phones tapped your office and your home don't talk on the motherfucking phone I got it I got it I got it Brad did three months in jail for contempt because he wouldn't rat Donnie out the result I was scot-free but I had eyes on me like never before to a handful of securities violations stock manipulation high pressure sales tactics ticky tack [ __ ] like that you know pay a couple million dollars in fines in exchange the SEC [ __ ] off till the end of time Stratton what happened is at Stratton I mean there's no way I mean you got to walk away right let Donnie be in charge they still be pursuing you for criminal wrongdoing however with you stepping down voluntarily my guess is that your best friend agent Denham will be standing around with his dick in his hand years ago when I started Stratton Oakmont with Donnie Azoff I I knew the day would eventually come where I'd have to be moving on and it's truly with a heavy heart that I'm I'm here to say that that that that day is finally here you know this [ __ ] deal that I'm about to sign barring me from the securities industry barring me from Stratton my home I'm not [ __ ] [Applause] leaving the show",
+  "movie_id": "인사이드 잡",
+  "reviewer": "명영화",
+  "chunk_index": 9,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "DONNIE AZOFF",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "도니 아조프는 스트래튼 오크몬트를 함께 설립한 인물로, 쇼핑몰에서 체포되었으며 브래드가 그를 밀고하지 않아 감옥에 갔다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "BRAD",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "브래드는 도니를 밀고하지 않아 법정모욕죄로 3개월간 감옥에 갔던 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "DENHAM",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "덴햄은 FBI 요원으로 주인공의 전화를 도청하고 있는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "STRATTON OAKMONT",
+      "entity_type": "MOVIE",
+      "entity_description": "스트래튼 오크몬트는 화자가 도니 아조프와 함께 설립한 회사로, 증권 위반과 주식 조작 등의 혐의를 받고 있다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "SEC",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "SEC는 증권거래위원회로 벌금을 부과하는 규제 기관이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "DONNIE AZOFF",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "STRATTON OAKMONT",
+      "target_type": "MOVIE",
+      "relationship_description": "도니 아조프는 스트래튼 오크몬트의 공동 설립자이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "BRAD",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "DONNIE AZOFF",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "브래드는 도니를 밀고하지 않아 감옥에 갔다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "DENHAM",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "DONNIE AZOFF",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "덴햄은 FBI 요원으로 도니와 관련된 사건을 수사하고 있다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "DENHAM",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "STRATTON OAKMONT",
+      "target_type": "MOVIE",
+      "relationship_description": "덴햄은 스트래튼 오크몬트를 수사하며 전화를 도청하고 있다",
+      "relationship_strength": 8
+    }
+  ],
+  "entity_resolution": {
+    "DONNIE AZOFF": {
+      "description": "DONNIE AZOFF -> DONNIE AZOFF",
+      "resolved_name": "DONNIE AZOFF",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "BRAD": {
+      "description": "BRAD -> BRAD",
+      "resolved_name": "BRAD",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "DENHAM": {
+      "description": "DENHAM -> DENHAM",
+      "resolved_name": "DENHAM",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "STRATTON OAKMONT": {
+      "description": "STRATTON OAKMONT -> STRATTON OAKMONT",
+      "resolved_name": "STRATTON OAKMONT",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "SEC": {
+      "description": "SEC -> SEC",
+      "resolved_name": "SEC",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

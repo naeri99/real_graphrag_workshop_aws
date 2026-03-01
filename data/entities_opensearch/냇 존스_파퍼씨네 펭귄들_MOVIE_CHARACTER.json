@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "냇 존스",
+    "synonym": [
+      "Nat Jones",
+      "낫 존스",
+      "낫존스",
+      "내트 존스",
+      "냇",
+      "냇 존스",
+      "냇존스",
+      "네이트 존스",
+      "넷 존스",
+      "존스"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "냇 존스은 영화 '파퍼씨네 펭귄들'의 등장인물로, 클라크 그렉이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

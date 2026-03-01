@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "힘시 파텔",
+    "synonym": [
+      "H. 파텔",
+      "Himesh Patel",
+      "Himesh Reshammiya",
+      "Patel",
+      "파텔",
+      "히메쉬 파텔",
+      "히메시 파텔",
+      "힘쉬 파텔",
+      "힘시 파탤",
+      "힘시 파텔",
+      "힘시파텔"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "힘시 파텔은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

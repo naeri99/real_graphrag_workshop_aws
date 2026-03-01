@@ -1,0 +1,23 @@
+{
+  "entity": {
+    "name": "잭 호프만",
+    "synonym": [
+      "Jack Hoffman",
+      "Zach",
+      "Zach Hoffman",
+      "Zack",
+      "Zack Hoffman",
+      "재크 호프만",
+      "잭 호프만",
+      "잭 호프먼",
+      "잭 홉만",
+      "잭호프만",
+      "잭호프먼",
+      "호프만"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "잭 호프만은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

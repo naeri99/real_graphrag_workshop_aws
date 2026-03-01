@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "잭 레이너",
+    "synonym": [
+      "Jack",
+      "Jack Raynor",
+      "Jack Reynor",
+      "레이너",
+      "잭",
+      "잭 라이너",
+      "잭 레이너",
+      "잭 레이노",
+      "잭 레이놀",
+      "잭레이너",
+      "잭레이놀"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "잭 레이너은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

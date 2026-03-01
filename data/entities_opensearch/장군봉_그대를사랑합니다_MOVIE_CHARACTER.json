@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "장군봉",
+    "synonym": [
+      "Jang Gun-bong",
+      "군봉",
+      "군봉 할아버지",
+      "군봉씨",
+      "군봉이",
+      "장 군봉",
+      "장군봉",
+      "장군봉 할아버지",
+      "장군봉씨",
+      "장군봉이"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "장군봉은 영화 '그대를사랑합니다'의 등장인물로, 송재호이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

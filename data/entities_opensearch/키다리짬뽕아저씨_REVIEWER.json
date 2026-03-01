@@ -1,0 +1,12 @@
+{
+  "entity": {
+    "name": "키다리짬뽕아저씨",
+    "synonym": [
+      "키다리짬뽕아저씨"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "키다리짬뽕아저씨은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

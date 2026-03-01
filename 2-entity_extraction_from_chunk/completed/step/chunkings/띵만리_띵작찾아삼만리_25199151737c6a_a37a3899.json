@@ -1,0 +1,49 @@
+{
+  "chunk_hash": "25199151737c6a",
+  "chunk_id": "띵만리_띵작찾아삼만리_25199151737c6a_a37a3899",
+  "user_query": "# 정제된 Transcript",
+  "movie_id": "집으로...",
+  "reviewer": "띵만리_띵작찾아삼만리",
+  "chunk_index": 1,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "인셉션",
+      "entity_type": "MOVIE",
+      "entity_description": "인셉션은 크리스토퍼 놀란 감독의 영화로, 꿈 속에서 아이디어를 심는 것을 다룬 작품이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "크리스토퍼 놀란",
+      "entity_type": "MOVIE_STAFF",
+      "entity_description": "크리스토퍼 놀란은 인셉션을 감독한 영화감독이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "크리스토퍼 놀란",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "인셉션",
+      "target_type": "MOVIE",
+      "relationship_description": "크리스토퍼 놀란은 인셉션을 감독했다",
+      "relationship_strength": 10
+    }
+  ],
+  "entity_resolution": {
+    "인셉션": {
+      "description": "인셉션 -> 인셉션",
+      "resolved_name": "인셉션",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "크리스토퍼 놀란": {
+      "description": "크리스토퍼 놀란 -> 크리스토퍼 놀란",
+      "resolved_name": "크리스토퍼 놀란",
+      "entity_type": "MOVIE_STAFF",
+      "matched": true,
+      "match_type": "name_exact"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "entity": {
+    "name": "로시토",
+    "synonym": [
+      "Rosito",
+      "로시또",
+      "로시토",
+      "로시토 캐릭터",
+      "로씨토",
+      "로지토"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "로시토은 영화 '정글크루즈'의 등장인물로, 라파엘 페티트이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

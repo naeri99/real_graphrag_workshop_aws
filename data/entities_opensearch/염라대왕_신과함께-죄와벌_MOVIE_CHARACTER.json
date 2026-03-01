@@ -1,0 +1,25 @@
+{
+  "entity": {
+    "name": "염라대왕",
+    "synonym": [
+      "King Yeomra",
+      "King of Hell",
+      "Yeomra",
+      "대왕",
+      "염라",
+      "염라 대왕",
+      "염라대왕",
+      "염라왕",
+      "염왕",
+      "저승 염라대왕",
+      "저승왕",
+      "지옥 염라대왕",
+      "지옥왕",
+      "지옥의 왕"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "염라대왕은 영화 '신과함께-죄와벌'의 등장인물로, 이정재이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

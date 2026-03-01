@@ -1,0 +1,26 @@
+{
+  "entity": {
+    "name": "사카모토 치카",
+    "synonym": [
+      "Chika Sakamoto",
+      "Ryuichi Sakamoto",
+      "Sakamoto Ryuichi",
+      "坂本千夏",
+      "坂本龍一",
+      "류이치",
+      "류이치 사카모토",
+      "사까모또 치까",
+      "사카모토",
+      "사카모토 류이치",
+      "사카모토 치카",
+      "사카모토류이치",
+      "사카모토치카",
+      "치카",
+      "치카 사카모토"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "사카모토 치카은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

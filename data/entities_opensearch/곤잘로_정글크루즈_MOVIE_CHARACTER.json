@@ -1,0 +1,15 @@
+{
+  "entity": {
+    "name": "곤잘로",
+    "synonym": [
+      "Gonzalo",
+      "곤살로",
+      "곤잘로",
+      "곤잘로 캐릭터"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "곤잘로은 영화 '정글크루즈'의 등장인물로, 댄 다르간이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

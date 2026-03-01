@@ -1,0 +1,17 @@
+{
+  "entity": {
+    "name": "나탈리아 테나",
+    "synonym": [
+      "Natalia Tena",
+      "나탈리아",
+      "나탈리아 테나",
+      "나탈리아 테냐",
+      "나탈리아테나",
+      "테나"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "나탈리아 테나은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

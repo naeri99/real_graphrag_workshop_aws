@@ -1,0 +1,133 @@
+{
+  "chunk_hash": "f194a1c1677c75",
+  "chunk_id": "지무비_-_G_Movie_f194a1c1677c75_60258c59",
+  "user_query": "hee 아 아무리 찾아도 괴물과 행사는 코빼기도 비추지 않았죠 으 goo lee 100 떠라 지금 성도 칸 당 차를 커야 면서 맛나죠 병균 옮기면 을 일랑 아카드 멀쩡한 되고 팔수가 있던 거 어 빨 알기 위해서 이 때문인가 보다 빼야지 걸 줄거리나 닭 택시가 감정의 매점 소리를 하고 있는 부랑자 손을 떼지 야 이건 넘치게 아니야 디스크 음 매점 소리라는 과 매점 소득 서리는 배고픈 자들의 특권이 되겠다 이 말이야 그때 또 다른 증권 가슴 계속 2 [음악] note2 아 아 아 으 아 222 아 아 아 으 으 으 그렇게 형은 목숨을 입고 어느 인생만 살아남 줘 한편 더 말하자 충족 신께 잘려 이 상황에서도 병 등 탕 반향 꾸벅꾸벅 졸고 있는 강두를 나무라는 남주 남에게 되더라 볼 땐 강두 회가 그렇게 1심 봤다는 희봉이 찬 소리 성 중인데 어 셀 되다 그 냄새 맡다 버렸어 새끼 잃은 고무 속 냄새를 맡아본 지키기 있냐 이 말이야 반모 속 양발 소감은 떨어지면 그 냄새가 신기 밖까지 집 많은 거죠 아 네 정말 비슷한 한마디 밝혔는데 그래서 감사합니다 쭉 그렇죠 빼줘야 합니다 이건 좀 뻔 수 그때 몇 너 강두가 뭔데 으 불과 괴물을 발견합니다 아 으 아 아 아 아 lee 아 아 아 아 이봉 이 녀석을 제압하는 데 성공하지만 치 원 라인의 셔츠 9만 8000원을 본다 미리 까 왜 확인 사상을 하자 역시나 멀쩡하게 다시 도망치기 시작하죠 ei ei 에이 그럼 빨 20 것들이 많죠 말라 있지만 그리고 총성이 울리자 경찰들이 다가오지만 손녀를 납치한 괴물 눈앞에서 놓쳤던 아버지가 봐도 책장을 봤다 뭐가 남나 까만 사창가를 하냐 마냐 질문이 들어갈까 먼저 칼을 시전해 버리고 요 아 100 순간 강두가 분명 한발 남았다고 했던 총 말 크다 이러고 있습니다 이렇게 강두 눈 다시 함 자신의 실수 아 아 가 좋겠어요 나머지 이렇게 되죠 to be a 아 예 그런데 좀 으 으 초반과 이런 계획하던 그런데 저희들이 많은데 안녕하세요 out 근속자 그래서 그리고 의장 너한테 번째 빨면서 공압 y 으 아 으 아 wiz 222 그리고 오존 도망갈 수 없었습니다 bora lee [음악] 님 아 아 보더라도 거야 뭐 나방류 만나봐야 에 거야 으 가슴 아픈 소식입니다 자신의 몸을 던져 바이러스의 존재를 온몸으로 세상에 알렸던 미 8군의 도널드 하사관이 오늘 오후 2시 20분쯤 끝내 숨지고 말았습니다 한편 난 미국과의 다 블리치 오는 탈출 보균자 가족 중 분명히 아직도 체포되지 않은 점과 바이러스인 괴생물체 또한 추적에 실패한 점을 지적하면서 한국의 이번 사태를 자체적으로 해결할 수 없다는 결론과 함께 직접 개입할 것을 선언했습니다 며 치지 홀로 길을 걷고 있는 남일 해 눈에 들어온 전단지 가족들의 현상 스키 썼죠 으 고객 나미를 붙잡는 누군가 또 남일이 도움을 부탁한 학교 선배이자 컴퓨터만 누르시면 바로 나온다 이거지 진짜 평소 설명이 전화 했잖아요 어 그럼 그 통화 기록에 기지 위치가 나와 그럼 그 규칙은 반경 도움이 되고 조선소가 있다 요충 신사 치곤 이었습니다",
+  "movie_id": "괴물",
+  "reviewer": "지무비_-_G_Movie",
+  "chunk_index": 4,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "괴물",
+      "entity_type": "MOVIE",
+      "entity_description": "괴물은 한강에서 나타난 괴생물체가 사람들을 납치하는 내용을 다룬 한국 영화이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "강두",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "강두는 괴물에게 손녀(또는 딸)를 납치당한 인물로, 총을 들고 괴물과 맞서 싸우는 주인공이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "남일",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "남일은 강두의 가족 중 한 명으로, 학교 선배에게 도움을 요청하여 통화 기록으로 위치를 추적하려 한다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "희봉",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "희봉은 강두의 가족 중 한 명으로 언급되는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "도널드 하사관",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "도널드 하사관은 미 8군 소속으로 바이러스의 존재를 세상에 알리기 위해 자신의 몸을 던졌으며, 결국 숨진 인물이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "강두",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "괴물",
+      "target_type": "MOVIE",
+      "relationship_description": "강두는 괴물의 주인공으로 괴생물체와 맞서 싸운다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "남일",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "괴물",
+      "target_type": "MOVIE",
+      "relationship_description": "남일은 괴물에 등장하는 강두 가족 중 한 명이다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "희봉",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "괴물",
+      "target_type": "MOVIE",
+      "relationship_description": "희봉은 괴물에 등장하는 인물이다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "도널드 하사관",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "괴물",
+      "target_type": "MOVIE",
+      "relationship_description": "도널드 하사관은 괴물에서 바이러스 관련 사건과 연관된 미군 인물이다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "강두",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "남일",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "강두와 남일은 가족 관계로 함께 괴물을 추적한다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "강두",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "희봉",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "강두와 희봉은 가족 관계이다",
+      "relationship_strength": 8
+    }
+  ],
+  "entity_resolution": {
+    "괴물": {
+      "description": "괴물 -> 괴물",
+      "resolved_name": "괴물",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "강두": {
+      "description": "강두 -> 박강두",
+      "resolved_name": "박강두",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "남일": {
+      "description": "남일 -> 박남일",
+      "resolved_name": "박남일",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "희봉": {
+      "description": "희봉 -> 박희봉",
+      "resolved_name": "박희봉",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "도널드 하사관": {
+      "description": "도널드 하사관 -> 도널드 하사관",
+      "resolved_name": "도널드 하사관",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

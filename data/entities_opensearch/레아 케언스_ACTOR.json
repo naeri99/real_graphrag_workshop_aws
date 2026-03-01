@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "레아 케언스",
+    "synonym": [
+      "Leah Cairns",
+      "레아",
+      "레아 캐언스",
+      "레아 케언스",
+      "레아 케언즈",
+      "레아 케인스",
+      "레아케언스",
+      "리아 케언스",
+      "리아케언스",
+      "케언스",
+      "케언즈"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "레아 케언스은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

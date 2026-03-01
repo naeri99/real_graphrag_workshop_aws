@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "박준서",
+    "synonym": [
+      "Park Jun-seo",
+      "Park Junseo",
+      "박 준서",
+      "박준서",
+      "박준서 배우",
+      "박준서 씨",
+      "박준서씨",
+      "준서"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "박준서은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "entity": {
+    "name": "수렘 칼데론",
+    "synonym": [
+      "Sulem Calderon",
+      "수렘",
+      "수렘 칼데론",
+      "수렘칼데론",
+      "술렘 칼데론",
+      "술렘칼데론",
+      "칼데론"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "수렘 칼데론은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "짐 캐리",
+    "synonym": [
+      "Jim Carrey",
+      "제임스 유진 캐리",
+      "제임스 캐리",
+      "짐",
+      "짐 캐리",
+      "짐 케리",
+      "짐캐리",
+      "짐케리"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "짐 캐리은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

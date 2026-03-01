@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "Father Janovich",
+    "synonym": [
+      "Father Janovich",
+      "Janovich",
+      "신부",
+      "신부 야노비치",
+      "신부님",
+      "야노비치",
+      "야노비치 신부",
+      "자노비치 신부",
+      "재노비치 신부",
+      "파더 야노비치"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "Father Janovich은 영화 '그랜 토리노'의 등장인물로, 크리스토퍼 칼리이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

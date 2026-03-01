@@ -1,0 +1,12 @@
+{
+  "entity": {
+    "name": "뉴스1TV",
+    "synonym": [
+      "뉴스1TV"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "뉴스1TV은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

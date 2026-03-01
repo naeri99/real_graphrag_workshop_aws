@@ -1,0 +1,18 @@
+{
+  "entity": {
+    "name": "헤더",
+    "synonym": [
+      "Heather",
+      "헤더",
+      "헤떠",
+      "헤서",
+      "헤써",
+      "헤쓰",
+      "히더"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "헤더은 영화 '매치스틱맨'의 등장인물로, 멜로라 월터스이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

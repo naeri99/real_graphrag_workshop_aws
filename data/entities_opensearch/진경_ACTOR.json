@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "진경",
+    "synonym": [
+      "Jin Kyung",
+      "Jin-kyung",
+      "Kyung Jin",
+      "배우 진경",
+      "진 경",
+      "진경",
+      "진경 배우",
+      "진경씨"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "진경은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "entity": {
+    "name": "Aidan Wilde",
+    "synonym": [
+      "Aidan",
+      "Aidan Wilde",
+      "아이단",
+      "아이단 와일드",
+      "아이든",
+      "에이단",
+      "에이단 와일드",
+      "에이단와일드",
+      "에이든",
+      "에이든 와일드",
+      "에이든와일드",
+      "와일드"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "Aidan Wilde은 영화 '아가일'의 등장인물로, 샘 록웰이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

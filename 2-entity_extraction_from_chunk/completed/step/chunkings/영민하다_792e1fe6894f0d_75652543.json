@@ -1,0 +1,164 @@
+{
+  "chunk_hash": "792e1fe6894f0d",
+  "chunk_id": "영민하다_792e1fe6894f0d_75652543",
+  "user_query": "중심이 무너지듯 그들의 관계 역시 불안정하게 틈을 보이고 있었습니다 어떻게 사랑이 변하니 어쩌면 그 틈은 그들의 역할이 암시했던 거 같습니다 함께 소리를 모으지만 소리를 소비하는 사람은 피디 혼자인 것처럼 함께 사랑을 하지만 결국 소비하는 것은 한 사람이었습니다 그렇게 만남과 헤어짐을 반복하던 이 둘의 관계는 동승을 만나고 또 상우에게 유일하게 중요했던 자동차에서 벗어나 자신의 차를 마련함으로써 끝나려 합니다 결정적으로 상우에게 또 하나의 사랑이었던 할머니가 죽고 상우 또한 이제 [음악] 확실해지는 날 회사에서 서류 베이지 무심코 팔을 위로 들어올리는 은수 있는데요 이건 다름 아닌 상우가 알려줬던 방법입니다 그렇게 은수는 또다시 상우를 찾아갑니다 할머니 갖다 드리라며 화분을 건내는 은수 상우는 이제 은수를 거절할 수 있게 되죠 그녀는 상우 할머니의 죽음조차 알지 못했기 때문입니다 모두가 낭만을 꿈꾸는 벚꽃 아래에서 마지막으로 헤어집니다 이 영화는 상우의 성장 영화로 볼 수도 있습니다 그리고 상우가 우리의 일상과 그리 다르지 않다는 점에서 이 영화는 사랑에 대한 철학을 제시하기도 합니다 사람들은 사랑을 하며 뜨겁게 추진하고 마음이 앞서지만 그 권태에 빠지기도 하는데요 저는 그게 사랑 자체에 문제 있기보다 사람이 고여 있지 못하는 존재이기 때문이라고 생각합니다 누군가를 맞추다 보면 가짜 감정을 길어 올릴 수밖에 없습니다 타인의 기준에 맞추는 자신의 감정은 어딘가 진실되지 못하기 마련이죠 결국 사랑은 스스로가 근사해지는 것을 지향해야 합니다 이것은 서로를 멀리 하자는 뜻이 아닙니다 외적인 기준에 휘둘리지 말고 사랑을 소비하는 대신 사랑을 만들어 나가는 것입니다 봄날은 간다라는 영화 제목에서 봄은 시인 김영랑의 시구 찬란한 슬픔의 봄과 같은 슬프지만 미래를 보는 봄이라고 생각합니다 상우 역시 그런 마음을 깨달았기에 마지막에 웃을 수 있던 거 아닐까요 [음악]",
+  "movie_id": "봄날은 간다",
+  "reviewer": "영민하다",
+  "chunk_index": 2,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "봄날은 간다",
+      "entity_type": "MOVIE",
+      "entity_description": "봄날은 간다는 사랑과 이별을 다룬 영화로, 주인공 상우의 성장을 통해 사랑에 대한 철학을 제시하는 작품이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "상우",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "상우는 봄날은 간다의 남자 주인공으로, 자동차를 중요하게 여기며 할머니의 죽음을 겪고 성장하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "은수",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "은수는 봄날은 간다의 여자 주인공으로, 피디 역할을 하며 상우와 만남과 헤어짐을 반복하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "동승",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "동승은 봄날은 간다에 등장하는 인물로, 상우와 은수의 관계 변화에 영향을 주는 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "할머니",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "할머니는 상우에게 사랑의 대상이었던 인물로, 그녀의 죽음이 상우의 변화에 결정적 계기가 된다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "김영랑",
+      "entity_type": "MOVIE_STAFF",
+      "entity_description": "김영랑은 시인으로, 그의 시구 '찬란한 슬픔의 봄'이 영화 제목 봄날은 간다의 의미와 연결된다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "상우",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "봄날은 간다",
+      "target_type": "MOVIE",
+      "relationship_description": "상우는 봄날은 간다의 남자 주인공이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "은수",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "봄날은 간다",
+      "target_type": "MOVIE",
+      "relationship_description": "은수는 봄날은 간다의 여자 주인공이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "상우",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "은수",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "상우와 은수는 연인 관계로 만남과 헤어짐을 반복하며, 상우가 은수에게 서류 베이는 방법을 알려주기도 했다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "동승",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "봄날은 간다",
+      "target_type": "MOVIE",
+      "relationship_description": "동승은 봄날은 간다에 등장하는 인물이다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "동승",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "상우",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "동승을 만나면서 상우와 은수의 관계에 변화가 생긴다",
+      "relationship_strength": 6
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "할머니",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "상우",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "할머니는 상우에게 또 하나의 사랑이었으며, 할머니의 죽음이 상우의 성장에 결정적 영향을 미쳤다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "할머니",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "봄날은 간다",
+      "target_type": "MOVIE",
+      "relationship_description": "할머니는 봄날은 간다에 등장하는 인물이다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "은수",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "할머니",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "은수는 상우 할머니의 죽음을 알지 못했으며, 이것이 상우가 은수를 거절하는 계기가 된다",
+      "relationship_strength": 7
+    }
+  ],
+  "entity_resolution": {
+    "봄날은 간다": {
+      "description": "봄날은 간다 -> 봄날은 간다",
+      "resolved_name": "봄날은 간다",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "상우": {
+      "description": "상우 -> 상우",
+      "resolved_name": "상우",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "은수": {
+      "description": "은수 -> 한은수",
+      "resolved_name": "한은수",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "동승": {
+      "description": "동승 -> 동승",
+      "resolved_name": "동승",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "할머니": {
+      "description": "할머니 -> 할머니",
+      "resolved_name": "할머니",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "김영랑": {
+      "description": "김영랑 -> 김영랑",
+      "resolved_name": "김영랑",
+      "entity_type": "MOVIE_STAFF",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

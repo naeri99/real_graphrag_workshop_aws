@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "커크 존스",
+    "synonym": [
+      "Jones",
+      "Kirk Johns",
+      "Kirk Jones",
+      "Kirk Jones 감독",
+      "존스",
+      "커크 존스",
+      "커크 존즈",
+      "커크 죤스",
+      "커크존스",
+      "커크존즈",
+      "컥 존스"
+    ],
+    "entity_type": "MOVIE_STAFF",
+    "summary": "커크 존스은 영화 감독입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

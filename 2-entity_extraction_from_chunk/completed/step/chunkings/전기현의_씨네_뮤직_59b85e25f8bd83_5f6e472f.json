@@ -1,0 +1,137 @@
+{
+  "chunk_hash": "59b85e25f8bd83",
+  "chunk_id": "전기현의_씨네_뮤직_59b85e25f8bd83_5f6e472f",
+  "user_query": "me proudy. Dad. [음악] 시카고에 사는 맏딸 에이미를 만나자 한결 마음이 놓입니다. 겉으로론 크게 달라진 게 없지만 어딘가 어색한 기류가 감돕니다. 옷을 입은 사위를 보고 별거 중임을 눈치챈 프랭크. 딸이 먼저 터놓기 전엔 내색하지 않을 작정입니다. 덴버에 도착한 프랭크는 아들 로버트가 지휘자로 있는 오케스트라 공연 포스터 앞에서 인증 사진을 남깁니다. 그만큼 자랑스러워한 아들이건만 로버트는 지휘석이 아닌 구석진 자리에 가끔 등장하는 타악기 연주자였습니다. 실망감을 드러내자 로버트는 감춰온 속내를 끄집어냅니다. 애초에 음악적인 재능 따위는 없었다고 근사한 음악가가 되길 바란 건 아버지였지 자신이 아니었다고 항변합니다. 함께 있기가 그리 싫은 걸까? 아들은 서툰 거짓말을 해대느라 전전긍긍입니다. 아버지가 포스터를 통해 일정을 알고 있다는 걸 몰랐을 테니까요. 섭섭하지만 별 수 있나요? 여태껏 몰랐던 아들의 비밀을 알게 된 것만도 다행이라 여기는 [음악] 수밖에요. I missed you. Miss you. 리무진까지 대동해 마중 나온 막내딸 로지. 잘 나가는 무용수가 된 막내만은 아빠의 걱정을 덜어주리라 믿었습니다. And we could really use a favor. Could you watch him for a few hours? Okay, it's Yeah, it's fine. Well, I I can them. Okay, I'll call if I need anything. Honestly, I'll be all right. Just stay up. Give me want me to get that. [음악] 로지 역시 큰 비밀을 감추고 있긴 마찬가지입니다. 번듯한 이 아파트는 친구의 집이고 친구의 아기라는 맥스는 로지를 쏙 빼닮았으니까요. 왜 다들 아빠를 안심시키려고 만 할까요? 엄마에게처럼 모든 걸 터놓지 않는 걸까? 로지와의 대화를 통해 그 이유를 어렴풋이 짐작할 [음악] 뿐입니다. 프랭크는 떠나올 때와 달리 서둘러 집으로 [음악] 향합니다. 얼마 지나지 않아 우려했던 상황이 벌어집니다. 희미해지는 의식 속에서 자신의 진짜 모습을 마주합니다. 아이들의 말을 들어 주기보단 늘 윽박지르고 아이들의 꿈보다 성취를 우선시하는 아빠였습니다. 기대가 컸던 장남 데이빗에게 유독 엄했던 것도 사실입니다. [음악] 프랭크는 그제야 자신이 어떻게 살아왔는지를 깨닫습니다. 자식들과 제대로 소통할 줄 모르는 못난 아빠였다는 것을. 가까스로 깨어난 프랭크는 믿기지 않는 소식을 [음악] 전해 듣습니다. Sorry about how everything's worked out. It's not here before. I've been thinking about what I want to do when I grow up. Yeah. But what did you decide? Am I still be an artist or I just do a normal job like a painter? Be proud of you no matter",
+  "movie_id": "에브리바디스 파인",
+  "reviewer": "전기현의_씨네_뮤직",
+  "chunk_index": 2,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "프랭크",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "프랭크는 자녀들을 방문하며 여행하는 아버지로, 자녀들과의 소통 부재를 깨닫게 되는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "에이미",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "에이미는 시카고에 사는 프랭크의 맏딸로, 별거 중인 상황을 아버지에게 숨기고 있다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "로버트",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "로버트는 덴버에 사는 프랭크의 아들로, 지휘자가 아닌 타악기 연주자이며 아버지의 기대와 다른 삶을 살고 있다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "로지",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "로지는 프랭크의 막내딸로, 무용수로 알려져 있지만 실제로는 아기 맥스를 숨기고 있다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "맥스",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "맥스는 로지의 아기로, 로지를 닮았으며 친구의 아기라고 거짓말하고 있다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "데이빗",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "데이빗은 프랭크의 장남으로, 아버지의 기대가 가장 컸던 자녀이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "프랭크",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "에이미",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "프랭크는 에이미의 아버지이며 시카고에서 그녀를 방문한다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "프랭크",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "로버트",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "프랭크는 로버트의 아버지이며 덴버에서 그를 방문하고 음악가로서의 기대를 품고 있었다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "프랭크",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "로지",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "프랭크는 로지의 아버지이며 막내딸로서 걱정을 덜어주길 기대했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "프랭크",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "데이빗",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "프랭크는 데이빗의 아버지이며 장남에게 유독 엄격했다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "로지",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "맥스",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "로지는 맥스의 엄마로, 맥스를 친구의 아기라고 숨기고 있다",
+      "relationship_strength": 10
+    }
+  ],
+  "entity_resolution": {
+    "프랭크": {
+      "description": "프랭크 -> 프랭크",
+      "resolved_name": "프랭크",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "에이미": {
+      "description": "에이미 -> 어린 에이미",
+      "resolved_name": "어린 에이미",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "로버트": {
+      "description": "로버트 -> 로버트 피셔",
+      "resolved_name": "로버트 피셔",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "로지": {
+      "description": "로지 -> 로지",
+      "resolved_name": "로지",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "맥스": {
+      "description": "맥스 -> 맥스",
+      "resolved_name": "맥스",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "데이빗": {
+      "description": "데이빗 -> 데이비드",
+      "resolved_name": "데이비드",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    }
+  }
+}

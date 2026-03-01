@@ -1,0 +1,24 @@
+{
+  "entity": {
+    "name": "알렉스 보겔",
+    "synonym": [
+      "Alex Vogel",
+      "Vogel",
+      "담당 형사 보겔",
+      "보겔",
+      "보겔 박사",
+      "보겔 형사",
+      "보겔박사",
+      "보글",
+      "알렉스",
+      "알렉스 보겔",
+      "알렉스 포겔",
+      "알렉스보겔",
+      "포겔"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "알렉스 보겔은 영화 '마션'의 등장인물로, 악셀 헤니이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "토마스 쉬프",
+    "synonym": [
+      "Schiff",
+      "Thomas",
+      "Thomas Schiff",
+      "쉬프",
+      "시프",
+      "정신병자 토마스",
+      "토마스",
+      "토마스 쉬프",
+      "토마스 시프",
+      "토마스쉬프",
+      "토머스 쉬프"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "토마스 쉬프은 영화 '다크나이트'의 등장인물로, 데이비드 데이머이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "entity": {
+    "name": "사츠키",
+    "synonym": [
+      "5월",
+      "Satsuki",
+      "Satsuki Kusakabe",
+      "さつき",
+      "草壁サツキ",
+      "사스키",
+      "사쓰키",
+      "사쯔키",
+      "사츠끼",
+      "사츠키",
+      "사츠키 언니",
+      "삿츠키",
+      "언니",
+      "쿠사카베 사츠키",
+      "쿠사카베사츠키"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "사츠키은 영화 '토토로'의 등장인물로, 히다카 노리코이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

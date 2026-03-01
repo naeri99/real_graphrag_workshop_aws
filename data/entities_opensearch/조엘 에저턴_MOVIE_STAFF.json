@@ -1,0 +1,18 @@
+{
+  "entity": {
+    "name": "조엘 에저턴",
+    "synonym": [
+      "Joel Edgerton",
+      "감독 조엘 에저턴",
+      "에저턴",
+      "조엘 에드거턴",
+      "조엘 에드거튼",
+      "조엘 에저턴",
+      "조엘에저턴"
+    ],
+    "entity_type": "MOVIE_STAFF",
+    "summary": "조엘 에저턴은 영화 감독입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

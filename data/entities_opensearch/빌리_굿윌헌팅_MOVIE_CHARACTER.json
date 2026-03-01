@@ -1,0 +1,17 @@
+{
+  "entity": {
+    "name": "빌리",
+    "synonym": [
+      "Billy",
+      "Billy McBride",
+      "비리",
+      "빌",
+      "빌리",
+      "빌리 맥브라이드"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "빌리은 영화 '굿윌헌팅'의 등장인물로, 콜 하우저이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "entity": {
+    "name": "마이크 엥겔",
+    "synonym": [
+      "Mike",
+      "Mike Engel",
+      "기자 엥겔",
+      "마이크",
+      "마이크 앵겔",
+      "마이크 앵글",
+      "마이크 엥겔",
+      "마이크엥겔",
+      "마익",
+      "앵겔",
+      "앵커 마이크",
+      "엥겔"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "마이크 엥겔은 영화 '다크나이트'의 등장인물로, 안토니 마이클 홀이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

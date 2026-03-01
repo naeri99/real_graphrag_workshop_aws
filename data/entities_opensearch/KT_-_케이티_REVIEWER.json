@@ -1,0 +1,13 @@
+{
+  "entity": {
+    "name": "KT_-_케이티",
+    "synonym": [
+      "KT_-_케이티",
+      "KT - 케이티"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "KT_-_케이티은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "entity": {
+    "name": "JTBC_Entertainment",
+    "synonym": [
+      "JTBC_Entertainment",
+      "JTBC Entertainment"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "JTBC_Entertainment은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

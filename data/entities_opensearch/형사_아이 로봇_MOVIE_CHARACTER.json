@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "형사",
+    "synonym": [
+      "Detective",
+      "경찰",
+      "경찰 형사",
+      "디텍티브",
+      "수사관",
+      "탐정",
+      "형사",
+      "형사 캐릭터"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "형사은 영화 '아이 로봇'의 등장인물로, 크레이그 마치이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

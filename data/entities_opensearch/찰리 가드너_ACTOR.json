@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "찰리 가드너",
+    "synonym": [
+      "Charlie",
+      "Charlie Gardner",
+      "Gardner",
+      "가드너",
+      "찰리",
+      "찰리 가너",
+      "찰리 가드나",
+      "찰리 가드너",
+      "찰리가드너",
+      "찰스 가드너"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "찰리 가드너은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

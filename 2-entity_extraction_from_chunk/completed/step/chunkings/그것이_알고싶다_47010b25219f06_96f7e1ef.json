@@ -1,0 +1,142 @@
+{
+  "chunk_hash": "47010b25219f06",
+  "chunk_id": "그것이_알고싶다_47010b25219f06_96f7e1ef",
+  "user_query": "그런 괴롭힘을 당해본 피해자의 입장에 공감하지 않으면 할 수 없는 말이거든요 그걸 보고 미나토는 가해자 어렵다 생각했습니다 아 그렇구나 근데 호리가 그러잖아요 미나토 방에 뭐 나이프나 흉기 같은 거 없냐 근데 사오리도 아 이 말도 안 되는 소리라고 생각하는 거 같지만 막상 집에 가서 찾아봐요 결국 토치 그렇죠 나오잖아요 찾아지죠 근데 사실 그걸 찾아냈어도 워낙 가해자라고 생각하기 힘드니까 사오리가 그 피해 당사자로 지목됐던 요리네 집을 찾아가요 아 요리가 그때 처음 등장하잖아요 아 난 그렇게 귀엽게 처음 봤어요 진짜 너무 귀여운 거예요 와 진짜 아 근데 딱 들어가는데 사오리가 딱 발견하잖아요 그 현관에 미나토의 신발 한 짝이 왜냐면 그 전에 자기 집에서 미나토가 신발 한 짝만 있는 거 봤단 말이에요 아니 그러니까 봤더니 미나토 신발이 있으니까 이 저 보는 입장에서는 어 요리가 얼굴은 저렇게 귀엽게 하고서는 괴물이구나 왜냐면은 미나토 신발이 여기 있다는 거는 미나토가 요리를 괴롭혔다는 게 아니라 반대 상황이던 거잖아요 그렇죠 괴롭히는 아이한테 신발을 뭐 줄 수는 없죠 반대는 가능해도 근데 이제 직접적으로 이거 미나토 신발 아니냐 이러진 않고 미나토랑 비슷한 신발이네 이 정도로 얘기하죠 그리고 빌린 거예요 이러면서 해맑게 쓱 돌아보는데 쓱 웃잖아요 너무 무서운 거야 얘 요리가 괴물이니까 왜냐면은 우와 진짜 소름 돋는다 이 영화 진짜 근데 또 그 요리가 가해자인가라고 생각하고 봤을 때 갑자기 또 사오리가 그 요리 몸에 화상 흉터 어 어 맞아 맞아를 보잖아요 아 근데 저런 상처를 봤을 때는 요리도 피해자가 아닐까 또 이런 생각도 들죠 하필 불에 덴 자국인데 그 미나토 가방에서 토치 맞아요 정말 한 커트에서 이게 확확 바뀐다니까요 아 근데 결과적으로 이제 사오리는 호리가 미나토 괴롭히고 요리도 괴롭히고 있다라고 이제 판단한 거 같아요 결국 이제 요리를 학교 선생님들 앞에서 세워 가지고 증언을 시키잖아요 그렇죠 요리가 이제 자기는 미나토한테 괴롭힘 당한 적은 없고 호리 쌤이 항상 미나토를 때렸다 이렇게 예 그래서 모두 이런 말이 더해져서 결국 이제 호리 선생이 모두 앞에서 사과를 하는데 그게 또 언론에 보도 되잖아요 아 그러면서 아이에 너의 뇌는 돼지뇌다 이라고 보도가 되더라고요 [음악] 근데 아직도 보면은 여전히 모든 게 이 베일에 싸여 있는 그런 느낌인데 미나토가 갑자기 자기 손으로 머리를 자르고 뭐 물병에서 흙이 나오고 뭐 터널에서 발견되고 차에서 뛰어내리고 신발 한 짝만 발견되고 이게 다 지금 풀리지 않았거든요 왜 이렇게 된 건지 근데 이 세 번째 파트에서는 아이들의 시선으로 얘기가 전개되면서 아 이 미나토가 감추려고 했던 게 뭔지 이제 드러나게 되죠 [음악] 여기서 돼지의 뇌를 이식한 인간은 인간인가 돼지인가 다시 이제 이 질문으로 돌아가는데 미나토는 이제 호리가 한 말이라고 했지만 알고 보니까 우리 아빠가 있던 [음악] 말이잖아요 아빠가 뭐 이 좀 어요 그 한 마디 한 마디가 생각한 하나 요새 대학 나왔냐 월급 적지 어 사람을 사람으로",
+  "movie_id": "괴물",
+  "reviewer": "그것이_알고싶다",
+  "chunk_index": 6,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "미나토",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "미나토는 영화의 주요 인물로, 괴롭힘의 가해자로 의심받지만 실제로는 복잡한 상황에 처해 있는 아이이다. 신발 한 짝이 없어지고, 머리를 자르고, 차에서 뛰어내리는 등 이상한 행동을 보인다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "사오리",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "사오리는 미나토의 어머니로, 아들이 가해자인지 피해자인지 진실을 알아내려고 노력하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "호리",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "호리는 학교 선생님으로, 미나토를 괴롭혔다는 의혹을 받고 결국 모두 앞에서 사과하게 되는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "요리",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "요리는 미나토와 관련된 아이로, 처음에는 가해자로 의심받지만 몸에 화상 흉터가 있어 피해자일 가능성도 있는 복잡한 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "미나토 아빠",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "미나토의 아버지로, \"돼지의 뇌를 이식한 인간은 인간인가 돼지인가\"라는 말을 했던 인물이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "미나토",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "사오리",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "사오리는 미나토의 어머니이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "미나토",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "요리",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "미나토와 요리는 서로 연관된 관계로, 미나토의 신발이 요리네 집에서 발견된다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "호리",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "미나토",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "호리는 미나토를 때렸다는 증언이 있으며 괴롭힘 의혹을 받는다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "사오리",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "요리",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "사오리는 요리네 집을 찾아가 진실을 알아내려 하고, 요리의 화상 흉터를 발견한다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "사오리",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "호리",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "사오리는 호리가 미나토와 요리를 괴롭혔다고 판단한다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "요리",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "호리",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "요리는 호리 선생이 항상 미나토를 때렸다고 증언한다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "미나토",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "미나토 아빠",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "미나토 아빠는 미나토의 아버지로, \"돼지뇌\" 발언의 원래 출처이다",
+      "relationship_strength": 9
+    }
+  ],
+  "entity_resolution": {
+    "미나토": {
+      "description": "미나토 -> 미나토",
+      "resolved_name": "미나토",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "사오리": {
+      "description": "사오리 -> 사오리",
+      "resolved_name": "사오리",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "호리": {
+      "description": "호리 -> 호리",
+      "resolved_name": "호리",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "요리": {
+      "description": "요리 -> 요리",
+      "resolved_name": "요리",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "미나토 아빠": {
+      "description": "미나토 아빠 -> 미나토 아빠",
+      "resolved_name": "미나토 아빠",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

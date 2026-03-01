@@ -1,0 +1,24 @@
+{
+  "entity": {
+    "name": "로스비타 젤레",
+    "synonym": [
+      "Roswitha Schreiner",
+      "Roswitha Selle",
+      "Roswitha Szele",
+      "Roswitha Szelle",
+      "Roswitha Szyszkowitz",
+      "로스비타",
+      "로스비타 셀레",
+      "로스비타 젤러",
+      "로스비타 젤레",
+      "로스비타 첼레",
+      "로스비타젤레",
+      "로즈비타 젤레",
+      "젤레"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "로스비타 젤레은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

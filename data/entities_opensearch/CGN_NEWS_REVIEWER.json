@@ -1,0 +1,13 @@
+{
+  "entity": {
+    "name": "CGN_NEWS",
+    "synonym": [
+      "CGN_NEWS",
+      "CGN NEWS"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "CGN_NEWS은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

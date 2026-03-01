@@ -1,0 +1,15 @@
+{
+  "entity": {
+    "name": "미네타",
+    "synonym": [
+      "Minetta",
+      "미네따",
+      "미네타",
+      "미넷타"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "미네타은 영화 '팬텀 스레드'의 등장인물로, 폴린 모리어티이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

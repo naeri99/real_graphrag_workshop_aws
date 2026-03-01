@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "레이첼 와이즈",
+    "synonym": [
+      "Rachel Weisz",
+      "레이첼",
+      "레이첼 바이스",
+      "레이첼 와이스",
+      "레이첼 와이즈",
+      "레이첼 웨이즈",
+      "레이첼와이즈",
+      "와이즈"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "레이첼 와이즈은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

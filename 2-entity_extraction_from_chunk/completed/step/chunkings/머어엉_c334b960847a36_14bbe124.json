@@ -1,0 +1,208 @@
+{
+  "chunk_hash": "c334b960847a36",
+  "chunk_id": "머어엉_c334b960847a36_14bbe124",
+  "user_query": "to recognize Ember's ability to make glass at once It also shows a family side of her uncle, Harold, and her children, Marco and Polo, in the same house Wade often shows his weakness, but he does everything for his loved ones, so he's very much like the Italians and his family The name of Wade's nephew, Marco Ripple, and Polo Ripple, is thought to mean Marco Polo, a merchant and explorer who traveled around many countries to the extent that he wrote the Eastern Review Given that the entire Ripple family, including Wade, is a water element character, it is more likely that it was created for Marco Polo, a water play that children usually play in the West Clod, Ember's neighbor and smart girl, is a soil element character that grows flowers on her body Because it's a clay character, it has a solid-particle appearance, so it has to be different from other materials The soil element characters are not only flowers, but also oak, apple, and coniferous plants that grow according to their individuality Clod takes off the flowers that grow under his armpits and gives them to Ember, but she shows them burning them After the rebuilding of Firetown, Clod became friends with a fire girl of similar age and had a happy ending However, considering that he appears as the main character of Elemental's element poster, he is also the most non-existent poster character because he only shows a scene where he gives flowers to Ember and becomes close to a girl at the end But the reason why Clod was",
+  "movie_id": "엘리멘탈",
+  "reviewer": "머어엉",
+  "chunk_index": 9,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "EMBER",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Ember는 유리를 만드는 능력을 가진 불 원소 캐릭터로, 이웃 Clod와 교류하며 Firetown에 거주한다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "WADE",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Wade는 물 원소 캐릭터로, 약한 모습을 자주 보이지만 사랑하는 사람들을 위해 모든 것을 하는 이탈리아인 같은 가족적인 면모를 가지고 있다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "HAROLD",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Harold는 Ember의 삼촌으로, Marco와 Polo라는 자녀들과 함께 같은 집에 살며 가족적인 면모를 보여준다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "MARCO RIPPLE",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Marco Ripple은 Wade의 조카로, 물 원소 캐릭터이며 이름은 마르코 폴로에서 유래한 것으로 추정된다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "POLO RIPPLE",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Polo Ripple은 Wade의 조카로, 물 원소 캐릭터이며 이름은 마르코 폴로에서 유래한 것으로 추정된다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "CLOD",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Clod는 Ember의 이웃이자 똑똑한 소녀로, 몸에서 꽃이 자라는 흙 원소 캐릭터이며 점토 캐릭터로서 고체 입자 외형을 가지고 있다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "ELEMENTAL",
+      "entity_type": "MOVIE",
+      "entity_description": "Elemental은 불, 물, 흙 등 다양한 원소 캐릭터들이 등장하는 애니메이션 영화로, Firetown을 배경으로 한다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "FIRETOWN",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Firetown은 Elemental 영화에서 불 원소 캐릭터들이 거주하는 마을이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "EMBER",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "ELEMENTAL",
+      "target_type": "MOVIE",
+      "relationship_description": "Ember는 Elemental의 주요 등장인물이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "WADE",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "ELEMENTAL",
+      "target_type": "MOVIE",
+      "relationship_description": "Wade는 Elemental의 주요 등장인물이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "CLOD",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "ELEMENTAL",
+      "target_type": "MOVIE",
+      "relationship_description": "Clod는 Elemental의 등장인물로 원소 포스터의 메인 캐릭터로 등장한다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "HAROLD",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "EMBER",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Harold는 Ember의 삼촌이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "HAROLD",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "MARCO RIPPLE",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Harold는 Marco의 아버지이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "HAROLD",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "POLO RIPPLE",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Harold는 Polo의 아버지이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "MARCO RIPPLE",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "POLO RIPPLE",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Marco와 Polo는 형제자매 관계이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "WADE",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "MARCO RIPPLE",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Wade는 Marco Ripple의 삼촌이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "WADE",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "POLO RIPPLE",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Wade는 Polo Ripple의 삼촌이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "CLOD",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "EMBER",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Clod는 Ember의 이웃으로, 꽃을 선물하며 교류한다",
+      "relationship_strength": 8
+    }
+  ],
+  "entity_resolution": {
+    "EMBER": {
+      "description": "EMBER -> EMBER",
+      "resolved_name": "EMBER",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "WADE": {
+      "description": "WADE -> WADE",
+      "resolved_name": "WADE",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "HAROLD": {
+      "description": "HAROLD -> HAROLD",
+      "resolved_name": "HAROLD",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "MARCO RIPPLE": {
+      "description": "MARCO RIPPLE -> MARCO RIPPLE",
+      "resolved_name": "MARCO RIPPLE",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "POLO RIPPLE": {
+      "description": "POLO RIPPLE -> POLO RIPPLE",
+      "resolved_name": "POLO RIPPLE",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "CLOD": {
+      "description": "CLOD -> CLOD",
+      "resolved_name": "CLOD",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "ELEMENTAL": {
+      "description": "ELEMENTAL -> ELEMENTAL",
+      "resolved_name": "ELEMENTAL",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "FIRETOWN": {
+      "description": "FIRETOWN -> FIRETOWN",
+      "resolved_name": "FIRETOWN",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

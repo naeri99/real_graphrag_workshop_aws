@@ -1,0 +1,23 @@
+{
+  "entity": {
+    "name": "콜먼 리스",
+    "synonym": [
+      "Coleman",
+      "Coleman Reese",
+      "Mr. Reese",
+      "Reese",
+      "고발자",
+      "리스",
+      "콜맨 리스",
+      "콜맨리스",
+      "콜먼",
+      "콜먼 리스",
+      "콜먼 리즈",
+      "콜먼리스"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "콜먼 리스은 영화 '다크나이트'의 등장인물로, 조슈아 하토이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

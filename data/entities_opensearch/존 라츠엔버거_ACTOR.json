@@ -1,0 +1,24 @@
+{
+  "entity": {
+    "name": "존 라츠엔버거",
+    "synonym": [
+      "John",
+      "John Logan",
+      "John Ratzenberger",
+      "라츠엔버거",
+      "로건",
+      "존",
+      "존 라젠버거",
+      "존 라첸버거",
+      "존 라츠엔버거",
+      "존 로간",
+      "존라츠엔버거",
+      "존로간",
+      "존로건"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "존 라츠엔버거은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

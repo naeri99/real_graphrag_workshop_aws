@@ -1,0 +1,80 @@
+{
+  "chunk_hash": "623453bca1296e",
+  "chunk_id": "FriezZaddy_623453bca1296e_5949ebaa",
+  "user_query": "So they're leaving now. They're out there. Well, they're finally, well, the thing is, they're not out there at a checkpoint, but they changed the plates because they know they're looking for a Seoul taxi and a foreigner. So now they told, like, yeah, he had to get special things. And then they're out there and then the guy was like, let me check everything. He hid the film very good. He was looking right there. And then he's like, open the trunk. He found the soldier, found the plates, the other plates. It's a gang, no, they do like, yeah, oh, wait, let him go. He's like, no, let me go. Like, wow, like, eat, like, either sense of morale or just, oh yeah, me like, I'm not gonna, no, I'm not killing white people. And the next thing out, they get a call, don't let anybody pass.",
+  "movie_id": "택시운전사",
+  "reviewer": "FriezZaddy",
+  "chunk_index": 12,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "SEOUL TAXI",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "서울 택시 운전사로, 외국인과 함께 검문소를 통과하려 하며 번호판을 교체한 인물"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "FOREIGNER",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "외국인으로, 택시 운전사와 함께 이동하며 필름을 숨기고 있는 인물"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "SOLDIER",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "검문소에서 차량을 검사하는 군인으로, 트렁크에서 다른 번호판을 발견한 인물"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "SEOUL TAXI",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "FOREIGNER",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "서울 택시 운전사가 외국인을 태우고 함께 이동하고 있다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "SOLDIER",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "SEOUL TAXI",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "군인이 택시를 검문하고 트렁크에서 번호판을 발견했다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "SOLDIER",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "FOREIGNER",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "군인이 외국인을 검문했으나 통과시켜 주었다",
+      "relationship_strength": 7
+    }
+  ],
+  "entity_resolution": {
+    "SEOUL TAXI": {
+      "description": "SEOUL TAXI -> SEOUL TAXI",
+      "resolved_name": "SEOUL TAXI",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "FOREIGNER": {
+      "description": "FOREIGNER -> FOREIGNER",
+      "resolved_name": "FOREIGNER",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "SOLDIER": {
+      "description": "SOLDIER -> SOLDIER",
+      "resolved_name": "SOLDIER",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "chunk_hash": "7a90de398047b8",
+  "chunk_id": "레몽_7a90de398047b8_fddfcac4",
+  "user_query": "6. 가지 말라면 안 갈 거야. 어차피 갈 거잖아. 그렇게 으 내 인생의 전부였던 그녀가 woo 결혼을 합니다. 으 영화 너의 결혼식. 지금 아직도 생각이 많이 나는 영화입니다. 그날 극장 전체가 다 커플이었는데 정말 혼자서 봤을 때 당시 영화를 보면서 또 우리의 인연이라는 노래가 정말 많이 생각이 났는데요. 노래 가사를 그대로 영화로 옮긴 것 같은 기분이 들었습니다. 세 번의 우연의 만남. 소 같지만 다른 첫사랑을 느낄 수 있는 영화. 처음엔 순수 있고 두 번째는 서둘러 쓰며 세 번째는 현실에 부딪힐 수밖에 없었다. 그때의 향수를 느낄 수 있는 영화. 첫사랑이라는 단어 그대로인 영화 너의 결혼식입니다. 저도 빨리 사랑하고 싶네요.",
+  "movie_id": "피끓는 청춘",
+  "reviewer": "레몽",
+  "chunk_index": 5,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "너의 결혼식",
+      "entity_type": "MOVIE",
+      "entity_description": "너의 결혼식은 첫사랑을 주제로 한 영화로, 세 번의 우연한 만남을 통해 순수한 첫사랑부터 현실에 부딪히는 과정까지를 그린 로맨스 영화이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "우리의 인연",
+      "entity_type": "MOVIE",
+      "entity_description": "우리의 인연은 너의 결혼식 영화와 연관된 노래로, 영화의 내용과 가사가 유사하다고 언급된 곡이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "우리의 인연",
+      "source_type": "MOVIE",
+      "target_entity": "너의 결혼식",
+      "target_type": "MOVIE",
+      "relationship_description": "우리의 인연 노래의 가사가 너의 결혼식 영화의 내용과 유사하다고 리뷰어가 느꼈다",
+      "relationship_strength": 6
+    }
+  ],
+  "entity_resolution": {
+    "너의 결혼식": {
+      "description": "너의 결혼식 -> 너의 결혼식",
+      "resolved_name": "너의 결혼식",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "우리의 인연": {
+      "description": "우리의 인연 -> 우리의 인연",
+      "resolved_name": "우리의 인연",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

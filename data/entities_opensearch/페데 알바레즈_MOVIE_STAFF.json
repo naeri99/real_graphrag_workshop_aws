@@ -1,0 +1,24 @@
+{
+  "entity": {
+    "name": "페데 알바레즈",
+    "synonym": [
+      "Fede",
+      "Fede Alvarez",
+      "Fede Álvarez",
+      "감독",
+      "알바레즈",
+      "알바레즈 감독",
+      "페데",
+      "페데 알바레스",
+      "페데 알바레즈",
+      "페데 알바레즈 감독",
+      "페데리코 알바레즈",
+      "페데알바레스",
+      "페데알바레즈"
+    ],
+    "entity_type": "MOVIE_STAFF",
+    "summary": "페데 알바레즈은 영화 감독입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

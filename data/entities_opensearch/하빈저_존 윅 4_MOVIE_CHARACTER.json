@@ -1,0 +1,18 @@
+{
+  "entity": {
+    "name": "하빈저",
+    "synonym": [
+      "Harbinger",
+      "The Harbinger",
+      "심판관",
+      "전령",
+      "하빈저",
+      "하빈저 캐릭터",
+      "하빈져"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "하빈저은 영화 '존 윅 4'의 등장인물로, 클랜시 브라운이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

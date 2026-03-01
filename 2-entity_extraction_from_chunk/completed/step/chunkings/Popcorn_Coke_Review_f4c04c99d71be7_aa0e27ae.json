@@ -1,0 +1,102 @@
+{
+  "chunk_hash": "f4c04c99d71be7",
+  "chunk_id": "Popcorn_Coke_Review_f4c04c99d71be7_aa0e27ae",
+  "user_query": "seemed so passionate about him last night i also wanted to give you this hey it was really nice to meet you zach my number so maybe call next time put me i've been working my whole life for this please you don't trust your team or my playbook i'm not gonna quit cause that's not what leaders do you can throw but you cannot leave the pocket [Music] you hold on to my football okay what are you doing got us a ride you ever been [Music] [Music] he cheated on me when i was eight months pregnant with jess was zach born blind i got this he's breathing funny and he rushed to hospital where his brain was swelling and that keita make it through the night on his head in the tub because brad didn't praying and begging god to just he's my miracle he'd never walk he'd never talk and i can't get [Music] of this this is crazy this isn't going to work [Music] out with a future professional athlete it was better before you said that [Music] [Laughter] oh yeah mom so this is brenda and this is her son zach [Music] [Music] two kids that's no joke oh five thousand dollar signing bonus baby pretty great huh [Music] [Music] let's see what you got coach i just got here i don't know the playbook yet [Music] letting me go no no you're letting me go no i have been working for this my entire life if it were true you'd been ready to go in the field [Music] why don't we struggle together don't give [Music] this year i came home to iowa to start my own team and i want to build it around newest members of",
+  "movie_id": "아메리칸 언더독",
+  "reviewer": "Popcorn_Coke_Review",
+  "chunk_index": 2,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "ZACH",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "잭은 선천적으로 시각장애를 가진 인물로, 어린 시절 뇌가 부어오르는 위기를 겪었으나 기적적으로 살아남았다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "BRENDA",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "브렌다는 잭의 어머니로, 임신 8개월 때 남편에게 배신당했으며 아들의 생존을 위해 기도했던 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "BRAD",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "브래드는 브렌다의 전 남편으로, 브렌다가 임신 8개월일 때 바람을 피웠던 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "JESS",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "제스는 브렌다의 자녀 중 한 명으로 언급된다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "ZACH",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "BRENDA",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "잭은 브렌다의 아들이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "BRENDA",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "BRAD",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "브렌다와 브래드는 과거 부부 관계였으며 브래드가 바람을 피웠다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "BRENDA",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "JESS",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "브렌다는 제스의 어머니이다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "ZACH",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "JESS",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "잭과 제스는 형제자매 관계로 추정된다",
+      "relationship_strength": 6
+    }
+  ],
+  "entity_resolution": {
+    "ZACH": {
+      "description": "ZACH -> ZACH",
+      "resolved_name": "ZACH",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "BRENDA": {
+      "description": "BRENDA -> BRENDA",
+      "resolved_name": "BRENDA",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "BRAD": {
+      "description": "BRAD -> BRAD",
+      "resolved_name": "BRAD",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "JESS": {
+      "description": "JESS -> JESS",
+      "resolved_name": "JESS",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

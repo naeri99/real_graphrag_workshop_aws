@@ -1,0 +1,18 @@
+{
+  "entity": {
+    "name": "리터",
+    "synonym": [
+      "Ritter",
+      "리타",
+      "리터",
+      "리터르",
+      "리터이",
+      "리트",
+      "릿터"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "리터은 영화 '아가일'의 등장인물로, 브라이언 크랜스턴이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

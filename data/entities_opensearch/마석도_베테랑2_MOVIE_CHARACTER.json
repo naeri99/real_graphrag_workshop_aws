@@ -1,0 +1,23 @@
+{
+  "entity": {
+    "name": "마석도",
+    "synonym": [
+      "Ma Seok-do",
+      "Seok-do",
+      "괴물 형사",
+      "괴물형사",
+      "마 석도",
+      "마석 도",
+      "마석도",
+      "마석도 형사",
+      "마형사",
+      "석도",
+      "석도 형사",
+      "석도형"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "마석도은 영화 '베테랑2'의 등장인물로, 마동석이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

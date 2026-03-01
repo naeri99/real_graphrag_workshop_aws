@@ -1,0 +1,17 @@
+{
+  "entity": {
+    "name": "폴 베타니",
+    "synonym": [
+      "Paul Bettany",
+      "베타니",
+      "베터니",
+      "폴 베타니",
+      "폴 베터니",
+      "폴베타니"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "폴 베타니은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

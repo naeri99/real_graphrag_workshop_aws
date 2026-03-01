@@ -1,0 +1,18 @@
+{
+  "entity": {
+    "name": "빌 더피",
+    "synonym": [
+      "Bill",
+      "Bill Dooler",
+      "더피",
+      "빌",
+      "빌 더피",
+      "빌 두피",
+      "빌더피"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "빌 더피은 영화 '제리 맥과이어'의 등장인물로, 마크 펠링톤이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

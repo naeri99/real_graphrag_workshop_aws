@@ -1,0 +1,24 @@
+{
+  "entity": {
+    "name": "쿠퍼",
+    "synonym": [
+      "Coop",
+      "Cooper",
+      "Joseph Cooper",
+      "조셉 쿠퍼",
+      "조지프 쿠퍼",
+      "코퍼",
+      "쿠퍼",
+      "쿠퍼 박사",
+      "쿠퍼 선장",
+      "쿠퍼 아버지",
+      "쿠퍼 아빠",
+      "쿠퍼 파일럿",
+      "쿱"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "쿠퍼은 영화 '인터스텔라'의 등장인물로, 매튜 맥커너히이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

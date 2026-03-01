@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "벤자민 킴벌",
+    "synonym": [
+      "Benjamin",
+      "Benjamin Kimball",
+      "벤 킴벌",
+      "벤자민",
+      "벤자민 킴발",
+      "벤자민 킴벌",
+      "벤자민 킴볼",
+      "벤자민킴벌",
+      "벤자민킴볼",
+      "킴벌"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "벤자민 킴벌은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

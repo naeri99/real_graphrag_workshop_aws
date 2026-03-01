@@ -1,0 +1,133 @@
+{
+  "chunk_hash": "40ced1d97cf41e",
+  "chunk_id": "트루별_40ced1d97cf41e_d450db6a",
+  "user_query": "열고 시민들에게 정말 조커의 협박에 따라 배트맨이 자수한 것이 옳은 것인지 묻지만 시민들은 배트맨이 자수해야 한다고 이야기합니다 결국 배트맨을 체포하라는 하비 덴트 브루스 웨인은 이 모든 것을 지켜보고 자수하려고 하지만 하비 덴트가 한발 앞서 자신을 배트맨이라며 체포당합니다 검거된 하비를 수송하던 차는 장애물에 막혀 지하 터널로 들어가게 되고 그를 없애려는 조커가 등장합니다 드디어 조커와 배트맨의 만남 하지만 가만히 서 있는 조커를 배트맨은 죽이지 못하고 피하고 맙니다 그럼 배트맨을 가지고 놀려고 하지만 뒤에서 나타나는 고든 그는 죽은 척 위장을 한 채 하비와 함께 조커를 잡기 위해 작전을 꾸민 것이었습니다 조커를 잡고 경찰청장이 되는 고든",
+  "movie_id": "다크나이트",
+  "reviewer": "트루별",
+  "chunk_index": 2,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "조커",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "조커는 배트맨에게 자수를 요구하며 협박하고, 하비 덴트를 수송하는 차량을 공격하는 악당 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "배트맨",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "배트맨은 조커의 협박을 받아 자수 압박을 받지만, 조커와 대면했을 때 그를 죽이지 못하고 피하는 영웅 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "하비 덴트",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "하비 덴트는 배트맨 대신 자신이 배트맨이라고 거짓 자수하여 체포당하고, 고든과 함께 조커를 잡기 위한 작전을 꾸민 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "브루스 웨인",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "브루스 웨인은 배트맨의 정체로, 자수하려 했으나 하비 덴트가 먼저 자수하는 것을 지켜본 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "고든",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "고든은 죽은 척 위장하여 하비와 함께 조커를 잡기 위한 작전을 꾸미고, 조커를 잡은 후 경찰청장이 되는 인물이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "배트맨",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "브루스 웨인",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "배트맨과 브루스 웨인은 동일 인물로, 브루스 웨인이 배트맨의 정체이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "조커",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "배트맨",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "조커는 배트맨에게 자수를 요구하며 협박하고, 둘은 대면하여 대결한다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "조커",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "하비 덴트",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "조커는 배트맨으로 위장한 하비 덴트를 수송하는 차량을 공격하여 그를 없애려 한다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "하비 덴트",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "고든",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "하비 덴트와 고든은 함께 조커를 잡기 위한 작전을 꾸민 협력 관계이다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "고든",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "조커",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "고든은 죽은 척 위장한 후 조커를 체포한다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "하비 덴트",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "배트맨",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "하비 덴트는 배트맨을 보호하기 위해 자신이 배트맨이라고 거짓 자수한다",
+      "relationship_strength": 9
+    }
+  ],
+  "entity_resolution": {
+    "조커": {
+      "description": "조커 -> 조커",
+      "resolved_name": "조커",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "배트맨": {
+      "description": "배트맨 -> 브루스 웨인 / 배트맨",
+      "resolved_name": "브루스 웨인 / 배트맨",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "하비 덴트": {
+      "description": "하비 덴트 -> Harvey Dent / Two-Face",
+      "resolved_name": "Harvey Dent / Two-Face",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "브루스 웨인": {
+      "description": "브루스 웨인 -> 브루스 웨인 / 배트맨",
+      "resolved_name": "브루스 웨인 / 배트맨",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "고든": {
+      "description": "고든 -> 바바라 고든",
+      "resolved_name": "바바라 고든",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    }
+  }
+}

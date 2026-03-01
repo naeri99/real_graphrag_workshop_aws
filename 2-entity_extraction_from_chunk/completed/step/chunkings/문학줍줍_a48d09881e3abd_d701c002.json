@@ -1,0 +1,278 @@
+{
+  "chunk_hash": "a48d09881e3abd",
+  "chunk_id": "문학줍줍_a48d09881e3abd_d701c002",
+  "user_query": "안녕하세요 그렇죠 점 입니다 오늘 여러분의 손에 초대를 작품은 죽은 시인의 사회 입니다 죽은 시인의 사회 는 영화가 먼저 나왔고 수 30 영화를 소설 하에서 나왔습니다 대개 영화들이 소설을 원작으로 하는 것과는 다르죠 따라서 이 작품의 작가는 영화의 시나리오를 쓴 톰 슐먼 이라고 할 수 있습니다 톰 슐먼 은 이 작품으로 1990년 이후 아카데미 시상식에서 각본상을 받기도 했죠 1989년에 개봉된 죽은 시인의 사회는 피터 위어 감독이 연출한 영화 입니다 1950년대 보수적인 남자 사립 고등학교를 배경으로 존 키팅 선생 과 학생들의 이야기를 그리고 있죠 죽은 시인의 사회 는 작품 속에서 학생들이 구성한 커뮤니티입니다 학생들은 이 모임에서 어설프지만 자기들의 이야기를 글로 써서 함께 공유하는 활동을 하게 되는데요 그러면서 지금까지 부모와 사회가 원하는 대로만 살아왔던 것에서 벗어나 새로운 삶을 살아가고자 합니다 이 작품에서 가장 유명한 장면은 아마도 키팅 을 떠나 보내는 학생들이 책상 위로 하나둘씩 올라가는 마지막 장면 일텐데요 지금의 관점에서 다시 오글거리게 느껴질 수도 있지만 영화사에서 큰 감동으로 썼던 장면으로 꼽히고 있죠 이 작품에 등장하는 주요 인물들을 소개해 드리도록 하겠습니다 이 소설에서 가장 중요한 역할을 하는 인물은 존 키팅 이라는 이름의 영어 교사 입니다 미국은 영어와 모국어니까 국어 선생이라고 할 수 있겠죠 존 키팅 의 가르침을 받는 아이들이 실상 주인공들이 인데요 토드 앤더슨과 닐 페리 Charlie Dalton과 Knox Overstreet 등이 그들이죠 이들 중 Knox 는 크리스 한 여학생을 좋아하게 되고 두 사람은 결국 사귀는 사이가 됩니다 그 외에도 많은 등장인물들이 있는데요 이들이 작품의 주요 등장인물들이 라고 할 수 있습니다 이 작품의 주요 줄거리 를 소개하도록 하겠습니다 이 소설은 웰튼 아카데미 라는 사립 고등학교를 배경으로 하고 있는데 이 학교가 얼마나 명문 인가하면 졸업생의 70% 이상을 동부의 아이비리그 대학에 진학시킬 정도였습니다 소설은 웰튼 아카데미 입학식 으로 시작하는데 이를 자랑스러워하는 교장과 교직원 학부모 학생들의 모습을 보여줍니다 토드 앤더슨 이란 학생은 2학년 으로서 웰튼 아카데미에 전학을 왔는데 그의 형은 이 학교를 상당히 우수한 성적으로 졸업했었죠 토드 등 2학년 학생 7명은 신입생들의 교장 면담에 앞서 면담을 하는데 신입생 며칠 전에 2학년 중 우등생 7명과 면담하는 것은 이 학교의 전통이었습니다 교장은 학생들의 클럽활동 까지 관여하여 개개인이 활동할 클럽 까지 지명 해주는데 토드는 활동하고 싶은 클럽이 따로 있었지만 어쩔 수 없이 따라야 했죠 토드는 닐 페리 란 친구와 함께 기숙사 방을 쓰게 되었는데 닐은 Knox Charlie 믹스 Cameron 등과 우등생 무리를 이루어 지내고 있었습니다 닐은 다소 내성적인 토드의 학교 적응을 돕기 위해 적극적으로 곁을 지키고 자신의 친구 그룹에 끌어들이기 시작하죠 한편 토드와 마찬가지로 닐은 자기 아버지 Mr. Perry 에게 꽉 잡혀 살면서",
+  "movie_id": "죽은 시인의 사회",
+  "reviewer": "문학줍줍",
+  "chunk_index": 1,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "죽은 시인의 사회",
+      "entity_type": "MOVIE",
+      "entity_description": "죽은 시인의 사회는 1989년에 개봉된 영화로, 1950년대 보수적인 남자 사립 고등학교를 배경으로 존 키팅 선생과 학생들의 이야기를 그린 작품이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "톰 슐먼",
+      "entity_type": "MOVIE_STAFF",
+      "entity_description": "톰 슐먼은 죽은 시인의 사회의 시나리오를 쓴 각본가로, 1990년 아카데미 시상식에서 각본상을 수상했다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "피터 위어",
+      "entity_type": "MOVIE_STAFF",
+      "entity_description": "피터 위어는 죽은 시인의 사회를 연출한 감독이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "존 키팅",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "존 키팅은 웰튼 아카데미의 영어 교사로, 학생들에게 새로운 삶의 방식을 가르치는 가장 중요한 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "토드 앤더슨",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "토드 앤더슨은 웰튼 아카데미에 전학 온 2학년 학생으로, 다소 내성적인 성격을 가지고 있으며 형이 이 학교를 우수한 성적으로 졸업했다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "닐 페리",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "닐 페리는 토드와 기숙사 방을 함께 쓰는 친구로, 우등생 무리를 이끌며 내성적인 토드의 학교 적응을 돕는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "CHARLIE DALTON",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Charlie Dalton은 닐의 친구 그룹에 속한 학생이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "KNOX OVERSTREET",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Knox Overstreet는 닐의 친구 그룹에 속한 학생으로, 크리스라는 여학생을 좋아하게 되어 사귀는 사이가 된다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "크리스",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "크리스는 Knox가 좋아하게 된 여학생으로, 결국 Knox와 사귀는 사이가 된다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "CAMERON",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Cameron은 닐의 우등생 친구 그룹에 속한 학생이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "MR. PERRY",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Mr. Perry는 닐 페리의 아버지로, 닐을 엄격하게 통제하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "웰튼 아카데미",
+      "entity_type": "MOVIE",
+      "entity_description": "웰튼 아카데미는 죽은 시인의 사회의 배경이 되는 명문 사립 고등학교로, 졸업생의 70% 이상이 아이비리그 대학에 진학한다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "톰 슐먼",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "죽은 시인의 사회",
+      "target_type": "MOVIE",
+      "relationship_description": "톰 슐먼은 죽은 시인의 사회의 시나리오를 집필했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "피터 위어",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "죽은 시인의 사회",
+      "target_type": "MOVIE",
+      "relationship_description": "피터 위어는 죽은 시인의 사회를 연출한 감독이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "존 키팅",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "죽은 시인의 사회",
+      "target_type": "MOVIE",
+      "relationship_description": "존 키팅은 죽은 시인의 사회의 핵심 인물인 영어 교사이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "토드 앤더슨",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "죽은 시인의 사회",
+      "target_type": "MOVIE",
+      "relationship_description": "토드 앤더슨은 죽은 시인의 사회의 주요 등장인물이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "닐 페리",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "죽은 시인의 사회",
+      "target_type": "MOVIE",
+      "relationship_description": "닐 페리는 죽은 시인의 사회의 주요 등장인물이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "토드 앤더슨",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "닐 페리",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "토드와 닐은 기숙사 방을 함께 쓰는 친구 사이이다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "닐 페리",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "토드 앤더슨",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "닐은 내성적인 토드의 학교 적응을 돕고 자신의 친구 그룹에 끌어들인다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "KNOX OVERSTREET",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "크리스",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Knox는 크리스를 좋아하게 되어 결국 사귀는 사이가 된다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "닐 페리",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "MR. PERRY",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Mr. Perry는 닐의 아버지로 닐을 엄격하게 통제한다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "닐 페리",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "CHARLIE DALTON",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Charlie Dalton은 닐의 우등생 친구 그룹에 속해 있다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "닐 페리",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "KNOX OVERSTREET",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Knox는 닐의 우등생 친구 그룹에 속해 있다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "닐 페리",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "CAMERON",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Cameron은 닐의 우등생 친구 그룹에 속해 있다",
+      "relationship_strength": 7
+    }
+  ],
+  "entity_resolution": {
+    "죽은 시인의 사회": {
+      "description": "죽은 시인의 사회 -> 죽은 시인의 사회",
+      "resolved_name": "죽은 시인의 사회",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "톰 슐먼": {
+      "description": "톰 슐먼 -> 톰 슐먼",
+      "resolved_name": "톰 슐먼",
+      "entity_type": "MOVIE_STAFF",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "피터 위어": {
+      "description": "피터 위어 -> 피터 위어",
+      "resolved_name": "피터 위어",
+      "entity_type": "MOVIE_STAFF",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "존 키팅": {
+      "description": "존 키팅 -> 존 키팅",
+      "resolved_name": "존 키팅",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "토드 앤더슨": {
+      "description": "토드 앤더슨 -> 토드 앤더슨",
+      "resolved_name": "토드 앤더슨",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "닐 페리": {
+      "description": "닐 페리 -> 닐 페리",
+      "resolved_name": "닐 페리",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "CHARLIE DALTON": {
+      "description": "CHARLIE DALTON -> CHARLIE DALTON",
+      "resolved_name": "CHARLIE DALTON",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "KNOX OVERSTREET": {
+      "description": "KNOX OVERSTREET -> KNOX OVERSTREET",
+      "resolved_name": "KNOX OVERSTREET",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "크리스": {
+      "description": "크리스 -> 크리스",
+      "resolved_name": "크리스",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "CAMERON": {
+      "description": "CAMERON -> CAMERON",
+      "resolved_name": "CAMERON",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "MR. PERRY": {
+      "description": "MR. PERRY -> MR. PERRY",
+      "resolved_name": "MR. PERRY",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "웰튼 아카데미": {
+      "description": "웰튼 아카데미 -> 웰튼 아카데미",
+      "resolved_name": "웰튼 아카데미",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

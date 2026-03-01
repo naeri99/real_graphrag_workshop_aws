@@ -1,0 +1,25 @@
+{
+  "entity": {
+    "name": "Samantha Andrews",
+    "synonym": [
+      "Sam",
+      "Samantha",
+      "Samantha Andrews",
+      "사만다",
+      "사만다 앤드류스",
+      "사만다앤드류스",
+      "사만사",
+      "사만사 앤드류스",
+      "사맨다",
+      "사맨사",
+      "샘",
+      "샘 앤드류스",
+      "샘앤드류스",
+      "앤드류스"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "Samantha Andrews은 영화 '이프 온리'의 등장인물로, 제니퍼 러브 휴잇이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

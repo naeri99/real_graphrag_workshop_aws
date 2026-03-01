@@ -1,0 +1,18 @@
+{
+  "entity": {
+    "name": "킬라",
+    "synonym": [
+      "Killa",
+      "Killa Harkan",
+      "키라",
+      "킬라",
+      "킬라 캐릭터",
+      "킬라 하칸",
+      "킬러"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "킬라은 영화 '존 윅 4'의 등장인물로, 스콧 애드킨스이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

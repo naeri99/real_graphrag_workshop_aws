@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "카렌 코왈스키",
+    "synonym": [
+      "Karen",
+      "Karen Kowalski",
+      "카렌",
+      "카렌 코발스키",
+      "카렌 코왈스키",
+      "카렌 코월스키",
+      "카렌코왈스키",
+      "캐런 코왈스키",
+      "코왈스키"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "카렌 코왈스키은 영화 '그랜 토리노'의 등장인물로, 제랄딘 휴즈이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

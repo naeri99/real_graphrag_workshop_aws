@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "존 찰스 아귈라",
+    "synonym": [
+      "John Aguilar",
+      "John Charles Aguilar",
+      "아귈라",
+      "존 아귈라",
+      "존 아길라",
+      "존 찰스",
+      "존 찰스 아귈라",
+      "존 찰스 아길라",
+      "존찰스아귈라",
+      "찰스 아귈라",
+      "호세 찰스 아귈라"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "존 찰스 아귈라은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

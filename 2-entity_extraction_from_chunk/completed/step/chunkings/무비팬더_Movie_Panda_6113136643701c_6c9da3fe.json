@@ -1,0 +1,216 @@
+{
+  "chunk_hash": "6113136643701c",
+  "chunk_id": "무비팬더_Movie_Panda_6113136643701c_6c9da3fe",
+  "user_query": "등장시키지 말 것을 권유합니다 결국 칼 세이건의 조언대로 이 영화에서 외계인의 존재는 암시할 뿐 직접적인 묘사는 되지 않습니다 이 점은 훗날 칼 세이건의 소설을 영화로 만든 콘택트에서도 동일하게 연출됩니다 여기서도 워프홀을 통과해서 외계인을 만나러 가지만 외계인의 모습은 구현하지 않습니다 인터스텔라도 마찬가지입니다 인터스텔라에서도 워프홀을 통과해서 항성 간 여행을 하지만 외계인의 모습은 등장하지 않습니다 아직 흥철 없는 흥철 품처럼 외계인 없는 외계인 영화라고도 할 수 있죠 보우먼이 늙어서 사망하게 되자 외계인들은 그를 다시 스타 차일드로 태어나게 합니다 이 방 안에 생긴 모노리스도 스타게이트 역할을 하는데 이 스타게이트를 통해서 외계인 행성에서 지구로 순식간에 도착하게 되면서 스타 차일드가 지구를 바라보며 이 영화는 끝나게 됩니다 사실 아서 클라크는 스타 차일드가 지구의 핵무기를 터트리면서 끝이 나는 아이디어를 제시했으나 스탠리 큐브릭의 다른 작품과 동일한 엔딩이라서 그 장면은 빠지게 됩니다 이 정도 설명이면 이제 이 영화가 무엇을 표현하고자 했는지 이해하실 수 있으실 겁니다 이 영화를 한마디로 요약하자면 오디세이의 서사 구조를 가져와 니체 철학을 형상화한 작품이라고 할 수 있습니다 스페이스 오디세이나 에반게리온처럼 무엇을 얘기하고자 하는 것인지 알기 힘든 불친절한 작품들에 대해서 불만들이 많으실 겁니다 저도 예전에 그랬고요 그런데 노래도 가사가 있는 대중음악이 있고 가사가 없는 클래식 음악이 있죠 클래식 음악이 어려운 이유 중 하나가 이 곡은 어떤 배경을 가지고 무엇을 표현하고자 한 건지 따로 설명을 듣지 않고서는 알기가 쉽지 않습니다 그림도 마찬가지로 구상화를 보면 무엇을 표현하고자 한 건지 누구나 쉽게 알 수 있습니다 그치만 피카소의 추상화를 보면 5살 조카 애들이라도 이것보다는 잘 그리겠다라는 생각이 들기 마련이죠 하지만 피카소가 18살 때 그린 그림을 보면 구상화로 이미 만렙을 찍었습니다 우연히 피카소의 전시회를 보았다가 피카소의 구상화 실력을 보고 충격을 받은 적이 있었습니다 스페이스 오디세이나 에반게리온은 가사가 없는 클래식 음악이나 피카소의 추상화와 비슷하다고 저는 생각합니다 영화 2010 스페이스 오디세이에서는 그토록 갈망하던 대사와 설명이 엄청 넘쳐납니다만 대사가 너무 많이 나와서 아침 드라마를 보는 느낌이었습니다 영화라는 것이 대사가 꼭 많다고 해서 친절하거나 이해하기 쉬워지는 것이 아니더라고요 이 영화에는 당시 누구도 보여주지 못했던 기술들이 대거 등장하였습니다 무중력 상태에서 걸을 수 있게 벨크로로 된 그립 슈즈도 보여주고 무중력임을 보여주기 위해 볼펜이 허공을 떠다니는 장면이 나오게 됩니다 사실 CG가 없던 1968년에 이 장면을 어떻게 찍었는지 저는 너무 궁금했었는데 이 장면은 유리창에 볼펜을 양면테이프로 붙인 후 유리판을 움직이는 상태에서 볼펜을 떼어내는 방식으로 촬영했습니다 참 아이디어가 기가 막히죠 스탠리 큐브릭의 천재성을 볼 수 있는 장면 중 하나입니다 그리고 우주선의 이 컴퓨터그래픽 같은 장면들은",
+  "movie_id": "2001 스페이스 오디세이",
+  "reviewer": "무비팬더_Movie_Panda",
+  "chunk_index": 7,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "칼 세이건",
+      "entity_type": "MOVIE_STAFF",
+      "entity_description": "칼 세이건은 과학자이자 작가로, 영화 제작에 조언을 제공하고 콘택트의 원작 소설을 쓴 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "콘택트",
+      "entity_type": "MOVIE",
+      "entity_description": "콘택트는 칼 세이건의 소설을 원작으로 한 영화로, 워프홀을 통해 외계인을 만나러 가지만 외계인의 모습은 직접 구현하지 않는다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "인터스텔라",
+      "entity_type": "MOVIE",
+      "entity_description": "인터스텔라는 워프홀을 통해 항성 간 여행을 하지만 외계인의 모습이 등장하지 않는 영화이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "2001 스페이스 오디세이",
+      "entity_type": "MOVIE",
+      "entity_description": "2001 스페이스 오디세이는 오디세이의 서사 구조를 가져와 니체 철학을 형상화한 작품으로, 외계인의 존재를 암시하지만 직접적인 묘사는 하지 않는 영화이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "보우먼",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "보우먼은 2001 스페이스 오디세이의 등장인물로, 늙어서 사망한 후 외계인들에 의해 스타 차일드로 다시 태어나는 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "스타 차일드",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "스타 차일드는 보우먼이 다시 태어난 존재로, 영화 마지막에 지구를 바라보는 장면으로 등장한다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "아서 클라크",
+      "entity_type": "MOVIE_STAFF",
+      "entity_description": "아서 클라크는 2001 스페이스 오디세이의 원작자로, 스타 차일드가 지구의 핵무기를 터트리는 엔딩 아이디어를 제시했다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "스탠리 큐브릭",
+      "entity_type": "MOVIE_STAFF",
+      "entity_description": "스탠리 큐브릭은 2001 스페이스 오디세이의 감독으로, 천재적인 촬영 기법을 사용하여 CG 없이 무중력 장면 등을 구현했다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "2010 스페이스 오디세이",
+      "entity_type": "MOVIE",
+      "entity_description": "2010 스페이스 오디세이는 2001 스페이스 오디세이의 후속작으로, 대사와 설명이 많이 나오는 영화이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "에반게리온",
+      "entity_type": "MOVIE",
+      "entity_description": "에반게리온은 무엇을 표현하고자 하는지 알기 힘든 불친절한 작품으로 언급된 작품이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "칼 세이건",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "콘택트",
+      "target_type": "MOVIE",
+      "relationship_description": "칼 세이건은 콘택트의 원작 소설을 썼다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "칼 세이건",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "2001 스페이스 오디세이",
+      "target_type": "MOVIE",
+      "relationship_description": "칼 세이건은 2001 스페이스 오디세이 제작에 외계인 묘사에 대한 조언을 제공했다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "보우먼",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "2001 스페이스 오디세이",
+      "target_type": "MOVIE",
+      "relationship_description": "보우먼은 2001 스페이스 오디세이의 주요 등장인물이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "스타 차일드",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "2001 스페이스 오디세이",
+      "target_type": "MOVIE",
+      "relationship_description": "스타 차일드는 2001 스페이스 오디세이의 마지막에 등장하는 캐릭터이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "보우먼",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "스타 차일드",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "보우먼은 사망 후 스타 차일드로 다시 태어난다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "아서 클라크",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "2001 스페이스 오디세이",
+      "target_type": "MOVIE",
+      "relationship_description": "아서 클라크는 2001 스페이스 오디세이의 원작자이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "스탠리 큐브릭",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "2001 스페이스 오디세이",
+      "target_type": "MOVIE",
+      "relationship_description": "스탠리 큐브릭은 2001 스페이스 오디세이를 감독했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "2010 스페이스 오디세이",
+      "source_type": "MOVIE",
+      "target_entity": "2001 스페이스 오디세이",
+      "target_type": "MOVIE",
+      "relationship_description": "2010 스페이스 오디세이는 2001 스페이스 오디세이의 후속작이다",
+      "relationship_strength": 9
+    }
+  ],
+  "entity_resolution": {
+    "칼 세이건": {
+      "description": "칼 세이건 -> 칼 세이건",
+      "resolved_name": "칼 세이건",
+      "entity_type": "MOVIE_STAFF",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "콘택트": {
+      "description": "콘택트 -> 콘택트",
+      "resolved_name": "콘택트",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "인터스텔라": {
+      "description": "인터스텔라 -> 인터스텔라",
+      "resolved_name": "인터스텔라",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "2001 스페이스 오디세이": {
+      "description": "2001 스페이스 오디세이 -> 2001 스페이스 오디세이",
+      "resolved_name": "2001 스페이스 오디세이",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "보우먼": {
+      "description": "보우먼 -> 데이비드 보우먼 박사",
+      "resolved_name": "데이비드 보우먼 박사",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "스타 차일드": {
+      "description": "스타 차일드 -> 스타 차일드",
+      "resolved_name": "스타 차일드",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "아서 클라크": {
+      "description": "아서 클라크 -> 아서 클라크",
+      "resolved_name": "아서 클라크",
+      "entity_type": "MOVIE_STAFF",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "스탠리 큐브릭": {
+      "description": "스탠리 큐브릭 -> 스탠리 큐브릭",
+      "resolved_name": "스탠리 큐브릭",
+      "entity_type": "MOVIE_STAFF",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "2010 스페이스 오디세이": {
+      "description": "2010 스페이스 오디세이 -> 2010 스페이스 오디세이",
+      "resolved_name": "2010 스페이스 오디세이",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "에반게리온": {
+      "description": "에반게리온 -> 에반게리온",
+      "resolved_name": "에반게리온",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

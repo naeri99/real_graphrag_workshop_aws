@@ -1,0 +1,17 @@
+{
+  "entity": {
+    "name": "셰일라",
+    "synonym": [
+      "Sheila",
+      "샤일라",
+      "세일라",
+      "셰일라",
+      "쉐일라",
+      "쉴라"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "셰일라은 영화 '제리 맥과이어'의 등장인물로, 켈리 코필드이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

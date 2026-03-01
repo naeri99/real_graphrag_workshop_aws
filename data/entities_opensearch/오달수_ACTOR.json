@@ -1,0 +1,27 @@
+{
+  "entity": {
+    "name": "오달수",
+    "synonym": [
+      "Dal-su Oh",
+      "Oh Dal Su",
+      "Oh Dal-su",
+      "Oh Dalsu",
+      "달수",
+      "달수씨",
+      "오 달수",
+      "오달 수",
+      "오달수",
+      "오달수 배우",
+      "오달수 씨",
+      "오달수 아저씨",
+      "오달수배우",
+      "오달수씨",
+      "오달스",
+      "오달쑤"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "오달수은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

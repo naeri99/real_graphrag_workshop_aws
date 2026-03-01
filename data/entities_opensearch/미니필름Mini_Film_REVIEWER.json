@@ -1,0 +1,13 @@
+{
+  "entity": {
+    "name": "미니필름Mini_Film",
+    "synonym": [
+      "미니필름Mini_Film",
+      "미니필름Mini Film"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "미니필름Mini_Film은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

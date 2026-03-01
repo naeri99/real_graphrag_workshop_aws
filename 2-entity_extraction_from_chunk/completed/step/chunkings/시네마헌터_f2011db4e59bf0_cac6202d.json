@@ -1,0 +1,221 @@
+{
+  "chunk_hash": "f2011db4e59bf0",
+  "chunk_id": "시네마헌터_f2011db4e59bf0_cac6202d",
+  "user_query": "로마의 누미디아 침략이 임박해오자 주인공 루시우스와 그의 아내 아리샤트도 전쟁에 투입되는데 로마군의 리더 아카시우스 장군은 전쟁마다 승리를 이끌며 로마 제국을 확장시키고 있었죠 로마군이 근접하자 누미디아는 총공세를 펼치기 시작합니다 [음악] 누미디아 초군 접한 로마군은 해안 상륙을 준비했고 아카시우스 장군을 막을 자는 아무도 없었죠 [음악] 루시우스와 누미디아 군대는 열심히 맞서 싸웠지만 [박수] [음악] 역부족이었고 누미디아 수장이었던 하노의 앞에 아리샤트는 결국 적군의 활에 [음악] 쓰러집니다 루시우스가 정신을 찾았을 때는 이미 로마군의 승리로 모든 것이 [음악] 끝났죠 하노를 비롯한 누미디아인들은 전쟁에 패한 대가로 노예가 되어 끌려갑니다 [음악] [음악] 전쟁에서 돌아온 아카시우스 장군은 로마의 폭군 쌍둥이 황제를 만나는데 [박수] [음악] 쌍둥이 황제는 아카시우스 장군을 위해 검투사 경기를 연다고 했죠 한편 노예가 된 하노와 누미디아인들은 대중들의 오락거리가 되는데 [음악] 검투사 상인 마크리누스는 원숭이와 싸우는 하노의 모습을 인상깊게 보고 그를 사들입니다 하노를 데려온 마크리누스는 그에게 싸움을 시켜보는데 검투사의 소질을 알아본 마크리누스는 그를 키워보기로 [음악] 결심했죠 아카시우스를 죽이는 것을 위해 싸우겠다는 거래를 [박수] 합니다 그런데 아카시우스 장군은 쌍둥이 황제의 폭정과 야욕에 지쳐 쿠데타를 계획하고 있었죠 한편 마크리누스는 본격적으로 하노를 이용해 돈을 벌 준비를 했고 하노는 쌍둥이 황제와 귀족들이 모인 자리에서 신고식을 치르게 됩니다 예상과 달리 맹수와의 싸움에 긴장한 마크리누스 [음악] 하지만 하노는 그를 절대 실망시키지 않았죠 아카시우스 장군의 아내 루실라는 선황제 아우렐리우스의 딸로서 존경을 받고 있었는데 경기 마지막 날 장군에게 충성하는 5천명의 군사가 쿠데타를 일으킬 것임을 원로원에 [음악] 알렸죠 경기 첫날 검투사로 출전하기 위해 콜로세움에 입성한 하노[박수]는 동료 검투사들과 함께 경기장에 들어섭니다 [음악] 이번에 그들이 맞서 싸워야 할 상대는 검투사가 아닌 맹수였죠 [박수] [음악] 그때 경기장에선 하노의 모습을 본 루실라가 기억 속 누군가를 떠올립니다 [음악] [박수] [박수] 결국 이번에도 싸움의 승리는 하노에게 돌아갔죠 한편 집으로 돌아온 루실라는 경기장에서 본 하노의 모습에서 막시무스를 떠올리는데 그는 아우렐리우스 황제 시절 로마의 장군이었다가 노예가 되어 검투사로 이름을 떨친 인물이었고 루실라의 전 연인이자 그녀의 아들 루시우스의 친아버지였습니다 그리고 하노가 바로 루실라와 막시무스의 아들 루시우스였죠 루실라는 막시무스가 죽자 아들의 안전을 위해 루시우스를 멀리 떠나보냈던 것이었습니다 [음악] 루실라는 곧바로 루시우스를 만나러 갔지만 그의 반응은 냉담하기만 했죠 루실라에게 거짓말을 지어냈지만 그에게는 아무 상관 없습니다라는 거였죠 아카시우스 사형이 경기 마지막 날 죽임을 당할 운명인 루시우스를 살려달라고 애원했죠 그런데 이 사실을 루실라의 하인이 엿듣고 있었습니다 한편 루시우스는 다음",
+  "movie_id": "글래디에이터 2",
+  "reviewer": "시네마헌터",
+  "chunk_index": 1,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "루시우스",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "루시우스는 누미디아에서 살다가 로마군에 패배하여 노예가 된 후 검투사가 된 인물로, 루실라와 막시무스의 아들이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "아리샤트",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "아리샤트는 루시우스의 아내로 누미디아 전쟁 중 적군의 화살에 쓰러진 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "아카시우스",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "아카시우스는 로마군의 장군으로 전쟁마다 승리를 이끌며 로마 제국을 확장시켰으나 쌍둥이 황제의 폭정에 지쳐 쿠데타를 계획하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "하노",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "하노는 누미디아 수장으로 전쟁에 패한 후 노예가 되었으며, 루시우스가 사용하는 가명이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "마크리누스",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "마크리누스는 검투사 상인으로 하노(루시우스)의 검투사 소질을 알아보고 그를 사들여 키우는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "루실라",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "루실라는 선황제 아우렐리우스의 딸이자 아카시우스 장군의 아내로, 막시무스의 전 연인이며 루시우스의 친어머니이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "막시무스",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "막시무스는 아우렐리우스 황제 시절 로마의 장군이었다가 노예가 되어 검투사로 이름을 떨친 인물로, 루실라의 전 연인이자 루시우스의 친아버지이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "아우렐리우스",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "아우렐리우스는 선황제로 루실라의 아버지이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "쌍둥이 황제",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "쌍둥이 황제는 로마의 폭군으로 폭정과 야욕을 펼치는 인물들이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "루시우스",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "아리샤트",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "루시우스와 아리샤트는 부부 관계이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "루시우스",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "하노",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "하노는 루시우스가 노예가 된 후 사용하는 가명이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "루시우스",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "루실라",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "루시우스는 루실라의 아들이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "루시우스",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "막시무스",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "루시우스는 막시무스의 아들이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "루실라",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "막시무스",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "루실라와 막시무스는 전 연인 관계이다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "루실라",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "아카시우스",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "루실라는 아카시우스 장군의 아내이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "루실라",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "아우렐리우스",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "루실라는 아우렐리우스 황제의 딸이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "마크리누스",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "하노",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "마크리누스는 하노를 사들여 검투사로 키운다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "아카시우스",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "쌍둥이 황제",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "아카시우스는 쌍둥이 황제의 폭정에 지쳐 쿠데타를 계획한다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "하노",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "아카시우스",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "하노는 아카시우스를 죽이기 위해 싸우겠다는 거래를 한다",
+      "relationship_strength": 8
+    }
+  ],
+  "entity_resolution": {
+    "루시우스": {
+      "description": "루시우스 -> 루시우스",
+      "resolved_name": "루시우스",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "아리샤트": {
+      "description": "아리샤트 -> 아리샤트",
+      "resolved_name": "아리샤트",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "아카시우스": {
+      "description": "아카시우스 -> General Acacius",
+      "resolved_name": "General Acacius",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "하노": {
+      "description": "하노 -> 루시우스",
+      "resolved_name": "루시우스",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "마크리누스": {
+      "description": "마크리누스 -> Macrinus",
+      "resolved_name": "Macrinus",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "루실라": {
+      "description": "루실라 -> Lucilla",
+      "resolved_name": "Lucilla",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "막시무스": {
+      "description": "막시무스 -> 막시무스",
+      "resolved_name": "막시무스",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "아우렐리우스": {
+      "description": "아우렐리우스 -> 마르쿠스 달",
+      "resolved_name": "마르쿠스 달",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "쌍둥이 황제": {
+      "description": "쌍둥이 황제 -> Emperor Caracalla",
+      "resolved_name": "Emperor Caracalla",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    }
+  }
+}

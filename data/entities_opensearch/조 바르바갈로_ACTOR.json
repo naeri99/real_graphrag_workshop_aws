@@ -1,0 +1,28 @@
+{
+  "entity": {
+    "name": "조 바르바갈로",
+    "synonym": [
+      "Barbagallo",
+      "Joe Barbagallo",
+      "Joe Barbagalo",
+      "Joe Chill",
+      "Joe Hisaishi",
+      "久石譲",
+      "바르바갈로",
+      "조 바르바갈로",
+      "조 바바갈로",
+      "조 칠",
+      "조 히사이시",
+      "조바르바갈로",
+      "조셉 바르바갈로",
+      "조칠",
+      "칠",
+      "히사이시",
+      "히사이시조"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "조 바르바갈로은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

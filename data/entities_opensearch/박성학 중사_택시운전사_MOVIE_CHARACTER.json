@@ -1,0 +1,25 @@
+{
+  "entity": {
+    "name": "박성학 중사",
+    "synonym": [
+      "Park Seong-hak",
+      "Park Sung-hak",
+      "Sergeant Park",
+      "박 성학",
+      "박 중사",
+      "박성 학",
+      "박성학",
+      "박성학 중사",
+      "박성학중사",
+      "박중사",
+      "성학",
+      "성학 중사",
+      "중사",
+      "중사 박성학"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "박성학 중사은 영화 '택시운전사'의 등장인물로, 엄태구이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

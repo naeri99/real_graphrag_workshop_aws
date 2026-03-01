@@ -1,0 +1,146 @@
+{
+  "chunk_hash": "77a7d426551cac",
+  "chunk_id": "영화천국_77a7d426551cac_ee3ed859",
+  "user_query": "안 갔더니 뭐 안 좋아요 임산부 좀 잘 살펴야지 너무 말랐잖아 뭐 좋은 방법 없을까 싶어요 [음악] 걱정하지 마 선배가 있으니까 굉장히 든든하네요 선배 고마워요 그의 다정한 목소리는 아기에게도 제게도 큰 힘이 됩니다 오늘도 저는 그 음성에 기대어 불안을 다스립니다 잘 잤어 인하는 더 이상 향수를 뿌리지 않았죠 왜 와이프는 어때 아 이거 병원에 가 봤어 제일 친한 친구가 산부인 과 의사야 근데 별 이상은 없다는데 그렇게 방송이 시작되고 예전에 사연을 보냈던 임신한 위암 환자의 사연이 다시 읽혀지는데 종이나라 님의 사연입니다 그는 자기 눈빛과 닮은 청량한 향의 콜롱을 씁니다 그런데 요즘은 그 향기가 힘들어졌습니다 조금이라도 더 기억하고 싶은 남편의 향기인데 암세포들에게 자리를 많이 내주면서 그렇게 된 것 같습니다 그의 향기가 힘들어진다는 사실이 통증보다 더 많이 아파옵니다 아직 진료 시작도 안 했다니까요 괜찮아요 미안해 모른 척해줘 희재가 그걸 원해 그렇게 인하 또한 모든 사실을 알게 됩니다 기분 좋은가 보다 날마다 이렇게 놀고 먹을까 그냥 듣지요 다음 주부터 그럴 수 있어 안식년 부서별로 한 번씩 쉬게 해주는 거 있잖아 유급으로 돈 주고 쉬게 해준대 박선배한테 전화 왔었는데 한두 달 집 비운다고 우리 거기 갈까 좋아 그렇게 좋아 너무 좋아서 그래 사랑합니다 그동안 이 프로그램을 지켜온 서인하 PD가 잠시 휴식 시간을 갖기로 했거든요 모든 청취자 분들께 감사의 말씀 드립니다 특히 종이나라 님께서 보내신 사연은 삶과 가족에 대한 많은 생각을 하게 했습니다 이분의 사연을 읽어 드리는 것으로 마지막 인사를 대신하고 싶습니다 처음에 이 낯선 감각은 두렵고 고통스러웠습니다 통증이 찾아오는 간격이 차츰 짧아지고 있습니다 웃으며 그를 바라볼 수 있는 시간이 아직 허락되고 있음에 감사하고 긴 시간이 영원히 이어질 줄 알고 충분히 고맙다 말하지 못하고 지나온 시간들을 가슴 아프게 후회하고 있다고 말하고 싶습니다 [음악] 천장 내리고 이게 뭐야 자기가 천장 내린다 오른쪽 하나 둘 셋 짠 꼭 숨겨서 가져왔지 뭐 조금은 괜찮겠지 요즘도 바다가 무서워 희재야 [음악] 옆에 있는데 바람이 차다 싫어 좀 더 있으면 어머님 말씀대로 나 하고 싶은 대로 할 거야 그래라 하기 싫은 거 있으면 다 말해 기저귀 가는 거 자기가 다 가라 그래 우유도 자기가 타야 돼 내가 다 알아서 할게 예방접종시킬 때도 자기가 데리고 다녀요 내가 다 알아서 할 테니까 안 걱정 안 해도 되니까 그렇게 다시 숙소로 돌아가 희재가 먹을 죽을 끓이는데 갑자기 쿵 하는 소리가 들립니다 미안해 이 자식은 뭐가 미안한데 나도 화 많이 났었어 지금일까 생각해 보니까 그동안 이 날씨가 나 사랑해주면서 충분히 행복했던 것 같아 다른 사람들보다 너무 행복했었어 근데 인하씨 걱정돼서 어떡하지 [음악] 나중에 나중에 다시 만나면 약속할 수 있지 사랑해 희재씨 재인이 어때 재인 서재인 [음악] 조금만 참아 [음악] 야 [음악] 우리 재인이네 아빠한테 엄마가 못다 한 말까지 아주 많이 사랑한다고 말할 수 있었으면",
+  "movie_id": "슬픔보다 더 슬픈 이야기",
+  "reviewer": "영화천국",
+  "chunk_index": 5,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "서인하",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "서인하는 PD로 일하며 라디오 프로그램을 진행하다가 안식년 휴식을 갖게 되는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "인하",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "인하는 서인하 PD와 동일 인물로, 희재의 상황을 알게 되고 함께 여행을 떠나는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "희재",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "희재는 임신한 위암 환자로, 종이나라라는 필명으로 라디오에 사연을 보낸 인물이며 인하의 아내이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "종이나라",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "종이나라는 희재의 라디오 사연 필명으로, 임신한 위암 환자로서 남편의 향기가 힘들어지는 고통을 겪고 있다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "재인",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "재인(서재인)은 희재와 인하 사이에서 태어난 아기이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "박선배",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "박선배는 인하에게 전화를 걸어 한두 달 집을 비운다고 알려주는 인물이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "인하",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "희재",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "인하는 희재의 남편으로, 희재의 병을 알게 되고 함께 시간을 보낸다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "희재",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "종이나라",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "희재는 종이나라라는 필명으로 라디오에 사연을 보낸 동일 인물이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "희재",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "재인",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "희재는 재인의 엄마이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "인하",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "재인",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "인하는 재인의 아빠이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "서인하",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "인하",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "서인하와 인하는 동일 인물로 라디오 PD이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "서인하",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "종이나라",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "서인하 PD는 종이나라 님의 사연을 라디오에서 읽어주었다",
+      "relationship_strength": 8
+    }
+  ],
+  "entity_resolution": {
+    "서인하": {
+      "description": "서인하 -> 서인하",
+      "resolved_name": "서인하",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "인하": {
+      "description": "인하 -> 인하",
+      "resolved_name": "인하",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "희재": {
+      "description": "희재 -> 희재",
+      "resolved_name": "희재",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "종이나라": {
+      "description": "종이나라 -> 종이나라",
+      "resolved_name": "종이나라",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "재인": {
+      "description": "재인 -> 재인",
+      "resolved_name": "재인",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "박선배": {
+      "description": "박선배 -> 박선배",
+      "resolved_name": "박선배",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

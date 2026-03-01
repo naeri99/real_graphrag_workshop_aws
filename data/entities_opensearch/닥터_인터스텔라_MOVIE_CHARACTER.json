@@ -1,0 +1,32 @@
+{
+  "entity": {
+    "name": "닥터",
+    "synonym": [
+      "Doc",
+      "Doctor",
+      "Doctor Strange",
+      "Dr.",
+      "NASA Doctor",
+      "NASA 의사",
+      "The Doctor",
+      "닥스",
+      "닥타",
+      "닥터",
+      "닥터 캐릭터",
+      "닥터스트레인지",
+      "닥터역",
+      "병원 의사",
+      "스트레인지",
+      "스트레인지 박사",
+      "스티븐 스트레인지",
+      "의료진",
+      "의사",
+      "의사 선생님",
+      "의사 캐릭터"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "닥터은 영화 '인터스텔라'의 등장인물로, 제프 헤프너이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

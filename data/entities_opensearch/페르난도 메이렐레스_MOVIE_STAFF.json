@@ -1,0 +1,18 @@
+{
+  "entity": {
+    "name": "페르난도 메이렐레스",
+    "synonym": [
+      "Fernando Meirelles",
+      "메이렐레스",
+      "페르난도 메이렐레스",
+      "페르난도 메이렐리스",
+      "페르난도메이렐레스",
+      "페르난두 메이렐레스",
+      "페르난두 메이렐리스"
+    ],
+    "entity_type": "MOVIE_STAFF",
+    "summary": "페르난도 메이렐레스은 영화 감독입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

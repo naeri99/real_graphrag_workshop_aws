@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "로버트 다우니 주니어",
+    "synonym": [
+      "RDJ",
+      "Robert Downey Jr.",
+      "Robert Downey Junior",
+      "다우니",
+      "다우니 주니어",
+      "로다주",
+      "로버트 다우니",
+      "로버트 다우니 주니어",
+      "로버트다우니주니어"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "로버트 다우니 주니어은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

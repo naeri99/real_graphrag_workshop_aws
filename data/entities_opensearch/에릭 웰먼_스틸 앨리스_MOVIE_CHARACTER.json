@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "에릭 웰먼",
+    "synonym": [
+      "Eric",
+      "Eric Wellman",
+      "에릭",
+      "에릭 웰만",
+      "에릭 웰맨",
+      "에릭 웰먼",
+      "에릭웰만",
+      "에릭웰먼",
+      "웰먼"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "에릭 웰먼은 영화 '스틸 앨리스'의 등장인물로, 다니엘 게롤이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

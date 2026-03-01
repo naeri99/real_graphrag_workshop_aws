@@ -1,0 +1,17 @@
+{
+  "entity": {
+    "name": "유키",
+    "synonym": [
+      "Yuki",
+      "유기",
+      "유끼",
+      "유우키",
+      "유키",
+      "유키코"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "유키은 영화 '호스텔'의 등장인물로, 케이코 세이코이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

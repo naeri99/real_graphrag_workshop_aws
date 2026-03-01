@@ -1,0 +1,23 @@
+{
+  "entity": {
+    "name": "마이클 워츠",
+    "synonym": [
+      "Michael",
+      "Michael Wuertz",
+      "Wuertz",
+      "마이클",
+      "마이클 워르츠",
+      "마이클 워쯔",
+      "마이클 워츠",
+      "마이클워츠",
+      "워쯔",
+      "워츠",
+      "워츠 형사",
+      "형사 워츠"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "마이클 워츠은 영화 '다크나이트'의 등장인물로, 론 딘이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

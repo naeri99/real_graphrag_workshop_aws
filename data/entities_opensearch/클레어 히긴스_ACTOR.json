@@ -1,0 +1,18 @@
+{
+  "entity": {
+    "name": "클레어 히긴스",
+    "synonym": [
+      "Clare Higgins",
+      "Higgins",
+      "클레어",
+      "클레어 히긴스",
+      "클레어 히긴즈",
+      "클레어히긴스",
+      "히긴스"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "클레어 히긴스은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "리브 미엘",
+    "synonym": [
+      "Liv",
+      "Liv Mjones",
+      "Liv Mjönes",
+      "리브",
+      "리브 묘네스",
+      "리브 묠",
+      "리브 묠네스",
+      "리브 미엘",
+      "리브 미요네스",
+      "리브미엘",
+      "미엘"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "리브 미엘은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

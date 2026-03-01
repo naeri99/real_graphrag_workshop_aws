@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "카티아",
+    "synonym": [
+      "Katia",
+      "루스카 로마 수장",
+      "카챠",
+      "카탸",
+      "카티아",
+      "카티아 캐릭터",
+      "카티야",
+      "캐티아"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "카티아은 영화 '존 윅 4'의 등장인물로, 나탈리아 테나이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

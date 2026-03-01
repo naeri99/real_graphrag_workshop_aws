@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "머프",
+    "synonym": [
+      "Murph",
+      "Murph Cooper",
+      "Murphy",
+      "Murphy Cooper",
+      "머프",
+      "머프 쿠퍼",
+      "머피",
+      "머피 쿠퍼",
+      "성인 머프"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "머프은 영화 '인터스텔라'의 등장인물로, 제시카 차스테인이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

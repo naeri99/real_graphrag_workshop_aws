@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "빌헬름 브롬그렌",
+    "synonym": [
+      "Vilhelm",
+      "Vilhelm Blomgren",
+      "Wilhelm Blomgren",
+      "브롬그렌",
+      "빌헬름",
+      "빌헬름 브롬그렌",
+      "빌헬름 블롬그렌",
+      "빌헬름브롬그렌"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "빌헬름 브롬그렌은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

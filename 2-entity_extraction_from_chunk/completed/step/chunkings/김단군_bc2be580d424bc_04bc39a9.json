@@ -1,0 +1,102 @@
+{
+  "chunk_hash": "bc2be580d424bc",
+  "chunk_id": "김단군_bc2be580d424bc_04bc39a9",
+  "user_query": "솔직히 말하면 여기 전투신들도 화려하긴 화려한데 뽕맛이 없어요 막 코뿔소랑 싸우는 것도 화려하고 그 해상에서 싸우는 거 있죠 콜로세움 물 채워 놓고 그 상어 돌아다니고 거기서 막 싸우는 거 있어 막 멋있긴 해 멋있 막 눈은 즐거운데 뭐라고 될까 밋밋하던 난 좀 밋밋했다 그런가 나는 그런 것들이 하나도 멋있지 않고 밋밋했을 너무 밋밋하던 그냥 뭔가 화려하긴 한데 이렇게 확 올라오는게 없어 그 전체적으로는 그냥 쭉 보면 그냥 쭉 볼 수 있는 영화예요 그냥 오락 영화 정도 되는 느낌이야 아 근데 너 저는 너무 실망해 가지고 이렇게 나올 거라고 생각도 못 했어요 그래서 그냥 약간 아쉬운 할리우드 블록버스터 영화 정도 제 딱 그거 본 느낌이었습니다 아 망하고 안 하고는 모르겠어 재밌다고 해서 영화가 뭐 안 망하고 재미없다고 망하고 뭐 그런 건 아니니까 요즘 영화가 그리고 어쨌든 이건 철저한 제 개인적인 생각이기 때문에 뭐 제 말이 정답은 아니니까 아 근데 저는 이 주인공의 행동이 도저히 이해가 안 가요 그리고 또 하나가 있어 아 맞다 이것도 얘기하네 여기 전쟁 영웅이라고 나오는 이 장군 있죠 이 장군도 너무 포스 없어요 너무 쑥하고 쑥 들어가 이 아저씨 아카시우스 안 그래요 나만 그랬어 그냥 하 아저씨 같아 전쟁 영웅 치고는 너무 포스 없어 아카시우스 아저씨 이분이 페드로 파스칼이 페드로 파스칼 배우 처음에는 마치 이 남자 주인공과 대척점에 있는 것처럼 하고 막 뭔가 큰일을 버릴 거 같고 뭐 로마의 전쟁영웅 그래서 막 사람들 다 아카시우스 아카시우스 막 이래 그 마치 그거 같아 황제들이 약간 두려워하는 인물 왜냐면 얘 위상이 너무 높으니까 그 예를 들면 나중에 잡혀 오고 뭐 마지막에 또 주인공이랑 한 판 버리고 이러는 거 보면 전혀 그런게 느껴지지 않아요 그래서 내가 보기엔 여기 나오는 등장 인물들의 캐릭터들에 대한 어떤 어떤 이야기들이 아 너무 단출하게 표현되지 않았나 그니까 캐릭터의 이야기에 깊이가 없다 보니까 좀 아쉬워요 전체적으로 아 그니까 나는 이게 모르겠어 왜 그렇게 되는지 모르겠는데 중간에 아마 촬영을 했는데 이게 뺀 건가 너무 길어서 아니 중간에 이만큼이 날아간 거 같아 어머니 쪽으로 이렇게 딱 마음이 돌아서는 그게 빠진 거 같아 그리고 아카시우스를 인정하고 오해했다는 걸 인정하고 어머니에 대한 마음이 좀 풀어지고 로마로 다시 이렇게 싹 내가 이제 할아버지의 뒤를 이어서 로마의 재건을 뭔가 딱 그렇게 하는 부분이 딱 있어야 되는데 그게 사라진 거 같아 그거를 누가 잘랐나 편집을 왜 이렇게 했는지 모르겠어 장점은 뭐가 있을까요 장점 장점 그래도 로마 쪽 이렇게 영상을 보면 좀 로마가 이런 도시구분 되게 잘 표현한 거 같아요 그리고 초반 전쟁신이나 뭐 이렇게 싸우는 부분들이 뭐 나쁘지 않았다 아 그니까 영상미가 좋다는 것도 난 솔직히 모르겠는데 여기서 그런 얘기 많이 하죠 그 콜로세움에 물 채워서 해상 전투신 버리는 거 상어 돌아다니고 그거에 대한 이야기가 아마 많을 것 같아 아니면 그걸 예고편에도 그게 되게 화려하게 나오겠죠",
+  "movie_id": "글래디에이터 2",
+  "reviewer": "김단군",
+  "chunk_index": 6,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "글래디에이터 2",
+      "entity_type": "MOVIE",
+      "entity_description": "글래디에이터 2는 로마를 배경으로 한 할리우드 블록버스터 영화로, 콜로세움 전투신과 해상 전투신 등 화려한 액션 장면이 특징이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "아카시우스",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "아카시우스는 로마의 전쟁 영웅으로 나오는 장군 캐릭터로, 황제들이 두려워하는 높은 위상을 가진 인물로 설정되어 있으나 포스가 없다는 평가를 받는다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "페드로 파스칼",
+      "entity_type": "ACTOR",
+      "entity_description": "페드로 파스칼은 아카시우스 역을 맡은 배우이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "루시우스",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "루시우스는 영화의 남자 주인공으로, 아카시우스와 대척점에 있으며 할아버지의 뒤를 이어 로마 재건을 하려는 인물이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "페드로 파스칼",
+      "source_type": "ACTOR",
+      "target_entity": "아카시우스",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "페드로 파스칼은 아카시우스 역을 연기했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "아카시우스",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "글래디에이터 2",
+      "target_type": "MOVIE",
+      "relationship_description": "아카시우스는 글래디에이터 2에 등장하는 전쟁 영웅 장군 캐릭터이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "루시우스",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "글래디에이터 2",
+      "target_type": "MOVIE",
+      "relationship_description": "루시우스는 글래디에이터 2의 주인공이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "아카시우스",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "루시우스",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "아카시우스는 주인공 루시우스와 대척점에 있으며 마지막에 한 판 싸우는 관계이다",
+      "relationship_strength": 8
+    }
+  ],
+  "entity_resolution": {
+    "글래디에이터 2": {
+      "description": "글래디에이터 2 -> 글래디에이터 2",
+      "resolved_name": "글래디에이터 2",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "아카시우스": {
+      "description": "아카시우스 -> General Acacius",
+      "resolved_name": "General Acacius",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "페드로 파스칼": {
+      "description": "페드로 파스칼 -> 페드로 파스칼",
+      "resolved_name": "페드로 파스칼",
+      "entity_type": "ACTOR",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "루시우스": {
+      "description": "루시우스 -> 루시우스",
+      "resolved_name": "루시우스",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "entity": {
+    "name": "조나단 기어만",
+    "synonym": [
+      "Johnathan Geare",
+      "Jonathan Alpert",
+      "Jonathan Geare",
+      "기어만",
+      "알퍼트",
+      "조나단",
+      "조나단 기어",
+      "조나단 기어만",
+      "조나단 기어맨",
+      "조나단 앨퍼트",
+      "조나단기어만",
+      "조나단알퍼트"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "조나단 기어만은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

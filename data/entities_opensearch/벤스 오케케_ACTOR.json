@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "벤스 오케케",
+    "synonym": [
+      "Bence",
+      "Bence Okeke",
+      "벤세 오케케",
+      "벤스",
+      "벤스 오게게",
+      "벤스 오케케",
+      "벤스오게게",
+      "벤스오케케",
+      "벤체 오케케",
+      "오케게",
+      "오케케"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "벤스 오케케은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "케일리 스페이니",
+    "synonym": [
+      "Cailee",
+      "Cailee Spaeny",
+      "Cailee Spaney",
+      "스페이니",
+      "케일리",
+      "케일리 스패니",
+      "케일리 스패이니",
+      "케일리 스페니",
+      "케일리 스페이니",
+      "케일리스페이니"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "케일리 스페이니은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

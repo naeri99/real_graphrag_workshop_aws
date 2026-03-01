@@ -1,0 +1,18 @@
+{
+  "entity": {
+    "name": "황정민",
+    "synonym": [
+      "Hwang Jung-min",
+      "Jung-min Hwang",
+      "배우 황정민",
+      "정민",
+      "황 정민",
+      "황정민",
+      "황정민 배우"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "황정민은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

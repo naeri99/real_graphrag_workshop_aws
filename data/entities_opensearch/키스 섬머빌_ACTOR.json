@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "키스 섬머빌",
+    "synonym": [
+      "Keith",
+      "Keith Szarabajka",
+      "섬머빌",
+      "키스",
+      "키스 사라바카",
+      "키스 서머빌",
+      "키스 섬머빌",
+      "키스서머빌",
+      "키스섬머빌",
+      "키쓰 섬머빌"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "키스 섬머빌은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

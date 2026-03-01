@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "질리",
+    "synonym": [
+      "Jilly",
+      "Jilly Goode",
+      "지리",
+      "질",
+      "질리",
+      "질리 구드",
+      "질리 굿",
+      "질리구드",
+      "질리안"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "질리은 영화 '에브리바디스 파인'의 등장인물로, 캐서린 메니그이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

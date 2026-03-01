@@ -1,0 +1,17 @@
+{
+  "entity": {
+    "name": "문소리",
+    "synonym": [
+      "Moon So-ri",
+      "Moon Sori",
+      "문 소리",
+      "문소 리",
+      "문소리",
+      "소리"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "문소리은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

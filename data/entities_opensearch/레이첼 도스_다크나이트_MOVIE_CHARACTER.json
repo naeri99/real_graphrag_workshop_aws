@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "레이첼 도스",
+    "synonym": [
+      "Rachel",
+      "Rachel Dawes",
+      "도스",
+      "레이철",
+      "레이철 도스",
+      "레이첼",
+      "레이첼 도스",
+      "레이첼 도우스",
+      "레이첼도스",
+      "레이쳘",
+      "레이쳘 도스"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "레이첼 도스은 영화 '다크나이트'의 등장인물로, 매기 질렌할이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

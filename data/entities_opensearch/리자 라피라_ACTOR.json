@@ -1,0 +1,23 @@
+{
+  "entity": {
+    "name": "리자 라피라",
+    "synonym": [
+      "Liza",
+      "Liza Lapera",
+      "Liza Lapira",
+      "Liza Rapira",
+      "라피라",
+      "리사 라피라",
+      "리자",
+      "리자 라피라",
+      "리자 라피러",
+      "리자 라피아",
+      "리자 래피라",
+      "리자라피라"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "리자 라피라은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

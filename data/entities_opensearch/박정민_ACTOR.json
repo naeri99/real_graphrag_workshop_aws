@@ -1,0 +1,18 @@
+{
+  "entity": {
+    "name": "박정민",
+    "synonym": [
+      "Park Jung Min",
+      "Park Jung-min",
+      "Park Jungmin",
+      "박 정민",
+      "박정민",
+      "박정민 배우",
+      "정민"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "박정민은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "모나 공주",
+    "synonym": [
+      "Princess Mona",
+      "공주",
+      "공주 모나",
+      "모나",
+      "모나 공주",
+      "모나 공주님",
+      "모나 프린세스",
+      "모나공주",
+      "프린세스 모나"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "모나 공주은 영화 '팬텀 스레드'의 등장인물로, 루즈자 리히터이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

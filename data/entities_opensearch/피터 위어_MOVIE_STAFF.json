@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "피터 위어",
+    "synonym": [
+      "Peter Weir",
+      "웨어",
+      "웨어 감독",
+      "위어",
+      "위어 감독",
+      "피터 웨어",
+      "피터 위어",
+      "피터 위어 감독",
+      "피터웨어",
+      "피터위어"
+    ],
+    "entity_type": "MOVIE_STAFF",
+    "summary": "피터 위어은 영화 감독입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

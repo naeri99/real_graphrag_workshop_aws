@@ -1,0 +1,304 @@
+{
+  "chunk_hash": "33b41345515569",
+  "chunk_id": "Awesomemay_33b41345515569_00df1ccd",
+  "user_query": "film balanced them as well as it could Sarah Hatoff is also another highlight of the film as she kind of follows all the stories along and her reporting is sometimes used as a plot device to get from one scene to another and I thought that was really smart the love Arc with her and chief was kind of forced in and predictable but I'd be lying if I didn't find it cute Isla Fisher put her whole diaphragm into the role of Sarah you can really tell how much fun her and everyone working on this film had recording I did not know she was Beans in Rango and the tooth fairy in Rise of the Guardians that's why we collect the teeth Jack they hold the most important memories of childhood say what you want about him but Ricky Gervais as Flippy the fish gives kind of an awkward unsure of himself performance that really grew on me it reminded me a lot of Richard Ayoade's voice roles eight out of 10 for main characters and voice acting one thing is for certain DreamWorks knows how to make fantastic endings I feel as of recently a lot of animated films have been great but fall flat in the conclusion Department the wild robot and Dog Man are completely different I have no complaints with how they end they both conclude so satisfyingly spoilers but I love Dog Man using the last souvenir the ball from his time with officer Knight to save Petey as he falls into the volcano it's a great metaphor for moving on from the past to create a new future I like the realization Flippy makes about the only",
+  "movie_id": "도그맨",
+  "reviewer": "Awesomemay",
+  "chunk_index": 12,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "SARAH HATOFF",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Sarah Hatoff는 영화의 하이라이트 중 하나로, 여러 스토리를 따라가며 그녀의 리포팅이 장면 전환을 위한 플롯 장치로 사용되는 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "CHIEF",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Chief는 Sarah Hatoff와 로맨스 관계를 가지는 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "ISLA FISHER",
+      "entity_type": "ACTOR",
+      "entity_description": "Isla Fisher는 Sarah Hatoff 역을 맡은 배우로, 온 힘을 다해 역할에 임했으며 Rango의 Beans와 Rise of the Guardians의 이빨 요정 역도 맡았다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "RICKY GERVAIS",
+      "entity_type": "ACTOR",
+      "entity_description": "Ricky Gervais는 Flippy the fish 역을 맡은 배우로, 어색하고 자신감 없는 연기를 보여주었다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "FLIPPY",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Flippy는 물고기 캐릭터로, 어색하고 자신감 없는 성격을 가지고 있으며 영화 결말에서 중요한 깨달음을 얻는다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "BEANS",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Beans는 Rango 영화에 등장하는 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "RANGO",
+      "entity_type": "MOVIE",
+      "entity_description": "Rango는 Isla Fisher가 Beans 역으로 출연한 애니메이션 영화이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "RISE OF THE GUARDIANS",
+      "entity_type": "MOVIE",
+      "entity_description": "Rise of the Guardians는 Isla Fisher가 이빨 요정 역으로 출연한 애니메이션 영화이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "RICHARD AYOADE",
+      "entity_type": "ACTOR",
+      "entity_description": "Richard Ayoade는 성우 역할로 알려진 배우로, Ricky Gervais의 연기 스타일과 비교되었다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "DOG MAN",
+      "entity_type": "MOVIE",
+      "entity_description": "Dog Man은 DreamWorks가 제작한 애니메이션 영화로, 만족스러운 결말을 가진 작품이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "THE WILD ROBOT",
+      "entity_type": "MOVIE",
+      "entity_description": "The Wild Robot은 훌륭한 결말을 가진 최근 애니메이션 영화이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "DREAMWORKS",
+      "entity_type": "MOVIE_STAFF",
+      "entity_description": "DreamWorks는 환상적인 결말을 만드는 것으로 알려진 애니메이션 영화 제작사이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "OFFICER KNIGHT",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Officer Knight는 Dog Man과 함께 시간을 보냈던 캐릭터로, 공이 그와의 추억을 상징한다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "PETEY",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Petey는 Dog Man 영화에서 화산에 떨어질 때 Dog Man에게 구출되는 캐릭터이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "ISLA FISHER",
+      "source_type": "ACTOR",
+      "target_entity": "SARAH HATOFF",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Isla Fisher는 Sarah Hatoff 역을 연기했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "SARAH HATOFF",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "CHIEF",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Sarah Hatoff와 Chief는 영화에서 로맨스 관계를 가진다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "ISLA FISHER",
+      "source_type": "ACTOR",
+      "target_entity": "BEANS",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Isla Fisher는 Rango에서 Beans 역을 연기했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "ISLA FISHER",
+      "source_type": "ACTOR",
+      "target_entity": "RANGO",
+      "target_type": "MOVIE",
+      "relationship_description": "Isla Fisher는 Rango에서 성우로 출연했다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "ISLA FISHER",
+      "source_type": "ACTOR",
+      "target_entity": "RISE OF THE GUARDIANS",
+      "target_type": "MOVIE",
+      "relationship_description": "Isla Fisher는 Rise of the Guardians에서 이빨 요정 역을 맡았다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "RICKY GERVAIS",
+      "source_type": "ACTOR",
+      "target_entity": "FLIPPY",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Ricky Gervais는 Flippy the fish 역을 연기했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "RICKY GERVAIS",
+      "source_type": "ACTOR",
+      "target_entity": "RICHARD AYOADE",
+      "target_type": "ACTOR",
+      "relationship_description": "Ricky Gervais의 연기 스타일이 Richard Ayoade의 성우 역할과 비교되었다",
+      "relationship_strength": 5
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "DREAMWORKS",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "DOG MAN",
+      "target_type": "MOVIE",
+      "relationship_description": "DreamWorks는 Dog Man을 제작했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "DOG MAN",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "OFFICER KNIGHT",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Dog Man은 Officer Knight와 함께 시간을 보냈으며 공이 그 추억을 상징한다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "DOG MAN",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "PETEY",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Dog Man은 화산에서 떨어지는 Petey를 구출한다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "PETEY",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "DOG MAN",
+      "target_type": "MOVIE",
+      "relationship_description": "Petey는 Dog Man 영화의 등장인물이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "OFFICER KNIGHT",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "DOG MAN",
+      "target_type": "MOVIE",
+      "relationship_description": "Officer Knight는 Dog Man 영화의 등장인물이다",
+      "relationship_strength": 10
+    }
+  ],
+  "entity_resolution": {
+    "SARAH HATOFF": {
+      "description": "SARAH HATOFF -> SARAH HATOFF",
+      "resolved_name": "SARAH HATOFF",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "CHIEF": {
+      "description": "CHIEF -> CHIEF",
+      "resolved_name": "CHIEF",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "ISLA FISHER": {
+      "description": "ISLA FISHER -> ISLA FISHER",
+      "resolved_name": "ISLA FISHER",
+      "entity_type": "ACTOR",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "RICKY GERVAIS": {
+      "description": "RICKY GERVAIS -> RICKY GERVAIS",
+      "resolved_name": "RICKY GERVAIS",
+      "entity_type": "ACTOR",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "FLIPPY": {
+      "description": "FLIPPY -> FLIPPY",
+      "resolved_name": "FLIPPY",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "BEANS": {
+      "description": "BEANS -> BEANS",
+      "resolved_name": "BEANS",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "RANGO": {
+      "description": "RANGO -> RANGO",
+      "resolved_name": "RANGO",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "RISE OF THE GUARDIANS": {
+      "description": "RISE OF THE GUARDIANS -> RISE OF THE GUARDIANS",
+      "resolved_name": "RISE OF THE GUARDIANS",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "RICHARD AYOADE": {
+      "description": "RICHARD AYOADE -> RICHARD AYOADE",
+      "resolved_name": "RICHARD AYOADE",
+      "entity_type": "ACTOR",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "DOG MAN": {
+      "description": "DOG MAN -> DOG MAN",
+      "resolved_name": "DOG MAN",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "THE WILD ROBOT": {
+      "description": "THE WILD ROBOT -> THE WILD ROBOT",
+      "resolved_name": "THE WILD ROBOT",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "DREAMWORKS": {
+      "description": "DREAMWORKS -> DREAMWORKS",
+      "resolved_name": "DREAMWORKS",
+      "entity_type": "MOVIE_STAFF",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "OFFICER KNIGHT": {
+      "description": "OFFICER KNIGHT -> OFFICER KNIGHT",
+      "resolved_name": "OFFICER KNIGHT",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "PETEY": {
+      "description": "PETEY -> PETEY",
+      "resolved_name": "PETEY",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "톰 쿠퍼",
+    "synonym": [
+      "Thomas Cooper",
+      "Tom",
+      "Tom Cooper",
+      "성인 톰",
+      "쿠퍼 아들",
+      "쿠퍼의 아들",
+      "토마스 쿠퍼",
+      "톰",
+      "톰 쿠퍼",
+      "톰쿠퍼"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "톰 쿠퍼은 영화 '인터스텔라'의 등장인물로, 케이시 애플렉이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

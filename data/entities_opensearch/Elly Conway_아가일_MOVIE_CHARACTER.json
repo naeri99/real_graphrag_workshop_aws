@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "Elly Conway",
+    "synonym": [
+      "Elly",
+      "Elly Conway",
+      "레이첼",
+      "레이첼 카일",
+      "앨리 콘웨이",
+      "엘리",
+      "엘리 콘웨이",
+      "엘리콘웨이",
+      "콘웨이"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "Elly Conway은 영화 '아가일'의 등장인물로, 브라이스 달라스 하워드이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

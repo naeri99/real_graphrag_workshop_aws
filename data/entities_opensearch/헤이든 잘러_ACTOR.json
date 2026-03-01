@@ -1,0 +1,18 @@
+{
+  "entity": {
+    "name": "헤이든 잘러",
+    "synonym": [
+      "Hayden Zaller",
+      "잘러",
+      "하이든 잘러",
+      "헤이든",
+      "헤이든 잘러",
+      "헤이든 잴러",
+      "헤이든잘러"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "헤이든 잘러은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

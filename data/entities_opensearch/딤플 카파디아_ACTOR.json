@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "딤플 카파디아",
+    "synonym": [
+      "D. 카파디아",
+      "Dimple Kapadia",
+      "Kapadia",
+      "딤쁠 카파디아",
+      "딤플",
+      "딤플 카빠디아",
+      "딤플 카파디아",
+      "딤플카파디아",
+      "카파디아"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "딤플 카파디아은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "안나 파킨",
+    "synonym": [
+      "Anna Paquin",
+      "안나",
+      "안나 파킨",
+      "안나 패퀸",
+      "안나파킨",
+      "애나 파킨",
+      "애나 패퀸",
+      "애나파퀸",
+      "파킨"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "안나 파킨은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

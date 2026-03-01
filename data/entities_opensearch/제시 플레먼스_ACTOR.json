@@ -1,0 +1,18 @@
+{
+  "entity": {
+    "name": "제시 플레먼스",
+    "synonym": [
+      "Jesse Plemons",
+      "제시",
+      "제시 플레먼스",
+      "제시 플레몬스",
+      "제시플레먼스",
+      "제시플레몬스",
+      "플레먼스"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "제시 플레먼스은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "entity": {
+    "name": "띵만리_띵작찾아삼만리",
+    "synonym": [
+      "띵만리_띵작찾아삼만리",
+      "띵만리 띵작찾아삼만리"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "띵만리_띵작찾아삼만리은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

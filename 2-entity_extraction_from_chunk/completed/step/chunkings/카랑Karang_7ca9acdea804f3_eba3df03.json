@@ -1,0 +1,106 @@
+{
+  "chunk_hash": "7ca9acdea804f3",
+  "chunk_id": "카랑Karang_7ca9acdea804f3_eba3df03",
+  "user_query": "left my office oh I'm at Marlin not Mainland well Joe's not too proud to put on the chauffeur's uniform well Joe was born with the silver spoon in his mouth for him it's like playing dress-up well I was and I was barely born with a spoon how many times have I worn this uniform to help this business you're a woman yeah I love you Bernard but how is that any different from a white man telling you you shouldn't mind some daily assault on your dignity because you have lacks as of close of business Friday the total number of loans delinquent beyond 60 days was under 5 percent yes what was the exact percentage three percent we are discussing confidential information take me through this transaction there's no description for that maybe it's a broker's fee is okay let's turn to the loans themselves show me the methodology you used to justify that book value I have an expert to do that bring him in please but I can check his files to know the exact methodology we use to value the loans in the package okay so standard present value equation this is an individual loan's monthly payment schedule now adjust that with the risk factor for default standard five percent in Texas tear that out for me you can't go in the room that piece of paper it's got Burnett's hand right now your bank this is your bank Matt now pull it together and go out there and save it this loan's gonna have to be sold off immediately well that loan is for 21,000 your capital account is two hundred thousand dollars",
+  "movie_id": "뱅크어택",
+  "reviewer": "카랑Karang",
+  "chunk_index": 12,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "JOE",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Joe는 운전기사 유니폼을 입는 것을 자존심 상해하지 않는 인물로, 부유한 집안 출신이며 유니폼 입는 것을 놀이처럼 여긴다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "BERNARD",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Bernard는 사업을 돕기 위해 여러 번 유니폼을 입었던 인물로, 여성 캐릭터로부터 사랑받는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "BURNETT",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Burnett은 은행 관련 서류를 손에 들고 있는 인물로, 대출 거래와 관련된 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "MATT",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Matt는 은행의 소유자 또는 관계자로, 위기 상황에서 은행을 구해야 하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "MARLIN",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Marlin은 사무실과 관련된 인물 또는 회사명으로 언급된다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "JOE",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "BERNARD",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Joe와 Bernard는 같은 사업체에서 일하며, 운전기사 유니폼을 입는 것에 대해 대화를 나눈다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "BERNARD",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "MATT",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Bernard는 Matt에게 은행을 구하라고 격려하며, 같은 은행 사업에 관련되어 있다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "BURNETT",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "MATT",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Burnett의 서류가 Matt의 은행과 관련되어 있으며, 대출 거래에 함께 연관되어 있다",
+      "relationship_strength": 7
+    }
+  ],
+  "entity_resolution": {
+    "JOE": {
+      "description": "JOE -> JOE",
+      "resolved_name": "JOE",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "BERNARD": {
+      "description": "BERNARD -> Sir Bernard Pellegrin",
+      "resolved_name": "Sir Bernard Pellegrin",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "BURNETT": {
+      "description": "BURNETT -> BURNETT",
+      "resolved_name": "BURNETT",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "MATT": {
+      "description": "MATT -> MATT",
+      "resolved_name": "MATT",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "MARLIN": {
+      "description": "MARLIN -> MARLIN",
+      "resolved_name": "MARLIN",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

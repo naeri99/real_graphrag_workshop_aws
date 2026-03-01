@@ -1,0 +1,23 @@
+{
+  "entity": {
+    "name": "인사이드 잡",
+    "synonym": [
+      "Inside Job",
+      "Inside Job 2010",
+      "Inside job",
+      "Inside 잡",
+      "금융위기 다큐멘터리",
+      "인사이드 Job",
+      "인사이드 잡",
+      "인사이드 잡 2010",
+      "인사이드잡",
+      "인사이드잡 다큐멘터리",
+      "인싸이드 잡",
+      "인싸이드잡"
+    ],
+    "entity_type": "MOVIE",
+    "summary": "인사이드 잡",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "entity": {
+    "name": "보니 헌트",
+    "synonym": [
+      "Bonnie",
+      "Bonnie Hunt",
+      "바니 헌트",
+      "보니 헌터",
+      "보니 헌트",
+      "보니헌트",
+      "헌트"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "보니 헌트은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

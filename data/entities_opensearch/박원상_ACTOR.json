@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "박원상",
+    "synonym": [
+      "Park Won Sang",
+      "Park Won-sang",
+      "Park Wonsang",
+      "박 원상",
+      "박원상",
+      "박원상 배우",
+      "박원상 선배님",
+      "박원상 씨",
+      "박원상배우",
+      "박원쌍",
+      "원상"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "박원상은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

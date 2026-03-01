@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "이환경",
+    "synonym": [
+      "Lee Hwan-kyung",
+      "감독 이환경",
+      "감독이환경",
+      "이 환경",
+      "이환경",
+      "이환경 감독",
+      "이환경감독",
+      "이환경감독님",
+      "환경"
+    ],
+    "entity_type": "MOVIE_STAFF",
+    "summary": "이환경은 영화 감독입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

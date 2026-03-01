@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "에본 모스-바크라흐",
+    "synonym": [
+      "Ebon Moss-Bachrach",
+      "모스-바크라흐",
+      "모스바크라흐",
+      "에본",
+      "에본 모스",
+      "에본 모스 바크라흐",
+      "에본 모스-바크라흐",
+      "에본모스바크라흐"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "에본 모스-바크라흐은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "chunk_hash": "299d7c1c6a3a92",
+  "chunk_id": "리뷰남Review_man_299d7c1c6a3a92_8449a450",
+  "user_query": "하지만 아쉽게도 꽃을 피우기는 쉽지 않아 보입니다 좋은 교육이란 무엇일까요 한 명의 성숙한 어른이 된다는 것은 무엇일까요 나아가 삶의 이유는 어디서 오는 것일까요 그리고 우리 대한민국은 어디서부터 잘못되었기에 자연적으로 소멸하는 최초의 국가가 된 것일까요 크게 세 가지의 부제를 통해 우리나라의 교육을 리뷰하고자 합니다 John Keating 선생님의 교육이란 주체적으로 생각하게 하는 한 명의 인간을 만드는 것입니다 반면 교장 선생님을 비롯해 영화 내에서 등장하는 거의 모든 어른에게 교육이란 물질적으로 나은 인생을 위해 필요한 지식을 얻는 것입니다 사실 이를 보았던 어린 시절에 우리들은 거의 모두 John Keating 선생님의 의견에 동의했을 겁니다 하지만 어른이 되면서 생각보다 말랑말랑하지 않은 현실을 겪어 보면서 세상이 그리 쉽게 바뀌지 않는다는 걸 자각하게 되면서 나의 아이들에게는 이렇게 차가운 세상을 겪지 않게 해주고 싶다는 그런 생각을 가지게 됩니다 그래서 조금은 편향적으로 보일지라도 조금은 아이의 생각을 이해하지 못하는 부모가 될지라도 생각하지 말고 그냥 의대 가 그러면 인생이 편해 마치 교장 선생님과 같은 일종의 정답지를 아이에게 강요하게 되죠 요즘에 내가 산 인생이 너무 힘드니 극단적으로 아이를 낳지 않아 버리겠다 그게 귀결되어 저출산의 근본적인 원인으로 작용하는 거 같습니다 사실 이러한 관점에서 우리 90년대생들은 진정한 의미에서 교육받지 않은 인간이라고 생각합니다 경쟁에서 뒤처진 이들은 도태된 인간이라는 교육을 가장 잔인하게 받은 세대이기 때문이죠 우리는 성적 외모 등 삶의 거의 모든 분야에서 자신을 1% 승리자들 혹은 주변인들과 비교해 가며 자신의 쓸모없음을 매일매일 인식했습니다 심지어 그것에 청소년기의 대부분의 시간을 갈아 넣었죠 나아가 좋은 대학도 좋은 직업도 좋은 배우자도 좋은 자식도 좋은 노후도 좋은 죽음까지도 이 모든 것이 경쟁에서 이긴 승자들이 독식하는 것이라고 배웠습니다 그리고 이를 쟁취하지 못한 이들의 발언은 비겁한 패자의 변명이라며 인정하지 않았어요 그리고 놀라운 건 이를 경험한 개인들 자신도 자신을 인생의 패배자라고 살아갔다는 겁니다 난 저 사람보다 공부를 못하니까 난 저 사람보다 더 못생겼으니까 난 저 사람보다 열등한 존재니까 그리고 내 자식도 나처럼 이렇게 패배자로 살아갈 테니까 한번 생각해 봅시다 그래도 그저 공부하는 게 유일한 정답이라고 네가 지금 힘들어하는 건 네가 성공하지 못해서 대는 핑계일 뿐이라고 아이들에게 이런 얘기를 교육이랍시고 정말 해 줘야 할까요 가장 많은 사람이 자살로 생을 마감하고 아이를 낳지 않아 자연적으로 국가가 소멸하는 상황에서 우리는 정녕 우리의 교육을 이어가야 할까요 한국은 회의라 나라 그 자체입니다 그리고 이 회의라는 한 나라를 얼마나 빠르게 성장시키며 동시에 얼마나 급속하게 무너뜨릴 수 있는지 잘 보여주는 예시라고 생각합니다 웰튼 고등학교도 같습니다 전형적인 한국의 고등학교 같아요 이 학교와 모든 선생님이 존재하는 이유는 좋은 대학을 위해서입니다 그리고 이는",
+  "movie_id": "죽은 시인의 사회",
+  "reviewer": "리뷰남Review_man",
+  "chunk_index": 2,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "죽은 시인의 사회",
+      "entity_type": "MOVIE",
+      "entity_description": "죽은 시인의 사회는 교육의 의미와 주체적 사고에 대해 다루는 영화로, 웰튼 고등학교를 배경으로 한다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "JOHN KEATING",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "John Keating은 학생들에게 주체적으로 생각하게 하는 교육을 실천하는 선생님 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "교장 선생님",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "교장 선생님은 물질적으로 나은 인생을 위해 필요한 지식을 얻는 것이 교육이라고 생각하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "웰튼 고등학교",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "웰튼 고등학교는 영화의 배경이 되는 학교로, 좋은 대학 진학을 위해 존재하는 전형적인 입시 중심 학교이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "JOHN KEATING",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "죽은 시인의 사회",
+      "target_type": "MOVIE",
+      "relationship_description": "John Keating은 죽은 시인의 사회에 등장하는 선생님 캐릭터이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "교장 선생님",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "죽은 시인의 사회",
+      "target_type": "MOVIE",
+      "relationship_description": "교장 선생님은 죽은 시인의 사회에 등장하는 인물이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "JOHN KEATING",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "교장 선생님",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "John Keating과 교장 선생님은 교육에 대해 상반된 철학을 가진 인물들이다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "웰튼 고등학교",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "죽은 시인의 사회",
+      "target_type": "MOVIE",
+      "relationship_description": "웰튼 고등학교는 죽은 시인의 사회의 배경이 되는 장소이다",
+      "relationship_strength": 9
+    }
+  ],
+  "entity_resolution": {
+    "죽은 시인의 사회": {
+      "description": "죽은 시인의 사회 -> 죽은 시인의 사회",
+      "resolved_name": "죽은 시인의 사회",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "JOHN KEATING": {
+      "description": "JOHN KEATING -> JOHN KEATING",
+      "resolved_name": "JOHN KEATING",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "교장 선생님": {
+      "description": "교장 선생님 -> 놀란 교장",
+      "resolved_name": "놀란 교장",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "웰튼 고등학교": {
+      "description": "웰튼 고등학교 -> 웰튼 고등학교",
+      "resolved_name": "웰튼 고등학교",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

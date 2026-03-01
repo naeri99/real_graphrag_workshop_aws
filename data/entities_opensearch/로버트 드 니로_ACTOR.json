@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "로버트 드 니로",
+    "synonym": [
+      "Bob De Niro",
+      "Bobby De Niro",
+      "Robert De Niro",
+      "Robert DeNiro",
+      "드 니로",
+      "드니로",
+      "로버트",
+      "로버트 드 니로",
+      "로버트 드니로",
+      "로버트드니로",
+      "밥 드 니로"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "로버트 드 니로은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

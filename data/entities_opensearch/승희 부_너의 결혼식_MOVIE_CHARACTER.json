@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "승희 부",
+    "synonym": [
+      "Seung-hee's father",
+      "Seunghee's father",
+      "승이 부",
+      "승이 아빠",
+      "승희 부",
+      "승희 아버지",
+      "승희 아빠",
+      "승희부",
+      "승희아버지",
+      "승희아빠",
+      "전배수 캐릭터"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "승희 부은 영화 '너의 결혼식'의 등장인물로, 전배수이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

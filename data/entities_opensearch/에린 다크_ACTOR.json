@@ -1,0 +1,28 @@
+{
+  "entity": {
+    "name": "에린 다크",
+    "synonym": [
+      "Dark Knight Rises",
+      "Darke",
+      "Erin Darke",
+      "The Dark Knight Rises",
+      "다르크",
+      "다크",
+      "다크 나이트 라이즈",
+      "다크 나이트 라이지즈",
+      "다크나이트라이즈",
+      "배트맨 다크나이트 라이즈",
+      "에린",
+      "에린 다르크",
+      "에린 다크",
+      "에린 닥",
+      "에린다르크",
+      "에린다크",
+      "에린닥"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "에린 다크은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

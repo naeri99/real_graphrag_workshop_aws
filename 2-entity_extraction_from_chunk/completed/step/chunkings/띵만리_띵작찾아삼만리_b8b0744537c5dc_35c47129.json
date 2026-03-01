@@ -1,0 +1,151 @@
+{
+  "chunk_hash": "b8b0744537c5dc",
+  "chunk_id": "띵만리_띵작찾아삼만리_b8b0744537c5dc_35c47129",
+  "user_query": "We begin: *The Way Home*. That's Sang-woo, her daughter's only son. A face marked by time, like a river etching wrinkles into the skin. We need to go before the last bus stops. Sang-woo's grandmother is mute. Listen to her and behave yourself, alright? His mom leaves for Seoul to earn money, entrusting him to his grandmother. Ow, that hurts! Ugh... It's his first time meeting his grandmother. Stupid mute To Sang-woo, she felt like a stranger. The harsh words of a thoughtless city boy don't wound her. She simply walks ahead, waiting for him to follow. Dinner time. She tears kimchi with her hands and places it gently on his rice. But Sang-woo rejects her touch. She offers him candy, carefully saved in a deep cupboard. Still, he turns his back to her. \"Sang-woo's dad? We split up a long time ago.\" \"She ran off at nineteen with no money at all.\" \"What do you think she did to survive?\" Suddenly, Sang-woo has to poop. It's his first time using a chamber pot. \"What are you looking at?\" \"Where are you going?\" Grandma sits beside him, quietly thinking about all the years he lived without a father. The next day. A boy from the nearby village stops by. \"My mom said you should have this.\" \"Is that the grandson from Seoul?\" \"My house is down the hill. You should come by sometime.\" \"Find the Scavenger Solex!\" In the city, Sang-woo was always alone. Making friends wasn't easy for him. He grew up knowing how to play only by himself. In their tiny room, they revolve around each other like",
+  "movie_id": "집으로...",
+  "reviewer": "띵만리_띵작찾아삼만리",
+  "chunk_index": 2,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "집으로",
+      "entity_type": "MOVIE",
+      "entity_description": "집으로(The Way Home)는 도시 소년 상우가 시골 할머니와 함께 지내며 겪는 이야기를 다룬 영화이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "상우",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "상우는 서울에서 온 도시 소년으로, 엄마가 돈을 벌러 가면서 처음 만나는 시골 할머니에게 맡겨진다. 혼자 노는 법만 알고 친구 사귀기가 어려운 아이이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "할머니",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "할머니는 상우의 외할머니로, 말을 하지 못하는 벙어리이다. 손자의 거친 말에도 상처받지 않고 묵묵히 그를 돌본다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "상우 엄마",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "상우의 엄마는 돈을 벌기 위해 서울로 떠나며 아들을 할머니에게 맡긴다. 19살에 돈 없이 집을 나왔고 상우 아빠와는 오래전에 헤어졌다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "마을 소년",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "마을 소년은 근처 마을에 사는 아이로, 엄마 심부름으로 상우네 집에 들러 상우에게 놀러오라고 말한다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "상우",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "집으로",
+      "target_type": "MOVIE",
+      "relationship_description": "상우는 집으로의 주인공이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "할머니",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "집으로",
+      "target_type": "MOVIE",
+      "relationship_description": "할머니는 집으로의 주요 등장인물이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "상우",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "할머니",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "상우는 할머니의 외손자이며, 처음 만나 함께 지내게 된다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "상우 엄마",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "상우",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "상우 엄마는 상우의 어머니로, 그를 할머니에게 맡기고 서울로 떠난다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "상우 엄마",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "할머니",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "상우 엄마는 할머니의 딸이다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "마을 소년",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "상우",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "마을 소년은 상우에게 친구가 될 수 있는 또래 아이로, 놀러오라고 권유한다",
+      "relationship_strength": 6
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "상우 엄마",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "집으로",
+      "target_type": "MOVIE",
+      "relationship_description": "상우 엄마는 집으로의 등장인물이다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "마을 소년",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "집으로",
+      "target_type": "MOVIE",
+      "relationship_description": "마을 소년은 집으로의 등장인물이다",
+      "relationship_strength": 5
+    }
+  ],
+  "entity_resolution": {
+    "집으로": {
+      "description": "집으로 -> 집으로...",
+      "resolved_name": "집으로...",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "상우": {
+      "description": "상우 -> 상우",
+      "resolved_name": "상우",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "할머니": {
+      "description": "할머니 -> 할머니",
+      "resolved_name": "할머니",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "상우 엄마": {
+      "description": "상우 엄마 -> 상우 엄마",
+      "resolved_name": "상우 엄마",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "마을 소년": {
+      "description": "마을 소년 -> 마을 소년",
+      "resolved_name": "마을 소년",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

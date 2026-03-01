@@ -1,0 +1,25 @@
+{
+  "entity": {
+    "name": "학교 선생님",
+    "synonym": [
+      "School Teacher",
+      "Teacher",
+      "先生",
+      "学校の先生",
+      "森山先生",
+      "담임선생님",
+      "모리야마",
+      "모리야마 선생님",
+      "사츠키 선생님",
+      "선생",
+      "선생님",
+      "센세이",
+      "학교 선생님",
+      "학교선생님"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "학교 선생님은 영화 '토토로'의 등장인물로, 와시오 마치코이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

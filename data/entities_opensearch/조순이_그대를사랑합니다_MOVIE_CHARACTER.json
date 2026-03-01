@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "조순이",
+    "synonym": [
+      "Jo Soon-i",
+      "송씨",
+      "순이",
+      "순이 할머니",
+      "순이씨",
+      "순이엄마",
+      "조 순이",
+      "조순이",
+      "조순이 할머니",
+      "조순이씨"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "조순이은 영화 '그대를사랑합니다'의 등장인물로, 김수미이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

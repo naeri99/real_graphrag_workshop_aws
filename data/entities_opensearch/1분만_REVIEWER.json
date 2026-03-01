@@ -1,0 +1,10 @@
+{
+  "entity": {
+    "name": "1분만",
+    "synonym": ["1분만"],
+    "entity_type": "REVIEWER",
+    "summary": "1분만은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

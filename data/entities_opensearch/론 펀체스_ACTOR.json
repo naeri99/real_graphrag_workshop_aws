@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "론 펀체스",
+    "synonym": [
+      "Ron",
+      "Ron Funches",
+      "Ron Funchez",
+      "론",
+      "론 펀체스",
+      "론 펀쳐스",
+      "론 펀치스",
+      "론펀체스",
+      "펀체스"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "론 펀체스은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

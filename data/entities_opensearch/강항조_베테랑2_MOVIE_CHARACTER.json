@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "강항조",
+    "synonym": [
+      "Hang-jo",
+      "Kang Hang-jo",
+      "강 항조",
+      "강항 조",
+      "강항조",
+      "강항조 캐릭터",
+      "강항조씨",
+      "장사장",
+      "항조",
+      "항조 형사",
+      "항조씨"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "강항조은 영화 '베테랑2'의 등장인물로, 허준호이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

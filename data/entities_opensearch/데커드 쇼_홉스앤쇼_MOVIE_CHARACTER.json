@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "데커드 쇼",
+    "synonym": [
+      "Deckard Shaw",
+      "데카드 쇼",
+      "데커드",
+      "데커드 쇼",
+      "데커드쇼",
+      "덱커드 쇼",
+      "덱커드쇼",
+      "빡빡이 쇼",
+      "쇼",
+      "쇼 요원",
+      "영국 빡빡이"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "데커드 쇼은 영화 '홉스앤쇼'의 등장인물로, 제이슨 스테이섬이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

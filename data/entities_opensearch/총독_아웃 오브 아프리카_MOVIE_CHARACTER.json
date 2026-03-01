@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "총독",
+    "synonym": [
+      "Governor",
+      "거버너",
+      "영국 총독",
+      "주지사",
+      "지사",
+      "총독",
+      "총독님",
+      "케냐 총독"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "총독은 영화 '아웃 오브 아프리카'의 등장인물로, 마이클 하버드이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

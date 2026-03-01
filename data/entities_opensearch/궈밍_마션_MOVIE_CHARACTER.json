@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "궈밍",
+    "synonym": [
+      "Guo",
+      "Guo Ming",
+      "Ming",
+      "구오 밍",
+      "구오밍",
+      "궈",
+      "궈 밍",
+      "궈밍",
+      "밍"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "궈밍은 영화 '마션'의 등장인물로, 에디 코이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "이안 맥셰인",
+    "synonym": [
+      "Ian",
+      "Ian Blaine",
+      "Ian McShane",
+      "맥셰인",
+      "이안 맥셰인",
+      "이안 맥쉐인",
+      "이안 블레인",
+      "이안맥셰인",
+      "이언",
+      "이언 맥셰인",
+      "이언맥셰인"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "이안 맥셰인은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

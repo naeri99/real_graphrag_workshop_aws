@@ -1,0 +1,111 @@
+{
+  "chunk_hash": "10bea94407ffd4",
+  "chunk_id": "레몽_10bea94407ffd4_f51d20b0",
+  "user_query": "말을 쓸 거야. 재수생 친구가 가져온 대학 홍보 프린트물에서 유독 빛이 나는 사람을 보게 된 것이었죠. 바로 영숙이였습니다. 그쵸 아직도 잊지 못한 영숙이를 만나기 위해 구현은 결심했습니다. 새레 있는가. 같은 대학에 가기로 말이죠. 진짜요 한 다음에 진짜 그 한 상태 그 좀 전공을 최대 참새 샅샅이 한데 때. 야 제대로 무엇이고 어디서 아 더 웃지 말라 진짜. 그렇게 필사즉생 뛰어넘는 요관 공법으로 우연은 텅 빈 머리를 채워가고 결국 영숙이와 같은 대학에 입학을 하게 됩니다. 어떻게 들어야 환영숙이. 그렇게 그토록 보고 싶던 영숙이를 다시 만나게 되요. [음악] 오오오 투 5. 두 사람이 떨어져 있던 시간은 그리 짧지 않았습니다. 뭐야 나 잠깐 얘기 좀 5. 저는 뭐 소나무숲는 누워서 보다가 합자 치우고 있다. opi 사인데 갱. 으 파투스 내리라고 그럼 겠습니다 예 [음악] 아 이게 무슨 개 같은 경우야. 미친듯이 공부해서 대학에 왔더니 영숙이와 다른 남자의 꽁냥꽁냥은 그저 똑 같이 써야 되는 산하의 황우여. 그대로 있을 수밖에 없습니다. 투 무슨 일인데 남자랑 여자랑 일관에서 반면 4. 근데 원래 소개되고 서적은 와 협박 기반 공부할 수 없어. 제가 이야 자야 같았고요 갈색빛. 미안해요 제가 100? 이란 100일이 좋구나 후애 아니고. 그렇게 의경 빼고는 모두가 사랑의 대학생활을 만들어 가고 있습니다. 버전은 밸브. 저기 제가 신입생이라서 길을 잘 몰라서 그러는데 그쪽 집으로 가려면 어디로 가야 돼요. 하지만 영숙이 생일만큼은 챙겨 주고 싶었던 의원은 꽃 한 송이를 되고 그녀에게 가보지만 그 시설 영숙이는 이제 우연의 추억 속 존재였습니다. 아 그렇게 생일을 추억의 목걸이로 결심했지만 우연한 뜻밖의 사실 하나를 알게 되는데. 팔힘 사람당 걸어갈. 바로 영숙이 남자친구가 아 새끼라는 사실을 말이죠. 우연은 이 사실을 곧장 영숙이에게 알리지만. 완성의 정신 좀 차려. 니 남자친구 딴 여자한테 일억 가지고 보수 들어 쓰십니다. 나도 나도 실망 있었으니 야 아. 결국 진실을 알고 있는 우연은 뚝배기를 깨 버리게 되고 우연과 영숙이 두 번째 만남도 끝이 났습니다. 그렇게 시간은 또 흘러 취전을 준비하던 우연 앞에 영숙이와의 세 번째 만남이 찾아옵니다. 영숙이는 우연한 기회로 사진 모델 겸 리포터 일을 하고 있었는데요. 우연은 이 기회를 놓칠 수 없었습니다. 그렇게 우연은 영숙이 렌즈 투를 자처해 이번에도 영숙이 곁에 면도기 되는데. 야 넌 예 군대 시스템은 차 너 아니냐. 사실 이 만남이 있기 전 2.5 만남이 있었습니다. 또 고흥 대한다면 배웅해 작가가 있든 날에 가치가 준다는 건 이건 뭐 거의 고백이나 마찬가지입니다. 어쩌라구 보수 합니다 나방 참거나. 아마 누가 이렇게 써 매일 우선은 자 놓쳐. 영숙이까 어쩔 수 없네 자국 아래 파토리 진짜 주고 와우 궁 5. 우연은 그날 밤 영숙이에게 정말 자신의 전부를 보여줬습니다. 의원의 짙은 소까지 말이죠. 핫요가 cool 아 안녕하세요 저희 가요 마지막 시기 아니고요 빛 날 미치가 너무",
+  "movie_id": "피끓는 청춘",
+  "reviewer": "레몽",
+  "chunk_index": 3,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "영숙",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "영숙은 구현이 오랫동안 짝사랑해온 여성으로, 대학 홍보물에서 처음 보고 반하게 된 인물이다. 나중에 사진 모델 겸 리포터 일을 하게 된다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "구현",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "구현(우연)은 영숙을 만나기 위해 같은 대학에 진학한 남성 캐릭터로, 영숙을 오랫동안 짝사랑하며 여러 번의 만남을 시도한다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "우연",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "우연은 구현의 다른 이름으로, 영숙을 짝사랑하며 그녀의 곁에 있기 위해 노력하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "영숙이 남자친구",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "영숙의 남자친구로, 다른 여자와 바람을 피우다가 우연에게 발각되는 인물이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "구현",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "영숙",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "구현은 영숙을 짝사랑하여 같은 대학에 진학했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "우연",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "영숙",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "우연은 영숙을 여러 번 만나며 그녀 곁에 있으려 노력한다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "구현",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "우연",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "구현과 우연은 동일 인물이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "영숙이 남자친구",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "영숙",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "영숙의 남자친구였으나 바람을 피워 관계가 끝났다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "우연",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "영숙이 남자친구",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "우연이 영숙이 남자친구의 바람 사실을 발견하고 영숙에게 알렸다",
+      "relationship_strength": 7
+    }
+  ],
+  "entity_resolution": {
+    "영숙": {
+      "description": "영숙 -> 영숙",
+      "resolved_name": "영숙",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "구현": {
+      "description": "구현 -> 우연",
+      "resolved_name": "우연",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "우연": {
+      "description": "우연 -> 우연",
+      "resolved_name": "우연",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "영숙이 남자친구": {
+      "description": "영숙이 남자친구 -> 영숙이 남자친구",
+      "resolved_name": "영숙이 남자친구",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "entity": {
+    "name": "캣걸",
+    "synonym": [
+      "Cat Girl",
+      "캣 걸",
+      "캣걸",
+      "캣걸 캐릭터",
+      "캣걸씨"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "캣걸은 영화 '슬픔보다 더 슬픈 이야기'의 등장인물로, 남규리이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "entity": {
+    "name": "그랜 토리노",
+    "synonym": [
+      "Gran Torino",
+      "Grand Torino",
+      "그란 토리노",
+      "그란토리노",
+      "그랜 또리노",
+      "그랜 토리노",
+      "그랜토리노"
+    ],
+    "entity_type": "MOVIE",
+    "summary": "그랜 토리노",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

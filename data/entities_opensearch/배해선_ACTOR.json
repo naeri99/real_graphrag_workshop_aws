@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "배해선",
+    "synonym": [
+      "Bae Hae Sun",
+      "Bae Hae-sun",
+      "Bae Haesun",
+      "HaeSun Bae",
+      "배 해선",
+      "배해선",
+      "배해선 배우",
+      "배해선 씨",
+      "해선"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "배해선은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

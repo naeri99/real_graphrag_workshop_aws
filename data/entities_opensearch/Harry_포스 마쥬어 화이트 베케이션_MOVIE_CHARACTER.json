@@ -1,0 +1,16 @@
+{
+  "entity": {
+    "name": "Harry",
+    "synonym": [
+      "Harry",
+      "아들",
+      "하리",
+      "해리",
+      "헤리"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "Harry은 영화 '포스 마쥬어 화이트 베케이션'의 등장인물로, 빈센트 베테르그렌이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "entity": {
+    "name": "키스",
+    "synonym": [
+      "Keith",
+      "Keith Frazier",
+      "케이스",
+      "크리스토프",
+      "키스",
+      "키스 크리스토퍼",
+      "키스크리스토프",
+      "키스프레지어",
+      "키쓰",
+      "키이스",
+      "프레지어",
+      "프레지어 형사"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "키스은 영화 '데스티네이션 웨딩'의 등장인물로, 테드 듀보스트이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

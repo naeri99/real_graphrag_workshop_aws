@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "베스 요한센",
+    "synonym": [
+      "Beth Johanssen",
+      "Johanssen",
+      "베스",
+      "베스 요한센",
+      "베스 요한슨",
+      "베스요한센",
+      "요한센",
+      "요한슨",
+      "조한센"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "베스 요한센은 영화 '마션'의 등장인물로, 케이트 마라이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

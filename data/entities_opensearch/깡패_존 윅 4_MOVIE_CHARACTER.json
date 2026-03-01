@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "깡패",
+    "synonym": [
+      "Gangster",
+      "Thug",
+      "갱",
+      "갱스터",
+      "건달",
+      "깡패",
+      "깡패 캐릭터",
+      "불량배",
+      "조폭",
+      "폭력배"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "깡패은 영화 '존 윅 4'의 등장인물로, 로버트 베스이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

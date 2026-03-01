@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "이용구",
+    "synonym": [
+      "Lee Yong-gu",
+      "바보 용구",
+      "예승이아빠",
+      "용구",
+      "용구 아빠",
+      "용구 아저씨",
+      "용구씨",
+      "용구아빠",
+      "이 용구",
+      "이용구",
+      "이용구씨"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "이용구은 영화 '7번방의 선물'의 등장인물로, 류승룡이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "entity": {
+    "name": "강상구",
+    "synonym": [
+      "Kang Sang-goo",
+      "Kang Sang-gu",
+      "Sang-gu",
+      "강 상구",
+      "강상 구",
+      "강상구",
+      "강씨",
+      "상구",
+      "상구 씨",
+      "상구씨",
+      "상구야",
+      "상구이"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "강상구은 영화 '택시운전사'의 등장인물로, 권순준이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

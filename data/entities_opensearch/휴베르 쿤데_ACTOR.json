@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "휴베르 쿤데",
+    "synonym": [
+      "Hubert Koundé",
+      "위베르 쿤데",
+      "쿤데",
+      "후베르 쿤데",
+      "휴버트 쿤데",
+      "휴버트 쿤데이",
+      "휴베르 쿤데",
+      "휴베르쿤데",
+      "휴베르트 쿤데"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "휴베르 쿤데은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

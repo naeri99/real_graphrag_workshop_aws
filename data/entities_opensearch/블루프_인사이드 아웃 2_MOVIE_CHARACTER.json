@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "블루프",
+    "synonym": [
+      "Bloof",
+      "Bloofy",
+      "블루",
+      "블루프",
+      "블루프 캐릭터",
+      "블루프이",
+      "블루프캐릭터",
+      "블루피",
+      "블루피 캐릭터"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "블루프은 영화 '인사이드 아웃 2'의 등장인물로, 론 펀체스이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

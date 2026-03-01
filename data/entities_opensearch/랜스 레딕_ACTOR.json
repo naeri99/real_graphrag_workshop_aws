@@ -1,0 +1,18 @@
+{
+  "entity": {
+    "name": "랜스 레딕",
+    "synonym": [
+      "Lance Reddick",
+      "란스 레딕",
+      "랜스 래딕",
+      "랜스 레디크",
+      "랜스 레딕",
+      "랜스레딕",
+      "레딕"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "랜스 레딕은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

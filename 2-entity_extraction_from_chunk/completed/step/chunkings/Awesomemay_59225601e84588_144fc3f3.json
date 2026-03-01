@@ -1,0 +1,161 @@
+{
+  "chunk_hash": "59225601e84588",
+  "chunk_id": "Awesomemay_59225601e84588_144fc3f3",
+  "user_query": "characters and the stuff we want to see there wasn't any moments where I was like why are we focusing on this like I did multiple times watching the Garfield movie and when we do get slower Parts it's super apparent and more appreciated however however I won't deny that there is an actual writing issue in the fact that it does get sidetracked a few times where it kind of cuts story lines in half to focus on another one not really abandoning them but awkwardly putting them to the side for a little while through the middle act it feels like it juggles trying to focus either on Lil Petey's story or the Flippy the fish story and it doesn't really reach a balance but it was only a small gripe I had and when Lil Petey and Petey's storyline is on screen it was so Perfection that I completely ignored that problem there's a small emotional Essence that gets built up throughout the film as Petey reflects on how he was raised poorly and starts to see himself as his dad in the way he's treating Lil Petey and it gets pretty deep with it and the concept of how someone becomes good or bad it's not wild robot deep but it's an added bonus to an already fun film and then it also perfectly ties into Dog Man's small emotional Arc as he deals with the feeling of loss of an old life I really did not expect the film to hone in on the concept of Abandonment and it really didn't have to do that especially for a film so directed towards a younger audience but I'm so glad it does this is what we need",
+  "movie_id": "도그맨",
+  "reviewer": "Awesomemay",
+  "chunk_index": 8,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "LIL PETEY",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Lil Petey는 영화에서 Petey와 관련된 스토리라인을 가진 캐릭터로, Petey가 자신의 양육 방식을 반성하게 만드는 중요한 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "PETEY",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Petey는 자신이 어떻게 잘못 양육되었는지 반성하고, Lil Petey를 대하는 방식에서 자신의 아버지를 보게 되는 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "FLIPPY THE FISH",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Flippy the fish는 영화에서 별도의 스토리라인을 가진 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "DOG MAN",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Dog Man은 영화의 주요 캐릭터로, 과거 삶의 상실감을 다루는 감정적 아크를 가지고 있다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "DOG MAN",
+      "entity_type": "MOVIE",
+      "entity_description": "Dog Man은 어린 관객을 대상으로 한 영화로, 버림받음의 개념과 사람이 어떻게 선하거나 악하게 되는지에 대한 깊은 주제를 다루는 작품이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "GARFIELD MOVIE",
+      "entity_type": "MOVIE",
+      "entity_description": "Garfield movie는 리뷰어가 비교 대상으로 언급한 영화로, 불필요한 장면에 집중하는 문제가 있었다고 평가받았다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "WILD ROBOT",
+      "entity_type": "MOVIE",
+      "entity_description": "Wild Robot은 감정적 깊이의 비교 대상으로 언급된 영화이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "LIL PETEY",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "DOG MAN",
+      "target_type": "MOVIE",
+      "relationship_description": "Lil Petey는 Dog Man 영화의 주요 캐릭터이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "PETEY",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "DOG MAN",
+      "target_type": "MOVIE",
+      "relationship_description": "Petey는 Dog Man 영화의 주요 캐릭터이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "PETEY",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "LIL PETEY",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Petey는 Lil Petey를 양육하며 자신의 아버지와 같은 모습을 발견하게 된다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "FLIPPY THE FISH",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "DOG MAN",
+      "target_type": "MOVIE",
+      "relationship_description": "Flippy the fish는 Dog Man 영화에서 별도의 스토리라인을 가진 캐릭터이다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "DOG MAN",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "DOG MAN",
+      "target_type": "MOVIE",
+      "relationship_description": "Dog Man 캐릭터는 Dog Man 영화의 주인공으로 감정적 아크를 가지고 있다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "DOG MAN",
+      "source_type": "MOVIE",
+      "target_entity": "GARFIELD MOVIE",
+      "target_type": "MOVIE",
+      "relationship_description": "리뷰어가 Dog Man과 Garfield movie를 비교하며 Dog Man이 더 집중력 있는 스토리텔링을 보여준다고 평가했다",
+      "relationship_strength": 5
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "DOG MAN",
+      "source_type": "MOVIE",
+      "target_entity": "WILD ROBOT",
+      "target_type": "MOVIE",
+      "relationship_description": "리뷰어가 Dog Man의 감정적 깊이를 Wild Robot과 비교했다",
+      "relationship_strength": 4
+    }
+  ],
+  "entity_resolution": {
+    "LIL PETEY": {
+      "description": "LIL PETEY -> LIL PETEY",
+      "resolved_name": "LIL PETEY",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "PETEY": {
+      "description": "PETEY -> PETEY",
+      "resolved_name": "PETEY",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "FLIPPY THE FISH": {
+      "description": "FLIPPY THE FISH -> FLIPPY THE FISH",
+      "resolved_name": "FLIPPY THE FISH",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "DOG MAN": {
+      "description": "DOG MAN -> DOG MAN",
+      "resolved_name": "DOG MAN",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "GARFIELD MOVIE": {
+      "description": "GARFIELD MOVIE -> GARFIELD MOVIE",
+      "resolved_name": "GARFIELD MOVIE",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "WILD ROBOT": {
+      "description": "WILD ROBOT -> WILD ROBOT",
+      "resolved_name": "WILD ROBOT",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

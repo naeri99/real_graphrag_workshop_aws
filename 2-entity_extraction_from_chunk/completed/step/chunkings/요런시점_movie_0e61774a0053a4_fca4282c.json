@@ -1,0 +1,128 @@
+{
+  "chunk_hash": "0e61774a0053a4",
+  "chunk_id": "요런시점_movie_0e61774a0053a4_fca4282c",
+  "user_query": "은광이 위치한 도시 이름이고 3편에서 마이클 비숍이\n마지막에 타고오는 파트나 호도 조셉 콘래드의 소설\n\"로드 짐\"에 나오는 배입니다 이번 로물루스에서\n주인공들이 몰고다니는 폐품수집선 코르벨란 호도 노스트로모 소설 속\n캐릭터 이름입니다 파드레 코르벨란은\n가톨릭신부이면서 동시에\n혁명지도자이기도 한 캐릭터인데요 웨일랜드 유타니의 지배로부터\n벗어나고 싶은 주인공들의 마음을 표현한\n작명이 아니었나 싶네요 그 외에도 영화에는 다른 에이리언의 장면을\n오마주한 장면들이 많습니다 바닥의 연기에 비친\n레이저라든가 물 먹는 새 장난감 같은\n사소한 디테일들도 많이 찾아볼 수 있었죠 우주선에 구멍을 내어\n제노모프를 우주 밖으로 사출하는 엔딩도 빼놓을 수 없는\n시리즈의 전통입니다 또한 이번에는\n계기판에서 \"ㅊ\"자가 거꾸로 된 표식을\n자주 볼 수 있었는데요 이는 에이리언 1편\n이미 만들어 두었던 우주선용\n\"표준 기호\" 중의 하나로 인공 중력이 없음을\n나타내는 뜻입니다 로물루스에서는 인공 중력 장치를 껐다 켰다 하는\n장면이 많았기 때문에 이 ㅊ자 기호를 유독\n많이 볼 수 있었던 것 같습니다 이렇게 로물루스의\n세계관과 디테일들을 한번 쭉 정리해 보았는데요 그 외에도 제가 미처 언급하지 못한\n디테일이나 의문점이 있으시면 댓글로 남겨주시고요 미진한 부분은 따로 추가영상으로\n보완하도록 하겠습니다",
+  "movie_id": "에이리언 로물",
+  "reviewer": "요런시점_movie",
+  "chunk_index": 5,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "로물루스",
+      "entity_type": "MOVIE",
+      "entity_description": "로물루스는 에이리언 시리즈의 영화로, 주인공들이 웨일랜드 유타니의 지배로부터 벗어나고자 하는 이야기를 담고 있으며, 인공 중력 장치를 껐다 켰다 하는 장면이 많이 등장한다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "에이리언 1편",
+      "entity_type": "MOVIE",
+      "entity_description": "에이리언 시리즈의 첫 번째 작품으로, 우주선용 표준 기호 등의 세계관을 확립한 영화이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "에이리언 3편",
+      "entity_type": "MOVIE",
+      "entity_description": "에이리언 시리즈의 세 번째 작품으로, 마이클 비숍이 파트나 호를 타고 등장하는 장면이 있다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "마이클 비숍",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "에이리언 3편에서 마지막에 파트나 호를 타고 오는 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "파드레 코르벨란",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "조셉 콘래드의 소설 노스트로모에 등장하는 캐릭터로, 가톨릭 신부이면서 동시에 혁명지도자이기도 한 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "조셉 콘래드",
+      "entity_type": "MOVIE_STAFF",
+      "entity_description": "\"로드 짐\"과 \"노스트로모\" 등의 소설을 쓴 작가로, 에이리언 시리즈의 명명에 영향을 준 인물이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "로물루스",
+      "source_type": "MOVIE",
+      "target_entity": "에이리언 1편",
+      "target_type": "MOVIE",
+      "relationship_description": "로물루스는 에이리언 1편에서 만들어진 우주선용 표준 기호를 사용하며 시리즈의 전통을 이어간다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "로물루스",
+      "source_type": "MOVIE",
+      "target_entity": "에이리언 3편",
+      "target_type": "MOVIE",
+      "relationship_description": "로물루스는 에이리언 3편과 같은 시리즈에 속하며, 제노모프를 우주 밖으로 사출하는 엔딩 등 시리즈의 전통을 공유한다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "마이클 비숍",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "에이리언 3편",
+      "target_type": "MOVIE",
+      "relationship_description": "마이클 비숍은 에이리언 3편에서 파트나 호를 타고 등장하는 캐릭터이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "파드레 코르벨란",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "로물루스",
+      "target_type": "MOVIE",
+      "relationship_description": "로물루스의 폐품수집선 코르벨란 호의 이름이 파드레 코르벨란 캐릭터에서 유래했다",
+      "relationship_strength": 7
+    }
+  ],
+  "entity_resolution": {
+    "로물루스": {
+      "description": "로물루스 -> 에이리언 로물",
+      "resolved_name": "에이리언 로물",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "에이리언 1편": {
+      "description": "에이리언 1편 -> 에이리언 1편",
+      "resolved_name": "에이리언 1편",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "에이리언 3편": {
+      "description": "에이리언 3편 -> 에이리언 3편",
+      "resolved_name": "에이리언 3편",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "마이클 비숍": {
+      "description": "마이클 비숍 -> 마이클 비숍",
+      "resolved_name": "마이클 비숍",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "파드레 코르벨란": {
+      "description": "파드레 코르벨란 -> 파드레 코르벨란",
+      "resolved_name": "파드레 코르벨란",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "조셉 콘래드": {
+      "description": "조셉 콘래드 -> 조셉 콘래드",
+      "resolved_name": "조셉 콘래드",
+      "entity_type": "MOVIE_STAFF",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

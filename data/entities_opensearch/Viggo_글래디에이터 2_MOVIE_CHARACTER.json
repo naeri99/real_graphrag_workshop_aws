@@ -1,0 +1,17 @@
+{
+  "entity": {
+    "name": "Viggo",
+    "synonym": [
+      "Viggo",
+      "비거",
+      "비고",
+      "비고 캐릭터",
+      "비고역",
+      "빅고"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "Viggo은 영화 '글래디에이터 2'의 등장인물로, 리오르 라즈이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

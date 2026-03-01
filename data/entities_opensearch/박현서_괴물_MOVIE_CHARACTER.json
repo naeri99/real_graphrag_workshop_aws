@@ -1,0 +1,23 @@
+{
+  "entity": {
+    "name": "박현서",
+    "synonym": [
+      "Hyun-seo",
+      "Hyunseo",
+      "Park Hyun-seo",
+      "강두딸",
+      "딸",
+      "박 현서",
+      "박현 서",
+      "박현서",
+      "박현서 캐릭터",
+      "현서",
+      "현서씨",
+      "현서야"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "박현서은 영화 '괴물'의 등장인물로, 고아성이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

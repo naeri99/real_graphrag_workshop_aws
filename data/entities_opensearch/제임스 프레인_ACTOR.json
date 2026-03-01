@@ -1,0 +1,17 @@
+{
+  "entity": {
+    "name": "제임스 프레인",
+    "synonym": [
+      "Frain",
+      "James Frain",
+      "제임스 프레인",
+      "제임스프레인",
+      "제임즈 프레인",
+      "프레인"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "제임스 프레인은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

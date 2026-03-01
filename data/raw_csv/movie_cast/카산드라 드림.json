@@ -1,0 +1,62 @@
+{
+  "movie_title": "카산드라 드림",
+  "director": [
+    {
+      "name": "우디 앨런",
+      "name_en": "Woody Allen"
+    }
+  ],
+  "cast": [
+    {
+      "actor": "이완 맥그리거",
+      "actor_en": "Ewan McGregor",
+      "character": "이안"
+    },
+    {
+      "actor": "콜린 파렐",
+      "actor_en": "Colin Farrell",
+      "character": "테리"
+    },
+    {
+      "actor": "톰 윌킨슨",
+      "actor_en": "Tom Wilkinson",
+      "character": "Howard"
+    },
+    {
+      "actor": "해일리 엣웰",
+      "actor_en": "Hayley Atwell",
+      "character": "Kate"
+    },
+    {
+      "actor": "샐리 호킨스",
+      "actor_en": "Sally Hawkins",
+      "character": "Angela"
+    },
+    {
+      "actor": "필 데이비스",
+      "actor_en": "Phil Davis",
+      "character": "마틴 번스"
+    },
+    {
+      "actor": "존 벤필드",
+      "actor_en": "John Benfield",
+      "character": "브라이언 블레인"
+    },
+    {
+      "actor": "클레어 히긴스",
+      "actor_en": "Clare Higgins",
+      "character": "도로시 블레인"
+    },
+    {
+      "actor": "애슐리 매더퀴",
+      "actor_en": "Ashley Madekwe",
+      "character": "루시"
+    }
+  ],
+  "review": [
+    "./data/review/카산드라 드림/카산드라 드림_1VATdBMIiCs.json",
+    "./data/review/카산드라 드림/카산드라 드림_bnDNYagGqpQ.json",
+    "./data/review/카산드라 드림/카산드라 드림_o1u9tf1Pg2U.json",
+    "./data/review/카산드라 드림/카산드라 드림_pP3BU7ZgkZ4.json"
+  ]
+}

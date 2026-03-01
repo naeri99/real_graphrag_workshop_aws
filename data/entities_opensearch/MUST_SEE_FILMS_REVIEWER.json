@@ -1,0 +1,13 @@
+{
+  "entity": {
+    "name": "MUST_SEE_FILMS",
+    "synonym": [
+      "MUST_SEE_FILMS",
+      "MUST SEE FILMS"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "MUST_SEE_FILMS은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

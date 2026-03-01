@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "샤이아 러버프",
+    "synonym": [
+      "Shia LaBeouf",
+      "라보프",
+      "러버프",
+      "샤이아",
+      "샤이아 라버프",
+      "샤이아 라보프",
+      "샤이아 러버프",
+      "샤이아라보프",
+      "샤이아러버프"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "샤이아 러버프은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

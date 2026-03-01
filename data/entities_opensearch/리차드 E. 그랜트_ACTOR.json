@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "리차드 E. 그랜트",
+    "synonym": [
+      "Richard E. Grant",
+      "그랜트",
+      "리차드",
+      "리차드 E. 그랜트",
+      "리차드 그랜트",
+      "리차드그랜트",
+      "리처드 E. 그랜트",
+      "리처드 그랜트"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "리차드 E. 그랜트은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

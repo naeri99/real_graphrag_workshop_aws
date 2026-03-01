@@ -1,0 +1,13 @@
+{
+  "entity": {
+    "name": "아재영화_Comani_Movie",
+    "synonym": [
+      "아재영화_Comani_Movie",
+      "아재영화 Comani Movie"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "아재영화_Comani_Movie은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "chunk_hash": "d652833a8e94d0",
+  "chunk_id": "FriezZaddy_d652833a8e94d0_2e81d23d",
+  "user_query": "Well, the thing is, his landlord best friend aka best friend invites him to eat because all he has was rice. But he was a tales buddy. And then he overhears one of the guys because he says he speaks English that the guys aren't paying him a hundred thousand won, which I'm like, take that hundred bucks. So he's listening and then his friend is like, wait, all English? He is hopping to his taxi. He's like something like that. But it was funny because he actually left and then he picks up Peter. And then the other guy that was his informant talking about because no one's heard about anything. And he knows that them, he doesn't know the roads are blocked to go in Gwangju. Cuz what happened is what happened is they go there driving. It takes a while from Seoul from there up. I'm thinking, I don't actually have no idea, maybe two hours, maybe an hour. Now I had no, I haven't driven there when I went to Korea. We didn't go. They get there, roadblock. Mm-hmm. Yeah. And he passed around it and then there's soldiers and then they go back like, what the hell's a Seoul taxi doing here? And they're like, oh, and then finally he thought of ideas like wait, wait, wait, he knows English. But like, oh, he was telling to the right like slow please. Oh, I remember there was like a girl long time ago. She's like slow please, bus, ooh, bus, le métro. Okay, he pretended that he was a very important person and that he needed documents that had to do with the U.S.-Korean relations. And they're",
+  "movie_id": "택시운전사",
+  "reviewer": "FriezZaddy",
+  "chunk_index": 2,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "택시운전사",
+      "entity_type": "MOVIE",
+      "entity_description": "택시운전사는 광주로 향하는 택시 운전사의 이야기를 다룬 영화로, 서울에서 광주까지의 여정과 도로 봉쇄 상황을 보여준다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "만섭",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "만섭은 서울의 택시 운전사로, 밥만 있는 가난한 상황에서 친구의 초대로 식사를 하고, 영어를 할 줄 아는 외국인 승객을 태우게 되는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "피터",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "피터는 만섭의 택시에 탑승하는 영어를 사용하는 외국인 승객으로, 광주로 가려는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "집주인 친구",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "집주인 친구는 만섭의 가장 친한 친구로, 밥밖에 없는 만섭을 식사에 초대하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "정보원",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "정보원은 만섭에게 정보를 제공하는 인물로, 아무도 광주 상황에 대해 들은 바가 없다고 말하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "광주",
+      "entity_type": "MOVIE",
+      "entity_description": "광주는 영화에서 주인공들이 향하는 목적지로, 도로가 봉쇄되어 있고 군인들이 배치된 곳이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "만섭",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "택시운전사",
+      "target_type": "MOVIE",
+      "relationship_description": "만섭은 택시운전사의 주인공이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "만섭",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "집주인 친구",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "만섭과 집주인 친구는 가장 친한 친구 사이이다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "만섭",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "피터",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "만섭은 피터를 택시에 태워 광주로 데려간다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "만섭",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "정보원",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "정보원은 만섭에게 광주 상황에 대한 정보를 제공한다",
+      "relationship_strength": 6
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "피터",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "택시운전사",
+      "target_type": "MOVIE",
+      "relationship_description": "피터는 택시운전사에 등장하는 외국인 승객이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "피터",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "광주",
+      "target_type": "MOVIE",
+      "relationship_description": "피터는 광주로 가려고 한다",
+      "relationship_strength": 8
+    }
+  ],
+  "entity_resolution": {
+    "택시운전사": {
+      "description": "택시운전사 -> 택시운전사",
+      "resolved_name": "택시운전사",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "만섭": {
+      "description": "만섭 -> 김만섭",
+      "resolved_name": "김만섭",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "피터": {
+      "description": "피터 -> 페터",
+      "resolved_name": "페터",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "집주인 친구": {
+      "description": "집주인 친구 -> 집주인 친구",
+      "resolved_name": "집주인 친구",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "정보원": {
+      "description": "정보원 -> 정보원",
+      "resolved_name": "정보원",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "광주": {
+      "description": "광주 -> 광주",
+      "resolved_name": "광주",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

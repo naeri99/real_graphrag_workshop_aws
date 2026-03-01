@@ -1,0 +1,13 @@
+{
+  "entity": {
+    "name": "곽자건",
+    "synonym": [
+      "곽자건",
+      "Derek Kwok"
+    ],
+    "entity_type": "MOVIE_STAFF",
+    "summary": "곽자건은 영화 감독입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

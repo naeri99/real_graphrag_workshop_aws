@@ -1,0 +1,23 @@
+{
+  "entity": {
+    "name": "프랭크 쿠시먼",
+    "synonym": [
+      "Frank",
+      "Frank Cushman",
+      "Frank Goode",
+      "쿠시먼",
+      "프랜크",
+      "프랭크",
+      "프랭크 구드",
+      "프랭크 아저씨",
+      "프랭크 쿠쉬먼",
+      "프랭크 쿠시먼",
+      "프랭크쿠시먼",
+      "후랭크"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "프랭크 쿠시먼은 영화 '제리 맥과이어'의 등장인물로, 제리 오코넬이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

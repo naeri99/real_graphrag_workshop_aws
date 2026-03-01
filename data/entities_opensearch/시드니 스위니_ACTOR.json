@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "시드니 스위니",
+    "synonym": [
+      "Sydney",
+      "Sydney Sweeney",
+      "스위니",
+      "시드니",
+      "시드니 스웨니",
+      "시드니 스위니",
+      "시드니스위니",
+      "씨드니 스위니"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "시드니 스위니은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

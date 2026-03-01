@@ -1,0 +1,26 @@
+{
+  "chunk_hash": "de2d2f12080d60",
+  "chunk_id": "bestzine_search_de2d2f12080d60_029175d2",
+  "user_query": "[음악] [음악] [음악] [음악] [음악]",
+  "movie_id": "극비수사",
+  "reviewer": "bestzine_search",
+  "chunk_index": 1,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "음악",
+      "entity_type": "MOVIE_STAFF",
+      "entity_description": "음악은 영화 제작에서 작곡이나 음악 감독을 담당하는 역할을 나타내는 표기이다"
+    }
+  ],
+  "relationships": [],
+  "entity_resolution": {
+    "음악": {
+      "description": "음악 -> 음악",
+      "resolved_name": "음악",
+      "entity_type": "MOVIE_STAFF",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "entity": {
+    "name": "성한모",
+    "synonym": [
+      "성 한모",
+      "성한 모",
+      "성한모",
+      "이발사",
+      "이발사 성한모",
+      "한모",
+      "효자동 이발사"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "성한모은 영화 '효자동이발사'의 등장인물로, 송강호이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

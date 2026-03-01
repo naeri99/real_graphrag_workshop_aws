@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "수표 처",
+    "synonym": [
+      "Su-pyo wife",
+      "Su-pyo's wife",
+      "Supyo's wife",
+      "서윤아 캐릭터",
+      "수표 부인",
+      "수표 아내",
+      "수표 와이프",
+      "수표 처",
+      "수표부인",
+      "수표아내",
+      "수표처"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "수표 처은 영화 '너의 결혼식'의 등장인물로, 서윤아이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

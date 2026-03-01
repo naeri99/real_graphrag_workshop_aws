@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "Dan",
+    "synonym": [
+      "Dan",
+      "다니",
+      "다안",
+      "단",
+      "단느",
+      "대니",
+      "대안",
+      "댄",
+      "던",
+      "덴"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "Dan은 영화 '미드소마'의 등장인물로, 비요른 안드레센이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

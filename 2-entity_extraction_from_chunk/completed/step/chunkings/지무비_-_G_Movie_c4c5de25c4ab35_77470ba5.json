@@ -1,0 +1,71 @@
+{
+  "chunk_hash": "c4c5de25c4ab35",
+  "chunk_id": "지무비_-_G_Movie_c4c5de25c4ab35_77470ba5",
+  "user_query": "결국 모르기 터져 버리고 지나가던 동네 할아버지의 도움으로 노을이 져 갈 때가 돼서야 겨우 집에 도착하고 마중 나와있던 할머니를 발견한 상우는 잔뜩 쫄아 버립니다 이럴 땐 보통 엄마에게 겁나 털렸기 때문이죠 천천히 할머니가 다가오고 pst 가 최고죠 올랐을 때 해물이 다 그냥 지나쳐 버립니다 심지어 그녀의 머리엔 자신이 훔친 빈뇨 대신 녹스 기 녹슨 숟가락에 끼어 있었죠 lee 아 손주에 한마디에 아 아파하지 말없이 집으로 향하는 할머니 d2 아주 천천히지만 조금씩 가까워지기 시작한다 다음 제대로 밥을 먹지 않는 상우가 걱정된 할머니가 그에게 말을 건데 뭐 불과 착하게도 보다 4박 죽여버려야 먹고 싶은가 통 더 순 써 말은 퉁명스럽게 찜한 누구보다 빠르게 메뉴를 제시합니다 캠프 시작 헤다 가 힝 답게 치킨 그리고 갑자기 분위기 몸으로 말해요 와 쌀을 꽃보다 5 스팅 아치 게 기적의 커뮤니케이션이 성공하고 할머니는 상우를 위해 예전에 말려 뒀던 나무를 챙겨 시내로 나가 줘 사무치는 님을 생각하며 신나는 마음을 주체하지 못하고 핏 바람도 불고 낙서도 쉬워 놓으며 그 어느 때보다 행복하게 꿈나라에 빠져 있었는데 짜잔 생각이 등장합니다 70 넘은 평생을 산골에서만 살아온 할머니가 알고 있는 치킨은 오로지 닭 뿐이었죠 눈을 뜬 상우는 [음악] 으 아아아 책임 캡을 푹 꺼진 택 쑥을 복은 생 떼를 부리기 시작합니다 할머니는 상우의 아 봄을 위해 닭다리를 첨에 길을 하지만 좋아했다 박 3 온도 안감이 거부해 버리죠 이제 말씀 했던 배고픔에 깨어보니 상우는 기대어 이들이 톤 먹방을 십니다 다음 상우 할머니는 같이 시내 나가게 되는데 곧 온다는 할머니의 말과는 달리 오라는 버스는 안 오고 진짜 동네 사람들은 죄다 모래 버리죠 배차가 하루에 주색에 골인 시골 특유의 지 풍경입니다 메시가 이제 겨우 도착한 시내에서 할머니가 본격적으로 물건을 팔기 시작하는데 말을 하지 못하는 그녀가 다른 사람들에게 물건을 팔기가 쉽지 않아 보였죠 평생을 이렇게 살아왔을 할머니 모습을 보며 어린 상우의 마음에도 많은 것이 느껴집니다 할머니는 이렇게 힘겹게 번 돈으로 수 손주에게 새신을 490,000 맛있는 짜장면까지 사 주지만 정작 본인은 전혀 먹지 않았죠 5,300 않는 오늘 하루종일 고생해 본 돈을 꼬기 꼬기 주머니에서 꺼내 짜장면 값을 계산합니다 [음악] 그렇게 집으로 가는게 어리디 어렵던 상우 [음악] 으 한층 성장한 것 같았죠 이어서 집에 가는 버스에 타려는데 할머니가 버스에 탔다가 내리기 반복합니다 플레이어 이뻐서 마쓰다 우파 에서 그릴 전혀 있지 못하기에 매번 같이 타는 사람들을 보고 버스 노선을 익힌 것이었죠 할머니는 할 말이 있는지 상우를 불러보지만 아 상우는 다른 데에 정신이 팔렸습니다 꼴에 남자라고 자기 또래의 여자에게 넋이 나가있던 거였죠 얘야 너 먹어 심려가 까봐 또 모르시 4 그때 때마침 초코파이 먹방을 발견하고 q8 gt 역시 주문을 합니다 할머니는 떨어져 있는 과자 봉지를 추억 친구 4 슈퍼로 향하 줘 그렇게 도착한 가게에서 할머니들은 팩 왔어야",
+  "movie_id": "집으로...",
+  "reviewer": "지무비_-_G_Movie",
+  "chunk_index": 2,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "상우",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "상우는 도시에서 온 어린 소년으로, 말을 못하는 시골 할머니와 함께 지내게 되면서 점차 성장하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "할머니",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "할머니는 말을 하지 못하는 노인으로, 평생 산골에서 살아왔으며 손주 상우를 정성껏 돌보는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "동네 할아버지",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "동네 할아버지는 상우가 집에 돌아오는 것을 도와준 마을 주민이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "상우",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "할머니",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "상우는 할머니의 손주이며, 할머니와 함께 시골에서 생활한다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "동네 할아버지",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "상우",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "동네 할아버지가 상우가 집에 돌아오는 것을 도와주었다",
+      "relationship_strength": 5
+    }
+  ],
+  "entity_resolution": {
+    "상우": {
+      "description": "상우 -> 상우",
+      "resolved_name": "상우",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "할머니": {
+      "description": "할머니 -> 할머니",
+      "resolved_name": "할머니",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "동네 할아버지": {
+      "description": "동네 할아버지 -> 길 가르쳐주는 노인",
+      "resolved_name": "길 가르쳐주는 노인",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "entity": {
+    "name": "레몽",
+    "synonym": [
+      "레몽"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "레몽은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

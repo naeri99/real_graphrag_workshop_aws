@@ -1,0 +1,12 @@
+{
+  "entity": {
+    "name": "디바제시카DeevaJessica",
+    "synonym": [
+      "디바제시카DeevaJessica"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "디바제시카DeevaJessica은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

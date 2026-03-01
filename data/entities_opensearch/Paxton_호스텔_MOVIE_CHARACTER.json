@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "Paxton",
+    "synonym": [
+      "Pax",
+      "Paxton",
+      "패스턴",
+      "패스톤",
+      "팩스턴",
+      "팩스톤",
+      "팩스튼",
+      "펙스턴",
+      "펙스톤"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "Paxton은 영화 '호스텔'의 등장인물로, 제이 헤르난데스이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

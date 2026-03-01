@@ -1,0 +1,27 @@
+{
+  "entity": {
+    "name": "마이클 제이 화이트",
+    "synonym": [
+      "Michael Jai",
+      "Michael Jai White",
+      "Michael White",
+      "마이클",
+      "마이클 J 화이트",
+      "마이클 자이 화이트",
+      "마이클 제이",
+      "마이클 제이 와이트",
+      "마이클 제이 화이트",
+      "마이클 제이 화잇",
+      "마이클 화이트",
+      "마이클자이화이트",
+      "마이클제이 화이트",
+      "마이클제이화이트",
+      "마이클제이화잇",
+      "화이트"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "마이클 제이 화이트은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

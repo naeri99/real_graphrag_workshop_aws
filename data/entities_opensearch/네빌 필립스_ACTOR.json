@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "네빌 필립스",
+    "synonym": [
+      "Neville",
+      "Neville Philips",
+      "Neville Phillips",
+      "네빌",
+      "네빌 필립",
+      "네빌 필립스",
+      "네빌필립스",
+      "필립스"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "네빌 필립스은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

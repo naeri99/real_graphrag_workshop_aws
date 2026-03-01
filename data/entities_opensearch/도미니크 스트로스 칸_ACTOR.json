@@ -1,0 +1,17 @@
+{
+  "entity": {
+    "name": "도미니크 스트로스 칸",
+    "synonym": [
+      "DSK",
+      "Dominique Strauss-Kahn",
+      "도미니크 스트로스 칸",
+      "도미니크 스트로스칸",
+      "도미니크스트로스칸",
+      "스트로스 칸"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "도미니크 스트로스 칸은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

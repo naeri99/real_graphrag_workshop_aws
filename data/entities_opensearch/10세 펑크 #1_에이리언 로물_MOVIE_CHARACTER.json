@@ -1,0 +1,31 @@
+{
+  "entity": {
+    "name": "10세 펑크 #1",
+    "synonym": [
+      "10-Year-Old Punk #1",
+      "10대 펑크 1",
+      "10세 펑크 #1",
+      "10세펑크1",
+      "Gladiator",
+      "Teen Punk #1",
+      "Teen Punk 1",
+      "Young Punk #1",
+      "Young Punk 1",
+      "글래디에이터",
+      "글래디에이터 원",
+      "글래디에이터1",
+      "십대 펑크 1",
+      "십세 펑크 1",
+      "어린 펑크 1",
+      "열살 펑크 1",
+      "영 펑크 1",
+      "영펑크1",
+      "틴 펑크 1",
+      "펑크1"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "10세 펑크 #1은 영화 '에이리언 로물'의 등장인물로, 소마 사이먼이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

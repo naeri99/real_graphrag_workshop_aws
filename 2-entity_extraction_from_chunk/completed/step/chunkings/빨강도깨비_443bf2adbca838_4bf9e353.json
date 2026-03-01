@@ -1,0 +1,181 @@
+{
+  "chunk_hash": "443bf2adbca838",
+  "chunk_id": "빨강도깨비_443bf2adbca838_4bf9e353",
+  "user_query": "코로나 사태를 정면으로 돌파해서 극장 개봉을 단행했던 테넷이 드디어 VOD로 출시되었습니다 그동안 대작 영화 개봉이 줄줄이 연기되면서 블록버스터에 목말라했던 안방극장 관객들에게는 정말 희소식이 아닐 수 없는데요 그런데 이 영화, 참... 주옥같습니다 참 주옥같애요 저는 영화를 보기 전에 하도 어렵고 복잡하다는 얘기가 많아서 정말 정신 바짝 차리고 집중해서 봤습니다 그럼에도 불구하고 영화를 보고 나서 딱 들었던 생각이 이게 도대체 뭔 소리야? 였습니다 영화를 다 보고 나서 이런저런 정리를 좀 하다 보니까 아... 이런 정보들을 영화 보기 전에 알았다면 어땠을까 하는 생각이 들었습니다 그래서, 이번 주말 따뜻한 안방극장에서 테넷 관람을 계획하고 계신 분들을 위해서 영화 보기 전에 알아야 할 필수 정보, 딱 3가지를 정리해봤습니다 이 영상에는 영화의 일부 설정들에 대한 설명은 포함되어 있지만 영화의 줄거리와 결말에 대한 스포일러는 걱정하지 않으셔도 됩니다 일단 이 영화의 제목, 테넷이라는 단어입니다 테넷을 사전에서 검색해보면 무슨 무슨 '주의', 종교의 '교리' 등으로 설명되어 있는데요 영화에서는 견해 또는 신념으로 번역되어 있습니다 사실 이 영화의 제목이 테넷인 이유는 단어의 의미 자체보다는 이 단어의 구조와 더 밀접한 관련이 있습니다 'T-E-N-E-T'라는 5개의 알파벳으로 구성된 이 단어는 앞으로 읽어도, 뒤로 읽어도 똑같이 테넷이죠 이렇게 앞뒤 어느 방향으로 읽어도 동일하게 읽히는 역반복 구조를 팰린드롬, 우리말로는 회문 구조라고 합니다 회문구조의 대표적인 조합이 '사토르 마방진'으로 알려져 있는 이 모양입니다 이 모양은 폼페이의 잔해에서 발견될 만큼 오랜 기원을 가지고 있는데요 이 마방진은 5개의 회문구조 단어로 구성되어 있습니다 사토르 아레포 테넷 오페라 로타스 보시는 것처럼 오른쪽으로 읽어도, 왼쪽으로 읽어도 위로 읽어도, 아래로 읽어도 모두 5개 단어만 있는 독특한 구조죠 이 사토르 마방진의 정가운데 위치한 단어가 바로 '테넷'입니다 이 영화는 시간이 정방향으로 흐르는 것과 역방향으로 흐르는 것이 뒤엉킨 이야기를 담고 있습니다 하나의 사건이 한 번은 정방향으로 보여지고 나중에는 역방향으로 등장하기도 하면서 시간의 방향에 따라 이를 바라보는 관점에 따라 서로 다르게 보이는 장면이 여러 번 등장하는데요 순방향으로 읽어도, 역방향으로 읽어도 같은 단어인 테넷이라는 단어가 이 영화의 세계관을 그대로 담고 있습니다 테넷. 이 영화는 시간에 대한 영화입니다 그렇다면 이 영화가 시간여행에 대해 다루고 있느냐 이렇게 말씀드리면 이해가 될지 모르겠는데요 시간여행의 개념은 아니지만, 그 결과가 시간여행처럼 나타납니다 우리가 익히 알고 있는 시간여행과는 조금 개념이 다르기 때문인데요 우리가 지금까지 터미네이터나 백 투 더 퓨처 근래에는 어벤져스 엔드게임을 통해 봤던 시간여행은 같은 방향으로 순행하는 타임라인에서 하나의 지점에서 출발해서 다른 지점에 도착합니다 시간여행 이후에는 또 순차적으로 시간이 흐르죠 테넷의 개념은 엄밀하게 따지면 시간여행의",
+  "movie_id": "테넷",
+  "reviewer": "빨강도깨비",
+  "chunk_index": 1,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "테넷",
+      "entity_type": "MOVIE",
+      "entity_description": "테넷은 크리스토퍼 놀란 감독의 영화로, 시간이 정방향과 역방향으로 흐르는 것이 뒤엉킨 이야기를 담고 있는 블록버스터 영화이다. 코로나 사태 중 극장 개봉을 단행했으며 이후 VOD로 출시되었다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "터미네이터",
+      "entity_type": "MOVIE",
+      "entity_description": "터미네이터는 시간여행을 다룬 영화로, 순행하는 타임라인에서 한 지점에서 다른 지점으로 이동하는 전통적인 시간여행 개념을 보여주는 작품이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "백 투 더 퓨처",
+      "entity_type": "MOVIE",
+      "entity_description": "백 투 더 퓨처는 시간여행을 다룬 영화로, 전통적인 시간여행 개념을 보여주는 작품이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "어벤져스 엔드게임",
+      "entity_type": "MOVIE",
+      "entity_description": "어벤져스 엔드게임은 시간여행을 다룬 영화로, 순행하는 타임라인에서의 시간여행 개념을 보여주는 작품이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "사토르",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "사토르는 테넷에 등장하는 인물로, 사토르 마방진의 단어 중 하나에서 이름을 따왔다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "아레포",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "아레포는 테넷에 등장하는 인물 또는 요소로, 사토르 마방진의 단어 중 하나에서 이름을 따왔다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "오페라",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "오페라는 테넷에 등장하는 요소로, 사토르 마방진의 단어 중 하나이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "로타스",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "로타스는 테넷에 등장하는 요소로, 사토르 마방진의 단어 중 하나이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "테넷",
+      "source_type": "MOVIE",
+      "target_entity": "터미네이터",
+      "target_type": "MOVIE",
+      "relationship_description": "테넷은 터미네이터와 같은 시간여행 영화들과 비교되지만, 시간의 개념이 다르게 적용된다",
+      "relationship_strength": 5
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "테넷",
+      "source_type": "MOVIE",
+      "target_entity": "백 투 더 퓨처",
+      "target_type": "MOVIE",
+      "relationship_description": "테넷은 백 투 더 퓨처와 같은 시간여행 영화들과 비교되지만, 시간의 개념이 다르게 적용된다",
+      "relationship_strength": 5
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "테넷",
+      "source_type": "MOVIE",
+      "target_entity": "어벤져스 엔드게임",
+      "target_type": "MOVIE",
+      "relationship_description": "테넷은 어벤져스 엔드게임과 같은 시간여행 영화들과 비교되지만, 시간의 개념이 다르게 적용된다",
+      "relationship_strength": 5
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "사토르",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "테넷",
+      "target_type": "MOVIE",
+      "relationship_description": "사토르는 테넷에 등장하는 캐릭터로, 사토르 마방진에서 이름을 따왔다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "아레포",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "테넷",
+      "target_type": "MOVIE",
+      "relationship_description": "아레포는 테넷에 등장하는 요소로, 사토르 마방진에서 이름을 따왔다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "오페라",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "테넷",
+      "target_type": "MOVIE",
+      "relationship_description": "오페라는 테넷에 등장하는 요소로, 사토르 마방진에서 이름을 따왔다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "로타스",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "테넷",
+      "target_type": "MOVIE",
+      "relationship_description": "로타스는 테넷에 등장하는 요소로, 사토르 마방진에서 이름을 따왔다",
+      "relationship_strength": 8
+    }
+  ],
+  "entity_resolution": {
+    "테넷": {
+      "description": "테넷 -> 테넷",
+      "resolved_name": "테넷",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "터미네이터": {
+      "description": "터미네이터 -> 터미네이터",
+      "resolved_name": "터미네이터",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "백 투 더 퓨처": {
+      "description": "백 투 더 퓨처 -> 백 투 더 퓨처",
+      "resolved_name": "백 투 더 퓨처",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "어벤져스 엔드게임": {
+      "description": "어벤져스 엔드게임 -> 어벤져스 엔드게임",
+      "resolved_name": "어벤져스 엔드게임",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "사토르": {
+      "description": "사토르 -> Andrei Sator",
+      "resolved_name": "Andrei Sator",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "아레포": {
+      "description": "아레포 -> 아레포",
+      "resolved_name": "아레포",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "오페라": {
+      "description": "오페라 -> 오페라",
+      "resolved_name": "오페라",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "로타스": {
+      "description": "로타스 -> 로타스",
+      "resolved_name": "로타스",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

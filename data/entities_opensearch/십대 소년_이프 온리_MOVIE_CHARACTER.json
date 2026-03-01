@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "십대 소년",
+    "synonym": [
+      "10대 소년",
+      "10대소년",
+      "Teen Boy",
+      "Teenage Boy",
+      "소년",
+      "십대 소년",
+      "십대소년",
+      "청소년",
+      "틴에이저",
+      "틴에이저 보이"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "십대 소년은 영화 '이프 온리'의 등장인물로, 벤 리지웨이이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

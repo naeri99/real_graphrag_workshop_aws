@@ -1,0 +1,12 @@
+{
+  "entity": {
+    "name": "영민하다",
+    "synonym": [
+      "영민하다"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "영민하다은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

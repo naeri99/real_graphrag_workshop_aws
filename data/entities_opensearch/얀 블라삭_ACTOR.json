@@ -1,0 +1,23 @@
+{
+  "entity": {
+    "name": "얀 블라삭",
+    "synonym": [
+      "Jan",
+      "Jan Vlasak",
+      "Jan Vlasák",
+      "블라삭",
+      "블라작",
+      "얀",
+      "얀 블라사크",
+      "얀 블라삭",
+      "얀 블라삭크",
+      "얀 블라샥",
+      "얀 블라작",
+      "얀블라삭"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "얀 블라삭은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

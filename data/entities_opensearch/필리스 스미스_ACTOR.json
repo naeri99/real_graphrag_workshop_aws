@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "필리스 스미스",
+    "synonym": [
+      "Phillis Smith",
+      "Phylis Smith",
+      "Phyllis",
+      "Phyllis Smith",
+      "스미스",
+      "필리스",
+      "필리스 스미스",
+      "필리스 스미쓰",
+      "필리스스미스"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "필리스 스미스은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

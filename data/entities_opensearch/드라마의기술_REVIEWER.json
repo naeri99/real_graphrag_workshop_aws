@@ -1,0 +1,12 @@
+{
+  "entity": {
+    "name": "드라마의기술",
+    "synonym": [
+      "드라마의기술"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "드라마의기술은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

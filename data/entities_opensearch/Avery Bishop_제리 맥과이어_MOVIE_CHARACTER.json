@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "Avery Bishop",
+    "synonym": [
+      "Avery",
+      "Avery Bishop",
+      "비숍",
+      "아베리 비숍",
+      "애버리 비숍",
+      "약혼녀",
+      "에버리 비숍",
+      "에이버리",
+      "에이버리 비숍",
+      "에이버리비숍"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "Avery Bishop은 영화 '제리 맥과이어'의 등장인물로, 켈리 프레스턴이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "entity": {
+    "name": "바바라",
+    "synonym": [
+      "Barbara",
+      "Barbara 캐릭터",
+      "바르바라",
+      "바바라",
+      "바바라 캐릭터",
+      "바버라"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "바바라은 영화 '테넷'의 등장인물로, 클레망스 포에지이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

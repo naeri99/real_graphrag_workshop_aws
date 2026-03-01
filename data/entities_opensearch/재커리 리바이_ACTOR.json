@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "재커리 리바이",
+    "synonym": [
+      "Zachary Levi",
+      "리바이",
+      "자카리 리바이",
+      "재커리",
+      "재커리 레비",
+      "재커리 리바이",
+      "재커리레바이",
+      "재커리리바이",
+      "잭 리바이",
+      "잭커리 리바이"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "재커리 리바이은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

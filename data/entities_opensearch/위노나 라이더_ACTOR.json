@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "위노나 라이더",
+    "synonym": [
+      "Winona Ryder",
+      "라이더",
+      "위노나",
+      "위노나 라이다",
+      "위노나 라이더",
+      "위노나라이다",
+      "위노나라이더",
+      "위노너 라이더",
+      "위노너라이더"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "위노나 라이더은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

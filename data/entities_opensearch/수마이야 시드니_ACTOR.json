@@ -1,0 +1,23 @@
+{
+  "entity": {
+    "name": "수마이야 시드니",
+    "synonym": [
+      "Sidney",
+      "Sumaiya Sydney",
+      "Sumayyah Nuriddin-Green",
+      "Sumayyah Sydney",
+      "수마야 시드니",
+      "수마이야",
+      "수마이야 시드네",
+      "수마이야 시드니",
+      "수마이야시드니",
+      "시드니",
+      "싯니",
+      "씨드니"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "수마이야 시드니은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

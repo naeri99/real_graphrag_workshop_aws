@@ -1,0 +1,111 @@
+{
+  "chunk_hash": "64db2ea626cea9",
+  "chunk_id": "무비퓨레_moviepuree_64db2ea626cea9_604bb983",
+  "user_query": "수 있을까요 Mann 행성과 Edmunds 행성 선택의 갈림길에서 Brand 박사는 지속적으로 데이터를 보내고 있는 Mann 행성이 아닌 Edmunds 행성에 할 가자고 합니다 그리고 말합니다 벤 다 맥주병으로 파악 엄마야 밥에 배후에 습한 to my flow 하우스의 위 와 예승 3 택 4 mantle x 뱁새가 못하고 대할 수 민 참 4 2 으 있어도 뭐 할 땐 이렇게 부부 풀씨 이벤트 괜찮지 도멘 춤 teras 그의 Cooper는 를 볼 Brand 박사의 말에 부정하며 Mann 박사 행성으로 향하는데요 2 블랙홀에 들어가 현대가 기술만으로 사망하고 힘든 일을 겪은 뒤 Brand 박사의 말에 다시 한번 류 짚어봅니다 널 뭐 수서역 근처 예 마기 말씀 한 벌 요래 정화를 5s 크림 굉장 광 영화이지만 감독이 진정으로 말하고 싶었던 메시지는 인간과 인간 사이에 채운 사랑이 아니었을까요 인터스텔라 비하인드 영상은 다음 주에 올라갑니다 지금까지 곡이 되었습니다 유럽 외 견종 2r 넣어 줘 own 브레이 그런 습득을 왜 왜 이 이렇게 sdi 부서와 2",
+  "movie_id": "인터스텔라",
+  "reviewer": "무비퓨레_moviepuree",
+  "chunk_index": 6,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "INTERSTELLAR",
+      "entity_type": "MOVIE",
+      "entity_description": "인터스텔라는 우주 탐사와 인간 사이의 사랑을 다룬 SF 영화이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "COOPER",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Cooper는 Mann 행성으로 향하기로 결정하고, 블랙홀에 들어가 힘든 일을 겪는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "BRAND 박사",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Brand 박사는 데이터를 보내고 있는 Mann 행성이 아닌 Edmunds 행성으로 가자고 주장하며, 사랑의 중요성에 대해 말하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "MANN 박사",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Mann 박사는 Mann 행성에서 데이터를 지속적으로 보내고 있는 인물이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "COOPER",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "INTERSTELLAR",
+      "target_type": "MOVIE",
+      "relationship_description": "Cooper는 인터스텔라의 주인공이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "BRAND 박사",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "INTERSTELLAR",
+      "target_type": "MOVIE",
+      "relationship_description": "Brand 박사는 인터스텔라의 등장인물이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "MANN 박사",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "INTERSTELLAR",
+      "target_type": "MOVIE",
+      "relationship_description": "Mann 박사는 인터스텔라의 등장인물이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "COOPER",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "BRAND 박사",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Cooper는 Brand 박사의 Edmunds 행성 제안을 부정하고 Mann 행성으로 향하기로 결정한다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "BRAND 박사",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "MANN 박사",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Brand 박사는 Mann 박사가 있는 Mann 행성 대신 Edmunds 행성을 선택하자고 주장한다",
+      "relationship_strength": 7
+    }
+  ],
+  "entity_resolution": {
+    "INTERSTELLAR": {
+      "description": "INTERSTELLAR -> INTERSTELLAR",
+      "resolved_name": "INTERSTELLAR",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "COOPER": {
+      "description": "COOPER -> COOPER",
+      "resolved_name": "COOPER",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "BRAND 박사": {
+      "description": "BRAND 박사 -> BRAND 박사",
+      "resolved_name": "BRAND 박사",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "MANN 박사": {
+      "description": "MANN 박사 -> MANN 박사",
+      "resolved_name": "MANN 박사",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

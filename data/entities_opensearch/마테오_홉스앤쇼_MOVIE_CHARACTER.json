@@ -1,0 +1,18 @@
+{
+  "entity": {
+    "name": "마테오",
+    "synonym": [
+      "Mateo",
+      "마떼오",
+      "마태오",
+      "마테오",
+      "마테오 홉스",
+      "마테오홉스",
+      "홉스 형제"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "마테오은 영화 '홉스앤쇼'의 등장인물로, 조 아노아이이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

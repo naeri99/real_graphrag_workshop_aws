@@ -1,0 +1,49 @@
+{
+  "chunk_hash": "f679aaef672cbb",
+  "chunk_id": "Cody_Leach_f679aaef672cbb_796e3fd5",
+  "user_query": "set out to do that and he achieved that there are very few movies that have ever had any kind of an impact on me with my first experience the way that this one has and while we certainly have continued to go further as far as Gore and things that we've shown on screen that are shocking this movie does seem slightly Tamer than my original memory would have me believe and that just shows how desensitized we have become as a society and as horror fans but this was the most gnarly thing that I had seen up to this point and I'd seen some pretty gory shit but this was the first movie that to me truly kicked off the era of torture porn I know some people don't like that terminology get over it it absolutely applies to the Hostel franchise not to say that there's nothing that is trying to say beneath all of the gore and the torture but this is absolutely a movie that is trying to just have full-on exploitation levels of Gore and violence and just depravity to shock you to your core and the first time that I saw this it absolutely achieved that going along with all of that I think that this movie does a really good job at preying on that paranoia and that fear of being out of your element and I am certainly one of those people there's not too many things that make me nervous but I do feel more comfortable being in a setting being in an environment that I at least have some control over or I have enough knowledge to where I know what to do in any given situation and going off to a",
+  "movie_id": "호스텔",
+  "reviewer": "Cody_Leach",
+  "chunk_index": 5,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "HOSTEL",
+      "entity_type": "MOVIE",
+      "entity_description": "Hostel은 고어와 폭력, 타락을 통해 관객에게 충격을 주는 것을 목표로 한 영화로, 토처 포르노 장르의 시대를 열었다고 평가받는 작품이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "HOSTEL FRANCHISE",
+      "entity_type": "MOVIE",
+      "entity_description": "Hostel 프랜차이즈는 토처 포르노라는 용어가 적용되는 대표적인 영화 시리즈이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "HOSTEL",
+      "source_type": "MOVIE",
+      "target_entity": "HOSTEL FRANCHISE",
+      "target_type": "MOVIE",
+      "relationship_description": "Hostel은 Hostel 프랜차이즈의 첫 번째 작품이다",
+      "relationship_strength": 10
+    }
+  ],
+  "entity_resolution": {
+    "HOSTEL": {
+      "description": "HOSTEL -> HOSTEL",
+      "resolved_name": "HOSTEL",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "HOSTEL FRANCHISE": {
+      "description": "HOSTEL FRANCHISE -> HOSTEL FRANCHISE",
+      "resolved_name": "HOSTEL FRANCHISE",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "chunk_hash": "e1a1a29959eb48",
+  "chunk_id": "무드킹_e1a1a29959eb48_398d3866",
+  "user_query": "[음악] 자신이 작곡한 미완성 오케스트라 교향곡 아메리칸 심포니를 연주하다가 홀로 지휘하는 글렌 홀랜드 그는 얼마 전 사진작가 아이리스와 결혼 후 오리건주 포틀랜드의 신혼집을 차렸는데 생계를 위해 잠시 동안 음악 교사 일을 하기로 결심합니다 영화 미스터 홀랜드 오퍼스 시작합니다 존 케네디 고등학교에 첫 출근하는 [음악] [음악] 교사 헬렌을 만나는 자신도 모르게 속내를 드러내죠 그리고 이제 첫 음악 수업을 시작하는데 어색한 침묵 속에서 난감해 하죠 잠시 뒤 오케스트라 수업이 시작되고 [음악] is that regulation I thought come withing to You're not being 는 예상했던 것과는 다른 현실 앞에서 첫날부터 깊은 고민을 하게 되고 [음악] same You can still qu Don't So it's Would you take it from [음악] bar okay That's enough for today I'll see you all tomorrow work you mind hanging for a pleas seem be having a trou through I PR 그는 조금씩 학생들의 미래를 위해서 노력하기 시작했고 잠자는 시간도 줄여가면서 계속해서 작곡도 이어갑니다 하지만 그의 여가 시간은 좀처럼 들지 않았죠 [음악] [음악] 얼마 뒤 울고 있는 거트루드를 보게 된 글렌 who can't make any I've never seen a teach Sprint for the paring lot jacobs I get here on time morning Don't i Minds with knowledge yes but more important give those Minds a compass I really hate that and I hate nobody up [음악] [박수] 은 슬퍼하는 아내에게 너무 놀라서 그랬던 거라며 사과하고 표현은 서툴렀지만 아내와 아기를 앞으로도 사랑할 것이라고 다짐합니다 [음악] 이후 글렌은 학생들을 대하는 태도도 달라지죠 [음악] [음악] [박수] [음악] so much fun It was ry great hey hey hey What do we think we took two tries in hours but Now we really don't have any space How would you feel if we moved into a house but We can't that i t d during the summer mean taking The crip again I'll I think we do it [음악] 는 음악은 즐거워야 하고 진심을 사용해서 느낌으로 사람들을 움직이게 하는 거라고 이야기합니다 [음악] [박수] [음악] 글렌의 도움으로 자신감을 얻은 거트루드 그리고 어느덧 졸업식 날이 되고 글렌과 학생들은 마지막 오케스트라 연주를 하며 고등학교 생활에 유종의 미를 거둡니다 그리고 여름이 되고 글렌은 이사도 하고 투잡까지 뛰면서 태어날",
+  "movie_id": "콘스탄트 가드너",
+  "reviewer": "무드킹",
+  "chunk_index": 2,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "미스터 홀랜드 오퍼스",
+      "entity_type": "MOVIE",
+      "entity_description": "미스터 홀랜드 오퍼스는 음악 교사 글렌 홀랜드의 삶과 헌신을 다룬 영화이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "글렌 홀랜드",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "글렌 홀랜드는 작곡가로서 아메리칸 심포니를 작곡하던 중 생계를 위해 존 케네디 고등학교에서 음악 교사로 일하게 되는 인물이다. 아이리스와 결혼하여 오리건주 포틀랜드에 살며, 학생들의 미래를 위해 노력하고 잠자는 시간도 줄여가며 작곡을 이어간다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "아이리스",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "아이리스는 사진작가이며 글렌 홀랜드의 아내이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "거트루드",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "거트루드는 존 케네디 고등학교의 학생으로, 글렌의 도움으로 자신감을 얻게 되는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "헬렌",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "헬렌은 존 케네디 고등학교의 교사로 글렌이 첫 출근 날 만나는 인물이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "글렌 홀랜드",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "미스터 홀랜드 오퍼스",
+      "target_type": "MOVIE",
+      "relationship_description": "글렌 홀랜드는 미스터 홀랜드 오퍼스의 주인공이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "아이리스",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "미스터 홀랜드 오퍼스",
+      "target_type": "MOVIE",
+      "relationship_description": "아이리스는 미스터 홀랜드 오퍼스에 등장하는 인물이다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "글렌 홀랜드",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "아이리스",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "글렌 홀랜드와 아이리스는 부부 관계이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "거트루드",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "미스터 홀랜드 오퍼스",
+      "target_type": "MOVIE",
+      "relationship_description": "거트루드는 미스터 홀랜드 오퍼스에 등장하는 학생이다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "글렌 홀랜드",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "거트루드",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "글렌 홀랜드는 거트루드의 음악 교사로서 그녀가 자신감을 얻도록 도와준다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "헬렌",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "미스터 홀랜드 오퍼스",
+      "target_type": "MOVIE",
+      "relationship_description": "헬렌은 미스터 홀랜드 오퍼스에 등장하는 교사이다",
+      "relationship_strength": 6
+    }
+  ],
+  "entity_resolution": {
+    "미스터 홀랜드 오퍼스": {
+      "description": "미스터 홀랜드 오퍼스 -> 미스터 홀랜드 오퍼스",
+      "resolved_name": "미스터 홀랜드 오퍼스",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "글렌 홀랜드": {
+      "description": "글렌 홀랜드 -> 글렌 홀랜드",
+      "resolved_name": "글렌 홀랜드",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "아이리스": {
+      "description": "아이리스 -> 아이리스",
+      "resolved_name": "아이리스",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "거트루드": {
+      "description": "거트루드 -> 거트루드",
+      "resolved_name": "거트루드",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "헬렌": {
+      "description": "헬렌 -> 헬렌",
+      "resolved_name": "헬렌",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

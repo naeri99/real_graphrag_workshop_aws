@@ -1,0 +1,18 @@
+{
+  "entity": {
+    "name": "스베틀라나",
+    "synonym": [
+      "Svetlana",
+      "스베들라나",
+      "스베뜨라나",
+      "스베트라나",
+      "스베틀라",
+      "스베틀라나",
+      "스벳라나"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "스베틀라나은 영화 '호스텔'의 등장인물로, 야나 카데라브코바이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

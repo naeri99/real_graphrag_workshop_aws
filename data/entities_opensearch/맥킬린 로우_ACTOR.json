@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "맥킬린 로우",
+    "synonym": [
+      "Makilin Rowe",
+      "Makilyn Lowe",
+      "McKalin Rowe",
+      "McKinley Lowe",
+      "McKylin Rowe",
+      "로우",
+      "맥킬린",
+      "맥킬린 로",
+      "맥킬린 로우",
+      "맥킬린로우"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "맥킬린 로우은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

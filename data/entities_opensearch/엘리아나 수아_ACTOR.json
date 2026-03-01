@@ -1,0 +1,17 @@
+{
+  "entity": {
+    "name": "엘리아나 수아",
+    "synonym": [
+      "Eliana Sua",
+      "수아",
+      "엘리아나",
+      "엘리아나 수",
+      "엘리아나 수아",
+      "엘리아나수아"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "엘리아나 수아은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

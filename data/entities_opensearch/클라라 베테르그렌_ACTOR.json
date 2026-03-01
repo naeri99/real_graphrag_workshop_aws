@@ -1,0 +1,17 @@
+{
+  "entity": {
+    "name": "클라라 베테르그렌",
+    "synonym": [
+      "Clara Wettergren",
+      "베테르그렌",
+      "클라라",
+      "클라라 베테르그렌",
+      "클라라 웨테르그렌",
+      "클라라베테르그렌"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "클라라 베테르그렌은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

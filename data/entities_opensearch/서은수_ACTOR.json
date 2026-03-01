@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "서은수",
+    "synonym": [
+      "EunSu Seo",
+      "Seo Eun Su",
+      "Seo Eun-soo",
+      "Seo Eun-su",
+      "Seo Eunsu",
+      "서 은수",
+      "서은수",
+      "서은수 배우",
+      "서은수 씨",
+      "은수"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "서은수은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "chunk_hash": "e0d1547f6f1e56",
+  "chunk_id": "드라마의기술_e0d1547f6f1e56_da0595fc",
+  "user_query": "오토바이 바퀴에서 팀돌의 머리에 맞아 이에 바로 끌고 가다 넘어집니다. >> 다 넣으면 사람이 묻고 있잖아. 왜 사람 말 두 번 시켜? >> 없다니까요. 우물 >> 거리지 말고 틀리게 말해. 아 크게 말으라니깐. >> 없으니까 가던 길 가세요. >> 눈이 내리는 날 다시 그 언덕에서 마주치는 두 사람. >> 아 이런 쉬지. 뭐 알아 나왔어? 한명이 줄 쉬구나. 자식 없어. 네. >> 뭐 >> 그럴 처지가 못 된다고요? >> 아, 여기서 스게 달 일 있어. 조금 지나면 빙판져서 못 내려간다고. >> 뭐 하시는 거예요? >> 좀 잡아. >> 투박하게 말하는 만석은 할머니의 리어카를 눈쌓인 언덕 아래로 내려다 줍니다. >> 괜찮으세요? >> 아유, 안 괜찮아. 허리 부어질 뻔했고. >> 운전 조심하세요. >> 임자한 조심해서 다녀. >> 멋있게 돌아서다가 그만. >> 아유, 괜찮아, 괜찮아. 아유랑 괜찮게 하고 이미 무쪽 팔렸네야 >> 아 할매요 이제 그 고물 좀 갖다 버려서 좀 아 참말라 >> 너 지금 나 먹고 고물라고 그랬냐 >> 보청기십니까? 이 보청기는 날 쳐 먹어서 그런지 뭐라거 >> 덕배야 이거 가져가는 사람 따로 있냐 >> 아 당연하지 뭐 이것도 다 돈 아닌데 >> 그 사람 줘야 돼 >> 할배 갖고 와서 뭐 하려고 >> 알마 딴 사람 줘도 돼 안 돼는 >> 안 사람이 있지 >> 덕배야 >> 아 이름 부르지 말고 말씀하셔 >> 옆 상거에 카페 생겼다면 우리 덕배는 돈이 어디서 나서 밤마다 그리러 출근도장을 찍으실까 >> 할머니 >> 덕배야 >> 예 예 예 예 아버 놀라노 >> 미 놀라게 >> 가게 단디 보어라 >> 예 딱 여기서 >> 덕배와의 딜에 성공한 만석 새벽을 알리는 만석의 오토바이가 골목을 지날 때 잠에서 깨어나는 할머니 내 >> 고물상주인 달수가 늦잠을 자 할머니는 리어카를 가지고 나올 수가 없다. 올 때가 지났는데 한셋 말없이 >> 덕배에게 얻어온 우유각을 전해줄 생각에 입가의 미소가 번진다. >> 어라 >> 남편이 있는가? 돌아서는데. >> 안녕하세요. 안녕하세요. 영감님. >> 무심한 척 대답한다. >> 어, 오늘은 너네 그려? >> 네. 그렇게 됐어요. >> 아, 작게 말해 돼. >> 보청기 하셨군요. >> 작게 말하려니까. >> 옆에 할아버지가 거슬리는 듯. >> 여기 주차장 관리하시는 분이세요. 잠금 봉시라고요. >> 처음 뵙겠습니다. 어, 난 배달 밀려서 >> 무슨 소리가요? 그래요. 저 오토바이 소리 덕분에 늦는 법이 없어 >> 고물상 주인이 할아버지가 부탁한 시계를 구해 오는데 >> 그 따르는 시계 들어오면 달라고 하셨죠? >> 있나 주야 범벌 고맙대이 곰물 가지고 뭐 >> 치매에 걸린 아내 조순이가 집에서 혼자 하루를 보냈다. >> 다음부터는 요자 볼일 바해 >> 장군봉은 한없이 다정한 남편이다. >> 꼭 뭐해 >> 오늘 뭐 했어? 얘기해 줘. 죽은 애가 매리치 공물에 호박실를 >> 소소한 일상을 이야기하는 부부의 밤이 깊어간다. 아내를 챙기고 나면 잠잘 시간이 늘 부족한 할아버지. >> 시간은 작겠네.",
+  "movie_id": "그대를사랑합니다",
+  "reviewer": "드라마의기술",
+  "chunk_index": 1,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "만석",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "만석은 오토바이를 타고 새벽에 배달을 하는 인물로, 투박하지만 할머니의 리어카를 눈 쌓인 언덕에서 내려다 주는 등 따뜻한 면이 있다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "할머니",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "할머니는 리어카를 끌고 다니며 고물을 모으는 인물로, 보청기를 착용하고 있다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "덕배",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "덕배는 가게를 운영하며 밤마다 옆 상가 카페에 출근도장을 찍는 인물로, 만석과 거래를 한다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "팀돌",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "팀돌은 만석의 오토바이 바퀴에 머리를 맞는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "달수",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "달수는 고물상 주인으로, 늦잠을 자서 할머니가 리어카를 가지고 나올 수 없게 만든 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "장군봉",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "장군봉은 주차장 관리를 하는 할아버지로, 치매에 걸린 아내 조순이를 한없이 다정하게 돌보는 남편이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "조순이",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "조순이는 장군봉의 아내로, 치매에 걸려 집에서 혼자 하루를 보내는 인물이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "만석",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "할머니",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "만석은 할머니의 리어카를 눈 쌓인 언덕 아래로 내려다 주며 도움을 준다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "만석",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "덕배",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "만석은 덕배와 딜(거래)에 성공하여 우유각을 얻어온다",
+      "relationship_strength": 6
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "만석",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "팀돌",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "만석의 오토바이 바퀴가 팀돌의 머리에 맞는 사고가 발생한다",
+      "relationship_strength": 5
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "할머니",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "달수",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "할머니는 고물상 주인 달수가 늦잠을 자서 리어카를 가지고 나올 수 없다",
+      "relationship_strength": 6
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "장군봉",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "조순이",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "장군봉은 치매에 걸린 아내 조순이를 다정하게 돌보는 남편이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "달수",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "장군봉",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "고물상 주인 달수가 장군봉 할아버지가 부탁한 시계를 구해다 준다",
+      "relationship_strength": 5
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "만석",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "장군봉",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "만석의 오토바이 소리 덕분에 장군봉이 늦는 법이 없다고 언급된다",
+      "relationship_strength": 4
+    }
+  ],
+  "entity_resolution": {
+    "만석": {
+      "description": "만석 -> 김만석",
+      "resolved_name": "김만석",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "할머니": {
+      "description": "할머니 -> 할머니",
+      "resolved_name": "할머니",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "덕배": {
+      "description": "덕배 -> 덕배",
+      "resolved_name": "덕배",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "팀돌": {
+      "description": "팀돌 -> 팀돌",
+      "resolved_name": "팀돌",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "달수": {
+      "description": "달수 -> 달수",
+      "resolved_name": "달수",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "장군봉": {
+      "description": "장군봉 -> 장군봉",
+      "resolved_name": "장군봉",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "조순이": {
+      "description": "조순이 -> 조순이",
+      "resolved_name": "조순이",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    }
+  }
+}

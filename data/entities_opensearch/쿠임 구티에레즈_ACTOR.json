@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "쿠임 구티에레즈",
+    "synonym": [
+      "Quim Gutierrez",
+      "Quim Gutiérrez",
+      "구티에레즈",
+      "쿠임",
+      "쿠임 구티에레스",
+      "쿠임 구티에레즈",
+      "쿠임구티에레즈",
+      "킴 구티에레즈",
+      "킴구티에레즈"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "쿠임 구티에레즈은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

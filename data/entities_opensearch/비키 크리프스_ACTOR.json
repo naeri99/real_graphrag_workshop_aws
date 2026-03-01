@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "비키 크리프스",
+    "synonym": [
+      "Krieps",
+      "Vicky Krieps",
+      "비키",
+      "비키 크리엡스",
+      "비키 크리프스",
+      "비키 크립스",
+      "비키크리프스",
+      "비키크립스",
+      "빅키 크리프스",
+      "크리프스"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "비키 크리프스은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

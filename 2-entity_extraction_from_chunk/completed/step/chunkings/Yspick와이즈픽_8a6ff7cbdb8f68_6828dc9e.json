@@ -1,0 +1,49 @@
+{
+  "chunk_hash": "8a6ff7cbdb8f68",
+  "chunk_id": "Yspick와이즈픽_8a6ff7cbdb8f68_6828dc9e",
+  "user_query": "세 남자의 어설픈 작전은 곧 통제 불능의 코미디 상황으로 치달았습니다. 도구는 어설프고 위장은 우스꽝스러울 정도입니다. Perfektion 하지만 그들의 눈빛만큼은 진심이었죠. [음악] 그들의 목표는 단순히 잃어버린 돈을 되찾는 것을 넘어섰습니다. 은행의 사기에 대한 통쾌하고 완벽한 복수였죠. 황당하고 [음악] 유쾌한 방식으로 거대한 악당들을 혼내는 모습을 보여주죠. [음악] Wenn ich sehe das 과연 이 아마추어들이 통제 불능의 상황을 헤쳐나가고 은행의 시스템에 일격을 가할 수 있을까요? [음악] [음악] [음악] Wie bitte? Es waren drei Täter. Gut, wir lassen Phantombilder von ihnen machen. Zeitverschwendung. Gute 2 Millionen. [음악] Okay, es war ein guter Wagen. Gut, der war nicht der schnell. [음악] Okay, Jungs, die Taschen zu Gesicht gesehen als Heimzahlung. [음악] 이 영화는 바로 예측 불가능한 혼돈 속에서 [음악] 통쾌함을 선사합니다. 우리가 일상에서 느꼈던 모든 짜증과 분노이 세 남자의 어설픈 반란이 대신 풀어줍니다. 이 [음악] 영화는 시스템에 대한 불신이라는 사회 메시지를 유쾌하게 던지는데요. 감독은 우리에게 묻습니다. 정의가 사라진 곳에서 당신이라면 무엇을 선택하시겠습니까? [음악] [음악] 은행강도 대책반장 졸너 박사의 추적에서 이들은 빠져나갈 수 있을까요? 그들의 돈을 지킬 [음악] 수 있을까요? 유쾌한 관람의 전말을 직접 확인하세요. 이 영화가 바로 뱅크 어택 은행습격 사건입니다. 배꼽 빠지게 웃고 싶으신 분들께 이 영화를 추천합니다. 구독과 좋아요 저희 여정에 함께 해주세요. 감사합니다. [음악]",
+  "movie_id": "뱅크어택",
+  "reviewer": "Yspick와이즈픽",
+  "chunk_index": 2,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "뱅크 어택",
+      "entity_type": "MOVIE",
+      "entity_description": "뱅크 어택(은행습격 사건)은 세 남자가 은행의 사기에 대해 복수하는 내용을 담은 코미디 영화로, 시스템에 대한 불신이라는 사회적 메시지를 유쾌하게 전달한다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "졸너 박사",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "졸너 박사는 은행강도 대책반장으로 세 남자를 추적하는 인물이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "졸너 박사",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "뱅크 어택",
+      "target_type": "MOVIE",
+      "relationship_description": "졸너 박사는 뱅크 어택에서 은행강도 대책반장으로 등장한다",
+      "relationship_strength": 10
+    }
+  ],
+  "entity_resolution": {
+    "뱅크 어택": {
+      "description": "뱅크 어택 -> 뱅크어택",
+      "resolved_name": "뱅크어택",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "졸너 박사": {
+      "description": "졸너 박사 -> 엘리자베스 촐너",
+      "resolved_name": "엘리자베스 촐너",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    }
+  }
+}

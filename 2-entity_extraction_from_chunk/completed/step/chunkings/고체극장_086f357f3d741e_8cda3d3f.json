@@ -1,0 +1,133 @@
+{
+  "chunk_hash": "086f357f3d741e",
+  "chunk_id": "고체극장_086f357f3d741e_8cda3d3f",
+  "user_query": "a storm. 그렇게 두 사람은 사랑을 확인했지만 각자의 삶의 방식이 너무나도 달랐습니다. got [음악] [음악] 버클리는 오랫동안 열병을 앓아왔고 이제 마지막을 준비하고 있었습니다. [음악] 데니스는 언제나 사냥을 떠났지만 카렌에게로 다시 돌아왔고 그렇게 시간이 흘러갔죠. [음악] [음악] [음악] [박수] [음악] 그러던 어느 날 브로르가 찾아옵니다. tips a bit smarter than I am [음악] well if I get eaten up bury me here will you the of the hill doesn't matter to you that another man's wife how many under cultivation 500 take it over should you default this you [음악] 그리고 얼마 뒤 만난 브로르는 카렌에게 이혼을 요구합니다. 그저 허울뿐인 관계였지만 카렌의 마음은 급격히 공허해졌습니다. I just thought we might do that you seen you like someone to ask when you go away don't always go on safari do you don't someone else idea of how to won beer to you won love you more because [음악] 두 사람의 감정싸움은 격해지고 결국 헤어지게 되었죠. 그리고 카렌의 인생을 바꾸게 될 최악의 사건이 발생합니다. 카렌은 덴마크로 떠나기 전 준비를 위해 새로운 총독을 만납니다. 다행히 총독의 부인이 돕기로 하죠. 이제 떠날 준비를 하는 카렌은 자신의 모든 짐을 처분하기로 결정합니다. Safari innoons for this time will go ahead and wait for you. You must make this fire very big so I can find [음악] you. I I this wasn't a very good idea. I think we should have had it this way all the time. 카렌의 귀환 여행에 함께하기로 하고 마지막일지도 모르는 춤을 추게 되죠. [음악] The f never did belong to me. Friday. [음악] Denis has been killed crashed The Lord shall preserve thee from all evil. From this time forth and even forever more. Early though the laurel grows, it with quicker than a rose and we loved him well. He was not ours. He was not mine. If I know a song of Africa of the giraffe and the African new moon lying on her back and the sweaty faces of the coffee pickers,",
+  "movie_id": "아웃 오브 아프리카",
+  "reviewer": "고체극장",
+  "chunk_index": 3,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "카렌",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "카렌은 아프리카에서 농장을 운영하며 데니스와 사랑에 빠지지만, 브로르와의 이혼과 여러 시련을 겪는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "데니스",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "데니스는 사냥을 자주 떠나지만 카렌에게 돌아오는 인물로, 비행기 사고로 사망한다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "브로르",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "브로르는 카렌의 남편으로 나중에 카렌에게 이혼을 요구하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "버클리",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "버클리는 오랫동안 열병을 앓아왔고 마지막을 준비하고 있는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "아웃 오브 아프리카",
+      "entity_type": "MOVIE",
+      "entity_description": "아웃 오브 아프리카는 아프리카를 배경으로 카렌의 삶과 사랑을 다룬 영화이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "카렌",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "데니스",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "카렌과 데니스는 서로 사랑하는 연인 관계이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "카렌",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "브로르",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "브로르는 카렌의 남편이었으나 이혼을 요구한다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "카렌",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "아웃 오브 아프리카",
+      "target_type": "MOVIE",
+      "relationship_description": "카렌은 아웃 오브 아프리카의 주인공이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "데니스",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "아웃 오브 아프리카",
+      "target_type": "MOVIE",
+      "relationship_description": "데니스는 아웃 오브 아프리카의 주요 등장인물이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "브로르",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "아웃 오브 아프리카",
+      "target_type": "MOVIE",
+      "relationship_description": "브로르는 아웃 오브 아프리카의 등장인물이다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "버클리",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "아웃 오브 아프리카",
+      "target_type": "MOVIE",
+      "relationship_description": "버클리는 아웃 오브 아프리카의 등장인물이다",
+      "relationship_strength": 6
+    }
+  ],
+  "entity_resolution": {
+    "카렌": {
+      "description": "카렌 -> 카렌 코왈스키",
+      "resolved_name": "카렌 코왈스키",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "데니스": {
+      "description": "데니스 -> 데니스 월시",
+      "resolved_name": "데니스 월시",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "브로르": {
+      "description": "브로르 -> 브로",
+      "resolved_name": "브로",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "버클리": {
+      "description": "버클리 -> 버클리 콜",
+      "resolved_name": "버클리 콜",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "아웃 오브 아프리카": {
+      "description": "아웃 오브 아프리카 -> 아웃 오브 아프리카",
+      "resolved_name": "아웃 오브 아프리카",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "name_exact"
+    }
+  }
+}

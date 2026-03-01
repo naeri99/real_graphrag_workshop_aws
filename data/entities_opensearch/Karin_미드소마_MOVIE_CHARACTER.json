@@ -1,0 +1,18 @@
+{
+  "entity": {
+    "name": "Karin",
+    "synonym": [
+      "Karin",
+      "까린",
+      "카렌",
+      "카린",
+      "카린느",
+      "칼린",
+      "캐린"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "Karin은 영화 '미드소마'의 등장인물로, 안나 아스트롬이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

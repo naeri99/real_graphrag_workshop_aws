@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "Siv",
+    "synonym": [
+      "Siv",
+      "시브",
+      "시브 여왕",
+      "시브 장로",
+      "시브 족장",
+      "시비",
+      "시이브",
+      "시프",
+      "씨브",
+      "씨이브",
+      "씨프"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "Siv은 영화 '미드소마'의 등장인물로, 구넬 프레드이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

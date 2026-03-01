@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "톰 베린저",
+    "synonym": [
+      "Tom Berenger",
+      "베린저",
+      "탐 베린저",
+      "토마스 베린저",
+      "톰",
+      "톰 베렌저",
+      "톰 베린저",
+      "톰 베린져",
+      "톰베린저"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "톰 베린저은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

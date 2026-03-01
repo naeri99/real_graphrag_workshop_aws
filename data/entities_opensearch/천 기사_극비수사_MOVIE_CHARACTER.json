@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "천 기사",
+    "synonym": [
+      "Driver Cheon",
+      "기사",
+      "기사 천",
+      "기사 천씨",
+      "기사님",
+      "천 기사",
+      "천 기사님",
+      "천 운전기사",
+      "천기사",
+      "천기사님"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "천 기사은 영화 '극비수사'의 등장인물로, 윤진하이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

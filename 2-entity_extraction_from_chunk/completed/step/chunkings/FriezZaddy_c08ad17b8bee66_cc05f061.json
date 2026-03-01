@@ -1,0 +1,93 @@
+{
+  "chunk_hash": "c08ad17b8bee66",
+  "chunk_id": "FriezZaddy_c08ad17b8bee66_cc05f061",
+  "user_query": "So next they're outside. He wants to leave, but the thing is, he's like, here, take it off. And then all the taxi drivers have a sense of, I guess, code, but you know, taxi code. He's like, whoa, you have me and took him to his destination. You're gonna take his money? Uh, you're making us look bad. Anyone doesn't like, what is your driver's license? I got it. Look, here, take it off. I'm not getting the money. He gives him back the 50 that he had. And oh my, oh shoot.\n\nSo now they're leaving the hospital because he's like, all right, you, because he wants to get the money. He wants that money because of hope. So he drives and they're gonna go to a protest there because he's filming. So he's seeing more protests. And that's where also at the hospital, because they're all, the drivers are, they're all the taxi drivers. Tae-sul, yeah, we meet, Tae-sul, he's a very nice guy and the other drivers are nice too. It was pretty, oh, they were getting on him right up there, their code.\n\nSo they're going and then he's, look, that's the name, he's the young student that's translating for him. He's like, oh, a reporter, there's a reporter. And everyone's like, yeah. Cuz the thing is, the government has blacklist it every day. If sensor that they're not showing anything that's going on in Gwangju. All right, the world doesn't know what the hell's going on. Not even in Korea. In there, humming, they know what's, yeah.",
+  "movie_id": "택시운전사",
+  "reviewer": "FriezZaddy",
+  "chunk_index": 5,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "태술",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "태술은 택시 기사들 중 한 명으로, 매우 좋은 사람으로 묘사되며 다른 택시 기사들과 함께 등장한다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "택시 기사들",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "택시 기사들은 자신들만의 규율(택시 코드)을 가지고 있으며, 동료가 손님을 목적지까지 데려다주고 돈을 받지 않으려 하자 이를 문제 삼는 인물들이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "기자",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "기자는 광주에서 일어나는 일을 촬영하고 있는 인물로, 시위 현장을 기록하고 있다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "젊은 학생",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "젊은 학생은 기자를 위해 통역을 해주는 인물이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "태술",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "택시 기사들",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "태술은 택시 기사들 중 한 명이다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "젊은 학생",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "기자",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "젊은 학생은 기자를 위해 통역을 해준다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "기자",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "택시 기사들",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "기자는 택시 기사들과 함께 시위 현장으로 이동한다",
+      "relationship_strength": 7
+    }
+  ],
+  "entity_resolution": {
+    "태술": {
+      "description": "태술 -> 황태술",
+      "resolved_name": "황태술",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "택시 기사들": {
+      "description": "택시 기사들 -> 택시 기사들",
+      "resolved_name": "택시 기사들",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "기자": {
+      "description": "기자 -> 기자",
+      "resolved_name": "기자",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "젊은 학생": {
+      "description": "젊은 학생 -> 젊은 학생",
+      "resolved_name": "젊은 학생",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

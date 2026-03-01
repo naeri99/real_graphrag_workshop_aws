@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "셀레스트 오코너",
+    "synonym": [
+      "Celeste",
+      "Celeste O'Connor",
+      "셀레스테 오코너",
+      "셀레스트",
+      "셀레스트 오코나",
+      "셀레스트 오코너",
+      "셀레스트 오코넬",
+      "셀레스트오코너",
+      "오코나",
+      "오코너"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "셀레스트 오코너은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

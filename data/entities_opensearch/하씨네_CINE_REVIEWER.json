@@ -1,0 +1,13 @@
+{
+  "entity": {
+    "name": "하씨네_CINE",
+    "synonym": [
+      "하씨네_CINE",
+      "하씨네 CINE"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "하씨네_CINE은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

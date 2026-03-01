@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "테넷",
+    "synonym": [
+      "TENET",
+      "Tenet",
+      "테네트",
+      "테넷",
+      "테넷 2020",
+      "테넷 영화",
+      "테넽",
+      "테닛"
+    ],
+    "entity_type": "MOVIE",
+    "summary": "테넷",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "entity": {
+    "name": "매일_독서_매일_인사이트",
+    "synonym": [
+      "매일_독서_매일_인사이트",
+      "매일 독서 매일 인사이트"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "매일_독서_매일_인사이트은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

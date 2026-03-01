@@ -1,0 +1,177 @@
+{
+  "chunk_hash": "c5ab3eb5a4c05a",
+  "chunk_id": "Theology_With_Josh_c5ab3eb5a4c05a_0b426955",
+  "user_query": "Interstellar is one of the greatest films of all time and no other movie will ever come close here's why Interstellar is set in 2067 following the aftermath of a global famine the movie follows Joseph Cooper a pilot turned farmer but this movie is in an action film and if anything it's more of a chick flick to be honest as this film while having action and while being set in space has a main theme of love not a romantic one but the love between Cooper and his children and more importantly his daughter Murph and the connection they share despite being light years away from each other Cooper being one of the few Pilots left on Earth is chosen by NASA to leave Earth in search of a new world to restart humanity and save countless generations to come I've drafted many versions of this script and my biggest problem in all of them is that the script was just too long because there is simply a lot to talk about in Interstellar as this movie is incredible really complex it has long run time and has thousands of little details to point out Interstellar has some of the greatest cinematography of all time and it's no wonder why it does as the incredibly talented Christopher Nolan who made The Dark Knight and Inception along with many other incredible films also made this film it's incredible to see the landscape shots go from Dole and Barren shots of the dying Earth two stunning and fantastic visual effects of space and planets not only does this film have incredible cinematography but",
+  "movie_id": "인터스텔라",
+  "reviewer": "Theology_With_Josh",
+  "chunk_index": 1,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "INTERSTELLAR",
+      "entity_type": "MOVIE",
+      "entity_description": "Interstellar는 2067년을 배경으로 한 영화로, 전 세계적인 기근 이후를 다루며 사랑을 주제로 한 복잡하고 긴 러닝타임의 영화이다. 뛰어난 촬영기법과 시각효과를 자랑한다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "JOSEPH COOPER",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Joseph Cooper는 조종사에서 농부로 전향한 인물로, NASA에 의해 인류를 구하기 위해 새로운 세계를 찾아 지구를 떠나도록 선택된다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "MURPH",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Murph는 Cooper의 딸로, 아버지와 수광년 떨어져 있음에도 특별한 유대감을 공유하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "CHRISTOPHER NOLAN",
+      "entity_type": "MOVIE_STAFF",
+      "entity_description": "Christopher Nolan은 Interstellar를 만든 감독으로, The Dark Knight와 Inception 등 많은 훌륭한 영화들을 만든 재능 있는 감독이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "THE DARK KNIGHT",
+      "entity_type": "MOVIE",
+      "entity_description": "The Dark Knight는 Christopher Nolan이 만든 영화이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "INCEPTION",
+      "entity_type": "MOVIE",
+      "entity_description": "Inception은 Christopher Nolan이 만든 영화이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "NASA",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "NASA는 영화 속에서 Cooper를 선택하여 지구를 떠나 새로운 세계를 찾는 임무를 맡기는 조직이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "CHRISTOPHER NOLAN",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "INTERSTELLAR",
+      "target_type": "MOVIE",
+      "relationship_description": "Christopher Nolan은 Interstellar를 감독했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "CHRISTOPHER NOLAN",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "THE DARK KNIGHT",
+      "target_type": "MOVIE",
+      "relationship_description": "Christopher Nolan은 The Dark Knight를 감독했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "CHRISTOPHER NOLAN",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "INCEPTION",
+      "target_type": "MOVIE",
+      "relationship_description": "Christopher Nolan은 Inception을 감독했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "JOSEPH COOPER",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "INTERSTELLAR",
+      "target_type": "MOVIE",
+      "relationship_description": "Joseph Cooper는 Interstellar의 주인공이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "MURPH",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "INTERSTELLAR",
+      "target_type": "MOVIE",
+      "relationship_description": "Murph는 Interstellar의 주요 등장인물이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "JOSEPH COOPER",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "MURPH",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Cooper는 Murph의 아버지이며 둘은 영화의 핵심적인 사랑의 유대를 공유한다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "NASA",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "JOSEPH COOPER",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "NASA는 Cooper를 선택하여 새로운 세계를 찾는 임무를 맡겼다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "NASA",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "INTERSTELLAR",
+      "target_type": "MOVIE",
+      "relationship_description": "NASA는 Interstellar에 등장하는 조직이다",
+      "relationship_strength": 7
+    }
+  ],
+  "entity_resolution": {
+    "INTERSTELLAR": {
+      "description": "INTERSTELLAR -> INTERSTELLAR",
+      "resolved_name": "INTERSTELLAR",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "JOSEPH COOPER": {
+      "description": "JOSEPH COOPER -> JOSEPH COOPER",
+      "resolved_name": "JOSEPH COOPER",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "MURPH": {
+      "description": "MURPH -> Murph (older)",
+      "resolved_name": "Murph (older)",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "CHRISTOPHER NOLAN": {
+      "description": "CHRISTOPHER NOLAN -> CHRISTOPHER NOLAN",
+      "resolved_name": "CHRISTOPHER NOLAN",
+      "entity_type": "MOVIE_STAFF",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "THE DARK KNIGHT": {
+      "description": "THE DARK KNIGHT -> THE DARK KNIGHT",
+      "resolved_name": "THE DARK KNIGHT",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "INCEPTION": {
+      "description": "INCEPTION -> INCEPTION",
+      "resolved_name": "INCEPTION",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "NASA": {
+      "description": "NASA -> NASA",
+      "resolved_name": "NASA",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

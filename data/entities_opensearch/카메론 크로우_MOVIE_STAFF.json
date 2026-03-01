@@ -1,0 +1,28 @@
+{
+  "entity": {
+    "name": "카메론 크로우",
+    "synonym": [
+      "Cameron",
+      "Cameron Crowe",
+      "Russell Crowe",
+      "러셀",
+      "러셀 크로",
+      "러셀 크로우",
+      "러셀크로",
+      "러셀크로우",
+      "러쎌 크로우",
+      "카메론",
+      "카메론 크로",
+      "카메론 크로우",
+      "카메론크로우",
+      "캐머런 크로우",
+      "크로",
+      "크로우",
+      "크로우 감독"
+    ],
+    "entity_type": "MOVIE_STAFF",
+    "summary": "카메론 크로우은 영화 감독입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

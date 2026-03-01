@@ -1,0 +1,16 @@
+{
+  "entity": {
+    "name": "Ingemar",
+    "synonym": [
+      "Ingemar",
+      "인게마르",
+      "잉게마",
+      "잉게마르",
+      "잉게말"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "Ingemar은 영화 '미드소마'의 등장인물로, 햄푸스 할베리이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

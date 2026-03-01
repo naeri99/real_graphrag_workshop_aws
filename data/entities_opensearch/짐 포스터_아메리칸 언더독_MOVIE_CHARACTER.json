@@ -1,0 +1,18 @@
+{
+  "entity": {
+    "name": "짐 포스터",
+    "synonym": [
+      "Jim Foster",
+      "제임스 포스터",
+      "짐",
+      "짐 포스타",
+      "짐 포스터",
+      "짐포스터",
+      "포스터"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "짐 포스터은 영화 '아메리칸 언더독'의 등장인물로, 브루스 맥길이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

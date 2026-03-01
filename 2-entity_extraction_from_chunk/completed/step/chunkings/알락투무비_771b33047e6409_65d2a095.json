@@ -1,0 +1,195 @@
+{
+  "chunk_hash": "771b33047e6409",
+  "chunk_id": "알락투무비_771b33047e6409_65d2a095",
+  "user_query": "모두 죽이려 하지만 [음악] 포섭을 꺼리는 그에게 에테온은 지시가 아닌 경고를 하게 됩니다 쇼는 해티 몸에 투입된 바이러스의 실체를 묻습니다 박사에게 사람들을 구하는 약으로 바이러스를 만들게 한 에테온 박사는 바이러스를 제거하려면 사람을 불태우거나 추출해야 한다고 합니다 그래서 그들은 에테온의 비밀 기지로 들어가 바이러스 추출하기로 하죠 [음악] 한편 브릭스톤은 박사를 납치합니다 마피아를 [음악] 털어 무기를 챙기는 쇼의 친구 그녀는 쇼에게 온갖 무기를 제공하고 에테온에 접근할 수 있는 도움을 줍니다 이윽고 그들이 놓이의 비밀 요새로 전체가 화산 속 같은 곳이죠 해티는 미끼를 이용 적들을 유인하여 제거하는 적 제거 작전을 쓰기로 하고 자신이 미끼가 되기로 합니다 작전을 위해 스스로 생포당하는 해티가 먼저 에테온의 비밀 기지로 들어가게 됩니다 [음악] 낙하산을 이용 기지를 침투하려는 두 사람 자신이 당한 대로 쇼를 먼저 날려 보내는 홉스 [음악] 여기 침투를 하지만 두 사람의 [음악] 해티는 능숙한 손기술로 적들을 제압하고 [음악] 브릭스톤은 두 사람을 동시에 고문하며 에테온의 합류를 강요합니다 위기에만 합이 맞는 두 사람 [음악] [음악] 홉스는 추출기를 맡아 챙기려 합니다 박사가 쓸모없게 되자 가차 없이 죽여버리는 브릭스톤 드론까지 합세하며 그대로 쫓습니다 [음악] [음악] [음악] 두 사람은 공격을 예측하는 브릭스톤에게 속수무책 당하게 되죠 하지만 기지가 폭파되며 그를 막을 수 있게 됩니다 험난한 추격전 끝에 살아남은 세 사람 하지만 그들에게는 하루의 시간밖에 없고 홉스는 모든 기계를 고치는 형을 떠올립니다 사모아에 살고 있는 자신의 형을 찾게 된 홉스가 [음악] 조나는 25년 만에 수배자가 되어 돌아온 홉스와 그들을 경계하죠 [박수] 모든 형제들과 힘을 모으게 된 세 사람 홉스는 가족들의 범죄를 형제를 경찰에 신고하며 집을 떠났었죠 [음악] [음악] [음악] 해티는 에테온의 무기를 해킹하여 그들이 차단되는 시간을 벌게 됩니다 한편 조나는 추출기를 고치고 해티의 몸에서 바이러스를 추출하죠 [음악] 바이러스가 추출되는 이 시간을 버텨야 합니다 무기가 켜지지 않고 [음악] 형제들에게 전쟁의 시작을 알리며 그들의 합동 작전이 시작됩니다 [음악] 적들은 바이러스가 추출되는 해티를 잡으려 합니다 점점 더 화력을 키우며 공격해오는 에테온은 지금 헬기를 잡지 않으면 해티뿐 아니라 전 세계의 사람들이 위험에 빠지게 됩니다 [음악] [음악] 홉스는 3호의 모든 차들을 엮어 헬기를 붙잡고 모든 차들이 합세하자 헬기가 힘을 잃게 되지만 그들은 엮고 있던 형제들을 보내고 다시 총공격을 하게 됩니다 힘을 잃은 모두가 절벽 아래로 추락하죠 재부팅돼도 살아나는 브릭스톤 그는 바이러스가 추출되면 해티를 죽이려 합니다 [박수] [음악] 홉스는 브릭스톤의 공격 예측이 그의 시야에서만 통하는 걸 알게 되고 [음악] 추출 시간이 가까워지자 해티는 빠져나갈 곳을 찾게 되죠 두 사람의 합동 공격이 먹히게 되고 해티는 헬기를 폭파시킵니다 홉스의 전문 기술에 나가떨어지는",
+  "movie_id": "홉스앤쇼",
+  "reviewer": "알락투무비",
+  "chunk_index": 2,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "홉스",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "홉스는 수배자로 25년 만에 사모아에 돌아온 인물로, 형제를 경찰에 신고하고 집을 떠났던 과거가 있으며, 브릭스톤과 싸우고 에테온에 맞서는 주요 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "쇼",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "쇼는 홉스와 함께 에테온에 맞서 싸우는 인물로, 마피아를 털어 무기를 챙기는 친구의 도움을 받는다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "해티",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "해티는 몸에 바이러스가 투입된 인물로, 미끼가 되어 에테온의 비밀 기지에 잠입하고 능숙한 손기술로 적들을 제압하며, 에테온의 무기를 해킹하는 능력을 가진 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "브릭스톤",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "브릭스톤은 에테온 소속으로 박사를 납치하고, 공격을 예측하는 능력을 가졌으며, 재부팅되어도 살아나는 강화된 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "에테온",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "에테온은 박사에게 바이러스를 만들게 한 악의 조직으로, 비밀 기지를 운영하며 세계를 위협하는 존재이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "박사",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "박사는 에테온에 의해 바이러스를 만들게 된 인물로, 바이러스 추출 방법을 알려주며 나중에 브릭스톤에게 살해당한다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "조나",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "조나는 홉스의 형으로 사모아에 살고 있으며, 모든 기계를 고치는 능력이 있고 추출기를 고쳐 해티의 몸에서 바이러스를 추출한다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "홉스",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "쇼",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "홉스와 쇼는 위기에만 합이 맞는 파트너로 함께 에테온에 맞서 싸운다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "홉스",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "해티",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "홉스는 해티를 보호하고 바이러스 추출을 위해 함께 작전을 수행한다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "홉스",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "조나",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "홉스와 조나는 형제 관계로, 25년 만에 재회하여 함께 에테온에 맞선다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "홉스",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "브릭스톤",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "홉스는 브릭스톤과 적대 관계로 싸우며, 그의 공격 예측이 시야에서만 통하는 것을 알아낸다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "쇼",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "해티",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "쇼는 해티와 함께 에테온의 비밀 기지에 침투하여 작전을 수행한다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "브릭스톤",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "에테온",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "브릭스톤은 에테온 소속으로 그들의 지시를 따르며 활동한다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "브릭스톤",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "박사",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "브릭스톤은 박사를 납치하고 쓸모없어지자 살해한다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "브릭스톤",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "해티",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "브릭스톤은 해티를 잡으려 하고 바이러스 추출 후 죽이려 한다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "해티",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "에테온",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "해티는 에테온의 무기를 해킹하여 그들을 차단하는 시간을 번다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "조나",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "해티",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "조나는 추출기를 고쳐 해티의 몸에서 바이러스를 추출한다",
+      "relationship_strength": 8
+    }
+  ],
+  "entity_resolution": {
+    "홉스": {
+      "description": "홉스 -> 루크 홉스",
+      "resolved_name": "루크 홉스",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "쇼": {
+      "description": "쇼 -> 헤티 쇼",
+      "resolved_name": "헤티 쇼",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "해티": {
+      "description": "해티 -> 헤티 쇼",
+      "resolved_name": "헤티 쇼",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "브릭스톤": {
+      "description": "브릭스톤 -> 브릭스턴 로어",
+      "resolved_name": "브릭스턴 로어",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "에테온": {
+      "description": "에테온 -> 에테온",
+      "resolved_name": "에테온",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "박사": {
+      "description": "박사 -> 만 박사",
+      "resolved_name": "만 박사",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "조나": {
+      "description": "조나 -> 조나 홉스",
+      "resolved_name": "조나 홉스",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    }
+  }
+}

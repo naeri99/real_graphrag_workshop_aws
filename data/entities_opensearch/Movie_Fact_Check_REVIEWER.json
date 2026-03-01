@@ -1,0 +1,13 @@
+{
+  "entity": {
+    "name": "Movie_Fact_Check",
+    "synonym": [
+      "Movie_Fact_Check",
+      "Movie Fact Check"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "Movie_Fact_Check은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

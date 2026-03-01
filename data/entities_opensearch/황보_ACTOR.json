@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "황보",
+    "synonym": [
+      "Huang Bo",
+      "황 보",
+      "황발",
+      "황보",
+      "황보 배우",
+      "황보성",
+      "황보이",
+      "황뽀"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "황보은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,199 @@
+{
+  "chunk_hash": "66ce3bb6ddabdb",
+  "chunk_id": "침착맨_66ce3bb6ddabdb_d78bdb40",
+  "user_query": "애들이 완전 초딩이거든 초딩이 완전 깜짝 놀러 물 닫고 이거 어떻게 해야 되나 이런 상황들이 막 만들어지고 어느 날 이제 할아버지가 막 나와 가지고 막 나오는데 어 뭐야 그래서 들어가 봤더니 남자가 이제 카메라는데 뭐가 이렇게 막 쌓여 있어 기저귀 더미가 어 할아버지가 툭하고 던지고 가는데 거기 가서 보니까 똥 싸인 기저귀 이만큼 쌓 똥 똥 기저귀가 이만큼이 근데 그거를 기저귀를 말아 놓는 것도 아니 거니까 툭 열 열린 채로 그러니까 걔가 이제 남자가 어 쉿 하면서 막 나가다가 아 막 막 하다가 걔가 결벽증 있어 게다가 근데 할머니를 만났어 할머니가 할아버지가 사실은 몸이 좀 아프다 이해를 해 달라 그런 일들이 계속 쌓이는 거지 그렇죠 그래서 이게 어떻게 되느냐면 보시면 됩니다 나는 그 장면이 제일 불안했어 이제 관객 입장에서 할아버지랑 할머니가 너무 이상한 사람이라는 거를 알게 돼요 근데 어느 날 갑자기 할머니가 야 이리 좀 와보렴 어어 좀 와보렴 하더니 이 오븐을 닦아야 되는데 저 안쪽까지 닦으려면 몸이 작은 네가 들어가야겠어 그래서 애가 오븐 안에 몸을 다 넣고 이렇게 막 닦고 있는 거야 근데 애가 애도 이미 할머니 할아버지의 기행을 많이 봐 가지고 약간 경계가 있단 말이야 그래서 살짝 요 정도만 더 들어가니까 더 더 더니까 계속 이 가는 거지 뭔가 이상한 일들이 벌어져 일반적으로 할머니 할아버지를 만났을 때 나오는 상황이 안 나오고 이상한 상황들이 나오는데 그거에 대한 그 이유가 나중에 이제 결과로 딱 나오면서 딱 이제 되는 거지 미드소마는 아니 여기도 초대를 받네 세상에 초대 다 초대네 또 아는 여자 주인공이 있는데 조울증이 있던 여동생이 자살을 해 가지고 남자친구한테 얘는 완전 의지하고 있는 상황이야 되게 불안한 친구야 근데 남자친구한테 너무 의지하니 이제 남자친구의 친구들은 아 그냥 좀 헤어져라 이제 너 사실 너 학대당하고 있는 거야 이런 친구들이야 근데 남자 남자는 막 어쩌겠어 뭐 하면서 이게 다 받아줘 근데 사실은 이 남자 사실은 스웨덴 여행을 가기로 했었어 학술 목적도 있는데 약간 방탕하게 좀 놀러 이렇게 한 한 달 반반 정도 그렇게 가려고 했는데 그 계획을 여자 여자친구가 알아 버려요 여자친구가 막 화를 내는 거야 어떻게 말도 없이 어 친구들하고 한 달 반 동안 스웨덴 여행을 가냐고 그 남자친구가 둘러대면서 아 그래 그럼 너도 같이 가자라고 했어 그니까 친구들은 사 사실 막 유럽 여자들하고 놀 생각이었거든 이 새끼가 지금 뭐 하는 거야 그럼 여자들하고 못 놀잖아 어 못 놀잖아 근데 남자친구가 아니 말만 그렇게 했고 안 갈 거야 안 갈 거야 했는데 여자애가 다 싸고 왔어 다 싸고 왔어 어 출발하고 그래서 남자애들이 아 아씨 약간 이런 느낌으로 이제 다섯이서 그렇게 가게 돼요 스웨덴을 스웨덴을 왜 갔냐면 그네 명은 이제 인류학과 학생들이야 남자애들은 근데 그중에 한 명이 스웨덴 출신인데 자기 마을에서 벌어지는 하지 축제가 있어요 90년에 한 번 음 9일 동안 벌어진 축제가 있대 졸업 논문 주제도 약간 그쪽인가 봐 그",
+  "movie_id": "미드소마",
+  "reviewer": "침착맨",
+  "chunk_index": 3,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "더 비지트",
+      "entity_type": "MOVIE",
+      "entity_description": "할아버지와 할머니를 방문한 아이들이 이상한 상황들을 겪게 되는 스릴러 영화로 추정됨"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "할아버지",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "더 비지트에서 이상한 행동을 하는 인물로, 기저귀를 쌓아두고 몸이 아프다고 알려진 캐릭터"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "할머니",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "더 비지트에서 아이에게 오븐 안을 닦으라고 시키는 등 기이한 행동을 하는 캐릭터"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "남자아이",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "더 비지트에서 할머니, 할아버지의 기행을 목격하고 경계하는 어린 캐릭터"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "미드소마",
+      "entity_type": "MOVIE",
+      "entity_description": "스웨덴의 하지 축제를 배경으로 한 공포 영화로, 90년에 한 번 9일간 벌어지는 축제에 초대받은 일행의 이야기"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "여자 주인공",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "미드소마에서 조울증이 있던 여동생의 자살 후 남자친구에게 의지하는 불안한 성격의 캐릭터"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "남자친구",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "미드소마에서 여자 주인공과 사귀며 스웨덴 여행에 그녀를 데려가게 되는 캐릭터"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "스웨덴 출신 친구",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "미드소마에서 인류학과 학생으로 자기 마을의 하지 축제에 친구들을 초대한 캐릭터"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "할아버지",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "더 비지트",
+      "target_type": "MOVIE",
+      "relationship_description": "할아버지는 더 비지트의 주요 등장인물이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "할머니",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "더 비지트",
+      "target_type": "MOVIE",
+      "relationship_description": "할머니는 더 비지트의 주요 등장인물이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "남자아이",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "더 비지트",
+      "target_type": "MOVIE",
+      "relationship_description": "남자아이는 더 비지트에서 할머니 할아버지를 방문하는 캐릭터이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "할아버지",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "할머니",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "할아버지와 할머니는 부부 관계이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "여자 주인공",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "미드소마",
+      "target_type": "MOVIE",
+      "relationship_description": "여자 주인공은 미드소마의 주인공이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "남자친구",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "미드소마",
+      "target_type": "MOVIE",
+      "relationship_description": "남자친구는 미드소마의 주요 등장인물이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "스웨덴 출신 친구",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "미드소마",
+      "target_type": "MOVIE",
+      "relationship_description": "스웨덴 출신 친구는 미드소마에서 일행을 축제에 초대하는 인물이다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "여자 주인공",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "남자친구",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "여자 주인공은 남자친구에게 정서적으로 의지하는 연인 관계이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "남자친구",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "스웨덴 출신 친구",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "남자친구와 스웨덴 출신 친구는 같은 인류학과 친구 사이이다",
+      "relationship_strength": 8
+    }
+  ],
+  "entity_resolution": {
+    "더 비지트": {
+      "description": "더 비지트 -> 더 비지트",
+      "resolved_name": "더 비지트",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "할아버지": {
+      "description": "할아버지 -> 다도 할아버지",
+      "resolved_name": "다도 할아버지",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "할머니": {
+      "description": "할머니 -> 할머니",
+      "resolved_name": "할머니",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "남자아이": {
+      "description": "남자아이 -> 남자아이",
+      "resolved_name": "남자아이",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "미드소마": {
+      "description": "미드소마 -> 미드소마",
+      "resolved_name": "미드소마",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "여자 주인공": {
+      "description": "여자 주인공 -> 레인",
+      "resolved_name": "레인",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "남자친구": {
+      "description": "남자친구 -> 남자친구",
+      "resolved_name": "남자친구",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "스웨덴 출신 친구": {
+      "description": "스웨덴 출신 친구 -> 스웨덴 출신 친구",
+      "resolved_name": "스웨덴 출신 친구",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

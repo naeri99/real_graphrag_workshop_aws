@@ -1,0 +1,26 @@
+{
+  "chunk_hash": "379b3897d6df29",
+  "chunk_id": "무드킹_379b3897d6df29_3a88473d",
+  "user_query": "30 minutes 41 years we've been married she always overcooked i just never had the heart to tell her [Music] you can be proud of the children and their achievements if you were to ask me i would have to say in all honesty everybody's fine everybody is fine foreign [Music]",
+  "movie_id": "에브리바디스 파인",
+  "reviewer": "무드킹",
+  "chunk_index": 9,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "EVERYBODY'S FINE",
+      "entity_type": "MOVIE",
+      "entity_description": "Everybody's Fine는 오랜 결혼 생활과 자녀들에 대한 이야기를 다룬 영화이다"
+    }
+  ],
+  "relationships": [],
+  "entity_resolution": {
+    "EVERYBODY'S FINE": {
+      "description": "EVERYBODY'S FINE -> EVERYBODY'S FINE",
+      "resolved_name": "EVERYBODY'S FINE",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "chunk_hash": "932e98533d571b",
+  "chunk_id": "렛잇무비_932e98533d571b_76fe840c",
+  "user_query": "my painting you're just a kid you don't have the faintest idea of what you're talking about why thank you it's all right you're a tough kid if you about war you'd probably uh throw shakespeare at me right you've never been near one i held your best friend's head in your lap and watch him gasp his last breath looking to you for help about sleeping sitting up in a hospital room for two months holding her hand you don't know about real loss often right you know the first thing about how hard your life has been because i read all of the twists again [Music] [Applause] [Music] some kind of staring contest between two kids from the old neighborhood yeah it is [Music] i was on this plane once and i'm sitting there and um girl's like you know beautiful she's smart she's fun it's different for most of girls i've been with my wife used to fart when she was nervous it was so loud it woke the dog up [Laughter] all these things imperfections but they're not oh that's the good stuff hold it up okay thank you hello hey you know let me take you out again i can't sign the proton spectrum for ebola foreign ringing off the hook with job offers where a mind like wills has given free reign it's great that their office but i don't really think he's ready for that doesn't want what you want there's more to life than a [ __ ] fields medal why don't we give him time to figure out what he wants some help no smart people here at harvard and even they have to study because this is really hard you do it",
+  "movie_id": "굿윌헌팅",
+  "reviewer": "렛잇무비",
+  "chunk_index": 2,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "GOOD WILL HUNTING",
+      "entity_type": "MOVIE",
+      "entity_description": "Good Will Hunting은 천재적인 수학 능력을 가진 청년 윌 헌팅의 성장과 치유를 다룬 1997년 영화이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "WILL HUNTING",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "윌 헌팅은 천재적인 두뇌를 가졌지만 트라우마를 안고 있는 청년으로, 하버드에서 일하며 수학 문제를 푸는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "SEAN MAGUIRE",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "션 맥과이어는 윌을 상담하는 심리치료사로, 전쟁 경험과 아내의 죽음을 겪은 인물이며 윌에게 진정한 삶과 상실에 대해 가르친다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "SKYLAR",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "스카일라는 윌이 만난 아름답고 똑똑한 여성으로, 윌과 데이트하는 관계이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "WILL HUNTING",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "GOOD WILL HUNTING",
+      "target_type": "MOVIE",
+      "relationship_description": "윌 헌팅은 Good Will Hunting의 주인공이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "SEAN MAGUIRE",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "GOOD WILL HUNTING",
+      "target_type": "MOVIE",
+      "relationship_description": "션 맥과이어는 Good Will Hunting에서 윌의 상담사 역할을 하는 주요 인물이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "SKYLAR",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "GOOD WILL HUNTING",
+      "target_type": "MOVIE",
+      "relationship_description": "스카일라는 Good Will Hunting에 등장하는 윌의 연인이다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "SEAN MAGUIRE",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "WILL HUNTING",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "션은 윌의 심리치료사로서 그에게 진정한 삶의 경험과 상실에 대해 이야기하며 대립하고 교감한다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "WILL HUNTING",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "SKYLAR",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "윌은 스카일라와 데이트하며 로맨틱한 관계를 발전시킨다",
+      "relationship_strength": 8
+    }
+  ],
+  "entity_resolution": {
+    "GOOD WILL HUNTING": {
+      "description": "GOOD WILL HUNTING -> GOOD WILL HUNTING",
+      "resolved_name": "GOOD WILL HUNTING",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "WILL HUNTING": {
+      "description": "WILL HUNTING -> WILL HUNTING",
+      "resolved_name": "WILL HUNTING",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "SEAN MAGUIRE": {
+      "description": "SEAN MAGUIRE -> SEAN MAGUIRE",
+      "resolved_name": "SEAN MAGUIRE",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "SKYLAR": {
+      "description": "SKYLAR -> Skylar",
+      "resolved_name": "Skylar",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    }
+  }
+}

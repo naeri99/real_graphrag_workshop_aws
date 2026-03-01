@@ -1,0 +1,23 @@
+{
+  "entity": {
+    "name": "Ellen",
+    "synonym": [
+      "Ellen",
+      "Ellen Burstyn",
+      "버스틴",
+      "앨런",
+      "앨런 드라이버",
+      "엘",
+      "엘런",
+      "엘런 버스틴",
+      "엘런버스틴",
+      "엘렌",
+      "엘렌 버스틴",
+      "엘른"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "Ellen은 영화 '덤플링'의 등장인물로, 벡스 테일러 클라우스이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

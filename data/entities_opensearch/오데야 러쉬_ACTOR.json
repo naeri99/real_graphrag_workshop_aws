@@ -1,0 +1,17 @@
+{
+  "entity": {
+    "name": "오데야 러쉬",
+    "synonym": [
+      "Odeya Rush",
+      "러쉬",
+      "오데야",
+      "오데야 러쉬",
+      "오데야 러시",
+      "오데야러쉬"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "오데야 러쉬은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

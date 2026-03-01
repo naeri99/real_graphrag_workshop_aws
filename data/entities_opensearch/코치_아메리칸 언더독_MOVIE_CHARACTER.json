@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "코치",
+    "synonym": [
+      "Coach",
+      "감독",
+      "공격코치",
+      "지도자",
+      "코우치",
+      "코취",
+      "코치",
+      "코치님"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "코치은 영화 '아메리칸 언더독'의 등장인물로, 알비스 루이스이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

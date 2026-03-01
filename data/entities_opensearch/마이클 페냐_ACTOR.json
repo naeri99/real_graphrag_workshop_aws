@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "마이클 페냐",
+    "synonym": [
+      "Michael",
+      "Michael Pena",
+      "Michael Peña",
+      "마이클 페나",
+      "마이클 페냐",
+      "마이클페나",
+      "마이클페냐",
+      "미카엘 페냐",
+      "페나",
+      "페냐"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "마이클 페냐은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

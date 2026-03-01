@@ -1,0 +1,124 @@
+{
+  "chunk_hash": "e36505902ad39c",
+  "chunk_id": "카랑Karang_e36505902ad39c_06383461",
+  "user_query": "license to do banking Mr. Steiner you're fired I'm going to need to escort you from the building now please leave the ledgers where they are the United States Treasury Department has closed this bank until further notice I'm so sorry get out of my face Bernard Garrett and Justin Morse yes FBI you're under arrest that's my feeling that we're in a political space here it is the goal seems to be to all over the so-called lacks oversight that our treasury provides so what does that have to do with me we need to change it things like these can own banks and loan money to others that foreign you have a choice now take the immunity deal you took advantage of lack's rules in order to enrich yourself or you can refuse the deal say whatever you want um our nation's founding documents declare that all men are created equal are these uh how these two men manipulated you used you to make money by duping everyday citizens into thinking you were the boss when really pulling the strings the dress code I can't get a loan you can't own a home you can't start a business Mr. Garrett you have been warned which means you can't build wealth Mr. Garrett you're excluded from the American dream remove the witness why is it so important to you to exclude an entire race of people from the American dream foreign foreign",
+  "movie_id": "뱅크어택",
+  "reviewer": "카랑Karang",
+  "chunk_index": 14,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "BERNARD GARRETT",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "버나드 가렛은 은행 소유와 관련된 사건으로 FBI에 체포되는 인물로, 미국의 인종차별적 금융 시스템에 맞서 싸우는 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "JUSTIN MORSE",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "저스틴 모스는 버나드 가렛과 함께 FBI에 체포되는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "MR. STEINER",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "스타이너 씨는 은행에서 해고되고 건물에서 퇴거당하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "FBI",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "FBI는 버나드 가렛과 저스틴 모스를 체포하는 연방수사국이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "UNITED STATES TREASURY DEPARTMENT",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "미국 재무부는 은행을 폐쇄하는 정부 기관이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "FBI",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "BERNARD GARRETT",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "FBI가 버나드 가렛을 체포한다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "FBI",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "JUSTIN MORSE",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "FBI가 저스틴 모스를 체포한다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "BERNARD GARRETT",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "JUSTIN MORSE",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "버나드 가렛과 저스틴 모스는 함께 체포되는 공범 관계이다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "UNITED STATES TREASURY DEPARTMENT",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "MR. STEINER",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "미국 재무부가 은행을 폐쇄하면서 스타이너 씨가 해고된다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "BERNARD GARRETT",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "MR. STEINER",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "버나드 가렛이 스타이너 씨를 해고하고 건물에서 퇴거시킨다",
+      "relationship_strength": 8
+    }
+  ],
+  "entity_resolution": {
+    "BERNARD GARRETT": {
+      "description": "BERNARD GARRETT -> BERNARD GARRETT",
+      "resolved_name": "BERNARD GARRETT",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "JUSTIN MORSE": {
+      "description": "JUSTIN MORSE -> JUSTIN MORSE",
+      "resolved_name": "JUSTIN MORSE",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "MR. STEINER": {
+      "description": "MR. STEINER -> MR. STEINER",
+      "resolved_name": "MR. STEINER",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "FBI": {
+      "description": "FBI -> FBI",
+      "resolved_name": "FBI",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "UNITED STATES TREASURY DEPARTMENT": {
+      "description": "UNITED STATES TREASURY DEPARTMENT -> UNITED STATES TREASURY DEPARTMENT",
+      "resolved_name": "UNITED STATES TREASURY DEPARTMENT",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

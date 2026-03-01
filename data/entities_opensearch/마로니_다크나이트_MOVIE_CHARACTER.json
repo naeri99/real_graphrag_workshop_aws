@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "마로니",
+    "synonym": [
+      "Maroni",
+      "Salvatore Maroni",
+      "마로니",
+      "마로니 두목",
+      "마로니 보스",
+      "마피아 두목",
+      "살 마로니",
+      "살마로니",
+      "살바토레",
+      "살바토레 마로니"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "마로니은 영화 '다크나이트'의 등장인물로, 에릭 로버츠이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "entity": {
+    "name": "김기천",
+    "synonym": [
+      "Kim Gi-cheon",
+      "Kim Ki Chun",
+      "Kim Ki-cheon",
+      "Kim Ki-chun",
+      "기천",
+      "김 기천",
+      "김기천",
+      "김기천 배우",
+      "김기천 씨",
+      "김기천배우",
+      "김기쳔",
+      "김기춘"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "김기천은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

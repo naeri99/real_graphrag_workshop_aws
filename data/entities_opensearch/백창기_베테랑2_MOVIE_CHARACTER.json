@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "백창기",
+    "synonym": [
+      "Baek Chang-gi",
+      "Chang-gi",
+      "백 창기",
+      "백창 기",
+      "백창기",
+      "백창기 캐릭터",
+      "백창기씨",
+      "창기",
+      "창기 형사",
+      "창기씨"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "백창기은 영화 '베테랑2'의 등장인물로, 김무열이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

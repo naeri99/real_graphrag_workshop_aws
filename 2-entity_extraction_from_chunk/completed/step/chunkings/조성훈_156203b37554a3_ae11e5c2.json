@@ -1,0 +1,133 @@
+{
+  "chunk_hash": "156203b37554a3",
+  "chunk_id": "조성훈_156203b37554a3_ae11e5c2",
+  "user_query": "얘들아 씨 주 1978년 부산 한 어느 때와 같이 하교하던 한 초등학생이 납치되는 사건이 일어납니다 아이가 유괴된 후 시작된 수사 아이 부모의 특별 요청으로 담당이 된 공길용 형사는 아이를 보호하기 위해 극비 수사를 진행하기로 합니다 이거는 철저히 극비로 가야 아가 삽니다 가족들의 절망 속에 수사는 시작되는데 보름째 되는 날 연락이 오겠는데요 아직 아이가 살아 있고 보름째 되는 날 범인 연락이 온다고 주장하는 한 남자가 등장합니다 바로 도사 김중산 은주 어머니요 김중산의 말대로 범인에게서 연락이 오고 아이의 생사보다 범인 찾기 혈안이 된 상황 속에서 오직 두 사람만이 이 아이를 살리기 위한 수사를 진행하는데 살아 있어요 분명히 영화 극비수사입니다 어서오세요 안녕하세요 정말 이렇게 두 주인공으로 등장하는 이야기잖아요 여기에 굉장히 신선함을 느끼시는 분들이 많을 것 같아요 어떻게 생각을 하시게 된 건가요 엉뚱하게 됐고 친구 2라는 전작 시나리오를 쓰다가 왕년에 굉장히 유명했던 한 사람 찾아갔어요 그랬다가 취재 말미에 그때 참 내가 김중산 도사 아니었으면 애 못 찾았지 이렇게 말씀하시는데 그게 무슨 소리죠 사건에 웬 도사가 재밌기도 하고 그래서 그때부터 본격적으로 했죠 도사 말이 딱 봤다가 보름 연락은 하잖아 맞다 거 같습니다 딱 진 거 같아 사실 이야기 자체도 도사와 형사가 같이 콜라보로 일을 한다 상상하기 힘든데 실화라서 더 드라마틱함이 배가 되는 거 같거든요 혹시 이렇게 그 캐릭터화하지 않고 인물들의 이름을 그대로 유지시킨 이유가 있어요 첫 번째로는 두 분의 성함이 되게 좋았어요 영화적이었어요 부산 시경의 공길용입니다 공길용이란 이름도 혀도 잘 굴러가고 김중산이라는 이름도 도사스럽잖아요 내일 돈 들고 대신동 만모스 레코드 앞에서 있어요 미술이라는 로케이션이 그런 모든 면들이 굉장히 재연이 잘 돼 있더라고요 구덕 아파트 골목도 뭐 만모스 레코드와 임랑 해수욕장 이런 지명들은 사실 최근에 부산에서는 쉽게 접할 수 없는 것들인데 실제로 수사본부가 공길용 선생님의 주장대로 따로 차려진 데는 극장이 아니라 예식장이 있습니다 아 맞아요라고 있대요 예 왜냐면 거기도 이제 주인공이 아이니까 아 그런 의미에서 하셨구나 그 간판 그리시는 분이 요즘은 그런 일이 없잖아요 그러니까 어렵게 수소문을 해가지고 한 분 찾아서 아 정말요 연세가 너무 많이 드셔 가지고 500만 원에 오맨 하나 입구에 있는 그 관속에 드라큐라 두 개를 그려주게 그랬었거든요 근데 이분이 오맨 하나만 그리고 쓰러지셨어요 와 이런 디테일한 정말 개합니다 바로 근데 내 눈에 진짜 도사는 하나도 없어 부잣집 아줌마들 꼬이게 갖고 사부작사부작 기면서 맛있는 거 얻어 먹고 돈이나 빼먹는 사기꾼들 밖에 없지 저는 원래 곽경택 감독님의 영화가 남성이 굉장히 강한 면모가 있어서 이번 영화도 좀 그러지 않을까 영화를 보기 전에 어떤 예측되는 어떤 그런 부분이 있었는데 그걸 완전히 벗어나서 의외로 좀 유머도 있고 많이 놀랐던 영화입니다 그 끌고 가는 스토리 자체가 스릴러가 있지만 기본적으로 휴먼 드라마의",
+  "movie_id": "극비수사",
+  "reviewer": "조성훈",
+  "chunk_index": 1,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "극비수사",
+      "entity_type": "MOVIE",
+      "entity_description": "극비수사는 1978년 부산에서 초등학생이 납치되는 사건을 다룬 실화 기반 영화로, 형사와 도사가 협력하여 아이를 찾는 이야기이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "공길용",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "공길용은 부산 시경 형사로, 납치된 아이를 보호하기 위해 극비 수사를 진행하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "김중산",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "김중산은 도사로, 아이가 살아있고 보름째 되는 날 범인 연락이 온다고 주장하며 수사에 협력하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "곽경택",
+      "entity_type": "MOVIE_STAFF",
+      "entity_description": "곽경택은 극비수사의 감독으로, 친구 2 시나리오 작업 중 실제 사건을 취재하여 이 영화를 만들게 되었다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "은주",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "은주는 납치된 아이로, 김중산이 은주 어머니와 연관되어 있다고 언급된다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "공길용",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "극비수사",
+      "target_type": "MOVIE",
+      "relationship_description": "공길용은 극비수사의 주인공 중 한 명으로 납치 사건을 수사하는 형사이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "김중산",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "극비수사",
+      "target_type": "MOVIE",
+      "relationship_description": "김중산은 극비수사의 주인공 중 한 명으로 도사 역할을 맡은 인물이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "공길용",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "김중산",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "공길용 형사와 김중산 도사는 함께 협력하여 납치된 아이를 찾기 위한 수사를 진행한다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "곽경택",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "극비수사",
+      "target_type": "MOVIE",
+      "relationship_description": "곽경택은 극비수사를 감독했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "은주",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "극비수사",
+      "target_type": "MOVIE",
+      "relationship_description": "은주는 극비수사에서 납치된 아이이다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "김중산",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "은주",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "김중산은 은주의 어머니와 연관이 있으며 은주를 찾는 데 도움을 준다",
+      "relationship_strength": 7
+    }
+  ],
+  "entity_resolution": {
+    "극비수사": {
+      "description": "극비수사 -> 극비수사",
+      "resolved_name": "극비수사",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "공길용": {
+      "description": "공길용 -> 공길용",
+      "resolved_name": "공길용",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "김중산": {
+      "description": "김중산 -> 김중산",
+      "resolved_name": "김중산",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "곽경택": {
+      "description": "곽경택 -> 곽경택",
+      "resolved_name": "곽경택",
+      "entity_type": "MOVIE_STAFF",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "은주": {
+      "description": "은주 -> 은주",
+      "resolved_name": "은주",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    }
+  }
+}

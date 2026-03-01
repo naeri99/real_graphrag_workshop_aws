@@ -1,0 +1,84 @@
+{
+  "movie_title": "베테랑2",
+  "director": [
+    {
+      "name": "류승완",
+      "name_en": "Ryoo Seung-wan"
+    }
+  ],
+  "cast": [
+    {
+      "actor": "황정민",
+      "actor_en": "Hwang Jung-min",
+      "character": "서도철"
+    },
+    {
+      "actor": "정해인",
+      "actor_en": "Jung Hae-in",
+      "character": "박선우"
+    },
+    {
+      "actor": "오달수",
+      "actor_en": "Oh Dal-su",
+      "character": "오재평"
+    },
+    {
+      "actor": "오대환",
+      "actor_en": "Oh Dae-hwan",
+      "character": "왕동현"
+    },
+    {
+      "actor": "장윤주",
+      "actor_en": "Jang Yoon-ju",
+      "character": "봉윤주"
+    },
+    {
+      "actor": "진경",
+      "actor_en": "Jin Kyung",
+      "character": "이주연"
+    },
+    {
+      "actor": "정만식",
+      "actor_en": "Jung Man-sik",
+      "character": "전석우"
+    },
+    {
+      "actor": "신승환",
+      "actor_en": "Shin Seung-hwan",
+      "character": "박승환 (에디터 저스티스)"
+    },
+    {
+      "actor": "김시후",
+      "actor_en": "Kim Si-hoo",
+      "character": "윤형사"
+    },
+    {
+      "actor": "안보현",
+      "actor_en": "Ahn Bo-hyun",
+      "character": "민강훈"
+    },
+    {
+      "actor": "허준호",
+      "actor_en": "Heo Jun-ho",
+      "character": "강항조"
+    },
+    {
+      "actor": "마동석",
+      "actor_en": "Ma Dong-seok",
+      "character": "마석도"
+    },
+    {
+      "actor": "김무열",
+      "actor_en": "Kim Mu-yeol",
+      "character": "백창기"
+    }
+  ],
+  "review": [
+    "./data/review/베테랑2/베테랑2_4guQAfTBmDo.json",
+    "./data/review/베테랑2/베테랑2_BGVZw-agnS0.json",
+    "./data/review/베테랑2/베테랑2_G6Rmr8rBi8U.json",
+    "./data/review/베테랑2/베테랑2_TryeYY3votk.json",
+    "./data/review/베테랑2/베테랑2__-Yts_W_u2s.json",
+    "./data/review/베테랑2/베테랑2_tLLAmOvuD1k.json"
+  ]
+}

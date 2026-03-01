@@ -1,0 +1,25 @@
+{
+  "entity": {
+    "name": "Anna Howland",
+    "synonym": [
+      "Anna",
+      "Anna Howland",
+      "아스트롬",
+      "안나",
+      "안나 아스트롬",
+      "안나 하울랜드",
+      "안나 하울런드",
+      "안나아스트롬",
+      "안나하울랜드",
+      "안나하울런드",
+      "애나",
+      "애나 하울랜드",
+      "애나하울랜드",
+      "하울랜드"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "Anna Howland은 영화 '스틸 앨리스'의 등장인물로, 케이트 보스워스이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

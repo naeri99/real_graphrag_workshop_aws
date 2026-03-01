@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "제프 다니엘스",
+    "synonym": [
+      "Jeff",
+      "Jeff Daniels",
+      "다니엘스",
+      "대니얼스",
+      "제프 다니엘스",
+      "제프 대니얼스",
+      "제프다니엘스",
+      "제프리 다니엘스"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "제프 다니엘스은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

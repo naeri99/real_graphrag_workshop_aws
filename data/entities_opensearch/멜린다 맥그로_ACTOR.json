@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "멜린다 맥그로",
+    "synonym": [
+      "Melinda",
+      "Melinda McGraw",
+      "맥그로",
+      "멜린다",
+      "멜린다 맥그라",
+      "멜린다 맥그러",
+      "멜린다 맥그로",
+      "멜린다 맥그로우",
+      "멜린다맥그로",
+      "멜린다맥그로우"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "멜린다 맥그로은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

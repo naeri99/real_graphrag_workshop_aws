@@ -1,0 +1,203 @@
+{
+  "chunk_hash": "a16866c62ff89a",
+  "chunk_id": "Harrys_Moving_Media_a16866c62ff89a_a1635eae",
+  "user_query": "Alice in Wonderland springs to mind with the smallest Totoro somewhat resembling the white rabbit at the end of the film we also see the cat bus also shares similarities to the Cheshire cat with his huge smile her father later states that the Totoro spirits of the forest and can only be seen when they want to be seen it could be argued that the woodland spirits wanted to be seen by Mei as she is seeking somebody to play with something the father couldn't fulfill as he is too busy working the two girls and their father later ask the spirits the following which could show that the Totoro purpose is to help the three whilst their mother isn't present as much as Satsuki enjoys playing the role her mother would ordinarily enact this comes with a burden also this is represented humorously when Mei shows up at her school but also when Mei has to be carried by Satsuki in the rain as they wait for the father to come home maybe in the symbolic representation of this burden at this point Satsuki is joined by Totoro if we understand that the Totoro's appearances are deliberate then we can assume that he also came here in her time of need although the moment with Totoro and the umbrella is fairly iconic Miyazaki has said that most people have misconceptions about what exactly Totoro's fascination with the umbrella is perhaps he could be using it as a musical instrument in the rain maybe he thinks the umbrella helps him fly higher or maybe he just wants to be Mary Poppins when a sandal is",
+  "movie_id": "토토로",
+  "reviewer": "Harrys_Moving_Media",
+  "chunk_index": 7,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "ALICE IN WONDERLAND",
+      "entity_type": "MOVIE",
+      "entity_description": "이상한 나라의 앨리스는 토토로와 비교되는 영화로, 흰 토끼와 체셔 고양이 등의 캐릭터가 등장한다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "TOTORO",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "토토로는 숲의 정령으로, 보고 싶을 때만 볼 수 있는 존재이며 메이와 사츠키를 돕는 역할을 한다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "MEI",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "메이는 놀아줄 사람을 찾는 어린 소녀로, 토토로를 처음 발견하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "SATSUKI",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "사츠키는 메이의 언니로, 어머니가 없는 동안 어머니 역할을 대신하며 그 부담을 안고 있는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "WHITE RABBIT",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "흰 토끼는 이상한 나라의 앨리스에 등장하는 캐릭터로, 가장 작은 토토로와 유사하다고 언급된다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "CHESHIRE CAT",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "체셔 고양이는 이상한 나라의 앨리스에 등장하는 캐릭터로, 큰 미소를 가진 고양이 버스와 유사하다고 언급된다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "CAT BUS",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "고양이 버스는 큰 미소를 가진 캐릭터로, 체셔 고양이와 유사점이 있다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "MARY POPPINS",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "메리 포핀스는 우산과 관련된 상징적 캐릭터로, 토토로가 우산에 매료된 이유와 연관지어 언급된다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "MIYAZAKI",
+      "entity_type": "MOVIE_STAFF",
+      "entity_description": "미야자키는 토토로의 우산에 대한 매료가 대부분의 사람들이 오해하고 있다고 말한 감독이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "TOTORO",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "WHITE RABBIT",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "가장 작은 토토로가 흰 토끼와 유사하다고 비교된다",
+      "relationship_strength": 5
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "CAT BUS",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "CHESHIRE CAT",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "고양이 버스는 큰 미소로 인해 체셔 고양이와 유사하다고 비교된다",
+      "relationship_strength": 6
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "TOTORO",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "MEI",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "토토로는 놀이 상대를 찾는 메이에게 나타나 함께한다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "TOTORO",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "SATSUKI",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "토토로는 사츠키가 힘들어할 때 그녀 곁에 나타나 도움을 준다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "MEI",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "SATSUKI",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "메이는 사츠키의 여동생으로, 사츠키가 메이를 돌본다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "MIYAZAKI",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "TOTORO",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "미야자키는 토토로 캐릭터를 창조한 감독으로, 토토로의 우산 매료에 대해 설명했다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "ALICE IN WONDERLAND",
+      "source_type": "MOVIE",
+      "target_entity": "WHITE RABBIT",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "흰 토끼는 이상한 나라의 앨리스에 등장하는 캐릭터이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "ALICE IN WONDERLAND",
+      "source_type": "MOVIE",
+      "target_entity": "CHESHIRE CAT",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "체셔 고양이는 이상한 나라의 앨리스에 등장하는 캐릭터이다",
+      "relationship_strength": 10
+    }
+  ],
+  "entity_resolution": {
+    "ALICE IN WONDERLAND": {
+      "description": "ALICE IN WONDERLAND -> ALICE IN WONDERLAND",
+      "resolved_name": "ALICE IN WONDERLAND",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "TOTORO": {
+      "description": "TOTORO -> TOTORO",
+      "resolved_name": "TOTORO",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "MEI": {
+      "description": "MEI -> MEI",
+      "resolved_name": "MEI",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "SATSUKI": {
+      "description": "SATSUKI -> SATSUKI",
+      "resolved_name": "SATSUKI",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "WHITE RABBIT": {
+      "description": "WHITE RABBIT -> WHITE RABBIT",
+      "resolved_name": "WHITE RABBIT",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "CHESHIRE CAT": {
+      "description": "CHESHIRE CAT -> CHESHIRE CAT",
+      "resolved_name": "CHESHIRE CAT",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "CAT BUS": {
+      "description": "CAT BUS -> CAT BUS",
+      "resolved_name": "CAT BUS",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "MARY POPPINS": {
+      "description": "MARY POPPINS -> MARY POPPINS",
+      "resolved_name": "MARY POPPINS",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "MIYAZAKI": {
+      "description": "MIYAZAKI -> MIYAZAKI",
+      "resolved_name": "MIYAZAKI",
+      "entity_type": "MOVIE_STAFF",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "entity": {
+    "name": "버클리 콜",
+    "synonym": [
+      "Berkeley Cole",
+      "버클레이 콜",
+      "버클리",
+      "버클리 코울",
+      "버클리 콜",
+      "버클리콜",
+      "콜"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "버클리 콜은 영화 '아웃 오브 아프리카'의 등장인물로, 마이클 키친이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

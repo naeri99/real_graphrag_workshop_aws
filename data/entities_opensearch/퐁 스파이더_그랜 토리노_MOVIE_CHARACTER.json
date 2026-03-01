@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "퐁 스파이더",
+    "synonym": [
+      "Fong",
+      "Fong Spider",
+      "Spider",
+      "스파이더",
+      "펑 스파이더",
+      "퐁",
+      "퐁 스파이더",
+      "퐁스파이더"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "퐁 스파이더은 영화 '그랜 토리노'의 등장인물로, 두아 무아이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

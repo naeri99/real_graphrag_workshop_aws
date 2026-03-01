@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "근",
+    "synonym": [
+      "Gen",
+      "Kun",
+      "根",
+      "筋",
+      "건",
+      "근",
+      "근 캐릭터",
+      "근이"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "근은 영화 '서유기 모험의 시작'의 등장인물로, 이정이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

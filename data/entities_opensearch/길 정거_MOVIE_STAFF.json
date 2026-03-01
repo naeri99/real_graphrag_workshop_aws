@@ -1,0 +1,23 @@
+{
+  "entity": {
+    "name": "길 정거",
+    "synonym": [
+      "Gil",
+      "Gil Junger",
+      "Gil Junger 감독",
+      "Gill Junger",
+      "길 융거",
+      "길 정거",
+      "길 정거 감독",
+      "길 정어",
+      "길융거",
+      "길정거",
+      "정거",
+      "정거 감독"
+    ],
+    "entity_type": "MOVIE_STAFF",
+    "summary": "길 정거은 영화 감독입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

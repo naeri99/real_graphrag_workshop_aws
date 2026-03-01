@@ -1,0 +1,13 @@
+{
+  "entity": {
+    "name": "윤공_영화드라마_리뷰",
+    "synonym": [
+      "윤공_영화드라마_리뷰",
+      "윤공 영화드라마 리뷰"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "윤공_영화드라마_리뷰은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "잭 키호",
+    "synonym": [
+      "Jack",
+      "Jack Kehoe",
+      "잭 케호",
+      "잭 키호",
+      "잭 키호이",
+      "잭케호",
+      "잭키호",
+      "키호"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "잭 키호은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

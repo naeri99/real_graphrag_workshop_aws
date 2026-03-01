@@ -1,0 +1,49 @@
+{
+  "chunk_hash": "62a599deac2843",
+  "chunk_id": "지무비_-_G_Movie_62a599deac2843_4d4f0c97",
+  "user_query": "줄기 킹 헨리 카빌 영화 아가일 2월 7일 극장 개봉을 알려드리며 물러가겠습니다 [음악] 감사합니다 였습니다 지금 이 영상 좋아요 해주시면 매주 새 영상이 올라오자마자 확인할 수 있습니다 강요는 아니고요 그냥 살짝 빌게요 죽어야 돼 네가 개가 되라면 난 개가 된다 이 새끼 아무튼 입만 벌리면 거짓말이 자동으로 나와 개야 뭐야 지금 누가 소리를 냈어 살살 살살 보수나네",
+  "movie_id": "아가일",
+  "reviewer": "지무비_-_G_Movie",
+  "chunk_index": 2,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "아가일",
+      "entity_type": "MOVIE",
+      "entity_description": "아가일은 2월 7일 극장 개봉하는 영화이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "헨리 카빌",
+      "entity_type": "ACTOR",
+      "entity_description": "헨리 카빌은 영화 아가일에 출연하는 배우이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "헨리 카빌",
+      "source_type": "ACTOR",
+      "target_entity": "아가일",
+      "target_type": "MOVIE",
+      "relationship_description": "헨리 카빌은 아가일에 출연한다",
+      "relationship_strength": 8
+    }
+  ],
+  "entity_resolution": {
+    "아가일": {
+      "description": "아가일 -> 아가일",
+      "resolved_name": "아가일",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "헨리 카빌": {
+      "description": "헨리 카빌 -> 헨리 카빌",
+      "resolved_name": "헨리 카빌",
+      "entity_type": "ACTOR",
+      "matched": true,
+      "match_type": "name_exact"
+    }
+  }
+}

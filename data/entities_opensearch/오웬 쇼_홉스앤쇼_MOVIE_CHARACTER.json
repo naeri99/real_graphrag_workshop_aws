@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "오웬 쇼",
+    "synonym": [
+      "Owen",
+      "Owen Shaw",
+      "쇼",
+      "쇼의 형제",
+      "오언 쇼",
+      "오웬",
+      "오웬 쇼",
+      "오웬쇼"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "오웬 쇼은 영화 '홉스앤쇼'의 등장인물로, 루크 에반스이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

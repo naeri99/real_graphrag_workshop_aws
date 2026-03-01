@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "현장",
+    "synonym": [
+      "Xuanzang",
+      "당삼장",
+      "삼장",
+      "삼장법사",
+      "진현장",
+      "현 장",
+      "현장",
+      "현장 법사",
+      "현장 스님",
+      "현장법사",
+      "현장스님"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "현장은 영화 '서유기 모험의 시작'의 등장인물로, 문장이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

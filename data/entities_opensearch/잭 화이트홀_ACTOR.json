@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "잭 화이트홀",
+    "synonym": [
+      "Jack Whitehall",
+      "잭",
+      "잭 화이트 홀",
+      "잭 화이트홀",
+      "잭 화잇홀",
+      "잭화이트홀",
+      "잭화잇홀",
+      "화이트홀"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "잭 화이트홀은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

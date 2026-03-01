@@ -1,0 +1,24 @@
+{
+  "entity": {
+    "name": "숀 맥과이어",
+    "synonym": [
+      "Sean",
+      "Sean Bailey",
+      "Sean Maguire",
+      "맥과이어",
+      "베일리",
+      "션",
+      "션 맥과이어",
+      "쇼",
+      "숀",
+      "숀 맥과이어",
+      "숀 베일리",
+      "숀맥과이어",
+      "숀베일리"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "숀 맥과이어은 영화 '굿윌헌팅'의 등장인물로, 로빈 윌리엄스이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

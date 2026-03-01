@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "브리짓 모이너핸",
+    "synonym": [
+      "Bridget Moynahan",
+      "모이너핸",
+      "브리젯 모이나한",
+      "브리젯 모이너핸",
+      "브리짓",
+      "브리짓 모이나한",
+      "브리짓 모이너핸",
+      "브리짓모이나한",
+      "브리짓모이너핸",
+      "브릿짓 모이너핸"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "브리짓 모이너핸은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

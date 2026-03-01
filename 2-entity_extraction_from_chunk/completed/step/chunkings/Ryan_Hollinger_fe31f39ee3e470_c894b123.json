@@ -1,0 +1,120 @@
+{
+  "chunk_hash": "fe31f39ee3e470",
+  "chunk_id": "Ryan_Hollinger_fe31f39ee3e470_c894b123",
+  "user_query": "his character as the film progresses and simon's attempts to maintain his mature composure gradually dissipate it's subtly conveyed while joel edgerton's gordo comes off as naturally quirky eccentric socially awkward and even a little dimwitted but he's not a sociopath by any stretch of the imagination despite the way simon and robin begin to perceive him he might be going through a midlife crisis considering his obsession with high school and attempts to look younger with the dyed hair and earring but even robin's lack of career progression and simon's jealousy for working with young billionaires and wanting to get to the top before he's too old carries this lingering feeling of regret of not having a more fulfilling life you're done with the past the past is not done with you i what what do you mean by that gordo however is playing a character so his oddities are deliberate and the couple's growing concern towards him are part of his meticulous strategy to devolve the couple's relationship in fact this line insinuates gordo's plan but you know i believe that a lot of the good could come from the bad you know i hear you if you put the right faith behind it you know not to bring religion into it god but well just to say that the the bad things they can be a gift he embeds cryptic religious metaphors into some of his notion calling on the idea that bad things can help redeem or destroy a person who is of guilt which in this case is simon in this story however simon omits",
+  "movie_id": "더 기프트",
+  "reviewer": "Ryan_Hollinger",
+  "chunk_index": 4,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "SIMON",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Simon은 영화가 진행됨에 따라 성격이 변화하는 인물로, 성숙한 태도를 유지하려 하지만 점차 무너지며, 젊은 억만장자들과 일하는 것에 질투심을 느끼고 너무 늙기 전에 정상에 오르고 싶어하는 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "GORDO",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Gordo는 자연스럽게 괴짜스럽고 사회적으로 어색하며 약간 멍청해 보이지만 소시오패스는 아닌 인물로, 고등학교에 대한 집착과 염색한 머리카락, 귀걸이로 젊어 보이려는 시도를 하며, 실제로는 커플의 관계를 무너뜨리기 위한 치밀한 전략의 일환으로 캐릭터를 연기하고 있다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "ROBIN",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Robin은 Simon의 파트너로, 커리어 발전이 없어 더 충만한 삶을 살지 못한 것에 대한 후회를 느끼며, Gordo에 대해 점점 우려를 갖게 되는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "JOEL EDGERTON",
+      "entity_type": "ACTOR",
+      "entity_description": "Joel Edgerton은 Gordo 역을 맡아 자연스럽게 괴짜스럽고 사회적으로 어색한 연기를 선보인 배우이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "JOEL EDGERTON",
+      "source_type": "ACTOR",
+      "target_entity": "GORDO",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Joel Edgerton은 Gordo 역을 연기했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "SIMON",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "ROBIN",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Simon과 Robin은 커플 관계이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "GORDO",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "SIMON",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Gordo는 Simon에 대한 치밀한 전략을 세우고 있으며, Simon의 과거 죄책감과 관련된 계획을 실행하고 있다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "GORDO",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "ROBIN",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Gordo는 Simon과 Robin 커플의 관계를 무너뜨리려는 전략을 실행하고 있다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "SIMON",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "GORDO",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Simon은 Gordo를 점점 위협적으로 인식하게 된다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "ROBIN",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "GORDO",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Robin은 Gordo에 대해 점점 우려를 갖게 된다",
+      "relationship_strength": 7
+    }
+  ],
+  "entity_resolution": {
+    "SIMON": {
+      "description": "SIMON -> SIMON",
+      "resolved_name": "SIMON",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "GORDO": {
+      "description": "GORDO -> GORDO",
+      "resolved_name": "GORDO",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "ROBIN": {
+      "description": "ROBIN -> ROBIN",
+      "resolved_name": "ROBIN",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "JOEL EDGERTON": {
+      "description": "JOEL EDGERTON -> JOEL EDGERTON",
+      "resolved_name": "JOEL EDGERTON",
+      "entity_type": "ACTOR",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

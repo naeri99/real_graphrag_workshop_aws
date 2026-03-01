@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "코치 로버츠",
+    "synonym": [
+      "Coach",
+      "Coach Roberts",
+      "Roberts",
+      "로버츠",
+      "로버츠 감독",
+      "로버츠 코치",
+      "로버츠감독",
+      "아레나 리그 감독",
+      "코치",
+      "코치 로버츠",
+      "코치로버츠"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "코치 로버츠은 영화 '인사이드 아웃 2'의 등장인물로, 요나 칼리나이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "chunk_hash": "7dcc0d7ae832a2",
+  "chunk_id": "영리남_-_Movie_7dcc0d7ae832a2_7b8a1af7",
+  "user_query": "결국 람보 교수는 마지막으로 적임자를 떠올리고 과거 룸메이트였던 심리학 교수 숀을 찾아갔습니다. 바로 로빈 윌리엄스가 맡은 숀입니다.\n\n법학, 역사 등 모든 분야의 재능 있는 윌은 천재적인 두뇌를 가지고 있지만 어린 시절 가정폭력으로 받은 상처로 인해 세상에 마음을 열지 못하는 윌의 마음을 열어 달라고 부탁했습니다.\n\n숀과 윌이 만나게 되는데\n\n윌은 숀의 사무실에 있는 그림을 보는데\n\n윌은 그림을 보고 그림이 무엇을 뜻하는지 평가를 했고 숀도 그 평가에 동의했습니다.\n\n하지만 윌이 그림을 보고난 뒤 막말을 하는데\n\n숀의 아내에게 막말을 해서 화가 났죠.\n\n[음악]\n\n화가 치밀어 오른 숀이 폭발 하는데\n\n람보 교수는 숀도 다른 교수들처럼 포기할 거라고 생각했지만\n\n숀은 지속적으로 만날 계획이 있고 깊은 생각에 빠져 있죠.\n\n[음악]\n\n그날 저녁 윌은 스카일라와 데이트를 하는데\n\n마술도 보여주는데\n\n같이 밥도 먹으며 행복한 시간을 보내는데\n\n그렇게 둘만의 키스가 시작되고\n\n[음악]\n\n윌과의 두번째 만남. 숀은 윌을 데리고 공원으로 가서 숀의 그림에 대해 말해주는데\n\n숀의 아내는 병상에 누워있었지만 숀은 그 시간만큼 후회하지 않게 살아가겠다고 말했고 숀은 더 직설적으로 한마디 하는데\n\n숀은 윌이 자신에게 마음을 털어 놓으면 그때 마음을 열고 윌을 도와주겠다고 말했고\n\n윌은 생각이 깊어진 후에\n\n그날 밤 윌은 스카일라에게 전화 걸었지만\n\n아무 말도 없이 끊었습니다.\n\n다음날 숀과의 심리치료에서 서로 아무말없이 시간만 흘러 가게 기다렸고\n\n다음날 윌은 숀에게 말을 걸었습니다.\n\n전혀 마음을 열 것 같지 않았던 윌이 숀에게 가벼운 대화를 꺼내며 서로 티키타카 대화를 이어 나갔고 여자친구의 완벽함에 대해 말해주는데\n\n윌은 지식으로 모든 걸 습득했지만\n\n윌의 방법이 잘못됐다고 숀이 깔끔한 한마디를 해 줬습니다.\n\n심리치료 수업이 끝나고 스카일라의 기숙사로 찾아가\n\n오랜만에 찾아갔지만 학교 과제로 인해 당장 못 만난다는 스카일라\n\n윌은 스카일라와 놀고 싶은 마음에 스카일라의 과제 답을 대신 적어주고 쉽게 넘어갔죠.\n\n같이 데이트를 하고\n\n스카일라는 윌이 12명의 형제가 있다는 말에 귀를 의심했습니다.\n\n숀에게 치료를 받으러 간 윌\n\n숀은 윌이 한 여자를 향한 사랑에 대해 들었는데\n\n숀의 아내는 야구 경기를 포기하고 아내를 보러갈 만큼 소중하고 사랑했기 때문이라는 이야기를 들려줬습니다.\n\n그날 밤 스카일라의 기숙사에서 둘이 같이 밤을 보냈고\n\n의심하는 스카일라. 친구를 소개시켜 주지 않으면 말도 안 하겠다고 하자\n\n척에게 전화를 거는 윌\n\n그렇게 밤을 보냈고\n\n[음악]\n\n숀과 람보 교수가 만나 윌의 미래에 대해 이야기를 하는데\n\n람보 교수는 윌이 재능을 낭비하지 않기를 원했지만\n\n숀은 윌이 스스로 하고 싶은 일을 찾을 때까지 기다리고 억지로 시키지 않기를 원했습니다.\n\n그렇게 숀과 람보 교수의 갈등은 깊어만 가고\n\n어느날 밤 스카일라는 윌에게 같이 캘리포니아 가자고 권유했지만 윌은 그 제안을 받아들이지 못하고 주저하는 모습을 보입니다.",
+  "movie_id": "굿윌헌팅",
+  "reviewer": "영리남_-_Movie",
+  "chunk_index": 2,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "람보 교수",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "람보 교수는 윌의 천재성을 발견하고 숀에게 윌의 심리치료를 부탁하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "숀",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "숀은 심리학 교수로 람보 교수의 과거 룸메이트였으며 윌의 심리치료를 담당하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "로빈 윌리엄스",
+      "entity_type": "ACTOR",
+      "entity_description": "로빈 윌리엄스는 심리학 교수 숀 역을 맡은 배우이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "윌",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "윌은 법학, 역사 등 모든 분야에 천재적인 두뇌를 가졌지만 어린 시절 가정폭력으로 인한 상처로 세상에 마음을 열지 못하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "스카일라",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "스카일라는 윌의 여자친구로 윌과 데이트를 하고 캘리포니아로 함께 가자고 권유하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "척",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "척은 윌의 친구로 스카일라에게 소개되는 인물이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "로빈 윌리엄스",
+      "source_type": "ACTOR",
+      "target_entity": "숀",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "로빈 윌리엄스는 숀 역을 연기했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "람보 교수",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "숀",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "람보 교수는 과거 룸메이트였던 숀에게 윌의 심리치료를 부탁했다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "숀",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "윌",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "숀은 윌의 심리치료를 담당하며 윌이 마음을 열도록 도와주는 관계이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "람보 교수",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "윌",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "람보 교수는 윌의 천재성을 발견하고 그의 미래를 위해 노력하는 인물이다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "윌",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "스카일라",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "윌과 스카일라는 연인 관계로 데이트를 하고 함께 시간을 보낸다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "윌",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "척",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "척은 윌의 친구이다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "숀",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "람보 교수",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "숀과 람보 교수는 윌의 미래에 대해 의견 차이로 갈등을 겪는다",
+      "relationship_strength": 8
+    }
+  ],
+  "entity_resolution": {
+    "람보 교수": {
+      "description": "람보 교수 -> 제랄드 램보",
+      "resolved_name": "제랄드 램보",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "숀": {
+      "description": "숀 -> 숀 맥과이어",
+      "resolved_name": "숀 맥과이어",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "로빈 윌리엄스": {
+      "description": "로빈 윌리엄스 -> 로빈 윌리엄스",
+      "resolved_name": "로빈 윌리엄스",
+      "entity_type": "ACTOR",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "윌": {
+      "description": "윌 -> 윌 헌팅",
+      "resolved_name": "윌 헌팅",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "스카일라": {
+      "description": "스카일라 -> Skylar",
+      "resolved_name": "Skylar",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "척": {
+      "description": "척 -> 척 프레셰트",
+      "resolved_name": "척 프레셰트",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    }
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "chunk_hash": "f40d433f933411",
+  "chunk_id": "정신과의사_뇌부자들_f40d433f933411_c14cc890",
+  "user_query": "날 별로 좋아하지 않는 것 같은 사람을 어쨌든 받아들였고 그리고 부자에 대한 어떤 혐오감과 불편감도 있었을 텐데도 받아들였어요 그거는 그만큼 절실하게 필요했다는 거예요 그런 백그라운드와 자신이 마에스트로 자리에 안정적으로 있을 그런 백그라운드를 결혼과 가정에 대한 가치 포기하면서까지 이거는 잡아야겠다고 해서 딱 잡았는데 허수인 거야 음 그러면 진짜 화가 나지 않을까 그렇죠 그 저는 아까 얘기했던 것처럼 스스로의 능력에 대한 약간 자신감이 없기 때문에 더 거기서 어떻게 보면 좀 트리거가 눌렸다라고 봅니다 아무리 그렇게 얘기해도 아 난 사실 충분히 능력이 있고 어 이 단을 끌어갈 만한 사람이지라고 생각을 했으면 사실 단장인 뭐 이제 엄마랑 수연이랑 같이 얘기를 한다 하더라도 아 뭐 저 사람들 저렇게 이야기하네 하고 넘어갈 수도 있지 않았을까요 그렇죠 마음속 한켠에 불안이라는 게 있었던 거 같고 특히 그 장면 구도도 되게 인상적이었어요 1층에서 성진과 단원들이 이제 연습을 하고 있는 모습을 위에서 2층에서네 단장과 수연이 이제 이야기를 나누면서 공연 기획에 대해서 얘기를 하는 게 애초에 이 사람들은 위에서 굽어 내려보는 사람들이고 성진은 그 아래에 있는 한 급 아래의 사람이다라는 거 사실 결혼하면서 나는 이제 가족도 되고 그럼 나도 같은 그레이드로 받아들여 줘야 되는 거 아니야 왜 나 패싱 해라는 거죠 내 안에 이제 욕망이 있다는 거고 근데 그게 또 스스로 받아들이기 힘드니까 화나는 거를 이렇게 풀어낸 거 아닌가 싶어요 그렇죠네 음 음 근데 저는 그런 부분을 또 한번 느꼈던 게 미주 면접 볼 때였어요 그러니까 수연의 후배라서 이제 찾아와서 면접을 보잖아요 어떻게 이런 흔한 곡을 가지고 지원을 하려고 했냐라면서 이제 화를 좀 내잖아요 짜증을 내는데 사실 통상적으로 그렇잖아요 그 약혼자의 후배가 소개로 왔다 그러면 잘 봐줄 법도 하잖아요 인맥이 그런데 는 하나도 이야기를 하지 않고 어 진심으로 대하지 않았다 뭔가 능력이 없어 보이니까 그걸 가지고 무시 한단 말이에요 어 그러니까 근데 사실 뭐예요 나도 그런 식으로 들어왔잖아요 음 그를 이제 이렇게 약간 화내지 공격하는 것처럼 사실 스스로에 대해서도 그런 약간 좀 분노하고 있었을 가능성이 있다 음 예 그런 생각이 좀 듭니다 그럼 뭔가 약간의 전이 감정 같은 것들이 순간적으로 생겨나서 더 좀 공격적인 태도가 나왔다 이렇게 볼 수 있는 건가요 그렇지 않았을까요 여기서 핵심 감정은 뭔가 능력 없이 이 자리에 올라왔다는 본인에 대한 어떤 뭐 미움이라는 미움이 있고 열등감이 있죠네 그것들이 이제 무대 인사 올라올 때 처음에 송승헌 배우님이 딱 그런 말을 하더라고요 첫 마디가 아 모든 사람은 다 가면을 쓰고 산다고 하더라고요 라면서 시작을 했어요 예 정말 딱 다양한 가면들을 보여 준 게 아니었나 이런 생각이 들어요 아마 미주를 만나면서 이제 그 가면이라는 거를 좀 벗을 수 있는 그런 기회가 되지 않았을까 그래서 그만큼 더 강한 끌림을 갖지 않았을까 이제 그런 생각도 드네요 수연은 이제 본인의 어떤 이제 가치",
+  "movie_id": "히든페이스",
+  "reviewer": "정신과의사_뇌부자들",
+  "chunk_index": 4,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "성진",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "성진은 마에스트로(지휘자) 자리에 있으며, 자신의 능력에 대한 자신감이 부족하고 열등감을 가진 인물이다. 결혼을 통해 안정적인 위치를 확보하려 했으나 내면의 불안과 분노를 가지고 있다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "수연",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "수연은 성진의 약혼자로, 단장과 함께 공연 기획에 대해 논의하는 인물이다. 미주의 선배이기도 하다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "미주",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "미주는 수연의 후배로, 성진에게 면접을 보러 온 인물이다. 성진이 가면을 벗을 수 있는 계기가 되는 인물로 암시된다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "단장",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "단장은 수연의 어머니로, 2층에서 공연 기획을 논의하며 성진을 굽어 내려보는 위치에 있는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "송승헌",
+      "entity_type": "ACTOR",
+      "entity_description": "송승헌은 무대 인사에서 \"모든 사람은 다 가면을 쓰고 산다\"라는 말을 한 배우이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "성진",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "수연",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "성진과 수연은 약혼 관계이며, 성진은 수연과의 결혼을 통해 안정적인 위치를 확보하려 했다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "성진",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "미주",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "성진은 미주의 면접을 보았으며, 미주를 만나면서 가면을 벗을 수 있는 기회를 얻게 된다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "수연",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "미주",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "수연은 미주의 선배이며, 미주는 수연의 소개로 면접을 보러 왔다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "수연",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "단장",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "수연과 단장은 함께 공연 기획에 대해 논의하며, 단장은 수연의 어머니이다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "성진",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "단장",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "성진은 단장의 사위가 되었으나, 단장에게 동등한 위치로 인정받지 못한다고 느낀다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "송승헌",
+      "source_type": "ACTOR",
+      "target_entity": "성진",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "송승헌은 성진 역을 연기한 배우로 추정된다",
+      "relationship_strength": 8
+    }
+  ],
+  "entity_resolution": {
+    "성진": {
+      "description": "성진 -> 성진의 어머니",
+      "resolved_name": "성진의 어머니",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "수연": {
+      "description": "수연 -> 수연 친구2",
+      "resolved_name": "수연 친구2",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "미주": {
+      "description": "미주 -> 미주",
+      "resolved_name": "미주",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "단장": {
+      "description": "단장 -> 성진의 어머니",
+      "resolved_name": "성진의 어머니",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "송승헌": {
+      "description": "송승헌 -> 송승헌",
+      "resolved_name": "송승헌",
+      "entity_type": "ACTOR",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

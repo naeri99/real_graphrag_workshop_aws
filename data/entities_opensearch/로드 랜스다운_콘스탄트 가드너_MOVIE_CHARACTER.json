@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "로드 랜스다운",
+    "synonym": [
+      "Lord Donahue",
+      "Lord Lansdowne",
+      "랜스다운",
+      "랜스다운 경",
+      "랜스다운경",
+      "로드",
+      "로드 랜스다운",
+      "로드랜스다운"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "로드 랜스다운은 영화 '콘스탄트 가드너'의 등장인물로, 테렌스 리글리이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

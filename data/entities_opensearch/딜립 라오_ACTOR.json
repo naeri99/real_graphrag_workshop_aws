@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "딜립 라오",
+    "synonym": [
+      "Dileep Rao",
+      "디립 라오",
+      "딜리프 라오",
+      "딜립",
+      "딜립 라오",
+      "딜립 라우",
+      "딜립라오",
+      "라오"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "딜립 라오은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

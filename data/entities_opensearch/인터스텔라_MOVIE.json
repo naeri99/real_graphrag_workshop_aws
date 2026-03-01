@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "인터스텔라",
+    "synonym": [
+      "Interstellar",
+      "Interstellar 2014",
+      "더 스텔라",
+      "별들 사이로",
+      "인터 스텔라",
+      "인터 스텔러",
+      "인터스탤라",
+      "인터스테라",
+      "인터스텔라",
+      "인터스텔라 영화",
+      "인터스텔러"
+    ],
+    "entity_type": "MOVIE",
+    "summary": "인터스텔라",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

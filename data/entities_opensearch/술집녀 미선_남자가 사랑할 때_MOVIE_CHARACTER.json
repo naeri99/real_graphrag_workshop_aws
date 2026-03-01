@@ -1,0 +1,23 @@
+{
+  "entity": {
+    "name": "술집녀 미선",
+    "synonym": [
+      "Mi-sun",
+      "Misun",
+      "미선",
+      "미선 씨",
+      "미선씨",
+      "미선이",
+      "술집 녀 미선",
+      "술집 미선",
+      "술집녀",
+      "술집녀 미선",
+      "술집녀미선",
+      "술집미선"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "술집녀 미선은 영화 '남자가 사랑할 때'의 등장인물로, 최우리이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

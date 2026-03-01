@@ -1,0 +1,18 @@
+{
+  "entity": {
+    "name": "로만 레인즈",
+    "synonym": [
+      "Roman Reigns",
+      "레인즈",
+      "로만",
+      "로만 레인스",
+      "로만 레인즈",
+      "로만레인즈",
+      "로먼 레인즈"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "로만 레인즈은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

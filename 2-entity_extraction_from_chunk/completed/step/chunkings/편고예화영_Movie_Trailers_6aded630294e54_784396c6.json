@@ -1,0 +1,36 @@
+{
+  "chunk_hash": "6aded630294e54",
+  "chunk_id": "편고예화영_Movie_Trailers_6aded630294e54_784396c6",
+  "user_query": "into something but now I don't know what I'm doing you know that Dolly's saying figure out who you are and do it on purpose [Music] viva la revolución baby that was truly surprised [Music]",
+  "movie_id": "덤플링",
+  "reviewer": "편고예화영_Movie_Trailers",
+  "chunk_index": 2,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "DOLLY",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Dolly는 \"figure out who you are and do it on purpose\"라는 말을 한 인물이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "DOLLY",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "DOLLY",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Dolly는 자기 정체성에 대한 조언을 하는 캐릭터이다",
+      "relationship_strength": 5
+    }
+  ],
+  "entity_resolution": {
+    "DOLLY": {
+      "description": "DOLLY -> DOLLY",
+      "resolved_name": "DOLLY",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

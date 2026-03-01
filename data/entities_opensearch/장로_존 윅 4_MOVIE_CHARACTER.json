@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "장로",
+    "synonym": [
+      "Elder",
+      "The Elder",
+      "사막의 장로",
+      "어른",
+      "엘더",
+      "원로",
+      "장로",
+      "장로 캐릭터",
+      "최고회의 장로"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "장로은 영화 '존 윅 4'의 등장인물로, 조지 게오기우이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

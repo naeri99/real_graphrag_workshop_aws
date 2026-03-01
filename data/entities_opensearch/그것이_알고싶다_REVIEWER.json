@@ -1,0 +1,13 @@
+{
+  "entity": {
+    "name": "그것이_알고싶다",
+    "synonym": [
+      "그것이_알고싶다",
+      "그것이 알고싶다"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "그것이_알고싶다은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "entity": {
+    "name": "전기현의_씨네_뮤직",
+    "synonym": [
+      "전기현의_씨네_뮤직",
+      "전기현의 씨네 뮤직"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "전기현의_씨네_뮤직은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

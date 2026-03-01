@@ -1,0 +1,25 @@
+{
+  "entity": {
+    "name": "로밀리",
+    "synonym": [
+      "Dr. Romilly",
+      "Romilly",
+      "Romilly 박사",
+      "닥터 로밀리",
+      "대원 로밀리",
+      "로밀리",
+      "로밀리 교수",
+      "로밀리 대원",
+      "로밀리 박사",
+      "로밀리 박사님",
+      "로밀리대원",
+      "로밀리우주비행사",
+      "로밀리이",
+      "우주비행사 로밀리"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "로밀리은 영화 '인터스텔라'의 등장인물로, 데이비드 가이아시이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

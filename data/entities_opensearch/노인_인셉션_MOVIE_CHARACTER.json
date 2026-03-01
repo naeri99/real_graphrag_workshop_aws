@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "노인",
+    "synonym": [
+      "Elderly Man",
+      "Elderly Saito",
+      "Old Man",
+      "Old Saito",
+      "노인",
+      "노인 사이토",
+      "노인 캐릭터",
+      "노인분",
+      "늙은 남자",
+      "늙은 사이토",
+      "늙은이"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "노인은 영화 '인셉션'의 등장인물로, 어얼 카메론이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

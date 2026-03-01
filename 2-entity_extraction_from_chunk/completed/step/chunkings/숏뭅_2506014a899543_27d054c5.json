@@ -1,0 +1,84 @@
+{
+  "chunk_hash": "2506014a899543",
+  "chunk_id": "숏뭅_2506014a899543_27d054c5",
+  "user_query": "mine Mr Morales yes see I give the phone back to Mickey please run evening ma'am your ID and the vehicle registration please I'm sorry officer I left in a dash okay ma'am I'll need you to get out while we search your truck oh I wouldn't do that if I were you ma'am hands up where I can see them they won't hurt you as long as you don't hurt me ma'am put your hands on the dashboard now I'm going to stay behind the door just in case thank you hello I'm Dr Evelyn Decker may I ask your name to be more specific I to put you in so I always like disguises so what you do when you don't really know who you are right do you love life doctor yes my family never really had much able to go to college and make the most of my life you found love I have a little boy he's not my soul married divorced life's not a long quiet river huh well now that I've answered your questions so perhaps you'll answer mine what was your question just your name Doug short for Douglas do you have any children Douglas hundreds you're referring to your dogs they're my babies would you say that you love your dogs more than you love the more I got to know humans the more I love dogs humans have without any of the vices as far as I can tell they only have one flaw they trust humans as he dangled meat in front of my father's dog I watched him both starve in the days leading to the fight how often did I told you addicted this violence like everyone else do you have any recollections of happy times yeah sure when my mom",
+  "movie_id": "도그맨",
+  "reviewer": "숏뭅",
+  "chunk_index": 2,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "DR EVELYN DECKER",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Dr Evelyn Decker는 의사로, 가족을 사랑하고 어린 아들이 있으며 이혼한 상태인 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "DOUG",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Doug는 Douglas의 줄임말로, 수백 마리의 개를 자신의 아이들처럼 여기며 인간보다 개를 더 사랑한다고 말하는 인물이다. 아버지의 개가 굶주리는 것을 지켜본 어두운 과거가 있다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "MR MORALES",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Mr Morales는 전화와 관련된 장면에서 언급되는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "MICKEY",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Mickey는 Mr Morales로부터 전화를 돌려받는 인물이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "DR EVELYN DECKER",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "DOUG",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Dr Evelyn Decker는 Doug와 대화를 나누며 서로의 삶에 대해 질문하고 답하는 관계이다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "MR MORALES",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "MICKEY",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Mr Morales는 Mickey에게 전화를 돌려주는 관계이다",
+      "relationship_strength": 5
+    }
+  ],
+  "entity_resolution": {
+    "DR EVELYN DECKER": {
+      "description": "DR EVELYN DECKER -> DR EVELYN DECKER",
+      "resolved_name": "DR EVELYN DECKER",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "DOUG": {
+      "description": "DOUG -> DOUG",
+      "resolved_name": "DOUG",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "MR MORALES": {
+      "description": "MR MORALES -> MR MORALES",
+      "resolved_name": "MR MORALES",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "MICKEY": {
+      "description": "MICKEY -> MICKEY",
+      "resolved_name": "MICKEY",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

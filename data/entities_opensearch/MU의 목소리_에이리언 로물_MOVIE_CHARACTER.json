@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "MU의 목소리",
+    "synonym": [
+      "MU",
+      "MU Voice",
+      "MU 목소리",
+      "MU 보이스",
+      "MU목소리",
+      "MU의 목소리",
+      "엠유",
+      "엠유 목소리"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "MU의 목소리은 영화 '에이리언 로물'의 등장인물로, 안네마리 그릭스이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

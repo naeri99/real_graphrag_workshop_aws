@@ -1,0 +1,26 @@
+{
+  "entity": {
+    "name": "황규",
+    "synonym": [
+      "Hwang-gyu",
+      "Hwanggyu",
+      "김황규",
+      "박정민 황규",
+      "박황규",
+      "이황규",
+      "황 규",
+      "황귀",
+      "황규",
+      "황규 역",
+      "황규 캐릭터",
+      "황규아",
+      "황규야",
+      "황규이",
+      "황규형"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "황규은 영화 '피끓는 청춘'의 등장인물로, 박정민이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

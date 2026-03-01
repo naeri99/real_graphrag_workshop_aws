@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "줄리아 카펜터",
+    "synonym": [
+      "Julia",
+      "Julia Carpenter",
+      "Julia Cornwall",
+      "줄리아",
+      "줄리아 카펜타",
+      "줄리아 카펜터",
+      "줄리아 콘월",
+      "줄리아카펜터",
+      "쥴리아 카펜터",
+      "카펜터"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "줄리아 카펜터은 영화 '마담 웹'의 등장인물로, 시드니 스위니이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

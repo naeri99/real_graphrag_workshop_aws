@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "숀 설리번",
+    "synonym": [
+      "Sean Sullivan",
+      "Sullivan",
+      "설리반",
+      "설리번",
+      "션 설리반",
+      "션 설리번",
+      "션설리번",
+      "숀",
+      "숀 설리반",
+      "숀 설리번",
+      "숀설리번"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "숀 설리번은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

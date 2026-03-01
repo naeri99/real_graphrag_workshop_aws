@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "다코타 존슨",
+    "synonym": [
+      "Dakota",
+      "Dakota Johnson",
+      "다코다 존슨",
+      "다코타",
+      "다코타 존슨",
+      "다코타 죤슨",
+      "다코타존슨",
+      "존슨"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "다코타 존슨은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "entity": {
+    "name": "NS4/NS5 로봇",
+    "synonym": [
+      "NS-4",
+      "NS-5",
+      "NS4",
+      "NS4 로봇",
+      "NS4/NS5",
+      "NS4/NS5 로봇",
+      "NS4로봇",
+      "NS5",
+      "NS5 로봇",
+      "NS5로봇",
+      "구형 로봇",
+      "네스터 로봇",
+      "로봇",
+      "신형 로봇",
+      "엔에스4",
+      "엔에스5",
+      "엔에스파이브",
+      "엔에스포"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "NS4/NS5 로봇은 영화 '아이 로봇'의 등장인물로, 스콧 헤인들이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "이안 홀름",
+    "synonym": [
+      "Ian",
+      "Ian Holm",
+      "Ian Holme",
+      "이안",
+      "이안 홀름",
+      "이안 홈",
+      "이안홀름",
+      "이언 홀름",
+      "이언 홈",
+      "홀름"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "이안 홀름은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

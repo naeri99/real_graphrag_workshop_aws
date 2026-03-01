@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "엘리엇 페이지",
+    "synonym": [
+      "Ellen Page",
+      "Elliot Page",
+      "엘렌 페이지",
+      "엘리엇",
+      "엘리엇 패이지",
+      "엘리엇 페이지",
+      "엘리엇페이지",
+      "페이지"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "엘리엇 페이지은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

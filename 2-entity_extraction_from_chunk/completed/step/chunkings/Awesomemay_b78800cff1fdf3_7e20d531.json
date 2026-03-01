@@ -1,0 +1,108 @@
+{
+  "chunk_hash": "b78800cff1fdf3",
+  "chunk_id": "Awesomemay_b78800cff1fdf3_7e20d531",
+  "user_query": "really isn't that important to the actual books I'm getting sidetracked enough about adaptations let's get into my actual Dog Man thoughts right off the bat this movie is of course so visually fantastic especially when the color blue is involved the skies made me drool I love how this office looks so cozy and yet so cold the animation goes back and forth from being really smooth and then throws in a few characters with lower frame rates which I was unsure about at first but I got used to it and it works surprisingly nice a lot of the side characters have this puppet clay-like look that stood out in front of the backgrounds perfectly as for movement everything moves with a lot of extra weight and felt very satisfying and articulate specifically in scenes where Dog Man or Petey jump in the air I cannot wait till this comes to streaming and I can examine all the smear frames because I know they're going to be crazy the camera and shot movements are also really insane especially in the scene as the camera Trails behind officer Knight driving like the mother from Ponyo The Sound and Music paired with this scene gives kind of a Batman TV show Vibe as does a lot of the soundtrack and it does such a good job making the film feel silly but still dramatic in general there's so many little hidden elements to laugh at funny self-aware building names title cards during the news report segment making meta jokes about the characters on screen everything in this world comes to life and you",
+  "movie_id": "도그맨",
+  "reviewer": "Awesomemay",
+  "chunk_index": 4,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "DOG MAN",
+      "entity_type": "MOVIE",
+      "entity_description": "Dog Man은 시각적으로 환상적인 애니메이션 영화로, 파란색 하늘과 독특한 애니메이션 스타일이 특징이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "DOG MAN",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Dog Man은 영화의 주인공 캐릭터로 공중으로 점프하는 장면이 있다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "PETEY",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Petey는 Dog Man 영화에 등장하는 캐릭터로 공중으로 점프하는 장면이 있다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "OFFICER KNIGHT",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Officer Knight는 Dog Man 영화에서 운전하는 장면이 있는 경찰관 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "PONYO",
+      "entity_type": "MOVIE",
+      "entity_description": "Ponyo는 일본 애니메이션 영화로, Dog Man의 카메라 움직임과 비교되는 장면이 있다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "DOG MAN",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "DOG MAN",
+      "target_type": "MOVIE",
+      "relationship_description": "Dog Man 캐릭터는 Dog Man 영화의 주인공이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "PETEY",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "DOG MAN",
+      "target_type": "MOVIE",
+      "relationship_description": "Petey는 Dog Man 영화에 등장하는 캐릭터이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "OFFICER KNIGHT",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "DOG MAN",
+      "target_type": "MOVIE",
+      "relationship_description": "Officer Knight는 Dog Man 영화에 등장하는 캐릭터이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "DOG MAN",
+      "source_type": "MOVIE",
+      "target_entity": "PONYO",
+      "target_type": "MOVIE",
+      "relationship_description": "Dog Man의 카메라 추적 장면이 Ponyo의 어머니 운전 장면과 비교된다",
+      "relationship_strength": 5
+    }
+  ],
+  "entity_resolution": {
+    "DOG MAN": {
+      "description": "DOG MAN -> DOG MAN",
+      "resolved_name": "DOG MAN",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "PETEY": {
+      "description": "PETEY -> PETEY",
+      "resolved_name": "PETEY",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "OFFICER KNIGHT": {
+      "description": "OFFICER KNIGHT -> OFFICER KNIGHT",
+      "resolved_name": "OFFICER KNIGHT",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "PONYO": {
+      "description": "PONYO -> PONYO",
+      "resolved_name": "PONYO",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

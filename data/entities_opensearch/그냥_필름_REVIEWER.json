@@ -1,0 +1,13 @@
+{
+  "entity": {
+    "name": "그냥_필름",
+    "synonym": [
+      "그냥_필름",
+      "그냥 필름"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "그냥_필름은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

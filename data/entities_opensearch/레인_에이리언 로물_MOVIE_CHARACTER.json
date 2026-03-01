@@ -1,0 +1,28 @@
+{
+  "entity": {
+    "name": "레인",
+    "synonym": [
+      "Rain",
+      "Rain Carradine",
+      "Rain Caruthers",
+      "라인",
+      "래인",
+      "레인",
+      "레인 카라데로",
+      "레인 카라딘",
+      "레인 카루더스",
+      "레인 카발레로",
+      "레인 캐러데인",
+      "레인 캐러딘",
+      "레인 캐럿",
+      "레인 캐릭터",
+      "레인카라딘",
+      "여자 주인공",
+      "주인공"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "레인은 영화 '에이리언 로물'의 등장인물로, 케일리 스페이니이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

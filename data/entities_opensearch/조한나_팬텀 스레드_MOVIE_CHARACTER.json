@@ -1,0 +1,18 @@
+{
+  "entity": {
+    "name": "조한나",
+    "synonym": [
+      "Johanna",
+      "요한나",
+      "조안나",
+      "조애나",
+      "조하나",
+      "조한나",
+      "조해나"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "조한나은 영화 '팬텀 스레드'의 등장인물로, 카밀라 루더포드이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

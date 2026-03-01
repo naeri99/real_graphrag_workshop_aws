@@ -1,0 +1,74 @@
+{
+  "movie_title": "극비수사",
+  "director": [
+    {
+      "name": "곽경택",
+      "name_en": "Kwak Kyung-taek"
+    }
+  ],
+  "cast": [
+    {
+      "actor": "김윤석",
+      "actor_en": "Kim Yoon-seok",
+      "character": "공길용"
+    },
+    {
+      "actor": "유해진",
+      "actor_en": "Yoo Hae-jin",
+      "character": "김중산"
+    },
+    {
+      "actor": "송영창",
+      "actor_en": "Song Young-chang",
+      "character": "은주"
+    },
+    {
+      "actor": "이정은",
+      "actor_en": "Lee Jung-eun",
+      "character": "은주 엄마"
+    },
+    {
+      "actor": "정호빈",
+      "actor_en": "Jung Ho-bin",
+      "character": "서정학"
+    },
+    {
+      "actor": "진선미",
+      "actor_en": "Jin Sun-mi",
+      "character": "김중산 아내"
+    },
+    {
+      "actor": "장명갑",
+      "actor_en": "Jang Myung-gap",
+      "character": "유반장"
+    },
+    {
+      "actor": "이윤희",
+      "actor_en": "Lee Yoon-hee",
+      "character": "수사과장"
+    },
+    {
+      "actor": "남문철",
+      "actor_en": "Nam Moon-chul",
+      "character": "경찰국장"
+    },
+    {
+      "actor": "이준혁",
+      "actor_en": "Lee Jun-hyuk",
+      "character": "매석환"
+    },
+    {
+      "actor": "윤진하",
+      "actor_en": "Yoon Jin-ha",
+      "character": "천 기사"
+    }
+  ],
+  "review": [
+    "./data/review/극비수사/극비수사_E7W62VjyZu4.json",
+    "./data/review/극비수사/극비수사_ExTtWeffBhU.json",
+    "./data/review/극비수사/극비수사_TK-7ISHa_o8.json",
+    "./data/review/극비수사/극비수사_Y1cTbhBoQGs.json",
+    "./data/review/극비수사/극비수사_hbdkM1rZ7KI.json",
+    "./data/review/극비수사/극비수사_xchA2hyg5Q4.json"
+  ]
+}

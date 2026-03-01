@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "Marcee Tidwell",
+    "synonym": [
+      "Marcee",
+      "Marcee Tidwell",
+      "마르시",
+      "마르시 티드웰",
+      "마세 티드웰",
+      "마시",
+      "마시 티드웰",
+      "마시티드웰",
+      "티드웰",
+      "티드웰 부인"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "Marcee Tidwell은 영화 '제리 맥과이어'의 등장인물로, 레지나 킹이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

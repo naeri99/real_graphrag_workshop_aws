@@ -1,0 +1,18 @@
+{
+  "entity": {
+    "name": "도브 카메론",
+    "synonym": [
+      "Dove Cameron",
+      "도브",
+      "도브 카메론",
+      "도브 캐머런",
+      "도브 캐머론",
+      "도브카메론",
+      "카메론"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "도브 카메론은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

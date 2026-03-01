@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "에릭 시그문드슨",
+    "synonym": [
+      "Eric Sigmundsson",
+      "시그문드슨",
+      "에릭",
+      "에릭 시그먼드슨",
+      "에릭 시그문드슨",
+      "에릭 시그문슨",
+      "에릭 지그문드슨",
+      "에릭시그먼드슨",
+      "에릭시그문드슨"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "에릭 시그문드슨은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

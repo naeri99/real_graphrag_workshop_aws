@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "스티브 코왈스키",
+    "synonym": [
+      "Steve",
+      "Steve Kowalski",
+      "스티브",
+      "스티브 코발스키",
+      "스티브 코왈스키",
+      "스티브 코월스키",
+      "스티브코왈스키",
+      "스티븐 코왈스키",
+      "코왈스키"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "스티브 코왈스키은 영화 '그랜 토리노'의 등장인물로, 브라이언 하우이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

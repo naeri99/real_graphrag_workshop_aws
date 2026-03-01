@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "보안요원",
+    "synonym": [
+      "Security",
+      "Security Guard",
+      "경비원",
+      "경호원",
+      "보안 요원",
+      "보안요원",
+      "보안원",
+      "시큐리티"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "보안요원은 영화 '인셉션'의 등장인물로, 라이언 헤이워드이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

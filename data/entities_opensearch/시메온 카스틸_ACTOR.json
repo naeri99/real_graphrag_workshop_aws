@@ -1,0 +1,17 @@
+{
+  "entity": {
+    "name": "시메온 카스틸",
+    "synonym": [
+      "Simeon Castille",
+      "시메온",
+      "시메온 카스틸",
+      "시메온 캐스틸",
+      "시메온카스틸",
+      "카스틸"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "시메온 카스틸은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

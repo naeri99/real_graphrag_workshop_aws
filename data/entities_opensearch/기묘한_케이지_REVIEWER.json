@@ -1,0 +1,13 @@
+{
+  "entity": {
+    "name": "기묘한_케이지",
+    "synonym": [
+      "기묘한_케이지",
+      "기묘한 케이지"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "기묘한_케이지은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

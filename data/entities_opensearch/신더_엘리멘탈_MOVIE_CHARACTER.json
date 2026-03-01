@@ -1,0 +1,23 @@
+{
+  "entity": {
+    "name": "신더",
+    "synonym": [
+      "Cinder",
+      "Cinder Lumen",
+      "불 어머니",
+      "신다",
+      "신더",
+      "신더 루멘",
+      "신더루멘",
+      "씬더",
+      "씬더 루멘",
+      "앰버 엄마",
+      "엄마",
+      "엠버엄마"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "신더은 영화 '엘리멘탈'의 등장인물로, 실라 오미이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

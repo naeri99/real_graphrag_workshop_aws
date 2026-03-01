@@ -1,0 +1,23 @@
+{
+  "entity": {
+    "name": "소마 사이먼",
+    "synonym": [
+      "Soma",
+      "Soma Saimon",
+      "Soma Simon",
+      "Soma Symon",
+      "사이먼",
+      "소마",
+      "소마 사이먼",
+      "소마 사이몬",
+      "소마 시몬",
+      "소마사이먼",
+      "소마사이몬",
+      "소마시몬"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "소마 사이먼은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

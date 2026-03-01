@@ -1,0 +1,17 @@
+{
+  "entity": {
+    "name": "챈스 켈리",
+    "synonym": [
+      "Chance Kelly",
+      "찬스 켈리",
+      "챈스",
+      "챈스 켈리",
+      "챈스켈리",
+      "켈리"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "챈스 켈리은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

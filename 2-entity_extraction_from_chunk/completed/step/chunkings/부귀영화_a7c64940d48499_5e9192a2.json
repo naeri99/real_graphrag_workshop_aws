@@ -1,0 +1,177 @@
+{
+  "chunk_hash": "a7c64940d48499",
+  "chunk_id": "부귀영화_a7c64940d48499_5e9192a2",
+  "user_query": "영화 엘리멘탈의 첫 시퀀스는 엘리멘트 시티에서 불 원소가 소수 인종인 걸 보여줍니다. 도시의 역사적인 사건을 기록해 놓은 벽화 제1의 물결은 물이 최초로 이 도시에 정착한 것을, 제2의 물결은 흙이, 제3의 물결은 공기가 정착한 것을 보여주죠. 반면 불 원소는 어디에도 나와 있지 않아 Bernie와 Cinder가 그곳에 있는 걸 보여주면서 공동체에서 소외되어 있다는 걸 암시합니다. 동시에 불은 작은 나룻배에 단 두 명만 등장하지만 다른 원소들은 큰 선박에서 많은 사람이 하선하죠. 이렇듯 대부분의 미장센이 도시가 불 원소를 반기지 않고 있다는 걸 보여줍니다. 낡은 가게는 아버지를 의미합니다. 아버지가 고생해서 지은 Fireplace는 어린 시절 Ember의 꿈이었죠. 그녀는 어른이 되면 꼭 가게를 물려받겠다고 다짐했지만 그건 평생 보고 자란 게 아버지라서 그랬습니다. Wade를 통해 자신을 들여다보고 유리 공예에 관심이 생기지만 가게를 버릴 수 없는 이유도 가게가 곧 아버지이기 때문이었죠. 가게를 물려받지 않는 건 곧 아버지를 거부하는 것이었습니다. 그래서 Wade와 즐거운 시간을 보내고 있을 때도 아버지가 먼저 생각이 나고 그 뒤에 Fireplace 간판이 떠오르죠. 또한 이런 이유로 유지보수가 필요한 가게를 노쇠한 아버지와 함께 보여줍니다. 아버지나 가게나 오래돼서 이곳저곳 손 갈 데가 많죠. 굴절은 유리 공예와 Wade가 Ember의 짝이라는 걸 보여줍니다. 가볍게 막대사탕 조립해서 그 재능을 보여주고 손님 때문에 깬 진열장 유리를 다시 만들 때 유리 공예를 보여주죠. 이때 유리를 통해 Ember를 잡습니다. 이 모습은 훗날 꽃이 든 유리구슬로 이어지는 연출이죠. 그녀가 아버지의 가게와 유리 회사 중 고민할 때 유리구슬을 통해 자신의 내면을 들여다봅니다. 아무튼 Wade가 시청의 위반 딱지를 붙일 때 그는 Ember의 불꽃에 감명받습니다. 그건 시청 유리문에 굴절된 Ember의 모습이었죠. 그리고 열기구를 탈 때 Ember의 불에 한 번 더 감동받는데 그는 화내는 게 나쁜 것도 아닐 뿐더러 그런 Ember가 아름답다고 말해 줍니다. 그 후 태양이 바다에 맞닿고 Ember는 Wade의 조언, 마음의 소리를 못 들어서 화가 난다는 네 말 맞는 것 같아를 받아들이죠. 이때 태양은 Ember를, 바다는 Wade를 상징하고 태양은 바다를 비춥니다. 그리고 태양이 저물며 바다에 닿자 바다에 비친 태양과도 닿기 시작하죠. 태양은 물과도 닿았고 자신의 거울상인 태양과도 맞닿았습니다. 따라서 Ember는 Wade를 받아들이고 그를 받아들임으로써 자신의 내면도 받아들인 것이 되죠. 그리고 나서 Ember의 불 때문에 모래가 유리가 되고 그녀는 Vivisteria와 비슷한 꽃이 든 유리구슬을 만듭니다. 그런데 그녀는 그 재능을 소홀히 해서 버리죠. Wade가 그 유리구슬을 챙겨 Ember에게 돌려주고 끊임없이 Ember의 재능을 응원하고 격려해 줍니다. 이후 첫 번째 절정은 Vivisteria 보기 위해 공기막에 들어간 Ember의 모습입니다. 그녀의",
+  "movie_id": "엘리멘탈",
+  "reviewer": "부귀영화",
+  "chunk_index": 1,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "엘리멘탈",
+      "entity_type": "MOVIE",
+      "entity_description": "엘리멘탈은 불, 물, 흙, 공기 원소들이 살아가는 엘리멘트 시티를 배경으로 한 영화로, 소수 인종으로서의 불 원소와 계층 간의 관계를 다룬다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "BERNIE",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Bernie는 엘리멘탈에서 불 원소 캐릭터로, Ember의 아버지이며 Fireplace 가게를 고생해서 지은 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "CINDER",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Cinder는 엘리멘탈에서 불 원소 캐릭터로, Bernie와 함께 엘리멘트 시티에 정착한 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "EMBER",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Ember는 엘리멘탈의 주인공으로 불 원소 캐릭터이다. 어린 시절부터 아버지의 가게 Fireplace를 물려받겠다고 다짐했으나, Wade를 만나면서 유리 공예에 대한 재능을 발견하고 자신의 내면을 들여다보게 된다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "WADE",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Wade는 엘리멘탈에서 물 원소 캐릭터로, 시청 직원이다. Ember의 불꽃에 감명받고 그녀의 유리 공예 재능을 끊임없이 응원하고 격려해주며, Ember가 자신의 내면을 받아들이도록 도와준다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "FIREPLACE",
+      "entity_type": "MOVIE",
+      "entity_description": "Fireplace는 Bernie가 고생해서 지은 가게로, Ember에게는 아버지를 상징하는 장소이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "VIVISTERIA",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Vivisteria는 엘리멘탈에 등장하는 꽃으로, Ember가 만든 유리구슬 속 꽃과 비슷한 형태이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "EMBER",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "엘리멘탈",
+      "target_type": "MOVIE",
+      "relationship_description": "Ember는 엘리멘탈의 주인공이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "WADE",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "엘리멘탈",
+      "target_type": "MOVIE",
+      "relationship_description": "Wade는 엘리멘탈의 주요 등장인물이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "BERNIE",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "엘리멘탈",
+      "target_type": "MOVIE",
+      "relationship_description": "Bernie는 엘리멘탈에 등장하는 Ember의 아버지이다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "CINDER",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "엘리멘탈",
+      "target_type": "MOVIE",
+      "relationship_description": "Cinder는 엘리멘탈에 등장하는 불 원소 캐릭터이다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "BERNIE",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "CINDER",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Bernie와 Cinder는 함께 엘리멘트 시티에 정착한 불 원소 캐릭터들이다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "BERNIE",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "EMBER",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Bernie는 Ember의 아버지이며, Ember는 아버지의 가게를 물려받으려 했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "WADE",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "EMBER",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Wade는 Ember의 연인으로, 그녀의 불꽃에 감명받고 유리 공예 재능을 응원하며 자신의 내면을 받아들이도록 도와준다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "EMBER",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "VIVISTERIA",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Ember는 Vivisteria와 비슷한 꽃이 든 유리구슬을 만들었다",
+      "relationship_strength": 6
+    }
+  ],
+  "entity_resolution": {
+    "엘리멘탈": {
+      "description": "엘리멘탈 -> 엘리멘탈",
+      "resolved_name": "엘리멘탈",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "BERNIE": {
+      "description": "BERNIE -> BERNIE",
+      "resolved_name": "BERNIE",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "CINDER": {
+      "description": "CINDER -> CINDER",
+      "resolved_name": "CINDER",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "EMBER": {
+      "description": "EMBER -> EMBER",
+      "resolved_name": "EMBER",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "WADE": {
+      "description": "WADE -> WADE",
+      "resolved_name": "WADE",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "FIREPLACE": {
+      "description": "FIREPLACE -> FIREPLACE",
+      "resolved_name": "FIREPLACE",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "VIVISTERIA": {
+      "description": "VIVISTERIA -> VIVISTERIA",
+      "resolved_name": "VIVISTERIA",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

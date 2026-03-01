@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "리오르 라즈",
+    "synonym": [
+      "Lior Raz",
+      "라즈",
+      "리오 라즈",
+      "리오르",
+      "리오르 라스",
+      "리오르 라즈",
+      "리오르 라츠",
+      "리오르라즈",
+      "리올 라즈",
+      "리올라즈"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "리오르 라즈은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "이영애",
+    "synonym": [
+      "Lee Young-ae",
+      "Lee Youngae",
+      "Young-ae Lee",
+      "영애",
+      "이 영애",
+      "이영애",
+      "이영애 배우",
+      "이영애 씨",
+      "이영애씨",
+      "이영에"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "이영애은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

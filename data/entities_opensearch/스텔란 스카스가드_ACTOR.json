@@ -1,0 +1,18 @@
+{
+  "entity": {
+    "name": "스텔란 스카스가드",
+    "synonym": [
+      "Stellan",
+      "Stellan Skarsgård",
+      "스카스가드",
+      "스텔란",
+      "스텔란 스카스가드",
+      "스텔란 스카스고드",
+      "스텔란스카스가드"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "스텔란 스카스가드은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "entity": {
+    "name": "나무아카데미NamuAcademy",
+    "synonym": [
+      "나무아카데미NamuAcademy"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "나무아카데미NamuAcademy은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

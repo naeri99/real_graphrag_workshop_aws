@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "제임스 오스틴 존슨",
+    "synonym": [
+      "James",
+      "James A. Johnson",
+      "James Austin Johnson",
+      "James Johnson",
+      "제임스",
+      "제임스 오스틴",
+      "제임스 오스틴 존슨",
+      "제임스 존슨",
+      "제임스오스틴존슨",
+      "존슨"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "제임스 오스틴 존슨은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

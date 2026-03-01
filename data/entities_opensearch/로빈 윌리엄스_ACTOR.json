@@ -1,0 +1,32 @@
+{
+  "entity": {
+    "name": "로빈 윌리엄스",
+    "synonym": [
+      "Dr. Williams",
+      "NASA 윌리엄스",
+      "Robin",
+      "Robin Williams",
+      "Robyn",
+      "Robyn Callem",
+      "Williams",
+      "Williams 박사",
+      "로빈",
+      "로빈 윌리암스",
+      "로빈 윌리암즈",
+      "로빈 윌리엄스",
+      "로빈 칼렘",
+      "로빈 캘럼",
+      "로빈윌리암스",
+      "로빈윌리엄스",
+      "월리엄스",
+      "윌리암스",
+      "윌리엄스",
+      "윌리엄스 박사",
+      "윌리엄즈"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "로빈 윌리엄스은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

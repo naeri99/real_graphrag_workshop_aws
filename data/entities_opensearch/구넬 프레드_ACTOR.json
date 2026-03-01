@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "구넬 프레드",
+    "synonym": [
+      "Gunnel",
+      "Gunnel Fred",
+      "Gunnel Lindblom",
+      "거넬 프레드",
+      "구넬",
+      "구넬 린드블롬",
+      "구넬 프레드",
+      "구넬프레드",
+      "군넬 프레드",
+      "프레드"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "구넬 프레드은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

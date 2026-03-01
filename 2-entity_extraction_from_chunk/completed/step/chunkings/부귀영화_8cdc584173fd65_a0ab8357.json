@@ -1,0 +1,269 @@
+{
+  "chunk_hash": "8cdc584173fd65",
+  "chunk_id": "부귀영화_8cdc584173fd65_a0ab8357",
+  "user_query": "2142년 2월 9일 에이리언 1에서 노스트로모 호 자폭 사건이 벌어진지 20년이 지난 시점 웨이랜드 유타니 사의 에코 203 탐사선이 노스트로모 잔해에 접근합니다 노스트로모 호를 아수라장으로 만들었던 제노모프 화석을 수거해 르네상스 우주정거장으로 복귀해 연구원들은 그 제노모프를 연구합니다 170일 후 웨이랜드 유타니 일령 식민지 행성 잭슨의 별 시끄러운 기상 알림이 주인공 Rain 카라딘의 단잠을 깨웁니다 꿈속에서 따뜻한 햇살을 만끽하던 참이었는데 말이죠 그녀에겐 유일한 가족으로 남동생 Andy가 있었습니다 그러나 회사 그들이 살고 있는 식민지는 열악했습니다 일조량은 0이고 회사는 노동자들을 반강제적으로 착취했습니다 그러나 다행히도 오늘은 할당된 노동시간을 모두 다 채워 이곳으로부터 자유로워지는 날이었죠 그녀는 Andy를 바깥에 놓고 식민 업무 사무소에 들립니다 하지만 노력 부족으로 계약해지가 됩니다 그때 바깥에서는 Andy가 아이들에게 공격당하고 그 기능고장을 일으킵니다 때마침 Tyler로부터 만나자는 연락이 오죠 그는 화물 코라노 호 리더이자 Rain의 친구였죠 승무원으로 Bjorn과 Navarro 그리고 Tyler의 동생 Kay가 있었습니다 그들은 근처 화물을 하다 궤도에서 한 큰 배를 발견했습니다 웨이랜드 유타니 사의 배로 그곳에 기능성 장비가 방치되어 있었죠 그들은 회사로부터 여행 허가를 받지 못했습니다 Rain과 달리 화성과 충분한 전력을 갖고 있었지만 이바가 행성까지 9년이라는 여행 기간 동안 노화를 막아줄 냉동 수면 포드가 없었죠 그래서 그들은 퇴역한 배에서 냉동수면 포드를 탈취하기로 결심합니다 그리고 이 계획엔 웨이랜드 유타니에서 생산된 인조 인간 Andy가 필요했죠 배의 운영체제 마더에 접근해 잠금 장치를 풀 수 있는 유일한 열쇠였습니다 처음엔 남동생이 위험해지는 게 싫어 거절했지만 지긋지긋한 식민지를 벗어나고 싶은 욕심에 Rain은 제안을 수락합니다 그렇게 Navarro의 운전으로 코라노 호가 이륙하고 대기권을 벗어나자 Rain은 꿈이었던 태양을 마주합니다 그러나 그 배는 잭슨의 소행성벨트 가까운 상태였습니다 Tyler와 Bjorn은 Andy가 포드를 추출하기 위해 배에 접근합니다 우주선의 생명을 유지하기 위해 주기적으로 중력 발생 장치가 작동되곤 했죠 마더를 가동시키고 선내에 전력 산소 중력이 공급됩니다 그들은 포드 다섯개를 발견하는데 스페어용 냉각제를 찾기로 합니다 포드는 선내에서 시켜 코라노 호에 실으려죠 과거 광산 사건에서 사망했는데 인조인간이 12명의 광부를 살리기 위해 광산을 봉쇄하는 결정을 내렸죠 그 결과 Bjorn의 부모님을 포함해 세 명이 희생됐습니다 이는 감정을 배제한 합리적인 판단이었지만 확률에 따라 작은 가능성을 무시하는 무정한 판단이기도 했죠 그러던 중 Kay가 갑자기 토하고 그녀가 임신 중인 걸 알게 됩니다 한편 정찰팀이 선내 깊숙한 곳으로 진입하자 그곳이 웨이랜드 유타니 사의 연구소 르네상스 우주정거장임이 밝혀집니다 Bjorn이 스산한 분위기에 소름끼치자 긴장을 풀어주기 위해 Andy가",
+  "movie_id": "에이리언 로물",
+  "reviewer": "부귀영화",
+  "chunk_index": 1,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "에이리언 1",
+      "entity_type": "MOVIE",
+      "entity_description": "에이리언 1은 노스트로모 호 자폭 사건이 벌어진 영화이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "노스트로모 호",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "노스트로모 호는 에이리언 1에서 자폭한 우주선이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "RAIN",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Rain 카라딘은 잭슨의 별 식민지에 사는 주인공으로, 열악한 환경에서 벗어나고 싶어하며 유일한 가족인 남동생 Andy와 함께 산다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "ANDY",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Andy는 Rain의 남동생이자 웨이랜드 유타니에서 생산된 인조인간으로, 우주선 운영체제 마더에 접근할 수 있는 유일한 열쇠이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "TYLER",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Tyler는 화물선 코라노 호의 리더이자 Rain의 친구로, 냉동수면 포드 탈취 계획을 제안한다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "BJORN",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Bjorn은 코라노 호의 승무원으로, 과거 광산 사건에서 인조인간의 판단으로 부모님을 잃은 경험이 있다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "NAVARRO",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Navarro는 코라노 호의 승무원이자 조종사이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "KAY",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Kay는 Tyler의 동생이자 코라노 호 승무원으로, 임신 중인 것으로 밝혀진다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "웨이랜드 유타니",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "웨이랜드 유타니는 식민지를 운영하고 노동자들을 착취하는 회사로, 에코 203 탐사선과 르네상스 우주정거장을 소유하고 있다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "제노모프",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "제노모프는 노스트로모 호를 아수라장으로 만들었던 외계 생명체로, 화석 상태로 발견되어 연구된다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "르네상스 우주정거장",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "르네상스 우주정거장은 웨이랜드 유타니 사의 연구소로, 제노모프를 연구하는 곳이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "코라노 호",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "코라노 호는 Tyler가 이끄는 화물선이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "RAIN",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "ANDY",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Rain과 Andy는 남매 관계로, Andy는 Rain의 유일한 가족이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "TYLER",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "RAIN",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Tyler는 Rain의 친구이며 냉동수면 포드 탈취 계획에 Rain을 참여시킨다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "TYLER",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "KAY",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Tyler와 Kay는 남매 관계이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "TYLER",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "코라노 호",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Tyler는 코라노 호의 리더이다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "BJORN",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "코라노 호",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Bjorn은 코라노 호의 승무원이다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "NAVARRO",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "코라노 호",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Navarro는 코라노 호의 승무원이자 조종사이다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "KAY",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "코라노 호",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Kay는 코라노 호의 승무원이다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "제노모프",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "노스트로모 호",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "제노모프는 노스트로모 호를 아수라장으로 만든 외계 생명체이다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "제노모프",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "르네상스 우주정거장",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "제노모프 화석이 르네상스 우주정거장에서 연구된다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "노스트로모 호",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "에이리언 1",
+      "target_type": "MOVIE",
+      "relationship_description": "노스트로모 호 자폭 사건은 에이리언 1의 주요 사건이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "ANDY",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "웨이랜드 유타니",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Andy는 웨이랜드 유타니에서 생산된 인조인간이다",
+      "relationship_strength": 9
+    }
+  ],
+  "entity_resolution": {
+    "에이리언 1": {
+      "description": "에이리언 1 -> 에이리언 1",
+      "resolved_name": "에이리언 1",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "노스트로모 호": {
+      "description": "노스트로모 호 -> 노스트로모 호",
+      "resolved_name": "노스트로모 호",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "RAIN": {
+      "description": "RAIN -> RAIN",
+      "resolved_name": "RAIN",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "ANDY": {
+      "description": "ANDY -> ANDY",
+      "resolved_name": "ANDY",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "TYLER": {
+      "description": "TYLER -> TYLER",
+      "resolved_name": "TYLER",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "BJORN": {
+      "description": "BJORN -> BJORN",
+      "resolved_name": "BJORN",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "NAVARRO": {
+      "description": "NAVARRO -> NAVARRO",
+      "resolved_name": "NAVARRO",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "KAY": {
+      "description": "KAY -> KAY",
+      "resolved_name": "KAY",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "웨이랜드 유타니": {
+      "description": "웨이랜드 유타니 -> 웨이랜드 유타니",
+      "resolved_name": "웨이랜드 유타니",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "제노모프": {
+      "description": "제노모프 -> 제노모프",
+      "resolved_name": "제노모프",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "르네상스 우주정거장": {
+      "description": "르네상스 우주정거장 -> 르네상스 우주정거장",
+      "resolved_name": "르네상스 우주정거장",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "코라노 호": {
+      "description": "코라노 호 -> 코라노 호",
+      "resolved_name": "코라노 호",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

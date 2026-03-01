@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "스턴 의원",
+    "synonym": [
+      "Senator Stern",
+      "Stern",
+      "상원의원",
+      "상원의원 스턴",
+      "스턴",
+      "스턴 상원의원",
+      "스턴 의원",
+      "스턴상원의원",
+      "스턴의원",
+      "의원",
+      "의원 스턴"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "스턴 의원은 영화 '아이언맨2'의 등장인물로, 게리 샨들링이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

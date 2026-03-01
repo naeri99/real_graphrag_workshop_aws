@@ -1,0 +1,33 @@
+{
+  "entity": {
+    "name": "Harvey Dent / Two-Face",
+    "synonym": [
+      "Dune Part Two",
+      "Harvey",
+      "Harvey Dent",
+      "Harvey Dent / Two-Face",
+      "Harvey Two-Face",
+      "Two-Face",
+      "검사 덴트",
+      "덴트",
+      "두 얼굴",
+      "듄 2",
+      "듄 투",
+      "듄 파트2",
+      "듄 파트투",
+      "양면인",
+      "양면인간",
+      "이중인격",
+      "투 페이스",
+      "투페이스",
+      "하비",
+      "하비 덴트",
+      "하비 투페이스",
+      "하비덴트"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "Harvey Dent / Two-Face은 영화 '다크나이트'의 등장인물로, 에런 엑하트이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

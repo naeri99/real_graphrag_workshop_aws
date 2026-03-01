@@ -1,0 +1,18 @@
+{
+  "entity": {
+    "name": "드레이크 벨",
+    "synonym": [
+      "Drake",
+      "Drake Bell",
+      "드레이크",
+      "드레이크 벨",
+      "드레이크벨",
+      "드레익 벨",
+      "벨"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "드레이크 벨은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

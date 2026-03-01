@@ -1,0 +1,17 @@
+{
+  "entity": {
+    "name": "프록시마",
+    "synonym": [
+      "Proxima",
+      "프락시마",
+      "프록시마",
+      "프록시마 캐릭터",
+      "프록시마들",
+      "프록씨마"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "프록시마은 영화 '정글크루즈'의 등장인물로, 시몬 친이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

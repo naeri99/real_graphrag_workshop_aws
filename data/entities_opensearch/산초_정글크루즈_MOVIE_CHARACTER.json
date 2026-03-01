@@ -1,0 +1,16 @@
+{
+  "entity": {
+    "name": "산초",
+    "synonym": [
+      "Sancho",
+      "산초",
+      "산초 캐릭터",
+      "산쵸",
+      "싼초"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "산초은 영화 '정글크루즈'의 등장인물로, 다니 로비라이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

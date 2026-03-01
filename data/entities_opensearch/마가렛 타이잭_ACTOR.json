@@ -1,0 +1,24 @@
+{
+  "entity": {
+    "name": "마가렛 타이잭",
+    "synonym": [
+      "Margaret Tyzack",
+      "Tyzack",
+      "마가렛",
+      "마가렛 타이작",
+      "마가렛 타이잭",
+      "마가렛 타이젝",
+      "마가렛 티잭",
+      "마가렛타이잭",
+      "마가렛티잭",
+      "마가릿 타이잭",
+      "타이작",
+      "타이잭",
+      "티잭"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "마가렛 타이잭은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

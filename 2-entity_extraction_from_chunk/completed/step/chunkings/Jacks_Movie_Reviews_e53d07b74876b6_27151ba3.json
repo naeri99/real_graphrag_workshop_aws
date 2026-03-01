@@ -1,0 +1,195 @@
+{
+  "chunk_hash": "e53d07b74876b6",
+  "chunk_id": "Jacks_Movie_Reviews_e53d07b74876b6_27151ba3",
+  "user_query": "Perception is of the utmost importance in Paul Thomas Anderson's Phantom Thread. Our self perception. How others perceive us and, perhaps most importantly, how we think others perceive us. For example the character of Barbara Rose is someone who has no self-confidence and is able to see through the facade that others put up. She is an inherently weak person and allows herself to become the victim. Despite having money and despite trying to make up for her poor self-image through buying one of Reynolds' dresses She is unable to see any good in herself. *thud* Reynolds is also inherently weak. He needs constant supervision and constant care. He is good at one thing, and his entire self image and self perception is wrapped up in how others view his dresses. His sister, Cyril, manages the business, manages his day, and she even manages his personal relationships. What would you want to do about Johanna? I mean she's lovely, but the time has come. All that he needs to worry about is the dress making and this is something that stems from his past trauma. The one thing that he is good at comes at the cost of real emotional pain as he remembers his mother. I have no idea what happened to it. No idea. It most probably turned to ashes by now. He puts on a front, one of confidence and power. He loves how others appreciate his work, but he also knows that the biggest reason why is because of appearances. When he meets Alma she is immediately able to see through this facade. In many ways",
+  "movie_id": "팬텀 스레드",
+  "reviewer": "Jacks_Movie_Reviews",
+  "chunk_index": 1,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "PHANTOM THREAD",
+      "entity_type": "MOVIE",
+      "entity_description": "Phantom Thread는 Paul Thomas Anderson이 감독한 영화로, 인식과 자아 이미지를 주제로 다룬다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "PAUL THOMAS ANDERSON",
+      "entity_type": "MOVIE_STAFF",
+      "entity_description": "Paul Thomas Anderson은 Phantom Thread의 감독이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "BARBARA ROSE",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Barbara Rose는 자신감이 없고 다른 사람들의 가면을 꿰뚫어 볼 수 있는 본질적으로 약한 인물로, Reynolds의 드레스를 구매하여 자신의 부정적인 자아 이미지를 보완하려 한다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "REYNOLDS",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Reynolds는 드레스 제작에 뛰어난 재능을 가진 인물로, 지속적인 돌봄과 감독이 필요하며 자아 이미지가 다른 사람들이 그의 드레스를 어떻게 보는지에 달려있다. 어머니에 대한 과거 트라우마를 가지고 있으며 자신감과 권력의 가면을 쓰고 있다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "CYRIL",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Cyril은 Reynolds의 누나로, 사업을 관리하고 Reynolds의 일상과 개인적인 관계까지 관리한다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "JOHANNA",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Johanna는 Reynolds의 개인적인 관계에 관련된 인물로, Cyril이 그녀에 대해 어떻게 할지 논의한다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "ALMA",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Alma는 Reynolds를 만났을 때 그의 가면을 즉시 꿰뚫어 볼 수 있는 인물이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "PAUL THOMAS ANDERSON",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "PHANTOM THREAD",
+      "target_type": "MOVIE",
+      "relationship_description": "Paul Thomas Anderson은 Phantom Thread를 감독했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "BARBARA ROSE",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "PHANTOM THREAD",
+      "target_type": "MOVIE",
+      "relationship_description": "Barbara Rose는 Phantom Thread의 등장인물이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "REYNOLDS",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "PHANTOM THREAD",
+      "target_type": "MOVIE",
+      "relationship_description": "Reynolds는 Phantom Thread의 주요 등장인물이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "CYRIL",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "PHANTOM THREAD",
+      "target_type": "MOVIE",
+      "relationship_description": "Cyril은 Phantom Thread의 등장인물이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "JOHANNA",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "PHANTOM THREAD",
+      "target_type": "MOVIE",
+      "relationship_description": "Johanna는 Phantom Thread의 등장인물이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "ALMA",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "PHANTOM THREAD",
+      "target_type": "MOVIE",
+      "relationship_description": "Alma는 Phantom Thread의 등장인물이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "BARBARA ROSE",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "REYNOLDS",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Barbara Rose는 Reynolds의 드레스를 구매하는 고객이다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "CYRIL",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "REYNOLDS",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Cyril은 Reynolds의 누나로서 그의 사업과 일상, 개인적인 관계를 관리한다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "CYRIL",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "JOHANNA",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Cyril은 Johanna와 Reynolds의 관계에 대해 결정을 내리려 한다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "ALMA",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "REYNOLDS",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Alma는 Reynolds를 만나 그의 가면을 꿰뚫어 본다",
+      "relationship_strength": 9
+    }
+  ],
+  "entity_resolution": {
+    "PHANTOM THREAD": {
+      "description": "PHANTOM THREAD -> PHANTOM THREAD",
+      "resolved_name": "PHANTOM THREAD",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "PAUL THOMAS ANDERSON": {
+      "description": "PAUL THOMAS ANDERSON -> PAUL THOMAS ANDERSON",
+      "resolved_name": "PAUL THOMAS ANDERSON",
+      "entity_type": "MOVIE_STAFF",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "BARBARA ROSE": {
+      "description": "BARBARA ROSE -> BARBARA ROSE",
+      "resolved_name": "BARBARA ROSE",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "REYNOLDS": {
+      "description": "REYNOLDS -> REYNOLDS",
+      "resolved_name": "REYNOLDS",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "CYRIL": {
+      "description": "CYRIL -> CYRIL",
+      "resolved_name": "CYRIL",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "JOHANNA": {
+      "description": "JOHANNA -> JOHANNA",
+      "resolved_name": "JOHANNA",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "ALMA": {
+      "description": "ALMA -> ALMA",
+      "resolved_name": "ALMA",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "entity": {
+    "name": "Rosie",
+    "synonym": [
+      "Rosie",
+      "Rosie Dixon",
+      "로시",
+      "로즈",
+      "로지",
+      "로지 딕슨",
+      "윌로디 엄마"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "Rosie은 영화 '덤플링'의 등장인물로, 제니퍼 애니스톤이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "movie_title": "이프 온리",
+  "director": [
+    {
+      "name": "길 정거",
+      "name_en": "Gil Junger"
+    }
+  ],
+  "cast": [
+    {
+      "actor": "제니퍼 러브 휴잇",
+      "actor_en": "Jennifer Love Hewitt",
+      "character": "Samantha Andrews"
+    },
+    {
+      "actor": "로이 샘슨",
+      "actor_en": "Roy Sampson",
+      "character": "던바"
+    },
+    {
+      "actor": "케빈 무어",
+      "actor_en": "Kevin Moore",
+      "character": "호텔 직원"
+    },
+    {
+      "actor": "네빌 필립스",
+      "actor_en": "Neville Phillips",
+      "character": "콘서트 MC"
+    },
+    {
+      "actor": "스튜어트 라이트",
+      "actor_en": "Stewart Wright",
+      "character": "마이크"
+    },
+    {
+      "actor": "그레이엄 터너",
+      "actor_en": "Graham Turner",
+      "character": "리처드"
+    },
+    {
+      "actor": "벤 리지웨이",
+      "actor_en": "Ben Ridgeway",
+      "character": "십대 소년"
+    }
+  ],
+  "review": [
+    "./data/review/이프 온리/이프 온리_M719oj7zL4Q.json",
+    "./data/review/이프 온리/이프 온리_esYJ4TS8Z44.json",
+    "./data/review/이프 온리/이프 온리_pM1Y3VdRXXU.json"
+  ]
+}

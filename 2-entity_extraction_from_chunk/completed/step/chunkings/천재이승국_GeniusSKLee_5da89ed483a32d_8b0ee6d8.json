@@ -1,0 +1,199 @@
+{
+  "chunk_hash": "5da89ed483a32d",
+  "chunk_id": "천재이승국_GeniusSKLee_5da89ed483a32d_8b0ee6d8",
+  "user_query": "이 영상을 만들고 있는 지금이 시점에서 영화 마션의 국내 관객수는 334만 8230명입니다. 화성의 저주를 깨고 21세기에 개봉한 화성 관련 영화 중 유일하게 흥행한 영화 마션. 아 그래요 사실은 유명한 감독이 유명한 배우와 함께 유명한 원작 소설을 각색한 영화였으나 어느 정도 예상하고 있던 흥행이 축하합니다 마션. 그럼 이쯤에서 알아보는 영화 마션의 소설 원작과 다른 열 가지 부분들. 아 물론 스포일러가 가득합니다 조심하세요 시작합니다. 하나 사고는 제 6 화성일 일어났다. 음 사실이 부분을 왜 굳이 각색했나 싶긴 하지만 영화에서 제 18 화성일 일어나는 불행한 사고는 소설 속에서는 제 6일만에 일어나는 것으로 묘사되어 있습니다. 아무리 영화라도 6일 만에 철수하는 건 NASA의 자존심에 상처가 되는 설정일까요. 아무튼 소설에서는 화성 도착 후 일주일도 안 돼서 불행한 사고가 일어납니다. 둘 음악은 디스코만 있는 건 아니었다. Melissa Lewis 대장의 디스코 사랑은 그 존재 자체로 영화 내내 웃음을 유발합니다. 하지만 소설에는 Lewis의 디스코 말고 다른 음악이 존재하고 있죠. 뚜둥 바로 Beth Johanssen이 가져온 비틀즈의 음악입니다. 하지만 소설 초반부에 더는 못 듣겠다라고 하는 걸 보니까 비틀즈는 Mark Watney에게 디스코보다 더 괴로운 음악이었던 거 같아요. 셋 일지는 수기로 작성되었다. 물론 소설이니까 기록은 대부분 글로 남기는 것으로 묘사되어 있습니다. 막사가 터지는 사건 때 몇 번 오디오 녹취가 등장하긴 합니다. 그리고 글이란 건 아무래도 이성적으로 쓰는 거다 보니까 소설 속 Watney는 영화보다 조금 더 낙천적으로 묘사되어 있습니다. 막사가 터지는 사건 때 오디오 녹취에서 짧게 화를 낼 뿐이죠. 넷 Mindy Park와 Vincent Kapoor는 없다. 영화가 개봉하기 전에 외에서 이미 인종 세탁이라는 이슈가 된 부분이긴 합니다만 백인 배우가 연기한 Mindy Park는 원작에선 한국계 미국인 Mindy Park이고요. Vincent Kapoor 역시 인도인 Venkat Kapoor입니다. 이 부분에 대해서는 워낙 많은 분들이 많은 얘기를 했기 때문에 제가 굳이 말을 더 보탤 필요는 없을 것 같아요. 뭐 제가 하는 말을 영화사가 듣지도 않을 거고요. 다섯 중국의 대협은 인도적인 이유에서만은 아니었다. 영화의 영어 자막을 제대로 보지 못해서 번역 실수인지는 모르겠지만 아무튼 한글 자막만 놓고 봤을 때 영화에서 중국은 이건 정치가 아니야 과학이야라는 태도로 Watney 구조에 힘을 합칩니다. 하지만 소설에서는 인도적인 이유 반 정치적 이유 반으로 묘사되죠. 다음번 화성 탐사 때 중국인 비행사를 탐사대에 합류시키는 것이 중국의 조건이었는데 실제로 영화의 마지막 부분 Ares 5호 발사 때 Rick Martinez 옆에 앉아 있는 동양인이 바로 그 중국 비행사입니다. 여섯 헤르메스는 자살 계획이 있었다. 중국의 로켓에 도움을 받아서 화성에 보낼 보급품을 지구 궤도에서 헤르메스 호가 도킹하는 장면이 영화에",
+  "movie_id": "마션",
+  "reviewer": "천재이승국_GeniusSKLee",
+  "chunk_index": 1,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "마션",
+      "entity_type": "MOVIE",
+      "entity_description": "마션은 화성에 고립된 우주비행사의 생존기를 다룬 영화로, 국내 관객수 334만 8230명을 기록하며 21세기 화성 관련 영화 중 유일하게 흥행한 작품이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "MARK WATNEY",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Mark Watney는 화성에 홀로 남겨진 우주비행사로, 디스코와 비틀즈 음악을 들으며 생존하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "MELISSA LEWIS",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Melissa Lewis는 화성 탐사대의 대장으로, 디스코 음악을 좋아하는 것으로 묘사된다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "BETH JOHANSSEN",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Beth Johanssen은 탐사대원으로, 소설에서 비틀즈 음악을 가져온 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "MINDY PARK",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Mindy Park는 NASA 직원으로, 원작 소설에서는 한국계 미국인으로 설정되어 있다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "VINCENT KAPOOR",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Vincent Kapoor는 NASA 관계자로, 원작 소설에서는 인도인 Venkat Kapoor로 설정되어 있다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "RICK MARTINEZ",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Rick Martinez는 Ares 5호 탐사대원이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "헤르메스",
+      "entity_type": "MOVIE",
+      "entity_description": "헤르메스는 영화 마션에 등장하는 우주선으로, 중국 로켓의 도움을 받아 보급품을 도킹하는 장면이 나온다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "MARK WATNEY",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "마션",
+      "target_type": "MOVIE",
+      "relationship_description": "Mark Watney는 마션의 주인공으로 화성에 고립되어 생존하는 인물이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "MELISSA LEWIS",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "마션",
+      "target_type": "MOVIE",
+      "relationship_description": "Melissa Lewis는 마션에 등장하는 탐사대 대장이다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "BETH JOHANSSEN",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "마션",
+      "target_type": "MOVIE",
+      "relationship_description": "Beth Johanssen은 마션에 등장하는 탐사대원이다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "MINDY PARK",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "마션",
+      "target_type": "MOVIE",
+      "relationship_description": "Mindy Park는 마션에 등장하는 NASA 직원이다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "VINCENT KAPOOR",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "마션",
+      "target_type": "MOVIE",
+      "relationship_description": "Vincent Kapoor는 마션에 등장하는 NASA 관계자이다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "RICK MARTINEZ",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "마션",
+      "target_type": "MOVIE",
+      "relationship_description": "Rick Martinez는 마션에 등장하는 Ares 5호 탐사대원이다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "MELISSA LEWIS",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "MARK WATNEY",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Melissa Lewis는 Mark Watney가 속한 탐사대의 대장이다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "BETH JOHANSSEN",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "MARK WATNEY",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Beth Johanssen은 Mark Watney와 같은 탐사대원이다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "헤르메스",
+      "source_type": "MOVIE",
+      "target_entity": "마션",
+      "target_type": "MOVIE",
+      "relationship_description": "헤르메스는 마션에 등장하는 우주선이다",
+      "relationship_strength": 9
+    }
+  ],
+  "entity_resolution": {
+    "마션": {
+      "description": "마션 -> 마션",
+      "resolved_name": "마션",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "MARK WATNEY": {
+      "description": "MARK WATNEY -> MARK WATNEY",
+      "resolved_name": "MARK WATNEY",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "MELISSA LEWIS": {
+      "description": "MELISSA LEWIS -> Melissa Lewis",
+      "resolved_name": "Melissa Lewis",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "BETH JOHANSSEN": {
+      "description": "BETH JOHANSSEN -> BETH JOHANSSEN",
+      "resolved_name": "BETH JOHANSSEN",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "MINDY PARK": {
+      "description": "MINDY PARK -> MINDY PARK",
+      "resolved_name": "MINDY PARK",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "VINCENT KAPOOR": {
+      "description": "VINCENT KAPOOR -> VINCENT KAPOOR",
+      "resolved_name": "VINCENT KAPOOR",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "RICK MARTINEZ": {
+      "description": "RICK MARTINEZ -> Rick Martinez",
+      "resolved_name": "Rick Martinez",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "헤르메스": {
+      "description": "헤르메스 -> 헤르메스",
+      "resolved_name": "헤르메스",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

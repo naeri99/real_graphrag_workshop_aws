@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "샤퍼 부인",
+    "synonym": [
+      "Mrs Schaffer",
+      "Mrs. Schaffer",
+      "미세스 샤퍼",
+      "샤퍼",
+      "샤퍼 부인",
+      "샤퍼 여사",
+      "샤퍼부인",
+      "샤퍼씨 부인",
+      "쉐퍼 부인"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "샤퍼 부인은 영화 '매치스틱맨'의 등장인물로, 제니 오하라이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

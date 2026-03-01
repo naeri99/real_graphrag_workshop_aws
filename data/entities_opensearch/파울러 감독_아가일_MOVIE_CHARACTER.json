@@ -1,0 +1,18 @@
+{
+  "entity": {
+    "name": "파울러 감독",
+    "synonym": [
+      "Director Fowler",
+      "파울러",
+      "파울러 감독",
+      "파울러 디렉터",
+      "파울러감독",
+      "포울러",
+      "포울러 감독"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "파울러 감독은 영화 '아가일'의 등장인물로, 리차드 E. 그랜트이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

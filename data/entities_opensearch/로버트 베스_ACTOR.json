@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "로버트 베스",
+    "synonym": [
+      "Robert Bes",
+      "Robert Bess",
+      "Robert Maaser",
+      "로버트",
+      "로버트 베스",
+      "로버트베스",
+      "롭 베스",
+      "밥 베스",
+      "베스"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "로버트 베스은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "김만석",
+    "synonym": [
+      "Kim Man-seok",
+      "김 만석",
+      "김만석",
+      "김만석 할아버지",
+      "김만석씨",
+      "만석",
+      "만석 노인",
+      "만석 할아버지",
+      "만석씨",
+      "만석이"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "김만석은 영화 '그대를사랑합니다'의 등장인물로, 이순재이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "chunk_hash": "bb6a192fe3627c",
+  "chunk_id": "멍웃겨_리액션_bb6a192fe3627c_ecfe5c0c",
+  "user_query": "were just trying to like falsely accuse him they full railroaded him yo are the police going to do their due diligence and like take care of this poor girl I a a you who suggested this knew this would take me to an angry place it's not fair also this very public reenactment is the weirdest thing I've ever seen please tell me they don't do that South Korea cuz that's screwed up you get put in prison for adultery the gangster became the freaking priest [Music] a a this is what happens in prison right heard it's a lot worse than the US prisons for uh people accused of such things or guilty of such things I should say that kills the mood that's pretty funny what was that are you kidding me let's get that one more time What on earth uhoh oh no oh he's going to help he's going to be like oh my god look he's like got a whole Entourage with makeshift umbrella and everything uh-oh oh no don't get involved don't get involved check it out a he's a hero e gross gross biohazard my guy I thought guy was just doing some like little little funny punches o he doesn't how to fight though oh man man they beat you up like day one and then you go and risk your life for them oh wow this is incredible oh she's in it she's there is this the favor though I this might be the favor yeah oh oh she dipped wa what they're actually getting the freaking little girl in oh my God these guys are amazing this is adorable dude this is crazy oh my gosh sweat more my guy please is she going to stay in prison with",
+  "movie_id": "7번방의 선물",
+  "reviewer": "멍웃겨_리액션",
+  "chunk_index": 2,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "SOUTH KOREA",
+      "entity_type": "MOVIE",
+      "entity_description": "텍스트에서 언급된 한국의 교도소 시스템과 간통죄 처벌에 대한 배경이 되는 국가"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "THE GANGSTER",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "교도소에서 신부가 된 갱스터 캐릭터"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "THE PRIEST",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "갱스터가 변신한 신부 캐릭터"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "THE LITTLE GIRL",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "교도소에 들어가게 되는 어린 소녀 캐릭터"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "THE HERO",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "다른 수감자들을 위해 목숨을 걸고 도와주는 영웅적인 인물"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "SHE",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "영화에 등장하며 도망친 여성 캐릭터"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "THE GANGSTER",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "THE PRIEST",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "갱스터가 신부로 변신했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "THE HERO",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "THE LITTLE GIRL",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "영웅이 어린 소녀를 교도소에 들여보내는 것을 도왔다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "SHE",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "THE LITTLE GIRL",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "그녀는 어린 소녀와 관련된 부탁(favor)에 연관되어 있다",
+      "relationship_strength": 7
+    }
+  ],
+  "entity_resolution": {
+    "SOUTH KOREA": {
+      "description": "SOUTH KOREA -> SOUTH KOREA",
+      "resolved_name": "SOUTH KOREA",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "THE GANGSTER": {
+      "description": "THE GANGSTER -> THE GANGSTER",
+      "resolved_name": "THE GANGSTER",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "THE PRIEST": {
+      "description": "THE PRIEST -> THE PRIEST",
+      "resolved_name": "THE PRIEST",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "THE LITTLE GIRL": {
+      "description": "THE LITTLE GIRL -> THE LITTLE GIRL",
+      "resolved_name": "THE LITTLE GIRL",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "THE HERO": {
+      "description": "THE HERO -> THE HERO",
+      "resolved_name": "THE HERO",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "SHE": {
+      "description": "SHE -> SHE",
+      "resolved_name": "SHE",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

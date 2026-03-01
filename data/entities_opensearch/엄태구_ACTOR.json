@@ -1,0 +1,23 @@
+{
+  "entity": {
+    "name": "엄태구",
+    "synonym": [
+      "Eom Tae-goo",
+      "Eom Tae-gu",
+      "Eom Taegu",
+      "Uhm Tae-goo",
+      "Um Tae-goo",
+      "Um Tae-gu",
+      "Um Taegu",
+      "엄 태구",
+      "엄태 구",
+      "엄태구",
+      "엄태구 배우",
+      "태구"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "엄태구은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

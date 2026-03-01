@@ -1,0 +1,18 @@
+{
+  "entity": {
+    "name": "척 프레셰트",
+    "synonym": [
+      "Chuck",
+      "Chuck Frechette",
+      "척",
+      "척 프레셰트",
+      "척 프레쉐트",
+      "척프레셰트",
+      "프레셰트"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "척 프레셰트은 영화 '매치스틱맨'의 등장인물로, 브루스 맥길이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

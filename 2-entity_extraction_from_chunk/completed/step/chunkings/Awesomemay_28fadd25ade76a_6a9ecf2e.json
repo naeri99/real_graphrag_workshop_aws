@@ -1,0 +1,192 @@
+{
+  "chunk_hash": "28fadd25ade76a",
+  "chunk_id": "Awesomemay_28fadd25ade76a_6a9ecf2e",
+  "user_query": "I won't lie to you guys I was hesitant to make this video as although it's a good part two to my Captain Underpants and Peanuts video I had always skipped over the existence of these books when they came out I was still very attached to Diary of a Wimpy Kid I Funny Big Nate and my only real connection to Dav Pilkey books was grabbing them off of the target shelves and going to the flip-o-rama pages only that was life-changing to little me that didn't know how animation worked and hadn't discovered flip books yet but Diary of a Wimpy Kid is forever Hellbound to never-ending Disney plus specials and Big Nate is I'm still trying to clear my mind of it so I felt it was about time to get familiar with Dog Man after seeing the absolutely gorgeous trailer bringing back that Captain Underpants movie visual style paired with Daft Punk's harder better faster stronger and I finally ordered and read the first three books did I feel embarrassed as a young adult reading them absolutely not I was locked into the simple yet action-packed pages I was on the edge of my seat when Petey was about to crush Dog Man I finished them in 2 hours I wiped tears off my face questioning how Mr. Krupp didn't get Harold and George publishing agents and I put them down fully excited to pretend to be an OG fan when seeing it in theaters and I saw it and I really liked it there's some obvious issues I'm going to get into but it's such a good rendition of the books that you cannot go back and read them without",
+  "movie_id": "도그맨",
+  "reviewer": "Awesomemay",
+  "chunk_index": 1,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "DOG MAN",
+      "entity_type": "MOVIE",
+      "entity_description": "Dog Man은 Dav Pilkey의 동명 아동 도서를 원작으로 한 애니메이션 영화로, Captain Underpants 영화의 비주얼 스타일을 계승했다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "CAPTAIN UNDERPANTS",
+      "entity_type": "MOVIE",
+      "entity_description": "Captain Underpants는 Dav Pilkey의 책을 원작으로 한 애니메이션 영화로, Dog Man 영화의 비주얼 스타일에 영향을 주었다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "DAV PILKEY",
+      "entity_type": "MOVIE_STAFF",
+      "entity_description": "Dav Pilkey는 Dog Man과 Captain Underpants 시리즈의 원작자이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "DOG MAN",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Dog Man은 동명 영화와 책의 주인공 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "PETEY",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Petey는 Dog Man 시리즈에서 Dog Man을 위협하는 악역 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "MR. KRUPP",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Mr. Krupp는 Captain Underpants 시리즈에 등장하는 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "HAROLD",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Harold는 Captain Underpants 시리즈에서 책을 출판하는 학생 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "GEORGE",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "George는 Captain Underpants 시리즈에서 Harold와 함께 책을 출판하는 학생 캐릭터이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "DAV PILKEY",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "DOG MAN",
+      "target_type": "MOVIE",
+      "relationship_description": "Dav Pilkey는 Dog Man 영화의 원작 도서 시리즈를 창작했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "DAV PILKEY",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "CAPTAIN UNDERPANTS",
+      "target_type": "MOVIE",
+      "relationship_description": "Dav Pilkey는 Captain Underpants의 원작자이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "DOG MAN",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "DOG MAN",
+      "target_type": "MOVIE",
+      "relationship_description": "Dog Man 캐릭터는 Dog Man 영화의 주인공이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "PETEY",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "DOG MAN",
+      "target_type": "MOVIE",
+      "relationship_description": "Petey는 Dog Man 영화에 등장하는 악역 캐릭터이다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "PETEY",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "DOG MAN",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Petey는 Dog Man을 위협하고 공격하려는 적대적 관계이다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "HAROLD",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "GEORGE",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Harold와 George는 함께 책을 출판하는 파트너 관계이다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "MR. KRUPP",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "HAROLD",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Mr. Krupp는 Harold와 George의 출판 활동과 관련된 인물이다",
+      "relationship_strength": 6
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "MR. KRUPP",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "GEORGE",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Mr. Krupp는 Harold와 George의 출판 활동과 관련된 인물이다",
+      "relationship_strength": 6
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "DOG MAN",
+      "source_type": "MOVIE",
+      "target_entity": "CAPTAIN UNDERPANTS",
+      "target_type": "MOVIE",
+      "relationship_description": "Dog Man 영화는 Captain Underpants 영화의 비주얼 스타일을 계승했다",
+      "relationship_strength": 8
+    }
+  ],
+  "entity_resolution": {
+    "DOG MAN": {
+      "description": "DOG MAN -> DOG MAN",
+      "resolved_name": "DOG MAN",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "CAPTAIN UNDERPANTS": {
+      "description": "CAPTAIN UNDERPANTS -> CAPTAIN UNDERPANTS",
+      "resolved_name": "CAPTAIN UNDERPANTS",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "DAV PILKEY": {
+      "description": "DAV PILKEY -> DAV PILKEY",
+      "resolved_name": "DAV PILKEY",
+      "entity_type": "MOVIE_STAFF",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "PETEY": {
+      "description": "PETEY -> PETEY",
+      "resolved_name": "PETEY",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "MR. KRUPP": {
+      "description": "MR. KRUPP -> MR. KRUPP",
+      "resolved_name": "MR. KRUPP",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "HAROLD": {
+      "description": "HAROLD -> HAROLD",
+      "resolved_name": "HAROLD",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "GEORGE": {
+      "description": "GEORGE -> GEORGE",
+      "resolved_name": "GEORGE",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "entity": {
+    "name": "무드킹",
+    "synonym": [
+      "무드킹"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "무드킹은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

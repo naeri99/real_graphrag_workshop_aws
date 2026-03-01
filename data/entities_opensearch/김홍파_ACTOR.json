@@ -1,0 +1,18 @@
+{
+  "entity": {
+    "name": "김홍파",
+    "synonym": [
+      "Hong-pa Kim",
+      "Kim Hong-pa",
+      "김 홍파",
+      "김홍파",
+      "김홍파 배우",
+      "배우 김홍파",
+      "홍파"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "김홍파은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

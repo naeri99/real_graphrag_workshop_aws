@@ -1,0 +1,25 @@
+{
+  "entity": {
+    "name": "마동석",
+    "synonym": [
+      "Don Lee",
+      "Ma Dong-seok",
+      "Ma Dongseok",
+      "돈 리",
+      "돈리",
+      "동리",
+      "동석",
+      "동석이형",
+      "마 동석",
+      "마동 석",
+      "마동석",
+      "마동석 배우",
+      "마동석씨",
+      "마블리"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "마동석은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

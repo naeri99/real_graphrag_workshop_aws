@@ -1,0 +1,12 @@
+{
+  "entity": {
+    "name": "제가봤을때",
+    "synonym": [
+      "제가봤을때"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "제가봤을때은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

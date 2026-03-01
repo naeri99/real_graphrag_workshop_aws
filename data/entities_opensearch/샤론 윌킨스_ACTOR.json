@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "샤론 윌킨스",
+    "synonym": [
+      "Charon",
+      "Sharon Wilkins",
+      "샤론",
+      "샤론 윌킨스",
+      "샤론 윌킨즈",
+      "샤론월킨스",
+      "샤론윌킨스",
+      "샤론윌킨즈",
+      "윌킨스",
+      "카론"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "샤론 윌킨스은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

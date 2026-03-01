@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "차순배",
+    "synonym": [
+      "Cha Soon-bae",
+      "Cha Soonbae",
+      "Cha Sun-bae",
+      "Cha Sunbae",
+      "순배",
+      "차 순배",
+      "차순 배",
+      "차순배",
+      "차순배 배우"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "차순배은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

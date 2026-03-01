@@ -1,0 +1,39 @@
+{
+  "entity": {
+    "name": "다크나이트",
+    "synonym": [
+      "Batman The Dark Knight",
+      "Batman: The Dark Knight",
+      "Dark Knight",
+      "Dark Knight Trilogy",
+      "TDKR",
+      "The Dark Knight",
+      "The Dark Knight Returns",
+      "The Dark Knight Rises",
+      "놀란 배트맨 시리즈",
+      "다크 나이트",
+      "다크 나이트 라이즈",
+      "다크 나이트 리턴즈",
+      "다크 나잇",
+      "다크나이트",
+      "다크나이트 2008",
+      "다크나이트 3부작",
+      "다크나이트라이즈",
+      "다크나이트리턴즈",
+      "다크나이트트릴로지",
+      "다크나잇",
+      "다크나잇 라이즈",
+      "다크나잇 리턴즈",
+      "더 다크 나이트",
+      "라이즈",
+      "배트맨 다크나이트",
+      "배트맨 다크나이트 리턴즈",
+      "배트맨: 다크 나이트",
+      "어둠의 기사"
+    ],
+    "entity_type": "MOVIE",
+    "summary": "다크나이트",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

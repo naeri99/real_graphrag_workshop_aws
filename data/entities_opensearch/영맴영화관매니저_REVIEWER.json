@@ -1,0 +1,12 @@
+{
+  "entity": {
+    "name": "영맴영화관매니저",
+    "synonym": [
+      "영맴영화관매니저"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "영맴영화관매니저은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

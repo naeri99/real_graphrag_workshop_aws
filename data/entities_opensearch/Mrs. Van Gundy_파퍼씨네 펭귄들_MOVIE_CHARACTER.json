@@ -1,0 +1,26 @@
+{
+  "entity": {
+    "name": "Mrs. Van Gundy",
+    "synonym": [
+      "Gus Van Sant",
+      "Mrs. Van Gundy",
+      "거스 반 산트",
+      "구스 반 산트",
+      "구스 밴 산트",
+      "구스반산트",
+      "미세스 반 건디",
+      "미시즈 반 건디",
+      "미시즈 반건디",
+      "미시즈 밴건디",
+      "반 건디 부인",
+      "반건디 부인",
+      "반건디부인",
+      "밴 건디 부인",
+      "밴건디 부인"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "Mrs. Van Gundy은 영화 '파퍼씨네 펭귄들'의 등장인물로, 안젤라 랜즈베리이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

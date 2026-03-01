@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "Teddy Sanders",
+    "synonym": [
+      "Sanders",
+      "Teddy",
+      "Teddy Sanders",
+      "샌더스",
+      "샌더스 국장",
+      "테디",
+      "테디 샌더스",
+      "테디 샌더즈",
+      "테디샌더스"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "Teddy Sanders은 영화 '마션'의 등장인물로, 제프 다니엘스이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "entity": {
+    "name": "한동욱",
+    "synonym": [
+      "Dong-wook Han",
+      "Han Dong-wook",
+      "감독 한동욱",
+      "동욱",
+      "한 동욱",
+      "한동욱",
+      "한동욱 감독"
+    ],
+    "entity_type": "MOVIE_STAFF",
+    "summary": "한동욱은 영화 감독입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

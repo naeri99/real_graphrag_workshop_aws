@@ -1,0 +1,402 @@
+{
+  "chunk_hash": "6df24a164c0b7f",
+  "chunk_id": "B_Man_삐맨_6df24a164c0b7f_1f7cfd00",
+  "user_query": "르네상스 스테이션에서 탈출하기 위해 무장하기 시작합니다. 이들이 사용하는 무기는 펄스 라이플이라는 이름의 총이고 이는 로물루스로부터 37년 후의 이야기인 에이리언 2에서 해병들이 사용하는 M41A 펄스 라이플의 초기 버전으로 추측되는데 해당 영화에서 Vasquez라는 해병이 리플리에게 사용법을 가르쳐 주던 장면을 오마주하듯 이번에도 Tyler가 Rain에게 알려주는 장면이 연출됩니다. 이후 이들은 지하에서 거대한 에이리언 둥지와 파란 안개가 펼쳐진 공간을 발견하는데 이 파란 안개는 에이리언 1편에서도 등장했던 것으로 당시에도 이번 영화에서도 정확히 파란 안개가 어떤 역할을 하는지는 밝혀지지 않았지만 소설판 에이리언에선 파란 안개의 반응을 에이리언들이 느꼈을 것이라는 표현이 나오기 때문에 에이리언들의 감지용 안개 정도라고 생각하시면 될 것 같고 또 이 둥지를 살펴보던 중 Andy는 대사를 치는데 이는 에이리언 2에서 마찬가지로 둥지를 발견했던 버크라는 캐릭터의 대사와 동일합니다. 이후 Andy와 Rain이 힘을 합쳐 제노모프 군단과 싸우고 탈출하는 과정에서 추락하는 엘리베이터 사이에 숨어 있던 제노모프와 마주하게 되는데 이때 Rain이 고개를 돌려 겁에 질리는 장면은 에이리언 3에서 러너라는 개를 숙주로 한 에이리언과 마주했을 때의 장면을 오마주한 것으로 보이고 이때 Andy가 달려들어 제노모프에게 라이플을 갈겨버린 뒤라는 대사를 날리는데 이는 에이리언 2에서 뉴트라는 어린 소녀를 구하는 과정에서 리플리가 퀸 에이리언에게 날렸던 대사와 동일합니다. 그리고 모든 게 끝난 줄 알았던 결말부에선 가장 징그러웠던 새로운 타입의 에이리언이 태어나는데 시리즈 최초로 인간의 자연분만으로 태어난 괴생명체가 등장한 것이며 이것의 탄생 조건은 임신한 여성이 검은 액체를 혈액에 주입할 경우라는 것으로 프로메테우스에 나왔던 임신이 불가능한 여성이 검은 액체에 감염된 남성과 성관계를 해서 탄생한 괴생명체와 다르고 에이리언 4에 나온 인간의 DNA를 갖고 있는 퀸 에이리언이 직접 출산한 괴생명체와도 엄밀히 다른 버전인 것인데 일단 이번 영화의 괴물 녀석의 탄생 아이디어는 약 45년 전 에이리언 1편 제작 과정에서 각본가인 댄 오배넌이 제노모프의 외형을 창조한 디자이너 HR 기거에게 보낸 편지에서 비롯되었습니다. 당시 편지에는 에이리언이 숙주를 떠난 후 거대하고 기형적인 아기를 연상시키는 디자인이었으면 좋겠다라고 제안했는데 결과적으론 HR 기거의 스타일을 완전히 살린 생체 기계 스타일이 담긴 제노모프의 모습으로 결정되었지만 이 편지에 담겼던 아이디어가 약 45년 뒤 개봉한 에이리언 로물루스에서 활용된 것입니다. 또 프로메테우스를 보신 분들은 이번에 나온 그 생명체의 얼굴이 엔지니어의 것과 굉장히 유사하다는 것을 파악하셨을 텐데 이는 감독님이 괴물의 디자인을 결정할 때 프로메테우스와 에이리언 커버넌트의 신화를 좀 더 고려했기 때문이라고 밝혔고 자신은 검은 액체를 제노모프의 정액이라고 생각하기 때문에 만약 인간과 제노모프의 자손이 있다면 어떻게 생겼을지를 생각하다",
+  "movie_id": "에이리언 로물",
+  "reviewer": "B_Man_삐맨",
+  "chunk_index": 5,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "에이리언 로물루스",
+      "entity_type": "MOVIE",
+      "entity_description": "에이리언 로물루스는 에이리언 시리즈의 영화로, 르네상스 스테이션에서의 탈출과 새로운 타입의 에이리언 탄생을 다룬다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "에이리언 2",
+      "entity_type": "MOVIE",
+      "entity_description": "에이리언 2는 로물루스로부터 37년 후의 이야기를 다룬 영화로, 해병들이 M41A 펄스 라이플을 사용하며 둥지 발견 장면과 퀸 에이리언과의 대결이 등장한다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "에이리언 1",
+      "entity_type": "MOVIE",
+      "entity_description": "에이리언 1은 약 45년 전 제작된 시리즈 첫 번째 영화로, 파란 안개가 등장하며 제노모프의 외형이 결정된 작품이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "에이리언 3",
+      "entity_type": "MOVIE",
+      "entity_description": "에이리언 3는 개를 숙주로 한 러너 에이리언이 등장하는 시리즈 영화이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "에이리언 4",
+      "entity_type": "MOVIE",
+      "entity_description": "에이리언 4는 인간의 DNA를 갖고 있는 퀸 에이리언이 직접 출산한 괴생명체가 등장하는 영화이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "프로메테우스",
+      "entity_type": "MOVIE",
+      "entity_description": "프로메테우스는 에이리언 시리즈의 프리퀄로, 검은 액체와 엔지니어가 등장하며 임신 불가능한 여성이 감염된 남성과의 관계로 괴생명체가 탄생하는 내용을 담고 있다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "에이리언 커버넌트",
+      "entity_type": "MOVIE",
+      "entity_description": "에이리언 커버넌트는 프로메테우스의 후속작으로 에이리언 시리즈의 신화를 다룬 영화이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "RAIN",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Rain은 에이리언 로물루스의 주인공으로, Tyler에게 펄스 라이플 사용법을 배우고 Andy와 함께 제노모프 군단과 싸우며 탈출하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "ANDY",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Andy는 에이리언 로물루스에서 Rain과 함께 제노모프와 싸우며, 버크의 대사와 동일한 대사를 치고 리플리의 명대사를 오마주하는 대사를 날리는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "TYLER",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Tyler는 에이리언 로물루스에서 Rain에게 펄스 라이플 사용법을 알려주는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "VASQUEZ",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Vasquez는 에이리언 2에서 리플리에게 펄스 라이플 사용법을 가르쳐주는 해병 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "리플리",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "리플리는 에이리언 시리즈의 주인공으로, 에이리언 2에서 뉴트를 구하며 퀸 에이리언에게 명대사를 날린 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "버크",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "버크는 에이리언 2에서 둥지를 발견했을 때 대사를 친 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "뉴트",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "뉴트는 에이리언 2에 등장하는 어린 소녀로, 리플리가 구출하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "댄 오배넌",
+      "entity_type": "MOVIE_STAFF",
+      "entity_description": "댄 오배넌은 에이리언 1편의 각본가로, HR 기거에게 제노모프 디자인에 대한 아이디어를 편지로 제안한 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "HR 기거",
+      "entity_type": "MOVIE_STAFF",
+      "entity_description": "HR 기거는 에이리언 1편에서 제노모프의 외형을 창조한 디자이너로, 생체 기계 스타일의 제노모프 모습을 결정한 인물이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "RAIN",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "에이리언 로물루스",
+      "target_type": "MOVIE",
+      "relationship_description": "Rain은 에이리언 로물루스의 주인공이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "ANDY",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "에이리언 로물루스",
+      "target_type": "MOVIE",
+      "relationship_description": "Andy는 에이리언 로물루스의 주요 등장인물이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "TYLER",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "에이리언 로물루스",
+      "target_type": "MOVIE",
+      "relationship_description": "Tyler는 에이리언 로물루스의 등장인물이다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "TYLER",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "RAIN",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Tyler는 Rain에게 펄스 라이플 사용법을 알려준다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "ANDY",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "RAIN",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Andy와 Rain은 함께 제노모프 군단과 싸우며 탈출한다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "VASQUEZ",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "에이리언 2",
+      "target_type": "MOVIE",
+      "relationship_description": "Vasquez는 에이리언 2에 등장하는 해병 캐릭터이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "VASQUEZ",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "리플리",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Vasquez는 리플리에게 펄스 라이플 사용법을 가르쳐준다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "리플리",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "에이리언 2",
+      "target_type": "MOVIE",
+      "relationship_description": "리플리는 에이리언 2의 주인공이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "버크",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "에이리언 2",
+      "target_type": "MOVIE",
+      "relationship_description": "버크는 에이리언 2에서 둥지를 발견한 캐릭터이다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "뉴트",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "에이리언 2",
+      "target_type": "MOVIE",
+      "relationship_description": "뉴트는 에이리언 2에 등장하는 어린 소녀이다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "리플리",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "뉴트",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "리플리는 뉴트를 구출한다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "에이리언 로물루스",
+      "source_type": "MOVIE",
+      "target_entity": "에이리언 2",
+      "target_type": "MOVIE",
+      "relationship_description": "에이리언 로물루스는 에이리언 2의 여러 장면과 대사를 오마주한다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "에이리언 로물루스",
+      "source_type": "MOVIE",
+      "target_entity": "에이리언 1",
+      "target_type": "MOVIE",
+      "relationship_description": "에이리언 로물루스는 에이리언 1의 파란 안개 설정을 계승하고 45년 전 아이디어를 활용했다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "에이리언 로물루스",
+      "source_type": "MOVIE",
+      "target_entity": "에이리언 3",
+      "target_type": "MOVIE",
+      "relationship_description": "에이리언 로물루스는 에이리언 3의 러너 에이리언 마주침 장면을 오마주한다",
+      "relationship_strength": 6
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "에이리언 로물루스",
+      "source_type": "MOVIE",
+      "target_entity": "프로메테우스",
+      "target_type": "MOVIE",
+      "relationship_description": "에이리언 로물루스의 괴생명체 디자인은 프로메테우스의 엔지니어와 유사하며 신화를 고려했다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "에이리언 로물루스",
+      "source_type": "MOVIE",
+      "target_entity": "에이리언 커버넌트",
+      "target_type": "MOVIE",
+      "relationship_description": "에이리언 로물루스의 괴물 디자인은 에이리언 커버넌트의 신화를 고려했다",
+      "relationship_strength": 6
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "댄 오배넌",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "에이리언 1",
+      "target_type": "MOVIE",
+      "relationship_description": "댄 오배넌은 에이리언 1의 각본가이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "HR 기거",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "에이리언 1",
+      "target_type": "MOVIE",
+      "relationship_description": "HR 기거는 에이리언 1에서 제노모프를 디자인했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "댄 오배넌",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "HR 기거",
+      "target_type": "MOVIE_STAFF",
+      "relationship_description": "댄 오배넌은 HR 기거에게 제노모프 디자인 아이디어를 편지로 제안했다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "댄 오배넌",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "에이리언 로물루스",
+      "target_type": "MOVIE",
+      "relationship_description": "댄 오배넌이 45년 전 제안했던 아이디어가 에이리언 로물루스에서 활용되었다",
+      "relationship_strength": 7
+    }
+  ],
+  "entity_resolution": {
+    "에이리언 로물루스": {
+      "description": "에이리언 로물루스 -> 에이리언 로물",
+      "resolved_name": "에이리언 로물",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "에이리언 2": {
+      "description": "에이리언 2 -> 에이리언 2",
+      "resolved_name": "에이리언 2",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "에이리언 1": {
+      "description": "에이리언 1 -> 에이리언 1",
+      "resolved_name": "에이리언 1",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "에이리언 3": {
+      "description": "에이리언 3 -> 에이리언 3",
+      "resolved_name": "에이리언 3",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "에이리언 4": {
+      "description": "에이리언 4 -> 에이리언 4",
+      "resolved_name": "에이리언 4",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "프로메테우스": {
+      "description": "프로메테우스 -> 프로메테우스",
+      "resolved_name": "프로메테우스",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "에이리언 커버넌트": {
+      "description": "에이리언 커버넌트 -> 에이리언 커버넌트",
+      "resolved_name": "에이리언 커버넌트",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "RAIN": {
+      "description": "RAIN -> RAIN",
+      "resolved_name": "RAIN",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "ANDY": {
+      "description": "ANDY -> ANDY",
+      "resolved_name": "ANDY",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "TYLER": {
+      "description": "TYLER -> TYLER",
+      "resolved_name": "TYLER",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "VASQUEZ": {
+      "description": "VASQUEZ -> VASQUEZ",
+      "resolved_name": "VASQUEZ",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "리플리": {
+      "description": "리플리 -> 리플리",
+      "resolved_name": "리플리",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "버크": {
+      "description": "버크 -> 버크",
+      "resolved_name": "버크",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "뉴트": {
+      "description": "뉴트 -> 뉴트",
+      "resolved_name": "뉴트",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "댄 오배넌": {
+      "description": "댄 오배넌 -> 댄 오배넌",
+      "resolved_name": "댄 오배넌",
+      "entity_type": "MOVIE_STAFF",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "HR 기거": {
+      "description": "HR 기거 -> HR 기거",
+      "resolved_name": "HR 기거",
+      "entity_type": "MOVIE_STAFF",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

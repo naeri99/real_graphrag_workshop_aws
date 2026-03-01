@@ -1,0 +1,111 @@
+{
+  "chunk_hash": "e2577c418ad322",
+  "chunk_id": "무드킹_e2577c418ad322_33be1e7f",
+  "user_query": "seen Me play You can't cut me you cut yourself 단 이틀만에 방출된 커트는 다른 팀에도 연락해 보지만 그를 원하는 팀은 없었죠 [음악] 브렌다의 가족과 함께 살게 된 [음악] 커트 21 Yeah anything else you no can get one your applications got a job today stocking SH the just for little while till next seas try Don't give [음악] 없 람이 하 당황은 미식축구에서 파생된 스포츠로 NFL 노리는 선수들은 별로 관심이 없었죠 Yeah minut we bought our dream brand new ranch home the Thing is we need to find a new place to live well I'm glad to hear you say we do you lover Yes sir I know you did Do you mind me asking what's holding you up I guess i just felt like I Needed to prove myself first life not what you can achieve you can become you W take 그리고 1년이 지나고 커트의 상황은 전혀 나아지지 않는데 심지어 난방비를 내지 못해 난방까지 끊기는 지경에 이르죠 추위를 피해 커트 어머니의 집으로 향합니다 커트는 기름통을 빌려서 왔던 길로 다시 [음악] 뛰어가고 결국 커트는 사랑하는 이들을 지키기 위해 자존심을 버리고 포스터를 찾아갑니다 그리고 커트는 그곳에서 코치를 다시 만나고 [박수] shows py show we [박수] this C ton kurt Warner from the university of Northern Iowa let's see if He's got any that cowboy still in Warner won't get the snap Unbelievable definitely out of rm right now 이후 커트는 특급 [음악] [박수] 계약을 받고 그리고 잠시 뒤 커트의 활약으로 터치다운을 하는데 [박수] [음악] [음악] [박수] [박수] 그런데 브렌다가 아이들과 함께 경기장을 방문하고 [음악] [박수] 잠시 뒤 경기가 끝나고 커트가 팬들에게 사인을 해주고 있었는데 [음악] far away uh no kids no kids I have a Question and I'm just do you see yourself in my life long term watching that grow up stand by my side my parents 50th anniversary Walking just down the honestly see yourself there It's going on in your life It's not working for my life BR I can't do it again We're",
+  "movie_id": "아메리칸 언더독",
+  "reviewer": "무드킹",
+  "chunk_index": 3,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "브렌다",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "브렌다는 커트의 연인으로 아이들이 있으며 커트와 함께 어려운 시기를 겪는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "포스터",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "포스터는 커트가 자존심을 버리고 찾아가는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "코치",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "코치는 커트가 포스터를 찾아갔을 때 다시 만나게 되는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "커트 어머니",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "커트의 어머니로 난방이 끊긴 커트 가족이 추위를 피해 찾아가는 인물이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "커트 워너",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "브렌다",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "커트 워너는 브렌다의 연인이며 브렌다의 가족과 함께 살게 된다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "커트 워너",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "포스터",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "커트는 사랑하는 이들을 지키기 위해 자존심을 버리고 포스터를 찾아간다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "커트 워너",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "코치",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "커트는 포스터를 찾아갔을 때 코치를 다시 만난다",
+      "relationship_strength": 6
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "커트 워너",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "커트 어머니",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "커트는 난방비를 내지 못해 어머니의 집으로 향한다",
+      "relationship_strength": 5
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "브렌다",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "커트 워너",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "브렌다는 커트와의 장기적인 관계에 대해 질문하며 함께할 미래를 고민한다",
+      "relationship_strength": 8
+    }
+  ],
+  "entity_resolution": {
+    "브렌다": {
+      "description": "브렌다 -> 브렌다 메오니",
+      "resolved_name": "브렌다 메오니",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "포스터": {
+      "description": "포스터 -> 짐 포스터",
+      "resolved_name": "짐 포스터",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "코치": {
+      "description": "코치 -> 코치",
+      "resolved_name": "코치",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "커트 어머니": {
+      "description": "커트 어머니 -> 커트 어머니",
+      "resolved_name": "커트 어머니",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

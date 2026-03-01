@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "프랭크 풀 박사",
+    "synonym": [
+      "Dr. Frank Poole",
+      "Frank",
+      "Frank Poole",
+      "부관 프랭크",
+      "풀",
+      "풀 박사",
+      "프랭크",
+      "프랭크 박사",
+      "프랭크 풀",
+      "프랭크 풀 박사",
+      "프랭크풀"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "프랭크 풀 박사은 영화 '2001 스페이스 오디세이'의 등장인물로, 게리 록우드이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

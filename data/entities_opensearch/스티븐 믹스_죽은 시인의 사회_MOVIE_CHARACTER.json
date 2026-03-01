@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "스티븐 믹스",
+    "synonym": [
+      "Meeks",
+      "Steven",
+      "Steven Meeks",
+      "믹스",
+      "스티브 믹스",
+      "스티븐",
+      "스티븐 믹스",
+      "스티븐믹스"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "스티븐 믹스은 영화 '죽은 시인의 사회'의 등장인물로, 알레론 루지에로이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

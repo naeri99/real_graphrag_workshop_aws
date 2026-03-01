@@ -1,0 +1,28 @@
+{
+  "entity": {
+    "name": "찰리 달튼",
+    "synonym": [
+      "Charlie",
+      "Charlie Chaplin",
+      "Charlie Dalton",
+      "Dalton",
+      "Nuwanda",
+      "강도 리더",
+      "누완다",
+      "달턴",
+      "달튼",
+      "돌튼",
+      "찰리",
+      "찰리 달튼",
+      "찰리달튼",
+      "찰리채플린",
+      "채플린",
+      "챨리 달튼",
+      "챨리 채플린"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "찰리 달튼은 영화 '죽은 시인의 사회'의 등장인물로, 게일 한센이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

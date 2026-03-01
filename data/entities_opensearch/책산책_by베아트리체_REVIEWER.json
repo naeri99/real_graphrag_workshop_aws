@@ -1,0 +1,13 @@
+{
+  "entity": {
+    "name": "책산책_by베아트리체",
+    "synonym": [
+      "책산책_by베아트리체",
+      "책산책 by베아트리체"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "책산책_by베아트리체은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

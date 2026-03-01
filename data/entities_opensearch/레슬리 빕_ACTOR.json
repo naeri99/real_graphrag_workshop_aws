@@ -1,0 +1,17 @@
+{
+  "entity": {
+    "name": "레슬리 빕",
+    "synonym": [
+      "Leslie Bibb",
+      "레슬리",
+      "레슬리 비브",
+      "레슬리 빕",
+      "레슬리빕",
+      "빕"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "레슬리 빕은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "벤 파커",
+    "synonym": [
+      "Ben",
+      "Ben Parker",
+      "밴 파커",
+      "벤",
+      "벤 삼촌",
+      "벤 파카",
+      "벤 파커",
+      "벤자민 파커",
+      "벤파커",
+      "파커"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "벤 파커은 영화 '마담 웹'의 등장인물로, 애덤 스콧이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

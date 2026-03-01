@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "루크 벤워드",
+    "synonym": [
+      "Luke Benward",
+      "Rook",
+      "루크",
+      "루크 벤워드",
+      "루크 벤워어드",
+      "루크벤워드",
+      "룩",
+      "벤워드"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "루크 벤워드은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

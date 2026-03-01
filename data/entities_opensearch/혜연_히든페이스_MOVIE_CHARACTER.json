@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "혜연",
+    "synonym": [
+      "Hye-yeon",
+      "Hyeyeon",
+      "박지영 캐릭터",
+      "사모님",
+      "캐릭터 혜연",
+      "해연",
+      "혜 연",
+      "혜연",
+      "혜연 씨",
+      "혜연이"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "혜연은 영화 '히든페이스'의 등장인물로, 박지영이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

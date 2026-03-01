@@ -1,0 +1,12 @@
+{
+  "entity": {
+    "name": "오렌젤리뷰",
+    "synonym": [
+      "오렌젤리뷰"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "오렌젤리뷰은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

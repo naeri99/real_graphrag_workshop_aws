@@ -1,0 +1,265 @@
+{
+  "chunk_hash": "a1c07f6f12517c",
+  "chunk_id": "Chris_Stuckmann_a1c07f6f12517c_fa149780",
+  "user_query": "the scenery but he worked for me uh if you want to go there go there and he goes there and I think he's really good in the film Nolan's usual composer collaborator Hans Zimmer couldn't do this film because of his work on Dune and so Ludwig Göransson from Ryan Coogler's films like Black Panther and Creed replaced him and he's really fucking good I've loved all of this man's scores he he won the Oscar for Black Panther I think he's one of our new best talents when it comes to music honestly you could probably watch this and think Hans Zimmer did it without knowing a lot of the music does sound as if it has a reversed quality to it which matches obviously you know some of the spectacle on the screen speaking of sound though Nolan continues this thing he's been doing ever since Dark Knight Rises where dialogue seems to be the bottom of the mix and sound effects and score are above it so there are many scenes where I honestly didn't know what people were saying and I saw this at a Cinemark XD so this is a massive theater with really state-of-the-art sound and I'm not sure why he does that it's like ever since Tom Hardy was Bane he was like I I like when people don't quite understand what everyone's saying all the time Interstellar had very loud music and you can watch the film multiple times and get more out of it but Nolan likes to do a thing in all of his movies where his characters take leisurely strolls through very picturesque environments and they usually give expository",
+  "movie_id": "테넷",
+  "reviewer": "Chris_Stuckmann",
+  "chunk_index": 4,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "HANS ZIMMER",
+      "entity_type": "MOVIE_STAFF",
+      "entity_description": "한스 짐머는 놀란 감독의 오랜 음악 협력자로, 듄 작업으로 인해 이 영화에 참여하지 못했다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "LUDWIG GÖRANSSON",
+      "entity_type": "MOVIE_STAFF",
+      "entity_description": "루드비히 고란손은 라이언 쿠글러 감독의 영화들에서 음악을 담당했으며, 블랙 팬서로 오스카를 수상한 작곡가로 이 영화의 음악을 담당했다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "CHRISTOPHER NOLAN",
+      "entity_type": "MOVIE_STAFF",
+      "entity_description": "크리스토퍼 놀란은 다크 나이트 라이즈 이후로 대사를 믹스의 하단에 배치하고 효과음과 스코어를 상위에 두는 사운드 믹싱 스타일을 사용하는 감독이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "RYAN COOGLER",
+      "entity_type": "MOVIE_STAFF",
+      "entity_description": "라이언 쿠글러는 블랙 팬서와 크리드 같은 영화를 연출한 감독이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "BLACK PANTHER",
+      "entity_type": "MOVIE",
+      "entity_description": "블랙 팬서는 루드비히 고란손이 음악을 담당하여 오스카를 수상한 영화이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "CREED",
+      "entity_type": "MOVIE",
+      "entity_description": "크리드는 라이언 쿠글러 감독의 영화로 루드비히 고란손이 음악을 담당했다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "DUNE",
+      "entity_type": "MOVIE",
+      "entity_description": "듄은 한스 짐머가 음악 작업을 한 영화이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "DARK KNIGHT RISES",
+      "entity_type": "MOVIE",
+      "entity_description": "다크 나이트 라이즈는 놀란 감독이 대사를 믹스 하단에 배치하는 사운드 스타일을 시작한 영화이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "INTERSTELLAR",
+      "entity_type": "MOVIE",
+      "entity_description": "인터스텔라는 매우 큰 음악이 특징이며 여러 번 시청할수록 더 많은 것을 얻을 수 있는 놀란 감독의 영화이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "TOM HARDY",
+      "entity_type": "ACTOR",
+      "entity_description": "톰 하디는 다크 나이트 라이즈에서 베인 역을 맡은 배우이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "BANE",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "베인은 다크 나이트 라이즈에서 톰 하디가 연기한 캐릭터로, 대사를 알아듣기 어려운 것으로 유명하다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "HANS ZIMMER",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "CHRISTOPHER NOLAN",
+      "target_type": "MOVIE_STAFF",
+      "relationship_description": "한스 짐머는 놀란 감독의 오랜 음악 협력자이다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "HANS ZIMMER",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "DUNE",
+      "target_type": "MOVIE",
+      "relationship_description": "한스 짐머는 듄의 음악 작업을 했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "LUDWIG GÖRANSSON",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "BLACK PANTHER",
+      "target_type": "MOVIE",
+      "relationship_description": "루드비히 고란손은 블랙 팬서의 음악을 담당하여 오스카를 수상했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "LUDWIG GÖRANSSON",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "CREED",
+      "target_type": "MOVIE",
+      "relationship_description": "루드비히 고란손은 크리드의 음악을 담당했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "LUDWIG GÖRANSSON",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "RYAN COOGLER",
+      "target_type": "MOVIE_STAFF",
+      "relationship_description": "루드비히 고란손은 라이언 쿠글러 감독의 영화들에서 음악을 담당해왔다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "RYAN COOGLER",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "BLACK PANTHER",
+      "target_type": "MOVIE",
+      "relationship_description": "라이언 쿠글러는 블랙 팬서를 연출했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "RYAN COOGLER",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "CREED",
+      "target_type": "MOVIE",
+      "relationship_description": "라이언 쿠글러는 크리드를 연출했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "CHRISTOPHER NOLAN",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "DARK KNIGHT RISES",
+      "target_type": "MOVIE",
+      "relationship_description": "크리스토퍼 놀란은 다크 나이트 라이즈를 연출했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "CHRISTOPHER NOLAN",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "INTERSTELLAR",
+      "target_type": "MOVIE",
+      "relationship_description": "크리스토퍼 놀란은 인터스텔라를 연출했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "TOM HARDY",
+      "source_type": "ACTOR",
+      "target_entity": "BANE",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "톰 하디는 다크 나이트 라이즈에서 베인 역을 연기했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "TOM HARDY",
+      "source_type": "ACTOR",
+      "target_entity": "DARK KNIGHT RISES",
+      "target_type": "MOVIE",
+      "relationship_description": "톰 하디는 다크 나이트 라이즈에 출연했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "BANE",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "DARK KNIGHT RISES",
+      "target_type": "MOVIE",
+      "relationship_description": "베인은 다크 나이트 라이즈의 등장인물이다",
+      "relationship_strength": 10
+    }
+  ],
+  "entity_resolution": {
+    "HANS ZIMMER": {
+      "description": "HANS ZIMMER -> HANS ZIMMER",
+      "resolved_name": "HANS ZIMMER",
+      "entity_type": "MOVIE_STAFF",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "LUDWIG GÖRANSSON": {
+      "description": "LUDWIG GÖRANSSON -> LUDWIG GÖRANSSON",
+      "resolved_name": "LUDWIG GÖRANSSON",
+      "entity_type": "MOVIE_STAFF",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "CHRISTOPHER NOLAN": {
+      "description": "CHRISTOPHER NOLAN -> CHRISTOPHER NOLAN",
+      "resolved_name": "CHRISTOPHER NOLAN",
+      "entity_type": "MOVIE_STAFF",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "RYAN COOGLER": {
+      "description": "RYAN COOGLER -> RYAN COOGLER",
+      "resolved_name": "RYAN COOGLER",
+      "entity_type": "MOVIE_STAFF",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "BLACK PANTHER": {
+      "description": "BLACK PANTHER -> BLACK PANTHER",
+      "resolved_name": "BLACK PANTHER",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "CREED": {
+      "description": "CREED -> CREED",
+      "resolved_name": "CREED",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "DUNE": {
+      "description": "DUNE -> DUNE",
+      "resolved_name": "DUNE",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "DARK KNIGHT RISES": {
+      "description": "DARK KNIGHT RISES -> DARK KNIGHT RISES",
+      "resolved_name": "DARK KNIGHT RISES",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "INTERSTELLAR": {
+      "description": "INTERSTELLAR -> INTERSTELLAR",
+      "resolved_name": "INTERSTELLAR",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "TOM HARDY": {
+      "description": "TOM HARDY -> TOM HARDY",
+      "resolved_name": "TOM HARDY",
+      "entity_type": "ACTOR",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "BANE": {
+      "description": "BANE -> BANE",
+      "resolved_name": "BANE",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

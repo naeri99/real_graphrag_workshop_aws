@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "래리 킹으로 착각받는 남자",
+    "synonym": [
+      "Larry King Look-alike",
+      "Larry King Lookalike",
+      "Larry King 닮은 남자",
+      "래리 킹",
+      "래리 킹 닮은꼴",
+      "래리 킹으로 착각받는 남자",
+      "래리킹",
+      "래리킹 닮은 남자",
+      "래리킹 닮은이",
+      "래리킹으로착각받는남자"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "래리 킹으로 착각받는 남자은 영화 '아이언맨2'의 등장인물로, 스탠 리이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

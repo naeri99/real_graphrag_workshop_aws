@@ -1,0 +1,106 @@
+{
+  "chunk_hash": "9ef6e1af6210b4",
+  "chunk_id": "카랑Karang_9ef6e1af6210b4_3a3ef4c2",
+  "user_query": "a real estate agent I want to buy it I want us to buy that's a mighty big building to buy on the most expensive land in the city we get that building we'll be inside twelve and next time they'll think twice about refusing to make loans to us if we're their landlords what about the thrill of taking it to the man in his own castle no less you just be the face of our partnership I think I'm you know qualified for this we'll teach you everything you need to know don't you know any other white people who like to get paid to be out front man or not that I trust do you I don't trust white people how do you even go through life like that truth be told I don't trust black people either what are you even saying that no matter what there's always something extra going on in the relationship it's just the way is when you accept that you can't get caught off guard when it rears its ugly head I'll take that risk um you're at Matt's Diner right Hollywood High yes you're a few years ahead of me but I mean everybody knew who you were what are y'all sorry faced about will I be working with the investors hand in hand so they're hiring you kind of a partnership I'm in are you sure just teach me what I need to know I won't let you down you gotta learn how to talk to rich white folks so it seems like you want to and you got one month to learn how to play golf and I mean learn to play like you've been playing your whole life oh it looks like I got my ass swing lower great thanks keep your head",
+  "movie_id": "뱅크어택",
+  "reviewer": "카랑Karang",
+  "chunk_index": 5,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "MATT'S DINER",
+      "entity_type": "MOVIE",
+      "entity_description": "맷스 다이너는 텍스트에서 언급된 장소로, 등장인물들이 다녔던 식당이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "HOLLYWOOD HIGH",
+      "entity_type": "MOVIE",
+      "entity_description": "할리우드 하이는 텍스트에서 언급된 학교로, 등장인물들이 다녔던 고등학교이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "부동산 중개인 캐릭터",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "부동산 중개인은 비싼 건물을 구매하려는 계획에 참여하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "파트너십 제안자",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "파트너십을 제안하는 인물로, 백인을 앞세워 부동산 거래를 하려는 계획을 세우는 캐릭터이다. 백인도 흑인도 신뢰하지 않는다고 말하며, 인종 간 관계에서 항상 무언가 추가적인 것이 있다고 믿는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "프론트맨 캐릭터",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "파트너십의 얼굴 역할을 맡게 되는 인물로, 맷스 다이너와 할리우드 하이 출신이며, 부유한 백인들과 대화하는 법과 골프를 한 달 안에 배워야 하는 캐릭터이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "파트너십 제안자",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "프론트맨 캐릭터",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "파트너십 제안자는 프론트맨 캐릭터에게 사업의 얼굴 역할을 맡기고 필요한 것을 가르쳐주겠다고 제안한다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "프론트맨 캐릭터",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "HOLLYWOOD HIGH",
+      "target_type": "MOVIE",
+      "relationship_description": "프론트맨 캐릭터는 할리우드 하이 출신이다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "프론트맨 캐릭터",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "MATT'S DINER",
+      "target_type": "MOVIE",
+      "relationship_description": "프론트맨 캐릭터는 맷스 다이너에서 일했거나 자주 방문했다",
+      "relationship_strength": 6
+    }
+  ],
+  "entity_resolution": {
+    "MATT'S DINER": {
+      "description": "MATT'S DINER -> MATT'S DINER",
+      "resolved_name": "MATT'S DINER",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "HOLLYWOOD HIGH": {
+      "description": "HOLLYWOOD HIGH -> HOLLYWOOD HIGH",
+      "resolved_name": "HOLLYWOOD HIGH",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "부동산 중개인 캐릭터": {
+      "description": "부동산 중개인 캐릭터 -> 부동산 중개인 캐릭터",
+      "resolved_name": "부동산 중개인 캐릭터",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "파트너십 제안자": {
+      "description": "파트너십 제안자 -> 파트너십 제안자",
+      "resolved_name": "파트너십 제안자",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "프론트맨 캐릭터": {
+      "description": "프론트맨 캐릭터 -> 프론트맨 캐릭터",
+      "resolved_name": "프론트맨 캐릭터",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

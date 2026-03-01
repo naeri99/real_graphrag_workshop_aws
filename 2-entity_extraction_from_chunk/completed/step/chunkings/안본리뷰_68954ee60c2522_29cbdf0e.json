@@ -1,0 +1,102 @@
+{
+  "chunk_hash": "68954ee60c2522",
+  "chunk_id": "안본리뷰_68954ee60c2522_29cbdf0e",
+  "user_query": "이곳은 스웨덴의 스톡홀름. 어릴 적부터 도둑질을 일삼던 두 아이는 성인이 되어서도 강도짓을 멈추지 않았죠. [음악] Kör kör kör kör. Och Michelle han var fan bäst av alla. [음악] De flesta andra avs själva till slut. Michelle gjorde tvärtom. Inga klockor, inga bilar, ingenting som kunde dra blicken. Michelle låg alltid tre steg före. 그렇게 라미는 그녀와 결혼해 가정을 꾸렸습니다. 하지만 며칠 후 범행이 드러난 라미는 가족과 생별해야 했고 그때 굳은 결심을 하게 됐죠. 출소 후 라미는 강도의 길을 벗어나 주방에서 일하며 사업을 준비했습니다. 라미는 투자자들을 모집해 저가의 냉동새우를 대량으로 수입해 저녁에 식당에 파는 계획이었죠. Allting så ja hälften går ut som var prov på restauranger och hälften sälse. Eh, vi väntar på en transport här på Kaj 12. Jag känner inte den här beteckningen så att tyvärr 하지만 사기를 당해 전재산을 잃고 맙니다. 집으로 돌아온 라미는 아내에게 참혹한 진실을 털어놓을 수 없었죠. Men du fick inte du fick inte med dig nå. Vad för nåot? Några räkor. De är container liksom. Jag vet att jag verkligen är stolt va? Mm. Hej hej Rami. Ingen sms en massa på jobbet. Hej hej hej he ram vad fan lägg ifrån den där jävla mobiljäveln. 문자를 받고 도착한 그곳엔 친구와 사채업자가 라미를 기다리고 있었습니다. Jag fattar ingenting i barn. Jag skiter i vår barndom idiot. Om inte du betalar mig så kan inte jag betala dem. Jag vet inte varför jag inte ringde Michel direkt. [음악] 결국 라미는 다시 범죄의 세계로 발을 들이게 됩니다. 그리고 다음날 미쉘은 범죄 파트너에게 계획을 공유했죠. Exakt. Och vi ska inte in i valvet. Jaha. Helikopter. Helikopter. Ja. Helikopter. [웃음] Folk inte har fattat det här pengarna räknas innan de skickas ner till valvet. Det sjätte våning. Men polisens egna helikoptrar de hittar vi och så saboterar vi dem. Rättig. Kan vi prata lite grann om de här 10",
+  "movie_id": "뱅크어택",
+  "reviewer": "안본리뷰",
+  "chunk_index": 1,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "라미",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "라미는 어릴 적부터 도둑질을 하다가 성인이 되어 결혼 후 강도 생활을 청산하려 했으나, 새우 사업 사기로 전재산을 잃고 다시 범죄의 세계로 돌아가는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "미쉘",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "미쉘은 라미의 어린 시절 친구이자 범죄 파트너로, 항상 세 발 앞서 생각하는 뛰어난 도둑이며 헬리콥터를 이용한 범죄 계획을 세우는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "라미의 아내",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "라미의 아내는 라미와 결혼하여 가정을 꾸린 인물로, 라미가 사업 실패 사실을 털어놓지 못한 대상이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "사채업자",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "사채업자는 라미의 친구를 통해 라미에게 빚 독촉을 하는 인물이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "라미",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "미쉘",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "라미와 미쉘은 어릴 적부터 함께 도둑질을 한 범죄 파트너이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "라미",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "라미의 아내",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "라미는 그녀와 결혼하여 가정을 꾸렸다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "라미",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "사채업자",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "라미는 사채업자에게 빚을 지고 있어 독촉을 받는다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "미쉘",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "라미",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "미쉘은 라미가 다시 범죄의 세계로 돌아왔을 때 헬리콥터 강도 계획을 공유한다",
+      "relationship_strength": 9
+    }
+  ],
+  "entity_resolution": {
+    "라미": {
+      "description": "라미 -> 라미",
+      "resolved_name": "라미",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "미쉘": {
+      "description": "미쉘 -> 미쉘",
+      "resolved_name": "미쉘",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "라미의 아내": {
+      "description": "라미의 아내 -> 라미의 아내",
+      "resolved_name": "라미의 아내",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "사채업자": {
+      "description": "사채업자 -> 태일",
+      "resolved_name": "태일",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    }
+  }
+}

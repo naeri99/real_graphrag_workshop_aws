@@ -1,0 +1,23 @@
+{
+  "entity": {
+    "name": "콜린 파렐",
+    "synonym": [
+      "Colin Farrell",
+      "Colleen",
+      "Farrell",
+      "콜리엔",
+      "콜린",
+      "콜린 파럴",
+      "콜린 파렐",
+      "콜린 패럴",
+      "콜린 퍼렐",
+      "콜린파렐",
+      "콜린패럴",
+      "파렐"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "콜린 파렐은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

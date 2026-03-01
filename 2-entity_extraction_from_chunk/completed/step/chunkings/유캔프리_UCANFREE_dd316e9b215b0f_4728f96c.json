@@ -1,0 +1,26 @@
+{
+  "chunk_hash": "dd316e9b215b0f",
+  "chunk_id": "유캔프리_UCANFREE_dd316e9b215b0f_4728f96c",
+  "user_query": "out of fear I was always thinking ahead making decisions out of fear I was always thinking ahead making decisions out of fear I was always thinking ahead making decisions out of fear I was always thinking ahead making decisions out of fear today because of you what I learned from you today because of you what I learned from you today because of you what I learned from you today because of you what I learned from you today because of you what I learned from you [Applause] every choice I made was different and my life has completely changed [Applause] every choice I made was different and my life has completely changed [Applause] every choice I made was different and my life has completely changed [Applause] every choice I made was different and my life has completely changed [Applause] every choice I made was different and my life has completely changed but if you do that then you're living your life fully it doesn't matter if you have five minutes or 50 years but if you do that then you're living your life fully it doesn't matter if you have five minutes or 50 years but if you do that then you're living your life fully it doesn't matter if you have five minutes or 50 years but if you do that then you're living your life fully it doesn't matter if you have five minutes or 50 years but if you do that then you're living your life fully it doesn't matter if you have five minutes or 50 years Samantha if not for today not for you I would never have known love at all Samantha if",
+  "movie_id": "이프 온리",
+  "reviewer": "유캔프리_UCANFREE",
+  "chunk_index": 38,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "SAMANTHA",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Samantha는 화자가 사랑을 고백하는 대상으로, 화자에게 사랑을 알게 해준 인물이다"
+    }
+  ],
+  "relationships": [],
+  "entity_resolution": {
+    "SAMANTHA": {
+      "description": "SAMANTHA -> Samantha Andrews",
+      "resolved_name": "Samantha Andrews",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    }
+  }
+}

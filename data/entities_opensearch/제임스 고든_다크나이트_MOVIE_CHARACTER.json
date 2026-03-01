@@ -1,0 +1,23 @@
+{
+  "entity": {
+    "name": "제임스 고든",
+    "synonym": [
+      "Commissioner Gordon",
+      "James Gordon",
+      "Jim Gordon",
+      "고든",
+      "고든 경감",
+      "고든 국장",
+      "고든 반장",
+      "고든 청장",
+      "제임스 고든",
+      "제임스고든",
+      "짐 고든",
+      "짐고든"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "제임스 고든은 영화 '다크나이트'의 등장인물로, 게리 올드만이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

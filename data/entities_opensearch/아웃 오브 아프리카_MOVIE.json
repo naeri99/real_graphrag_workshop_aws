@@ -1,0 +1,17 @@
+{
+  "entity": {
+    "name": "아웃 오브 아프리카",
+    "synonym": [
+      "Out of Africa",
+      "아웃 오브 아프리카",
+      "아웃오브아프리카",
+      "아프리카",
+      "아프리카에서",
+      "아프리카의 추억"
+    ],
+    "entity_type": "MOVIE",
+    "summary": "아웃 오브 아프리카",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

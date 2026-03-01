@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "윤석호",
+    "synonym": [
+      "Yoon Seok-ho",
+      "Yun Seok-ho",
+      "Yun Seokho",
+      "Yun Sukho",
+      "석호",
+      "윤 석호",
+      "윤석 호",
+      "윤석호",
+      "윤석호 배우"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "윤석호은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

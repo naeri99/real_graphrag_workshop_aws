@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "우편배달부",
+    "synonym": [
+      "Postman",
+      "郵便配達",
+      "郵便配達員",
+      "배달부",
+      "우체부",
+      "우편 배달부",
+      "우편배달부",
+      "우편집배원"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "우편배달부은 영화 '이웃집 토토로'의 등장인물로, 나카무라 다이지로이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

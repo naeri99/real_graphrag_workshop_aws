@@ -1,0 +1,13 @@
+{
+  "entity": {
+    "name": "영리남_-_Movie",
+    "synonym": [
+      "영리남_-_Movie",
+      "영리남 - Movie"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "영리남_-_Movie은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

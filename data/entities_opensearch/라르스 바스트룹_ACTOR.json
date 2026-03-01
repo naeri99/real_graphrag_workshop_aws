@@ -1,0 +1,23 @@
+{
+  "entity": {
+    "name": "라르스 바스트룹",
+    "synonym": [
+      "Lars",
+      "Lars Varinger",
+      "Lars Vastring",
+      "Lars Vastrup",
+      "Lars Väringer",
+      "Lars Värstrup",
+      "라르스",
+      "라르스 바스트럽",
+      "라르스 바스트룹",
+      "라르스바스트룹",
+      "라스 바스트룹",
+      "바스트룹"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "라르스 바스트룹은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

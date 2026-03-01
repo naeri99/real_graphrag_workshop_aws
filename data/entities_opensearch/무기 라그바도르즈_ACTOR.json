@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "무기 라그바도르즈",
+    "synonym": [
+      "Mogi Ragbadorj",
+      "Mogi Ragbadorz",
+      "Mogi Ragvadorz",
+      "Mugi Lhagvadorj",
+      "라그바도르즈",
+      "무기",
+      "무기 라그바도르즈",
+      "무기 라그바도르지",
+      "무기 락바도르즈",
+      "무기라그바도르즈"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "무기 라그바도르즈은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

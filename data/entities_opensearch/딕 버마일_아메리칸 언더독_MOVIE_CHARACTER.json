@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "딕 버마일",
+    "synonym": [
+      "Dick Vermeil",
+      "딕",
+      "딕 버마일",
+      "딕 버메일",
+      "딕 버밀",
+      "딕버마일",
+      "버마일",
+      "버메일",
+      "버밀"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "딕 버마일은 영화 '아메리칸 언더독'의 등장인물로, 데니스 퀘이드이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

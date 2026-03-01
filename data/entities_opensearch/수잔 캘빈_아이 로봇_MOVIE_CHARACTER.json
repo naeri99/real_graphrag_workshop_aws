@@ -1,0 +1,28 @@
+{
+  "entity": {
+    "name": "수잔 캘빈",
+    "synonym": [
+      "Calvin",
+      "Dr Calvin",
+      "Susan Calvin",
+      "닥터 캘빈",
+      "수잔",
+      "수잔 박사",
+      "수잔 칼빈",
+      "수잔 칼빈 박사",
+      "수잔 캘빈",
+      "수잔 켈빈",
+      "수잔칼빈",
+      "수잔캘빈",
+      "수잔켈빈",
+      "수전 캘빈",
+      "칼빈",
+      "캘빈",
+      "캘빈 박사"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "수잔 캘빈은 영화 '아이 로봇'의 등장인물로, 브리짓 모이너핸이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

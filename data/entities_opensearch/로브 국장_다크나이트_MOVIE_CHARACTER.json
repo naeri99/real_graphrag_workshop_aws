@@ -1,0 +1,25 @@
+{
+  "entity": {
+    "name": "로브 국장",
+    "synonym": [
+      "Commissioner Loeb",
+      "Gillian Loeb",
+      "Loeb",
+      "경찰국장",
+      "경찰국장 로브",
+      "국장",
+      "국장 로브",
+      "길리언 로브",
+      "로브",
+      "로브 경찰국장",
+      "로브 국장",
+      "로브 국장님",
+      "로브국장",
+      "로엡 국장"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "로브 국장은 영화 '다크나이트'의 등장인물로, 콜린 맥팔레인이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

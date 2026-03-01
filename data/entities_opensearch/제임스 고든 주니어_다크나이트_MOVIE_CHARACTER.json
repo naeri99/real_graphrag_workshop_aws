@@ -1,0 +1,26 @@
+{
+  "entity": {
+    "name": "제임스 고든 주니어",
+    "synonym": [
+      "James Gordon Jr",
+      "James Gordon Jr.",
+      "James Gordon Junior",
+      "James Jr.",
+      "Jimmy Gordon",
+      "고든 아들",
+      "고든 주니어",
+      "어린 고든",
+      "제임스 고든 2세",
+      "제임스 고든 주니어",
+      "제임스 주니어",
+      "제임스고든주니어",
+      "지미 고든",
+      "짐 고든 주니어",
+      "짐 주니어"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "제임스 고든 주니어은 영화 '다크나이트'의 등장인물로, 나단 갬블이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

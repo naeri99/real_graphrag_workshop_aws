@@ -1,0 +1,23 @@
+{
+  "entity": {
+    "name": "방송국 FD 1",
+    "synonym": [
+      "FD",
+      "FD1",
+      "Gladiator",
+      "Gladiator 1",
+      "글래디에이터",
+      "글래디에이터 원",
+      "글래디에이터1",
+      "방송국 FD",
+      "방송국 FD 1",
+      "방송국FD",
+      "방송국FD1",
+      "에프디"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "방송국 FD 1은 영화 '슬픔보다 더 슬픈 이야기'의 등장인물로, 정종우이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

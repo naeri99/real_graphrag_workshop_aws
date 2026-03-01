@@ -1,0 +1,24 @@
+{
+  "entity": {
+    "name": "젠킨스",
+    "synonym": [
+      "Dr. Jenkins",
+      "Jenkins",
+      "Jenkins 박사",
+      "Mr. Jenkins",
+      "NASA 젠킨스",
+      "젠킨스",
+      "젠킨스 대원",
+      "젠킨스 박사",
+      "젠킨스대원",
+      "젠킨스씨",
+      "젠킨쓰",
+      "젠킨즈",
+      "젱킨스"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "젠킨스은 영화 '인터스텔라'의 등장인물로, 엘리야스 코티스이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

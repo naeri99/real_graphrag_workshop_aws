@@ -1,0 +1,177 @@
+{
+  "chunk_hash": "dff3df7a3c83fc",
+  "chunk_id": "Harrys_Moving_Media_dff3df7a3c83fc_37859476",
+  "user_query": "films the distributors claimed that it would be hard for Westerners to understand this notion of families bathing together even though the father could have chosen to have an entire bathtub to himself he shows his unity with his family by sharing in their experience one of the most touching parts of the film is when Satsuki has her hair brushed by her mother Satsuki displays a deep connection with her mother to the point of desiring to be her her wish to have hair like her mother's alongside the proud smile she wears when her mother says you and me are a lot like Satsuki exemplifies we also see her rushing around making food for the family including her lunch for school that her father admits he completely forgot about not only do we see Satsuki's desire to take after her mother here but we also begin to understand the father's struggle of being a single parent throughout the ordeal however Satsuki in particular remains patient and understanding she didn't get angry at her father for forgetting for example when Satsuki is at school and her father is busy working Mei is left to play alone where she meets the three totoros they consist of what I'm guessing is a big father Totoro and his two offsprings symbolically mirroring the father and his two daughters when Mei falls down the camphor tree and meets the big Totoro the image of Alice falling down the rabbit hole from Lewis Carroll's Alice in Wonderland springs to mind with the smallest Totoro somewhat resembling the white",
+  "movie_id": "토토로",
+  "reviewer": "Harrys_Moving_Media",
+  "chunk_index": 6,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "SATSUKI",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Satsuki는 영화의 주요 등장인물로, 어머니와 깊은 유대감을 가지고 있으며 어머니처럼 되고 싶어한다. 가족을 위해 음식을 만들고 도시락을 준비하는 등 성숙한 모습을 보이며, 아버지가 깜빡한 일에도 인내심 있고 이해심 있는 태도를 보인다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "MEI",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Mei는 영화의 등장인물로, Satsuki의 여동생이다. 혼자 놀다가 세 마리의 토토로를 만나게 되며, 녹나무 아래로 떨어져 큰 토토로를 만난다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "TOTORO",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Totoro는 영화에 등장하는 캐릭터로, 큰 아버지 토토로와 두 마리의 작은 토토로로 구성되어 있으며, 이는 아버지와 두 딸의 관계를 상징적으로 반영한다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "아버지",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "아버지는 영화의 등장인물로, 두 딸 Satsuki와 Mei의 아버지이다. 홀로 아이들을 키우는 싱글 부모로서의 어려움을 겪으며, 딸의 도시락을 깜빡하는 등 고군분투하는 모습을 보인다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "어머니",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "어머니는 영화의 등장인물로, Satsuki와 Mei의 어머니이다. Satsuki의 머리를 빗겨주며 딸과 깊은 유대감을 나누고, Satsuki가 닮고 싶어하는 대상이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "ALICE IN WONDERLAND",
+      "entity_type": "MOVIE",
+      "entity_description": "Alice in Wonderland는 Lewis Carroll의 작품으로, Mei가 녹나무 아래로 떨어지는 장면이 앨리스가 토끼굴로 떨어지는 이미지를 연상시킨다고 언급된다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "LEWIS CARROLL",
+      "entity_type": "MOVIE_STAFF",
+      "entity_description": "Lewis Carroll은 Alice in Wonderland의 작가이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "SATSUKI",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "어머니",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Satsuki는 어머니와 깊은 유대감을 가지고 있으며 어머니처럼 되고 싶어한다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "SATSUKI",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "아버지",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Satsuki는 아버지의 딸이며, 싱글 부모인 아버지를 이해하고 인내심 있게 대한다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "MEI",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "아버지",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Mei는 아버지의 딸이다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "MEI",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "SATSUKI",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Mei는 Satsuki의 여동생이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "MEI",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "TOTORO",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Mei는 혼자 놀다가 세 마리의 토토로를 만나게 된다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "TOTORO",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "아버지",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "토토로 가족(큰 토토로와 두 작은 토토로)은 아버지와 두 딸의 관계를 상징적으로 반영한다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "어머니",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "아버지",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "어머니와 아버지는 Satsuki와 Mei의 부모이다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "LEWIS CARROLL",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "ALICE IN WONDERLAND",
+      "target_type": "MOVIE",
+      "relationship_description": "Lewis Carroll은 Alice in Wonderland의 작가이다",
+      "relationship_strength": 10
+    }
+  ],
+  "entity_resolution": {
+    "SATSUKI": {
+      "description": "SATSUKI -> SATSUKI",
+      "resolved_name": "SATSUKI",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "MEI": {
+      "description": "MEI -> MEI",
+      "resolved_name": "MEI",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "TOTORO": {
+      "description": "TOTORO -> TOTORO",
+      "resolved_name": "TOTORO",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "아버지": {
+      "description": "아버지 -> 아버지",
+      "resolved_name": "아버지",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "어머니": {
+      "description": "어머니 -> 자홍의 어머니",
+      "resolved_name": "자홍의 어머니",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "ALICE IN WONDERLAND": {
+      "description": "ALICE IN WONDERLAND -> ALICE IN WONDERLAND",
+      "resolved_name": "ALICE IN WONDERLAND",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "LEWIS CARROLL": {
+      "description": "LEWIS CARROLL -> LEWIS CARROLL",
+      "resolved_name": "LEWIS CARROLL",
+      "entity_type": "MOVIE_STAFF",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

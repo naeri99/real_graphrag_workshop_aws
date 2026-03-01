@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "아빠 터스킹턴",
+    "synonym": [
+      "Daddy Tuskington",
+      "Papa",
+      "Papa Tuskington",
+      "Tuskington",
+      "대디 터스킹턴",
+      "아빠 터스킹턴",
+      "아빠터스킹턴",
+      "터스킹턴",
+      "터스킹턴 아빠",
+      "터스킹턴아빠",
+      "터스킹톤"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "아빠 터스킹턴은 영화 '엘리멘탈'의 등장인물로, 매튜 양 킹이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

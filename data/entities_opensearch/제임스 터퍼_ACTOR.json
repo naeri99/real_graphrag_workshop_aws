@@ -1,0 +1,18 @@
+{
+  "entity": {
+    "name": "제임스 터퍼",
+    "synonym": [
+      "James Tupper",
+      "제임스",
+      "제임스 터퍼",
+      "제임스 투퍼",
+      "제임스터퍼",
+      "제임스투퍼",
+      "터퍼"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "제임스 터퍼은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

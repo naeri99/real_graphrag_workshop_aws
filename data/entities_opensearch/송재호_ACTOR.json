@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "송재호",
+    "synonym": [
+      "Song Jae-ho",
+      "Song Jaeho",
+      "송 재호",
+      "송선생님",
+      "송재호",
+      "송재호 배우",
+      "송재호 선생님",
+      "송재호님",
+      "송재호씨",
+      "재호"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "송재호은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

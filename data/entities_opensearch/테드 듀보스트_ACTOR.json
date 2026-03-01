@@ -1,0 +1,18 @@
+{
+  "entity": {
+    "name": "테드 듀보스트",
+    "synonym": [
+      "Ted Dubost",
+      "듀보스트",
+      "테드",
+      "테드 두보스트",
+      "테드 듀보스",
+      "테드 듀보스트",
+      "테드듀보스트"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "테드 듀보스트은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

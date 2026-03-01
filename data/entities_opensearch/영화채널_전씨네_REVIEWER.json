@@ -1,0 +1,13 @@
+{
+  "entity": {
+    "name": "영화채널_전씨네",
+    "synonym": [
+      "영화채널_전씨네",
+      "영화채널 전씨네"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "영화채널_전씨네은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

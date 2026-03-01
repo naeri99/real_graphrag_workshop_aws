@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "Amy",
+    "synonym": [
+      "Amy",
+      "Amy Goode",
+      "Amy 굿",
+      "아미",
+      "애이미",
+      "에미",
+      "에이미",
+      "에이미 구드",
+      "에이미 굿",
+      "에이미구드"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "Amy은 영화 '에브리바디스 파인'의 등장인물로, 케이트 베킨세일이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

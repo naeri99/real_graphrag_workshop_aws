@@ -1,0 +1,93 @@
+{
+  "chunk_hash": "dc868c8d58529c",
+  "chunk_id": "Theology_With_Josh_dc868c8d58529c_9951277e",
+  "user_query": "and advertises an action movie because Interstellar isn't the greatest action movie of all time in reality it's the most powerful love story ever told so is Interstellar the greatest film of all time in my opinion yes while many other films such as Lord of the Rings or Avengers Endgame or any Star Wars movie that you could pluck out could be seen as better Interstellar accomplished such a deep and meaningful topic over the course of only one film and accomplished more in two and a half hours than any other film Interstellar is a standalone film and thankfully was never tarnished by a Trilogy of movies because Interstellar doesn't need a sequel the story has already been told the story of a father and his love for his children and this is why I think that Interstellar is the greatest film of all time and nothing will ever come close",
+  "movie_id": "인터스텔라",
+  "reviewer": "Theology_With_Josh",
+  "chunk_index": 5,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "INTERSTELLAR",
+      "entity_type": "MOVIE",
+      "entity_description": "인터스텔라는 아버지와 자녀에 대한 사랑을 다룬 독립적인 영화로, 2시간 30분 동안 깊고 의미 있는 주제를 다루며 역대 가장 강력한 사랑 이야기로 평가받는다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "LORD OF THE RINGS",
+      "entity_type": "MOVIE",
+      "entity_description": "반지의 제왕은 인터스텔라와 비교되는 영화 중 하나로 언급된다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "AVENGERS ENDGAME",
+      "entity_type": "MOVIE",
+      "entity_description": "어벤져스 엔드게임은 인터스텔라와 비교되는 영화 중 하나로 언급된다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "STAR WARS",
+      "entity_type": "MOVIE",
+      "entity_description": "스타워즈는 인터스텔라와 비교되는 영화 시리즈로 언급된다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "INTERSTELLAR",
+      "source_type": "MOVIE",
+      "target_entity": "LORD OF THE RINGS",
+      "target_type": "MOVIE",
+      "relationship_description": "인터스텔라와 반지의 제왕은 역대 최고의 영화로 비교되는 작품들이다",
+      "relationship_strength": 5
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "INTERSTELLAR",
+      "source_type": "MOVIE",
+      "target_entity": "AVENGERS ENDGAME",
+      "target_type": "MOVIE",
+      "relationship_description": "인터스텔라와 어벤져스 엔드게임은 역대 최고의 영화로 비교되는 작품들이다",
+      "relationship_strength": 5
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "INTERSTELLAR",
+      "source_type": "MOVIE",
+      "target_entity": "STAR WARS",
+      "target_type": "MOVIE",
+      "relationship_description": "인터스텔라와 스타워즈는 역대 최고의 영화로 비교되는 작품들이다",
+      "relationship_strength": 5
+    }
+  ],
+  "entity_resolution": {
+    "INTERSTELLAR": {
+      "description": "INTERSTELLAR -> INTERSTELLAR",
+      "resolved_name": "INTERSTELLAR",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "LORD OF THE RINGS": {
+      "description": "LORD OF THE RINGS -> LORD OF THE RINGS",
+      "resolved_name": "LORD OF THE RINGS",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "AVENGERS ENDGAME": {
+      "description": "AVENGERS ENDGAME -> AVENGERS ENDGAME",
+      "resolved_name": "AVENGERS ENDGAME",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "STAR WARS": {
+      "description": "STAR WARS -> STAR WARS",
+      "resolved_name": "STAR WARS",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

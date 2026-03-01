@@ -1,0 +1,18 @@
+{
+  "entity": {
+    "name": "Angela",
+    "synonym": [
+      "Angel Stark",
+      "Angela",
+      "Angela Stark",
+      "안젤라",
+      "안젤라 스타크",
+      "앤젤라",
+      "엔젤라"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "Angela은 영화 '카산드라 드림'의 등장인물로, 샐리 호킨스이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

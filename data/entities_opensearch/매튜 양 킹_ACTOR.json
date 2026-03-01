@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "매튜 양 킹",
+    "synonym": [
+      "Matthew",
+      "Matthew Yang King",
+      "Matthew Yang-King",
+      "Matthew Young King",
+      "매튜",
+      "매튜 양 킹",
+      "매튜 양킹",
+      "매튜 영 킹",
+      "매튜 킹",
+      "매튜양킹",
+      "양 킹"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "매튜 양 킹은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

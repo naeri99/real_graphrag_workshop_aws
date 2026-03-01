@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "톰 윌킨슨",
+    "synonym": [
+      "Tom Wilkinson",
+      "Wilkinson",
+      "윌킨슨",
+      "토마스 윌킨슨",
+      "톰",
+      "톰 윌킨손",
+      "톰 윌킨슨",
+      "톰윌킨슨"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "톰 윌킨슨은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

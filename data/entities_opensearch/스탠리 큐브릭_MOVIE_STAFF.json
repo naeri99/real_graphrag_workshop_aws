@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "스탠리 큐브릭",
+    "synonym": [
+      "Stanley Kubrick",
+      "스탠리",
+      "스탠리 쿠브릭",
+      "스탠리 큐브릭",
+      "스탠리 큐브릭 감독",
+      "스탠리쿠브릭",
+      "스탠리큐브릭",
+      "쿠브릭",
+      "쿠브릭 감독",
+      "큐브릭",
+      "큐브릭 감독"
+    ],
+    "entity_type": "MOVIE_STAFF",
+    "summary": "스탠리 큐브릭은 영화 감독입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

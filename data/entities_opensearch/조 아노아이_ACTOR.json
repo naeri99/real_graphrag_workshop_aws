@@ -1,0 +1,17 @@
+{
+  "entity": {
+    "name": "조 아노아이",
+    "synonym": [
+      "Joe Anoa'i",
+      "아노아이",
+      "조",
+      "조 아노아",
+      "조 아노아이",
+      "조아노아이"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "조 아노아이은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

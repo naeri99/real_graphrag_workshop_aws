@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "빌 어윈",
+    "synonym": [
+      "Bill Irwin",
+      "빌",
+      "빌 아윈",
+      "빌 어원",
+      "빌 어윈",
+      "빌 얼윈",
+      "빌어윈",
+      "빌얼윈",
+      "어윈",
+      "얼윈",
+      "윌리엄 어윈"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "빌 어윈은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

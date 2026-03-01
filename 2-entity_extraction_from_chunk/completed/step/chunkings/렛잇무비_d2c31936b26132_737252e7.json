@@ -1,0 +1,71 @@
+{
+  "chunk_hash": "d2c31936b26132",
+  "chunk_id": "렛잇무비_d2c31936b26132_737252e7",
+  "user_query": "technical college in the whole [ __ ] world so what do you really want to do i want to be a shepherd really i'm not leaving no listen you're not gonna answer my questions you're wasting my [ __ ] time i thought we were friends [ __ ] ask you a very simple question and you can't give me a straight up you're the shepherd [Music] so how's your lady school medical school in california uh when are you done with those meetings [ __ ] live here the rest of my life i'll be neighbors you know we'll have little kids no no no no [ __ ] you you don't owe it to yourself and you're sitting on a winning lottery ticket you're too much of a [ __ ] to cash it in tokyo janitor that is better offense people away before they have a chance to leave him it's a defense mechanism all right good kid and i won't see you [ __ ] him up like you're trying to [ __ ] up me right here have you had any experience with that i don't know a lot all this [ __ ] not your fault not your fault i know no no it's not your fault don't [ __ ] with me all right don't [ __ ] with me sean not you it's not your fault [Music] what you want yeah you know i think so so you know hope we keep in touch you know me too thank you sean thank you well you're back and forth to cambridge for your new job and i knew i wasn't gonna [ __ ] drive you every day the engine is good a little bit maybe right you know when you'll be back it's a good idea this is the one [Music] will [Music] professor calls about that job just tell them sorry i",
+  "movie_id": "굿윌헌팅",
+  "reviewer": "렛잇무비",
+  "chunk_index": 4,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "SEAN",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Sean은 상담이나 멘토 역할을 하는 인물로, 주인공에게 \"네 잘못이 아니야\"라고 말하며 정서적 지지를 제공한다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "WILL",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Will은 뛰어난 재능을 가졌지만 자신의 잠재력을 발휘하지 못하고 있는 젊은이로, 양치기가 되고 싶다고 말하며 자신을 보호하기 위해 사람들을 밀어내는 방어기제를 가진 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "PROFESSOR",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Professor는 Will에게 케임브리지에서의 새로운 직업에 대해 연락하는 인물이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "SEAN",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "WILL",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Sean은 Will의 멘토이자 상담자로서 그의 트라우마를 치유하도록 돕는다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "WILL",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "PROFESSOR",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Professor는 Will에게 직업 기회를 제공하려고 연락한다",
+      "relationship_strength": 6
+    }
+  ],
+  "entity_resolution": {
+    "SEAN": {
+      "description": "SEAN -> SEAN",
+      "resolved_name": "SEAN",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "WILL": {
+      "description": "WILL -> WILL",
+      "resolved_name": "WILL",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "PROFESSOR": {
+      "description": "PROFESSOR -> PROFESSOR",
+      "resolved_name": "PROFESSOR",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

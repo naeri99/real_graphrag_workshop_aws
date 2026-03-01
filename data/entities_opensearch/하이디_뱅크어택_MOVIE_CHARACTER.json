@@ -1,0 +1,13 @@
+{
+  "entity": {
+    "name": "하이디",
+    "synonym": [
+      "Heidi",
+      "하이디"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "하이디은 영화 '뱅크어택'의 등장인물로, 야나 팔라스케이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

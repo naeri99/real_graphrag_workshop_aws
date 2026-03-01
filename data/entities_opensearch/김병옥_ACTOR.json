@@ -1,0 +1,18 @@
+{
+  "entity": {
+    "name": "김병옥",
+    "synonym": [
+      "Byung-ok Kim",
+      "Kim Byung-ok",
+      "김 병옥",
+      "김병옥",
+      "김병옥 배우",
+      "배우 김병옥",
+      "병옥"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "김병옥은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

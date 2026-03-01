@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "시브",
+    "synonym": [
+      "Maja",
+      "Siv",
+      "마야",
+      "마자",
+      "시브",
+      "시비",
+      "시이브",
+      "씨브"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "시브은 영화 '미드소마'의 등장인물로, 이사벨 그릴이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

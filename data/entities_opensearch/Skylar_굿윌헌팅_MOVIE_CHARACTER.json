@@ -1,0 +1,15 @@
+{
+  "entity": {
+    "name": "Skylar",
+    "synonym": [
+      "Skylar",
+      "스카이라",
+      "스카일라",
+      "스카일러"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "Skylar은 영화 '굿윌헌팅'의 등장인물로, 미니 드라이버이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

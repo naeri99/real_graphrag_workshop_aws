@@ -1,0 +1,29 @@
+{
+  "entity": {
+    "name": "해원맥",
+    "synonym": [
+      "Hae-won-maek",
+      "Hae-won-mak",
+      "Hae-wonmak",
+      "Haewonmak",
+      "무신",
+      "원맥",
+      "일직차사",
+      "일직차사 해원맥",
+      "저승사자 해원맥",
+      "저승차사 해원맥",
+      "차사 해원맥",
+      "해 원맥",
+      "해원",
+      "해원 맥",
+      "해원맥",
+      "해원맥 차사",
+      "해원맥도령",
+      "해원맥이"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "해원맥은 영화 '신과함께-죄와벌'의 등장인물로, 주지훈이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

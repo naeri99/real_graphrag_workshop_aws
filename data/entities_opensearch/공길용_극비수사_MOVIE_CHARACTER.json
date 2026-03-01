@@ -1,0 +1,24 @@
+{
+  "entity": {
+    "name": "공길용",
+    "synonym": [
+      "Kong Gil-yong",
+      "공 길용",
+      "공 형사",
+      "공경사",
+      "공길용",
+      "공길용 경사",
+      "공길용 형사",
+      "공길용님",
+      "공길용형사",
+      "공형사",
+      "길용",
+      "길용씨",
+      "길용이"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "공길용은 영화 '극비수사'의 등장인물로, 김윤석이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

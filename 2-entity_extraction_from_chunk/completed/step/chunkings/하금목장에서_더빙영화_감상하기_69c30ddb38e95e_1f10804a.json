@@ -1,0 +1,84 @@
+{
+  "chunk_hash": "69c30ddb38e95e",
+  "chunk_id": "하금목장에서_더빙영화_감상하기_69c30ddb38e95e_1f10804a",
+  "user_query": "[음악] [박수] [음악] kidogo kidogo tu uh [웃음] 누구라고 생각 강도야 놀랐잖아요 팀 강도들이 줄 [웃음] 알았어요 티테 내 위치 알려줬어요 기타의 차로 날 도와주는 유일한 친구예요 기타 건들지 말아요 좀마 나도 자네 친구 세 안 믿겠지만 자네가 차는 건 로게 없어 탁 터놓는 게 어때 갑자기 무슨 바람이 불어서 이르는 거죠 우린 이제 같은 신세 그든 자네하고 난 크리스마스 절에 죽고 있을 거야 자네를 쫓는 자들이 있어 테사를 죽인 바로 그 정자들이 내 경우이고 약 덕분에 견딜만 하네 아프신 건 알았지만 그 정도인 줄은 몰랐어요 그래 샌디가 말하던가 테사 정보 알려줬다고 전화했다고 하더군요 죽일 줄은 몰랐을 거야 테사한테 푹 빠져 있었거든 조직의 살이라는 게 원래 그래 뭔가 새를 챈 보스가 보안 팀장한테 전화를 하면 팀장이 아는 사람한테 얘기를 하고 그렇게 연줄 연줄 건너서 어느 임대 사무실에 자동 응답기까지 지시가 전달되지 처음 명령을 내린 사람이 누군지는 알 길이 없어 케냐에서 나가게 해 줄게 아직 우리가 그 정도 해 줄 수 있어 헛수고 말고 포기해 진실을 바꿀 방법을 찾아 보겠네 자는 살아야지 집으로 가 전 이제 집이 없어요 테사가 집이었어요 아놀드 얘기 들었나",
+  "movie_id": "콘스탄트 가드너",
+  "reviewer": "하금목장에서_더빙영화_감상하기",
+  "chunk_index": 1,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "테사",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "테사는 살해당한 인물로, 샌디가 정보를 알려줬던 대상이며 누군가가 깊이 빠져있던 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "샌디",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "샌디는 테사에게 정보를 알려주고 전화했던 인물로, 테사가 죽을 줄은 몰랐을 것으로 추정되며 테사에게 푹 빠져있었던 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "아놀드",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "아놀드는 대화 중 언급되는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "기타",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "기타는 주인공을 도와주는 유일한 친구로, 차로 도움을 주는 인물이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "샌디",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "테사",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "샌디는 테사에게 정보를 알려줬으며 테사에게 푹 빠져있었다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "기타",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "테사",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "기타는 테사를 쫓는 자들과 관련된 상황에서 주인공을 돕는 친구이다",
+      "relationship_strength": 5
+    }
+  ],
+  "entity_resolution": {
+    "테사": {
+      "description": "테사 -> 테사 퀘일",
+      "resolved_name": "테사 퀘일",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "샌디": {
+      "description": "샌디 -> Sandy Woodrow",
+      "resolved_name": "Sandy Woodrow",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "아놀드": {
+      "description": "아놀드 -> 아놀드 블루먼",
+      "resolved_name": "아놀드 블루먼",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "기타": {
+      "description": "기타 -> 기타 무투",
+      "resolved_name": "기타 무투",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    }
+  }
+}

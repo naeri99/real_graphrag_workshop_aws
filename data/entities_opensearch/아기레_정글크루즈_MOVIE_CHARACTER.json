@@ -1,0 +1,17 @@
+{
+  "entity": {
+    "name": "아기레",
+    "synonym": [
+      "Aguirre",
+      "아귀레",
+      "아귀르",
+      "아기레",
+      "아기레 정복자",
+      "아길레"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "아기레은 영화 '정글크루즈'의 등장인물로, 에드가르 라미레스이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

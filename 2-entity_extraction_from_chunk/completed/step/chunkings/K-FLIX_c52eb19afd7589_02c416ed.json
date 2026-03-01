@@ -1,0 +1,93 @@
+{
+  "chunk_hash": "c52eb19afd7589",
+  "chunk_id": "K-FLIX_c52eb19afd7589_02c416ed",
+  "user_query": "하셨어요 4 보내드립니다 이 어머니가 기억하는 비형의 마지막 모습입니다 아 촬영 추억이다 [음악] 으 아 으 [음악] 아 이걸 문 미국 앤 정 우주에서 어깨를 띄워라 o por 오직 억원의 말이 그날의 진실을 알고 주셨지 그리고 김자홍의 어머니는 당시 의식이 없었던 것이 아니라 [음악] 만 받겠습니다 어머니께 잘못 때나 말씀을 들어야 합니다 이미지로의 충분한 시간을 주었다 아 마 일어나다 아 뭐 일어나봐 빨리 엄마들 숙성이 한번씩 있어 5 잘 휘지 커봐야 됐잖아 너무나 이제 근데 못 만나 이건 마다 만난다고 2대 찾아볼까 그래 지금 회 경험이 힙 * 시까지 등 - 체액 숫자 도우 작업이 급이 걷지 녕하세요 소가 으 아무 잘못 없어요 오아 아 오 오 오 오 아 이미 진심으로 용서 가는 교회를 여성은 더 이상 씬 바라지 않는다 김자홍에게 즉시 탄생할 것 선고하는 말이다 고맙습니다 차사님 줄거 뭐예요 품은 없었는데 참 p 망자 김수홍 우리의 49번째 그 인이 될 것이다 [음악] [음악]",
+  "movie_id": "신과함께-죄와벌",
+  "reviewer": "K-FLIX",
+  "chunk_index": 3,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "김자홍",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "김자홍은 망자로서 재판을 받는 인물이며, 어머니와의 관계가 중요한 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "김자홍의 어머니",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "김자홍의 어머니는 당시 의식이 없었던 것처럼 보였으나 실제로는 그렇지 않았던 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "김수홍",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "김수홍은 망자로서 49번째 귀인이 될 것으로 언급된 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "차사",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "차사는 망자를 안내하는 역할을 하는 인물이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "김자홍",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "김자홍의 어머니",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "김자홍은 어머니의 아들이며, 어머니의 용서를 받는 관계이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "김자홍",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "차사",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "차사는 김자홍을 안내하고 도와주는 관계이다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "김수홍",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "김자홍",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "김수홍과 김자홍은 같은 성을 가진 인물로 관련이 있을 수 있다",
+      "relationship_strength": 5
+    }
+  ],
+  "entity_resolution": {
+    "김자홍": {
+      "description": "김자홍 -> 자홍",
+      "resolved_name": "자홍",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "김자홍의 어머니": {
+      "description": "김자홍의 어머니 -> 자홍의 어머니",
+      "resolved_name": "자홍의 어머니",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "김수홍": {
+      "description": "김수홍 -> 원동연",
+      "resolved_name": "원동연",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "차사": {
+      "description": "차사 -> 차사",
+      "resolved_name": "차사",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

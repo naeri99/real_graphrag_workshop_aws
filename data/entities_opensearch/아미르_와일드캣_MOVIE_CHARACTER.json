@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "아미르",
+    "synonym": [
+      "Ameer",
+      "Amir",
+      "아미르",
+      "아미르 캐릭터",
+      "아미르리",
+      "아미어",
+      "아밀",
+      "에미르"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "아미르은 영화 '와일드캣'의 등장인물로, 파룩 아미레이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

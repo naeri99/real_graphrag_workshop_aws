@@ -1,0 +1,106 @@
+{
+  "chunk_hash": "df472d25ae7b97",
+  "chunk_id": "조성훈_df472d25ae7b97_39e7a6bf",
+  "user_query": "어떤 예측되는 어떤 그런 부분이 있었는데 그걸 완전히 벗어나서 의외로 좀 유머도 있고 많이 놀랐던 영화입니다 그 끌고 가는 스토리 자체가 스릴러가 있지만 기본적으로 휴먼 드라마의 톤으로 끌고 가는 어떤 느낌이 있었거든요 곽 감독님을 좀 많은 관객들이 네가 가라 하와이 어떤 폭력 세계에 대한 그런 영화 전문 감독이신 줄 알지만 사실 NYU 출신의 그 뭐예요 아니에요 두 번이나 아니 의사 출신 의대를 졸업하며 이런 이력을 잘 모르시더라고요 그냥 뭐 싸움 잘하는 친구가 많다 감독님이 이런 줄 알고 야 무서워 야 너 지금 어디어 저는 이번에 영화에서 김윤석 씨 하면 굉장히 센 이미지잖아요 영화들도 세고 또 곽경택 감독님도 굉장히 남성적인 두 센 배우와 센 감독이 만났을 때 과연 현장에서 무슨 일이 벌어졌을까라는 어 한판 붙었죠 처음에 거짓말입니다 이거 왜 진짜 다 갔죠 저제 그런 건 아니고 작업해 보면 김윤석이라는 연기자에 대해서 굉장히 강할 것이다 무서울 것이다 눈도 부리부리하고 하니까 그런 오해들을 하시는데 굉장히 속살이 부드럽습니다 그 제가 전주 조카가 성고 같은 반이야 바로 옆 아닙니까 이번 영화에서 되게 인상적인 장면 중에 하나가 이제 김윤석 씨가 집에서 제 와이프랑 얘기하면서 과자를 먹으면서 발로 또 듣다 또 들었다 그 장면은 철저히 윤석 씨가 다 준비해 온 거예요 제가 쓴 시나리오에 그런 설정은 없었어요 아 그래요 번호판을 가리는 그런 설정 같은 게 윤석 선배가 또 제안을 했다고 하는 얘기가 현장 아이디어입니다 윤석 씨 이제 제작비가 이제 막판에 갈수록 모자라니까 아 아 그냥 의제 갔다 다 없애버리고 촬영 중에 뛰어다니면서 찍었죠 그랬는데 그런 와중에 윤석 씨가 현장에서 보고 있다가 감독님 이거 부산 차인데요 어 그렇네 그랬더니 그럼 공길용이 이거 살짝 가려야 안 됩니까 저만 볼 건데 공형사 공길용 님이 된 거네요 예 그러니까 철저하게 그 그 사람을 살고 있는 거예요 그 순간에도 혹시 김정 편집장님은 인상 깊었던 장면 없으세요 저는 조금 아쉬운 점에 대해서 말씀드리겠습니다 하와이로 갈 생각 범인은 도사가 잡는 게 아니고 형사가 잡는 거다네 그 감이나 그런 것또 같은 감이나 나불 때는 걸로 잡는 게 아니고 수사가 이제 어떤 소신 있는 사람들의 어떤 이야기인데 영화에서 제가 볼 때 가장 아쉬웠던 부분은 그 유해진 씨가 그 소신이라는 것을 대사로 얘기를 할 때 지금 저한테 남은 건 딱 하나 소신 충분히 이제 관객의 입장에서는 이 사람들이 사건을 해결하기 위해서 집착을 하는 어떤 그런 부분들이 굉장히 잘 느껴지고 있는 상황에서 소신이라는 어떤 대사가 딱 나오는 순간 쿨했던 영화가 교훈적이고 설명적인 어떤 그런 느낌을 받았거든요 공감합니다 철저히 왜냐하면 저도 그 장면을 볼 때마다 약간 손이 오그라들거든요 그런 메시지들을 너무 뻔히 보이게 준다는 거는 썩 그렇게 고급스럽지는 못해요 그런데 조금 더 어린 아이들이 혹시 보게 될 경우에 이해가 좀 빠르게 해주고 싶었어요 사회나 이런 거에 덜 성숙한 애들이 볼 때는 좀 이렇게 집어주자 빨간 줄",
+  "movie_id": "극비수사",
+  "reviewer": "조성훈",
+  "chunk_index": 2,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "곽경택",
+      "entity_type": "MOVIE_STAFF",
+      "entity_description": "곽경택은 NYU 출신의 영화 감독으로, '네가 가라 하와이' 등 폭력 세계를 다룬 영화로 알려져 있으며, 의대를 졸업한 이력이 있다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "김윤석",
+      "entity_type": "ACTOR",
+      "entity_description": "김윤석은 강하고 센 이미지의 배우로, 실제로는 부드러운 성격을 가지고 있으며, 현장에서 번호판을 가리는 아이디어 등 캐릭터에 대한 철저한 준비와 제안을 하는 연기자이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "유해진",
+      "entity_type": "ACTOR",
+      "entity_description": "유해진은 영화에서 소신에 대한 대사를 전달하는 역할을 맡은 배우이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "공길용",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "공길용은 부산 출신의 형사 캐릭터로, 김윤석이 연기하며 번호판을 가리는 등 세심한 디테일을 보여주는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "김정",
+      "entity_type": "REVIEWER",
+      "entity_description": "김정은 편집장으로, 영화에 대해 아쉬운 점을 언급하며 리뷰하는 인물이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "곽경택",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "김윤석",
+      "target_type": "ACTOR",
+      "relationship_description": "곽경택 감독과 김윤석 배우가 함께 작업하며 현장에서 협력했다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "김윤석",
+      "source_type": "ACTOR",
+      "target_entity": "공길용",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "김윤석은 공길용 역을 연기하며 캐릭터에 철저히 몰입했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "김정",
+      "source_type": "REVIEWER",
+      "target_entity": "유해진",
+      "target_type": "ACTOR",
+      "relationship_description": "김정 편집장은 유해진의 소신 대사 장면에 대해 아쉬움을 표현했다",
+      "relationship_strength": 7
+    }
+  ],
+  "entity_resolution": {
+    "곽경택": {
+      "description": "곽경택 -> 곽경택",
+      "resolved_name": "곽경택",
+      "entity_type": "MOVIE_STAFF",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "김윤석": {
+      "description": "김윤석 -> 김윤석",
+      "resolved_name": "김윤석",
+      "entity_type": "ACTOR",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "유해진": {
+      "description": "유해진 -> 유해진",
+      "resolved_name": "유해진",
+      "entity_type": "ACTOR",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "공길용": {
+      "description": "공길용 -> 공길용",
+      "resolved_name": "공길용",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "김정": {
+      "description": "김정 -> 김정",
+      "resolved_name": "김정",
+      "entity_type": "REVIEWER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

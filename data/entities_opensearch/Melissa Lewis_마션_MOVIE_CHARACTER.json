@@ -1,0 +1,34 @@
+{
+  "entity": {
+    "name": "Melissa Lewis",
+    "synonym": [
+      "Commander Lewis",
+      "Daniel Day Lewis",
+      "Lewis",
+      "Melissa Lewis",
+      "Tan",
+      "다니엘",
+      "다니엘 데이 루이스",
+      "다니엘 데이루이스",
+      "대니얼 데이 루이스",
+      "데이 루이스",
+      "데이루이스",
+      "루이스",
+      "루이스 대장",
+      "루이스 사령관",
+      "루이스 탄",
+      "루이스 탠",
+      "루이스탄",
+      "멜리사",
+      "멜리사 대장",
+      "멜리사 루이스",
+      "멜리사루이스",
+      "커맨더 루이스",
+      "탄"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "Melissa Lewis은 영화 '마션'의 등장인물로, 제시카 차스테인이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

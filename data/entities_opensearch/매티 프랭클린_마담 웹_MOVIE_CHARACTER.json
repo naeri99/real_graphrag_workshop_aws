@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "매티 프랭클린",
+    "synonym": [
+      "Franklin",
+      "Mattie",
+      "Mattie Franklin",
+      "마티 프랭클린",
+      "매디 프랭클린",
+      "매티",
+      "매티 프랭클린",
+      "매티 프랭클인",
+      "매티프랭클린",
+      "프랭클린",
+      "프랭클린씨"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "매티 프랭클린은 영화 '마담 웹'의 등장인물로, 셀레스트 오코너이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

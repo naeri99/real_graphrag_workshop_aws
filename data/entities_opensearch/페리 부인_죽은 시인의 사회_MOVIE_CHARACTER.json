@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "페리 부인",
+    "synonym": [
+      "Mrs Perry",
+      "Mrs. Perry",
+      "닐 어머니",
+      "닐 엄마",
+      "닐의 어머니",
+      "미세스 페리",
+      "페리 부인",
+      "페리 어머니",
+      "페리부인"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "페리 부인은 영화 '죽은 시인의 사회'의 등장인물로, 칼라 벨버이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

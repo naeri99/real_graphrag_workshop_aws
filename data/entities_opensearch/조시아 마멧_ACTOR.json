@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "조시아 마멧",
+    "synonym": [
+      "Zosia",
+      "Zosia Mamet",
+      "마멧",
+      "조샤 마멧",
+      "조시아",
+      "조시아 마맷",
+      "조시아 마메트",
+      "조시아 마멧",
+      "조시아마멧",
+      "조지아 마멧"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "조시아 마멧은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

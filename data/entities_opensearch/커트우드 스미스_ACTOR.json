@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "커트우드 스미스",
+    "synonym": [
+      "Kurtwood",
+      "Kurtwood Smith",
+      "스미스",
+      "커트 스미스",
+      "커트 우드 스미스",
+      "커트우드",
+      "커트우드 스미스",
+      "커트우드 스미쓰",
+      "커트우드스미스",
+      "커트우드스미쓰"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "커트우드 스미스은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

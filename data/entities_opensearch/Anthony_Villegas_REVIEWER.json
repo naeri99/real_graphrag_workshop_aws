@@ -1,0 +1,13 @@
+{
+  "entity": {
+    "name": "Anthony_Villegas",
+    "synonym": [
+      "Anthony_Villegas",
+      "Anthony Villegas"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "Anthony_Villegas은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

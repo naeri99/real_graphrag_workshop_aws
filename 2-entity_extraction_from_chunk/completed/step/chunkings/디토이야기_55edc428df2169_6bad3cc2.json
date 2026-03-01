@@ -1,0 +1,80 @@
+{
+  "chunk_hash": "55edc428df2169",
+  "chunk_id": "디토이야기_55edc428df2169_6bad3cc2",
+  "user_query": "기대게 됩니다 [음악] 알마 다른 사람의 손길은 모두 거부하고 돌려보내죠 웨딩드레스 수정 작업을 돕던 알마는 안쪽에 숨겨놓은 레이놀즈의 메시지를 발견합니다 [음악] 그 시각 레이놀즈는 죽은 엄마의 환영과 마주하는데 그때 알마가 방으로 들어오고 그녀의 모습에서 엄마를 느끼는 레이놀즈 대상이 [음악] 되어버리죠 레이놀즈는 자신과 다른 알마의 행동에 금세 환멸을 느끼는데 think do [음악] any [음악] myak [음악] 갑갑한 마음에 홀로 집을 나서는 [음악] [박수] [음악] 알마 알마의 일탈은 레이놀즈가 추구해 온 삶에 혼란을 가져다 주죠 설상가상 레이놀즈 의상실에 사람들의 발길이 줄어들고 관습만을 고집하는 그의 감성에서 레이놀즈는 모든 것을 알마에게 떠넘기지만 사실 지금의 몰락이 자신에게서 비롯된 것을 알고 [음악] 있죠 오믈렛을 만드는 [음악] 알마 모든 걸 지켜봤음에도 레이놀즈는 그녀의 요리를 천천히 입에 넣는데 평생 강박적인 삶을 통해 자신의 결핍을 극복해온 레이놀즈는 또 한번 무너지려는 이 순간 알마에게 기대는 것을 선택합니다 I take care of your [음악] dresses and I'm getting [음악] hungry m",
+  "movie_id": "팬텀 스레드",
+  "reviewer": "디토이야기",
+  "chunk_index": 2,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "레이놀즈",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "레이놀즈는 강박적인 삶을 살아온 인물로, 죽은 엄마의 환영을 보며 알마에게서 엄마의 모습을 느끼는 캐릭터이다. 의상실을 운영하며 관습을 고집하는 성향을 가졌다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "알마",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "알마는 레이놀즈의 웨딩드레스 수정 작업을 돕는 인물로, 레이놀즈와 다른 행동을 보이며 그에게 혼란을 가져다 주는 캐릭터이다. 오믈렛을 만들어 레이놀즈를 돌보는 역할을 한다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "레이놀즈의 엄마",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "레이놀즈의 죽은 엄마로, 레이놀즈에게 환영으로 나타나는 인물이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "알마",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "레이놀즈",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "알마는 레이놀즈의 웨딩드레스 작업을 돕고 그를 돌보는 관계이며, 레이놀즈는 알마에게서 엄마의 모습을 느끼고 그녀에게 기대게 된다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "레이놀즈",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "레이놀즈의 엄마",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "레이놀즈는 죽은 엄마의 환영을 보며 그녀에 대한 결핍을 가지고 있다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "알마",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "레이놀즈의 엄마",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "레이놀즈는 알마의 모습에서 죽은 엄마를 느낀다",
+      "relationship_strength": 7
+    }
+  ],
+  "entity_resolution": {
+    "레이놀즈": {
+      "description": "레이놀즈 -> 레이놀즈 우드콕",
+      "resolved_name": "레이놀즈 우드콕",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "알마": {
+      "description": "알마 -> 알마",
+      "resolved_name": "알마",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "레이놀즈의 엄마": {
+      "description": "레이놀즈의 엄마 -> 레이놀즈의 엄마",
+      "resolved_name": "레이놀즈의 엄마",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

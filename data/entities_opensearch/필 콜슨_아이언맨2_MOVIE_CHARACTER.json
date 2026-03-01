@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "필 콜슨",
+    "synonym": [
+      "Phil Coulson",
+      "에이전트 콜슨",
+      "콜슨",
+      "콜슨 요원",
+      "필",
+      "필 콜슨",
+      "필 콜슨 요원",
+      "필콜슨"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "필 콜슨은 영화 '아이언맨2'의 등장인물로, 클라크 그레그이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

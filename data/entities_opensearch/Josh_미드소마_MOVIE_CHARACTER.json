@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "Josh",
+    "synonym": [
+      "Josh",
+      "스튜어트",
+      "조쉬",
+      "조쉬 스튜어트",
+      "조쉬스튜어트",
+      "조슈아",
+      "조시",
+      "조시 스튜어트",
+      "죠쉬",
+      "죠시"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "Josh은 영화 '미드소마'의 등장인물로, 윌리암 잭슨 하퍼이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

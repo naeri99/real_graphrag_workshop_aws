@@ -1,0 +1,13 @@
+{
+  "entity": {
+    "name": "출발_비디오여행_-_MBC_공식_채널",
+    "synonym": [
+      "출발_비디오여행_-_MBC_공식_채널",
+      "출발 비디오여행 - MBC 공식 채널"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "출발_비디오여행_-_MBC_공식_채널은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

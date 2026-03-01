@@ -1,0 +1,24 @@
+{
+  "entity": {
+    "name": "아이슬란드 대학교 경제학 교수",
+    "synonym": [
+      "Iceland Economics Professor",
+      "Iceland Professor",
+      "Iceland University Economics Professor",
+      "Iceland University Professor",
+      "경제학 교수",
+      "아이슬란드 경제학 교수",
+      "아이슬란드 경제학자",
+      "아이슬란드 교수",
+      "아이슬란드 대학 교수",
+      "아이슬란드 대학교 경제학 교수",
+      "아이슬란드대 교수",
+      "아이슬란드대학교 경제학교수",
+      "아이슬란드대학교 교수"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "아이슬란드 대학교 경제학 교수은 영화 '인사이드 잡'의 등장인물로, 길피 조에가이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "Sir Bernard Pellegrin",
+    "synonym": [
+      "Sir Bernard Pellegrin",
+      "버나드",
+      "버나드 경",
+      "버나드 펠레그린",
+      "버나드 펠레그린 경",
+      "버나드경",
+      "버나드펠레그린",
+      "베르나르 펠레그린",
+      "펠레그린",
+      "펠레그린 경"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "Sir Bernard Pellegrin은 영화 '콘스탄트 가드너'의 등장인물로, 빌 나이이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

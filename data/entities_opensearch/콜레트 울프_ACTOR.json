@@ -1,0 +1,18 @@
+{
+  "entity": {
+    "name": "콜레트 울프",
+    "synonym": [
+      "Collette Wolfe",
+      "울프",
+      "콜레트",
+      "콜레트 울프",
+      "콜레트울프",
+      "콜렛 울프",
+      "콜렛울프"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "콜레트 울프은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "Natalya",
+    "synonym": [
+      "Natalia",
+      "Natalya",
+      "나타샤",
+      "나탈랴",
+      "나탈리",
+      "나탈리아",
+      "나탈리야",
+      "나탈야"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "Natalya은 영화 '호스텔'의 등장인물로, 바바라 네델야코바이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

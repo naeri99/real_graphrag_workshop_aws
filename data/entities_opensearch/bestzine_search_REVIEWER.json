@@ -1,0 +1,13 @@
+{
+  "entity": {
+    "name": "bestzine_search",
+    "synonym": [
+      "bestzine_search",
+      "bestzine search"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "bestzine_search은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

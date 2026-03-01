@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "로크웰",
+    "synonym": [
+      "CIA 로크",
+      "CIA 요원",
+      "CIA 요원 로크웰",
+      "Locke",
+      "락웰",
+      "로크",
+      "로크 요원",
+      "로크웰",
+      "로크웰 요원",
+      "록웰",
+      "록크웰"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "로크웰은 영화 '홉스앤쇼'의 등장인물로, 라이언 레이놀즈이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

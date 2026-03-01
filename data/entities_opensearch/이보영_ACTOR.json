@@ -1,0 +1,17 @@
+{
+  "entity": {
+    "name": "이보영",
+    "synonym": [
+      "Lee Bo-young",
+      "보영",
+      "이 보영",
+      "이보영",
+      "이보영 배우",
+      "이보영씨"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "이보영은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

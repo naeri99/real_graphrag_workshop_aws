@@ -1,0 +1,49 @@
+{
+  "chunk_hash": "8646e9808ac951",
+  "chunk_id": "유캔프리_UCANFREE_8646e9808ac951_e502e8d7",
+  "user_query": "of time here wherever he is I bet he knows how you feel wherever he is I bet he knows how you feel wherever he is I bet he knows how you feel wherever he is I bet he knows how you feel wherever he is I bet he knows how you feel Ian death doesn't put an end to love Ian death doesn't put an end to love Ian death doesn't put an end to love Ian death doesn't put an end to love Ian death doesn't put an end to love why didn't you ever tell me any of this why didn't you ever tell me any of this why didn't you ever tell me any of this why didn't you ever tell me any of this why didn't you ever tell me any of this I am so glad we're here I am so glad we're here I am so glad we're here I am so glad we're here I am so glad we're here let's see I've been playing violin for 16 years let's see I've been playing violin for 16 years let's see I've been playing violin for 16 years let's see I've been playing violin for 16 years let's see I've been playing violin for 16 years I've been studying for three years I'm getting ready to graduate from one of the finest music schools in London I've been studying for three years I'm getting ready to graduate from one of the finest music schools in London I've been studying for three years I'm getting ready to graduate from one of the finest music schools in London I've been studying for three years I'm getting ready to graduate from one of the finest music schools in London I've been studying for three years I'm getting ready to graduate from one of",
+  "movie_id": "이프 온리",
+  "reviewer": "유캔프리_UCANFREE",
+  "chunk_index": 33,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "IAN",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Ian은 대화 속에서 언급되는 인물로, 죽음과 사랑에 대한 이야기의 대상이 되는 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "UNNAMED SPEAKER",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "이름이 밝혀지지 않은 화자로, 16년간 바이올린을 연주해왔고 런던의 유명 음악학교에서 3년간 공부하며 졸업을 앞두고 있는 인물이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "UNNAMED SPEAKER",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "IAN",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "화자가 Ian에게 죽음이 사랑을 끝내지 않는다고 말하며, 두 인물 사이에 감정적 유대가 있음을 보여준다",
+      "relationship_strength": 7
+    }
+  ],
+  "entity_resolution": {
+    "IAN": {
+      "description": "IAN -> IAN",
+      "resolved_name": "IAN",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "UNNAMED SPEAKER": {
+      "description": "UNNAMED SPEAKER -> UNNAMED SPEAKER",
+      "resolved_name": "UNNAMED SPEAKER",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "프랭크의 계부",
+    "synonym": [
+      "Frank's Stepfather",
+      "계부",
+      "스텝파더",
+      "프랭크 계부",
+      "프랭크 의붓아버지",
+      "프랭크계부",
+      "프랭크의 계부",
+      "프랭크의계부"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "프랭크의 계부은 영화 '데스티네이션 웨딩'의 등장인물로, 그렉 루시이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

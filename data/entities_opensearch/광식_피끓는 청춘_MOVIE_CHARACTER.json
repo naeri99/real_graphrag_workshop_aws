@@ -1,0 +1,26 @@
+{
+  "entity": {
+    "name": "광식",
+    "synonym": [
+      "Gwang-sik",
+      "Gwangsik",
+      "Kwang-sik",
+      "Kwangsik",
+      "광 식",
+      "광시기",
+      "광식",
+      "광식 역",
+      "광식 캐릭터",
+      "광식아",
+      "광식이",
+      "김광식",
+      "김영광 광식",
+      "박광식",
+      "이광식"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "광식은 영화 '피끓는 청춘'의 등장인물로, 김영광이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

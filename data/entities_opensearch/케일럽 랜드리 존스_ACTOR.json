@@ -1,0 +1,26 @@
+{
+  "entity": {
+    "name": "케일럽 랜드리 존스",
+    "synonym": [
+      "Caleb",
+      "Caleb Jones",
+      "Caleb Landry Jones",
+      "랜드리 존스",
+      "칼렙",
+      "칼렙 랜드리 존스",
+      "칼렙 존스",
+      "캘럽 랜드리 존스",
+      "캘럽 존스",
+      "케일럽",
+      "케일럽 랜드리",
+      "케일럽 랜드리 존스",
+      "케일럽 랜드리존스",
+      "케일럽 존스",
+      "케일럽랜드리존스"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "케일럽 랜드리 존스은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

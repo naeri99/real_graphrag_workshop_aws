@@ -1,0 +1,13 @@
+{
+  "entity": {
+    "name": "정신과의사_뇌부자들",
+    "synonym": [
+      "정신과의사_뇌부자들",
+      "정신과의사 뇌부자들"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "정신과의사_뇌부자들은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

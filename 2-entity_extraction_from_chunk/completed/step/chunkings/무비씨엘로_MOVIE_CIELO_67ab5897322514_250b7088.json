@@ -1,0 +1,155 @@
+{
+  "chunk_hash": "67ab5897322514",
+  "chunk_id": "무비씨엘로_MOVIE_CIELO_67ab5897322514_250b7088",
+  "user_query": "potatoes so now it's time to reap and re-sow they grew even better than I expected I know what I'm gonna do oh he's moving again there's nothing out there except for the Aries 4 site what does he need at the Aries 4 site a map yeah okay so where's the hab location uh 31.2 degrees north 28.5 degrees west where's Watney uh okay [Music] okay I know where he's going I need to get on an airplane [Music] what are the chances of Pathfinder working again it's hard to say we lost contact in 97. you think it was battery failure is this the replica this is her okay let's see it that's fine [Music] foreign [Music] okay uh camera [Music] you're taking a panoramic image now are you receiving me yes no okay point the camera yes yes so here's the rub somehow we have to have complex astrophysical engineering conversations using equipment from 1996 I figured one of you guys kept an ASCII table lying around I was right I know where he's going with this [Music] [Music] [Music] now that we can have more complicated conversations the smart people at NASA have sent me instructions on how to hack the Rover so that it can talk to Pathfinder how's the crew what did they say when they found out I was alive foreign we haven't told the crew you're alive yet we need them to concentrate on their mission what the [ __ ] [ __ ] in German [ __ ] [ __ ] again the problem is Mark's right the longer we wait the worse it's going to get we need to tell the crew you're bringing this up while Vincent is in Pasadena",
+  "movie_id": "마션",
+  "reviewer": "무비씨엘로_MOVIE_CIELO",
+  "chunk_index": 5,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "MARK WATNEY",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "마크 와트니는 화성에 홀로 남겨진 우주비행사로, 감자를 재배하고 Pathfinder를 이용해 NASA와 통신을 시도하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "PATHFINDER",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "패스파인더는 1997년에 통신이 끊긴 NASA의 화성 탐사 장비로, 와트니가 NASA와 통신하기 위해 사용한다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "NASA",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "NASA는 와트니의 생존을 확인하고 그와 통신하며 로버 해킹 방법을 전송하는 우주 기관이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "ARIES 4",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "아리스 4는 화성의 특정 사이트로, 와트니가 향하는 목적지이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "VINCENT",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "빈센트는 NASA 관계자로 파사데나에 있는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "THE MARTIAN",
+      "entity_type": "MOVIE",
+      "entity_description": "마션은 화성에 홀로 남겨진 우주비행사의 생존기를 다룬 SF 영화이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "MARK WATNEY",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "THE MARTIAN",
+      "target_type": "MOVIE",
+      "relationship_description": "마크 와트니는 마션의 주인공이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "MARK WATNEY",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "PATHFINDER",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "와트니는 패스파인더를 이용해 NASA와 통신을 시도한다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "MARK WATNEY",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "NASA",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "와트니는 NASA와 패스파인더를 통해 통신하며, NASA는 그의 생존을 확인했다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "MARK WATNEY",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "ARIES 4",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "와트니는 아리스 4 사이트로 이동하고 있다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "NASA",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "PATHFINDER",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "NASA는 패스파인더의 복제품을 보유하고 있으며 이를 통해 와트니와 통신한다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "VINCENT",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "NASA",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "빈센트는 NASA 소속으로 파사데나에서 근무한다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "NASA",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "THE MARTIAN",
+      "target_type": "MOVIE",
+      "relationship_description": "NASA는 마션에서 와트니 구출 작전을 수행하는 기관이다",
+      "relationship_strength": 9
+    }
+  ],
+  "entity_resolution": {
+    "MARK WATNEY": {
+      "description": "MARK WATNEY -> MARK WATNEY",
+      "resolved_name": "MARK WATNEY",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "PATHFINDER": {
+      "description": "PATHFINDER -> PATHFINDER",
+      "resolved_name": "PATHFINDER",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "NASA": {
+      "description": "NASA -> NASA",
+      "resolved_name": "NASA",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "ARIES 4": {
+      "description": "ARIES 4 -> ARIES 4",
+      "resolved_name": "ARIES 4",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "VINCENT": {
+      "description": "VINCENT -> VINCENT",
+      "resolved_name": "VINCENT",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "THE MARTIAN": {
+      "description": "THE MARTIAN -> THE MARTIAN",
+      "resolved_name": "THE MARTIAN",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "chunk_hash": "7d11c9b39ce66e",
+  "chunk_id": "B_Man_삐맨_7d11c9b39ce66e_6d7b028e",
+  "user_query": "한국에서 전 세계 최초 개봉을 하고 엄청 긍정적인 반응을 얻고 있는 에이리언 로물루스. 오늘은 영화의 시간 순서에 맞춰 이 영화 자체와 과거 작품들과의 연결고리까지 담은 비하인드와 떡밥을 총정리해 보려고 합니다. 다음으로 로물루스는 에이리언 획득에 미쳐 있는 회사 웨이랜드 유타니가 에이리언의 고치처럼 보이는 무엇인가를 획득하는 장면으로 시작되는데 이 과정에서 그들이 방문하는 우주의 구역 이름은 제타투 레티쿨리라고 표현되었고 이는 에이리언 1편에서 언급되었던 구역이자 당시 노스트로모가 자폭한 구역이기도 한데 즉 명불허전 웨이랜드 유타니 답게 노스트로모호의 신호가 끊긴 곳을 추적한 끝에 죽은 승무원들을 어떻게 찾아볼 생각도 하지 않고 역시나 에이리언의 흔적부터 찾은 것이고 기어이 획득한 것입니다. 이후 영화는 지구로부터 65광년 떨어진 잭슨의 별이라는 이름의 행성으로 넘어가는데 이렇게 인간들이 외계 행성에서 대규모 사회를 이룩해 거주하는 모습은 놀랍게도 에이리언 시리즈에선 처음으로 제대로 보여준 것으로 지구가 아닌 다른 환경에 얼마나 살기 척박한지 또 웨이랜드 유타니가 얼마나 사람들을 노동자로 갈아놓고 있는지를 보여주는 아주 좋은 예시였습니다. 페데 알바레즈 감독은 이런 설정들의 근간은 에이리언 2의 삭제 장면을 살펴보던 중 아이들이 식민지 건설 현장에서 노는 모습을 보고 저 아이들이 20대가 되었을 때 이야기를 그려보면 어떨까라는 생각을 했고 이런 아이디어가 반영되어 이번 작품의 주인공들이 20대 초반으로 구성된 것이었습니다. 이후 수면 장치를 획득하기 위해 주인공들은 르네상스호로 향하게 되는데 개인적으로 우주선 곳곳을 보며 매우 놀랄 수밖에 없었던 게 2014년 게임 에이리언 아이솔레이션에 정말 많은 요소들을 발견할 수 있다는 것이었습니다. 레버를 아래로 당겨서 일시적으로 전원을 공급하는 발전기. 이렇게 나선형으로 닫히고 열리는 문의 형상. 심지어 이머전시라고 적혀 있는 전화기도 있었는데 게임에선 플레이어가 현재 진행한 부분까지 저장할 수 있는 세이브 포인트였지만 보통 이 세이브 포인트 이후에 에이리언이 등장하는 위험한 상황들이 자주 펼쳐지기 때문에 감독님은 이 전화기가 게임의 떡밥이자 긴장감을 유도하기 위한 장치였다고 밝혔습니다. 심지어 난장판이 된 기지 곳곳의 분위기나 비주얼도 게임과 유사한 부분들이 굉장히 많은데 이는 감독님이 해당 게임을 너무 재밌게 했을 뿐 아니라 에이리언 영화가 이 게임의 분위기로 제작된다면 얼마나 무서울까를 감독으로 결정되기 한참 전부터 꿈꿔왔다고 하니 이런 점들이 영화에 적극 반영된 것입니다. 이후 주인공들은 유일한 안드로이드인 Andy의 도움으로 우주선의 운영 체제인 마더에 접속 성공하고 부팅이 시작될 때 마더 9,000이라는 버전의 이름이 뜨는데 이는 에이리언 1편 당시 노스트로모호에서 사용된 마더 6000에서 업그레이드된 것으로 1편으로부터 20년이 지났다는 설정이기 때문에 마치 윈도우 XP에서 11로 업그레이드된 것처럼 마더의 운영 체제도 시간이 지남에 따라 업그레이드가 있었던 것입니다. 이후",
+  "movie_id": "에이리언 로물",
+  "reviewer": "B_Man_삐맨",
+  "chunk_index": 1,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "에이리언 로물루스",
+      "entity_type": "MOVIE",
+      "entity_description": "에이리언 로물루스는 한국에서 전 세계 최초 개봉하여 긍정적인 반응을 얻은 에이리언 시리즈의 영화로, 20대 초반 주인공들이 르네상스호에서 수면 장치를 획득하려는 이야기를 다룬다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "에이리언 1",
+      "entity_type": "MOVIE",
+      "entity_description": "에이리언 1편은 제타투 레티쿨리 구역과 노스트로모호가 등장하는 에이리언 시리즈의 첫 번째 작품이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "에이리언 2",
+      "entity_type": "MOVIE",
+      "entity_description": "에이리언 2는 식민지 건설 현장에서 아이들이 노는 삭제 장면이 있는 에이리언 시리즈의 두 번째 작품이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "에이리언 아이솔레이션",
+      "entity_type": "MOVIE",
+      "entity_description": "에이리언 아이솔레이션은 2014년에 출시된 게임으로, 발전기, 나선형 문, 세이브 포인트 전화기 등의 요소가 특징이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "페데 알바레즈",
+      "entity_type": "MOVIE_STAFF",
+      "entity_description": "페데 알바레즈는 에이리언 로물루스의 감독으로, 에이리언 2의 삭제 장면에서 영감을 받아 20대 초반 주인공들의 이야기를 구상했으며, 에이리언 아이솔레이션 게임을 즐겨 플레이하고 그 분위기를 영화에 반영했다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "ANDY",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Andy는 에이리언 로물루스의 유일한 안드로이드 캐릭터로, 주인공들이 우주선 운영 체제 마더에 접속하는 것을 도와준다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "페데 알바레즈",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "에이리언 로물루스",
+      "target_type": "MOVIE",
+      "relationship_description": "페데 알바레즈는 에이리언 로물루스를 감독했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "에이리언 로물루스",
+      "source_type": "MOVIE",
+      "target_entity": "에이리언 1",
+      "target_type": "MOVIE",
+      "relationship_description": "에이리언 로물루스는 에이리언 1편의 제타투 레티쿨리 구역과 노스트로모호 설정을 연결고리로 활용한다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "에이리언 로물루스",
+      "source_type": "MOVIE",
+      "target_entity": "에이리언 2",
+      "target_type": "MOVIE",
+      "relationship_description": "에이리언 로물루스의 20대 초반 주인공 설정은 에이리언 2의 삭제 장면에서 영감을 받았다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "에이리언 로물루스",
+      "source_type": "MOVIE",
+      "target_entity": "에이리언 아이솔레이션",
+      "target_type": "MOVIE",
+      "relationship_description": "에이리언 로물루스는 에이리언 아이솔레이션 게임의 발전기, 나선형 문, 전화기 등 많은 요소들을 영화에 반영했다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "페데 알바레즈",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "에이리언 아이솔레이션",
+      "target_type": "MOVIE",
+      "relationship_description": "페데 알바레즈 감독은 에이리언 아이솔레이션 게임을 즐겨 플레이했으며 그 분위기로 영화를 만들고 싶어했다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "페데 알바레즈",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "에이리언 2",
+      "target_type": "MOVIE",
+      "relationship_description": "페데 알바레즈 감독은 에이리언 2의 삭제 장면을 보고 에이리언 로물루스의 아이디어를 얻었다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "ANDY",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "에이리언 로물루스",
+      "target_type": "MOVIE",
+      "relationship_description": "Andy는 에이리언 로물루스에 등장하는 안드로이드 캐릭터이다",
+      "relationship_strength": 10
+    }
+  ],
+  "entity_resolution": {
+    "에이리언 로물루스": {
+      "description": "에이리언 로물루스 -> 에이리언 로물",
+      "resolved_name": "에이리언 로물",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "에이리언 1": {
+      "description": "에이리언 1 -> 에이리언 1",
+      "resolved_name": "에이리언 1",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "에이리언 2": {
+      "description": "에이리언 2 -> 에이리언 2",
+      "resolved_name": "에이리언 2",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "에이리언 아이솔레이션": {
+      "description": "에이리언 아이솔레이션 -> 에이리언 아이솔레이션",
+      "resolved_name": "에이리언 아이솔레이션",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "페데 알바레즈": {
+      "description": "페데 알바레즈 -> 페데 알바레즈",
+      "resolved_name": "페데 알바레즈",
+      "entity_type": "MOVIE_STAFF",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "ANDY": {
+      "description": "ANDY -> ANDY",
+      "resolved_name": "ANDY",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

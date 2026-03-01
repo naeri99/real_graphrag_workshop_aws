@@ -1,0 +1,17 @@
+{
+  "entity": {
+    "name": "내쉬",
+    "synonym": [
+      "Nash",
+      "나쉬",
+      "내쉬",
+      "내쉬씨",
+      "내시",
+      "네쉬"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "내쉬은 영화 '인셉션'의 등장인물로, 루카스 하스이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

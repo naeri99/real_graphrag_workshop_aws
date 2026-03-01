@@ -1,0 +1,13 @@
+{
+  "entity": {
+    "name": "작은_사장",
+    "synonym": [
+      "작은_사장",
+      "작은 사장"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "작은_사장은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

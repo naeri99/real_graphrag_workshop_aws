@@ -1,0 +1,13 @@
+{
+  "entity": {
+    "name": "멘탈탄탄_정신과의사의_멘탈_관리_채널",
+    "synonym": [
+      "멘탈탄탄_정신과의사의_멘탈_관리_채널",
+      "멘탈탄탄 정신과의사의 멘탈 관리 채널"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "멘탈탄탄_정신과의사의_멘탈_관리_채널은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

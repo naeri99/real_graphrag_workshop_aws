@@ -1,0 +1,68 @@
+{
+  "movie_title": "매치스틱맨",
+  "director": [
+    {
+      "name": "리들리 스콧",
+      "name_en": "Ridley Scott"
+    }
+  ],
+  "cast": [
+    {
+      "actor": "니콜라스 케이지",
+      "actor_en": "Nicolas Cage",
+      "character": "로이 월러"
+    },
+    {
+      "actor": "샘 록웰",
+      "actor_en": "Sam Rockwell",
+      "character": "프랭크 머서"
+    },
+    {
+      "actor": "앨리슨 로먼",
+      "actor_en": "Alison Lohman",
+      "character": "안젤라"
+    },
+    {
+      "actor": "브루스 알트만",
+      "actor_en": "Bruce Altman",
+      "character": "해리스 클라인 박사"
+    },
+    {
+      "actor": "브루스 맥길",
+      "actor_en": "Bruce McGill",
+      "character": "척 프레셰트"
+    },
+    {
+      "actor": "제니 오하라",
+      "actor_en": "Jenny O'Hara",
+      "character": "샤퍼 부인"
+    },
+    {
+      "actor": "스티브 이스틴",
+      "actor_en": "Steve Eastin",
+      "character": "샤퍼 씨"
+    },
+    {
+      "actor": "베스 그랜트",
+      "actor_en": "Beth Grant",
+      "character": "세탁소 아줌마"
+    },
+    {
+      "actor": "쉴라 켈리",
+      "actor_en": "Sheila Kelley",
+      "character": "캐시"
+    },
+    {
+      "actor": "멜로라 월터스",
+      "actor_en": "Melora Walters",
+      "character": "헤더"
+    }
+  ],
+  "review": [
+    "./data/review/매치스틱맨/매치스틱맨_JMGHGKuIibo.json",
+    "./data/review/매치스틱맨/매치스틱맨_TvGC-0SaaSc.json",
+    "./data/review/매치스틱맨/매치스틱맨_ZekoptcamII.json",
+    "./data/review/매치스틱맨/매치스틱맨_lFHkYTrzA5w.json",
+    "./data/review/매치스틱맨/매치스틱맨_uLutekqAask.json"
+  ]
+}

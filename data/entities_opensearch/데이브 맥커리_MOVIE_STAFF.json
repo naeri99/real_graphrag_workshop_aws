@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "데이브 맥커리",
+    "synonym": [
+      "Dave",
+      "Dave McCary",
+      "Dave McCary 감독",
+      "데이브",
+      "데이브 맥캐리",
+      "데이브 맥커리",
+      "데이브맥커리",
+      "맥커리"
+    ],
+    "entity_type": "MOVIE_STAFF",
+    "summary": "데이브 맥커리은 영화 감독입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

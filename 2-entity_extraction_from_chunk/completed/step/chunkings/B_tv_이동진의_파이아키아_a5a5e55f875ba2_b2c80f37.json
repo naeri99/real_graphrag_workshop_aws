@@ -1,0 +1,115 @@
+{
+  "chunk_hash": "a5a5e55f875ba2",
+  "chunk_id": "B_tv_이동진의_파이아키아_a5a5e55f875ba2_b2c80f37",
+  "user_query": "중요하기 때문에 이런 부분도 어 라일리의 심리를 핵심적인 감정으로 다루는 영화의 어떤 기본 착점을 생각한다면 굉장히 잘 묘사된 부분이라고 생각할 수 있죠 자 오늘 인사이드 아웃 2 얘기하시면서 또 다양한 영화들 소개해 주셨는데 어떤 걸 특별히 추천 뭐 당연히 많이 보셨겠지만 인사이드 아웃 1편 오리지널을 먼저 한번 어 보셨으면 좋겠다 추천을 드리고 못 보셨다면 혹은 또 다시 한번 즐기기 위해서 그리고 인사이드 아웃처럼 이후의 추상적인 세계를 너무 잘 묘사한 두 작품 있잖아요 아까 말씀드린 소울 그다음에 바로 작년에 나왔던 엘리멘탈 이 두 작품도 여러분께 함께 추천드리겠습니다 네 BTV 모바일 BTV 보실 수 있습니다 감사합니다 고맙습니다 영상 재밌게 보셨나요 여기 클릭하시면 제작에 큰 도움이 됩니다 안녕",
+  "movie_id": "인사이드 아웃 2",
+  "reviewer": "B_tv_이동진의_파이아키아",
+  "chunk_index": 13,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "인사이드 아웃 2",
+      "entity_type": "MOVIE",
+      "entity_description": "인사이드 아웃 2는 라일리의 심리와 핵심적인 감정을 다루는 영화이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "인사이드 아웃",
+      "entity_type": "MOVIE",
+      "entity_description": "인사이드 아웃은 인사이드 아웃 2의 오리지널 1편으로, 추상적인 세계를 잘 묘사한 작품이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "소울",
+      "entity_type": "MOVIE",
+      "entity_description": "소울은 인사이드 아웃처럼 추상적인 세계를 잘 묘사한 작품이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "엘리멘탈",
+      "entity_type": "MOVIE",
+      "entity_description": "엘리멘탈은 작년에 나온 영화로, 추상적인 세계를 잘 묘사한 작품이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "라일리",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "라일리는 인사이드 아웃 2에서 심리와 감정이 핵심적으로 다뤄지는 주인공이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "라일리",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "인사이드 아웃 2",
+      "target_type": "MOVIE",
+      "relationship_description": "라일리는 인사이드 아웃 2의 주인공으로 그녀의 심리가 영화의 핵심이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "인사이드 아웃 2",
+      "source_type": "MOVIE",
+      "target_entity": "인사이드 아웃",
+      "target_type": "MOVIE",
+      "relationship_description": "인사이드 아웃 2는 인사이드 아웃의 후속작이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "인사이드 아웃",
+      "source_type": "MOVIE",
+      "target_entity": "소울",
+      "target_type": "MOVIE",
+      "relationship_description": "두 작품 모두 추상적인 세계를 잘 묘사한 작품으로 함께 추천되었다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "인사이드 아웃",
+      "source_type": "MOVIE",
+      "target_entity": "엘리멘탈",
+      "target_type": "MOVIE",
+      "relationship_description": "두 작품 모두 추상적인 세계를 잘 묘사한 작품으로 함께 추천되었다",
+      "relationship_strength": 7
+    }
+  ],
+  "entity_resolution": {
+    "인사이드 아웃 2": {
+      "description": "인사이드 아웃 2 -> 인사이드 아웃 2",
+      "resolved_name": "인사이드 아웃 2",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "인사이드 아웃": {
+      "description": "인사이드 아웃 -> 인사이드 아웃 2",
+      "resolved_name": "인사이드 아웃 2",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "소울": {
+      "description": "소울 -> 소울",
+      "resolved_name": "소울",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "엘리멘탈": {
+      "description": "엘리멘탈 -> 엘리멘탈",
+      "resolved_name": "엘리멘탈",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "라일리": {
+      "description": "라일리 -> 라일리",
+      "resolved_name": "라일리",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    }
+  }
+}

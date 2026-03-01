@@ -1,0 +1,24 @@
+{
+  "entity": {
+    "name": "택시운전사",
+    "synonym": [
+      "A Taxi Driver",
+      "Taxi Driver",
+      "더 택시 운전사",
+      "어 택시 드라이버",
+      "택시 드라이버",
+      "택시 운전사",
+      "택시기사",
+      "택시드라이버",
+      "택시운전 사",
+      "택시운전사",
+      "택시운전사 2017",
+      "택시운전사 영화",
+      "택운"
+    ],
+    "entity_type": "MOVIE",
+    "summary": "택시운전사",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

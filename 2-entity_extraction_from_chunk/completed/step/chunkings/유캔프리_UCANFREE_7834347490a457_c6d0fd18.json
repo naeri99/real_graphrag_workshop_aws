@@ -1,0 +1,39 @@
+{
+  "chunk_hash": "7834347490a457",
+  "chunk_id": "유캔프리_UCANFREE_7834347490a457_c6d0fd18",
+  "user_query": "deal with it okay and we'll deal with it okay and we'll deal with it okay Claire can I ask you a question Claire can I ask you a question Claire can I ask you a question Claire can I ask you a question Claire can I ask you a question did you ever have a dream and the next day Everything feels familiar did you ever have a dream and the next day Everything feels familiar did you ever have a dream and the next day Everything feels familiar did you ever have a dream and the next day Everything feels familiar did you ever have a dream and the next day Everything feels familiar Ian I believe dreams are very important they should be listened to Ian I believe dreams are very important they should be listened to Ian I believe dreams are very important they should be listened to Ian I believe dreams are very important they should be listened to Ian I believe dreams are very important they should be listened to what if she doesn't get in the cab what if she doesn't get in the cab what if she doesn't get in the cab what if she doesn't get in the cab what if she doesn't get in the cab what if I take her out of London what if I take her out of London what if I take her out of London what if I take her out of London what if I take her out of London maybe if we stay in the apartment maybe if we stay in the apartment maybe if we stay in the apartment maybe if we stay in the apartment maybe if we stay in the apartment tell me what can I do there must be something I can do tell me what can I",
+  "movie_id": "이프 온리",
+  "reviewer": "유캔프리_UCANFREE",
+  "chunk_index": 25,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "CLAIRE",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Claire는 Ian과 대화를 나누는 인물로, 꿈에 대한 질문을 받는 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "IAN",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Ian은 꿈과 데자뷰에 대해 고민하며, 꿈이 중요하고 경청해야 한다고 믿는 인물이다"
+    }
+  ],
+  "relationships": [],
+  "entity_resolution": {
+    "CLAIRE": {
+      "description": "CLAIRE -> CLAIRE",
+      "resolved_name": "CLAIRE",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "IAN": {
+      "description": "IAN -> IAN",
+      "resolved_name": "IAN",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

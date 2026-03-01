@@ -1,0 +1,49 @@
+{
+  "chunk_hash": "de5807cd31e68f",
+  "chunk_id": "렛잇무비_de5807cd31e68f_07708799",
+  "user_query": "idea this is the one [Music] will [Music] professor calls about that job just tell them sorry i had to go see about a girl [Music]",
+  "movie_id": "굿윌헌팅",
+  "reviewer": "렛잇무비",
+  "chunk_index": 5,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "PROFESSOR",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "교수는 주인공에게 일자리에 대해 전화하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "GIRL",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "주인공이 만나러 가야 하는 여성 인물이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "PROFESSOR",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "GIRL",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "교수의 전화를 거절하고 여자를 만나러 가는 상황으로 연결된다",
+      "relationship_strength": 5
+    }
+  ],
+  "entity_resolution": {
+    "PROFESSOR": {
+      "description": "PROFESSOR -> PROFESSOR",
+      "resolved_name": "PROFESSOR",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "GIRL": {
+      "description": "GIRL -> GIRL",
+      "resolved_name": "GIRL",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

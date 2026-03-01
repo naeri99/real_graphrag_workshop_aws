@@ -1,0 +1,80 @@
+{
+  "chunk_hash": "315122f10c51ce",
+  "chunk_id": "Popcorn_Coke_Review_315122f10c51ce_6d89a598",
+  "user_query": "줄스 그리고 가스가 들어오는 버스에 앉아 있던 그녀는 기절하게 되죠 가만히 앉아서 죽기만을 기다릴 수 없었던 멜은 주먹으로 거울을 부수게 되고 소리를 듣고 나타난 버스 기사 남자가 원하는 게 자신의 몸이라는 사실을 깨달은 멜은 부서진 유리조각을 들고 버스기사를 협박하는데 남자와 몸싸움이 벌어지게 됩니다 제빨리 총을 주워서 리볼버를 장전하는 멜 그렇게 남자를 쓰러뜨리게 되죠 하지만 죽지 않은 남자는 멜을 나무 상자에 넣어버리고 [음악] [음악] 약간의 식량과 물이 들어 있던 나무 상자는 알 수 없는 곳으로 배달되면서 영화는 끝나게 됩니다 실제 일어나고 있는 인신매매 사건을 바탕으로 만들어진 미쳐버린 스릴러 영화 셔틀을 추천하면서 이번 영화 소개 영상을 [음악] 마치겠습니다 Ah",
+  "movie_id": "미드나잇 런",
+  "reviewer": "Popcorn_Coke_Review",
+  "chunk_index": 2,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "멜",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "멜은 버스에서 가스에 의해 기절한 후 납치되어 인신매매 위기에 처한 여성으로, 거울을 부수고 버스 기사를 협박하며 탈출을 시도하지만 결국 나무 상자에 갇혀 알 수 없는 곳으로 배달되는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "버스 기사",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "버스 기사는 멜을 납치하여 성적으로 착취하려 했으며, 멜과의 몸싸움 끝에 총에 맞았지만 죽지 않고 멜을 나무 상자에 가두는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "셔틀",
+      "entity_type": "MOVIE",
+      "entity_description": "셔틀은 실제 일어나고 있는 인신매매 사건을 바탕으로 만들어진 스릴러 영화이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "멜",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "셔틀",
+      "target_type": "MOVIE",
+      "relationship_description": "멜은 셔틀의 주인공으로 인신매매 피해자가 되는 인물이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "버스 기사",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "셔틀",
+      "target_type": "MOVIE",
+      "relationship_description": "버스 기사는 셔틀에서 멜을 납치하는 악역이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "멜",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "버스 기사",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "멜은 버스 기사에게 납치되어 탈출을 시도하지만 결국 제압당한다",
+      "relationship_strength": 9
+    }
+  ],
+  "entity_resolution": {
+    "멜": {
+      "description": "멜 -> 맬",
+      "resolved_name": "맬",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "버스 기사": {
+      "description": "버스 기사 -> 버스 기사",
+      "resolved_name": "버스 기사",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "셔틀": {
+      "description": "셔틀 -> 셔틀",
+      "resolved_name": "셔틀",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

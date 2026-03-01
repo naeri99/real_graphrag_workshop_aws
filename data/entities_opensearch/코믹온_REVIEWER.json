@@ -1,0 +1,12 @@
+{
+  "entity": {
+    "name": "코믹온",
+    "synonym": [
+      "코믹온"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "코믹온은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

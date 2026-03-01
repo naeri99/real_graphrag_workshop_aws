@@ -1,0 +1,208 @@
+{
+  "chunk_hash": "12e9487fd209b9",
+  "chunk_id": "집구석_주댕이들_12e9487fd209b9_39ea6a43",
+  "user_query": "바삐 병원을 빠져나가는 사이 조커가 간호사 복장을 하고 하비를 찾아갑니다 그리고 그에게 궤변을 늘어놓으며 결국 그를 타락시키고 말죠 약속 그대로 조커는 병원을 통째로 날려버린 뒤 버스 안에 납치한 조커 된 시민에게 메시지를 전달합니다 고담시의 모든 다리를 폭파시켜 버리겠다는 위협이죠 한편 타락한 투 페이스의 사냥이 시작됩니다 그의 인생을 망쳐버린 모든 이들을 찾아가 복수를 시작하죠 이제 라우와 그를 포함한 부패한 경찰들과 마로니 그리고 고든 청장의 가족들까지 인질로 잡히게 됩니다 배트맨은 둘 모두를 한꺼번에 막기 위해 특단의 조치를 취하죠 고담시의 모든 전화를 도청하는 겁니다 시민들은 이 와중에 패닉에 빠졌습니다 다리가 모두 폭파 된다고 하니 배를 타고 이동을 할 작정입니다 죄수들도 배로 후송 될 예정인데요 그렇게 그날 밤 바다에는 배가 2대 나란히 떴습니다 시민들이 탄 배와 죄수들을 탄 배죠 그리고 조커가 실험을 시작하게 됩니다 멈춰버린 서로의 배를 터뜨릴 수 있는 기폭 장치를 건네주고 기폭 장치를 누르는 쪽만 살려 주겠다고 합니다 12시까지 둘 다 안 누르면 둘다 터뜨리겠다 하네요 시간은 10분 남짓 남았습니다 덕분에 죄수 배나 시민 배나 난리가 났죠 도청을 이용해 조커를 찾아낸 배트맨 시간이 부족한 먼저 건물로 뛰어 들게 되고 배트맨은 초인적인 능력을 발휘해 경찰 기동대를 막아내고 조커와 일대일 대결을 펼치게 됩니다 하지만 점점 밀리는 배트맨 양쪽 배 모두 긴장이 고조되는 상황 갈등이 클라이맥스에 다다르지만 결국 12시까지 어떤 배도 서로를 폭파 시키지 않게 됩니다 시간은 12시를 넘어 12:01이 되고 이제 둘 모두를 폭파 시키려는 조커 하지만 배트맨이 그를 제압하지 요 투페이스만 남았습니다 가족을 구하기 위해 홀로 하비를 만나러 온 고든 하비는 고든의 가족을 이용해 그를 협박하지 요 고든의 나이브한 태도와 타협 때문에 자신이 가졌던 모든 것을 잃어버렸다고 말입니다 배트맨이 이때 등장합니다 동전을 던져 배트맨을 쏘아 버린 뒤 스스로에게는 총구를 겨우지만 스스로는 살게 되고 마지막으로 그는 고든의 아들에게 총을 겨누며 동전을 던집니다 바로 그때 배트맨이 다시 일어나 하비를 덮쳐 빌딩 밖으로 같이 추락하게 되죠 이렇게 하비 투 페이스가 죽습니다 모든 것은 끝난 것 같죠 고담시의 선을 대표했던 하비가 타락하면서 모든 이가 희망을 잃게 될 거라고 좌절하는 고든에게 배트맨이 이 하비의 모든 죄를 뒤집어 쓰겠다고 합니다 그리고 배트맨이 자신을 뒤쫓는 경찰들을 피해 도망가면서 영화는 끝납니다",
+  "movie_id": "다크나이트",
+  "reviewer": "집구석_주댕이들",
+  "chunk_index": 4,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "조커",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "조커는 간호사 복장으로 하비를 찾아가 타락시키고, 병원을 폭파하며, 고담시의 다리를 폭파하겠다고 위협하는 악당이다. 두 배에 기폭 장치를 주고 서로를 죽이게 하는 실험을 벌인다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "하비",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "하비는 조커에 의해 타락하여 투페이스가 되어 자신의 인생을 망친 이들에게 복수를 시작하는 인물이다. 동전을 던져 운명을 결정하며 결국 배트맨과 함께 추락하여 죽는다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "투페이스",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "투페이스는 타락한 하비의 또 다른 정체성으로, 부패한 경찰들과 마로니, 고든 청장의 가족들을 인질로 잡고 복수를 행하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "배트맨",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "배트맨은 조커와 투페이스를 동시에 막기 위해 고담시의 모든 전화를 도청하고, 조커와 일대일 대결을 펼치며, 하비의 죄를 대신 뒤집어쓰는 영웅이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "고든",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "고든은 고담시의 청장으로, 가족이 하비에게 인질로 잡히며, 하비의 타락으로 좌절하지만 배트맨의 희생을 지켜보는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "라우",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "라우는 투페이스의 복수 대상 중 한 명으로 인질로 잡히는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "마로니",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "마로니는 투페이스의 복수 대상 중 한 명으로 인질로 잡히는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "고든의 아들",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "고든의 아들은 하비에게 총을 겨눔당하는 인질이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "조커",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "하비",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "조커가 하비를 찾아가 궤변을 늘어놓으며 타락시켰다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "하비",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "투페이스",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "하비가 타락하여 투페이스가 되었다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "배트맨",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "조커",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "배트맨이 조커를 추적하여 일대일 대결을 펼치고 제압했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "배트맨",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "하비",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "배트맨이 하비를 덮쳐 빌딩 밖으로 함께 추락했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "투페이스",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "고든",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "투페이스가 고든의 가족을 인질로 잡고 협박했다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "투페이스",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "라우",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "투페이스가 복수를 위해 라우를 인질로 잡았다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "투페이스",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "마로니",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "투페이스가 복수를 위해 마로니를 인질로 잡았다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "하비",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "고든의 아들",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "하비가 고든의 아들에게 총을 겨누며 동전을 던졌다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "고든",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "고든의 아들",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "고든의 아들은 고든의 가족이다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "배트맨",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "투페이스",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "배트맨이 투페이스의 모든 죄를 대신 뒤집어쓰기로 했다",
+      "relationship_strength": 10
+    }
+  ],
+  "entity_resolution": {
+    "조커": {
+      "description": "조커 -> 조커",
+      "resolved_name": "조커",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "하비": {
+      "description": "하비 -> Harvey Dent / Two-Face",
+      "resolved_name": "Harvey Dent / Two-Face",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "투페이스": {
+      "description": "투페이스 -> Harvey Dent / Two-Face",
+      "resolved_name": "Harvey Dent / Two-Face",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "배트맨": {
+      "description": "배트맨 -> 브루스 웨인 / 배트맨",
+      "resolved_name": "브루스 웨인 / 배트맨",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "고든": {
+      "description": "고든 -> 바바라 고든",
+      "resolved_name": "바바라 고든",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "라우": {
+      "description": "라우 -> 라우",
+      "resolved_name": "라우",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "마로니": {
+      "description": "마로니 -> 마로니",
+      "resolved_name": "마로니",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "고든의 아들": {
+      "description": "고든의 아들 -> 고든의 아들",
+      "resolved_name": "고든의 아들",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

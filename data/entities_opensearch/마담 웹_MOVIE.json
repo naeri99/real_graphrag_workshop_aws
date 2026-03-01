@@ -1,0 +1,24 @@
+{
+  "entity": {
+    "name": "마담 웹",
+    "synonym": [
+      "Madam Web",
+      "Madame Web",
+      "마담",
+      "마담 웨브",
+      "마담 웹",
+      "마담 웹 영화",
+      "마담웹",
+      "마담웹 영화",
+      "매담 웹",
+      "매담웹",
+      "매덤 웹",
+      "매덤웹",
+      "웹"
+    ],
+    "entity_type": "MOVIE",
+    "summary": "마담 웹",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

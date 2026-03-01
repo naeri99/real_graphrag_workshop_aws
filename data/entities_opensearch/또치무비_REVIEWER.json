@@ -1,0 +1,12 @@
+{
+  "entity": {
+    "name": "또치무비",
+    "synonym": [
+      "또치무비"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "또치무비은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

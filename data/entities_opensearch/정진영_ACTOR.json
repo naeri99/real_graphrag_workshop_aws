@@ -1,0 +1,23 @@
+{
+  "entity": {
+    "name": "정진영",
+    "synonym": [
+      "Jeong Jin-yeong",
+      "Jung Jin Young",
+      "Jung Jin-young",
+      "정 진영",
+      "정진영",
+      "정진영 배우",
+      "정진영 씨",
+      "정진영 아저씨",
+      "정진영배우",
+      "정진영씨",
+      "정진용",
+      "진영"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "정진영은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

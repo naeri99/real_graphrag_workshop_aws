@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "갬볼",
+    "synonym": [
+      "Gamble",
+      "Gambol",
+      "갬볼",
+      "갬볼 갱",
+      "갬볼 보스",
+      "갬블",
+      "겜볼",
+      "더 갬볼",
+      "마피아 갬볼"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "갬볼은 영화 '다크나이트'의 등장인물로, 마이클 제이 화이트이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

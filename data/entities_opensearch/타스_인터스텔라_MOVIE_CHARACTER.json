@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "타스",
+    "synonym": [
+      "T.A.R.S",
+      "T.A.R.S.",
+      "TARS",
+      "TARS robot",
+      "TARS 로봇",
+      "로봇 타스",
+      "타르스",
+      "타스",
+      "타스 로봇",
+      "타아스",
+      "타즈"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "타스은 영화 '인터스텔라'의 등장인물로, 빌 어윈이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

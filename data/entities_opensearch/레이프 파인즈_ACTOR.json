@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "레이프 파인즈",
+    "synonym": [
+      "Ralph Fiennes",
+      "랄프 파인스",
+      "랄프 파인즈",
+      "레이프",
+      "레이프 파인스",
+      "레이프 파인즈",
+      "레이프파인즈",
+      "파인즈"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "레이프 파인즈은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

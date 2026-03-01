@@ -1,0 +1,226 @@
+{
+  "chunk_hash": "18d86293daf250",
+  "chunk_id": "리뷰_MASTER_18d86293daf250_9c34448f",
+  "user_query": "여기 자신의 평생을 부모님과 함께 집에서만 보낸 이 남자의 이름은 제임스입니다. 25살인 제임스가 여지껏 세상에 나서지 못한 건 밖을 보기 위해서 방독면을 써야 할 정도로 세상이 독성 공기에 뒤덮여 있다는 부모님들의 말씀 때문이었죠. 경찰들에 의해 어디론가 향하는 제임스. 어찌된 영문인지 독성 공기는 커녕 신선하고 시원한 바람만이 느껴질 뿐입니다. 태어나 처음 맛보는 콜라의 톡 쏘는 맛과 이어지는 담당 형사의 충격적인 이야기. 자식이 없던 한 부부에게 납치되어 25년만에 친부모와 여동생을 만나게 된 제임스. 가족들은 제임스가 적응하도록 노력하지만 정작 제임스는 브릭스비 베어 대사를 달달 외울 만큼 갇혀 있는 동안 일주일에 하나씩 배달된 비디오테이프만 생각합니다. 그 남들과는 너무 다른 삶을 산 제임스가 세상에 적응할 수 있도록 아버지 그렉과 가족들이 노력해 보지만 머릿속에 브릭스비로만 가득 차 상담사에게 데려갑니다. 충격을 받았는지 멍하니 있던 제임스는 아무 망설임없이 브릭스비 베어의 영화를 만들 준비를 합니다. 여동생 오브리를 따라 들어간 파티장에서도 그는 브릭스비 베어 이야기로 정신이 없습니다. 하지만 생전 처음 먹어보는 술 때문에 낯선 곳에서 눈을 뜨는 제임스. 그렇게 자신 못지않은 덕후의 기운이 느껴지는 스펜서에게 브릭스비 베어를 빌려주고 그와 친구가 된 제임스는 자신의 담당 형사 보겔을 찾아갑니다. 하지만 쉽게 떠나지 못하는 제임스. 다음날 뛸 듯이 기뻐하는 제임스와 달리 아버지 그렉은 제임스의 상태가 더 안 좋아질까봐 걱정입니다. 그리고 얼마 뒤 신이난 제임스는 스펜서에게 영화의 내용을 설명하고 그렇게 브릭스비 베어의 촬영이 시작되고 온라인에 올린 이전 영상들도 보는 사람이 생기기 시작하죠. 뒤늦게 연기 혼을 불태우는 보겔 형사를 비롯해 촬영을 도와주는 사람들이 하나둘 늘어나고 그 중엔 여동생 오브리도 있습니다. 예정에 없던 폭발에 당황한 스펜서. 제임스의 딱한 사정을 안 경찰들은 이들을 보내주지만 아버지 그렉은 다릅니다. 밤이 되게 기다린 제임스는 스펜서의 어설픈 운전 솜씨로 자신이 예전 살던 곳에 도착합니다. 온종일 그곳에 앉아 시간을 보낸 뒤 들어간 근처의 카페에서 그는 브릭스비의 또다른 주인공 에리얼을 보게 됩니다. 하지만 가족의 신고를 받고 출동한 경찰들 때문에 그들의 대화는 오래가지 못합니다. 이렇게 가족들과 떨어지게 된 오빠가 병원신세를 지게 되자 동생 오브리는 부모님에게 오빠의 영상을 보여줍니다. 영상 곳곳에 담겨 있는 아들의 열정을 보고 마침내 그를 이해하게 된 아버지. 자신이 없는 동안 영화의 후반 작업을 하고 있었던 가족들과 친구들. 다음날 제임스는 누군가를 찾아갑니다. 제임스는 자신만을 위해 그가 배워야 할 교육적 의미를 담아 736편의 브릭스비 베어를 만든 가짜 아버지에게 녹음을 부탁하고 그들을 종결하기로 합니다. 그렇게 모든 준비를 끝내고 시작된 브릭스비 베어의 시사회. 어두운 세상에서 빠져나와 바깥 세상의 무언가와 싸우는 브릭스비 베어 이야기는 제임스의 인생과 묘하게 닮아 있습니다. 영화가 끝이 나자",
+  "movie_id": "브릭스비 베어",
+  "reviewer": "리뷰_MASTER",
+  "chunk_index": 1,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "제임스",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "제임스는 25년간 납치범 부부에 의해 집에 갇혀 살다가 세상에 나오게 된 남자로, 브릭스비 베어에 집착하며 이를 영화로 만들기로 결심한다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "브릭스비 베어",
+      "entity_type": "MOVIE",
+      "entity_description": "브릭스비 베어는 제임스가 갇혀 있는 동안 일주일에 하나씩 배달된 비디오테이프 시리즈이자, 제임스가 직접 만들기로 한 영화의 제목이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "그렉",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "그렉은 제임스의 친아버지로, 아들이 세상에 적응하도록 노력하지만 상태가 악화될까 걱정한다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "오브리",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "오브리는 제임스의 여동생으로, 오빠의 영화 촬영을 돕고 부모님에게 오빠의 영상을 보여주어 이해를 돕는다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "스펜서",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "스펜서는 제임스와 친구가 된 덕후 기질의 인물로, 브릭스비 베어 영화 촬영에 참여하고 제임스의 운전을 도와준다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "보겔",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "보겔은 제임스의 담당 형사로, 나중에 브릭스비 베어 영화 촬영에서 연기 혼을 불태우며 참여한다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "에리얼",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "에리얼은 브릭스비 베어의 또다른 주인공으로, 제임스가 예전 살던 곳 근처 카페에서 만나게 된다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "가짜 아버지",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "가짜 아버지는 제임스를 납치하여 25년간 키운 인물로, 제임스만을 위해 교육적 의미를 담아 736편의 브릭스비 베어를 만들었다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "제임스",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "브릭스비 베어",
+      "target_type": "MOVIE",
+      "relationship_description": "제임스는 브릭스비 베어에 집착하며 이를 영화로 만들기로 결심했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "제임스",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "그렉",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "그렉은 제임스의 친아버지이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "제임스",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "오브리",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "오브리는 제임스의 여동생이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "제임스",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "스펜서",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "스펜서는 제임스의 친구로 브릭스비 베어 영화 촬영을 함께 한다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "제임스",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "보겔",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "보겔은 제임스의 담당 형사이자 영화 촬영에 참여한 인물이다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "제임스",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "가짜 아버지",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "가짜 아버지는 제임스를 납치하여 25년간 키웠으며 브릭스비 베어를 만들어준 인물이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "제임스",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "에리얼",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "제임스는 카페에서 브릭스비 베어의 주인공 에리얼을 만났다",
+      "relationship_strength": 5
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "오브리",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "브릭스비 베어",
+      "target_type": "MOVIE",
+      "relationship_description": "오브리는 제임스의 브릭스비 베어 영화 촬영을 도왔다",
+      "relationship_strength": 6
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "스펜서",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "브릭스비 베어",
+      "target_type": "MOVIE",
+      "relationship_description": "스펜서는 브릭스비 베어 영화 촬영에 참여했다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "보겔",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "브릭스비 베어",
+      "target_type": "MOVIE",
+      "relationship_description": "보겔 형사는 브릭스비 베어 영화에서 연기를 했다",
+      "relationship_strength": 6
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "가짜 아버지",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "브릭스비 베어",
+      "target_type": "MOVIE",
+      "relationship_description": "가짜 아버지는 736편의 브릭스비 베어를 제작했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "에리얼",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "브릭스비 베어",
+      "target_type": "MOVIE",
+      "relationship_description": "에리얼은 브릭스비 베어의 주인공 중 한 명이다",
+      "relationship_strength": 9
+    }
+  ],
+  "entity_resolution": {
+    "제임스": {
+      "description": "제임스 -> 제임스",
+      "resolved_name": "제임스",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "브릭스비 베어": {
+      "description": "브릭스비 베어 -> 브릭스비 베어",
+      "resolved_name": "브릭스비 베어",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "그렉": {
+      "description": "그렉 -> 그렉 포프",
+      "resolved_name": "그렉 포프",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "오브리": {
+      "description": "오브리 -> 오브리 포프",
+      "resolved_name": "오브리 포프",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "스펜서": {
+      "description": "스펜서 -> 스펜서",
+      "resolved_name": "스펜서",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "보겔": {
+      "description": "보겔 -> 알렉스 보겔",
+      "resolved_name": "알렉스 보겔",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "에리얼": {
+      "description": "에리얼 -> 에리얼",
+      "resolved_name": "에리얼",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "가짜 아버지": {
+      "description": "가짜 아버지 -> 가짜 아버지",
+      "resolved_name": "가짜 아버지",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

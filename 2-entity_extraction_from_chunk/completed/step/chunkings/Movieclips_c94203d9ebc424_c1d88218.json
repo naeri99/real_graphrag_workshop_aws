@@ -1,0 +1,111 @@
+{
+  "chunk_hash": "c94203d9ebc424",
+  "chunk_id": "Movieclips_c94203d9ebc424_c1d88218",
+  "user_query": "Familiar with the word ''arteriosclerosis''? ''Cholesterol''? If you want, I'll outline\na complete balanced diet for you. Mail it to me from C-Block. Why would you eat that? Why? 'Cause it tastes good. -But it's not good for you.\n-I'm aware of that. Why would you do something,\nif you know it's not good for you? Because I don't think about it. That's living in denial. -Living in denial?\n-Yeah. I'm aware of that. You're aware of your behavior\nyet you continue to do things... ...that aren't good for you. That sounds sort of foolish.\nDon't you think so? No. Stealing $15 million\nfrom Jimmy Serrano sounds foolish. I didn't think I'd get caught. Now, that's livin' in denial. I'm aware of that. You're aware of your behavior... ...and yet you continue to do things\nthat aren't good for you. Sounds foolish to me. Don't you think? It was foolish. But taking $15 million in mob money\nand giving it to charity... ...was good for a lot of people. You pissed off a Mafioso killer\nto be loved by a bunch of fuckin' strangers. That makes a lot of sense. Don't you want to be loved? Lots of people love me. Really? Who? I got an ex-wife,\nand I got a daughter in Chicago. How do they put up with all your sarcasm? Beautifully. I haven't seen either of them\nin nine years. Think maybe we should go see them? No, I don't think maybe we should go\nsee them. Thanks for the interest, though. The job must have been tough on them. -I didn't do this then.\n-What did you do? -I was a cop.",
+  "movie_id": "미드나잇 런",
+  "reviewer": "Movieclips",
+  "chunk_index": 1,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "MIDNIGHT RUN",
+      "entity_type": "MOVIE",
+      "entity_description": "두 남자 사이의 대화를 담은 영화로, 마피아 돈을 훔쳐 자선단체에 기부한 사건과 현상금 사냥꾼의 이야기를 다룬다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "JIMMY SERRANO",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "지미 세라노는 마피아 킬러로, 1500만 달러를 도난당한 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "JACK WALSH",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "잭 월시는 전직 경찰로, 9년간 전처와 딸을 만나지 못했으며 현재 현상금 사냥꾼으로 일하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "JONATHAN MARDUKAS",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "조나단 마두카스는 지미 세라노에게서 1500만 달러를 훔쳐 자선단체에 기부한 인물로, 건강과 식단에 관심이 많다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "JIMMY SERRANO",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "MIDNIGHT RUN",
+      "target_type": "MOVIE",
+      "relationship_description": "지미 세라노는 이 영화에 등장하는 마피아 킬러 캐릭터이다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "JACK WALSH",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "MIDNIGHT RUN",
+      "target_type": "MOVIE",
+      "relationship_description": "잭 월시는 이 영화의 주요 등장인물이다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "JONATHAN MARDUKAS",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "MIDNIGHT RUN",
+      "target_type": "MOVIE",
+      "relationship_description": "조나단 마두카스는 이 영화의 주요 등장인물이다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "JONATHAN MARDUKAS",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "JIMMY SERRANO",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "조나단 마두카스는 지미 세라노에게서 1500만 달러를 훔쳐 자선단체에 기부했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "JACK WALSH",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "JONATHAN MARDUKAS",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "잭 월시와 조나단 마두카스는 서로 대화를 나누며 삶의 방식과 선택에 대해 토론한다",
+      "relationship_strength": 8
+    }
+  ],
+  "entity_resolution": {
+    "MIDNIGHT RUN": {
+      "description": "MIDNIGHT RUN -> MIDNIGHT RUN",
+      "resolved_name": "MIDNIGHT RUN",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "JIMMY SERRANO": {
+      "description": "JIMMY SERRANO -> Jimmy Serrano",
+      "resolved_name": "Jimmy Serrano",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "JACK WALSH": {
+      "description": "JACK WALSH -> JACK WALSH",
+      "resolved_name": "JACK WALSH",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "JONATHAN MARDUKAS": {
+      "description": "JONATHAN MARDUKAS -> JONATHAN MARDUKAS",
+      "resolved_name": "JONATHAN MARDUKAS",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

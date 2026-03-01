@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "조 페라",
+    "synonym": [
+      "Joe",
+      "Joe Fera",
+      "Joe Pera",
+      "조 페라",
+      "조 페러",
+      "조우 페라",
+      "조페라",
+      "조페러",
+      "페라"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "조 페라은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

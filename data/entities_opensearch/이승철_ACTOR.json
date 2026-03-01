@@ -1,0 +1,18 @@
+{
+  "entity": {
+    "name": "이승철",
+    "synonym": [
+      "Lee Seung-chul",
+      "가수 이승철",
+      "승철",
+      "이 승철",
+      "이승철",
+      "이승철 배우",
+      "이승철씨"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "이승철은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

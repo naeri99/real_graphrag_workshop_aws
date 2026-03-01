@@ -1,0 +1,15 @@
+{
+  "entity": {
+    "name": "안젤라",
+    "synonym": [
+      "Angela",
+      "안젤라",
+      "앤젤라",
+      "엔젤라"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "안젤라은 영화 '매치스틱맨'의 등장인물로, 앨리슨 로먼이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

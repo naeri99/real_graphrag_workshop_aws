@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "Dani",
+    "synonym": [
+      "Dani",
+      "Dani Ardor",
+      "Danni",
+      "다니",
+      "다니엘",
+      "대니",
+      "대니 아더",
+      "대니 아도르",
+      "대니 아르도르",
+      "데니"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "Dani은 영화 '미드소마'의 등장인물로, 플로렌스 퓨이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "이토이 시게사토",
+    "synonym": [
+      "Shigesato Itoi",
+      "糸井重里",
+      "시게사토",
+      "시게사토 이토이",
+      "이또이 시게사또",
+      "이토이",
+      "이토이 시게사토",
+      "이토이시게사토"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "이토이 시게사토은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

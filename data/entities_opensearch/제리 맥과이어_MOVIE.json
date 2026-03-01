@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "제리 맥과이어",
+    "synonym": [
+      "Jerry Maguire",
+      "맥가이어",
+      "맥과이어",
+      "제리",
+      "제리 맥가이어",
+      "제리 맥과이어",
+      "제리 맥콰이어",
+      "제리맥과이어",
+      "제리맥콰이어"
+    ],
+    "entity_type": "MOVIE",
+    "summary": "제리 맥과이어",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

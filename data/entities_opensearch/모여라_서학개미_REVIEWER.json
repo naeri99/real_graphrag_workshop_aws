@@ -1,0 +1,13 @@
+{
+  "entity": {
+    "name": "모여라_서학개미",
+    "synonym": [
+      "모여라_서학개미",
+      "모여라 서학개미"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "모여라_서학개미은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

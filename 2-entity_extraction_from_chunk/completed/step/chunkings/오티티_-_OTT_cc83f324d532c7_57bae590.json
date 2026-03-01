@@ -1,0 +1,124 @@
+{
+  "chunk_hash": "cc83f324d532c7",
+  "chunk_id": "오티티_-_OTT_cc83f324d532c7_57bae590",
+  "user_query": "귀먹어리는 아니야. >> 유승호를 닮은 >> 테니까 >> 정말 봉이야? >> 아니 무려 20년 전 아역 시절 유승호 안 무서워? >> 어 >> 얼마나 >> 상우는 어머니와 함께 할머니에게 향합니다. >> 마음에 들지 않는 >> 할머니들이 많이 있는 좁은 버스를 타고 >> 난 여기 싫어. 안 갈 거야. 싫단 말이야. 아 왜 >> 싫은 몸을 억지로 움직입니다. >> 저 상우 엄마 외손자예요. 그동안 못 찾아서 죄송해요. 저도 먹고 사느라 힘들었어요. 상우 아빠요. 예전에 헤어졌어요. 19살 기집애가 돈 한 푼 없이 뛰쳐나가서 뭐라고 살았겠어요? 요새 일자리 찾기가 너무 힘들어요. 되도록 빨리 구해 볼게요. 가게 하나 했었는데 남한테 넘어갔어요. 빚 만지고 길어야 두 달이에요. 자리 잡는 대로 데려갈게요. 쟤 혼자 지내 버릇해서 손이 많이 안 갈 거예요. 상우야 인사드려. 외할머니셔. >> 그게 뭔데? >> 인사 안 해? >> 저 >> 이거 엄마 속옷이랑 약 노인들 영양제예요. 저건 상우 거. 그냥 두면 쟤가 알아서 먹을 거예요. 막차 끊기 전에 가 봐야 돼요. 안 된다니까요. 오늘 안으로 가 봐야 돼요. >> 그렇게 >> 상우 너 할머니 말씀 잘 듣고 얌전히 있어야 돼. 알았지? >> 할머니 손에 맡겨지죠. >> 다 에이. >> 아직 철없는 상우는 >> 병 >> 귀가 좋지 않은 할머니가 마음에 들지 않았죠. 귀먹거리. 하지만 따라가기 싫어도 [음악] 괜히 자존심 부리며 조금씩 할머니 뒤로 걸을 수밖에 없습니다. 가져온 스팸으로 야무지게 챙겨 먹지만 아직 할머니가 주는 반찬은 싫었죠. 그런 상우와 친해지려고 노력하지만 상우는 게임에만 관심 있습니다. 그럼에도 >> 아 >> 할머니의 도움이 필요한 순간이 오죠. 아 아 뭘 봐 [음악] >> 다음날 >> 할머니 집에 계시네요 어머니가 이거 드시래요 >> 이웃집 아이를 만나게 되는 상우 >> 제 이름은 혜연이래요 우리 집은 저 아래야 형한테 놀러 오고 그래 >> 아다 잠만 보자 >> 하지만 >> 스캐빈저 솔텍스를 찾아라 >> 크릭스 가자 출동 아무것도 없는 이곳에서 심심함을 버티기 어려웠고 밖에도 놀 수 있는 것이 많이 없었죠. 어어. 그러던 어느 날 [음악] >> 할머니의 도움을 받은 뒤 눈이 어두운 할머니의 소리 없는 부탁을 듣지 않을 수 없었죠. 그때 >> 벌레다. >> 이곳에 온 후 최대의 위기. >> 빨리 죽여. 죽이란 말이야. 거기 있잖아. 바로 거기. 빨리 잡아. >> 할머니는 아무렇지 않게 벌레를 잡아. >> 징그러 빨리 죽이라니까. 빨리 빨리 나다. 빨리. 죽이지 않고 내보냅니다. 그날 이후야 [음악] 죽겠네. >> 바늘에 실 끼는 상우의 몫이 되었죠. 그리고 >> 어 왜 안 되지? >> 상우의 친구나 다름없던 게임기가 꺼집니다. >> 배터리 사야 된다니까 안 들려. 배터리 사야 된다고 돈 응. 배터리 사야 돼. 돈 줘. 돈. 아이씨발. >> 하지만 >> 헤이씨. >> 할머니는 도움을 줄 수 없었고. >> 엄마 오면 엄마한테 갚으라 그럴게. 배터리 없으면 오락 못 한단 말이야. 응.",
+  "movie_id": "집으로...",
+  "reviewer": "오티티_-_OTT",
+  "chunk_index": 1,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "유승호",
+      "entity_type": "ACTOR",
+      "entity_description": "유승호는 아역 시절부터 활동한 배우로, 영화 속 상우 역할을 연기했다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "상우",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "상우는 어머니에 의해 시골 외할머니 집에 맡겨진 도시 아이로, 처음에는 할머니와 시골 생활을 싫어하지만 점차 적응해가는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "할머니",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "할머니는 상우의 외할머니로, 귀가 좋지 않고 눈도 어두우나 손자 상우를 돌보며 친해지려고 노력하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "상우 엄마",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "상우 엄마는 19살에 집을 나와 힘들게 살아온 인물로, 경제적 어려움으로 아들 상우를 친정어머니에게 맡기고 떠난다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "혜연",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "혜연은 할머니 집 근처에 사는 이웃집 아이로, 상우에게 다가와 친구가 되려는 인물이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "유승호",
+      "source_type": "ACTOR",
+      "target_entity": "상우",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "유승호는 아역 시절 상우 역할을 연기했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "상우",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "할머니",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "상우는 외할머니 집에 맡겨져 함께 생활하며 점차 관계를 형성해간다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "상우 엄마",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "상우",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "상우 엄마는 상우의 어머니로, 경제적 어려움으로 아들을 할머니에게 맡긴다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "상우 엄마",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "할머니",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "상우 엄마는 할머니의 딸이며, 상우를 맡기러 찾아온다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "혜연",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "상우",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "혜연은 시골에서 상우가 만난 이웃집 아이로 친구가 되려 한다",
+      "relationship_strength": 7
+    }
+  ],
+  "entity_resolution": {
+    "유승호": {
+      "description": "유승호 -> 유승호",
+      "resolved_name": "유승호",
+      "entity_type": "ACTOR",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "상우": {
+      "description": "상우 -> 상우",
+      "resolved_name": "상우",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "할머니": {
+      "description": "할머니 -> 할머니",
+      "resolved_name": "할머니",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "상우 엄마": {
+      "description": "상우 엄마 -> 상우 엄마",
+      "resolved_name": "상우 엄마",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "혜연": {
+      "description": "혜연 -> 혜연",
+      "resolved_name": "혜연",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "Emperor Caracalla",
+    "synonym": [
+      "Caracalla",
+      "Emperor Caracalla",
+      "쌍둥이 황제",
+      "카라깔라",
+      "카라카라",
+      "카라칼라",
+      "카라칼라 황제",
+      "카라칼라 황제님",
+      "카라칼라황제",
+      "황제 카라칼라"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "Emperor Caracalla은 영화 '글래디에이터 2'의 등장인물로, 프레드 헤킨저이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

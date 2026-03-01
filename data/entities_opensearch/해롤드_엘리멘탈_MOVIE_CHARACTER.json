@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "해롤드",
+    "synonym": [
+      "Harald",
+      "Harold",
+      "Harold Ripple",
+      "Herold",
+      "하롤드",
+      "해럴드",
+      "해롤드",
+      "해롤드 리플",
+      "헤럴드",
+      "헤롤드"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "해롤드은 영화 '엘리멘탈'의 등장인물로, 벤 모리스이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

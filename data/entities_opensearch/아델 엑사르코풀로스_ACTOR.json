@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "아델 엑사르코풀로스",
+    "synonym": [
+      "Adele",
+      "Adele Exarchopoulos",
+      "Adèle Exarchopoulos",
+      "아델",
+      "아델 엑사르코폴로스",
+      "아델 엑사르코풀로스",
+      "아델 엑사코풀로스",
+      "아델 엑자르코풀로스",
+      "아델엑사르코풀로스",
+      "엑사르코풀로스"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "아델 엑사르코풀로스은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

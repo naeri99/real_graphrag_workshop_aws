@@ -1,0 +1,49 @@
+{
+  "chunk_hash": "f6fb34487de4f3",
+  "chunk_id": "유캔프리_UCANFREE_f6fb34487de4f3_bdf25542",
+  "user_query": "thank you [Music] I'm really gonna miss you you know that I'm really gonna miss you you know that I'm really gonna miss you you know that I'm really gonna miss you you know that I'm really gonna miss you you know that Sam weeks Sam just a couple of weeks Sam just a couple of weeks Sam just a couple of weeks Sam just a couple of weeks which is gonna seem like an eternity right which is gonna seem like an eternity right which is gonna seem like an eternity right which is gonna seem like an eternity right which is gonna seem like an eternity right an eternity and then some an eternity and then some an eternity and then some oh an eternity and then some an eternity and then some oh I have to get dressed run through my notes rehearse my presentation I have to get dressed run through my notes rehearse my presentation I have to get dressed run through my notes rehearse my presentation I have to get dressed run through my notes rehearse my presentation I have to get dressed run through my notes rehearse my presentation always a gift makes me feel very guilty always a gift makes me feel very guilty always a gift makes me feel very guilty always a gift makes me feel very guilty always a gift makes me feel very guilty well that is the general idea well that is the general idea well that is the general idea well that is the general idea well that is the general idea I have a present too I'll give it to you later because it's a surprise I have a present too I'll give it to you later",
+  "movie_id": "이프 온리",
+  "reviewer": "유캔프리_UCANFREE",
+  "chunk_index": 2,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "SAM",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Sam은 영화 속 등장인물로, 누군가와 이별을 앞두고 있으며 몇 주간 떨어져 있게 될 것이라고 말하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "GHOST",
+      "entity_type": "MOVIE",
+      "entity_description": "Ghost는 1990년 로맨틱 판타지 영화로, 연인 간의 이별과 재회를 다룬 작품으로 추정된다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "SAM",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "GHOST",
+      "target_type": "MOVIE",
+      "relationship_description": "Sam은 Ghost 영화의 등장인물이다",
+      "relationship_strength": 7
+    }
+  ],
+  "entity_resolution": {
+    "SAM": {
+      "description": "SAM -> SAM",
+      "resolved_name": "SAM",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "GHOST": {
+      "description": "GHOST -> GHOST",
+      "resolved_name": "GHOST",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

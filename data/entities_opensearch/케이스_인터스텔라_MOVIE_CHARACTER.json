@@ -1,0 +1,27 @@
+{
+  "entity": {
+    "name": "케이스",
+    "synonym": [
+      "Arthur Case",
+      "C.A.S.E",
+      "C.A.S.E.",
+      "CASE",
+      "CASE robot",
+      "CASE 로봇",
+      "로봇 케이스",
+      "아서",
+      "아서케이스",
+      "은행장",
+      "캐이스",
+      "케이스",
+      "케이스 AI",
+      "케이스 로봇",
+      "케이스로봇",
+      "케이쓰"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "케이스은 영화 '인터스텔라'의 등장인물로, 조쉬 스튜어트이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

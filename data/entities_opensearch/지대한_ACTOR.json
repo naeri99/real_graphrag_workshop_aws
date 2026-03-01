@@ -1,0 +1,17 @@
+{
+  "entity": {
+    "name": "지대한",
+    "synonym": [
+      "Ji Dae-han",
+      "대한",
+      "지 대한",
+      "지대한",
+      "지대한 배우",
+      "지대한씨"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "지대한은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

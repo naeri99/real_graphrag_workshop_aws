@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "멜로라 월터스",
+    "synonym": [
+      "Melora Walters",
+      "Melora Waters",
+      "멜로라",
+      "멜로라 왈터스",
+      "멜로라 월터스",
+      "멜로라 월터즈",
+      "멜로라월터스",
+      "월터스"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "멜로라 월터스은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

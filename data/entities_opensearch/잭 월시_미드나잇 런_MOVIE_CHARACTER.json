@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "잭 월시",
+    "synonym": [
+      "Jack",
+      "Jack Walsh",
+      "월시",
+      "잭",
+      "잭 왈시",
+      "잭 월시",
+      "잭왈시",
+      "잭월시"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "잭 월시은 영화 '미드나잇 런'의 등장인물로, 로버트 드 니로이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

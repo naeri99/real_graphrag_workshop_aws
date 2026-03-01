@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "토니 헤일",
+    "synonym": [
+      "Tony",
+      "Tony Hail",
+      "Tony Hale",
+      "토니",
+      "토니 해일",
+      "토니 헤일",
+      "토니 헤일리",
+      "토니헤일",
+      "헤일"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "토니 헤일은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

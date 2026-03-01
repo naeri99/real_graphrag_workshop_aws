@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "어린 에이미",
+    "synonym": [
+      "Young Amy",
+      "꼬마 에이미",
+      "어린 Amy",
+      "어린 아미",
+      "어린 애이미",
+      "어린 에미",
+      "어린 에이미",
+      "어린에이미",
+      "영 에이미",
+      "유년 에이미"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "어린 에이미은 영화 '에브리바디스 파인'의 등장인물로, 릴리 모 신이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

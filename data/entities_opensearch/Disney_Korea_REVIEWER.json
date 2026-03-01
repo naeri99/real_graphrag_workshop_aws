@@ -1,0 +1,13 @@
+{
+  "entity": {
+    "name": "Disney_Korea",
+    "synonym": [
+      "Disney_Korea",
+      "Disney Korea"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "Disney_Korea은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

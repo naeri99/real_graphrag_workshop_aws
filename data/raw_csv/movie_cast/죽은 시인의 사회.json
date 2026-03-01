@@ -1,0 +1,100 @@
+{
+  "movie_title": "죽은 시인의 사회",
+  "director": [
+    {
+      "name": "피터 위어",
+      "name_en": "Peter Weir"
+    }
+  ],
+  "cast": [
+    {
+      "actor": "로빈 윌리엄스",
+      "actor_en": "Robin Williams",
+      "character": "존 키팅"
+    },
+    {
+      "actor": "로버트 숀 레오나드",
+      "actor_en": "Robert Sean Leonard",
+      "character": "닐 페리"
+    },
+    {
+      "actor": "이든 호크",
+      "actor_en": "Ethan Hawke",
+      "character": "토드 앤더슨"
+    },
+    {
+      "actor": "조시 찰스",
+      "actor_en": "Josh Charles",
+      "character": "녹스 오버스트리트"
+    },
+    {
+      "actor": "게일 한센",
+      "actor_en": "Gale Hansen",
+      "character": "찰리 달튼"
+    },
+    {
+      "actor": "딜런 쿠스만",
+      "actor_en": "Dylan Kussman",
+      "character": "리처드 카메론"
+    },
+    {
+      "actor": "알레론 루지에로",
+      "actor_en": "Allelon Ruggiero",
+      "character": "스티븐 믹스"
+    },
+    {
+      "actor": "제임스 워터스톤",
+      "actor_en": "James Waterston",
+      "character": "제라드 피츠"
+    },
+    {
+      "actor": "노먼 로이드",
+      "actor_en": "Norman Lloyd",
+      "character": "놀란 교장"
+    },
+    {
+      "actor": "커트우드 스미스",
+      "actor_en": "Kurtwood Smith",
+      "character": "페리 씨"
+    },
+    {
+      "actor": "칼라 벨버",
+      "actor_en": "Carla Belver",
+      "character": "페리 부인"
+    },
+    {
+      "actor": "레온 포날",
+      "actor_en": "Leon Pownall",
+      "character": "맥앨리스터"
+    },
+    {
+      "actor": "조지 마틴",
+      "actor_en": "George Martin",
+      "character": "헤이거 박사"
+    },
+    {
+      "actor": "조 오피어리",
+      "actor_en": "Joe Aufiery",
+      "character": "화학 선생님"
+    },
+    {
+      "actor": "알렉산드라 파워스",
+      "actor_en": "Alexandra Powers",
+      "character": "크리스 놀"
+    },
+    {
+      "actor": "니콜라스 K. 길훌",
+      "actor_en": "Nicholas K. Gilhool",
+      "character": "슈룸"
+    }
+  ],
+  "review": [
+    "./data/review/죽은 시인의 사회/죽은 시인의 사회_6qjaKEUElUo.json",
+    "./data/review/죽은 시인의 사회/죽은 시인의 사회_FjaAvPwf-W8.json",
+    "./data/review/죽은 시인의 사회/죽은 시인의 사회_KzgvXc4IjAQ.json",
+    "./data/review/죽은 시인의 사회/죽은 시인의 사회_N4Liq6xcJg8.json",
+    "./data/review/죽은 시인의 사회/죽은 시인의 사회_NW0Ed23eQCE.json",
+    "./data/review/죽은 시인의 사회/죽은 시인의 사회_R8LkQqRyRh0.json",
+    "./data/review/죽은 시인의 사회/죽은 시인의 사회_SLFTX_1LJxs.json"
+  ]
+}

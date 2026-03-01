@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "엘리자베스 데비키",
+    "synonym": [
+      "Debicki",
+      "E. 데비키",
+      "Elizabeth Debicki",
+      "데비키",
+      "리즈 데비키",
+      "엘리자베스 데비끼",
+      "엘리자베스 데비키",
+      "엘리자베스 드비키",
+      "엘리자베스데비키",
+      "엘리자베쓰 데비키"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "엘리자베스 데비키은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

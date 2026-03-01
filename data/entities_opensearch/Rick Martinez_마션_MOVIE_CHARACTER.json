@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "Rick Martinez",
+    "synonym": [
+      "Martinez",
+      "Rick Martinez",
+      "릭",
+      "릭 마르티네즈",
+      "릭 마티네즈",
+      "릭마르티네즈",
+      "마르티네스",
+      "마르티네즈",
+      "마티네즈"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "Rick Martinez은 영화 '마션'의 등장인물로, 마이클 페냐이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

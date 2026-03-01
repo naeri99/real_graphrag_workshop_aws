@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "에제키엘 심스",
+    "synonym": [
+      "Ezekiel",
+      "Ezekiel Sims",
+      "빌런",
+      "심스",
+      "에제키엘",
+      "에제키엘 심스",
+      "에제키엘 심즈",
+      "에제키엘심스",
+      "에즈키엘 심스",
+      "이제키엘 심스",
+      "이지키엘 심스"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "에제키엘 심스은 영화 '마담 웹'의 등장인물로, 타하르 라힘이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

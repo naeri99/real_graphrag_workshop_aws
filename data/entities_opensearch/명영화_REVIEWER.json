@@ -1,0 +1,12 @@
+{
+  "entity": {
+    "name": "명영화",
+    "synonym": [
+      "명영화"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "명영화은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

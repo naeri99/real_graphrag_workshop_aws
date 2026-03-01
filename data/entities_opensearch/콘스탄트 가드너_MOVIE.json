@@ -1,0 +1,17 @@
+{
+  "entity": {
+    "name": "콘스탄트 가드너",
+    "synonym": [
+      "The Constant Gardener",
+      "더 콘스탄트 가드너",
+      "컨스턴트 가드너",
+      "콘스탄트 가드너",
+      "콘스탄트가드너",
+      "콘스턴트 가드너"
+    ],
+    "entity_type": "MOVIE",
+    "summary": "콘스탄트 가드너",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

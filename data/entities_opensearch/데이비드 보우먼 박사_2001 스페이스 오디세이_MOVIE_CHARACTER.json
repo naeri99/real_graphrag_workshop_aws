@@ -1,0 +1,27 @@
+{
+  "entity": {
+    "name": "데이비드 보우먼 박사",
+    "synonym": [
+      "Bowman",
+      "Dave Bowman",
+      "David Bowman",
+      "Dr. David Bowman",
+      "데이브",
+      "데이브 보우먼",
+      "데이비드 보먼",
+      "데이비드 보우만",
+      "데이비드 보우먼",
+      "데이비드 보우먼 박사",
+      "데이비드보우먼",
+      "데이빗 보우먼",
+      "보우만",
+      "보우먼",
+      "보우먼 박사",
+      "선장 데이브"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "데이비드 보우먼 박사은 영화 '2001 스페이스 오디세이'의 등장인물로, 케어 둘리이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

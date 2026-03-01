@@ -1,0 +1,23 @@
+{
+  "entity": {
+    "name": "마이크",
+    "synonym": [
+      "Michael",
+      "Mike",
+      "Mike Nichols",
+      "Mike Nichols 감독",
+      "니콜스",
+      "마이크",
+      "마이크 캐릭터",
+      "마이크니콜스",
+      "마이크씨",
+      "마이클",
+      "마익",
+      "마잌"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "마이크은 영화 '이프 온리'의 등장인물로, 스튜어트 라이트이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

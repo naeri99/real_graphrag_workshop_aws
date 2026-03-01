@@ -1,0 +1,125 @@
+{
+  "movie_title": "마션",
+  "director": [
+    {
+      "name": "리들리 스콧",
+      "name_en": "Ridley Scott"
+    }
+  ],
+  "cast": [
+    {
+      "actor": "맷 데이먼",
+      "actor_en": "Matt Damon",
+      "character": "마크 와트니"
+    },
+    {
+      "actor": "제시카 차스테인",
+      "actor_en": "Jessica Chastain",
+      "character": "Melissa Lewis"
+    },
+    {
+      "actor": "세바스찬 스탠",
+      "actor_en": "Sebastian Stan",
+      "character": "Chris Beck"
+    },
+    {
+      "actor": "제프 다니엘스",
+      "actor_en": "Jeff Daniels",
+      "character": "Teddy Sanders"
+    },
+    {
+      "actor": "크리스틴 위그",
+      "actor_en": "Kristen Wiig",
+      "character": "Annie Montrose"
+    },
+    {
+      "actor": "마이클 페냐",
+      "actor_en": "Michael Peña",
+      "character": "Rick Martinez"
+    },
+    {
+      "actor": "숀 빈",
+      "actor_en": "Sean Bean",
+      "character": "Mitch Henderson"
+    },
+    {
+      "actor": "케이트 마라",
+      "actor_en": "Kate Mara",
+      "character": "베스 요한센"
+    },
+    {
+      "actor": "악셀 헤니",
+      "actor_en": "Aksel Hennie",
+      "character": "알렉스 보겔"
+    },
+    {
+      "actor": "치웨텔 에지오포",
+      "actor_en": "Chiwetel Ejiofor",
+      "character": "빈센트 카푸어"
+    },
+    {
+      "actor": "베네딕트 웡",
+      "actor_en": "Benedict Wong",
+      "character": "브루스 응"
+    },
+    {
+      "actor": "도널드 글로버",
+      "actor_en": "Donald Glover",
+      "character": "리치 푸넬"
+    },
+    {
+      "actor": "맥켄지 데이비스",
+      "actor_en": "Mackenzie Davis",
+      "character": "미니 파크"
+    },
+    {
+      "actor": "첸 수",
+      "actor_en": "Chen Shu",
+      "character": "주 타오"
+    },
+    {
+      "actor": "에디 코",
+      "actor_en": "Eddy Ko",
+      "character": "궈밍"
+    },
+    {
+      "actor": "닉 모하메드",
+      "actor_en": "Nick Mohammed",
+      "character": "팀 그라임스"
+    },
+    {
+      "actor": "소렌 필마크",
+      "actor_en": "Soren Pilmark",
+      "character": "마르쿠스 달"
+    },
+    {
+      "actor": "조나단 아리스",
+      "actor_en": "Jonathan Aris",
+      "character": "헨더슨"
+    },
+    {
+      "actor": "나오미 스콧",
+      "actor_en": "Naomi Scott",
+      "character": "라일라"
+    },
+    {
+      "actor": "찰리 가드너",
+      "actor_en": "Charlie Gardner",
+      "character": "로버트 루이스"
+    },
+    {
+      "actor": "그레그 루소",
+      "actor_en": "Grégory Rousso",
+      "character": "콤즈"
+    }
+  ],
+  "review": [
+    "./data/review/마션/마션_CDrBGFfTud0.json",
+    "./data/review/마션/마션_OExZonuByYI.json",
+    "./data/review/마션/마션_PpdQanRovcE.json",
+    "./data/review/마션/마션_oLHYepsUvEU.json",
+    "./data/review/마션/마션_rPElLLug87U.json",
+    "./data/review/마션/마션_xB2173Fqg8o.json",
+    "./data/review/마션/마션_z-i_SqKWs9E.json"
+  ]
+}

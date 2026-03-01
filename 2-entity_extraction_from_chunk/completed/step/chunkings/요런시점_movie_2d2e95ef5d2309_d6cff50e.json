@@ -1,0 +1,106 @@
+{
+  "chunk_hash": "2d2e95ef5d2309",
+  "chunk_id": "요런시점_movie_2d2e95ef5d2309_d6cff50e",
+  "user_query": "외로움은 더욱 깊어만 갑니다. Dani와 그의 남친네들은 현대인이 삶의 고통에 대처하는 전형적인 방식을 보여주고 있습니다. 바로 부정과 외면입니다. 고통과 죽음은 나쁜 것이다. 그러니 일단 부정하고 피하고 보는 게 낫다는 것이죠. 자신의 일이든 남의 일이든 말입니다. 모든 불행을 영원히 피할 수 있다면 그만큼 좋은 일은 없겠죠. 하지만 현실은 그렇지 않습니다. 인간은 살다 보면 어떤 형태로든 끔찍한 불행을 몇 번쯤은 맞닥뜨릴 수밖에 없죠. 문제는 현대인들이 불행을 피하고 더 편히 사는 데만 익숙하기 때문에 어느 날 고통을 직접 맞닥뜨리게 되었을 때 커다란 패닉에 빠지게 된다는 것이죠. 운명을 받아들일 준비가 전혀 되어 있지 않기 때문입니다. 게다가 개인주의 사회에서 그 불행을 함께 나눌 공동체도 없습니다. 모든 것을 혼자서 감내해야 하는 고립된 개인의 고통은 더욱 깊어만 가죠. 아리 애스터 감독은 스스로 걱정이 많은 사람이라고 했습니다. 그리고 이렇게 현대인이 불행을 부정하고 외면하는 태도에 관심이 아주 많은 것 같은데요. 이는 그의 전작들에서도 반복되어 강조하는 테마입니다. [음악] 과학의 발전으로 현대인들은 역사상 그 어느 때보다도 고통과 죽음으로부터 자유롭게 되었습니다. 하지만 동시에 그 어느 때보다도 불안, 공포, 우울에 많이 시달리게 된 게 바로 현대인들의 아이러니한 자화상입니다. 하지만 호르가 공동체는 이와는 정반대의 접근법을 취하고 있다는 것입니다. 이 공동체는 고통과 죽음을 외면하고 덮으려고 하지 않습니다. 때가 되면 당연히 받아들여야 하는 자연의 섭리일 뿐이죠. 이 공동체에서 자란 Pelle는 이런 호르가의 사고방식을 잘 보여줍니다. Dani와 나누는 첫 대화에서 Pelle는 단도직입적으로 그녀의 죽은 가족 이야기를 꺼냅니다. Dani는 바로 경기를 일으키면서 자리를 뜨는데요. Pelle는 이에 아랑곳 없이 다시 한번 Dani의 불행을 거론하면서 다가옵니다. 호르가 공동체는 아주 희한한 특징이 있는데요. 타인의 고통이나 죽음을 공동체 사람들이 모두 함께 느낀다는 것입니다. 여기서는 고통과 죽음을 부인하거나 대체하려 하지 않습니다. [음악] 이 공동체에서 고통은 숨기고 덮어야 할 일이 아니라 다 함께 나누고 함께 해야 할 것이죠. 저명한 신학자인 조셉 캠벨은 그의 대표작인 천의 얼굴을 한 영웅이라는 책에서 원시 고대 사회의 종교적 제의에 관해서 이렇게 설명하고 있습니다. 빛을 쫓는 축제가 자연을 통제하기 위한 주술의 노력이라는 건 무리 없는 설명이다. 진정으로 종교적인 제의에 가장 중요한 동기는 피할 길이 없는 운명에 순종한다는 것이었다. 이러한 동기는 계절적 축제에서 분명하게 드러난다. 피할 길이 없는 운명에 순종한다는 것. 꽃이 피었다가 지고 다시 피기를 반복하는 사계절처럼 인간의 고통과 죽음 역시 자연의 순환 과정의 일부임을 받아들이는 것. 바로 호르가 마을 축제의 의미를 정확히 가리키는 것 같지 않나요? 영국의 철학자 존 그레이 역시 아즈텍 문명의 인신 공양에 관해서 이야기를 하면서 이와 유사한 해석을",
+  "movie_id": "미드소마",
+  "reviewer": "요런시점_movie",
+  "chunk_index": 2,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "DANI",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Dani는 가족을 잃은 슬픔을 겪고 있으며, 현대인의 고통에 대한 부정과 외면의 태도를 보여주는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "PELLE",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Pelle는 호르가 공동체에서 자란 인물로, 고통과 죽음을 자연의 섭리로 받아들이는 호르가의 사고방식을 보여주며 Dani에게 직접적으로 그녀의 죽은 가족 이야기를 꺼내는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "아리 애스터",
+      "entity_type": "MOVIE_STAFF",
+      "entity_description": "아리 애스터는 감독으로, 스스로 걱정이 많은 사람이라고 밝혔으며 현대인이 불행을 부정하고 외면하는 태도를 전작들에서 반복적으로 다루는 테마로 삼고 있다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "조셉 캠벨",
+      "entity_type": "REVIEWER",
+      "entity_description": "조셉 캠벨은 저명한 신학자로, 대표작 '천의 얼굴을 한 영웅'에서 원시 고대 사회의 종교적 제의에 관해 설명하며 피할 길 없는 운명에 순종하는 것이 종교적 제의의 중요한 동기라고 해석했다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "존 그레이",
+      "entity_type": "REVIEWER",
+      "entity_description": "존 그레이는 영국의 철학자로, 아즈텍 문명의 인신 공양에 관해 유사한 해석을 제시한 인물이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "PELLE",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "DANI",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Pelle는 Dani에게 다가가 그녀의 죽은 가족 이야기를 직접적으로 꺼내며 호르가의 방식으로 소통하려 한다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "아리 애스터",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "DANI",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "아리 애스터 감독이 창조한 캐릭터로, 현대인의 불행에 대한 태도를 보여주는 인물이다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "아리 애스터",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "PELLE",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "아리 애스터 감독이 창조한 캐릭터로, 호르가 공동체의 사고방식을 대변하는 인물이다",
+      "relationship_strength": 9
+    }
+  ],
+  "entity_resolution": {
+    "DANI": {
+      "description": "DANI -> Dani",
+      "resolved_name": "Dani",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "PELLE": {
+      "description": "PELLE -> PELLE",
+      "resolved_name": "PELLE",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "아리 애스터": {
+      "description": "아리 애스터 -> 아리 에스터",
+      "resolved_name": "아리 에스터",
+      "entity_type": "MOVIE_STAFF",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "조셉 캠벨": {
+      "description": "조셉 캠벨 -> 조셉 캠벨",
+      "resolved_name": "조셉 캠벨",
+      "entity_type": "REVIEWER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "존 그레이": {
+      "description": "존 그레이 -> 존 그레이",
+      "resolved_name": "존 그레이",
+      "entity_type": "REVIEWER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

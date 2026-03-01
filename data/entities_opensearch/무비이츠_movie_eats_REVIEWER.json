@@ -1,0 +1,13 @@
+{
+  "entity": {
+    "name": "무비이츠_movie_eats",
+    "synonym": [
+      "무비이츠_movie_eats",
+      "무비이츠 movie eats"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "무비이츠_movie_eats은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

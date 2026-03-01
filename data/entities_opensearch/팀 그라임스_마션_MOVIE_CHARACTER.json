@@ -1,0 +1,23 @@
+{
+  "entity": {
+    "name": "팀 그라임스",
+    "synonym": [
+      "Grimes",
+      "Tim Burton",
+      "Tim Grimes",
+      "그라임스",
+      "그라임즈",
+      "버튼",
+      "팀",
+      "팀 그라임스",
+      "팀 그라임즈",
+      "팀 버튼 감독",
+      "팀그라임스",
+      "팀버튼"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "팀 그라임스은 영화 '마션'의 등장인물로, 닉 모하메드이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "chunk_hash": "4dc4fa3645c736",
+  "chunk_id": "Sean_Chandler_Plus_4dc4fa3645c736_5ac24e88",
+  "user_query": "[music] This week, a [music] new heist action thriller starring Kate Beckinsale and Lewis Tan called Wildcat drops on home video. If you like direct-to-video action movies in the vein like Scott Adkins, that sort of thing, this is one of the stronger ones and it's worth checking out. The basic plot for the film revolves around a retired special forces operative whose daughter has been kidnapped. So, she's kind of pulled back into the game to do a last-minute heist. And it's a fairly familiar sort of setup, but it's told in this grander context of these mob wars are taking place in London that has led to riots. So basically, the city is collapsing around them in this context of doing a heist in the aftermath of it. And it just brings this urgency and this extra danger to a fairly familiar sort of setup for one of these movies. Of course, Kate Beckinsale is just fun to see her running around with a machine gun destroying dudes. Likewise, Lewis Tan is very good at, you know, martial arts and action, but his character in this movie is kind of more sensitive than you're expecting. I watched the movie with my wife and, you know, she's generally speaking not super into action movies. she was kind of more invested in this movie because it just did a little bit more to kind of add to the character work to make you care about the relationship between um Louis Tan's character and Kate Beckinsale likewise investing you in caring about this kid that has been kidnapped was quite",
+  "movie_id": "와일드캣",
+  "reviewer": "Sean_Chandler_Plus",
+  "chunk_index": 1,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "WILDCAT",
+      "entity_type": "MOVIE",
+      "entity_description": "Wildcat는 케이트 베킨세일과 루이스 탄이 주연한 하이스트 액션 스릴러 영화로, 홈 비디오로 출시되었다. 은퇴한 특수부대 요원이 납치된 딸을 구하기 위해 마지막 하이스트를 수행하는 내용이며, 런던에서 벌어지는 조직 전쟁과 폭동을 배경으로 한다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "KATE BECKINSALE",
+      "entity_type": "ACTOR",
+      "entity_description": "케이트 베킨세일은 Wildcat에서 은퇴한 특수부대 요원 역할을 맡은 배우로, 기관총을 들고 액션 연기를 펼친다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "LEWIS TAN",
+      "entity_type": "ACTOR",
+      "entity_description": "루이스 탄은 Wildcat에 출연한 배우로, 무술과 액션에 뛰어나며 예상보다 더 섬세한 캐릭터를 연기했다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "SCOTT ADKINS",
+      "entity_type": "ACTOR",
+      "entity_description": "스콧 애드킨스는 직접 비디오 출시 액션 영화 장르의 대표적인 배우로 언급되었다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "KATE BECKINSALE",
+      "source_type": "ACTOR",
+      "target_entity": "WILDCAT",
+      "target_type": "MOVIE",
+      "relationship_description": "케이트 베킨세일은 Wildcat의 주연 배우이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "LEWIS TAN",
+      "source_type": "ACTOR",
+      "target_entity": "WILDCAT",
+      "target_type": "MOVIE",
+      "relationship_description": "루이스 탄은 Wildcat의 주연 배우이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "WILDCAT",
+      "source_type": "MOVIE",
+      "target_entity": "SCOTT ADKINS",
+      "target_type": "ACTOR",
+      "relationship_description": "Wildcat는 스콧 애드킨스 스타일의 직접 비디오 출시 액션 영화와 비교되었다",
+      "relationship_strength": 5
+    }
+  ],
+  "entity_resolution": {
+    "WILDCAT": {
+      "description": "WILDCAT -> WILDCAT",
+      "resolved_name": "WILDCAT",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "KATE BECKINSALE": {
+      "description": "KATE BECKINSALE -> KATE BECKINSALE",
+      "resolved_name": "KATE BECKINSALE",
+      "entity_type": "ACTOR",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "LEWIS TAN": {
+      "description": "LEWIS TAN -> LEWIS TAN",
+      "resolved_name": "LEWIS TAN",
+      "entity_type": "ACTOR",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "SCOTT ADKINS": {
+      "description": "SCOTT ADKINS -> SCOTT ADKINS",
+      "resolved_name": "SCOTT ADKINS",
+      "entity_type": "ACTOR",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

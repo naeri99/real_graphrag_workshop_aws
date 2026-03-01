@@ -1,0 +1,24 @@
+{
+  "entity": {
+    "name": "클레망스 포에지",
+    "synonym": [
+      "C. 포에지",
+      "Clemence Poesy",
+      "Clémence Poésy",
+      "Poésy",
+      "클레망스 포에시",
+      "클레망스 포에지",
+      "클레망스 푸아지",
+      "클레망스 푸에시",
+      "클레망스 푸에지",
+      "클레망스포에시",
+      "클레망스포에지",
+      "클레멍스 포에지",
+      "포에지"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "클레망스 포에지은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

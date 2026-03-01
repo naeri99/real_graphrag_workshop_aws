@@ -1,0 +1,123 @@
+{
+  "movie_title": "제리 맥과이어",
+  "director": [
+    {
+      "name": "카메론 크로우",
+      "name_en": "Cameron Crowe"
+    }
+  ],
+  "cast": [
+    {
+      "actor": "톰 크루즈",
+      "actor_en": "Tom Cruise",
+      "character": "제리 맥과이어"
+    },
+    {
+      "actor": "르네 젤위거",
+      "actor_en": "Renée Zellweger",
+      "character": "도로시 보이드"
+    },
+    {
+      "actor": "쿠바 구딩 주니어",
+      "actor_en": "Cuba Gooding Jr.",
+      "character": "로드 티드웰"
+    },
+    {
+      "actor": "보니 헌트",
+      "actor_en": "Bonnie Hunt",
+      "character": "Laurel Boyd"
+    },
+    {
+      "actor": "켈리 프레스턴",
+      "actor_en": "Kelly Preston",
+      "character": "Avery Bishop"
+    },
+    {
+      "actor": "레지나 킹",
+      "actor_en": "Regina King",
+      "character": "Marcee Tidwell"
+    },
+    {
+      "actor": "제이 모어",
+      "actor_en": "Jay Mohr",
+      "character": "Bob Sugar"
+    },
+    {
+      "actor": "제리 오코넬",
+      "actor_en": "Jerry O'Connell",
+      "character": "프랭크 쿠시먼"
+    },
+    {
+      "actor": "조나단 립니키",
+      "actor_en": "Jonathan Lipnicki",
+      "character": "레이 보이드"
+    },
+    {
+      "actor": "토드 루이소",
+      "actor_en": "Todd Louiso",
+      "character": "채드"
+    },
+    {
+      "actor": "루시 리우",
+      "actor_en": "Lucy Liu",
+      "character": "전 여자친구"
+    },
+    {
+      "actor": "마크 펠링톤",
+      "actor_en": "Mark Pellington",
+      "character": "빌 더피"
+    },
+    {
+      "actor": "알렉산드라 웬트워스",
+      "actor_en": "Alexandra Wentworth",
+      "character": "보비"
+    },
+    {
+      "actor": "켈리 코필드",
+      "actor_en": "Kelly Coffield Park",
+      "character": "셰일라"
+    },
+    {
+      "actor": "벤자민 킴벌",
+      "actor_en": "Benjamin Kimball",
+      "character": "키스 쿠시먼"
+    },
+    {
+      "actor": "에릭 스톨츠",
+      "actor_en": "Eric Stoltz",
+      "character": "에단 발리"
+    },
+    {
+      "actor": "글렌 모샤워",
+      "actor_en": "Glenn Morshower",
+      "character": "댄 무어"
+    },
+    {
+      "actor": "드레이크 벨",
+      "actor_en": "Drake Bell",
+      "character": "제시 라이더"
+    },
+    {
+      "actor": "릭 존슨",
+      "actor_en": "Rick Johnson",
+      "character": "밥 슈거의 조수"
+    },
+    {
+      "actor": "잰 웨너",
+      "actor_en": "Jann Wenner",
+      "character": "자기 자신"
+    },
+    {
+      "actor": "워렌 문",
+      "actor_en": "Warren Moon",
+      "character": "자기 자신"
+    }
+  ],
+  "review": [
+    "./data/review/제리 맥과이어/제리 맥과이어_AB1MQEqcEfE.json",
+    "./data/review/제리 맥과이어/제리 맥과이어_TU5zlRawUic.json",
+    "./data/review/제리 맥과이어/제리 맥과이어_UOFj-fCx1rU.json",
+    "./data/review/제리 맥과이어/제리 맥과이어_VItlpZZ446Y.json",
+    "./data/review/제리 맥과이어/제리 맥과이어_nrc3gT8Jwlo.json"
+  ]
+}

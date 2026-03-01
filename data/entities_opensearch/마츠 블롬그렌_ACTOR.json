@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "마츠 블롬그렌",
+    "synonym": [
+      "Mats",
+      "Mats Blomgren",
+      "마쯔 블롬그렌",
+      "마츠",
+      "마츠 브롬그렌",
+      "마츠 블롬그렌",
+      "마츠블롬그렌",
+      "맛츠 블롬그렌",
+      "블롬그렌"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "마츠 블롬그렌은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

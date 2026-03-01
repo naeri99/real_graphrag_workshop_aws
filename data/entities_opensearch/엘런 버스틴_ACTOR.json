@@ -1,0 +1,18 @@
+{
+  "entity": {
+    "name": "엘런 버스틴",
+    "synonym": [
+      "Ellen Burstyn",
+      "버스틴",
+      "엘런",
+      "엘런 버스틴",
+      "엘런버스틴",
+      "엘렌 버스틴",
+      "엘렌버스틴"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "엘런 버스틴은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

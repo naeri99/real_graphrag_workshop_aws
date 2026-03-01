@@ -1,0 +1,27 @@
+{
+  "entity": {
+    "name": "NS4 로봇",
+    "synonym": [
+      "NS-4",
+      "NS-4 Robot",
+      "NS-4 로봇",
+      "NS-4로봇",
+      "NS4",
+      "NS4 Robot",
+      "NS4 로봇",
+      "NS4로봇",
+      "구형 로봇",
+      "구형로봇",
+      "네스터4",
+      "엔에스4",
+      "엔에스4 로봇",
+      "엔에스4로봇",
+      "엔에스포",
+      "엔에스포 로봇"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "NS4 로봇은 영화 '아이 로봇'의 등장인물로, 데이비드 헤이솜이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

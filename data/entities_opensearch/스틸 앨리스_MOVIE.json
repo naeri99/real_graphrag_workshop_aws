@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "스틸 앨리스",
+    "synonym": [
+      "Still Alice",
+      "Still 앨리스",
+      "스틸 앨리스",
+      "스틸 엘리스",
+      "스틸앨리스",
+      "스틸엘리스",
+      "여전히 앨리스",
+      "영화 스틸 앨리스"
+    ],
+    "entity_type": "MOVIE",
+    "summary": "스틸 앨리스",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

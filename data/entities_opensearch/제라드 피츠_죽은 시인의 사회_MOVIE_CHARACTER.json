@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "제라드 피츠",
+    "synonym": [
+      "Gerard",
+      "Gerard Pitts",
+      "Pitts",
+      "제라드",
+      "제라드 피츠",
+      "제라드피츠",
+      "제랄드 피츠",
+      "제럴드 피츠",
+      "피츠"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "제라드 피츠은 영화 '죽은 시인의 사회'의 등장인물로, 제임스 워터스톤이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

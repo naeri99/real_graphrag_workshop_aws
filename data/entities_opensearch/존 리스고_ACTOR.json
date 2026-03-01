@@ -1,0 +1,23 @@
+{
+  "entity": {
+    "name": "존 리스고",
+    "synonym": [
+      "John Lithgow",
+      "리드고",
+      "리스고",
+      "리스고우",
+      "존",
+      "존 리드고",
+      "존 리드고우",
+      "존 리스고",
+      "존 리스고우",
+      "존 리쓰고",
+      "존리스고",
+      "존리스고우"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "존 리스고은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

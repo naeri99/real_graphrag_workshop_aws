@@ -1,0 +1,30 @@
+{
+  "entity": {
+    "name": "리 웨인",
+    "synonym": [
+      "Batman",
+      "Bruce Wayne",
+      "Lee",
+      "Lee Wayne",
+      "Martha Wayne",
+      "Wayne",
+      "다크나이트",
+      "리",
+      "리 웨인",
+      "리웨인",
+      "마사",
+      "마사웨인",
+      "배트맨",
+      "브루스",
+      "브루스 어머니",
+      "브루스웨인",
+      "어린 브루스 웨인",
+      "웨인",
+      "웨인 부인"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "리 웨인은 영화 '덤플링'의 등장인물로, 해롤드 페리노이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

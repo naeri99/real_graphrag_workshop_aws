@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "클리프 커티스",
+    "synonym": [
+      "Cliff Curtis",
+      "커티스",
+      "클리프",
+      "클리프 커르티스",
+      "클리프 커어티스",
+      "클리프 커티스",
+      "클리프커티스",
+      "클립 커티스"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "클리프 커티스은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

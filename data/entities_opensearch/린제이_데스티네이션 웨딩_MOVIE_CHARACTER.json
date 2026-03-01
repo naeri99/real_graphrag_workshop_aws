@@ -1,0 +1,18 @@
+{
+  "entity": {
+    "name": "린제이",
+    "synonym": [
+      "Lindsay",
+      "린드세이",
+      "린세이",
+      "린저이",
+      "린제이",
+      "린지",
+      "린지이"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "린제이은 영화 '데스티네이션 웨딩'의 등장인물로, 위노나 라이더이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

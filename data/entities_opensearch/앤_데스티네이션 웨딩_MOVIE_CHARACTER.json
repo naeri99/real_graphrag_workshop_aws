@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "앤",
+    "synonym": [
+      "Anne",
+      "Anne Hathaway",
+      "안",
+      "애니",
+      "앤",
+      "앤 해써웨이",
+      "앤느",
+      "앤해서웨이",
+      "해서웨이",
+      "해써웨이"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "앤은 영화 '데스티네이션 웨딩'의 등장인물로, DJ 달렌바흐이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

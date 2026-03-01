@@ -1,0 +1,13 @@
+{
+  "entity": {
+    "name": "김범수_KIM_BUM_SOO",
+    "synonym": [
+      "김범수_KIM_BUM_SOO",
+      "김범수 KIM BUM SOO"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "김범수_KIM_BUM_SOO은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

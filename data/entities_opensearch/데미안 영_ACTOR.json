@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "데미안 영",
+    "synonym": [
+      "Damian Young",
+      "Damien Young",
+      "Young",
+      "대미안 영",
+      "데미안",
+      "데미안 영",
+      "데미안영",
+      "데미언 영",
+      "데이미안 영",
+      "데이미언 영",
+      "영"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "데미안 영은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

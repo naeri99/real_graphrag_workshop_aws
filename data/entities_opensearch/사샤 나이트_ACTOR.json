@@ -1,0 +1,26 @@
+{
+  "entity": {
+    "name": "사샤 나이트",
+    "synonym": [
+      "M. Night Shyamalan",
+      "Sasha",
+      "Sasha Knight",
+      "Sasha Night",
+      "나이트",
+      "나이트 샤말란",
+      "라이트 샤말란",
+      "사샤 나이트",
+      "사샤 나잇",
+      "사샤 나잇트",
+      "사샤나이트",
+      "사샤나잇",
+      "샤말란",
+      "샤말란 감독",
+      "샤샤 나이트"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "사샤 나이트은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "스콧 애드킨스",
+    "synonym": [
+      "Scott",
+      "Scott Adkins",
+      "스캇 애드킨스",
+      "스캇애드킨스",
+      "스코트 애드킨스",
+      "스콧",
+      "스콧 아드킨스",
+      "스콧 애드킨스",
+      "스콧애드킨스",
+      "애드킨스"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "스콧 애드킨스은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

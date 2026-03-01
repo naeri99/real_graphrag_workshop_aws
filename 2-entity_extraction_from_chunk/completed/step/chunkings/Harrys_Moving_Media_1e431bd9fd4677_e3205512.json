@@ -1,0 +1,115 @@
+{
+  "chunk_hash": "1e431bd9fd4677",
+  "chunk_id": "Harrys_Moving_Media_1e431bd9fd4677_e3205512",
+  "user_query": "be released alongside of the grave of the fireflies one can imagine this must have been a challenge for Ghibli given that they didn't have their reputation or global financial success back in the 80s yet this choice of pairing does also prove that Studio Ghibli were capable of creating masterpieces of both serious and light-hearted natures originally the film was intended to have one female protagonist instead of to a six-year-old girl with red hair the decision to put the focus on two girls at different ages allows for a broader exploration of family as opposed to the traditional hero with a goal to overcome to do this Miyazaki encouraged his animators to observe children that pass by their office windows to ensure the realistic characterization and animation of the girls Mei for example is not your typical innocent cherub like other girls of her age are commonly portrayed in western films she roars cries loves to pretend and throws tantrums she is a realistic child despite the realistic portrayal of the characters and setting it collides with the fantastical world of the spirits around the location we see shrines and temples including statues of foxes the statues are also known as kitsune e boxes that have supernatural powers such as the ability to transform kitsune are regarded as protectors of crops which is why they're typically found near fields and we actually meet some kitsune in Ghibli's 1994 film pom Poko shrines are typically known to be in dark quiet and peaceful",
+  "movie_id": "토토로",
+  "reviewer": "Harrys_Moving_Media",
+  "chunk_index": 3,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "GRAVE OF THE FIREFLIES",
+      "entity_type": "MOVIE",
+      "entity_description": "반딧불이의 묘는 스튜디오 지브리에서 제작한 진지한 성격의 애니메이션 영화이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "STUDIO GHIBLI",
+      "entity_type": "MOVIE_STAFF",
+      "entity_description": "스튜디오 지브리는 진지한 작품과 가벼운 작품 모두에서 걸작을 만들어낼 수 있는 능력을 가진 일본 애니메이션 스튜디오이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "MIYAZAKI",
+      "entity_type": "MOVIE_STAFF",
+      "entity_description": "미야자키는 애니메이터들에게 사무실 창문 밖을 지나가는 아이들을 관찰하도록 권장하여 소녀들의 사실적인 캐릭터화와 애니메이션을 보장한 감독이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "MEI",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "메이는 서양 영화에서 흔히 묘사되는 전형적인 순수한 천사 같은 소녀가 아닌, 포효하고 울고 가장놀이를 좋아하며 떼를 쓰는 사실적인 어린이 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "POM POKO",
+      "entity_type": "MOVIE",
+      "entity_description": "폼포코는 1994년 스튜디오 지브리에서 제작한 영화로, 키츠네(여우)가 등장하는 작품이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "STUDIO GHIBLI",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "GRAVE OF THE FIREFLIES",
+      "target_type": "MOVIE",
+      "relationship_description": "스튜디오 지브리가 반딧불이의 묘를 제작했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "STUDIO GHIBLI",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "POM POKO",
+      "target_type": "MOVIE",
+      "relationship_description": "스튜디오 지브리가 1994년에 폼포코를 제작했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "MIYAZAKI",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "MEI",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "미야자키는 메이 캐릭터의 사실적인 묘사를 위해 애니메이터들을 지도했다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "MIYAZAKI",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "STUDIO GHIBLI",
+      "target_type": "MOVIE_STAFF",
+      "relationship_description": "미야자키는 스튜디오 지브리의 감독으로 활동했다",
+      "relationship_strength": 10
+    }
+  ],
+  "entity_resolution": {
+    "GRAVE OF THE FIREFLIES": {
+      "description": "GRAVE OF THE FIREFLIES -> GRAVE OF THE FIREFLIES",
+      "resolved_name": "GRAVE OF THE FIREFLIES",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "STUDIO GHIBLI": {
+      "description": "STUDIO GHIBLI -> STUDIO GHIBLI",
+      "resolved_name": "STUDIO GHIBLI",
+      "entity_type": "MOVIE_STAFF",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "MIYAZAKI": {
+      "description": "MIYAZAKI -> MIYAZAKI",
+      "resolved_name": "MIYAZAKI",
+      "entity_type": "MOVIE_STAFF",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "MEI": {
+      "description": "MEI -> MEI",
+      "resolved_name": "MEI",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "POM POKO": {
+      "description": "POM POKO -> POM POKO",
+      "resolved_name": "POM POKO",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

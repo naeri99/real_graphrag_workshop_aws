@@ -1,0 +1,26 @@
+{
+  "chunk_hash": "3ba2fd5f500307",
+  "chunk_id": "유캔프리_UCANFREE_3ba2fd5f500307_7732048e",
+  "user_query": "today we are given an opportunity to help mankind Could you um please take this folder into the conference room for me Mr. Wyndham's expecting a conference room for me Mr. Wyndham's expecting it could you um please take this folder into the conference room for me Mr. Wyndham's expecting it could you um please take this folder into the conference room for me Mr. Wyndham's expecting it could you um please take this folder into the conference room for me Mr. Wyndham's expecting it I'm Sorry Miss but that's against Hotel policy I'm Sorry Miss but that's against Hotel policy I'm Sorry Miss but that's against Hotel policy I'm Sorry Miss but that's against Hotel policy I'm Sorry Miss but that's against Hotel policy but he could lose his job but he could lose his job but he could lose his job but he could lose his job but he could lose his job that's tragic it was tragic it was tragic it was tragic it was tragic but alas not my problem but alas not my problem but alas not my problem but alas not my problem but alas not my problem God you and you guys are nasty it sounds polite God you and you guys are nasty it sounds polite God you and you guys are nasty it sounds polite God you and you guys are nasty it sounds polite but when you guys are nasty it sounds polite briefcase open I have to go in shit's open I have to go in shit's open I have to go in briefcase open I have to go in briefcase open I have to go in excuse me for interrupting Mr. Wyndham excuse me for interrupting Mr.",
+  "movie_id": "이프 온리",
+  "reviewer": "유캔프리_UCANFREE",
+  "chunk_index": 8,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "MR. WYNDHAM",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Mr. Wyndham은 회의실에서 폴더를 기다리고 있는 인물로, 호텔이나 사무실 환경에서 중요한 위치에 있는 것으로 보인다"
+    }
+  ],
+  "relationships": [],
+  "entity_resolution": {
+    "MR. WYNDHAM": {
+      "description": "MR. WYNDHAM -> MR. WYNDHAM",
+      "resolved_name": "MR. WYNDHAM",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

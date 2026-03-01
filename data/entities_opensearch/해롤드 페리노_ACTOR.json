@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "해롤드 페리노",
+    "synonym": [
+      "Harold Perrineau",
+      "페리노",
+      "해럴드 페리노",
+      "해롤드",
+      "해롤드 페리노",
+      "해롤드 페리뇨",
+      "해롤드 페리뉴",
+      "해롤드페리노"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "해롤드 페리노은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

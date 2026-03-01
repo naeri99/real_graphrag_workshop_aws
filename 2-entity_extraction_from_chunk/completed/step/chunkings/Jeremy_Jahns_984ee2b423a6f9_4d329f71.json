@@ -1,0 +1,71 @@
+{
+  "chunk_hash": "984ee2b423a6f9",
+  "chunk_id": "Jeremy_Jahns_984ee2b423a6f9_4d329f71",
+  "user_query": "South Park and so I guess Nolan remixed it for the movie that was coming out so Nolan's known for having some people come out of movie theaters being like the way that was mixed was strange and I kind of ran into that a few times with this movie like sometimes you have sound effects in the background you know ambient noise but it's overtaking some of the voices and you have some of the music coming on and when they talk and they're dialogue and it sounds like this you know you get to talk to them I feel like an old man like what do you say or maybe it's just me maybe I'm just there but if it's not the movie itself let's not jump to that conclusion I still say drunk projectionist if for nothing else when this movie comes out on Blu-ray I want like 10 hours of making of because the making of in this movie I'm sure is so fascinating I want to know more about it I want to know more of it like that hallway fight scene alone it's wild I don't know how they did it I'd like to I'm intrigued I'm fascinated so the big enemy in this movie isn't actually Kenneth Branagh it's trailers I just get bummed out when I think of what the trailer could have been like if it was just a Christopher Nolan film like right there we're gonna see it anyway and in the trailer it was like oh this guy gets recruited something called TENET this bad guy has a thing and it's a danger to the world I was like oh it's like Nolan's doing a James Bondish thing all right let's watch this Nolan thing and then in the",
+  "movie_id": "테넷",
+  "reviewer": "Jeremy_Jahns",
+  "chunk_index": 4,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "CHRISTOPHER NOLAN",
+      "entity_type": "MOVIE_STAFF",
+      "entity_description": "크리스토퍼 놀란은 테넷의 감독으로, 독특한 사운드 믹싱 스타일로 알려져 있으며 관객들이 극장에서 나올 때 믹싱이 이상하다고 느끼게 만드는 것으로 유명하다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "TENET",
+      "entity_type": "MOVIE",
+      "entity_description": "테넷은 크리스토퍼 놀란이 감독한 영화로, 제임스 본드 스타일의 스파이 영화 요소를 가지고 있으며 복도 격투 장면 등 인상적인 촬영 기법이 사용되었다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "KENNETH BRANAGH",
+      "entity_type": "ACTOR",
+      "entity_description": "케네스 브래너는 테넷에서 악역을 맡은 배우이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "CHRISTOPHER NOLAN",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "TENET",
+      "target_type": "MOVIE",
+      "relationship_description": "크리스토퍼 놀란은 테넷을 감독하고 사운드 믹싱을 담당했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "KENNETH BRANAGH",
+      "source_type": "ACTOR",
+      "target_entity": "TENET",
+      "target_type": "MOVIE",
+      "relationship_description": "케네스 브래너는 테넷에서 악역으로 출연했다",
+      "relationship_strength": 9
+    }
+  ],
+  "entity_resolution": {
+    "CHRISTOPHER NOLAN": {
+      "description": "CHRISTOPHER NOLAN -> CHRISTOPHER NOLAN",
+      "resolved_name": "CHRISTOPHER NOLAN",
+      "entity_type": "MOVIE_STAFF",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "TENET": {
+      "description": "TENET -> 테넷",
+      "resolved_name": "테넷",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "KENNETH BRANAGH": {
+      "description": "KENNETH BRANAGH -> KENNETH BRANAGH",
+      "resolved_name": "KENNETH BRANAGH",
+      "entity_type": "ACTOR",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "entity": {
+    "name": "Dr. Alfred Lanning",
+    "synonym": [
+      "Alfred Lanning",
+      "Dr. Alfred Lanning",
+      "Dr. Lanning",
+      "Lanning",
+      "닥터 래닝",
+      "래닝",
+      "래닝 박사",
+      "래닝박사",
+      "랜닝",
+      "랜닝 박사",
+      "박사",
+      "알프레드",
+      "알프레드 래닝",
+      "알프레드 래닝 박사",
+      "알프레드 레닝",
+      "알프레드래닝"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "Dr. Alfred Lanning은 영화 '아이 로봇'의 등장인물로, 제임스 크롬웰이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

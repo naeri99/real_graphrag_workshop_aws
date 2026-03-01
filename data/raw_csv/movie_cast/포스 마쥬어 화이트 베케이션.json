@@ -1,0 +1,56 @@
+{
+  "movie_title": "포스 마쥬어 화이트 베케이션",
+  "director": [
+    {
+      "name": "루벤 외스트룬드",
+      "name_en": "Ruben Östlund"
+    }
+  ],
+  "cast": [
+    {
+      "actor": "요하네스 바 쿤게",
+      "actor_en": "Johannes Bah Kuhnke",
+      "character": "Tomas"
+    },
+    {
+      "actor": "리사 로벤 콩슬리",
+      "actor_en": "Lisa Loven Kongsli",
+      "character": "Ebba"
+    },
+    {
+      "actor": "빈센트 베테르그렌",
+      "actor_en": "Vincent Wettergren",
+      "character": "Harry"
+    },
+    {
+      "actor": "클라라 베테르그렌",
+      "actor_en": "Clara Wettergren",
+      "character": "베라"
+    },
+    {
+      "actor": "크리스토퍼 히뷰",
+      "actor_en": "Kristofer Hivju",
+      "character": "마츠"
+    },
+    {
+      "actor": "파니 메텔리우스",
+      "actor_en": "Fanni Metelius",
+      "character": "파니"
+    },
+    {
+      "actor": "카린 뮈렌베리 파베르",
+      "actor_en": "Karin Myrenberg Faber",
+      "character": "샬롯"
+    },
+    {
+      "actor": "브래디 코벳",
+      "actor_en": "Brady Corbet",
+      "character": "아메리카넨"
+    }
+  ],
+  "review": [
+    "./data/review/포스 마쥬어 화이트 베케이션/포스 마쥬어 화이트 베케이션_RGbW52CeCwQ.json",
+    "./data/review/포스 마쥬어 화이트 베케이션/포스 마쥬어 화이트 베케이션_p-UCG-i_hGg.json",
+    "./data/review/포스 마쥬어 화이트 베케이션/포스 마쥬어 화이트 베케이션_uhQE-N_ZDOw.json"
+  ]
+}

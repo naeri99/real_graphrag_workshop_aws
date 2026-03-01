@@ -1,0 +1,31 @@
+{
+  "entity": {
+    "name": "괴물",
+    "synonym": [
+      "Gwoemul",
+      "Monster",
+      "The Host",
+      "The Monster",
+      "goemul",
+      "gwoemul",
+      "怪物",
+      "고에물",
+      "과물",
+      "괴물",
+      "괴물 2006",
+      "괴물 영화",
+      "더 호스트",
+      "더호스트",
+      "몬스터",
+      "봉준호 괴물",
+      "생물체",
+      "크리처",
+      "한강 괴물",
+      "한강괴물"
+    ],
+    "entity_type": "MOVIE",
+    "summary": "괴물",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

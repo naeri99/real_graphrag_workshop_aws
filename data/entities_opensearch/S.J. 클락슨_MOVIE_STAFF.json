@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "S.J. 클락슨",
+    "synonym": [
+      "Clarkson",
+      "S.J. Clarkson",
+      "S.J. 클락슨",
+      "S.J.클락슨",
+      "SJ 클락슨",
+      "SJ클락슨",
+      "에스제이 클락슨",
+      "클락슨",
+      "클락슨 감독"
+    ],
+    "entity_type": "MOVIE_STAFF",
+    "summary": "S.J. 클락슨은 영화 감독입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

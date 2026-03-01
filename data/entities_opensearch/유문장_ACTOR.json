@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "유문장",
+    "synonym": [
+      "Liu Wenzhang",
+      "Yuwen Zhang",
+      "류 원장",
+      "류문장",
+      "류원장",
+      "류원창",
+      "리우원장",
+      "유 문장",
+      "유문장",
+      "유문장 배우",
+      "유문장이"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "유문장은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

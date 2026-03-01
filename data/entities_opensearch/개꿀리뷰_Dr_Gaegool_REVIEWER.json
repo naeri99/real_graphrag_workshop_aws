@@ -1,0 +1,13 @@
+{
+  "entity": {
+    "name": "개꿀리뷰_Dr_Gaegool",
+    "synonym": [
+      "개꿀리뷰_Dr_Gaegool",
+      "개꿀리뷰 Dr Gaegool"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "개꿀리뷰_Dr_Gaegool은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

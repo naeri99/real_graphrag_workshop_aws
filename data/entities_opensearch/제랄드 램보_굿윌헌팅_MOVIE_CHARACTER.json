@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "제랄드 램보",
+    "synonym": [
+      "Gerald",
+      "Gerald Lambeau",
+      "Lambeau",
+      "람보",
+      "람보 교수",
+      "램보",
+      "램보 교수",
+      "제랄드",
+      "제랄드 램보",
+      "제랄드램보",
+      "제럴드 램보"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "제랄드 램보은 영화 '굿윌헌팅'의 등장인물로, 스텔란 스카스가드이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

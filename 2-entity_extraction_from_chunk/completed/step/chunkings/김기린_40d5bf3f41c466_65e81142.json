@@ -1,0 +1,265 @@
+{
+  "chunk_hash": "40d5bf3f41c466",
+  "chunk_id": "김기린_40d5bf3f41c466_65e81142",
+  "user_query": "설정과는 다르게 이곳을 평소 자신들이 살고 싶어 했던 집을 생각하며 제작하였다고 하는데 놀랍게도 제작이 끝날 무렵에는 작품에 대한 말은 일절 하지 않은 채 연신 나는 언제 저런 집에서 살아볼 수 있을까라는 말만 되새김질 하였다고 사츠키 자매가 별장에서 만난 이 생물들은 스스와타리라는 이름을 갖고 있으며 이들의 효과음은 피그미족의 목소리를 샘플링하여 제작되었다 토토로의 미국 배급사 측에서는 작중 사츠키 자매가 아버지와 함께 목욕을 하고 있는 장면을 보고 미국 정서에 맞지 않을 거라 판단하여 이를 삭제하려 했으나 작품에 대해 편집을 원치 않았던 미야자키로 인해서 토토로는 풀버전 그대로 미국에서 상영하게 되었고 이후 작품을 본 수많은 미국 사람들은 적지 않은 충격을 받게 되었다 덧붙여 미국에서는 이웃집 토토로를 로컬라이징 하기 위해 토토로의 이름을 추두룩 크레이그 캡틴 엉클 샘 등으로 변경하려 했지만 미야자키에게 토토로에게 초토로 같은 이름 따위 없습니다 라는 소리를 듣고 거절당하였다고 하는데 미국 위키에도 적혀 있었던 이 비하인드 스토리는 얼마 지나지 않아서 당시 배급사 측에서 근무했던 직원의 게시글로 인해 거짓으로 밝혀졌다 사츠키의 아버지로 등장하는 쿠사카베 타츠오는 도쿄에 있는 대학에서 시간강사로 근무하고 있으며 아내의 병원비와 생활비를 마련하기 위해서 집에서는 번역 작업을 겸하고 있다 타츠오의 목소리는 과장된 연기를 싫어했던 미야자키의 제안으로 인해 배우도 성우도 아닌 일본의 국민 카피라이터 이토이 시게사토가 캐스팅되었고 사츠키의 어머니 역을 맡은 시마모토 스미는 원래 사츠키 역으로 오디션을 진행하였지만 그녀의 목소리로 사츠키를 연기하게 된다면 편집증을 지닌 아이가 될 것 같다는 이유로 사츠키의 어머니인 쿠사카베 야스코 역을 맡게 되었다 이웃집 토토로의 아트북에 실려있는 초기 스토리보드에 따르면 토토로들은 각각 미미즈쿠 1324살 즈쿠 679살로 기재되어 있지만 미야자키의 인터뷰가 실려있는 출발점에 따르면 큰 토토로의 나이는 3000살로 변경되었다고 한다 미미즈쿠라고 불리는 큰 토토로의 모습은 곰돌이들의 모험에 등장하는 팬더와 부엉이의 모습을 참고하여 제작되었는데 재미있게도 토토로의 털을 다 깎아내면 머리와 몸통이 분리되어 있는 것을 확인할 수 있다 토토로가 살고 있는 거주지는 원래 나무를 도려낸 원룸으로 제작되어 있었지만 너무 현대식 건축물처럼 보였기 때문에 이를 포기하고 대충 이끼가 낀 것을 둘러서 토토로의 집으로 설정하게 되었다고 일본의 어느 한 유튜버는 토토로의 재채기로 날아가는 메이를 보고 토토로의 재채기가 어느 정도인지 물리 엔진을 통해 측정하게 되었는데 결론만 말하게 된다면 토토로의 재채기는 태풍 하이선과 맞먹을 정도라고 하며 토토로의 폐활량은 인간의 약 875배라고 이웃집 토토로의 배경은 미야자키 감독이 어린 시절을 보내왔던 토코로자와를 바탕으로 제작되었는데 이로 인해 실제 토코로자와 시에서는 시설립 70주년을 기념하여 토토로 기념비를 설치하였다 작중 사츠키의 친구 칸타가 공책에 낙서한 그림은 스기우라 시게루의 작품 속",
+  "movie_id": "토토로",
+  "reviewer": "김기린",
+  "chunk_index": 2,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "이웃집 토토로",
+      "entity_type": "MOVIE",
+      "entity_description": "이웃집 토토로는 미야자키 감독이 연출한 일본 애니메이션 영화로, 사츠키 자매와 토토로라는 생물의 만남을 다룬 작품이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "미야자키",
+      "entity_type": "MOVIE_STAFF",
+      "entity_description": "미야자키는 이웃집 토토로의 감독으로, 작품 편집을 원치 않았으며 과장된 연기를 싫어하는 것으로 알려져 있다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "사츠키",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "사츠키는 이웃집 토토로의 주인공 자매 중 한 명으로, 아버지와 함께 시골로 이사한 소녀이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "메이",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "메이는 사츠키의 동생으로, 토토로의 재채기에 날아가는 장면이 있는 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "토토로",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "토토로는 이웃집 토토로에 등장하는 생물로, 미미즈쿠라고도 불리며 나이는 3000살이고 곰돌이들의 모험의 팬더와 부엉이를 참고하여 디자인되었다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "쿠사카베 타츠오",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "쿠사카베 타츠오는 사츠키의 아버지로, 도쿄 대학에서 시간강사로 근무하며 아내의 병원비를 위해 번역 작업을 겸하고 있다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "쿠사카베 야스코",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "쿠사카베 야스코는 사츠키의 어머니로, 병원에 입원해 있는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "칸타",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "칸타는 사츠키의 친구로, 공책에 낙서를 하는 장면이 있는 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "이토이 시게사토",
+      "entity_type": "ACTOR",
+      "entity_description": "이토이 시게사토는 일본의 국민 카피라이터로, 배우나 성우가 아님에도 쿠사카베 타츠오의 목소리를 맡았다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "시마모토 스미",
+      "entity_type": "ACTOR",
+      "entity_description": "시마모토 스미는 원래 사츠키 역으로 오디션을 봤으나 쿠사카베 야스코 역을 맡게 된 성우이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "스스와타리",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "스스와타리는 사츠키 자매가 별장에서 만난 생물들로, 피그미족의 목소리를 샘플링하여 효과음이 제작되었다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "미야자키",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "이웃집 토토로",
+      "target_type": "MOVIE",
+      "relationship_description": "미야자키는 이웃집 토토로의 감독이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "사츠키",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "이웃집 토토로",
+      "target_type": "MOVIE",
+      "relationship_description": "사츠키는 이웃집 토토로의 주인공이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "메이",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "이웃집 토토로",
+      "target_type": "MOVIE",
+      "relationship_description": "메이는 이웃집 토토로에 등장하는 캐릭터이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "토토로",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "이웃집 토토로",
+      "target_type": "MOVIE",
+      "relationship_description": "토토로는 이웃집 토토로의 핵심 캐릭터이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "사츠키",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "메이",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "사츠키와 메이는 자매 관계이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "사츠키",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "쿠사카베 타츠오",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "쿠사카베 타츠오는 사츠키의 아버지이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "사츠키",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "쿠사카베 야스코",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "쿠사카베 야스코는 사츠키의 어머니이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "사츠키",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "칸타",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "칸타는 사츠키의 친구이다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "이토이 시게사토",
+      "source_type": "ACTOR",
+      "target_entity": "쿠사카베 타츠오",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "이토이 시게사토는 쿠사카베 타츠오의 목소리를 연기했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "시마모토 스미",
+      "source_type": "ACTOR",
+      "target_entity": "쿠사카베 야스코",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "시마모토 스미는 쿠사카베 야스코의 목소리를 연기했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "사츠키",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "스스와타리",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "사츠키 자매는 별장에서 스스와타리를 만났다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "토토로",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "메이",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "토토로가 재채기할 때 메이가 날아가는 장면이 있다",
+      "relationship_strength": 8
+    }
+  ],
+  "entity_resolution": {
+    "이웃집 토토로": {
+      "description": "이웃집 토토로 -> 이웃집 토토로",
+      "resolved_name": "이웃집 토토로",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "미야자키": {
+      "description": "미야자키 -> 미야자키 하야오",
+      "resolved_name": "미야자키 하야오",
+      "entity_type": "MOVIE_STAFF",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "사츠키": {
+      "description": "사츠키 -> 사츠키",
+      "resolved_name": "사츠키",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "메이": {
+      "description": "메이 -> 메이",
+      "resolved_name": "메이",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "토토로": {
+      "description": "토토로 -> 토토로",
+      "resolved_name": "토토로",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "쿠사카베 타츠오": {
+      "description": "쿠사카베 타츠오 -> 쿠사카베 타츠오",
+      "resolved_name": "쿠사카베 타츠오",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "쿠사카베 야스코": {
+      "description": "쿠사카베 야스코 -> 쿠사카베 야스코 (엄마)",
+      "resolved_name": "쿠사카베 야스코 (엄마)",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "칸타": {
+      "description": "칸타 -> 칸타",
+      "resolved_name": "칸타",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "이토이 시게사토": {
+      "description": "이토이 시게사토 -> 이토이 시게사토",
+      "resolved_name": "이토이 시게사토",
+      "entity_type": "ACTOR",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "시마모토 스미": {
+      "description": "시마모토 스미 -> 시마모토 스미",
+      "resolved_name": "시마모토 스미",
+      "entity_type": "ACTOR",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "스스와타리": {
+      "description": "스스와타리 -> 스스와타리",
+      "resolved_name": "스스와타리",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

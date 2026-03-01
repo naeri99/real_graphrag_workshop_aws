@@ -1,0 +1,18 @@
+{
+  "entity": {
+    "name": "크랜워스 경",
+    "synonym": [
+      "Lord Cranworth",
+      "로드 크랜워스",
+      "크랜워드",
+      "크랜워드 경",
+      "크랜워스",
+      "크랜워스 경",
+      "크랜워스경"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "크랜워스 경은 영화 '아웃 오브 아프리카'의 등장인물로, 레슬리 필립스이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

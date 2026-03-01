@@ -1,0 +1,24 @@
+{
+  "entity": {
+    "name": "어스 관리자 2",
+    "synonym": [
+      "Earth 2",
+      "Earth Inspector 2",
+      "Earth Manager 2",
+      "Earth Official 2",
+      "Earth2",
+      "땅 관리자 2",
+      "어스 관리자 2",
+      "어스 매니저 2",
+      "어스관리자2",
+      "지구 관리자 2",
+      "지구관리자2",
+      "흙 관리자 2",
+      "흙관리자2"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "어스 관리자 2은 영화 '엘리멘탈'의 등장인물로, 로날드 라이트이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

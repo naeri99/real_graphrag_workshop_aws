@@ -1,0 +1,16 @@
+{
+  "entity": {
+    "name": "와이어트",
+    "synonym": [
+      "Wyatt",
+      "와이앳",
+      "와이얏",
+      "와이어트",
+      "와이엇"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "와이어트은 영화 '아가일'의 등장인물로, 존 시나이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

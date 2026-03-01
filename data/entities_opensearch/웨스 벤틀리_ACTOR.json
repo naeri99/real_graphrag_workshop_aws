@@ -1,0 +1,23 @@
+{
+  "entity": {
+    "name": "웨스 벤틀리",
+    "synonym": [
+      "Wes Bentley",
+      "Wes Craven",
+      "벤틀리",
+      "웨스",
+      "웨스 벤트리",
+      "웨스 벤틀레이",
+      "웨스 벤틀리",
+      "웨스 크레이븐",
+      "웨스벤틀리",
+      "웨스크레이븐",
+      "웨슬리 벤틀리",
+      "크레이븐 감독"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "웨스 벤틀리은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

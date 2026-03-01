@@ -1,0 +1,137 @@
+{
+  "chunk_hash": "666852aa3b5ce5",
+  "chunk_id": "늘보Movie_666852aa3b5ce5_074bef9c",
+  "user_query": "this. Now that we can have more complicated conversations the smart people at NASA have sent me instructions on how to hack the rover so that it canfyers. [음악] 그렇게 마크는 드디어 지구와 원활하게 교신을 할 수가 있게 됐죠. We're working on rescue plans. Meanwhile we're putting together a supply mission to keep you fed until Aries arrives. Glad to hear it. Really looking forward to not [웃음] Oh, one big bonus to this communication with NASA again is the email. I'm getting the coolest one though. The coolest one I got was from University of Chicago, my they say that once you grow crops somewhere you've officially technically Ioned Mars in your face. I want to announce we're launching some supplies to next year during the home and transfer window. Bros, your team still on schedule? It'll be tight but we make it. Travel time that puts the to Mars on 868. 그렇게 타이트한 구조 계획이 진행되고 있던 어느 날 예기치 못한 사고로 마크가 심혈을 기울였던 농작물들은 모두 죽어버리고 말았죠. 한편 탐사선의 최적항로를 연구하는 우주 역학팀의 Rich는 밤낮이 없는 생활을 하고 있었습니다. It's all right. Um, all 25 models for launch will take 414 days to reach Mars. They very slightly restoration and the fuel requirement is nearly identical. Good time to launch. 그런데 그때 무엇인가 떠오른 Rich F를 확인한 Rich는 나사 본사로 달려갑니다. landing system sending rations we can crash land on you hang up the sorry who are you my name is I work asamics and you hang up theone right now all I can get the her backs by 561 let's pretend that this stapler is the hermies and you Sorry. What's your name again? Teddy. I'm theor of NASA. Cool. Teddy. You're",
+  "movie_id": "마션",
+  "reviewer": "늘보Movie",
+  "chunk_index": 3,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "마크",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "마크는 화성에 고립된 우주비행사로, 지구와 교신을 재개하고 농작물을 재배하며 생존을 위해 노력하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "NASA",
+      "entity_type": "MOVIE_STAFF",
+      "entity_description": "NASA는 미국 항공우주국으로, 마크의 구조 계획과 보급 임무를 진행하는 조직이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "RICH",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Rich는 NASA의 우주 역학팀에서 탐사선의 최적항로를 연구하는 인물로, 밤낮없이 일하며 중요한 발견을 하고 본사로 달려간다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "TEDDY",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Teddy는 NASA의 국장(Director)으로, Rich가 찾아가 보고하는 대상이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "HERMES",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Hermes는 화성 탐사선으로, 마크 구조 계획에서 중요한 역할을 하는 우주선이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "UNIVERSITY OF CHICAGO",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "시카고 대학교는 마크에게 이메일을 보내 화성에서 농작물을 재배함으로써 공식적으로 화성을 식민지화했다고 알려준 기관이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "마크",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "NASA",
+      "target_type": "MOVIE_STAFF",
+      "relationship_description": "NASA는 마크를 구조하기 위한 계획을 수립하고 보급 임무를 준비한다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "RICH",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "NASA",
+      "target_type": "MOVIE_STAFF",
+      "relationship_description": "Rich는 NASA의 우주 역학팀에서 근무하며 탐사선 항로를 연구한다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "RICH",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "TEDDY",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Rich는 중요한 발견을 하고 NASA 국장 Teddy에게 보고하러 간다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "TEDDY",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "NASA",
+      "target_type": "MOVIE_STAFF",
+      "relationship_description": "Teddy는 NASA의 국장으로 조직을 이끈다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "HERMES",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "마크",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Hermes 탐사선은 마크를 구조하기 위해 화성으로 향할 예정이다",
+      "relationship_strength": 8
+    }
+  ],
+  "entity_resolution": {
+    "마크": {
+      "description": "마크 -> 마크 와트니",
+      "resolved_name": "마크 와트니",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "NASA": {
+      "description": "NASA -> NASA",
+      "resolved_name": "NASA",
+      "entity_type": "MOVIE_STAFF",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "RICH": {
+      "description": "RICH -> RICH",
+      "resolved_name": "RICH",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "TEDDY": {
+      "description": "TEDDY -> Teddy Sanders",
+      "resolved_name": "Teddy Sanders",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "HERMES": {
+      "description": "HERMES -> HERMES",
+      "resolved_name": "HERMES",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "UNIVERSITY OF CHICAGO": {
+      "description": "UNIVERSITY OF CHICAGO -> UNIVERSITY OF CHICAGO",
+      "resolved_name": "UNIVERSITY OF CHICAGO",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "entity": {
+    "name": "차 기사",
+    "synonym": [
+      "Cha Driver",
+      "Driver Cha",
+      "Mr. Cha",
+      "기사 차",
+      "차 기사",
+      "차 기사님",
+      "차 씨",
+      "차 운전사",
+      "차 택시기사",
+      "차기사",
+      "차기사님",
+      "차씨",
+      "차씨 기사",
+      "차운전사",
+      "택시기사 차"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "차 기사은 영화 '택시운전사'의 등장인물로, 차순배이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

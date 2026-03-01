@@ -1,0 +1,78 @@
+{
+  "movie_title": "스틸 앨리스",
+  "director": [
+    {
+      "name": "리처드 글랫저",
+      "name_en": "Richard Glatzer"
+    },
+    {
+      "name": "워시 웨스트모어랜드",
+      "name_en": "Wash Westmoreland"
+    }
+  ],
+  "cast": [
+    {
+      "actor": "줄리안 무어",
+      "actor_en": "Julianne Moore",
+      "character": "앨리스 하울랜드"
+    },
+    {
+      "actor": "알렉 볼드윈",
+      "actor_en": "Alec Baldwin",
+      "character": "John Howland"
+    },
+    {
+      "actor": "크리스틴 스튜어트",
+      "actor_en": "Kristen Stewart",
+      "character": "Lydia Howland"
+    },
+    {
+      "actor": "케이트 보스워스",
+      "actor_en": "Kate Bosworth",
+      "character": "Anna Howland"
+    },
+    {
+      "actor": "헌터 패리시",
+      "actor_en": "Hunter Parrish",
+      "character": "Tom Howland"
+    },
+    {
+      "actor": "셰인 맥레이",
+      "actor_en": "Shane McRae",
+      "character": "찰리 존스"
+    },
+    {
+      "actor": "세스 길리엄",
+      "actor_en": "Seth Gilliam",
+      "character": "프레데릭 존슨"
+    },
+    {
+      "actor": "스티븐 쿤켄",
+      "actor_en": "Stephen Kunken",
+      "character": "벤자민 박사"
+    },
+    {
+      "actor": "다니엘 게롤",
+      "actor_en": "Daniel Gerroll",
+      "character": "에릭 웰먼"
+    },
+    {
+      "actor": "에린 다크",
+      "actor_en": "Erin Darke",
+      "character": "제니"
+    },
+    {
+      "actor": "빅토리아 카르타헤나",
+      "actor_en": "Victoria Cartagena",
+      "character": "후퍼 교수"
+    }
+  ],
+  "review": [
+    "./data/review/스틸 앨리스/스틸 앨리스_4x0as8T6REw.json",
+    "./data/review/스틸 앨리스/스틸 앨리스_DNVtDAKWhOE.json",
+    "./data/review/스틸 앨리스/스틸 앨리스_HQrfhOyso68.json",
+    "./data/review/스틸 앨리스/스틸 앨리스_L4wBjL6IQAE.json",
+    "./data/review/스틸 앨리스/스틸 앨리스_duLrFSC1tPs.json",
+    "./data/review/스틸 앨리스/스틸 앨리스_sBnmIIb56-o.json"
+  ]
+}

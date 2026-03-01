@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "요나스 스타우브",
+    "synonym": [
+      "Jonas Staub",
+      "Staub",
+      "Y. 스타우브",
+      "Yuri Kolokolnikov",
+      "스타우브",
+      "요나스 슈타우브",
+      "요나스 스타우브",
+      "요나스 스타우프",
+      "요나스 스타웁",
+      "요나스스타우브"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "요나스 스타우브은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "불안",
+    "synonym": [
+      "Anxiety",
+      "걱정",
+      "불안",
+      "불안 감정",
+      "불안 캐릭터",
+      "불안이",
+      "앵자이어티",
+      "전두환 닮은 불안"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "불안은 영화 '인사이드 아웃 2'의 등장인물로, 마야 호크이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

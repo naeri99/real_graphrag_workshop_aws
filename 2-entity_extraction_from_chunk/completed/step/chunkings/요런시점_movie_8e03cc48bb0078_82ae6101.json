@@ -1,0 +1,133 @@
+{
+  "chunk_hash": "8e03cc48bb0078",
+  "chunk_id": "요런시점_movie_8e03cc48bb0078_82ae6101",
+  "user_query": "언덕 아래에 투입이 되고 블루팀은 10분이 지난 후에 시간 역방향으로\n언덕 위에 투입이 됩니다 이렇게 설명을 들으면 아마 머릿속에\n이런 그림이 그려질 것입니다 하지만 이건 잘못된 그림입니다 결론부터 말씀드리면 레드팀과 블루팀은\n항상 딱 붙어 다닙니다 함께 헬기를 타고\n출발을 해서 어깨를 나란히 하며 싸우고\n함께 전장을 떠납니다 레드팀의 시점에서 보면\n전투가 이렇게 보일 것이고 블루팀의 시점에서 보면\n전투가 이렇게 보일 것입니다 설명을 드리겠습니다 레드팀이 0분에 투입되어\n전투를 치르고 10분이 지나면 이 언덕에 도착할 것입니다 그런데 블루팀이\n이 지점에 투입되는 시간이 바로 10분입니다 그래서 레드팀과 블루팀은\n함께 있게 됩니다 이번에는\n5분을 기준으로 하면 레드팀이 0분에 출발해서\n5분이 지나면 여기에 있을 것입니다 그리고 블루팀이\n10분에 출발해서 5분이 지나도 같은 시각\n여기에 있을 것입니다 즉 5분에도 레드팀과 블루팀은\n같은 지점에 있게 되는 것입니다 레드팀이\n0분에 도착을 하면 10분 후에 투입된 블루팀은 0분에 작전을 모두 마치고\n내려와 있습니다 그래서 전투 내내\n이들은 함께 있게 되는 것입니다 시간이 정방향으로\n레드팀 시점이면 이렇게 되고 역방향으로 블루팀 시점이면\n이렇게 됩니다 항상 비슷한 라인에서\n앞에서 쏘고 뒤에서 쏘고 하면서 나란히 전진\n또는 후진하는 것입니다 출발할 때도 함께 출발하고\n돌아올 때도 함께 떠납니다 레드팀이 작전 브리핑을 받을 때\n이 컨테이너 안에는 이미 작전을 마치고 돌아온\n역행 블루팀이 숨어 있었습니다 그래서 레드팀이 출발을 할 때 이 역행 블루팀과\n같이 출발을 하게 됩니다 레드팀이 0분에\n작전지점에서 내리게 되면 옆에 파란 컨테이너에서도\n블루팀이 거꾸로 튀어나오게 됩니다 이들은 이미 10분 동안\n작전을 마치고 내려온 블루팀이기 때문에 부상당하고 절룩거리는\n사람들이 많습니다 이 두 팀은 이렇게 한 라인에서\n쭉 언덕 위로 가면서 적들을 소탕을 합니다 그리고 역시 돌아올 때에도 함께 헬기를 타고\n돌아오게 됩니다 이걸 블루팀의 시점에서\n역방향으로 돌려보면 이렇게 됩니다 거꾸로 들어가는 레드팀과 함께\n헬기를 타고 나서 10분에 언덕 위에\n착지를 하면 레드팀은 거꾸로 나오겠죠 그리고 이렇게\n거꾸로 가는 레드팀과 함께 적을 소탕한 후 함께 헬기를 타고\n돌아오게 됩니다 여기서 한 가지\n주의해야 할 점은 블루팀은 작전을 끝내고\n내려왔을 때 헬기 컨테이너에 탑승하는 시간을\n정확하게 지켜야 한다는 것입니다 두 팀을 수송하는 헬기는\n모두 순행하는 헬기입니다 그래서 날개에\n빨간 무늬가 그려져 있습니다 레드팀은 언덕 위에\n조금 늦게 도착을 하더라도 헬기가 같은 순방향이기 때문에\n조금 기다려 줄 수 있습니다 마지막에 주인공 닐 아이브스가\n노가리를 까면서 늦장을 부려도 헬기는 기다려주었습니다 하지만 블루팀의 경우는 다릅니다 이 순행하는 헬기는\n정확히 0분에 이곳에 도착했습니다 이는 시간이 거꾸로 흘러가는\n블루팀 입장에서 보면 이 헬기가 0분이 되면\n칼같이 떠난다는 얘기가 됩니다 이건 이미 일어난 일이기 때문에",
+  "movie_id": "테넷",
+  "reviewer": "요런시점_movie",
+  "chunk_index": 13,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "테넷",
+      "entity_type": "MOVIE",
+      "entity_description": "테넷은 시간 역행을 소재로 한 영화로, 레드팀과 블루팀이 정방향과 역방향 시간으로 함께 작전을 수행하는 장면이 등장한다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "닐",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "닐은 테넷의 주인공 중 한 명으로, 마지막에 아이브스와 함께 늦장을 부리며 헬기를 기다리게 한 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "아이브스",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "아이브스는 테넷에서 닐과 함께 작전에 참여하는 인물로, 마지막에 늦장을 부린 장면이 언급된다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "레드팀",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "레드팀은 테넷에서 시간 정방향으로 작전을 수행하는 팀으로, 0분에 투입되어 10분 후 언덕에 도착한다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "블루팀",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "블루팀은 테넷에서 시간 역방향으로 작전을 수행하는 팀으로, 10분에 투입되어 레드팀과 함께 작전을 수행한다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "닐",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "테넷",
+      "target_type": "MOVIE",
+      "relationship_description": "닐은 테넷의 주인공이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "아이브스",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "테넷",
+      "target_type": "MOVIE",
+      "relationship_description": "아이브스는 테넷에 등장하는 인물이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "닐",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "아이브스",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "닐과 아이브스는 함께 작전에 참여하며 마지막에 늦장을 부린다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "레드팀",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "테넷",
+      "target_type": "MOVIE",
+      "relationship_description": "레드팀은 테넷의 시간 협공 작전에서 정방향 팀이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "블루팀",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "테넷",
+      "target_type": "MOVIE",
+      "relationship_description": "블루팀은 테넷의 시간 협공 작전에서 역방향 팀이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "레드팀",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "블루팀",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "레드팀과 블루팀은 서로 다른 시간 방향으로 움직이지만 항상 함께 붙어서 작전을 수행한다",
+      "relationship_strength": 10
+    }
+  ],
+  "entity_resolution": {
+    "테넷": {
+      "description": "테넷 -> 테넷",
+      "resolved_name": "테넷",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "닐": {
+      "description": "닐 -> 닐 페리",
+      "resolved_name": "닐 페리",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "아이브스": {
+      "description": "아이브스 -> 아이브스",
+      "resolved_name": "아이브스",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "레드팀": {
+      "description": "레드팀 -> 레드팀",
+      "resolved_name": "레드팀",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "블루팀": {
+      "description": "블루팀 -> 블루팀",
+      "resolved_name": "블루팀",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

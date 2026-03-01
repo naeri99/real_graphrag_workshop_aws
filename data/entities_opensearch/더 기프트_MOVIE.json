@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "더 기프트",
+    "synonym": [
+      "The Gift",
+      "The Gift 2015",
+      "The Visit",
+      "기프트",
+      "더 기프트",
+      "더 기프트 2015",
+      "더기프트",
+      "더비지트",
+      "비지트",
+      "비짓",
+      "선물"
+    ],
+    "entity_type": "MOVIE",
+    "summary": "더 기프트",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

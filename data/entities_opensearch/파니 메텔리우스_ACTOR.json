@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "파니 메텔리우스",
+    "synonym": [
+      "Fanni Metelius",
+      "Fanny Metelius",
+      "메텔리우스",
+      "파니",
+      "파니 메텔류스",
+      "파니 메텔리우스",
+      "파니메텔리우스",
+      "패니 메텔리우스"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "파니 메텔리우스은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

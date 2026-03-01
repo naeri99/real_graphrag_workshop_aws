@@ -1,0 +1,115 @@
+{
+  "chunk_hash": "5f3c67924c3138",
+  "chunk_id": "침착맨_5f3c67924c3138_8a3fa9dd",
+  "user_query": "유치하게 놀 로빈 윌리엄스는 개 유치하게 안 놀았던 거야 근데 이제 개 유치하게 막 말싸움하고 하니까 음식으로 장난 쳐야 돌아와 상상도 못 했는데 음식으로 장난친다 돌아오고 이제 그 후크 선장이 지금 생각하기도 아트가 되게 멋있었어 호프만 스파이더맨도 신작 나오고 애니메이션 그거 진짜 잘 만들었어 멋있어 프레임이 일부러 낮춘 거 같아 프레임 수를 영화처럼 하라고 영화처럼 하는 게 아니고 뭔가 스타일리시하게 근데 되게 괜찮아 마블 영화 재밌게 봤으면 마블 스냅도 하셔야 됩니다 마블 스냅 좀 하시지 않았어요 옛날에 잠깐 했어 마블 스냅 왜 안 해요 마블 영화 좋아하는데 전장이 더 재밌어 전장 아직도 요 요즘은 안 하죠 요즘 뭐예요 카트라이더 요즘 카트라이더 가끔 하루에 한 30분 정도 슬레이 더 스파이어도 하루에 한 20분 정도 한 판 정도 아이언클래드 아이언클래드 로그는 할 생각 없어 응 없어요 심장은 안 해요 심장 죽이고 다시 또 1층으로 아 못 죽이잖아 심장 못 죽여도 돼요 뭔가 루즈한데 와사비 콜라 한 잔씩 먹 뭐하긴 하죠 화장실 갔다가 짬뽕 그 아니 그 그거 좀 드릴까요 아직도 속이 홍짜장 리뷰를",
+  "movie_id": "미드소마",
+  "reviewer": "침착맨",
+  "chunk_index": 8,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "로빈 윌리엄스",
+      "entity_type": "ACTOR",
+      "entity_description": "로빈 윌리엄스는 유치하게 놀지 않는 연기를 보여준 배우로 언급되었다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "후크",
+      "entity_type": "MOVIE",
+      "entity_description": "후크는 로빈 윌리엄스가 출연한 영화로, 음식으로 장난치는 장면과 후크 선장이 등장하는 작품이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "후크 선장",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "후크 선장은 영화 후크에 등장하는 캐릭터로 멋있다는 평가를 받았다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "더스틴 호프만",
+      "entity_type": "ACTOR",
+      "entity_description": "더스틴 호프만은 후크 선장 역을 연기한 배우로 아트적으로 멋있었다는 평가를 받았다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "스파이더맨",
+      "entity_type": "MOVIE",
+      "entity_description": "스파이더맨은 신작이 나온 영화로, 애니메이션 버전이 프레임을 일부러 낮춰 스타일리시하게 잘 만들었다는 평가를 받았다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "로빈 윌리엄스",
+      "source_type": "ACTOR",
+      "target_entity": "후크",
+      "target_type": "MOVIE",
+      "relationship_description": "로빈 윌리엄스는 영화 후크에서 연기했다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "후크 선장",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "후크",
+      "target_type": "MOVIE",
+      "relationship_description": "후크 선장은 영화 후크에 등장하는 캐릭터이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "더스틴 호프만",
+      "source_type": "ACTOR",
+      "target_entity": "후크 선장",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "더스틴 호프만은 후크 선장 역을 연기했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "더스틴 호프만",
+      "source_type": "ACTOR",
+      "target_entity": "후크",
+      "target_type": "MOVIE",
+      "relationship_description": "더스틴 호프만은 영화 후크에 출연했다",
+      "relationship_strength": 10
+    }
+  ],
+  "entity_resolution": {
+    "로빈 윌리엄스": {
+      "description": "로빈 윌리엄스 -> 로빈 윌리엄스",
+      "resolved_name": "로빈 윌리엄스",
+      "entity_type": "ACTOR",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "후크": {
+      "description": "후크 -> 후크",
+      "resolved_name": "후크",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "후크 선장": {
+      "description": "후크 선장 -> 후크 선장",
+      "resolved_name": "후크 선장",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "더스틴 호프만": {
+      "description": "더스틴 호프만 -> 더스틴 호프만",
+      "resolved_name": "더스틴 호프만",
+      "entity_type": "ACTOR",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "스파이더맨": {
+      "description": "스파이더맨 -> 스파이더맨",
+      "resolved_name": "스파이더맨",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

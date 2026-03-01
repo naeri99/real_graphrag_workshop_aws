@@ -1,0 +1,124 @@
+{
+  "chunk_hash": "cd5f8c2e280df3",
+  "chunk_id": "Popcorn_Coke_Review_cd5f8c2e280df3_2d55eca8",
+  "user_query": "알고자 다른 세계로 이동하는데 다른 세계에 도착한 제인은 자신이 살고 있던 집에서 충격적인 장면을 목격하게 됩니다 그곳에서 발견된 죽고 있는 자신의 모습 다른 세계에 있었던 맷이 살인범이라는 것을 알게 된 제인은 충격을 금치 못한 채 서둘러 이동하는데 바로 이시각 연구실에 도착한 살인마는 제인이 돌아오지 못하도록 기계를 부수는 것도 모자라 연구원 레그까지 살해합니다 계속 기계가 작동하지 않아 이동이 안되는 제인은 모든 것이 맷 때문이라는 것을 깨닫고 분노하죠 잠시 후 이 세계에 존재하는 또다른 레그가 도착하는데 레그의 집에도 이런 장치가 있다는 사실을 알게 된 제인은 현재 자신이 살고 있는 세계의 레그 집에도 이런 장치가 있을 것이라 생각하고 마침내 현재 자신이 있던 세계로 이동에 성공합니다 잠시 후 레그 또한 제인과 함께 이동해 성공하고 이들은 서로 집을 향해 달려갑니다 하지만 잠시후 제인은 같은 공간 안에 존재하는 또다른 세계로 잘못 왔다는 것을 깨닫고 그렇게 그녀는 자신이 살고 있는 세계에 무사히 도착하게 되는데 아이들을 죽이려고 하는 맷을 막기 위해 황급히 달려가는 제인 제인은 아이들과 함께 맷으로부터 피신을 하고 얼마 후 살인마 맷이 집에 도착하는데 잠시 후 제인을 발견한 맷 전기총으로 그녀를 죽이려던 순간 뒤에서 방망이질에 성공한 제인의 아들 제인은 살인마 맷을 안드로메다로 보내기로 결정합니다 잠시 후 살인마 맷은 끝없는 미로속에 갇혀 버리죠 그렇게 며칠을 보내고 있는 제인은 충격적인 소식을 듣게 되는데 잠시 후 그녀의 집에 찾아온 다른 세계의 레그는 이곳이 제인의 세상이 아니라는 무서운 메시지를 남깁니다 제인이 자신이 살고 있던 세계로 돌아왔다고 생각했지만 이미 제인이 맷으로부터 살해당한 세계였기 때문에 돌아갈 수 없던 세계였던 것이었습니다 탄탄한 스토리와 함께 몹시 심오한 반전을 가지고 있는 영화 지금까지 [음악] 게이티였습니다",
+  "movie_id": "매치스틱맨",
+  "reviewer": "Popcorn_Coke_Review",
+  "chunk_index": 2,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "제인",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "제인은 다른 세계로 이동하는 능력을 가진 주인공으로, 살인마 맷으로부터 아이들을 지키기 위해 싸우는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "맷",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "맷은 살인마로, 제인을 살해하고 아이들까지 죽이려 하며, 결국 안드로메다의 끝없는 미로 속에 갇히게 되는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "레그",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "레그는 연구원으로, 살인마 맷에게 살해당하며, 다른 세계에도 존재하는 또다른 레그가 제인을 돕는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "제인의 아들",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "제인의 아들은 살인마 맷이 제인을 죽이려는 순간 방망이로 맷을 공격하여 어머니를 구한 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "게이티",
+      "entity_type": "REVIEWER",
+      "entity_description": "게이티는 이 영화를 리뷰하며 탄탄한 스토리와 심오한 반전이 있다고 평가한 리뷰어이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "제인",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "맷",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "제인은 맷이 살인범이라는 것을 알게 되고, 맷으로부터 아이들을 지키기 위해 대립한다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "제인",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "레그",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "제인은 레그의 도움을 받아 다른 세계로 이동하며, 레그의 집에 있는 장치를 이용한다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "맷",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "레그",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "살인마 맷은 제인이 돌아오지 못하도록 연구원 레그를 살해한다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "제인의 아들",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "제인",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "제인의 아들은 맷으로부터 어머니 제인을 구하기 위해 방망이로 공격한다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "제인의 아들",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "맷",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "제인의 아들은 맷이 제인을 죽이려는 순간 방망이로 맷을 공격한다",
+      "relationship_strength": 9
+    }
+  ],
+  "entity_resolution": {
+    "제인": {
+      "description": "제인 -> 제인",
+      "resolved_name": "제인",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "맷": {
+      "description": "맷 -> 맷",
+      "resolved_name": "맷",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "레그": {
+      "description": "레그 -> 레그",
+      "resolved_name": "레그",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "제인의 아들": {
+      "description": "제인의 아들 -> 제인의 아들",
+      "resolved_name": "제인의 아들",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "게이티": {
+      "description": "게이티 -> 게이티",
+      "resolved_name": "게이티",
+      "entity_type": "REVIEWER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

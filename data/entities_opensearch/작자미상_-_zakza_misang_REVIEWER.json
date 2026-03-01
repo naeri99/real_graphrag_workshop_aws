@@ -1,0 +1,13 @@
+{
+  "entity": {
+    "name": "작자미상_-_zakza_misang",
+    "synonym": [
+      "작자미상_-_zakza_misang",
+      "작자미상 - zakza misang"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "작자미상_-_zakza_misang은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

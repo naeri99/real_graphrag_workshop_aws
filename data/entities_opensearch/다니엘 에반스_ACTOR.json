@@ -1,0 +1,18 @@
+{
+  "entity": {
+    "name": "다니엘 에반스",
+    "synonym": [
+      "Daniel Evans",
+      "Daniele Evans",
+      "다니엘",
+      "다니엘 에반스",
+      "다니엘에반스",
+      "대니얼 에반스",
+      "에반스"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "다니엘 에반스은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

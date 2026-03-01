@@ -1,0 +1,18 @@
+{
+  "entity": {
+    "name": "손세빈",
+    "synonym": [
+      "Se-bin Son",
+      "Son Se-bin",
+      "배우 손세빈",
+      "세빈",
+      "손 세빈",
+      "손세빈",
+      "손세빈 배우"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "손세빈은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

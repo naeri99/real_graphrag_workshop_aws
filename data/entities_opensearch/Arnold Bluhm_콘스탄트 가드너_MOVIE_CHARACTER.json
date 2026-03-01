@@ -1,0 +1,18 @@
+{
+  "entity": {
+    "name": "Arnold Bluhm",
+    "synonym": [
+      "Arnold Bluhm",
+      "블룸",
+      "아널드 블룸",
+      "아놀드",
+      "아놀드 블럼",
+      "아놀드 블룸",
+      "아놀드블룸"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "Arnold Bluhm은 영화 '콘스탄트 가드너'의 등장인물로, 휴베르 쿤데이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

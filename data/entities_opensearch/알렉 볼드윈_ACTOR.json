@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "알렉 볼드윈",
+    "synonym": [
+      "Alec Baldwin",
+      "Baldwin",
+      "발드윈",
+      "볼드윈",
+      "알렉",
+      "알렉 발드윈",
+      "알렉 볼드원",
+      "알렉 볼드윈",
+      "알렉발드윈",
+      "알렉볼드윈"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "알렉 볼드윈은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "entity": {
+    "name": "프랜시스 X. 맥카시",
+    "synonym": [
+      "Francis McCarthy",
+      "Francis X. McCarthy",
+      "맥카시",
+      "프란시스 맥카시",
+      "프란시스맥카시",
+      "프랜시스",
+      "프랜시스 X. 맥카시",
+      "프랜시스 맥카시",
+      "프랜시스 맥카씨",
+      "프랜시스 맥카티",
+      "프랜시스 엑스 맥카시",
+      "프랜시스맥카시"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "프랜시스 X. 맥카시은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

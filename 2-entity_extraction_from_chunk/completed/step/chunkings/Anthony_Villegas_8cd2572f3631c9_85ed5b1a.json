@@ -1,0 +1,142 @@
+{
+  "chunk_hash": "8cd2572f3631c9",
+  "chunk_id": "Anthony_Villegas_8cd2572f3631c9_85ed5b1a",
+  "user_query": "dishonored the family and now he has to we're going to do that he'll start tomorrow morning oh no not tomorrow not anytime I don't even want him on my property I thought we went over all that it's very important to my mom that you accept and it would be an insult if you refuse why is this being put back on me all of a sudden he's the one who tried to steal my car all of a sudden I'm the bad guy look it's like my family is very traditional and would be very much upset if you don't let repay if he doesn't want to do it then let's just go sure yeah shut up all right tomorrow come on tomorrow thank you in this scene Thao's mom and sister as well as all of Walt's Hmong neighbors are grateful for Walt having intervened in stopping the Hmong gang from forcing Thao to commit another crime the multicultural context within which the action takes place can be seen in the clear distinction between the two cultures while being an American from an individualistic culture sees it as nothing just wants to be left alone the Hmong people are grateful and feel a debt to Walt so they fill his porch with food and other gifts the distinction as shown in the clip is that the conservative Americans had a low context culture while the Hmong have high context culture for instance Thao having attempted to steal Walt's Gran Torino brought shame not only to Thao but everyone in Thao's family Thao's mother and sister proposed that he should work for Walt in order to make amends for his wrongs but Walt",
+  "movie_id": "그랜 토리노",
+  "reviewer": "Anthony_Villegas",
+  "chunk_index": 2,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "THAO",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Thao는 Walt의 차를 훔치려 했던 인물로, 가족의 명예를 더럽혔으며 Walt를 위해 일하며 잘못을 갚아야 하는 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "WALT",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Walt는 Hmong 갱단으로부터 Thao를 구해준 인물로, 개인주의적 미국 문화를 대표하며 혼자 있고 싶어하는 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "THAO의 어머니",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Thao의 어머니는 전통적인 Hmong 가족의 일원으로, Thao가 Walt를 위해 일하며 잘못을 갚기를 원하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "THAO의 누나",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Thao의 누나는 Thao가 Walt를 위해 일해야 한다고 제안하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "GRAN TORINO",
+      "entity_type": "MOVIE",
+      "entity_description": "Gran Torino는 개인주의적 미국 문화와 집단주의적 Hmong 문화 간의 다문화적 맥락을 다루는 영화이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "THAO",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "GRAN TORINO",
+      "target_type": "MOVIE",
+      "relationship_description": "Thao는 Gran Torino 영화의 주요 등장인물이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "WALT",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "GRAN TORINO",
+      "target_type": "MOVIE",
+      "relationship_description": "Walt는 Gran Torino 영화의 주인공이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "THAO",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "WALT",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Thao는 Walt의 차를 훔치려 했고, Walt를 위해 일하며 잘못을 갚아야 한다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "THAO의 어머니",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "WALT",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Thao의 어머니는 Walt가 Thao의 일을 받아들여 주기를 원한다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "THAO의 누나",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "WALT",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Thao의 누나는 Walt에게 Thao가 일할 수 있게 해달라고 요청한다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "THAO의 어머니",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "THAO",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Thao의 어머니는 Thao의 가족으로서 그가 잘못을 갚기를 원한다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "THAO의 누나",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "THAO",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Thao의 누나는 Thao의 가족으로서 그가 Walt를 위해 일해야 한다고 제안한다",
+      "relationship_strength": 8
+    }
+  ],
+  "entity_resolution": {
+    "THAO": {
+      "description": "THAO -> Thao Vang Lor",
+      "resolved_name": "Thao Vang Lor",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "WALT": {
+      "description": "WALT -> WALT",
+      "resolved_name": "WALT",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "THAO의 어머니": {
+      "description": "THAO의 어머니 -> THAO의 어머니",
+      "resolved_name": "THAO의 어머니",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "THAO의 누나": {
+      "description": "THAO의 누나 -> THAO의 누나",
+      "resolved_name": "THAO의 누나",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "GRAN TORINO": {
+      "description": "GRAN TORINO -> GRAN TORINO",
+      "resolved_name": "GRAN TORINO",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

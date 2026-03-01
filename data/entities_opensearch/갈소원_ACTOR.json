@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "갈소원",
+    "synonym": [
+      "Gal So-won",
+      "Kal So-won",
+      "갈 소원",
+      "갈소원",
+      "갈소원 배우",
+      "갈소원 씨",
+      "갈소원배우",
+      "소원",
+      "소원이",
+      "칼소원"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "갈소원은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

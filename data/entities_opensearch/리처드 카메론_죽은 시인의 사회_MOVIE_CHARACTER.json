@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "리처드 카메론",
+    "synonym": [
+      "Cameron",
+      "Richard",
+      "Richard Cameron",
+      "리차드 카메론",
+      "리처드",
+      "리처드 카메론",
+      "리처드카메론",
+      "카메론",
+      "캐머론"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "리처드 카메론은 영화 '죽은 시인의 사회'의 등장인물로, 딜런 쿠스만이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

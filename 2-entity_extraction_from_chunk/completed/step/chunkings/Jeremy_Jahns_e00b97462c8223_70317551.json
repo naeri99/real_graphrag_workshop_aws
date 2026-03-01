@@ -1,0 +1,115 @@
+{
+  "chunk_hash": "e00b97462c8223",
+  "chunk_id": "Jeremy_Jahns_e00b97462c8223_70317551",
+  "user_query": "ever since the first John Wick when we got to the Continental in the first John Wick I was like there is something comic book flavor in here and I love it let me just slip into it like a warm bath and four continues to play with it amazingly also Shamier Anderson's character true wild card also he has the dog he's the dog element he's the one with the attack dog that assists him because it's not a John Wick film without a dog as for the action sequences incredible I think is putting it mildly because at this point you feel like okay it's the fourth John Wick movie I've seen it all before but not like this the John Wick movies do a good job at escalation you know yeah in John Wick movies before you've seen shootouts you've seen hand-to-hand combat you've seen hand weapon combat you've seen human body versus automobile combat but not like you've seen it in John Wick chapter four it just does an incredible job at making you feel like this is the first time you've experienced a John Wick film usually that's something that the first sequel has to deal with like how do we make two not feel like one this is the fourth chapter the fourth installment still feels new there was actually an action sequence in here I was like I said to the dude to the left of me I know him don't worry it wasn't weird not like I was like Hey dude I never met before I went dude this feels like a video game and I meant that in the best way possible and he replied it feels like Hotline Miami my response was",
+  "movie_id": "존 윅 4",
+  "reviewer": "Jeremy_Jahns",
+  "chunk_index": 3,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "JOHN WICK",
+      "entity_type": "MOVIE",
+      "entity_description": "존 윅은 액션 영화 시리즈로, 첫 번째 영화에서 콘티넨탈이 등장하며 코믹북 같은 분위기를 가진 작품이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "JOHN WICK CHAPTER FOUR",
+      "entity_type": "MOVIE",
+      "entity_description": "존 윅 챕터 4는 시리즈의 네 번째 작품으로, 놀라운 액션 시퀀스와 에스컬레이션을 보여주며 마치 처음 존 윅 영화를 경험하는 것 같은 신선함을 제공한다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "SHAMIER ANDERSON",
+      "entity_type": "ACTOR",
+      "entity_description": "샤미어 앤더슨은 존 윅 챕터 4에서 와일드카드 캐릭터를 연기한 배우로, 공격견을 데리고 다니는 역할을 맡았다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "THE CONTINENTAL",
+      "entity_type": "MOVIE",
+      "entity_description": "콘티넨탈은 첫 번째 존 윅 영화에 등장하는 장소로, 코믹북 같은 분위기를 가진 요소이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "HOTLINE MIAMI",
+      "entity_type": "MOVIE",
+      "entity_description": "핫라인 마이애미는 비디오 게임으로, 존 윅 챕터 4의 액션 시퀀스가 이 게임과 비슷한 느낌을 준다고 언급되었다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "JOHN WICK CHAPTER FOUR",
+      "source_type": "MOVIE",
+      "target_entity": "JOHN WICK",
+      "target_type": "MOVIE",
+      "relationship_description": "존 윅 챕터 4는 존 윅 시리즈의 네 번째 작품이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "SHAMIER ANDERSON",
+      "source_type": "ACTOR",
+      "target_entity": "JOHN WICK CHAPTER FOUR",
+      "target_type": "MOVIE",
+      "relationship_description": "샤미어 앤더슨은 존 윅 챕터 4에서 와일드카드 캐릭터를 연기했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "THE CONTINENTAL",
+      "source_type": "MOVIE",
+      "target_entity": "JOHN WICK",
+      "target_type": "MOVIE",
+      "relationship_description": "콘티넨탈은 첫 번째 존 윅 영화에 등장하는 장소이다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "JOHN WICK CHAPTER FOUR",
+      "source_type": "MOVIE",
+      "target_entity": "HOTLINE MIAMI",
+      "target_type": "MOVIE",
+      "relationship_description": "존 윅 챕터 4의 액션 시퀀스가 핫라인 마이애미 비디오 게임과 비슷한 느낌을 준다고 비교되었다",
+      "relationship_strength": 6
+    }
+  ],
+  "entity_resolution": {
+    "JOHN WICK": {
+      "description": "JOHN WICK -> JOHN WICK",
+      "resolved_name": "JOHN WICK",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "JOHN WICK CHAPTER FOUR": {
+      "description": "JOHN WICK CHAPTER FOUR -> JOHN WICK CHAPTER FOUR",
+      "resolved_name": "JOHN WICK CHAPTER FOUR",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "SHAMIER ANDERSON": {
+      "description": "SHAMIER ANDERSON -> SHAMIER ANDERSON",
+      "resolved_name": "SHAMIER ANDERSON",
+      "entity_type": "ACTOR",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "THE CONTINENTAL": {
+      "description": "THE CONTINENTAL -> THE CONTINENTAL",
+      "resolved_name": "THE CONTINENTAL",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "HOTLINE MIAMI": {
+      "description": "HOTLINE MIAMI -> HOTLINE MIAMI",
+      "resolved_name": "HOTLINE MIAMI",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

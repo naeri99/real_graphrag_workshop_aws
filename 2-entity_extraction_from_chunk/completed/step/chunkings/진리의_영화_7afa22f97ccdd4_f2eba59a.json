@@ -1,0 +1,168 @@
+{
+  "chunk_hash": "7afa22f97ccdd4",
+  "chunk_id": "진리의_영화_7afa22f97ccdd4_f2eba59a",
+  "user_query": "[음악] 생각합니다 다시 카산드라의 과거 의료기기 회사에 다니던 카산드라의 남편 방은 안 들어간 장면을 보고 하는데 [음악] 중이었습니다 그리고 다시 현재 잠은 이 집에 살던 카산드라 가족을 조사해보기로 합니다 eine kassandra frh in [음악] unserem vielen dank und wovon handel eure songs so verm DU sie nicht deine Band Mama [음악] 홀로 있는 준과 놀아주는 [음악] 카산드라 잠은 카산드라의 가족들에 대한 사실을 알아내는데 그 시각 아무것도 모르고 놀고 있는 가족들 [음악] deine mutter ist zur fin und DU mein schatz was hast DU heute gemacht was haltet ihr davon wenn wir heute abend was zusammen machen bin ich ein 가족들끼리 함께하는 인물 맞추기 퀴즈 카산드라도 함께 합니다 ja bin ich ein mensch alkohol hatte ich gestern eine panikattacke der notarzt komm malig ihr ein 잠은 로봇이 된 카산드라가 그녀의 가족들을 모두 죽였을 거라 생각합니다 하지만 남편은 잠이 언니를 잃고 정신병에 걸렸다고 생각했죠 다시 30년 전의 [박수] [음악] 카산드라 아이를 가졌단 말에 눈물을 흘리는 카산드라 둘째를 유산한 경험 [음악] 때문이었죠 hen 또다시 발작 증상을 일으키는 잠 결국 카산드라를 종료시키기로 nicht geh st hier in ER nacht ich kom [음악] W 위합니다 30년 전 과거 카산드라들의 아들은 억지로 축구를 하고 있었죠 친구들과도 잘 어울리지 못하던 아들 잠은 자신의 잘못을 인정하고 다시 카산드라를 작동시켰습니다 [음악] 잠은 가족을 위해 심리 치료를 받기로 합니다 카산드라에게 물러서지 않기로 합니다 다시 과거의 카산드라 ees ich wollte weg aber 괴롭힘을 당하던 아들은 어느날 친구들에게 심한 구타를 당하고 Los kann ich DIR helfen David hast DU denn schon eine idee ich bin ehrlich gesagt nur ein bisschen dass SAS interess nicht gr das verstehe ich nicht idee Wie DU deine lehrerin die richtige bist sch DU musst dich ins schlafzimmer dein eltern sch sein auftritt unver [음악] machen 다시 과거 카산드라입니다 어느날 보이지 않던 아들이 실수를 하고 만 [음악] 거죠 malw 카산드라 임신한 사진이었습니다 그 시각 핀의 남자친구를 따라가는 카산드라 갑자기 오류를 일으키는 [음악] 카산드라 카산드라는 그날밤 아들의 잘못을 덮기로 [음악] 합니다 아들이 죽인 친구들 그곳에서 아들의 흔적을 모두 지웠죠 [음악] 가족을 위해서라면",
+  "movie_id": "카산드라 드림",
+  "reviewer": "진리의_영화",
+  "chunk_index": 2,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "카산드라",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "카산드라는 과거 의료기기 회사에 다니던 남편을 둔 인물로, 로봇이 되어 가족과 함께 살며 발작 증상을 일으키기도 하고, 둘째를 유산한 경험이 있으며, 아들의 잘못을 덮어주는 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "잠",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "잠은 카산드라의 가족을 조사하고, 언니를 잃은 경험이 있으며, 카산드라가 가족을 죽였을 거라 의심하다가 자신의 잘못을 인정하고 심리 치료를 받기로 하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "카산드라의 남편",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "카산드라의 남편은 과거 의료기기 회사에 다녔으며, 잠이 정신병에 걸렸다고 생각하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "카산드라의 아들",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "카산드라의 아들은 억지로 축구를 하고 친구들과 잘 어울리지 못하며, 괴롭힘을 당하다가 심한 구타를 당하고 결국 친구들을 죽이는 실수를 저지른 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "핀",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "핀은 카산드라 가족의 일원으로 남자친구가 있는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "준",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "준은 카산드라와 함께 노는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "데이비드",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "데이비드는 극중 언급되는 인물이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "카산드라",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "카산드라의 남편",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "카산드라와 남편은 부부 관계이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "카산드라",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "카산드라의 아들",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "카산드라는 아들의 어머니이며 아들의 잘못을 덮어주었다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "카산드라",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "핀",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "카산드라는 핀의 남자친구를 따라가며 핀과 관련이 있다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "카산드라",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "준",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "카산드라는 준과 함께 놀아준다",
+      "relationship_strength": 6
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "잠",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "카산드라",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "잠은 카산드라를 조사하고 종료시키려 하다가 다시 작동시켰다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "잠",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "카산드라의 남편",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "카산드라의 남편은 잠이 정신병에 걸렸다고 생각한다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "카산드라의 아들",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "카산드라",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "아들은 친구들을 죽였고 카산드라가 그 흔적을 지워주었다",
+      "relationship_strength": 10
+    }
+  ],
+  "entity_resolution": {
+    "카산드라": {
+      "description": "카산드라 -> 캐시 웹 / 마담 웹",
+      "resolved_name": "캐시 웹 / 마담 웹",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "잠": {
+      "description": "잠 -> 잠",
+      "resolved_name": "잠",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "카산드라의 남편": {
+      "description": "카산드라의 남편 -> 카산드라의 남편",
+      "resolved_name": "카산드라의 남편",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "카산드라의 아들": {
+      "description": "카산드라의 아들 -> 카산드라의 아들",
+      "resolved_name": "카산드라의 아들",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "핀": {
+      "description": "핀 -> 핀",
+      "resolved_name": "핀",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "준": {
+      "description": "준 -> 준",
+      "resolved_name": "준",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "데이비드": {
+      "description": "데이비드 -> 데이비드",
+      "resolved_name": "데이비드",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "Agent Argylle",
+    "synonym": [
+      "Agent Argylle",
+      "Argylle",
+      "아가일",
+      "아가일 영화",
+      "아가일 요원",
+      "아가일요원",
+      "아르가일",
+      "아자일",
+      "에이전트 아가일"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "Agent Argylle은 영화 '아가일'의 등장인물로, 헨리 카빌이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

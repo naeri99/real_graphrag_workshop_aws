@@ -1,0 +1,124 @@
+{
+  "chunk_hash": "91489f57f37b45",
+  "chunk_id": "쭌무비_91489f57f37b45_bc860ad6",
+  "user_query": "foreign [Music] [Music] [Music] [Music] foreign [Music] please [Music] how about you take it today for real oh the sparklers are buy one get one free you need to buy one to get one free it's not in this case what just happened sometimes customer can be tough and make connection and not lose temper then you will be ready to take over shop and that is not made in Firelands take breath oh please forgive my daughter I don't know why that one got away from me you are so good at everything because of Big Red Dot failed I just want you to rest when you gonna put Ember out of her misery and retire huh she take over when she's ready if you'd ever get up off your lazy ass foreign and you just got to be my date cause check it out sorry buddy elements don't mix plus the city isn't made with fire people in mind [Music] [Music] head to bed I'll close things up all right good morning welcome to the fireplace yeah foreign I'm afraid I'm gonna have to write you a ticket I sucked a city inspector into our pipes I need to make sure it's solid everything's solid first I'm sucked into a pipe we're not the right citations I could get this place you can't shut us down please take it easy this is as hard with me as it is on you get back here sorry get back here next up element City now good job City Hall stop yeah okay [Applause] come on guys no oh this shop is a bad dream if I'm the reason it gets shut down I'll kill him why didn't you say that before wait does that mean you'll tear up the tickets",
+  "movie_id": "엘리멘탈",
+  "reviewer": "쭌무비",
+  "chunk_index": 1,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "EMBER",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Ember는 불 원소 캐릭터로, 아버지의 가게를 물려받을 준비를 하고 있는 딸이다. 때때로 화를 참지 못하는 모습을 보인다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "THE FIREPLACE",
+      "entity_type": "MOVIE",
+      "entity_description": "The Fireplace는 불 원소 가족이 운영하는 가게의 이름이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "EMBER의 아버지",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Ember의 아버지는 가게 주인으로, 딸이 손님을 상대하고 화를 참는 법을 배우면 가게를 물려줄 계획이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "CITY INSPECTOR",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "City Inspector는 도시 검사관으로, 파이프에 빨려 들어갔다가 가게에 위반 딱지를 발부하려는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "ELEMENT CITY",
+      "entity_type": "MOVIE",
+      "entity_description": "Element City는 원소들이 사는 도시로, 불 원소들을 고려하지 않고 만들어진 곳이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "EMBER",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "EMBER의 아버지",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Ember는 아버지의 딸이며, 아버지로부터 가게 운영법을 배우고 있다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "EMBER",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "THE FIREPLACE",
+      "target_type": "MOVIE",
+      "relationship_description": "Ember는 The Fireplace 가게에서 일하며 언젠가 물려받을 예정이다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "EMBER의 아버지",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "THE FIREPLACE",
+      "target_type": "MOVIE",
+      "relationship_description": "Ember의 아버지는 The Fireplace 가게의 주인이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "CITY INSPECTOR",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "THE FIREPLACE",
+      "target_type": "MOVIE",
+      "relationship_description": "City Inspector는 The Fireplace에 위반 딱지를 발부하고 폐쇄 위협을 한다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "CITY INSPECTOR",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "ELEMENT CITY",
+      "target_type": "MOVIE",
+      "relationship_description": "City Inspector는 Element City의 공무원이다",
+      "relationship_strength": 7
+    }
+  ],
+  "entity_resolution": {
+    "EMBER": {
+      "description": "EMBER -> EMBER",
+      "resolved_name": "EMBER",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "THE FIREPLACE": {
+      "description": "THE FIREPLACE -> THE FIREPLACE",
+      "resolved_name": "THE FIREPLACE",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "EMBER의 아버지": {
+      "description": "EMBER의 아버지 -> EMBER의 아버지",
+      "resolved_name": "EMBER의 아버지",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "CITY INSPECTOR": {
+      "description": "CITY INSPECTOR -> CITY INSPECTOR",
+      "resolved_name": "CITY INSPECTOR",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "ELEMENT CITY": {
+      "description": "ELEMENT CITY -> ELEMENT CITY",
+      "resolved_name": "ELEMENT CITY",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

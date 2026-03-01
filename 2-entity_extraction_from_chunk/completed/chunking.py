@@ -1,29 +1,16 @@
 """
 Entity Extraction from Chunk Pipeline
 Flow:
-1. Extract entities from chunk (LLM)
-2. Resolve entity names via OpenSearch (synonym matching)
-3. Save entities to Neptune
-4. Resolve relationship names using cache
-5. Save relationships to Neptune
+1. movie_cast JSON에서 review 경로 로드
+2. review/ 디렉토리의 refined_transcript 기준으로 chunking
+3. chunk 데이터를 JSON으로 저장
 """
 from langchain_text_splitters import RecursiveCharacterTextSplitter
-from utils.parse_utils import parse_extraction_output
 from utils.helper import (
-    get_context_from_review_file, 
-    get_all_review_files,
     generate_chunk_hash,
     generate_chunk_id
 )
-from opensearch.opensearch_con import get_opensearch_client
-from opensearch.opensearch_search import resolve_entities, resolve_relationships, delete_chunk_index_opensearch
-from neptune.cyper_queries import (
-    import_nodes_with_dynamic_label,
-    import_relationships_with_dynamic_label,
-    delete_all_nodes_and_relationships,
-    get_database_stats
-)
-import time
+import glob
 import json
 import os
 from pathlib import Path
@@ -31,6 +18,12 @@ from pathlib import Path
 # 스크립트 파일 기준 디렉토리
 SCRIPT_DIR = Path(__file__).parent.resolve()
 DEFAULT_OUTPUT_DIR = SCRIPT_DIR / "step" / "chunkings"
+
+# movie_cast 디렉토리 (기본값)
+DEFAULT_CAST_DIR = os.path.normpath(os.path.join(
+    os.path.dirname(os.path.abspath(__file__)),
+    os.pardir, os.pardir, "data", "raw_csv", "movie_cast"
+))
 
 
 def save_chunk_to_json(chunk_data: dict, output_dir: str = None) -> str:
@@ -99,17 +92,49 @@ def clear_output_directory(output_dir: str = None):
         print(f"🗑️ Cleared: {output_dir}")
 
 
-def get_chunk(reviews_dir):
-    if reviews_dir:
-        from pathlib import Path
-        review_files = list(Path(reviews_dir).rglob("*.json"))
-    else:
-        review_files = get_all_review_files()
-    return review_files
+def get_chunk(cast_dir):
+    """movie_cast 디렉토리에서 모든 JSON 파일 로드, review 경로의 refined_transcript 반환
+    
+    Returns:
+        list of (review_path, refined_transcript, movie_title, channel_name)
+    """
+    cast_files = sorted(glob.glob(os.path.join(cast_dir, "*.json")))
+    print(f"📂 총 {len(cast_files)}개 영화 발견")
+    
+    review_items = []
+    for cast_file in cast_files:
+        with open(cast_file, "r", encoding="utf-8") as f:
+            cast_data = json.load(f)
+        
+        movie_title = cast_data["movie_title"]
+        review_paths = cast_data.get("review", [])
+        # 프로젝트 루트 (movie_cast 기준 ../../..)
+        project_root = os.path.normpath(os.path.join(os.path.dirname(os.path.abspath(__file__)), os.pardir, os.pardir))
+        
+        for rpath in review_paths:
+            # 상대경로(./data/review/...) → 절대경로로 변환
+            if rpath.startswith("./"):
+                rpath = os.path.join(project_root, rpath[2:])
+            try:
+                with open(rpath, "r", encoding="utf-8") as f:
+                    data = json.load(f)
+                rt = data.get("refined_transcript", "")
+                if not rt:
+                    print(f"   ⏭️  refined_transcript 없음, 스킵: {os.path.basename(rpath)}")
+                    continue
+                channel_name = data.get("channel_name", "unknown")
+                # 파일명에 사용 불가한 문자 제거
+                channel_name = channel_name.replace("/", "_").replace("\\", "_")
+                review_items.append((rpath, rt, movie_title, channel_name))
+            except Exception as e:
+                print(f"   ⏭️  파일 로드 실패, 스킵: {os.path.basename(rpath)} ({e})")
+    
+    print(f"📄 총 {len(review_items)}개 리뷰 로드 완료")
+    return review_items
 
 
 def run_chunking(
-    reviews_dir: str = None,
+    cast_dir: str = None,
     chunk_size: int = 1500,
     chunk_overlap: int = 100,
     output_dir: str = None
@@ -119,21 +144,24 @@ def run_chunking(
         output_dir = DEFAULT_OUTPUT_DIR
     output_dir = Path(output_dir)
     
+    # cast 디렉토리 설정
+    if cast_dir is None:
+        cast_dir = DEFAULT_CAST_DIR
+    
     # 출력 디렉토리 초기화
     clear_output_directory(output_dir)
     
-    review_files=get_chunk(reviews_dir)
+    # movie_cast에서 review 정보 로드
+    review_items = get_chunk(cast_dir)
     
     # 텍스트 스플리터
     text_splitter = RecursiveCharacterTextSplitter(chunk_size=chunk_size, chunk_overlap=chunk_overlap)
     
-    for i, review_file in enumerate(review_files, 1):
+    for i, (review_path, transcript, movie_id, reviewer) in enumerate(review_items, 1):
+        review_filename = os.path.basename(review_path)
         print(f"\n{'='*60}")
-        print(f"📄 [{i}/{len(review_files)}] {review_file.name}")
+        print(f"📄 [{i}/{len(review_items)}] {review_filename}")
         print('='*60)
-        
-        # 파일에서 정보 추출
-        _, transcript, movie_id, reviewer = get_context_from_review_file(str(review_file))
         print(f"   🎬 Movie: {movie_id}, Reviewer: {reviewer}")
         
         # 청킹
@@ -142,7 +170,7 @@ def run_chunking(
         
         for j, chunk in enumerate(chunks, 1):
             print(f"\n   --- Chunk {j}/{len(chunks)} ---")
-            print(f"f{chunk[:800]}... 생략 ...")
+            print(f"   {chunk[:800]}... 생략 ...")
             chunk_hash = generate_chunk_hash(chunk)
             chunk_id = generate_chunk_id(reviewer, chunk_hash)
 
@@ -161,9 +189,9 @@ def run_chunking(
 
 
 if __name__ == "__main__":
-    # 전체 파이프라인 실행 (Neptune 저장 포함)
+    # 전체 파이프라인 실행
     run_chunking(
-        reviews_dir="../../data/reviews/DonghoonChoi",  # 기본 경로 사용
+        cast_dir=DEFAULT_CAST_DIR,
         chunk_size=1500,
         chunk_overlap=100
     )

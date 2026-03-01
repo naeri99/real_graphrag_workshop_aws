@@ -1,0 +1,64 @@
+{
+  "movie_title": "2001 스페이스 오디세이",
+  "director": [
+    {
+      "name": "스탠리 큐브릭",
+      "name_en": "Stanley Kubrick"
+    }
+  ],
+  "cast": [
+    {
+      "actor": "케어 둘리",
+      "actor_en": "Keir Dullea",
+      "character": "데이비드 보우먼 박사"
+    },
+    {
+      "actor": "게리 록우드",
+      "actor_en": "Gary Lockwood",
+      "character": "프랭크 풀 박사"
+    },
+    {
+      "actor": "윌리엄 실베스터",
+      "actor_en": "William Sylvester",
+      "character": "헤이우드 플로이드 박사"
+    },
+    {
+      "actor": "더글러스 레인",
+      "actor_en": "Douglas Rain",
+      "character": "HAL 9000 (목소리)"
+    },
+    {
+      "actor": "대니얼 리히터",
+      "actor_en": "Daniel Richter",
+      "character": "Moon-Watcher"
+    },
+    {
+      "actor": "레너드 로시터",
+      "actor_en": "Leonard Rossiter",
+      "character": "Dr. Andrei Smyslov"
+    },
+    {
+      "actor": "마가렛 타이잭",
+      "actor_en": "Margaret Tyzack",
+      "character": "Elena"
+    },
+    {
+      "actor": "로버트 비티",
+      "actor_en": "Robert Beatty",
+      "character": "Dr. Ralph Halvorsen"
+    },
+    {
+      "actor": "숀 설리번",
+      "actor_en": "Sean Sullivan",
+      "character": "Dr. Michaels"
+    }
+  ],
+  "review": [
+    "./data/review/2001 스페이스 오디세이/2001 스페이스 오디세이_HkdpO6GSxYI.json",
+    "./data/review/2001 스페이스 오디세이/2001 스페이스 오디세이__pVRfOjDgrM.json",
+    "./data/review/2001 스페이스 오디세이/2001 스페이스 오디세이_gWEkbrFgc_M.json",
+    "./data/review/2001 스페이스 오디세이/2001 스페이스 오디세이_pRgOU1k4QwQ.json",
+    "./data/review/2001 스페이스 오디세이/2001 스페이스 오디세이_rXYvywpWIj0.json",
+    "./data/review/2001 스페이스 오디세이/2001 스페이스 오디세이_rodvf4M1AZc.json"
+  ]
+}

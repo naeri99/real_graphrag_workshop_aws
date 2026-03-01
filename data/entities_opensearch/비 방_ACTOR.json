@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "비 방",
+    "synonym": [
+      "Bee",
+      "Bee Vang",
+      "방",
+      "비 방",
+      "비 밴",
+      "비 뱅",
+      "비방",
+      "비밴",
+      "비뱅",
+      "비이 방"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "비 방은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

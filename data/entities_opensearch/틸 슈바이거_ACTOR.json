@@ -1,0 +1,17 @@
+{
+  "entity": {
+    "name": "틸 슈바이거",
+    "synonym": [
+      "Til Schweiger",
+      "Till Schweiger",
+      "슈바이거",
+      "틸 슈바이거",
+      "틸 슈바이거이",
+      "틸슈바이거"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "틸 슈바이거은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

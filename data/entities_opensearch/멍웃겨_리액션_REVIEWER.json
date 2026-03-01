@@ -1,0 +1,13 @@
+{
+  "entity": {
+    "name": "멍웃겨_리액션",
+    "synonym": [
+      "멍웃겨_리액션",
+      "멍웃겨 리액션"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "멍웃겨_리액션은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

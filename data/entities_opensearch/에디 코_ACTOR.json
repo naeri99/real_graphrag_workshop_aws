@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "에디 코",
+    "synonym": [
+      "Eddie Ko",
+      "Eddy",
+      "Eddy Ko",
+      "Ko",
+      "에디",
+      "에디 고",
+      "에디 코",
+      "에디고",
+      "에디코",
+      "코"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "에디 코은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

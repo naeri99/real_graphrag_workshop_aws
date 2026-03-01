@@ -1,0 +1,164 @@
+{
+  "chunk_hash": "9121aef32d58d7",
+  "chunk_id": "JTBC_Entertainment_9121aef32d58d7_f6914f8d",
+  "user_query": "어서요. 이 영화는 그것도 유튜브 원작 소설이 유명한 인사 좀 한국의 수출 가운데 있더라고요. 하버드 대학에서 신경과학 박사 가지고 있던 중에 알츠하이머병에 걸린 할머니에게 영감을 받아서 책을 쓰기 시작했다고 해요. 뉴욕타임즈 베스트셀러요. 그래서 200만 부가 팔리고 한국을 포함한 30개국에 출간됐다고 하죠. 원작이 영화화하는데 굉장히 적극적으로 냈다고 해서 그의 딸 리디아가 연극 하는 장면에서 관객 역할로 한 명으로 촬영까지 참여했다고 들었어요. 그런데 소설 읽어 봤는데 일단 어느 학자가 아니라 심지어 언어학자로 바꾼 것도 약간 각색인 것 같기에요. 그런데 처럼 언어를 연구하는 사람이 언어를 잃어간다고 하는 설정 자체가 중요한 거예요. 그래서 비교적 젊었던 거죠. 그래서 언어에 대한 결벽증이 장애로 이어지는 상황은 아 정말 큰 안타까움을 자아내는. 박사님 말씀대로 각색이 이런 것 잘된 거 같고 연출력이 훌륭한데 감독들이 두 명이에요. 감독 중 한 명인 Richard Glatzer 감독은 루게릭병을 앓고 있어요. 이 영화를 찍을 때 이미 이렇게 말을 하지 못한 상태였어요. 이거 제작 동안 촬영한 워시 웨스트랜드 감독님이랑 사실 커밍아웃한 동성 부부예요. 저는 이게 굉장히 대단하다고 생각한 게 뭐냐면은 이성애자 가족의 얘기를 다루고 있지 않겠어요. 그거에 대해서 어떤 특이한 시각이라기보다도 굉장히 담담하면서도 인간 본연의 모습을 바라보는 성숙한 시각이 이 영화에 대해 담겨 있고 그런 부분들이 굉장한 영화라서 좋았어요. 감독이 실제 누구를 본인이 걸렸다는 것을 알고 난 다음에 Richard Glatzer 감독은 처음에는 자신의 팔을 움직일 수가 없었고요. 그 현장에서도 거기 손가락 하나 정도 움직일 수가 있어 가지고 태블릿 PC의 음성 응용 프로그램을 통해서 이제 스태프들하고 잘라고 액션 같은 그런 수준이었다고 하거든요. 나중에 Julianne Moore가 가든 시상식에서 상을 탔을 때 이미 악화가 되서 힘들고 누워서 부부가 집에서 TV로 봤다고 하는. 그래서 이거 작품을 좋아하시고 중요하게 나눌 줄 거 아세요. 그래서 타이틀이 Still Alice 때 계속 앞에 가서 붙여야 뭔데 쓰여야 온전한 숫자의 그냥 Core or Steel 원래 우아한 질. 좌 얻으리 들이 멈출 수 있는 앨리스여야 될. 타이틀이 처음에 뭐 비슷하게 나서 이제 나중에 흥행도 되고 관객들 평도 굉장히 좋았던 그런 것들까지 다 보고 사망하게 되는.",
+  "movie_id": "스틸 앨리스",
+  "reviewer": "JTBC_Entertainment",
+  "chunk_index": 1,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "스틸 앨리스",
+      "entity_type": "MOVIE",
+      "entity_description": "스틸 앨리스(Still Alice)는 알츠하이머병에 걸린 언어학자의 이야기를 다룬 영화로, 유튜브 원작 소설을 영화화한 작품이다. 언어를 연구하는 사람이 언어를 잃어가는 설정이 특징이며, 흥행과 관객 평가 모두 좋았다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "RICHARD GLATZER",
+      "entity_type": "MOVIE_STAFF",
+      "entity_description": "Richard Glatzer는 스틸 앨리스의 공동 감독으로, 루게릭병을 앓고 있었다. 촬영 당시 이미 말을 하지 못하는 상태였으며, 손가락 하나만 움직일 수 있어 태블릿 PC의 음성 응용 프로그램을 통해 스태프들과 소통하며 연출했다. 영화 개봉 후 사망했다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "워시 웨스트랜드",
+      "entity_type": "MOVIE_STAFF",
+      "entity_description": "워시 웨스트랜드는 스틸 앨리스의 공동 감독으로, Richard Glatzer 감독과 커밍아웃한 동성 부부이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "JULIANNE MOORE",
+      "entity_type": "ACTOR",
+      "entity_description": "줄리안 무어는 스틸 앨리스에서 주연을 맡은 배우로, 이 작품으로 시상식에서 상을 수상했다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "앨리스",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "앨리스는 스틸 앨리스의 주인공으로, 언어학자이면서 알츠하이머병에 걸려 언어를 잃어가는 인물이다. 언어에 대한 결벽증이 있었으나 이것이 장애로 이어지는 상황이 안타까움을 자아낸다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "리디아",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "리디아는 앨리스의 딸로, 영화에서 연극을 하는 장면이 있다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "RICHARD GLATZER",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "스틸 앨리스",
+      "target_type": "MOVIE",
+      "relationship_description": "Richard Glatzer는 스틸 앨리스를 공동 감독했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "워시 웨스트랜드",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "스틸 앨리스",
+      "target_type": "MOVIE",
+      "relationship_description": "워시 웨스트랜드는 스틸 앨리스를 공동 감독했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "RICHARD GLATZER",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "워시 웨스트랜드",
+      "target_type": "MOVIE_STAFF",
+      "relationship_description": "Richard Glatzer와 워시 웨스트랜드는 동성 부부이자 스틸 앨리스의 공동 감독이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "JULIANNE MOORE",
+      "source_type": "ACTOR",
+      "target_entity": "스틸 앨리스",
+      "target_type": "MOVIE",
+      "relationship_description": "줄리안 무어는 스틸 앨리스에 출연하여 시상식에서 상을 수상했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "JULIANNE MOORE",
+      "source_type": "ACTOR",
+      "target_entity": "앨리스",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "줄리안 무어는 앨리스 역을 연기했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "앨리스",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "스틸 앨리스",
+      "target_type": "MOVIE",
+      "relationship_description": "앨리스는 스틸 앨리스의 주인공이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "리디아",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "스틸 앨리스",
+      "target_type": "MOVIE",
+      "relationship_description": "리디아는 스틸 앨리스에 등장하는 캐릭터이다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "리디아",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "앨리스",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "리디아는 앨리스의 딸이다",
+      "relationship_strength": 10
+    }
+  ],
+  "entity_resolution": {
+    "스틸 앨리스": {
+      "description": "스틸 앨리스 -> 스틸 앨리스",
+      "resolved_name": "스틸 앨리스",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "RICHARD GLATZER": {
+      "description": "RICHARD GLATZER -> RICHARD GLATZER",
+      "resolved_name": "RICHARD GLATZER",
+      "entity_type": "MOVIE_STAFF",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "워시 웨스트랜드": {
+      "description": "워시 웨스트랜드 -> 워시 웨스트랜드",
+      "resolved_name": "워시 웨스트랜드",
+      "entity_type": "MOVIE_STAFF",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "JULIANNE MOORE": {
+      "description": "JULIANNE MOORE -> JULIANNE MOORE",
+      "resolved_name": "JULIANNE MOORE",
+      "entity_type": "ACTOR",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "앨리스": {
+      "description": "앨리스 -> 앨리스 하울랜드",
+      "resolved_name": "앨리스 하울랜드",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "리디아": {
+      "description": "리디아 -> Lydia Howland",
+      "resolved_name": "Lydia Howland",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    }
+  }
+}

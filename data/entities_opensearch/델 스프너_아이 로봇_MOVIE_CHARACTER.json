@@ -1,0 +1,28 @@
+{
+  "entity": {
+    "name": "델 스프너",
+    "synonym": [
+      "Del Spooner",
+      "Detective Spooner",
+      "Spooner",
+      "델",
+      "델 스푸너",
+      "델 스푼어",
+      "델 스프너",
+      "델스푸너",
+      "델스프너",
+      "스푸너",
+      "스푸너 형사",
+      "스푼 너",
+      "스푼 어",
+      "스푼 형사",
+      "스푼너",
+      "스푼어",
+      "스프너"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "델 스프너은 영화 '아이 로봇'의 등장인물로, 윌 스미스이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

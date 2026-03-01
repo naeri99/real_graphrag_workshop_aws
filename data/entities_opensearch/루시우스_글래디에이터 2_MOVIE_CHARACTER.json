@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "루시우스",
+    "synonym": [
+      "Lucius",
+      "Lucius Fox",
+      "루시어스",
+      "루시어스 폭스",
+      "루시우스",
+      "루시우스 베루스",
+      "루시우스폭스",
+      "루씨우스",
+      "루키우스",
+      "폭스",
+      "하노"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "루시우스은 영화 '글래디에이터 2'의 등장인물로, 폴 메스칼이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

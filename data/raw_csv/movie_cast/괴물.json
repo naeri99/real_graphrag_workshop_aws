@@ -1,0 +1,73 @@
+{
+  "movie_title": "괴물",
+  "director": [
+    {
+      "name": "봉준호",
+      "name_en": "Bong Joon-ho"
+    }
+  ],
+  "cast": [
+    {
+      "actor": "송강호",
+      "actor_en": "Song Kang-ho",
+      "character": "박강두"
+    },
+    {
+      "actor": "변희봉",
+      "actor_en": "Byun Hee-bong",
+      "character": "박희봉"
+    },
+    {
+      "actor": "박해일",
+      "actor_en": "Park Hae-il",
+      "character": "박남일"
+    },
+    {
+      "actor": "배두나",
+      "actor_en": "Bae Doona",
+      "character": "박남주"
+    },
+    {
+      "actor": "고아성",
+      "actor_en": "Ko Ah-sung",
+      "character": "박현서"
+    },
+    {
+      "actor": "이재응",
+      "actor_en": "Lee Jae-eung",
+      "character": "세진"
+    },
+    {
+      "actor": "오달수",
+      "actor_en": "Oh Dal-su",
+      "character": "괴물 목소리"
+    },
+    {
+      "actor": "김뢰하",
+      "actor_en": "Kim Roe-ha",
+      "character": "Yellow 1"
+    },
+    {
+      "actor": "윤제문",
+      "actor_en": "Yoon Je-moon",
+      "character": "노숙자"
+    },
+    {
+      "actor": "폴 라저",
+      "actor_en": "Paul Lazar",
+      "character": "의사"
+    },
+    {
+      "actor": "이동호",
+      "actor_en": "Lee Dong-ho",
+      "character": "세주"
+    }
+  ],
+  "review": [
+    "./data/review/괴물/괴물_0G5oQxCMmLw.json",
+    "./data/review/괴물/괴물_TwJnwjdbS8c.json",
+    "./data/review/괴물/괴물_c60sMtjTK2s.json",
+    "./data/review/괴물/괴물_mPjeoY9knHo.json",
+    "./data/review/괴물/괴물_wsDMHHMR_9M.json"
+  ]
+}

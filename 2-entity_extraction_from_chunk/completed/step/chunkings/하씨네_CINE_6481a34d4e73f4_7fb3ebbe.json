@@ -1,0 +1,36 @@
+{
+  "chunk_hash": "6481a34d4e73f4",
+  "chunk_id": "하씨네_CINE_6481a34d4e73f4_7fb3ebbe",
+  "user_query": "시스템화된 고문 산업과 유흥과 쾌락만을 찾은 여행객들이 [음악] 오히려 자신들이 상품으로 전락하게 되는 역전 구조를 그리며 잔혹성만큼 [음악] 강한 사회적 풍자를 다루고 있는 작품인데요. 특히 그 누구도 믿을 수 [음악] 없고 경찰을 포함한 모두가 조직과 연결되어 있다는 설정은 현대 자본주의를 [음악] 괴기적으로 비틀어 표현한 장면으로 평가받고 있죠. 여행지를 배경으로 끔찍한 사건이 벌어지는 [음악] 긴장감 넘치는 공포 스릴러 영화를 좋아하시는 분들에게 추천드리는 영화입니다. 그럼 [음악] 다음 영화에서 또 함께 시청해요.",
+  "movie_id": "호스텔",
+  "reviewer": "하씨네_CINE",
+  "chunk_index": 3,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "호스텔",
+      "entity_type": "MOVIE",
+      "entity_description": "호스텔은 시스템화된 고문 산업과 유흥을 찾는 여행객들이 오히려 상품으로 전락하는 역전 구조를 그린 공포 스릴러 영화로, 현대 자본주의에 대한 강한 사회적 풍자를 담고 있다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "호스텔",
+      "source_type": "MOVIE",
+      "target_entity": "호스텔",
+      "target_type": "MOVIE",
+      "relationship_description": "여행지를 배경으로 끔찍한 사건이 벌어지는 긴장감 넘치는 공포 스릴러 영화이다",
+      "relationship_strength": 10
+    }
+  ],
+  "entity_resolution": {
+    "호스텔": {
+      "description": "호스텔 -> 호스텔",
+      "resolved_name": "호스텔",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "name_exact"
+    }
+  }
+}

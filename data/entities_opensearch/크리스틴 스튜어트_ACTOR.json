@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "크리스틴 스튜어트",
+    "synonym": [
+      "Kristen Stewart",
+      "Stewart",
+      "스튜어트",
+      "스튜워트",
+      "크리스틴",
+      "크리스틴 스튜어트",
+      "크리스틴 스튜워트",
+      "크리스틴스튜어트",
+      "크리스틴스튜워트"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "크리스틴 스튜어트은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

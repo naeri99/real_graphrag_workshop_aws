@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "마시코 마사코",
+    "synonym": [
+      "Masako Araki",
+      "Masako Mashiko",
+      "増子真澄",
+      "真下正子",
+      "마사코",
+      "마시코",
+      "마시코 마사코",
+      "마시코마사코"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "마시코 마사코은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

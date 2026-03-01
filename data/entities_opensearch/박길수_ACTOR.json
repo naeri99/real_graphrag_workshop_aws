@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "박길수",
+    "synonym": [
+      "Park Gil Su",
+      "Park Gil-su",
+      "Park Gilsu",
+      "길수",
+      "박 길수",
+      "박길수",
+      "박길수 배우",
+      "박길수 씨",
+      "박길수배우",
+      "박길쑤"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "박길수은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

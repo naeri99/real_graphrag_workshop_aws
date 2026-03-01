@@ -1,0 +1,217 @@
+{
+  "chunk_hash": "60d21575d0da6d",
+  "chunk_id": "무드킹_60d21575d0da6d_08c033c7",
+  "user_query": "[음악] LA 어느 건물에서 누군가를 찾고 있는 잭 월시 그리고 능숙한 솜씨로 문을 따는데 갑작스러운 총격에도 당황하지 않는 잭 사실 그는 과거 전직 시카고 경찰이었지만 지금은 범죄자를 쫓는 현상금 사냥꾼입니다 [음악] 그런데 또다른 현상금 사냥꾼인 도플러 잭과 같은 범인을 쫓고 [음악] 있었고 그렇게 잭은 범인을 잡고 마빈의 차까지 가져갑니다 영화 미드나잇 런 [음악] 시작합니다 잭은 경찰서에 범인을 넘기고 현상금을 받기 위해 보석보증인을 찾아갑니다 사장인 에디는 얼마 전 마피아 보스 세라노 밑에서 일하던 회계사인 듀크가 1500만 달러를 훔쳐 자선단체에 기부하고 체포되었는데 자신이 보석을 시켰다고 말합니다 그런데 보석금이 얼마인지도 모르고 보석을 섰다 보니 파산할 수 있으니 그를 5일 안에 잡아달라고 부탁합니다 이에 잭은 과거 경찰 동료를 찾아가서 듀크의 기록을 보여달라고 [음악] 부탁합니다 그리고 경찰서를 나오는데 FBI 수사관들이 잭을 부릅니다 잭에게 손을 씻으라 압박하지만 잭은 그 말에 응하지 [음악] 않죠 그리고 잭은 뉴욕으로 향하는 비행기 안에서 여러 신분증 중에 자신의 사진을 붙입니다 뉴욕에 도착한 잭 세라노의 부하들이 접근했고 자신들에게 듀크를 잡아달라며 현상금을 제시하죠 그리고 잭은 듀크가 체포되기 전 마지막으로 통화했던 집 앞에서 FBI인 척 전화를 겁니다 그리고 차로 돌아와서 상대방이 어디로 전화를 거는지 추적하죠 그 곳으로 찾아가고 몰래 집안으로 [음악] [음악] 들어갑니다 드디어 듀크를 잡은 잭 이제 LA로 돌아가는 일만 남았는데 듀크가 자신은 고소공포증이 있어 비행기를 탈 수 없다고 말합니다 [음악] 그리고 듀크의 소식은 세라노에게 전달됩니다 이제 비행기가 출발하려는데 듀크가 난동을 부립니다 그렇게 이들은 기차를 타고 LA로 가게 됩니다 그리고 FBI 모즐리가 LA 공항으로 급하게 출동하지만 잭의 모습을 찾을 수는 없었죠 그리고 듀크는 잭에게 왜 자신을 잡는 건지 묻습니다 한편 잭이 공항에 도착하지 않자 에디는 또다른 현상금 사냥꾼인 마빈에게 듀크를 잡아달라고 의뢰합니다 [음악] 그리고 얼마 뒤 마빈이 듀크를 잡기 위해 다음 역에서 기차를 탑니다 [음악] apparently and wal the headed to Los Angeles in [음악] minutes to ED mus From A Jack wal Jesus ja Where the hell you I want to talk to him How come d w up on my ass did you put him on this I Don't even How can I put you nothing to do Where are you 이들은 돈이 모자라 시카고까지 가는 티켓을 끊고 한편 모즐리가 마빈을 찾아왔고 [음악] [음악] coach chic do we do this my cigar you know about secondary Smoke go back to sleep leave me alone Put the cigar out why CH",
+  "movie_id": "미드나잇 런",
+  "reviewer": "무드킹",
+  "chunk_index": 1,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "미드나잇 런",
+      "entity_type": "MOVIE",
+      "entity_description": "미드나잇 런은 현상금 사냥꾼이 범죄자를 추적하는 내용의 영화이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "잭 월시",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "잭 월시는 전직 시카고 경찰 출신의 현상금 사냥꾼으로, 듀크를 잡아 LA로 데려가는 임무를 맡은 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "듀크",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "듀크는 마피아 보스 세라노 밑에서 일하던 회계사로, 1500만 달러를 훔쳐 자선단체에 기부하고 체포된 인물이며 고소공포증이 있다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "에디",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "에디는 보석보증인 사장으로, 듀크의 보석을 서고 잭에게 듀크를 잡아달라고 의뢰하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "세라노",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "세라노는 마피아 보스로, 듀크가 과거 그 밑에서 회계사로 일했으며 듀크를 잡으려 부하들을 보내는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "마빈",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "마빈은 또다른 현상금 사냥꾼으로, 잭과 같은 범인을 쫓으며 에디로부터 듀크를 잡아달라는 의뢰를 받는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "도플러",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "도플러는 잭과 같은 범인을 쫓는 또다른 현상금 사냥꾼이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "모즐리",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "모즐리는 FBI 수사관으로, 잭을 추적하고 LA 공항으로 출동하는 인물이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "잭 월시",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "미드나잇 런",
+      "target_type": "MOVIE",
+      "relationship_description": "잭 월시는 미드나잇 런의 주인공이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "듀크",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "미드나잇 런",
+      "target_type": "MOVIE",
+      "relationship_description": "듀크는 미드나잇 런에서 잭이 추적하는 대상이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "잭 월시",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "듀크",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "잭 월시는 듀크를 잡아 LA로 데려가는 임무를 수행한다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "듀크",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "세라노",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "듀크는 세라노 밑에서 회계사로 일하며 1500만 달러를 훔쳤다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "에디",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "잭 월시",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "에디는 잭에게 듀크를 5일 안에 잡아달라고 의뢰한다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "에디",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "듀크",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "에디는 듀크의 보석을 서준 보석보증인이다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "에디",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "마빈",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "에디는 마빈에게 듀크를 잡아달라고 의뢰한다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "마빈",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "잭 월시",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "마빈은 잭과 경쟁하는 현상금 사냥꾼이다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "마빈",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "듀크",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "마빈은 듀크를 잡기 위해 기차에 탑승한다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "모즐리",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "잭 월시",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "모즐리는 FBI 수사관으로 잭을 추적한다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "세라노",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "잭 월시",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "세라노의 부하들이 잭에게 듀크를 잡아달라며 현상금을 제시한다",
+      "relationship_strength": 6
+    }
+  ],
+  "entity_resolution": {
+    "미드나잇 런": {
+      "description": "미드나잇 런 -> 미드나잇 런",
+      "resolved_name": "미드나잇 런",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "잭 월시": {
+      "description": "잭 월시 -> 잭 월시",
+      "resolved_name": "잭 월시",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "듀크": {
+      "description": "듀크 -> 조나단 마듀카스",
+      "resolved_name": "조나단 마듀카스",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "에디": {
+      "description": "에디 -> 에디 모스콘",
+      "resolved_name": "에디 모스콘",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "세라노": {
+      "description": "세라노 -> Jimmy Serrano",
+      "resolved_name": "Jimmy Serrano",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "마빈": {
+      "description": "마빈 -> Marvin Dorfler",
+      "resolved_name": "Marvin Dorfler",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "도플러": {
+      "description": "도플러 -> Marvin Dorfler",
+      "resolved_name": "Marvin Dorfler",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "모즐리": {
+      "description": "모즐리 -> Alonzo Mosely",
+      "resolved_name": "Alonzo Mosely",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    }
+  }
+}

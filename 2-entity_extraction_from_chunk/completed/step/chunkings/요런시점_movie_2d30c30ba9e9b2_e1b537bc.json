@@ -1,0 +1,71 @@
+{
+  "chunk_hash": "2d30c30ba9e9b2",
+  "chunk_id": "요런시점_movie_2d30c30ba9e9b2_e1b537bc",
+  "user_query": "완전히 정반대입니다 조로아스터교도 기독교 같은 철저한 이원론적인 교리를\n신봉하는 종교이거든요 큐브릭 감독은 이 영화를 만들 때 지적인 언어로\n설명되는 건 피하고자 했다고 인터뷰에서 밝혔습니다 그가 이 영화를 통해 구현하고자 했던 건 어떤 사상을 설파하는 것이 아니었습니다 음악처럼 무의식에 직접 와닿는 비언어적인 경험을 전달하는 것이었습니다 저 너머의 이해할 수 없는\n초월적인 존재와 조우할 때 인간이 느끼는\n신성한 공포감과 경외감을 상상력과 테크놀로지로 구현하는 것 그것이 큐브릭 감독이\n\"2001년\"을 만든 이유였죠 그러니 \"테넷\"에 나오는 이 대사야말로 이 영화에 딱 어울리지 않을까 싶습니다",
+  "movie_id": "2001 스페이스 오디세이",
+  "reviewer": "요런시점_movie",
+  "chunk_index": 4,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "큐브릭",
+      "entity_type": "MOVIE_STAFF",
+      "entity_description": "큐브릭은 2001년 스페이스 오디세이를 만든 감독으로, 지적인 언어로 설명되는 것을 피하고 음악처럼 무의식에 직접 와닿는 비언어적인 경험을 전달하고자 했다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "2001년",
+      "entity_type": "MOVIE",
+      "entity_description": "2001년 스페이스 오디세이는 큐브릭 감독이 만든 영화로, 초월적인 존재와 조우할 때 인간이 느끼는 신성한 공포감과 경외감을 상상력과 테크놀로지로 구현한 작품이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "테넷",
+      "entity_type": "MOVIE",
+      "entity_description": "테넷은 크리스토퍼 놀란 감독의 영화로, 2001년 스페이스 오디세이와 연관되는 대사가 등장하는 작품이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "큐브릭",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "2001년",
+      "target_type": "MOVIE",
+      "relationship_description": "큐브릭 감독은 2001년 스페이스 오디세이를 연출했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "테넷",
+      "source_type": "MOVIE",
+      "target_entity": "2001년",
+      "target_type": "MOVIE",
+      "relationship_description": "테넷의 대사가 2001년 스페이스 오디세이의 주제와 어울린다고 언급되었다",
+      "relationship_strength": 5
+    }
+  ],
+  "entity_resolution": {
+    "큐브릭": {
+      "description": "큐브릭 -> 스탠리 큐브릭",
+      "resolved_name": "스탠리 큐브릭",
+      "entity_type": "MOVIE_STAFF",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "2001년": {
+      "description": "2001년 -> 2001 스페이스 오디세이",
+      "resolved_name": "2001 스페이스 오디세이",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "테넷": {
+      "description": "테넷 -> 테넷",
+      "resolved_name": "테넷",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "name_exact"
+    }
+  }
+}

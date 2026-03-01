@@ -1,0 +1,62 @@
+{
+  "chunk_hash": "64159b5d166e14",
+  "chunk_id": "위니버스_64159b5d166e14_9649b1c5",
+  "user_query": "be lower than when gravity is not affected. Also, the upward light that does not normally reach our eyes can be bent to reach our eyes. This happens continuously when a spacecraft orbits the wormhole, and one star appears to be moving in two opposite directions. This boundary is called Einstein Ring. Very complex duplication occurs inside the wormhole. This is because a bundle of light spreading in various directions from one star on the other side enters our eyes several times along the distorted construction of the wormhole. As such, the wormhole of the interstellar was implemented considering the elements of the gravitational lens. Can the wormhole in Interstellar actually exist? The basic principle of wormholes seems very easy when you listen to Romilly's explanation. But it's really hard to bend, tear, and suture the space we exist in. Even if you have dramatically performed a spacetime suture operation, it takes a huge amount of energy to maintain the wormhole's flexion, and there are also exotic problems. If you shoot light at the wormhole, the light should be sucked into the wormhole's interior and released to the other side. This means that gravity should work the other way around. For gravity to work the other way around, it needs something with negative mass and energy. Scientists call this Exotic Matter. The experimental presence of exotic matter has been confirmed, but it is still unknown whether enough exotic matter can exist in the wormhole. In addition,",
+  "movie_id": "인터스텔라",
+  "reviewer": "위니버스",
+  "chunk_index": 10,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "INTERSTELLAR",
+      "entity_type": "MOVIE",
+      "entity_description": "Interstellar는 웜홀과 중력 렌즈 효과를 과학적으로 구현한 SF 영화이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "ROMILLY",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Romilly는 Interstellar에서 웜홀의 기본 원리를 설명하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "EINSTEIN RING",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Einstein Ring은 우주선이 웜홀 주위를 돌 때 하나의 별이 두 개의 반대 방향으로 움직이는 것처럼 보이는 경계를 지칭하는 용어이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "ROMILLY",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "INTERSTELLAR",
+      "target_type": "MOVIE",
+      "relationship_description": "Romilly는 Interstellar에서 웜홀의 원리를 설명하는 등장인물이다",
+      "relationship_strength": 10
+    }
+  ],
+  "entity_resolution": {
+    "INTERSTELLAR": {
+      "description": "INTERSTELLAR -> INTERSTELLAR",
+      "resolved_name": "INTERSTELLAR",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "ROMILLY": {
+      "description": "ROMILLY -> ROMILLY",
+      "resolved_name": "ROMILLY",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "EINSTEIN RING": {
+      "description": "EINSTEIN RING -> EINSTEIN RING",
+      "resolved_name": "EINSTEIN RING",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

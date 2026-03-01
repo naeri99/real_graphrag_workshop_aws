@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "브라이스 달라스 하워드",
+    "synonym": [
+      "Bryce Dallas Howard",
+      "달라스 하워드",
+      "브라이스",
+      "브라이스 달라스 하워드",
+      "브라이스 댈러스 하워드",
+      "브라이스 하워드",
+      "브라이스달라스하워드",
+      "브라이스댈러스하워드",
+      "하워드"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "브라이스 달라스 하워드은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

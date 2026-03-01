@@ -1,0 +1,49 @@
+{
+  "chunk_hash": "ca56fb9634eb59",
+  "chunk_id": "요것봐라_ca56fb9634eb59_f6db17d4",
+  "user_query": "에 나 대북 건데 써 5 기쁘지 한번 있어 5 잘 휘지 5 막 예 근데 뭐야 이제 근데 못 만나 이건 마다 만난다고 둘의 찾아봅시다 [음악] 엄마 아빠가 즉 파고 또 리스팅 때 그때나 뿜어 가지고 여기에 왼쪽 올리고 엄마 아빠가 지만 깨어나 지도 못하고 그때 속히 없다지 창신 당첨 합지 그치 곧 혈액형이 해외 애착 및 느낌이었다 엄마들은 다들 꿈이 덧 1 뭐 이것도 아랫 뻣뻣 앓고 부탁해서 맞제 해봤 근 쓱 유희 새끼가 t 예 * 싶었던게 이 책 엄마 뜹니다 됐 죽었고 듣다 실 집에도 뽀뽀도 치더라도 이래가지고 또 어떤지 중 것으로 봤다 자 동 차 미그 픽 어찌 [음악] 소가 op 아아아 아무 잘못 없이 5 숨만 엄마가 잘못한 거예 라지 인드라 [음악] 아 아 아 아 아 아 아 으 [음악] 미 않았다 아 아 으 으 아 아 아 5 [음악] 그래서 것 전 일종이라 기고 인생의 인간이 이미 진심으로 용서 가는 굴레를 적은 더 이상 c 바라지 않는다 [음악] 아 예 본 법정은 피고 김자홍의 된 무죄를 하며 김자홍 에게 60 환생 할거 생각하는 바입니다 [음악] 고맙습니다 셋째 으 으 으 으 [음악] 합니다 으 으 [박수] 아 아 데리고 올라가 있어 2 또 그 잉",
+  "movie_id": "신과함께-죄와벌",
+  "reviewer": "요것봐라",
+  "chunk_index": 5,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "김자홍",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "김자홍은 법정에서 재판을 받는 피고인으로, 무죄 판결을 받고 환생할 자격을 얻는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "신과함께",
+      "entity_type": "MOVIE",
+      "entity_description": "신과함께는 사후세계에서 재판을 받는 내용을 다룬 영화로 추정되며, 김자홍이 법정에서 무죄 판결을 받고 환생하는 장면이 나온다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "김자홍",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "신과함께",
+      "target_type": "MOVIE",
+      "relationship_description": "김자홍은 신과함께의 주인공으로 사후세계 법정에서 재판을 받는다",
+      "relationship_strength": 9
+    }
+  ],
+  "entity_resolution": {
+    "김자홍": {
+      "description": "김자홍 -> 자홍",
+      "resolved_name": "자홍",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "신과함께": {
+      "description": "신과함께 -> 신과함께-죄와벌",
+      "resolved_name": "신과함께-죄와벌",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "name_exact"
+    }
+  }
+}

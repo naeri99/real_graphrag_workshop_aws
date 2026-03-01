@@ -1,0 +1,26 @@
+{
+  "entity": {
+    "name": "류 기사",
+    "synonym": [
+      "Driver Ryu",
+      "Mr. Ryu",
+      "Ryu Driver",
+      "기사 류",
+      "류 기사",
+      "류 기사님",
+      "류 씨",
+      "류 운전사",
+      "류 택시기사",
+      "류기사",
+      "류기사님",
+      "류씨",
+      "류씨 기사",
+      "류운전사",
+      "택시기사 류"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "류 기사은 영화 '택시운전사'의 등장인물로, 류성현이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "entity": {
+    "name": "박민경",
+    "synonym": [
+      "Min-kyung",
+      "Minkyung",
+      "Park Min-kyung",
+      "Park Minkyung",
+      "ParkMinKyung",
+      "Parkminkyung",
+      "민경",
+      "민경 역",
+      "민경 캐릭터",
+      "민경씨",
+      "민경이",
+      "박 민경",
+      "박민경",
+      "서은수 캐릭터"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "박민경은 영화 '너의 결혼식'의 등장인물로, 서은수이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

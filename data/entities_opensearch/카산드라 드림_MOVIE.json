@@ -1,0 +1,18 @@
+{
+  "entity": {
+    "name": "카산드라 드림",
+    "synonym": [
+      "Cassandra Dream",
+      "Cassandra's Dream",
+      "Cassandras Dream",
+      "카산드라 드림",
+      "카산드라드림",
+      "카산드라스 드림",
+      "카산드라의 꿈"
+    ],
+    "entity_type": "MOVIE",
+    "summary": "카산드라 드림",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

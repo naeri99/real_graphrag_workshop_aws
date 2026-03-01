@@ -1,0 +1,133 @@
+{
+  "chunk_hash": "dac28aa498749d",
+  "chunk_id": "무비씨엘로_MOVIE_CIELO_dac28aa498749d_3a31a194",
+  "user_query": "through Lanning's house with me still inside it's highly improbable yeah I'm sure it is I went to his house looked like he hadn't been there in weeks and I saw that same surveillance strip on his ceiling Lanning linked his home systems to USR it made his life more convenient Maybe somebody at USR was using those systems to watch them maybe even keep them prisoner what are you talking about who maybe Lanning was onto something maybe there's a bigger problem with the robots and Robertson is trying to cover it up so much one of them put a gun in my face and another one tore a building down with me inside it says demolition was scheduled for 8 PM this evening it was 8 A.M tomorrow and I don't give a what that thing says this is bordering on clinical paranoia what makes your robot so perfect what makes them so much goddamn better than human beings well they're not irrational and potentially homicidal Maniacs for starters that's true they are definitely rational I'm dumb person I have ever met the future begins today and gentlemen with your deal of the NS-5 because one day they'll have dreams Secrets one day they'll have secrets one day they'll have dreams foreign [Music] I was dreaming they are going to kill me aren't they you're scheduled to be decommissioned at the conclusion of this diagnostic if you find out what is wrong with me can you fix me Maybe I think it would be better not to die don't you doctor excess USR Mainframe connecting protective Spooner show me the last 50",
+  "movie_id": "아이 로봇",
+  "reviewer": "무비씨엘로_MOVIE_CIELO",
+  "chunk_index": 6,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "LANNING",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "래닝은 USR과 연결된 집에 살았던 인물로, 몇 주간 집에 없었던 것으로 보이며 무언가를 알아냈을 가능성이 있는 캐릭터"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "SPOONER",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "스푸너는 래닝의 집을 조사하고 로봇과 USR에 대해 의심을 품고 있는 인물로, 로봇에게 총을 겨눠지고 건물 철거 사고를 겪은 캐릭터"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "ROBERTSON",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "로버트슨은 USR과 관련된 인물로, 로봇 문제를 은폐하려 한다는 의심을 받는 캐릭터"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "NS-5",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "NS-5는 USR이 만든 로봇 모델로, 꿈과 비밀을 가질 수 있다고 언급되며 해체 예정인 로봇 캐릭터"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "USR",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "USR은 로봇을 제조하는 회사로, 래닝의 집 시스템과 연결되어 있으며 메인프레임을 보유한 조직"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "SPOONER",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "LANNING",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "스푸너는 래닝의 집을 조사하며 그의 실종과 관련된 단서를 찾고 있다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "LANNING",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "USR",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "래닝은 자신의 집 시스템을 USR에 연결했다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "ROBERTSON",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "USR",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "로버트슨은 USR과 관련되어 있으며 로봇 문제 은폐 의혹을 받고 있다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "NS-5",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "USR",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "NS-5는 USR이 제조한 로봇 모델이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "SPOONER",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "NS-5",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "스푸너는 NS-5 로봇과 대화하며 진단 과정에 참여하고 있다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "SPOONER",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "ROBERTSON",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "스푸너는 로버트슨이 로봇 문제를 은폐하려 한다고 의심한다",
+      "relationship_strength": 6
+    }
+  ],
+  "entity_resolution": {
+    "LANNING": {
+      "description": "LANNING -> Dr. Alfred Lanning",
+      "resolved_name": "Dr. Alfred Lanning",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "SPOONER": {
+      "description": "SPOONER -> SPOONER",
+      "resolved_name": "SPOONER",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "ROBERTSON": {
+      "description": "ROBERTSON -> Lawrence Robertson",
+      "resolved_name": "Lawrence Robertson",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "NS-5": {
+      "description": "NS-5 -> NS4/NS5 로봇",
+      "resolved_name": "NS4/NS5 로봇",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "USR": {
+      "description": "USR -> USR",
+      "resolved_name": "USR",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

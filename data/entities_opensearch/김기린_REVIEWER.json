@@ -1,0 +1,12 @@
+{
+  "entity": {
+    "name": "김기린",
+    "synonym": [
+      "김기린"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "김기린은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "entity": {
+    "name": "레지나 킹",
+    "synonym": [
+      "Regina",
+      "Regina King",
+      "레지나",
+      "레지나 킹",
+      "레지나킹",
+      "리자이나 킹",
+      "킹"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "레지나 킹은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

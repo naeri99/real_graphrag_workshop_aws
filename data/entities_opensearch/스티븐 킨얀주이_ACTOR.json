@@ -1,0 +1,24 @@
+{
+  "entity": {
+    "name": "스티븐 킨얀주이",
+    "synonym": [
+      "Stephen Kinyanjui",
+      "Steven Allan Spielberg",
+      "Steven Spielberg",
+      "스테판 킨얀주이",
+      "스티븐",
+      "스티븐 스필버그 감독",
+      "스티븐 킨얀주",
+      "스티븐 킨얀주이",
+      "스티븐스필버그",
+      "스티븐킨얀주이",
+      "스필버그",
+      "킨얀주",
+      "킨얀주이"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "스티븐 킨얀주이은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

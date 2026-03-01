@@ -1,0 +1,73 @@
+{
+  "movie_title": "히든페이스",
+  "director": [
+    {
+      "name": "김대우",
+      "name_en": "Kim Dae-woo"
+    }
+  ],
+  "cast": [
+    {
+      "actor": "박지영",
+      "actor_en": "Park Ji-young",
+      "character": "혜연"
+    },
+    {
+      "actor": "박성근",
+      "actor_en": "Park Seong-geun",
+      "character": "사무장"
+    },
+    {
+      "actor": "변중희",
+      "actor_en": "Byun Joong-hee",
+      "character": "박선생"
+    },
+    {
+      "actor": "차미경",
+      "actor_en": "Cha Mi-kyung",
+      "character": "성진의 어머니"
+    },
+    {
+      "actor": "박영준",
+      "actor_en": "Park Young-jun",
+      "character": "부악장"
+    },
+    {
+      "actor": "주예린",
+      "actor_en": "Joo Ye-rin",
+      "character": "수연 친구1"
+    },
+    {
+      "actor": "이소영",
+      "actor_en": "Lee So-young",
+      "character": "수연 친구2"
+    },
+    {
+      "actor": "고나영",
+      "actor_en": "Koh Na-young",
+      "character": "수연 친구3"
+    },
+    {
+      "actor": "이혜령",
+      "actor_en": "Lee Hye-ryung",
+      "character": "휴게실 단원1"
+    },
+    {
+      "actor": "유예린",
+      "actor_en": "Yoo Ye-rin",
+      "character": "휴게실 단원2"
+    },
+    {
+      "actor": "윤세웅",
+      "actor_en": "Yoon Se-woong",
+      "character": "배관공"
+    }
+  ],
+  "review": [
+    "./data/review/히든페이스/히든페이스_2zpfZh2DSdA.json",
+    "./data/review/히든페이스/히든페이스_Fl0gcHbyyok.json",
+    "./data/review/히든페이스/히든페이스_IObg1IdePZc.json",
+    "./data/review/히든페이스/히든페이스_UQ1-5JQqCZk.json",
+    "./data/review/히든페이스/히든페이스_bhj07CxIOhk.json"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "entity": {
+    "name": "트레이너",
+    "synonym": [
+      "Coach",
+      "Trainer",
+      "교관",
+      "코치",
+      "트레이너",
+      "훈련사"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "트레이너은 영화 '인셉션'의 등장인물로, 펠릭스 스콧이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

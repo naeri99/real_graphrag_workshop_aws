@@ -1,0 +1,71 @@
+{
+  "chunk_hash": "59f2e0278c58e3",
+  "chunk_id": "개꿀리뷰_Dr_Gaegool_59f2e0278c58e3_4a38d536",
+  "user_query": "우리 모두 깊은 안에 사는 사람은 누구나 남들에게 좋게 받아들여지고 싶은 강한 욕구가 있습니다. 하지만 우리에게는 자신만의 독특한 개성이 있습니다. 그리고 그것을 반드시 믿어야 합니다. 심지어 남들이 알아주지 않는다고 해도 말입니다.\n\n[박수]\n\nCarpe Diem\n\n누군가는 사랑을 위해 누군가는 정의를 위해 누군가는 꿈을 위해 그러나 그것은 실행하기도 어렵지만 그것에 대해 책임지기는 더 어렵습니다.\n\n죽은 시인의 사회, 내가 나답게 살아라 Carpe Diem. 그렇습니다. 내가 하고 싶은 대로 내가 나답게 살고 싶습니다. 그러한 모든 것에는 저항이 있기 마련, 해도 그것은 방법들이 가장 면에서 두려움과 불안이 억누르고 세상에 맞서 싸우겠다는 사람들로부터 사회가 무너집니다. 이 이야기도 그것을 반복해서 그 반격의 과정을 보여주고 있습니다.\n\n죽은 시인의 사회 이야기는 비극으로 끝을 맺습니다.\n\nCarpe Diem, 지금 여기라는 찰나에 현재는 선택의 만남의 결과로 주어졌습니다. 당신의 선택과 나의 선택이 만나 지금 여기 있습니다. 그러나 그 선택과 결과가 항상 일치하지는 않습니다. 왜냐하면 그 선택과 결과는 위치에 따라 변수로 작용하고 그 위치는 또 누군가의 희생이나 욕망에 따라 변하기 때문입니다. 또는 나 자신의 희생으로 지금 여기라는 현재가 주어진 것입니다.\n\n작품 속에서 Todd는 말합니다. 우리는 내일을 꿈꾸지만 내일은 오지 않는다. 우리는 영광을 꿈꾸지만 그것을 바라지 않는다. 우리는 새 날을 꿈꾸지만 새 날은 이미 여기에 와 있다. 우린 전쟁터에서 도망치지 말고 맞서 싸워야 한다. 우리를 부르는 소리를 듣지만 마음은 다른 곳에 가 있다. 미래의 성공을 꿈꾸지만 희망일 뿐이다. 지혜를 배우지만 우리는 날마다 피하며 살아간다. 부흥 이기도 하지만 요원한 얘기를 마음에 와 있다. 그런데 지금 우리는 잠들어 있다. 그런데 지금 우리는 잠들어 있다. 그런데 지금 우리는 기도하고 있다. 그런데 지금 우리는 두려워하고 있다.\n\n[음악]\n\n죽은 시인의 사회 다시보기를 추천드리며 시청해주셔서 감사합니다.\n\n[박수]\n[음악]\n\n원작이 보고 싶고 원작이 궁금한 개굴개굴의 개꿀 리뷰",
+  "movie_id": "죽은 시인의 사회",
+  "reviewer": "개꿀리뷰_Dr_Gaegool",
+  "chunk_index": 2,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "죽은 시인의 사회",
+      "entity_type": "MOVIE",
+      "entity_description": "죽은 시인의 사회는 'Carpe Diem(현재를 살아라)'이라는 메시지를 담은 영화로, 개성과 자아실현, 사회적 저항을 다루며 비극으로 끝나는 작품이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "TODD",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Todd는 죽은 시인의 사회에 등장하는 인물로, 내일과 영광, 새 날에 대한 성찰적인 독백을 하는 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "개굴개굴의 개꿀 리뷰",
+      "entity_type": "REVIEWER",
+      "entity_description": "개굴개굴의 개꿀 리뷰는 죽은 시인의 사회를 리뷰하고 다시보기를 추천하는 리뷰어이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "TODD",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "죽은 시인의 사회",
+      "target_type": "MOVIE",
+      "relationship_description": "Todd는 죽은 시인의 사회에 등장하는 캐릭터이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "개굴개굴의 개꿀 리뷰",
+      "source_type": "REVIEWER",
+      "target_entity": "죽은 시인의 사회",
+      "target_type": "MOVIE",
+      "relationship_description": "개굴개굴의 개꿀 리뷰는 죽은 시인의 사회를 리뷰하고 다시보기를 추천했다",
+      "relationship_strength": 7
+    }
+  ],
+  "entity_resolution": {
+    "죽은 시인의 사회": {
+      "description": "죽은 시인의 사회 -> 죽은 시인의 사회",
+      "resolved_name": "죽은 시인의 사회",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "TODD": {
+      "description": "TODD -> TODD",
+      "resolved_name": "TODD",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "개굴개굴의 개꿀 리뷰": {
+      "description": "개굴개굴의 개꿀 리뷰 -> 개굴개굴의 개꿀 리뷰",
+      "resolved_name": "개굴개굴의 개꿀 리뷰",
+      "entity_type": "REVIEWER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

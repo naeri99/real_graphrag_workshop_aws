@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "슬픔이",
+    "synonym": [
+      "Sadness",
+      "새드",
+      "새드니스",
+      "슬픔",
+      "슬픔 감정",
+      "슬픔 캐릭터",
+      "슬픔이",
+      "슬픔이 캐릭터"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "슬픔이은 영화 '인사이드 아웃 2'의 등장인물로, 필리스 스미스이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

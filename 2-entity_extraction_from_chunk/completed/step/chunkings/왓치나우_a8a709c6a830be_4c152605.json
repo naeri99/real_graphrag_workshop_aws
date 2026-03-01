@@ -1,0 +1,80 @@
+{
+  "chunk_hash": "a8a709c6a830be",
+  "chunk_id": "왓치나우_a8a709c6a830be_4c152605",
+  "user_query": "아사이 예 다른 주제로 말을 돌리는 의미 채널 e per tool 문자 분 투자 해야 되요 좀 쏘는 해가 부쉬 고압 으 이 말을 들은 에이미는 곤란해 하며 각자 일이 있어 내일 떠나야 할 것 같다고 아 좋아요 3명이 쌓이게 하는 카우 나아갈 g9 산약 너무 온통 검은 믿어 장항 싶어하죠 밤은 수 이 약속은 지켜지지 않습니다 아 걔 나는 죄를 아 게 싫다면 x 말이야 다듬이 계피의 할게 난 파이터 2 x 그 생각한 함께 2 패배 불순한 own 아침이 되자 아빠를 주차 역으로 데려다 주었어 빛의 시간이 여유 있어 같이 여간 카페를 갑니다 오랜만에 둘만의 시간을 보내는데 누가 말해 글좀 pet 참 상에서 상태 않다 2x 않아 수 있는 쉼터 딸의 동료 통과 연사와 대화도 나누게 됩니다 예 그러다 보니 출발 시간이 들 중 떠나기 전 딸에게 편지와 질문을 던집니다 약 아 딸과 잡혀 링 차우 기차에 올라 덴버에 도착하게 되죠 아들 공연 포스터 앞에서 사진도 찍습니다 3월 월척 그리고 아들이 있는 공연장으로 가죠 한참 연습 중인 오케스트라 그들 앞에 프랭크가 나타납니다 아들이 아빠를 발견하죠 음 아빠에게 달려가는 로버트 거지 응 어린 로버트가 오버레이 뜹니다 세탁이 때 울게 없이 요금 약 30분 같은 밤이면 초 s 라이드 알 수가 써줄 된다 매끈한 스타일 소식이 빼 연습이 다 끝나고 아들과 다시 이야기를 하게 되죠 요즘 시대 라고 적힌 때 할텐데 마르샤 줄 의무와 은율 된 닭 등의 바우 생연동 이웃을 생각 갈은 아들의 삶에 만족합니다 쓰기 대통 했었을 수도 이제 수하인 써 보라고 이 마루에 주제들 이래서 일상으로 전환하죠 에바 #2 개최하는 갑부 때 이 쓰게될 it did 갈수 아리는 푸시 그 밤 싸워야 돼 개구리 뱀 파 이 그렇게 만난 지 얼마 안 돼서 아버지를 배웅합니다 이렇게 프랭크는 헤어지기 전에 질문 하나를 하죠 아예 해 패야 행복하다는 말을 듣자 떠날 수 있게 됩니다 a 앞사람이 그 집엔 원자 안되요 그 섭섭할 뻔 한데 환한 미소로 대답을 대신하죠 물론 로버트는 거짓말이었습니다 고 하시오 예 거야 이런걸 첫 번째 없다면 안 프레이즈 r 정확함을 탐색해야 웹 디자 시간 한테 예 kb 3대 숨기기 위해 아버지를 떠나 보냅니다 그날 밤 버스 환승을 위해 기다리는데 뭐에 마스터에게 수납 메이어 있는 아주 날 서비스 이제 책을 마부스 아주 빼고 싶어서 과 noah's plus 파이트를 연락을 악화 내 봐서 팥을 열렸네요 굉장히 좋아요 같은 미국이어도 시차가 있어 버스를 놓치게 되죠 무슨 아마도 봤어요 마다 스펠 살 합시다 벨라 킴 ip 컴플렉스 m 체 증가 점 왼쪽의 트럭을 얻어 탑니다 둘은 서로의 이야기를 하며 친해져 좋게 어 스타 퍼셀 윈 아웃 sli 차임 선배에게 7 - 쓰는건 toss 알지도 못하 워요 쇼 딴 생각 고마운 제안을 거절하고 여기서 내립니다 그리고 밤 기차를 타러 갔는데 ur 검사하십시오 이 펜션 5월 6월 자식같은 마음에 안타까워 돈을 주게 되죠 흑색 잘게요 또한 에게 미션 많이 걸쳐 이 땅이 께요 엄살 왜냐 예 아까 말 봄",
+  "movie_id": "에브리바디스 파인",
+  "reviewer": "왓치나우",
+  "chunk_index": 2,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "프랭크",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "프랭크는 딸과 아들을 방문하는 아버지 캐릭터로, 덴버에 있는 아들의 공연장을 찾아간다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "에이미",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "에이미는 프랭크의 딸로, 아버지를 기차역으로 데려다주고 카페에서 시간을 보낸다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "로버트",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "로버트는 프랭크의 아들로, 오케스트라에서 활동하며 덴버에서 공연 연습을 하고 있다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "프랭크",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "에이미",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "프랭크는 에이미의 아버지이며, 에이미가 그를 기차역으로 데려다준다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "프랭크",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "로버트",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "프랭크는 로버트의 아버지이며, 덴버에서 아들의 공연장을 방문한다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "에이미",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "로버트",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "에이미와 로버트는 남매 관계이다",
+      "relationship_strength": 8
+    }
+  ],
+  "entity_resolution": {
+    "프랭크": {
+      "description": "프랭크 -> 프랭크",
+      "resolved_name": "프랭크",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "에이미": {
+      "description": "에이미 -> 어린 에이미",
+      "resolved_name": "어린 에이미",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "로버트": {
+      "description": "로버트 -> 로버트 피셔",
+      "resolved_name": "로버트 피셔",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    }
+  }
+}

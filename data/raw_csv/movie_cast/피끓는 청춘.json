@@ -1,0 +1,48 @@
+{
+  "movie_title": "피끓는 청춘",
+  "director": [
+    {
+      "name": "이연우",
+      "name_en": "Lee Yeon-woo"
+    }
+  ],
+  "cast": [
+    {
+      "actor": "박보영",
+      "actor_en": "Park Bo-young",
+      "character": "영숙"
+    },
+    {
+      "actor": "이종석",
+      "actor_en": "Lee Jong-suk",
+      "character": "중길"
+    },
+    {
+      "actor": "이세영",
+      "actor_en": "Lee Se-young",
+      "character": "소희"
+    },
+    {
+      "actor": "김영광",
+      "actor_en": "Kim Young-kwang",
+      "character": "광식"
+    },
+    {
+      "actor": "박정민",
+      "actor_en": "Park Jung-min",
+      "character": "황규"
+    },
+    {
+      "actor": "윤원준",
+      "actor_en": "Won Joon Yoon",
+      "character": "달무리파3"
+    }
+  ],
+  "review": [
+    "./data/review/피끓는 청춘/피끓는 청춘_-CWBvgOBhdM.json",
+    "./data/review/피끓는 청춘/피끓는 청춘_2itbYwJbp8A.json",
+    "./data/review/피끓는 청춘/피끓는 청춘_5yRcj-MsnbU.json",
+    "./data/review/피끓는 청춘/피끓는 청춘_WJERxbx8O68.json",
+    "./data/review/피끓는 청춘/피끓는 청춘_XAcW6sQbk8g.json"
+  ]
+}

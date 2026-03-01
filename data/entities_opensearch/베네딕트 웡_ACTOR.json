@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "베네딕트 웡",
+    "synonym": [
+      "Benedict",
+      "Benedict Wong",
+      "Wong",
+      "베네딕 웡",
+      "베네딕웡",
+      "베네딕트",
+      "베네딕트 왕",
+      "베네딕트 웡",
+      "베네딕트왕",
+      "베네딕트웡",
+      "웡"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "베네딕트 웡은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

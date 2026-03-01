@@ -1,0 +1,29 @@
+{
+  "entity": {
+    "name": "리들리 스콧",
+    "synonym": [
+      "Ridley",
+      "Ridley Scott",
+      "Ridley Scott 감독",
+      "Scott",
+      "리들리",
+      "리들리 감독",
+      "리들리 스캇",
+      "리들리 스코트",
+      "리들리 스콧",
+      "리들리 스콧 감독",
+      "리들리스캇",
+      "리들리스코트",
+      "리들리스콧",
+      "스캇",
+      "스캇 감독",
+      "스코트",
+      "스콧",
+      "스콧 감독"
+    ],
+    "entity_type": "MOVIE_STAFF",
+    "summary": "리들리 스콧은 영화 감독입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

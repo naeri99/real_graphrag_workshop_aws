@@ -1,0 +1,164 @@
+{
+  "chunk_hash": "23fce17a0a116a",
+  "chunk_id": "늘보Movie_23fce17a0a116a_563cb372",
+  "user_query": "화성의 아키델리아 평원 나사에서 온 아레스 3 탐사대가 화성을 탐사하는 중입니다. 그런데 순조롭게 진행되던 탐사에 한 가지 문제가 생겼죠. Martinez how it lookased [음악] 결국 그렇게 이륙을 위해 상승선으로 이동하는 그들. 그런데 그때 Don't know where how about Commander I'm going to search a little longer. Get moving. Go. What about the proximity radar suit? Well, it's to see the from orbit not a little piece of metal in a single suit. Give it a try. Roger. What is thinking? She knows infed can't get through. She's grasping for anything. You got nect on the radar. Nothing. No, I can barely see the hat. Commander, I know you don't want to hear this, but Mark is dead. 그렇게 마크의 빈자리만 남겨둔 채 지구로 긴급 귀환을 하게 된 아레스 3 탐사들. 하지만 화성의 모래폭풍이 지나간 뒤 조금씩 몸을 움직이는 마크. level critical pressure stable 그렇게 마크는 다행히 목숨을 건질 수가 있었죠. Best I can figure this length of our primary communications antenna broke off and tore through my biomitor and ripped the hole in me as well. Uh but the the antenna and and the blood really managed to seal the breach in my suit which kept me alive even though the crew must have thought I was dead. I have no way to contact NASA. And even if I could, it's going to be 4 years until a maned mission can reach me. And I'm in a design to last 31 days. If the oxygenator breaks, I'm going to suffocate. If the water reclaimer breaks, I'll die of thirst. If the hab breaches, I'm just going to kind of implode. And if by some miracle none of that happens, eventually I'm going to run out of food. 모든 게 절망적인 상황 속에서 홀로 고뇌하는 마크. 그가 고심 끝에 내린 결론은 [음악] 식량을 체크하던 마크는 문득 한 가지 생각이 뇌리에",
+  "movie_id": "마션",
+  "reviewer": "늘보Movie",
+  "chunk_index": 1,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "마션",
+      "entity_type": "MOVIE",
+      "entity_description": "마션은 화성에 홀로 남겨진 우주비행사의 생존기를 다룬 영화이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "마크",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "마크는 아레스 3 탐사대원으로 화성에서 모래폭풍으로 인해 동료들과 분리되어 홀로 생존해야 하는 인물이다. 안테나에 찔려 부상을 입었으나 살아남았고, NASA와 통신이 불가능한 상황에서 식량, 산소, 물 부족 등 절망적인 상황에 처해있다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "MARTINEZ",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "마르티네즈는 아레스 3 탐사대의 일원이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "COMMANDER",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "커맨더는 아레스 3 탐사대의 지휘관으로 마크를 찾기 위해 조금 더 수색하려 했던 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "아레스 3 탐사대",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "아레스 3 탐사대는 NASA에서 화성 탐사를 위해 파견된 우주비행사 팀으로, 모래폭풍으로 인해 마크를 남겨두고 지구로 긴급 귀환했다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "NASA",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "NASA는 아레스 3 탐사대를 화성에 파견한 우주기관으로, 마크와 통신이 두절된 상태이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "마크",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "마션",
+      "target_type": "MOVIE",
+      "relationship_description": "마크는 마션의 주인공이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "마크",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "아레스 3 탐사대",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "마크는 아레스 3 탐사대의 일원이었으나 화성에 홀로 남겨졌다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "MARTINEZ",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "아레스 3 탐사대",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "마르티네즈는 아레스 3 탐사대의 일원이다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "COMMANDER",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "아레스 3 탐사대",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "커맨더는 아레스 3 탐사대의 지휘관이다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "COMMANDER",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "마크",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "커맨더는 마크를 수색하려 했으나 결국 그를 남겨두고 떠났다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "아레스 3 탐사대",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "NASA",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "아레스 3 탐사대는 NASA에서 파견된 화성 탐사팀이다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "아레스 3 탐사대",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "마션",
+      "target_type": "MOVIE",
+      "relationship_description": "아레스 3 탐사대는 마션에 등장하는 화성 탐사팀이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "NASA",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "마션",
+      "target_type": "MOVIE",
+      "relationship_description": "NASA는 마션에서 화성 탐사를 주관하는 기관이다",
+      "relationship_strength": 8
+    }
+  ],
+  "entity_resolution": {
+    "마션": {
+      "description": "마션 -> 마션",
+      "resolved_name": "마션",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "마크": {
+      "description": "마크 -> 마크 와트니",
+      "resolved_name": "마크 와트니",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "MARTINEZ": {
+      "description": "MARTINEZ -> Rick Martinez",
+      "resolved_name": "Rick Martinez",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "COMMANDER": {
+      "description": "COMMANDER -> COMMANDER",
+      "resolved_name": "COMMANDER",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "아레스 3 탐사대": {
+      "description": "아레스 3 탐사대 -> 아레스 3 탐사대",
+      "resolved_name": "아레스 3 탐사대",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "NASA": {
+      "description": "NASA -> NASA",
+      "resolved_name": "NASA",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

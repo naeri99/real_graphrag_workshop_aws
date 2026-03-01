@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "Bob Sugar",
+    "synonym": [
+      "Bob",
+      "Bob Sugar",
+      "밥",
+      "밥 슈가",
+      "밥 슈거",
+      "밥슈가",
+      "밥슈거",
+      "보브 슈거",
+      "슈가",
+      "슈거"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "Bob Sugar은 영화 '제리 맥과이어'의 등장인물로, 제이 모어이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

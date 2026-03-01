@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "메이슨 베르타이머",
+    "synonym": [
+      "Mason",
+      "Mason Bertheimer",
+      "Mason Wertheimer",
+      "메이슨",
+      "메이슨 버타이머",
+      "메이슨 베르타이머",
+      "메이슨 베르트하이머",
+      "메이슨 워타이머",
+      "메이슨베르타이머",
+      "베르타이머"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "메이슨 베르타이머은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

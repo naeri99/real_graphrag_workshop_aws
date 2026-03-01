@@ -1,0 +1,18 @@
+{
+  "entity": {
+    "name": "Ebba",
+    "synonym": [
+      "Ebba",
+      "아내",
+      "엄마",
+      "에바",
+      "에바 역",
+      "에빠",
+      "엡바"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "Ebba은 영화 '포스 마쥬어 화이트 베케이션'의 등장인물로, 리사 로벤 콩슬리이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

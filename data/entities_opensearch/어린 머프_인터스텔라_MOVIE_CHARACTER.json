@@ -1,0 +1,23 @@
+{
+  "entity": {
+    "name": "어린 머프",
+    "synonym": [
+      "Little Murph",
+      "Young Murph",
+      "Young Murphy",
+      "꼬마 머프",
+      "머프 어린시절",
+      "소녀 머프",
+      "아이 머프",
+      "어린 머프",
+      "어린 머피",
+      "어린머프",
+      "영 머프",
+      "유년 머프"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "어린 머프은 영화 '인터스텔라'의 등장인물로, 맥켄지 포이이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

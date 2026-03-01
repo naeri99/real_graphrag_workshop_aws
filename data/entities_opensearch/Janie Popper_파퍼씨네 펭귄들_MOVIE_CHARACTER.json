@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "Janie Popper",
+    "synonym": [
+      "Janie",
+      "Janie Popper",
+      "재니",
+      "재니 파퍼",
+      "재니파퍼",
+      "제이니",
+      "제이니 파퍼",
+      "제이니 포퍼",
+      "제이니파퍼"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "Janie Popper은 영화 '파퍼씨네 펭귄들'의 등장인물로, 매들린 캐롤이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

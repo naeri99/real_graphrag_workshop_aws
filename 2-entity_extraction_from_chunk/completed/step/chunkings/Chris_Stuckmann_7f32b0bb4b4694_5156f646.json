@@ -1,0 +1,49 @@
+{
+  "chunk_hash": "7f32b0bb4b4694",
+  "chunk_id": "Chris_Stuckmann_7f32b0bb4b4694_5156f646",
+  "user_query": "know about this. But like I said guys I honestly really enjoyed watching this movie and I can't wait to see it again. I am going to give Interstellar a B+. I think it's a very good movie. I think it has a lot of great ambition, great performances, directed pristinely. It was cool to see it in a nostalgic way in the 35mm film despite being in a really crappy theater but the story does have some issues. Some of the narrative structure feels a little broken and there isn't that emotional punch I was looking for in the way the film concluded. Guys if you have seen Interstellar what are your thoughts on it and stay tuned this weekend probably on Sunday I will release a spoiler filled discussion of Interstellar with my good buddy who I saw the movie with Craig Candico, founder of fatmovieguy.com. So look forward to that guys 'cause I'm going to go in depth about everything in that video. Guys thank you so much as always for watching and if you did like this you can click right here and get stuck minimized. Woo! [Music]",
+  "movie_id": "인터스텔라",
+  "reviewer": "Chris_Stuckmann",
+  "chunk_index": 5,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "INTERSTELLAR",
+      "entity_type": "MOVIE",
+      "entity_description": "Interstellar는 2014년 SF 영화로, 야심찬 스토리와 훌륭한 연기, 뛰어난 연출을 갖춘 작품이다. 35mm 필름으로도 상영되었으며, 내러티브 구조에 일부 문제가 있고 결말에서 감정적 펀치가 부족하다는 평가를 받았다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "CRAIG CANDICO",
+      "entity_type": "REVIEWER",
+      "entity_description": "Craig Candico는 fatmovieguy.com의 창립자로, Interstellar에 대한 스포일러 토론에 참여할 예정인 인물이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "CRAIG CANDICO",
+      "source_type": "REVIEWER",
+      "target_entity": "INTERSTELLAR",
+      "target_type": "MOVIE",
+      "relationship_description": "Craig Candico는 Interstellar를 함께 관람하고 스포일러 토론을 진행할 예정이다",
+      "relationship_strength": 6
+    }
+  ],
+  "entity_resolution": {
+    "INTERSTELLAR": {
+      "description": "INTERSTELLAR -> INTERSTELLAR",
+      "resolved_name": "INTERSTELLAR",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "CRAIG CANDICO": {
+      "description": "CRAIG CANDICO -> CRAIG CANDICO",
+      "resolved_name": "CRAIG CANDICO",
+      "entity_type": "REVIEWER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "entity": {
+    "name": "General Acacius",
+    "synonym": [
+      "Acacius",
+      "General Acacius",
+      "그 장군",
+      "아카시어스",
+      "아카시우스",
+      "아카시우스 아저씨",
+      "아카시우스 장군",
+      "아카시우스 장군님",
+      "아카시우스장군",
+      "아카키우스",
+      "장군 아카시우스",
+      "제너럴 아카시우스"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "General Acacius은 영화 '글래디에이터 2'의 등장인물로, 페드로 파스칼이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

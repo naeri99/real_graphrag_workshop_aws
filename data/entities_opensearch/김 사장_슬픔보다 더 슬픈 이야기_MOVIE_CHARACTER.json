@@ -1,0 +1,17 @@
+{
+  "entity": {
+    "name": "김 사장",
+    "synonym": [
+      "김 사장",
+      "김 사장님",
+      "김사장",
+      "김사장님",
+      "사장 김",
+      "사장님"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "김 사장은 영화 '슬픔보다 더 슬픈 이야기'의 등장인물로, 이한위이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

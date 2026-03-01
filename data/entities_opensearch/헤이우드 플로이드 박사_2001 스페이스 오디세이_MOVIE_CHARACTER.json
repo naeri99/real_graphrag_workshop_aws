@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "헤이우드 플로이드 박사",
+    "synonym": [
+      "Dr. Heywood Floyd",
+      "Floyd",
+      "Heywood Floyd",
+      "플로이드",
+      "플로이드 박사",
+      "헤이우드",
+      "헤이우드 박사",
+      "헤이우드 플로이드",
+      "헤이우드 플로이드 박사",
+      "헤이우드플로이드"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "헤이우드 플로이드 박사은 영화 '2001 스페이스 오디세이'의 등장인물로, 윌리엄 실베스터이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

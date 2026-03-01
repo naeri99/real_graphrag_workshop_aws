@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "시마모토 스미",
+    "synonym": [
+      "Sumi Shimamoto",
+      "島本須美",
+      "스미",
+      "스미 시마모토",
+      "시마모또 스미",
+      "시마모토",
+      "시마모토 스미",
+      "시마모토스미"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "시마모토 스미은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

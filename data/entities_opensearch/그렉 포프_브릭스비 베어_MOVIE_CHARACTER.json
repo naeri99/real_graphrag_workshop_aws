@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "그렉 포프",
+    "synonym": [
+      "Greg",
+      "Greg Pope",
+      "그레그",
+      "그레그 포프",
+      "그렉",
+      "그렉 포프",
+      "그렉포프",
+      "아버지 그렉",
+      "포프"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "그렉 포프은 영화 '브릭스비 베어'의 등장인물로, 맷 월시이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

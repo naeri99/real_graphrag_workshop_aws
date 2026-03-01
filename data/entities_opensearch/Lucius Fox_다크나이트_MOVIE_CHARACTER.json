@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "Lucius Fox",
+    "synonym": [
+      "Fox",
+      "Lucius",
+      "Lucius Fox",
+      "루시어스",
+      "루시어스 폭스",
+      "루시우스",
+      "루시우스 폭스",
+      "루시우스폭스",
+      "폭스"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "Lucius Fox은 영화 '다크나이트'의 등장인물로, 모건 프리먼이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

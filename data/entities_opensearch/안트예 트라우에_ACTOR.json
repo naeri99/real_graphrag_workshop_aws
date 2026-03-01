@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "안트예 트라우에",
+    "synonym": [
+      "Antje Traue",
+      "안체 트라우에",
+      "안트예",
+      "안트예 트라우",
+      "안트예 트라우에",
+      "안트예트라우에",
+      "안트제 트라우에",
+      "트라우에"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "안트예 트라우에은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

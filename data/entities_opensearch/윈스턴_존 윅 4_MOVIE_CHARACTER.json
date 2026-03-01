@@ -1,0 +1,18 @@
+{
+  "entity": {
+    "name": "윈스턴",
+    "synonym": [
+      "Winston",
+      "Winston Scott",
+      "윈스턴",
+      "윈스턴 스콧",
+      "윈스톤",
+      "윈스튼",
+      "컨티넨탈 매니저"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "윈스턴은 영화 '존 윅 4'의 등장인물로, 이안 맥셰인이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

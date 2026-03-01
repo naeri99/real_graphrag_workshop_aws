@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "미치 코왈스키",
+    "synonym": [
+      "Mitch",
+      "Mitch Kowalski",
+      "미치",
+      "미치 코발스키",
+      "미치 코왈스키",
+      "미치 코월스키",
+      "미치코왈스키",
+      "밋치 코왈스키",
+      "코왈스키"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "미치 코왈스키은 영화 '그랜 토리노'의 등장인물로, 브라이언 헤일리이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

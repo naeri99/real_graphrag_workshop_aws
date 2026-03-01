@@ -1,0 +1,182 @@
+{
+  "chunk_hash": "134522632a9b43",
+  "chunk_id": "제가봤을때_134522632a9b43_8da496f0",
+  "user_query": "늙지 않았다고 말이죠 뭐 충분히 그럴 수도 있겠습니다 그런데 뭐가 맞든지 제가 봤을 때 이 림보라는 설정이 참 와닿지가 않는다는 건 확실히 알겠습니다 그리고 저는 기대가 없기 때문에 네 번째 다른 가능성도 제시하고 싶습니다 4번 림보 설정이 어찌 됐건 시간 계산이 어찌 됐건 감독은 그 개연성을 별로 신경 쓰지 않았다 깊은 무의식으로 갈수록 엄청나게 불어나는 시간 설정을 잡았다 설정을 잡았으면 써먹어야 된다 그래서 등장인물이 아주 긴 시간을 겪으며 과거에 했던 대사들을 복선으로 회수하는 이 장면 연출을 같이 하고 싶었다 영화 초반부를 보면 Arthur가 동업자에게 코브를 깨우라고 하니까 글쎄 이 양반이 그를 깨우려고 따귀를 때리고 막 흔들고 있습니다 그러면서 깨어나지 않아라며 속 터지는 소리를 하죠 그러니까 Arthur가 킥을 하라고 말합니다 여기서 이 양반은 또 마치 킥을 모른다는 듯이 what이라는 대답을 하죠 그다음 그를 물에 빠뜨리라는 Arthur의 말을 듣고 나서야 의자를 뒤로 젖힙니다 동업자면서 킥이 뭔지도 모른다 아니 기껏 물을 가득 채운 욕조 옆 의자에 코브를 이렇게 놓고서도 모른다 말이 안 되죠 제가 봤을 때 단순히 관객은 아직 킥이란 걸 모르니까 감독은 이런 장면을 넣은 것 같습니다 먼저 이 장면을 보면 코브가 지금쯤 사이토가 죽었을 것이다 사이토를 찾고 돌아가겠다고 말합니다 분명 3단계 꿈에서 사이토는 죽었습니다 하지만 이때 코브는 이미 림보로 들어간 이후죠 그러니까 사이토가 정말 죽었는지 안 죽었는지는 관객들은 알겠지만 코브는 절대 알 수가 없습니다 생각해보면 더 이상한 게 사이토는 1단계 꿈에서 총을 맞아서 서둘러 다음 단계 꿈으로 들어갔었죠 그리고 3단계의 이 장면과 같은 순간 동시에 1단계에서는 차가 추락하고 있는 것으로 상황이 연출되고 있습니다 즉 그렇다면 사이토는 차가 추락하는 몇 초 사이에 그러니까 하필 킥을 하는 도중에 죽어야 합니다 또 게다가 코브는 아주 당당하게 이것을 예측했다는 겁니다 빠른 전개를 위해서지만 개연성은 떨어지죠 코브가 림보로 피셔를 찾으러 가려고 할 때 이 장면을 보면 피셔는 Mal과 함께 있을 것이다 Mal은 내가 그곳으로 따라오길 바랄 테니까 뭐 이런 말도 안 되는 말을 되게 자연스럽게도 합니다 이럴 거면 차라리 Mal이 자신의 무의식의 것이라 하지 말고 꿈에서는 귀신이나 영혼을 만날 수 있다 뭐 그러던가 그러고 코브는 림보로 들어가더니 Mal이 문자로 주소라도 찍어줬는지 바로 찾아내 버립니다 코브와 Mal이 대면하는 상황을 만들어야 했고 빠른 전개를 위해서 이런 식으로 진행한 것 같은데 억지스럽죠 설정에 현실성은 넣겠고 전개는 비현실적으로 하니 이질감이 듭니다 [음악] 신선한 소재를 선택하여 몰입을 잘 이끌어내기 위해 영화의 설정들이 논리적이고 체계적이며 아주 현실적으로 보이도록 하는 많은 설명들을 갖다 붙였습니다 그래서 사람들의 기대는 높아졌지만 제가 봤을 때는 오히려 그래서 더 많은 허점들을 만들었다고 봅니다 [음악] 인셉션 정말 정말 재밌고 너무 잘 만든 명작 영화입니다",
+  "movie_id": "인셉션",
+  "reviewer": "제가봤을때",
+  "chunk_index": 8,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "인셉션",
+      "entity_type": "MOVIE",
+      "entity_description": "인셉션은 림보와 꿈의 단계 설정을 활용한 영화로, 신선한 소재와 체계적인 설정으로 몰입을 이끌어내는 명작 영화이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "코브",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "코브는 인셉션의 주인공으로, 림보에서 사이토와 피셔를 찾으러 가는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "사이토",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "사이토는 1단계 꿈에서 총을 맞고 3단계 꿈에서 죽는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "피셔",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "피셔는 코브가 림보에서 찾으러 가는 대상이며 Mal과 함께 있는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "MAL",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Mal은 코브의 무의식 속 존재로, 림보에서 피셔와 함께 있으며 코브가 따라오길 바라는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "ARTHUR",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Arthur는 코브의 동업자로, 킥을 지시하고 코브를 깨우려는 역할을 하는 인물이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "코브",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "인셉션",
+      "target_type": "MOVIE",
+      "relationship_description": "코브는 인셉션의 주인공이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "사이토",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "인셉션",
+      "target_type": "MOVIE",
+      "relationship_description": "사이토는 인셉션에 등장하는 인물이다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "피셔",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "인셉션",
+      "target_type": "MOVIE",
+      "relationship_description": "피셔는 인셉션에 등장하는 인물이다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "MAL",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "인셉션",
+      "target_type": "MOVIE",
+      "relationship_description": "Mal은 인셉션에 등장하는 인물이다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "ARTHUR",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "인셉션",
+      "target_type": "MOVIE",
+      "relationship_description": "Arthur는 인셉션에 등장하는 인물이다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "코브",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "사이토",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "코브는 사이토가 죽었을 것이라 예측하고 림보에서 사이토를 찾으러 간다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "코브",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "피셔",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "코브는 림보에서 피셔를 찾으러 간다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "코브",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "MAL",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "코브는 Mal과 림보에서 대면하며, Mal은 코브의 무의식 속 존재이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "MAL",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "피셔",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Mal은 림보에서 피셔와 함께 있다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "ARTHUR",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "코브",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Arthur는 코브의 동업자로 코브를 깨우기 위해 킥을 지시한다",
+      "relationship_strength": 9
+    }
+  ],
+  "entity_resolution": {
+    "인셉션": {
+      "description": "인셉션 -> 인셉션",
+      "resolved_name": "인셉션",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "코브": {
+      "description": "코브 -> 코브",
+      "resolved_name": "코브",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "사이토": {
+      "description": "사이토 -> 사이토",
+      "resolved_name": "사이토",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "피셔": {
+      "description": "피셔 -> 로버트 피셔",
+      "resolved_name": "로버트 피셔",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "MAL": {
+      "description": "MAL -> MAL",
+      "resolved_name": "MAL",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "ARTHUR": {
+      "description": "ARTHUR -> ARTHUR",
+      "resolved_name": "ARTHUR",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

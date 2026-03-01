@@ -1,0 +1,142 @@
+{
+  "chunk_hash": "0996a0ca4dddc1",
+  "chunk_id": "무빕체인_블랙_0996a0ca4dddc1_ecbd3104",
+  "user_query": "인셉션 마지막 장면이 현실인지 꿈인지 오랜 논란 속에서 진실이 드디어 밝혀졌다는 사실을 알고 계신가요 과거 마이클 케인이 충격적인 사실을 밝혔습니다 케인은 내가 나온 장면은 모두 현실이라고 크리스토퍼 놀란에게 직접 들었다고 했는데요 그렇다면 마지막 장면도 현실의 가능성이 높다는 거죠 또 다른 결정적인 단서들 첫 번째는 코브의 결혼 반지입니다 꿈에서는 반지를 끼고 있지만 현실에서는 반지가 없는데 마지막 장면에서 코브는 반지가 없었습니다 두 번째는 교수 마일스의 등장인데 아이들과 코브를 연결해 주는 마일스가 마지막 장면에 등장한 것도 현실임을 뒷받침하죠 그리고 마지막으로 토템의 소리입니다 마지막에 토템이 천천히 느려지는 소리가 들리며 멈출 것처럼 보였죠 이 모든 단서를 종합하면 마지막 장면은 현실의 가능성이 아주 높음 여러분은 어떻게 생각하시나요",
+  "movie_id": "인셉션",
+  "reviewer": "무빕체인_블랙",
+  "chunk_index": 1,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "인셉션",
+      "entity_type": "MOVIE",
+      "entity_description": "인셉션은 크리스토퍼 놀란 감독의 영화로, 마지막 장면이 현실인지 꿈인지에 대한 오랜 논란이 있는 작품이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "마이클 케인",
+      "entity_type": "ACTOR",
+      "entity_description": "마이클 케인은 인셉션에서 마일스 교수 역을 맡은 배우로, 자신이 나온 장면은 모두 현실이라고 크리스토퍼 놀란에게 직접 들었다고 밝혔다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "크리스토퍼 놀란",
+      "entity_type": "MOVIE_STAFF",
+      "entity_description": "크리스토퍼 놀란은 인셉션의 감독으로, 마이클 케인에게 그가 나온 장면은 모두 현실이라고 말했다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "코브",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "코브는 인셉션의 주인공으로, 꿈에서는 결혼 반지를 끼고 있지만 현실에서는 반지가 없으며, 마지막 장면에서 반지가 없었다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "마일스",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "마일스는 인셉션에 등장하는 교수로, 아이들과 코브를 연결해 주는 인물이며 마지막 장면에 등장한다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "크리스토퍼 놀란",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "인셉션",
+      "target_type": "MOVIE",
+      "relationship_description": "크리스토퍼 놀란은 인셉션을 감독했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "마이클 케인",
+      "source_type": "ACTOR",
+      "target_entity": "인셉션",
+      "target_type": "MOVIE",
+      "relationship_description": "마이클 케인은 인셉션에 출연했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "마이클 케인",
+      "source_type": "ACTOR",
+      "target_entity": "마일스",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "마이클 케인은 인셉션에서 마일스 교수 역을 연기했다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "마이클 케인",
+      "source_type": "ACTOR",
+      "target_entity": "크리스토퍼 놀란",
+      "target_type": "MOVIE_STAFF",
+      "relationship_description": "마이클 케인은 크리스토퍼 놀란에게 직접 장면의 현실 여부에 대해 들었다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "코브",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "인셉션",
+      "target_type": "MOVIE",
+      "relationship_description": "코브는 인셉션의 주인공이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "마일스",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "인셉션",
+      "target_type": "MOVIE",
+      "relationship_description": "마일스는 인셉션에 등장하는 교수 캐릭터이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "마일스",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "코브",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "마일스는 아이들과 코브를 연결해 주는 역할을 한다",
+      "relationship_strength": 8
+    }
+  ],
+  "entity_resolution": {
+    "인셉션": {
+      "description": "인셉션 -> 인셉션",
+      "resolved_name": "인셉션",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "마이클 케인": {
+      "description": "마이클 케인 -> 마이클 케인",
+      "resolved_name": "마이클 케인",
+      "entity_type": "ACTOR",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "크리스토퍼 놀란": {
+      "description": "크리스토퍼 놀란 -> 크리스토퍼 놀란",
+      "resolved_name": "크리스토퍼 놀란",
+      "entity_type": "MOVIE_STAFF",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "코브": {
+      "description": "코브 -> 코브",
+      "resolved_name": "코브",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "마일스": {
+      "description": "마일스 -> 마일즈",
+      "resolved_name": "마일즈",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    }
+  }
+}

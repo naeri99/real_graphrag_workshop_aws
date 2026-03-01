@@ -1,0 +1,115 @@
+{
+  "chunk_hash": "ed73663769184a",
+  "chunk_id": "Awesomemay_ed73663769184a_a2ec7950",
+  "user_query": "I think will gain more Niche appreciation over the next few years as there's still so much more to go back and notice and praise in it like all the George and Harold cameos that I did not see first viewing I'm going to give Dog Man an 8 out of 10 it perfectly joins a fantastic slate of visually pleasing films paying homage to the world and style of what it takes from I do think this artsy what people like to call Spider-Verse inspired style does have the potential of getting old in the same way Pixar's recent cartoonish style is getting but it's no problem yet and I will not allow anybody to switch up on it or we're going to go back to the overly realistic animated films Dog Man has successfully landed on the list of cozy films I can turn on on a boring Saturday night and that's all I wanted again I definitely agree with most other reviews that this movie is a lot more aimed for a younger audience but not in terms of a how do you do fellow kids way it doesn't try super hard to get a laugh out of children like so many other family films tend to do specifically the new Smurfs film that's coming out I think I just smurfed my pants there's still quite a bit of nuance to Dog Man's comedy it takes the extra step to be enjoyable Beyond its self-awareness of being for kids and I think most people will have a good time watching it before I go I just want to say a quick shout out to that Bad Guys short before the film it caught me off guard by how much fun it is and I think maybe it",
+  "movie_id": "도그맨",
+  "reviewer": "Awesomemay",
+  "chunk_index": 14,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "DOG MAN",
+      "entity_type": "MOVIE",
+      "entity_description": "Dog Man은 시각적으로 매력적인 애니메이션 영화로, 아늑한 분위기의 코미디 영화이며 젊은 관객층을 대상으로 하면서도 뉘앙스 있는 코미디를 보여준다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "GEORGE",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "George는 Dog Man에 카메오로 등장하는 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "HAROLD",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Harold는 Dog Man에 카메오로 등장하는 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "BAD GUYS",
+      "entity_type": "MOVIE",
+      "entity_description": "Bad Guys는 Dog Man 상영 전에 나온 단편 영화로 재미있다는 평가를 받았다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "SMURFS",
+      "entity_type": "MOVIE",
+      "entity_description": "Smurfs는 새로 개봉하는 가족 영화로, 아이들의 웃음을 억지로 유발하려 한다는 비판을 받았다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "GEORGE",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "DOG MAN",
+      "target_type": "MOVIE",
+      "relationship_description": "George는 Dog Man에 카메오로 등장한다",
+      "relationship_strength": 6
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "HAROLD",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "DOG MAN",
+      "target_type": "MOVIE",
+      "relationship_description": "Harold는 Dog Man에 카메오로 등장한다",
+      "relationship_strength": 6
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "GEORGE",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "HAROLD",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "George와 Harold는 함께 Dog Man에 카메오로 등장하는 캐릭터들이다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "BAD GUYS",
+      "source_type": "MOVIE",
+      "target_entity": "DOG MAN",
+      "target_type": "MOVIE",
+      "relationship_description": "Bad Guys 단편은 Dog Man 본편 상영 전에 상영되었다",
+      "relationship_strength": 7
+    }
+  ],
+  "entity_resolution": {
+    "DOG MAN": {
+      "description": "DOG MAN -> DOG MAN",
+      "resolved_name": "DOG MAN",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "GEORGE": {
+      "description": "GEORGE -> GEORGE",
+      "resolved_name": "GEORGE",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "HAROLD": {
+      "description": "HAROLD -> HAROLD",
+      "resolved_name": "HAROLD",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "BAD GUYS": {
+      "description": "BAD GUYS -> BAD GUYS",
+      "resolved_name": "BAD GUYS",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "SMURFS": {
+      "description": "SMURFS -> SMURFS",
+      "resolved_name": "SMURFS",
+      "entity_type": "MOVIE",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

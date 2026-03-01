@@ -1,0 +1,90 @@
+{
+  "movie_title": "호스텔",
+  "director": [
+    {
+      "name": "일라이 로스",
+      "name_en": "Eli Roth"
+    }
+  ],
+  "cast": [
+    {
+      "actor": "제이 헤르난데스",
+      "actor_en": "Jay Hernandez",
+      "character": "Paxton"
+    },
+    {
+      "actor": "데렉 리처드슨",
+      "actor_en": "Derek Richardson",
+      "character": "Josh"
+    },
+    {
+      "actor": "에이텔 베르코비치",
+      "actor_en": "Eythor Gudjonsson",
+      "character": "Oli"
+    },
+    {
+      "actor": "바바라 네델야코바",
+      "actor_en": "Barbara Nedeljakova",
+      "character": "Natalya"
+    },
+    {
+      "actor": "야나 카데라브코바",
+      "actor_en": "Jana Kaderabkova",
+      "character": "스베틀라나"
+    },
+    {
+      "actor": "제니퍼 림",
+      "actor_en": "Jennifer Lim",
+      "character": "카나"
+    },
+    {
+      "actor": "케이코 세이코",
+      "actor_en": "Keiko Seiko",
+      "character": "유키"
+    },
+    {
+      "actor": "루보미르 부코비",
+      "actor_en": "Lubomír Bukový",
+      "character": "알렉스"
+    },
+    {
+      "actor": "얀 블라삭",
+      "actor_en": "Jan Vlasák",
+      "character": "네덜란드 사업가"
+    },
+    {
+      "actor": "릭 호프만",
+      "actor_en": "Rick Hoffman",
+      "character": "미국인 고객"
+    },
+    {
+      "actor": "야나 하블리치코바",
+      "actor_en": "Jana Havlickova",
+      "character": "Svetlana"
+    },
+    {
+      "actor": "무기 라그바도르즈",
+      "actor_en": "Mugi Lhagvadorj",
+      "character": "소녀"
+    },
+    {
+      "actor": "타카시 미이케",
+      "actor_en": "Takashi Miike",
+      "character": "일본인 사업가"
+    },
+    {
+      "actor": "일라이 로스",
+      "actor_en": "Eli Roth",
+      "character": "미국인 수술복 남자"
+    }
+  ],
+  "review": [
+    "./data/review/호스텔/호스텔_D3kRAnVnaNM.json",
+    "./data/review/호스텔/호스텔_Sgp00XlaWkk.json",
+    "./data/review/호스텔/호스텔_XaJqQmIQYUg.json",
+    "./data/review/호스텔/호스텔_cC3avnCMpzg.json",
+    "./data/review/호스텔/호스텔_lBr9zimGzhY.json",
+    "./data/review/호스텔/호스텔_lNRIgJapZC4.json",
+    "./data/review/호스텔/호스텔_t1_6NUDQl9k.json"
+  ]
+}

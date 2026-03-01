@@ -1,0 +1,182 @@
+{
+  "chunk_hash": "acb1e13eec4a5b",
+  "chunk_id": "지누씨네_acb1e13eec4a5b_e769f56a",
+  "user_query": "2000년 2월 9일 미 8군에서 포름알데히드 20박스를 무단 방류한 사건 당시 한국 직원에 의해 세상에 알려졌는데 그 미국 직원은 집행유예 선고 받는데 그칩니다 시간이 흐르고 한강에는 돌연변이 괴수가 나타나서 시민들을 습격합니다 수많은 사상자가 발생하고 강두의 딸 현서가 괴수에게 끌려간 뒤로 강두네 가족의 삶도 멈춰버립니다 이 사건으로 합동 분향소가 차려지고 현서의 고모와 삼촌까지 등장하며 이들은 비탄의 장기입니다 물론 높으신 양반들이 방문할 때면 구석으로 치워지고 있지만 이 상황에서 유가족의 첫 번째 의미는 말 그대로 남겨진 사람들 그들이 사건의 경우 이를 궁금해 하는 건 당연할진대 정부에서는 알려주지 않습니다 아래쪽은 뭐가 어떻게 된 건지 리요 마시고 이 그 자세하게 얘기부터 해야 될 거 아니에요 예 다만 쉬쉬할 뿐이죠 여기서 잠깐 지난 장면 고모와 삼촌이 등장할 때 보인 화환 대구 지하철 참사 희생자 가족 대책위원회 대구 지하철 참사란 2003년 2월 대구 중앙로역에서 화재가 난 지하철에 기관사가 본부에 기다리라 라는 말을 믿다가 승객만 놔두고 도망간 그래서 200명 가까이 희생된 사건이죠 이 화환은 봉준호 감독이 참사의 기억을 소환한 것이기도 하지만 만약 또 이런 참사가 난다면 유가족의 화환이 오겠다는 예언이기도 하죠 그리고 대구 참사는 어디서 또 소환 되냐면 기울어진 선 채 컷 그리고 들리는 목소리 진짜 링 아웃 이용하세요 여기서 말하는 지하철이 대구 지하철 참사를 얘기한 거죠 반신반의로 했더니 그 말은 현실이 됩니다 그리고 실제 대구 지하철 참사 유가족이 화환을 보내기도 했습니다 괴수와 접촉이 있었던 강두는 끌려가고 정부에서는 바이러스를 의심하지만 아무도 진실을 알 수 없는 상황 그리고 바로 그날 강두에게 전화가 옵니다 현서가 살아 있었던 것 강두는 주변의 도움을 요청해 보지만 사망자 명단에 있잖아 너 거기 그 외에는 아무도 믿어주지 않는 상황 평백을 받아서 우리가 이해하기 강두라는 캐릭터는 직업도 시원찮고 대학도 못 나오고 인간관계도 넓지 못하고 가장 위치해 있지만 집 안에서도 가장 무시 받을 만큼 자기 생각을 조리있게 말할 줄도 모르는 그야말로 한국 사회의 낙오자 루저 캐릭터입니다 그런데 이 언어란 강두가 다른 건 몰라도 한 가지는 확실히 알죠 그건 바로 내 딸이 살아있다는 진실 실제로 배가 침몰한 후 주말부터 인양된 시신을 본 의사의 숨진 지 몇 시간 안 됐다는 증언이 나왔죠 내 아이가 살아있다는 진실 그리고 책임자나 관계자들에게 그 진실은 그저 불편하기만 합니다 유가족의 두 번째 의미는 헛소리하는 사람들 믿지 못할 사람들 민폐 끼치는 사람들 그러니 좀 조용히 지내야 할 사람들입니다 그리고 정말 놀랍게도 현실은 간첩이나 테러리스트를 감시하는 기무사를 정부가 유가족을 상대로 사찰하라고 지시했죠 더 이상 가만히 있을 수 없었던 강두네는 격리 시설에서 탈출을 감행하고 뉴스에서는 이들이 얼마나 위험한지 도배 합니다 수배범 가족이 된 강두네는 은밀하게 현서를 찾아 나서고 그리고 며칠 후 딸을 만나게 된다면 혹여나 피해를 주지",
+  "movie_id": "괴물",
+  "reviewer": "지누씨네",
+  "chunk_index": 2,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "괴물",
+      "entity_type": "MOVIE",
+      "entity_description": "괴물은 2000년 미 8군의 포름알데히드 방류 사건을 배경으로, 한강에 나타난 돌연변이 괴수와 이에 맞서는 가족의 이야기를 다룬 영화이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "강두",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "강두는 괴물의 주인공으로, 직업도 시원찮고 대학도 못 나온 한국 사회의 낙오자로 묘사되지만 딸 현서가 살아있다는 진실을 믿고 찾아 나서는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "현서",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "현서는 강두의 딸로, 괴수에게 끌려갔지만 살아있었으며 강두에게 전화를 걸어 생존을 알린다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "고모",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "고모는 현서의 고모로, 강두네 가족 중 한 명이며 합동 분향소에서 비탄에 빠진 유가족으로 등장한다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "삼촌",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "삼촌은 현서의 삼촌으로, 강두네 가족 중 한 명이며 합동 분향소에서 비탄에 빠진 유가족으로 등장한다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "봉준호",
+      "entity_type": "MOVIE_STAFF",
+      "entity_description": "봉준호는 괴물의 감독으로, 대구 지하철 참사의 기억을 영화 속에 소환하여 사회적 메시지를 담았다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "강두",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "괴물",
+      "target_type": "MOVIE",
+      "relationship_description": "강두는 괴물의 주인공이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "현서",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "괴물",
+      "target_type": "MOVIE",
+      "relationship_description": "현서는 괴물에 등장하는 주요 인물이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "강두",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "현서",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "강두는 현서의 아버지이며, 현서를 구하기 위해 나선다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "고모",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "괴물",
+      "target_type": "MOVIE",
+      "relationship_description": "고모는 괴물에 등장하는 강두네 가족 중 한 명이다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "삼촌",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "괴물",
+      "target_type": "MOVIE",
+      "relationship_description": "삼촌은 괴물에 등장하는 강두네 가족 중 한 명이다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "고모",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "현서",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "고모는 현서의 고모이다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "삼촌",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "현서",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "삼촌은 현서의 삼촌이다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "고모",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "강두",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "고모는 강두의 가족으로 함께 현서를 찾아 나선다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "삼촌",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "강두",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "삼촌은 강두의 가족으로 함께 현서를 찾아 나선다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "봉준호",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "괴물",
+      "target_type": "MOVIE",
+      "relationship_description": "봉준호는 괴물을 감독했다",
+      "relationship_strength": 10
+    }
+  ],
+  "entity_resolution": {
+    "괴물": {
+      "description": "괴물 -> 괴물",
+      "resolved_name": "괴물",
+      "entity_type": "MOVIE",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "강두": {
+      "description": "강두 -> 박강두",
+      "resolved_name": "박강두",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "현서": {
+      "description": "현서 -> 박현서",
+      "resolved_name": "박현서",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "고모": {
+      "description": "고모 -> 고모",
+      "resolved_name": "고모",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "삼촌": {
+      "description": "삼촌 -> 박남일",
+      "resolved_name": "박남일",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "봉준호": {
+      "description": "봉준호 -> 봉준호",
+      "resolved_name": "봉준호",
+      "entity_type": "MOVIE_STAFF",
+      "matched": true,
+      "match_type": "name_exact"
+    }
+  }
+}

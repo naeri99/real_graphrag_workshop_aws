@@ -1,0 +1,102 @@
+{
+  "chunk_hash": "ee66e271a58750",
+  "chunk_id": "무드킹_ee66e271a58750_97621897",
+  "user_query": "in here [Music] what are you doing here what am i doing aren't you conducting not today no playing the drum i am it's what i do [Music] never said i was conducting that your mother said you were conducting and composing and doing your music it's percussion it suits me just fine but the drum it's low pressure and i enjoy it everybody said that you you had a talent you had a future truth is i was never quite good enough all that education and now you're disappointed i'm not disappointed but you obviously are no no it's not that i didn't say that nobody wants to employ me to do that professionally well i i guess i'm just saying it's never too late you could be it was going to have happened and would have happened by now well i thought we could spend a couple of days together i did i fly to europe this evening i'm sorry dad uh well i went to see david in new york was he still the same address i think so robert come on don't smoke anyway you used to smoke your mother made me stop too mom used to say make your dad proud it's not true i can feel it have your cigarette you need it now you know what i quit anyway you sounded good on the drums it's good it sounded very good thanks we don't see each other very often i i wasn't trying you just gave up smoking you're going to be a little edgy i'm sorry no i'm sorry hey i'm sorry that we couldn't spend more time together [Music] he arrives in vegas at ten tomorrow morning okay spend some time with him free tonight and tomorrow but i just",
+  "movie_id": "에브리바디스 파인",
+  "reviewer": "무드킹",
+  "chunk_index": 4,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "DAD",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "아버지 캐릭터로, 아들을 만나러 왔으며 아들이 지휘를 하고 작곡을 한다고 들었던 인물이다. 과거에 담배를 피웠으나 아내의 권유로 끊었다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "ROBERT",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "로버트는 드럼을 연주하는 인물로, 과거에 재능이 있다는 평가를 받았으나 전문 음악가로 고용되지 못했다. 오늘 저녁 유럽으로 떠날 예정이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "MOTHER",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "로버트의 어머니로, 아버지에게 담배를 끊게 했고 로버트에게 \"아버지를 자랑스럽게 해라\"라고 말했던 인물이다. 현재는 등장하지 않는다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "DAVID",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "데이빗은 뉴욕에 사는 인물로, 아버지가 방문했던 것으로 언급된다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "DAD",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "ROBERT",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "아버지와 아들 관계이며, 함께 시간을 보내려고 했으나 로버트가 유럽으로 떠나야 해서 아쉬워한다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "MOTHER",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "DAD",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "부부 관계로, 어머니가 아버지에게 담배를 끊게 했다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "MOTHER",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "ROBERT",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "어머니와 아들 관계로, 어머니는 로버트에게 아버지를 자랑스럽게 하라고 말했다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "DAD",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "DAVID",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "아버지가 뉴욕에서 데이빗을 만났다고 언급된다",
+      "relationship_strength": 5
+    }
+  ],
+  "entity_resolution": {
+    "DAD": {
+      "description": "DAD -> DAD",
+      "resolved_name": "DAD",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "ROBERT": {
+      "description": "ROBERT -> Robert",
+      "resolved_name": "Robert",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "MOTHER": {
+      "description": "MOTHER -> MOTHER",
+      "resolved_name": "MOTHER",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "DAVID": {
+      "description": "DAVID -> DAVID",
+      "resolved_name": "DAVID",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

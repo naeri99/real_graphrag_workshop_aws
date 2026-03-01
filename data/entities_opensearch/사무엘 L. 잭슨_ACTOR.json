@@ -1,0 +1,26 @@
+{
+  "entity": {
+    "name": "사무엘 L. 잭슨",
+    "synonym": [
+      "Jackson",
+      "Jackson's Star",
+      "Samuel L. Jackson",
+      "사무엘",
+      "사무엘 L. 잭슨",
+      "사무엘 잭슨",
+      "사무엘L잭슨",
+      "사무엘엘잭슨",
+      "사무엘잭슨",
+      "새뮤얼 L. 잭슨",
+      "새뮤얼 잭슨",
+      "샘 잭슨",
+      "잭슨",
+      "잭슨 행성",
+      "잭슨스타"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "사무엘 L. 잭슨은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

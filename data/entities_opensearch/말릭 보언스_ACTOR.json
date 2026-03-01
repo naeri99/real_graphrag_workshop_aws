@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "말릭 보언스",
+    "synonym": [
+      "Malick Bowens",
+      "말릭",
+      "말릭 보언스",
+      "말릭 보웬스",
+      "말릭보언스",
+      "말릭보웬스",
+      "보언스",
+      "보웬스"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "말릭 보언스은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

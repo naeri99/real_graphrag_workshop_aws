@@ -1,0 +1,17 @@
+{
+  "entity": {
+    "name": "나나",
+    "synonym": [
+      "Nana",
+      "나나",
+      "나나 우드콕",
+      "난나",
+      "내나",
+      "할머니"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "나나은 영화 '팬텀 스레드'의 등장인물로, 조안 브라운이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

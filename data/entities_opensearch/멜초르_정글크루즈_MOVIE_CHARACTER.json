@@ -1,0 +1,15 @@
+{
+  "entity": {
+    "name": "멜초르",
+    "synonym": [
+      "Melchor",
+      "멜초",
+      "멜초르",
+      "멜쵸르"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "멜초르은 영화 '정글크루즈'의 등장인물로, 쿠임 구티에레즈이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "봉준호",
+    "synonym": [
+      "Bong Joon Ho",
+      "Bong Joon-ho",
+      "Bong Joonho",
+      "Joon-ho Bong",
+      "봉 감독",
+      "봉 준호",
+      "봉감독",
+      "봉준 호",
+      "봉준호",
+      "봉준호 감독",
+      "준호"
+    ],
+    "entity_type": "MOVIE_STAFF",
+    "summary": "봉준호은 영화 감독입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

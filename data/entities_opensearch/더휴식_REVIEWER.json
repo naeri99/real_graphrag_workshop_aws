@@ -1,0 +1,12 @@
+{
+  "entity": {
+    "name": "더휴식",
+    "synonym": [
+      "더휴식"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "더휴식은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

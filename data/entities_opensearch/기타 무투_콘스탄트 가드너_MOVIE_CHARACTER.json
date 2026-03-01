@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "기타 무투",
+    "synonym": [
+      "Ghita Muthu",
+      "Ghita Mutu",
+      "Ghita Mutua",
+      "기따 무투",
+      "기타",
+      "기타 무투",
+      "기타무투",
+      "무투"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "기타 무투은 영화 '콘스탄트 가드너'의 등장인물로, 아치 판자비이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

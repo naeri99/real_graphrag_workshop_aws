@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "랜스 슬래시블레이드",
+    "synonym": [
+      "Lance",
+      "Lance Slashblade",
+      "랜스",
+      "랜스 슬래쉬블레이드",
+      "랜스 슬래시블레이드",
+      "랜스 캐릭터",
+      "랜스슬래시블레이드",
+      "슬래시블레이드"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "랜스 슬래시블레이드은 영화 '인사이드 아웃 2'의 등장인물로, 제임스 오스틴 존슨이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

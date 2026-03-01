@@ -1,0 +1,36 @@
+{
+  "chunk_hash": "5c2dec78d26c44",
+  "chunk_id": "유캔프리_UCANFREE_5c2dec78d26c44_c811e9e6",
+  "user_query": "that you'd sing no I was uh actually hoping that you'd sing no I was uh actually hoping that you'd sing no I was uh actually hoping that you'd sing oh you need to get out more oh you need to get out more oh you need to get out more oh you need to get out more oh you need to get out more you are a great songwriter you are a great songwriter you are a great songwriter you are a great songwriter you are a great songwriter and you need to let people see that it's an amazing gift and you need to let people see that it's an amazing gift and you need to let people see that it's an amazing gift and you need to let people see that it's an amazing gift and you need to let people see that it's an amazing gift [Music] oh God I am such a klutz oh God I am such a klutz oh God I am such a klutz you burnt yourself on the hand you burnt yourself on the hand you burnt yourself on the hand you burnt yourself on the hand you burnt yourself on the hand what is wrong with you Ian what is wrong with you Ian what is wrong with you Ian what is wrong with you Ian what is wrong with you I burn myself with that damn thing every other day I burn myself with that damn thing every other day I burned myself with that damn thing every other day I burned myself with that damn thing every other day I burned myself with that damn thing every other day what are you doing what are you doing what are you doing what are you doing what are you doing we always go that way we always go that way we always go that way",
+  "movie_id": "이프 온리",
+  "reviewer": "유캔프리_UCANFREE",
+  "chunk_index": 22,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "IAN",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "Ian은 대화에서 언급되는 인물로, 자주 화상을 입는 것으로 묘사된다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "IAN",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "IAN",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "Ian은 자신에 대해 언급되는 대화의 대상이다",
+      "relationship_strength": 3
+    }
+  ],
+  "entity_resolution": {
+    "IAN": {
+      "description": "IAN -> IAN",
+      "resolved_name": "IAN",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

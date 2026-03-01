@@ -1,0 +1,25 @@
+{
+  "entity": {
+    "name": "케빈 무어",
+    "synonym": [
+      "K. 무어",
+      "Kevin",
+      "Kevin Feige",
+      "Kevin Moor",
+      "Kevin Moore",
+      "무어",
+      "빡빡이 형",
+      "케빈",
+      "케빈 모어",
+      "케빈 무어",
+      "케빈 무어 배우",
+      "케빈무어",
+      "케빈파이기",
+      "파이기"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "케빈 무어은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

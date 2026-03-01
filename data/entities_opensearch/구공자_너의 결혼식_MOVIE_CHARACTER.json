@@ -1,0 +1,27 @@
+{
+  "entity": {
+    "name": "구공자",
+    "synonym": [
+      "Gong-ja",
+      "Gongjja",
+      "Goo Gong-ja",
+      "Gu Gong-ja",
+      "Gu Gongja",
+      "GuGongJa",
+      "Gugongja",
+      "고규필 캐릭터",
+      "공자",
+      "공자 역",
+      "공자 캐릭터",
+      "공자씨",
+      "공자야",
+      "공주",
+      "구 공자",
+      "구공자"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "구공자은 영화 '너의 결혼식'의 등장인물로, 고규필이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

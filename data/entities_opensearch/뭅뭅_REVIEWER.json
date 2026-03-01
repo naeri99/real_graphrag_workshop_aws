@@ -1,0 +1,12 @@
+{
+  "entity": {
+    "name": "뭅뭅",
+    "synonym": [
+      "뭅뭅"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "뭅뭅은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

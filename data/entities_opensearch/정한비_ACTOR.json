@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "정한비",
+    "synonym": [
+      "Jeong Hanbi",
+      "Jung Han Bi",
+      "Jung Han-bi",
+      "정 한비",
+      "정한비",
+      "정한비 배우",
+      "정한비 씨",
+      "정한비배우",
+      "정한비씨",
+      "정한삐",
+      "한비"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "정한비은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

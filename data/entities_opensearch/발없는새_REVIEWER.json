@@ -1,0 +1,12 @@
+{
+  "entity": {
+    "name": "발없는새",
+    "synonym": [
+      "발없는새"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "발없는새은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "chunk_hash": "64f45e1648f3bd",
+  "chunk_id": "무드킹_64f45e1648f3bd_8a581058",
+  "user_query": "yourself there It's going on in your life It's not working for my life BR I can't do it again We're just supposed to end it now so we don't have to end it later me bail on you ok What is that my touchdown money paying me to Break up I'm pretty Sure You're The One breaking up with me right now D safe [음악] that touch se the wi for coach the ara face Where's brenda broke [음악] up wi doesn't always Feel like Winning h Why is that it doesn't mean anything You don't have some to share with I thought you didn't like her I just saw too much myself her I didn't want you to [음악] makes Hello [음악] [음악] 갑작스러운 재난으로 브렌다의 부모님은 세상을 떠나고 그리고 얼마 뒤 마음을 추스른 브렌다는 집으로 돌아오고 [음악] something more what It's us I love you brenda You're not going let me finish Ladies and [음악] gent someone hand [음악] months and 16 Games It has come down to this chion storm against the IA [박수] barnstormer here the yard line they couldn't get it stm Are the Champions heck of a game for you Thank you but it didn't help us win I'm davidis we been trying to reach to comey uss while sry who you [음악] RS Come on I like him I don't It's arena football you think that will transl GM likes PR character translates any Mike this people I came here makes the team I like [음악] [박수] him you up How long you last not long enough two days Don't to comfortable F step and throw very nice excellent ball you know that dig is 15 in C Let me know If you need anything I'm to me you have you put in one waste everybody's time That's you let go see some",
+  "movie_id": "아메리칸 언더독",
+  "reviewer": "무드킹",
+  "chunk_index": 4,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "BRENDA",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "브렌다는 영화의 주요 인물로, 부모님을 재난으로 잃고 슬픔을 극복한 후 집으로 돌아오는 캐릭터이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "DAVID",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "데이비드는 영화 속 인물로, 주인공에게 연락을 시도하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "MIKE",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "마이크는 영화 속 인물로, 선수의 성격이 중요하다고 언급하는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "STORM",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "스톰은 챔피언십 경기에 출전하는 팀 또는 선수를 지칭한다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "IA BARNSTORMER",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "IA 반스토머는 챔피언십 경기에서 스톰과 대결하는 아레나 풋볼 팀이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "BRENDA",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "DAVID",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "데이비드는 브렌다에게 사랑을 고백하며 관계가 있는 인물이다",
+      "relationship_strength": 8
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "STORM",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "IA BARNSTORMER",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "스톰과 IA 반스토머는 챔피언십 경기에서 맞붙는 상대팀이다",
+      "relationship_strength": 9
+    }
+  ],
+  "entity_resolution": {
+    "BRENDA": {
+      "description": "BRENDA -> BRENDA",
+      "resolved_name": "BRENDA",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "DAVID": {
+      "description": "DAVID -> DAVID",
+      "resolved_name": "DAVID",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "MIKE": {
+      "description": "MIKE -> MIKE",
+      "resolved_name": "MIKE",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "STORM": {
+      "description": "STORM -> STORM",
+      "resolved_name": "STORM",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "IA BARNSTORMER": {
+      "description": "IA BARNSTORMER -> IA BARNSTORMER",
+      "resolved_name": "IA BARNSTORMER",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "entity": {
+    "name": "사건탐구_과거탐구_STGT",
+    "synonym": [
+      "사건탐구_과거탐구_STGT",
+      "사건탐구 과거탐구 STGT"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "사건탐구_과거탐구_STGT은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

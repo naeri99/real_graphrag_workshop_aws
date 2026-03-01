@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "Lydia Howland",
+    "synonym": [
+      "Lydia",
+      "Lydia Howland",
+      "리디아",
+      "리디아 하울랜드",
+      "리디아 하울런드",
+      "리디아하울랜드",
+      "리디아하울런드",
+      "막내딸 리디아",
+      "하울랜드"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "Lydia Howland은 영화 '스틸 앨리스'의 등장인물로, 크리스틴 스튜어트이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

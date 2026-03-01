@@ -1,0 +1,24 @@
+{
+  "entity": {
+    "name": "시드니 폴락",
+    "synonym": [
+      "Sidney",
+      "Sydney Pollack",
+      "시드니",
+      "시드니 폴락",
+      "시드니 폴락 감독",
+      "시드니 폴랙",
+      "시드니 폴록",
+      "시드니이",
+      "시드니폴락",
+      "씨드니",
+      "폴락",
+      "폴락 감독",
+      "폴랙"
+    ],
+    "entity_type": "MOVIE_STAFF",
+    "summary": "시드니 폴락은 영화 감독입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

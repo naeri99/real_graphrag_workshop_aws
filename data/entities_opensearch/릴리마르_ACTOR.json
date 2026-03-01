@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "릴리마르",
+    "synonym": [
+      "Liliimar",
+      "Lilimar",
+      "Lilimar Hernandez",
+      "Lilimarr",
+      "릴리",
+      "릴리 마",
+      "릴리 마르",
+      "릴리 마르 에르난데스",
+      "릴리마",
+      "릴리마르",
+      "릴리마르 에르난데스"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "릴리마르은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

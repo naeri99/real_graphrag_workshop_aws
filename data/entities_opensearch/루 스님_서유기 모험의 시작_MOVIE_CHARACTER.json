@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "루 스님",
+    "synonym": [
+      "Master Lu",
+      "노스님",
+      "노승",
+      "루 법사",
+      "루 사부",
+      "루 스님",
+      "루 승려",
+      "루사부",
+      "루스님",
+      "루승",
+      "스님 루"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "루 스님은 영화 '서유기 모험의 시작'의 등장인물로, 문페이페이이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

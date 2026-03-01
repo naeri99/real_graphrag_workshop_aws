@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "로빈",
+    "synonym": [
+      "Robin",
+      "Robyn",
+      "로번",
+      "로빈",
+      "로빈 칼럼",
+      "로빈 칼렘",
+      "로빈 칼먼",
+      "로빈 캘럼"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "로빈은 영화 '더 기프트'의 등장인물로, 레베카 홀이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

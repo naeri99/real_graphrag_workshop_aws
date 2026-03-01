@@ -1,0 +1,18 @@
+{
+  "entity": {
+    "name": "족장",
+    "synonym": [
+      "Chief",
+      "부족장",
+      "족장",
+      "촌장",
+      "추장",
+      "키쿠유 족장",
+      "키쿠유족 족장"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "족장은 영화 '아웃 오브 아프리카'의 등장인물로, 스티븐 킨얀주이이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

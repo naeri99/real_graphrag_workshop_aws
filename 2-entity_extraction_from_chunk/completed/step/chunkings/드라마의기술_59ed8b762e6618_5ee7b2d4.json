@@ -1,0 +1,102 @@
+{
+  "chunk_hash": "59ed8b762e6618",
+  "chunk_id": "드라마의기술_59ed8b762e6618_5ee7b2d4",
+  "user_query": "하는 사람이 됐다. 가족이었는데 다시 부부다. >> 송씨 할머니를 찾아온 만석. >> 아 깜짝 얼마 송씨 못 봤냐? >> 송씨 할머니 왜요? >> 물으면 대답이 날 것이지. 어린놈이 따지면 왜 따져? >> 군봉 할아버지 주차 관리실에 계시는 거 같은데 글씨 잘 쓰시네. 송씨가 장군봉과 함께 있는 모습에 기분이 언짢다. >> 많은게 송이쁜 씨 우리 집에 갔는데요. >> 왜 벌써 너놈 집에 들났거냐? >> 욕을 입에 달고 사네 그 >> 너놈은 욕을 알래서 그렇게 인기 폭발이냐? 자 합시다. 차 한잔합시다. >> 차 한잔합시다. 아 사태 심각성을 모르네. >> 팔란개잖아요. 아 잘 돈다. >> 아 커피 한잔 마셔야 이때 커피 한잔 먹기려고 누구한테 수작을 떠려고 그래. 이거 뭐야 내 이에도 누구한테지는 사람이 아니라고. 연배가 약간 비슷하다고 생각돼가 오물 말 없게 >> 이미 까든 말든 >> 그 사람 내 글 배우고 있다. >> 글 맨 번째 쓴 글자가 무슨 글자인지 아나? 김만석 석자다. 괜찮네. >> 자주 놀라시네요. >> 일찍 그랬구나. 오늘 송 씨 할머니 주민증 전해드리고 왔어요. 그래 >> 할아버지 송 씨 할머니 좋아하시죠? >> 이쁜이 할머니 좋아하시잖아요. >> 내가 그렇게 느껴졌단 말이야. 이쁜이 느낌도 그럴까? >> 당연하죠. >> 이런 이미 >> 가서 말씀하세요. >> 다 알면 뜬 거잖아. >> 아 그런 건 얘기해야 돼요. >> 왜 >> 그건 이쁜 할머니도 여자니까요. 그건 얘기하는 거랑 안 하는 거랑 엄청 달라요. >> 뭐라고 말을 해? >> 당신을 사랑합니다. >> 미쳤어. 당신을 사랑합니다 하고 고백하세요. >> 우리 나이에 당신은여 당신한테 당신이야. 무슨 말이냐면 말이다. 당신은 먼저가 너희 할머니한테만 쓴 말이야. 그 정도 예의는 지켜야 될 거 아니냐? >> 주민증 보니까 이쁜이 할머니 내일 생신이세요? >> 문득 먼저 간 부인 눈치가 보인다. >> 같이 좀 가요. 천천히 좀 갑시다. >> 아까 힘든다고 꿀을거려. 빨라빨라 따라와. 부인에게 무뚝뚝하게 대했던 지난 날이 떠오르는데 >> 다 드셨으면 나랑 밥상 좀 같이 들읍시다. >> 얘가 무거우면 뭐 하나씩 들어온기면 될 거 아니야. >> 어떻게 이 지경이 될 때까지 몰랐다는게 말이 돼요? >> 암세포가 그 지경까지 퍼졌다면 저것도 아프고 괴롭고 그래야만 하는 거 아니요? >> 많이 아팠을 겁니다. 아주 많이요? >> 여보, 나 우유 하나만 사 줘요. 당신이 직접 사오게요. >> 아 그럼 내가 가지 누가 가? 왜 안 돼? 이거 하는 마음만 막 자. 유제품은 절대 피해야 할 음식이라고요. >> 어떡하지? 우유가 당신한테는 안 좋다네. >> 평생 무뚝뚝한 양반이 옆에서 챙겨주니까? >> 나기나 해. 그간이 맨날 사 줄 테니까. >> 송씨 할머니한테 마음을 줘서 미안한 만석. >> 당신 괜찮겠어? >> 잠깐 들어가도 될까? 오늘 왜 안 나왔냐? 왜 안 물어봐? >> 이유가 있었겠죠? >> 안 기다렸어? >> 기다렸어요. >> 배 아프지? 꿈적 말고 거기 있어. >> 요란한",
+  "movie_id": "그대를사랑합니다",
+  "reviewer": "드라마의기술",
+  "chunk_index": 5,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "만석",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "만석은 송씨 할머니에게 마음을 품고 있는 남성 인물로, 먼저 세상을 떠난 부인에 대한 미안함을 느끼고 있다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "송씨 할머니",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "송씨 할머니는 이쁜이 할머니라고도 불리며, 만석이 마음을 품고 있는 여성 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "장군봉",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "장군봉(군봉 할아버지)은 주차 관리실에서 일하며 글씨를 잘 쓰는 인물로, 송씨 할머니와 함께 있어 만석의 기분을 언짢게 만든다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "만석의 부인",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "만석의 먼저 세상을 떠난 부인으로, 암으로 투병하다 사망했으며 만석이 무뚝뚝하게 대했던 것을 후회하고 있다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "만석",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "송씨 할머니",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "만석은 송씨 할머니에게 연정을 품고 있으며 그녀의 생일을 알게 된다",
+      "relationship_strength": 9
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "만석",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "장군봉",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "만석은 장군봉이 송씨 할머니와 함께 있는 것을 보고 질투심을 느낀다",
+      "relationship_strength": 7
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "장군봉",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "송씨 할머니",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "장군봉은 송씨 할머니에게 글을 가르쳐주고 있다",
+      "relationship_strength": 6
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "만석",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "만석의 부인",
+      "target_type": "MOVIE_CHARACTER",
+      "relationship_description": "만석은 먼저 세상을 떠난 부인에게 무뚝뚝하게 대했던 것을 후회하며, 송씨 할머니에게 마음을 주는 것에 대해 미안함을 느낀다",
+      "relationship_strength": 8
+    }
+  ],
+  "entity_resolution": {
+    "만석": {
+      "description": "만석 -> 김만석",
+      "resolved_name": "김만석",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "송씨 할머니": {
+      "description": "송씨 할머니 -> 송이뿐",
+      "resolved_name": "송이뿐",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "장군봉": {
+      "description": "장군봉 -> 장군봉",
+      "resolved_name": "장군봉",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": true,
+      "match_type": "name_exact"
+    },
+    "만석의 부인": {
+      "description": "만석의 부인 -> 만석의 부인",
+      "resolved_name": "만석의 부인",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

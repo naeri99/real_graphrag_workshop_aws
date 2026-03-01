@@ -1,0 +1,86 @@
+{
+  "chunk_hash": "587cb42f0d931e",
+  "chunk_id": "침착맨_587cb42f0d931e_c4c33e27",
+  "user_query": "군대거든 사실은 오펜하이머도 이제 군복을 입고 한단 말이야 군인이야 모든 과학자가 군인이야 징집한단 말이야 어떻게 잡으러 가야지 잡아가지고 또 안 치고 또 그 과학자들끼리 또 그 삼국지 6처럼 성향이 있어 가지고 성향 안 좋은 애들끼리 계속 충성도 깎여요 그렇게 해가지고 2년간 인생 갈고 뭐가 알고 돈 갈고 근데 그거 하고 나서 일본의 사망 몇십만 명 단위로 나오니까 진짜 무서워진 거지 사람이 이제 죽고 나니까 근데 왠지 진짜 무서울 것 같긴 해요 자기가 결정해 가지고 자기가 주장해 가지고 사람이 20만명 30만 명 순식간에 죽었어 근데 그 안에 군인만 있어 민간인이 엄청 많을 거 아니야 엄청난 죄의식을 느끼겠지 그 생각이 많이 들었을 것 같아 그래서 인터뷰한 거 영상도 막 보고 하면은 너무 미안해서 눈을 어떻게 둬야 될지 모르는 얼굴을 하고 있어요 실제로 그게 막 지어냈든 아니든 굉장히 그 심리적으로 맛이 간 느낌으로 얼이 빠져가지고 그래서고 내용을 놀란이라면 어떻게 재밌게 풀었을까 얼마나 재밌을까 요거를 영화에서 보시면 됩니다 놀란이 또 놀란이 아니고 그 오펜하이머가 아닌 그 오펜하이머가 힘든 순간이 옵니다 어떻게 흘러가게 될까 오펜하이머는 어떻게 될까 그래서 알쓸별잡 보니까 막 애초에 그렇게 빨리 개발할 수가 없는 무기라고 하시더라고요 일본은 개봉 왜 안 하냐고 이렇게 일본 개봉을 안 해요 일본에 우리나라 딱 8월 15일에 맞춰서 개봉하잖아요 의도한 거냐고요 의도하지 않았을까요 저는 뭐 관계자가 아니라서 모르겠지만",
+  "movie_id": "엘리멘탈",
+  "reviewer": "침착맨",
+  "chunk_index": 8,
+  "entities": [
+    {
+      "record_type": "entity",
+      "entity_name": "오펜하이머",
+      "entity_type": "MOVIE",
+      "entity_description": "오펜하이머는 크리스토퍼 놀란 감독이 연출한 영화로, 원자폭탄 개발과 그로 인한 죄의식을 다룬 작품이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "오펜하이머",
+      "entity_type": "MOVIE_CHARACTER",
+      "entity_description": "오펜하이머는 영화 속 주인공으로, 원자폭탄 개발을 주도한 과학자이며 수십만 명의 사망에 대한 죄의식으로 심리적 고통을 겪는 인물이다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "놀란",
+      "entity_type": "MOVIE_STAFF",
+      "entity_description": "놀란(크리스토퍼 놀란)은 오펜하이머를 연출한 감독으로, 무거운 주제를 재밌게 풀어내는 것으로 언급된다"
+    },
+    {
+      "record_type": "entity",
+      "entity_name": "알쓸별잡",
+      "entity_type": "REVIEWER",
+      "entity_description": "알쓸별잡은 오펜하이머 영화와 관련하여 원자폭탄 개발 속도에 대해 논평한 프로그램이다"
+    }
+  ],
+  "relationships": [
+    {
+      "record_type": "relationship",
+      "source_entity": "놀란",
+      "source_type": "MOVIE_STAFF",
+      "target_entity": "오펜하이머",
+      "target_type": "MOVIE",
+      "relationship_description": "놀란은 오펜하이머를 감독하여 무거운 주제를 재밌게 풀어냈다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "오펜하이머",
+      "source_type": "MOVIE_CHARACTER",
+      "target_entity": "오펜하이머",
+      "target_type": "MOVIE",
+      "relationship_description": "오펜하이머는 영화 오펜하이머의 주인공이다",
+      "relationship_strength": 10
+    },
+    {
+      "record_type": "relationship",
+      "source_entity": "알쓸별잡",
+      "source_type": "REVIEWER",
+      "target_entity": "오펜하이머",
+      "target_type": "MOVIE",
+      "relationship_description": "알쓸별잡은 오펜하이머 영화의 원자폭탄 개발 관련 내용에 대해 논평했다",
+      "relationship_strength": 6
+    }
+  ],
+  "entity_resolution": {
+    "오펜하이머": {
+      "description": "오펜하이머 -> 오펜하이머",
+      "resolved_name": "오펜하이머",
+      "entity_type": "MOVIE_CHARACTER",
+      "matched": false,
+      "match_type": "not_found"
+    },
+    "놀란": {
+      "description": "놀란 -> 크리스토퍼 놀란",
+      "resolved_name": "크리스토퍼 놀란",
+      "entity_type": "MOVIE_STAFF",
+      "matched": true,
+      "match_type": "synonym_exact"
+    },
+    "알쓸별잡": {
+      "description": "알쓸별잡 -> 알쓸별잡",
+      "resolved_name": "알쓸별잡",
+      "entity_type": "REVIEWER",
+      "matched": false,
+      "match_type": "not_found"
+    }
+  }
+}

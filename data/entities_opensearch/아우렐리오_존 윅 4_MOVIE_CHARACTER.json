@@ -1,0 +1,18 @@
+{
+  "entity": {
+    "name": "아우렐리오",
+    "synonym": [
+      "Aurelio",
+      "아우렐리오",
+      "아우렐리오 캐릭터",
+      "아우렐리우",
+      "아우렐리우스",
+      "오렐리오",
+      "정비사"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "아우렐리오은 영화 '존 윅 4'의 등장인물로, 존 레구이자모이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

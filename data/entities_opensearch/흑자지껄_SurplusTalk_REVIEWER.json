@@ -1,0 +1,13 @@
+{
+  "entity": {
+    "name": "흑자지껄_SurplusTalk",
+    "synonym": [
+      "흑자지껄_SurplusTalk",
+      "흑자지껄 SurplusTalk"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "흑자지껄_SurplusTalk은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

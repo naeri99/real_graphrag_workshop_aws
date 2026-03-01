@@ -1,0 +1,17 @@
+{
+  "entity": {
+    "name": "아담 볼드윈",
+    "synonym": [
+      "Adam Baldwin",
+      "볼드윈",
+      "아담",
+      "아담 볼드윈",
+      "아담볼드윈",
+      "애덤 볼드윈"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "아담 볼드윈은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

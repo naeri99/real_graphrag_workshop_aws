@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "이정",
+    "synonym": [
+      "Jing Li",
+      "Li Jing",
+      "리 징",
+      "리정",
+      "리징",
+      "이 정",
+      "이정",
+      "이정 배우",
+      "이정이"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "이정은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

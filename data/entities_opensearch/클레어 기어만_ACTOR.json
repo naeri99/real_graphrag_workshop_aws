@@ -1,0 +1,18 @@
+{
+  "entity": {
+    "name": "클레어 기어만",
+    "synonym": [
+      "Claire Geare",
+      "기어만",
+      "클레어",
+      "클레어 기어",
+      "클레어 기어만",
+      "클레어 기어맨",
+      "클레어기어만"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "클레어 기어만은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

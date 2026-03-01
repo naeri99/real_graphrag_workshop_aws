@@ -1,0 +1,82 @@
+{
+  "movie_title": "아웃 오브 아프리카",
+  "director": [
+    {
+      "name": "시드니 폴락",
+      "name_en": "Sydney Pollack"
+    }
+  ],
+  "cast": [
+    {
+      "actor": "메릴 스트립",
+      "actor_en": "Meryl Streep",
+      "character": "카렌 블릭센"
+    },
+    {
+      "actor": "로버트 레드포드",
+      "actor_en": "Robert Redford",
+      "character": "데니스 핀치 해튼"
+    },
+    {
+      "actor": "클라우스 마리아 브란다우어",
+      "actor_en": "Klaus Maria Brandauer",
+      "character": "브로"
+    },
+    {
+      "actor": "마이클 키친",
+      "actor_en": "Michael Kitchen",
+      "character": "버클리 콜"
+    },
+    {
+      "actor": "말릭 보언스",
+      "actor_en": "Malick Bowens",
+      "character": "파라"
+    },
+    {
+      "actor": "마이클 고프",
+      "actor_en": "Michael Gough",
+      "character": "델라메어 경"
+    },
+    {
+      "actor": "셰인 리머",
+      "actor_en": "Shane Rimmer",
+      "character": "벨크냅"
+    },
+    {
+      "actor": "수잔 해밀턴",
+      "actor_en": "Suzanna Hamilton",
+      "character": "펠리시티"
+    },
+    {
+      "actor": "레이첼 켐프슨",
+      "actor_en": "Rachel Kempson",
+      "character": "벨필드 부인"
+    },
+    {
+      "actor": "스티븐 킨얀주이",
+      "actor_en": "Stephen Kinyanjui",
+      "character": "족장"
+    },
+    {
+      "actor": "조셉 티에바",
+      "actor_en": "Joseph Thiaka",
+      "character": "카마우"
+    },
+    {
+      "actor": "마이클 하버드",
+      "actor_en": "Michael Havers",
+      "character": "총독"
+    },
+    {
+      "actor": "레슬리 필립스",
+      "actor_en": "Leslie Phillips",
+      "character": "크랜워스 경"
+    }
+  ],
+  "review": [
+    "./data/review/아웃 오브 아프리카/아웃 오브 아프리카_FvVzkTh8s_w.json",
+    "./data/review/아웃 오브 아프리카/아웃 오브 아프리카_VPgUunDHjpE.json",
+    "./data/review/아웃 오브 아프리카/아웃 오브 아프리카_hz_lsG7X_XE.json",
+    "./data/review/아웃 오브 아프리카/아웃 오브 아프리카_qZlCHuNE6Mw.json"
+  ]
+}

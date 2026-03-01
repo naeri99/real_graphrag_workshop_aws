@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "박성근",
+    "synonym": [
+      "Park Seong-geun",
+      "Park Seonggeun",
+      "Park Sung-geun",
+      "Sung-geun Park",
+      "박 성근",
+      "박성근",
+      "박성근 배우",
+      "배우 박성근",
+      "성근"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "박성근은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

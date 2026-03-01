@@ -1,0 +1,12 @@
+{
+  "entity": {
+    "name": "민호타우르스",
+    "synonym": [
+      "민호타우르스"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "민호타우르스은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "entity": {
+    "name": "콘스탄스",
+    "synonym": [
+      "Constance",
+      "Constance Webb",
+      "컨스턴스",
+      "콘스탄스",
+      "콘스탄스 웹",
+      "콘스턴스"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "콘스탄스은 영화 '마담 웹'의 등장인물로, 케리 비셰이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

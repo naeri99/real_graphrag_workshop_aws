@@ -1,0 +1,29 @@
+{
+  "entity": {
+    "name": "존 키팅",
+    "synonym": [
+      "Charles Keating",
+      "John Keating",
+      "Keating",
+      "Mr. Keating",
+      "선장님",
+      "오 캡틴 마이 캡틴",
+      "존 키딩",
+      "존 키팅",
+      "존 키팅 선생님",
+      "존키팅",
+      "찰스 키팅",
+      "찰스키팅",
+      "캡틴",
+      "키팅",
+      "키팅 선생",
+      "키팅 선생님",
+      "키팅선생",
+      "키팅선생님"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "존 키팅은 영화 '죽은 시인의 사회'의 등장인물로, 로빈 윌리엄스이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

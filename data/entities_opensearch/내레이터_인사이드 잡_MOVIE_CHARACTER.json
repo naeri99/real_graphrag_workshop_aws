@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "내레이터",
+    "synonym": [
+      "Narrator",
+      "나래이터",
+      "나레이션",
+      "나레이터",
+      "내래이터",
+      "내레이션",
+      "내레이터",
+      "해설자"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "내레이터은 영화 '인사이드 잡'의 등장인물로, 맷 데이먼이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

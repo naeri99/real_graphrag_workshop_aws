@@ -1,0 +1,21 @@
+{
+  "entity": {
+    "name": "마틴 도노반",
+    "synonym": [
+      "Donovan",
+      "M. 도노반",
+      "Martin Donovan",
+      "도노반",
+      "마틴 도너반",
+      "마틴 도너번",
+      "마틴 도노반",
+      "마틴 도노번",
+      "마틴도노반",
+      "마틴도노번"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "마틴 도노반은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

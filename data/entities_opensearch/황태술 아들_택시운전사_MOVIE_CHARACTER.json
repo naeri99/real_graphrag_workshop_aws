@@ -1,0 +1,25 @@
+{
+  "entity": {
+    "name": "황태술 아들",
+    "synonym": [
+      "Hwang's son",
+      "Tae-sul's son",
+      "꼬마",
+      "아들",
+      "태술 아들",
+      "태술 자식",
+      "태술네 아들",
+      "태술이 아들",
+      "황씨 아들",
+      "황태술 아들",
+      "황태술 아이",
+      "황태술 자녀",
+      "황태술 자식",
+      "황태술아들"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "황태술 아들은 영화 '택시운전사'의 등장인물로, 윤석호이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

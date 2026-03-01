@@ -1,0 +1,23 @@
+{
+  "entity": {
+    "name": "폴 토마스 앤더슨",
+    "synonym": [
+      "P.T. 앤더슨",
+      "PTA",
+      "Paul Anderson",
+      "Paul Thomas Anderson",
+      "앤더슨",
+      "앤더슨 감독",
+      "폴 앤더슨",
+      "폴 토마스 앤더슨",
+      "폴 토마스 앤더슨 감독",
+      "폴 토마스앤더슨",
+      "폴토마스앤더슨",
+      "피티에이"
+    ],
+    "entity_type": "MOVIE_STAFF",
+    "summary": "폴 토마스 앤더슨은 영화 감독입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

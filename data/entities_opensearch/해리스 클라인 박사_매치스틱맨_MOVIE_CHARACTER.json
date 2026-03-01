@@ -1,0 +1,22 @@
+{
+  "entity": {
+    "name": "해리스 클라인 박사",
+    "synonym": [
+      "Dr. Harris Klein",
+      "Harris Klein",
+      "닥터 클라인",
+      "클라인",
+      "클라인 박사",
+      "해리스",
+      "해리스 박사",
+      "해리스 클라인",
+      "해리스 클라인 박사",
+      "해리스클라인",
+      "해리스클라인박사"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "해리스 클라인 박사은 영화 '매치스틱맨'의 등장인물로, 브루스 알트만이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

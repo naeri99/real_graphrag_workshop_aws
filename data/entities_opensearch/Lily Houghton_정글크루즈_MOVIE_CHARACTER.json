@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "Lily Houghton",
+    "synonym": [
+      "Houghton",
+      "Lily",
+      "Lily Houghton",
+      "릴리",
+      "릴리 하우톤",
+      "릴리 호튼",
+      "릴리하우톤",
+      "릴리호튼",
+      "하우톤"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "Lily Houghton은 영화 '정글크루즈'의 등장인물로, 에밀리 블런트이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

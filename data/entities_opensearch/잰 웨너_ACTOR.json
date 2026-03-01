@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "잰 웨너",
+    "synonym": [
+      "Jann",
+      "Jann Wenner",
+      "얀 웨너",
+      "웨너",
+      "잔 웨너",
+      "잰",
+      "잰 웨너",
+      "잰웨너"
+    ],
+    "entity_type": "ACTOR",
+    "summary": "잰 웨너은 영화배우입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

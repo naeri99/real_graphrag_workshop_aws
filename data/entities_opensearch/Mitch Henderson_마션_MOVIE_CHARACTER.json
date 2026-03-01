@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "Mitch Henderson",
+    "synonym": [
+      "Henderson",
+      "Mitch",
+      "Mitch Henderson",
+      "미치",
+      "미치 핸더슨",
+      "미치 헨더슨",
+      "미치헨더슨",
+      "헨더슨"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "Mitch Henderson은 영화 '마션'의 등장인물로, 숀 빈이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

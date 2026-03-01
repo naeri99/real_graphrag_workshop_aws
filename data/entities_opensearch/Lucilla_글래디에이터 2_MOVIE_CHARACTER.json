@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "name": "Lucilla",
+    "synonym": [
+      "Lucilla",
+      "루시아",
+      "루시야",
+      "루실라",
+      "루실라 공주",
+      "루씰라",
+      "루치야",
+      "루킬라",
+      "어머니"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "Lucilla은 영화 '글래디에이터 2'의 등장인물로, 코니 닐슨이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "entity": {
+    "name": "영화잡학사전",
+    "synonym": [
+      "영화잡학사전"
+    ],
+    "entity_type": "REVIEWER",
+    "summary": "영화잡학사전은 영화 리뷰어입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}

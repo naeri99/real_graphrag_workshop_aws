@@ -1,0 +1,31 @@
+{
+  "movie_title": "효자동이발사",
+  "director": [
+    {
+      "name": "임찬상",
+      "name_en": "Lim Chan-sang"
+    }
+  ],
+  "cast": [
+    {
+      "actor": "송강호",
+      "actor_en": "Song Kang-ho",
+      "character": "성한모"
+    },
+    {
+      "actor": "이재응",
+      "actor_en": "Lee Jae-eung",
+      "character": "대통령"
+    },
+    {
+      "actor": "문소리",
+      "actor_en": "Moon So-ri",
+      "character": "김민자"
+    }
+  ],
+  "review": [
+    "./data/review/효자동이발사/효자동이발사_HnfAGBhsZ7c.json",
+    "./data/review/효자동이발사/효자동이발사_QzhgydNn6So.json",
+    "./data/review/효자동이발사/효자동이발사_pRdMq0DtWy8.json"
+  ]
+}

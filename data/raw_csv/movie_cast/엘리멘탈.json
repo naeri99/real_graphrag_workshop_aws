@@ -1,0 +1,99 @@
+{
+  "movie_title": "엘리멘탈",
+  "director": [
+    {
+      "name": "피터 손",
+      "name_en": "Peter Sohn"
+    }
+  ],
+  "cast": [
+    {
+      "actor": "리아 루이스",
+      "actor_en": "Leah Lewis",
+      "character": "엠버"
+    },
+    {
+      "actor": "마무두 아티",
+      "actor_en": "Mamoudou Athie",
+      "character": "웨이드"
+    },
+    {
+      "actor": "로니 델 카르멘",
+      "actor_en": "Ronnie Del Carmen",
+      "character": "버니"
+    },
+    {
+      "actor": "실라 오미",
+      "actor_en": "Shila Ommi",
+      "character": "신더"
+    },
+    {
+      "actor": "웬디 맥렌던 코비",
+      "actor_en": "Wendi McLendon-Covey",
+      "character": "게일"
+    },
+    {
+      "actor": "캐서린 오하라",
+      "actor_en": "Catherine O'Hara",
+      "character": "브룩"
+    },
+    {
+      "actor": "메이슨 베르타이머",
+      "actor_en": "Mason Wertheimer",
+      "character": "클로드"
+    },
+    {
+      "actor": "조 페라",
+      "actor_en": "Joe Pera",
+      "character": "펀"
+    },
+    {
+      "actor": "매튜 양 킹",
+      "actor_en": "Matthew Yang King",
+      "character": "아빠 터스킹턴"
+    },
+    {
+      "actor": "사샤 나이트",
+      "actor_en": "Sasha Knight",
+      "character": "올리 징글후브스"
+    },
+    {
+      "actor": "잭 호프만",
+      "actor_en": "Jack Hoffman",
+      "character": "알란"
+    },
+    {
+      "actor": "벤 모리스",
+      "actor_en": "Ben Morris",
+      "character": "해롤드"
+    },
+    {
+      "actor": "제프 피지온",
+      "actor_en": "Jeff Pidgeon",
+      "character": "어스 관리자"
+    },
+    {
+      "actor": "클라라 브라보",
+      "actor_en": "Clara Bravo",
+      "character": "페르난도"
+    },
+    {
+      "actor": "로날드 라이트",
+      "actor_en": "Ronald Wright",
+      "character": "어스 관리자 2"
+    },
+    {
+      "actor": "피터 손",
+      "actor_en": "Peter Sohn",
+      "character": "어스 관리자 3"
+    }
+  ],
+  "review": [
+    "./data/review/엘리멘탈/엘리멘탈_4S8AQxJFJGU.json",
+    "./data/review/엘리멘탈/엘리멘탈_JR4Xwx-GWkE.json",
+    "./data/review/엘리멘탈/엘리멘탈_WmQbX85i-L4.json",
+    "./data/review/엘리멘탈/엘리멘탈_Xxky5cpsEuc.json",
+    "./data/review/엘리멘탈/엘리멘탈_YTZL-4OciYk.json",
+    "./data/review/엘리멘탈/엘리멘탈_feyaQ2PW2o4.json"
+  ]
+}

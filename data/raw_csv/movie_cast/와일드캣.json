@@ -1,0 +1,42 @@
+{
+  "movie_title": "와일드캣",
+  "director": [
+    {
+      "name": "조나단 W. 스톡스",
+      "name_en": "Jonathan W. Stokes"
+    }
+  ],
+  "cast": [
+    {
+      "actor": "이브라힘 렌노",
+      "actor_en": "Ibrahim Renno",
+      "character": "잘랄"
+    },
+    {
+      "actor": "알리 올로미",
+      "actor_en": "Ali Olomi",
+      "character": "사이프"
+    },
+    {
+      "actor": "치도 느워코차",
+      "actor_en": "Chido Nwokocha",
+      "character": "아담"
+    },
+    {
+      "actor": "아론 카베트",
+      "actor_en": "Aaron Cavette",
+      "character": "빈스"
+    },
+    {
+      "actor": "파룩 아미레",
+      "actor_en": "Faruk Amireh",
+      "character": "아미르"
+    }
+  ],
+  "review": [
+    "./data/review/와일드캣/와일드캣_CMG6Ho54qnM.json",
+    "./data/review/와일드캣/와일드캣_L7fyPRfZTTM.json",
+    "./data/review/와일드캣/와일드캣_STb7jxqfo1c.json",
+    "./data/review/와일드캣/와일드캣_tjuqCR_YEWk.json"
+  ]
+}

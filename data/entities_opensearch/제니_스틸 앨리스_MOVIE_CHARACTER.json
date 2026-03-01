@@ -1,0 +1,19 @@
+{
+  "entity": {
+    "name": "제니",
+    "synonym": [
+      "Jeni",
+      "Jennie",
+      "Jenny",
+      "Jeny",
+      "재니",
+      "제니",
+      "제니퍼",
+      "젠니"
+    ],
+    "entity_type": "MOVIE_CHARACTER",
+    "summary": "제니은 영화 '스틸 앨리스'의 등장인물로, 에린 다크이 연기한 캐릭터입니다.",
+    "summary_vec": null,
+    "neptune_id": null
+  }
+}
